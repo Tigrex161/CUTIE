@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "Item",
+            "id": 1,
+            "bbox": [
+                165,
+                529,
+                202,
+                546
+            ]
+        },
+        {
+            "text": "No.:",
+            "id": 2,
+            "bbox": [
+                209,
+                532,
+                243,
+                547
+            ]
+        },
+        {
+            "text": "902447",
+            "id": 3,
+            "bbox": [
+                285,
+                533,
+                347,
+                548
+            ]
+        },
+        {
+            "text": "813985038124",
+            "id": 4,
+            "bbox": [
+                165,
+                553,
+                292,
+                572
+            ]
+        },
+        {
+            "text": "213.00",
+            "id": 5,
+            "bbox": [
+                496,
+                560,
+                551,
+                574
+            ]
+        },
+        {
+            "text": "Item/",
+            "id": 6,
+            "bbox": [
+                165,
+                480,
+                225,
+                499
+            ]
+        },
+        {
+            "text": "Amount/duas",
+            "id": 7,
+            "bbox": [
+                456,
+                487,
+                550,
+                506
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item",
+                "No.:",
+                "902447",
+                "813985038124",
+                "213.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item/",
+                "Amount/duas"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/167.jpg"
+    }
+}

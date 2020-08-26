@@ -1,0 +1,135 @@
+{
+    "text_boxes": [
+        {
+            "text": "HEROD",
+            "id": 1,
+            "bbox": [
+                67,
+                2522,
+                273,
+                2571
+            ]
+        },
+        {
+            "text": "125ml",
+            "id": 2,
+            "bbox": [
+                297,
+                2517,
+                457,
+                2563
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 3,
+            "bbox": [
+                481,
+                2512,
+                597,
+                2557
+            ]
+        },
+        {
+            "text": "SPRAY",
+            "id": 4,
+            "bbox": [
+                618,
+                2504,
+                817,
+                2553
+            ]
+        },
+        {
+            "text": "1",
+            "id": 5,
+            "bbox": [
+                894,
+                2496,
+                929,
+                2552
+            ]
+        },
+        {
+            "text": "AED1050.00",
+            "id": 6,
+            "bbox": [
+                971,
+                2488,
+                1306,
+                2541
+            ]
+        },
+        {
+            "text": "Items",
+            "id": 7,
+            "bbox": [
+                66,
+                2438,
+                216,
+                2483
+            ]
+        },
+        {
+            "text": "#:",
+            "id": 8,
+            "bbox": [
+                886,
+                2413,
+                913,
+                2454
+            ]
+        },
+        {
+            "text": "Price",
+            "id": 9,
+            "bbox": [
+                1162,
+                2400,
+                1307,
+                2443
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HEROD",
+                "125ml",
+                "EDP",
+                "SPRAY",
+                "1",
+                "AED1050.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Items",
+                "#:",
+                "Price"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/475.jpg"
+    }
+}

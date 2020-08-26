@@ -1,0 +1,90 @@
+{
+    "text_boxes": [
+        {
+            "text": "ETISALAT",
+            "id": 1,
+            "bbox": [
+                140,
+                717,
+                239,
+                736
+            ]
+        },
+        {
+            "text": "E",
+            "id": 2,
+            "bbox": [
+                255,
+                716,
+                265,
+                734
+            ]
+        },
+        {
+            "text": "VOUCHER",
+            "id": 3,
+            "bbox": [
+                281,
+                716,
+                365,
+                735
+            ]
+        },
+        {
+            "text": "1",
+            "id": 4,
+            "bbox": [
+                381,
+                717,
+                388,
+                734
+            ]
+        },
+        {
+            "text": "110.00",
+            "id": 5,
+            "bbox": [
+                516,
+                715,
+                587,
+                734
+            ]
+        },
+        {
+            "text": "E",
+            "id": 6,
+            "bbox": [
+                601,
+                714,
+                612,
+                733
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ETISALAT",
+                "E",
+                "VOUCHER",
+                "1",
+                "110.00",
+                "E"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/189.jpg"
+    }
+}

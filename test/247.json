@@ -1,0 +1,99 @@
+{
+    "text_boxes": [
+        {
+            "text": "1.100.00",
+            "id": 1,
+            "bbox": [
+                395,
+                448,
+                424,
+                455
+            ]
+        },
+        {
+            "text": "1.00",
+            "id": 2,
+            "bbox": [
+                433,
+                447,
+                462,
+                455
+            ]
+        },
+        {
+            "text": "MG",
+            "id": 3,
+            "bbox": [
+                256,
+                459,
+                274,
+                466
+            ]
+        },
+        {
+            "text": "N",
+            "id": 4,
+            "bbox": [
+                305,
+                459,
+                324,
+                467
+            ]
+        },
+        {
+            "text": "ET",
+            "id": 5,
+            "bbox": [
+                330,
+                459,
+                350,
+                467
+            ]
+        },
+        {
+            "text": "PKICK",
+            "id": 6,
+            "bbox": [
+                402,
+                408,
+                419,
+                415
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.100.00",
+                "1.00",
+                "MG",
+                "N",
+                "ET"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PKICK"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/247.jpg"
+    }
+}

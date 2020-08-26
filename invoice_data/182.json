@@ -1,0 +1,123 @@
+{
+    "text_boxes": [
+        {
+            "text": "Description/es",
+            "id": 1,
+            "bbox": [
+                219,
+                518,
+                320,
+                531
+            ]
+        },
+        {
+            "text": "Amount/ts",
+            "id": 2,
+            "bbox": [
+                366,
+                511,
+                434,
+                529
+            ]
+        },
+        {
+            "text": "THE",
+            "id": 3,
+            "bbox": [
+                220,
+                568,
+                238,
+                579
+            ]
+        },
+        {
+            "text": "GRAND",
+            "id": 4,
+            "bbox": [
+                247,
+                566,
+                279,
+                579
+            ]
+        },
+        {
+            "text": "DOLL",
+            "id": 5,
+            "bbox": [
+                288,
+                566,
+                313,
+                579
+            ]
+        },
+        {
+            "text": "HOUSE",
+            "id": 6,
+            "bbox": [
+                321,
+                565,
+                353,
+                578
+            ]
+        },
+        {
+            "text": "943.95",
+            "id": 7,
+            "bbox": [
+                428,
+                563,
+                465,
+                575
+            ]
+        },
+        {
+            "text": "VA",
+            "id": 8,
+            "bbox": [
+                473,
+                563,
+                485,
+                574
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "THE",
+                "GRAND",
+                "DOLL",
+                "HOUSE",
+                "943.95",
+                "VA"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description/es",
+                "Amount/ts"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/182.jpg"
+    }
+}

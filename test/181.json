@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "00",
+            "id": 1,
+            "bbox": [
+                443,
+                394,
+                454,
+                402
+            ]
+        },
+        {
+            "text": "Rel-",
+            "id": 2,
+            "bbox": [
+                251,
+                416,
+                283,
+                425
+            ]
+        },
+        {
+            "text": "A",
+            "id": 3,
+            "bbox": [
+                289,
+                416,
+                293,
+                423
+            ]
+        },
+        {
+            "text": "weeks",
+            "id": 4,
+            "bbox": [
+                298,
+                413,
+                327,
+                425
+            ]
+        },
+        {
+            "text": "Iem",
+            "id": 5,
+            "bbox": [
+                251,
+                352,
+                273,
+                363
+            ]
+        },
+        {
+            "text": "Quantlty",
+            "id": 6,
+            "bbox": [
+                345,
+                346,
+                390,
+                357
+            ]
+        },
+        {
+            "text": "Price",
+            "id": 7,
+            "bbox": [
+                400,
+                349,
+                428,
+                361
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "00",
+                "Rel-",
+                "A",
+                "weeks"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Iem",
+                "Quantlty",
+                "Price"
+            ],
+            "value_id": [
+                5,
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/181.jpg"
+    }
+}

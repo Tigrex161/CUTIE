@@ -1,0 +1,159 @@
+{
+    "text_boxes": [
+        {
+            "text": "Desoription",
+            "id": 1,
+            "bbox": [
+                98,
+                506,
+                222,
+                524
+            ]
+        },
+        {
+            "text": "Up/TAX",
+            "id": 2,
+            "bbox": [
+                379,
+                491,
+                452,
+                512
+            ]
+        },
+        {
+            "text": "Amount/Disc",
+            "id": 3,
+            "bbox": [
+                464,
+                484,
+                605,
+                508
+            ]
+        },
+        {
+            "text": "BAOS",
+            "id": 4,
+            "bbox": [
+                88,
+                583,
+                132,
+                599
+            ]
+        },
+        {
+            "text": "GUCCI",
+            "id": 5,
+            "bbox": [
+                146,
+                583,
+                201,
+                599
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 6,
+            "bbox": [
+                219,
+                581,
+                252,
+                598
+            ]
+        },
+        {
+            "text": ",600,00",
+            "id": 7,
+            "bbox": [
+                357,
+                577,
+                450,
+                597
+            ]
+        },
+        {
+            "text": "8,600.00",
+            "id": 8,
+            "bbox": [
+                504,
+                572,
+                606,
+                597
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                99,
+                613,
+                123,
+                630
+            ]
+        },
+        {
+            "text": "*",
+            "id": 10,
+            "bbox": [
+                133,
+                610,
+                147,
+                632
+            ]
+        },
+        {
+            "text": "900905974",
+            "id": 11,
+            "bbox": [
+                146,
+                610,
+                250,
+                630
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BAOS",
+                "GUCCI",
+                "SKU",
+                ",600,00",
+                "8,600.00",
+                "1",
+                "*",
+                "900905974"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Desoription",
+                "Up/TAX",
+                "Amount/Disc"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/411.jpg"
+    }
+}

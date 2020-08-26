@@ -1,0 +1,135 @@
+{
+    "text_boxes": [
+        {
+            "text": "1",
+            "id": 1,
+            "bbox": [
+                159,
+                336,
+                171,
+                353
+            ]
+        },
+        {
+            "text": "ASFU-T6F4N-3093",
+            "id": 2,
+            "bbox": [
+                172,
+                336,
+                285,
+                358
+            ]
+        },
+        {
+            "text": "10",
+            "id": 3,
+            "bbox": [
+                298,
+                346,
+                310,
+                357
+            ]
+        },
+        {
+            "text": "1",
+            "id": 4,
+            "bbox": [
+                361,
+                351,
+                363,
+                361
+            ]
+        },
+        {
+            "text": "299.00",
+            "id": 5,
+            "bbox": [
+                415,
+                349,
+                460,
+                359
+            ]
+        },
+        {
+            "text": "No.",
+            "id": 6,
+            "bbox": [
+                139,
+                296,
+                177,
+                311
+            ]
+        },
+        {
+            "text": "DESCRIPTION",
+            "id": 7,
+            "bbox": [
+                176,
+                299,
+                263,
+                315
+            ]
+        },
+        {
+            "text": "OTY",
+            "id": 8,
+            "bbox": [
+                350,
+                310,
+                371,
+                320
+            ]
+        },
+        {
+            "text": "AMOUNT",
+            "id": 9,
+            "bbox": [
+                412,
+                310,
+                455,
+                320
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "ASFU-T6F4N-3093",
+                "10",
+                "1",
+                "299.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "No.",
+                "DESCRIPTION",
+                "OTY",
+                "AMOUNT"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/78.jpg"
+    }
+}

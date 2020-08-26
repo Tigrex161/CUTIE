@@ -1,0 +1,138 @@
+{
+    "text_boxes": [
+        {
+            "text": "1",
+            "id": 1,
+            "bbox": [
+                286,
+                443,
+                298,
+                461
+            ]
+        },
+        {
+            "text": "Beef",
+            "id": 2,
+            "bbox": [
+                298,
+                445,
+                331,
+                462
+            ]
+        },
+        {
+            "text": "Shawarma",
+            "id": 3,
+            "bbox": [
+                342,
+                448,
+                410,
+                466
+            ]
+        },
+        {
+            "text": "Rice",
+            "id": 4,
+            "bbox": [
+                419,
+                450,
+                452,
+                467
+            ]
+        },
+        {
+            "text": "85.00",
+            "id": 5,
+            "bbox": [
+                575,
+                450,
+                617,
+                465
+            ]
+        },
+        {
+            "text": "1",
+            "id": 6,
+            "bbox": [
+                285,
+                504,
+                298,
+                522
+            ]
+        },
+        {
+            "text": "Somewhere",
+            "id": 7,
+            "bbox": [
+                297,
+                505,
+                375,
+                525
+            ]
+        },
+        {
+            "text": "cocktail",
+            "id": 8,
+            "bbox": [
+                384,
+                510,
+                451,
+                528
+            ]
+        },
+        {
+            "text": "Passion",
+            "id": 9,
+            "bbox": [
+                296,
+                527,
+                357,
+                545
+            ]
+        },
+        {
+            "text": "37.00",
+            "id": 10,
+            "bbox": [
+                574,
+                536,
+                616,
+                549
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "Beef",
+                "Shawarma",
+                "Rice",
+                "85.00",
+                "1",
+                "Somewhere",
+                "cocktail",
+                "Passion",
+                "37.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/579.jpg"
+    }
+}

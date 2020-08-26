@@ -1,0 +1,66 @@
+{
+    "text_boxes": [
+        {
+            "text": "56.00",
+            "id": 1,
+            "bbox": [
+                566,
+                564,
+                632,
+                587
+            ]
+        },
+        {
+            "text": "Iced",
+            "id": 2,
+            "bbox": [
+                193,
+                598,
+                243,
+                620
+            ]
+        },
+        {
+            "text": "10.00",
+            "id": 3,
+            "bbox": [
+                569,
+                630,
+                632,
+                653
+            ]
+        },
+        {
+            "text": "45.00",
+            "id": 4,
+            "bbox": [
+                567,
+                663,
+                633,
+                687
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "56.00",
+                "Iced",
+                "10.00",
+                "45.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/115.jpg"
+    }
+}

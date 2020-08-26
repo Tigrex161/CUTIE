@@ -1,0 +1,123 @@
+{
+    "text_boxes": [
+        {
+            "text": "25,730.00",
+            "id": 1,
+            "bbox": [
+                382,
+                435,
+                434,
+                448
+            ]
+        },
+        {
+            "text": "FLAPBAG",
+            "id": 2,
+            "bbox": [
+                119,
+                432,
+                171,
+                441
+            ]
+        },
+        {
+            "text": "UNI",
+            "id": 3,
+            "bbox": [
+                317,
+                435,
+                334,
+                443
+            ]
+        },
+        {
+            "text": "25,730.00",
+            "id": 4,
+            "bbox": [
+                548,
+                434,
+                597,
+                443
+            ]
+        },
+        {
+            "text": "A0111ZY01588C3906",
+            "id": 5,
+            "bbox": [
+                121,
+                448,
+                220,
+                455
+            ]
+        },
+        {
+            "text": "Reference",
+            "id": 6,
+            "bbox": [
+                121,
+                418,
+                171,
+                427
+            ]
+        },
+        {
+            "text": "Size",
+            "id": 7,
+            "bbox": [
+                315,
+                420,
+                337,
+                429
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 8,
+            "bbox": [
+                559,
+                418,
+                601,
+                426
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25,730.00",
+                "FLAPBAG",
+                "UNI",
+                "25,730.00",
+                "A0111ZY01588C3906"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Reference",
+                "Size",
+                "Amount"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/333.jpg"
+    }
+}

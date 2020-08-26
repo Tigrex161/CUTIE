@@ -1,0 +1,147 @@
+{
+    "text_boxes": [
+        {
+            "text": "Honey",
+            "id": 1,
+            "bbox": [
+                190,
+                650,
+                227,
+                665
+            ]
+        },
+        {
+            "text": "Pudding",
+            "id": 2,
+            "bbox": [
+                236,
+                648,
+                290,
+                664
+            ]
+        },
+        {
+            "text": "4",
+            "id": 3,
+            "bbox": [
+                213,
+                669,
+                219,
+                682
+            ]
+        },
+        {
+            "text": "pcs",
+            "id": 4,
+            "bbox": [
+                228,
+                671,
+                250,
+                684
+            ]
+        },
+        {
+            "text": "@",
+            "id": 5,
+            "bbox": [
+                260,
+                669,
+                266,
+                682
+            ]
+        },
+        {
+            "text": "59.00",
+            "id": 6,
+            "bbox": [
+                275,
+                667,
+                313,
+                681
+            ]
+        },
+        {
+            "text": "236.00",
+            "id": 7,
+            "bbox": [
+                435,
+                665,
+                480,
+                678
+            ]
+        },
+        {
+            "text": "A",
+            "id": 8,
+            "bbox": [
+                498,
+                666,
+                504,
+                678
+            ]
+        },
+        {
+            "text": "Description",
+            "id": 9,
+            "bbox": [
+                191,
+                591,
+                275,
+                608
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 10,
+            "bbox": [
+                434,
+                585,
+                479,
+                600
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Honey",
+                "Pudding",
+                "4",
+                "pcs",
+                "@",
+                "59.00",
+                "236.00",
+                "A"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description",
+                "Amount"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/332.jpg"
+    }
+}

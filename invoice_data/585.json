@@ -1,0 +1,123 @@
+{
+    "text_boxes": [
+        {
+            "text": "Flexfit",
+            "id": 1,
+            "bbox": [
+                122,
+                859,
+                216,
+                885
+            ]
+        },
+        {
+            "text": "110",
+            "id": 2,
+            "bbox": [
+                230,
+                858,
+                278,
+                882
+            ]
+        },
+        {
+            "text": "White",
+            "id": 3,
+            "bbox": [
+                291,
+                856,
+                397,
+                882
+            ]
+        },
+        {
+            "text": "AED",
+            "id": 4,
+            "bbox": [
+                466,
+                853,
+                532,
+                878
+            ]
+        },
+        {
+            "text": "105.00",
+            "id": 5,
+            "bbox": [
+                545,
+                852,
+                640,
+                877
+            ]
+        },
+        {
+            "text": "OS",
+            "id": 6,
+            "bbox": [
+                122,
+                899,
+                160,
+                923
+            ]
+        },
+        {
+            "text": "Item",
+            "id": 7,
+            "bbox": [
+                121,
+                795,
+                184,
+                819
+            ]
+        },
+        {
+            "text": "Price",
+            "id": 8,
+            "bbox": [
+                564,
+                788,
+                639,
+                811
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Flexfit",
+                "110",
+                "White",
+                "AED",
+                "105.00",
+                "OS"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item",
+                "Price"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/585.jpg"
+    }
+}

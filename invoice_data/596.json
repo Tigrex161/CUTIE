@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "Cassandra",
+            "id": 1,
+            "bbox": [
+                200,
+                507,
+                273,
+                523
+            ]
+        },
+        {
+            "text": "Choco",
+            "id": 2,
+            "bbox": [
+                282,
+                506,
+                333,
+                525
+            ]
+        },
+        {
+            "text": "sq",
+            "id": 3,
+            "bbox": [
+                336,
+                507,
+                356,
+                526
+            ]
+        },
+        {
+            "text": "M",
+            "id": 4,
+            "bbox": [
+                356,
+                510,
+                363,
+                523
+            ]
+        },
+        {
+            "text": "w",
+            "id": 5,
+            "bbox": [
+                372,
+                512,
+                379,
+                522
+            ]
+        },
+        {
+            "text": "125.00",
+            "id": 6,
+            "bbox": [
+                454,
+                504,
+                500,
+                520
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 7,
+            "bbox": [
+                473,
+                467,
+                518,
+                481
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Cassandra",
+                "Choco",
+                "sq",
+                "M",
+                "w",
+                "125.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Amount"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/596.jpg"
+    }
+}

@@ -1,0 +1,147 @@
+{
+    "text_boxes": [
+        {
+            "text": "1",
+            "id": 1,
+            "bbox": [
+                320,
+                629,
+                330,
+                642
+            ]
+        },
+        {
+            "text": "Mix",
+            "id": 2,
+            "bbox": [
+                326,
+                629,
+                357,
+                641
+            ]
+        },
+        {
+            "text": "of",
+            "id": 3,
+            "bbox": [
+                370,
+                630,
+                388,
+                640
+            ]
+        },
+        {
+            "text": "Freshch\u1ecdc",
+            "id": 4,
+            "bbox": [
+                402,
+                628,
+                496,
+                640
+            ]
+        },
+        {
+            "text": "220.88",
+            "id": 5,
+            "bbox": [
+                530,
+                627,
+                592,
+                638
+            ]
+        },
+        {
+            "text": "Qty",
+            "id": 6,
+            "bbox": [
+                275,
+                555,
+                305,
+                568
+            ]
+        },
+        {
+            "text": "Description",
+            "id": 7,
+            "bbox": [
+                337,
+                553,
+                451,
+                566
+            ]
+        },
+        {
+            "text": "Total",
+            "id": 8,
+            "bbox": [
+                476,
+                551,
+                525,
+                562
+            ]
+        },
+        {
+            "text": "(Inc.",
+            "id": 9,
+            "bbox": [
+                533,
+                547,
+                590,
+                561
+            ]
+        },
+        {
+            "text": "VAT)",
+            "id": 10,
+            "bbox": [
+                592,
+                547,
+                620,
+                560
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "Mix",
+                "of",
+                "Freshch\u1ecdc",
+                "220.88"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Qty",
+                "Description",
+                "Total",
+                "(Inc.",
+                "VAT)"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/17.jpg"
+    }
+}

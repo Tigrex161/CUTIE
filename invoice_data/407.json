@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "Deaption",
+            "id": 1,
+            "bbox": [
+                269,
+                639,
+                341,
+                652
+            ]
+        },
+        {
+            "text": "tIOM",
+            "id": 2,
+            "bbox": [
+                385,
+                642,
+                411,
+                653
+            ]
+        },
+        {
+            "text": "Qty",
+            "id": 3,
+            "bbox": [
+                421,
+                643,
+                438,
+                652
+            ]
+        },
+        {
+            "text": "AOunt",
+            "id": 4,
+            "bbox": [
+                466,
+                641,
+                503,
+                649
+            ]
+        },
+        {
+            "text": "20",
+            "id": 5,
+            "bbox": [
+                264,
+                707,
+                289,
+                719
+            ]
+        },
+        {
+            "text": "Fre",
+            "id": 6,
+            "bbox": [
+                293,
+                708,
+                315,
+                720
+            ]
+        },
+        {
+            "text": "arvAng",
+            "id": 7,
+            "bbox": [
+                317,
+                708,
+                367,
+                721
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20",
+                "Fre",
+                "arvAng"
+            ],
+            "value_id": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Deaption",
+                "tIOM",
+                "Qty",
+                "AOunt"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/407.jpg"
+    }
+}

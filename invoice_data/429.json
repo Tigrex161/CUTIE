@@ -1,0 +1,147 @@
+{
+    "text_boxes": [
+        {
+            "text": "KD-SKSM185PSBCA",
+            "id": 1,
+            "bbox": [
+                125,
+                682,
+                284,
+                699
+            ]
+        },
+        {
+            "text": "EA",
+            "id": 2,
+            "bbox": [
+                385,
+                683,
+                405,
+                695
+            ]
+        },
+        {
+            "text": "Artisan",
+            "id": 3,
+            "bbox": [
+                122,
+                714,
+                195,
+                728
+            ]
+        },
+        {
+            "text": "Stand",
+            "id": 4,
+            "bbox": [
+                210,
+                713,
+                261,
+                726
+            ]
+        },
+        {
+            "text": "Mixer",
+            "id": 5,
+            "bbox": [
+                274,
+                713,
+                324,
+                726
+            ]
+        },
+        {
+            "text": "3,199.00",
+            "id": 6,
+            "bbox": [
+                432,
+                710,
+                518,
+                726
+            ]
+        },
+        {
+            "text": "Desoription",
+            "id": 7,
+            "bbox": [
+                136,
+                605,
+                246,
+                623
+            ]
+        },
+        {
+            "text": "UOM",
+            "id": 8,
+            "bbox": [
+                324,
+                602,
+                353,
+                614
+            ]
+        },
+        {
+            "text": "Qty",
+            "id": 9,
+            "bbox": [
+                376,
+                602,
+                406,
+                616
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 10,
+            "bbox": [
+                451,
+                597,
+                515,
+                608
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "KD-SKSM185PSBCA",
+                "EA",
+                "Artisan",
+                "Stand",
+                "Mixer",
+                "3,199.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Desoription",
+                "UOM",
+                "Qty",
+                "Amount"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/429.jpg"
+    }
+}

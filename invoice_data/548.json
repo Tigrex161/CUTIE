@@ -1,0 +1,78 @@
+{
+    "text_boxes": [
+        {
+            "text": "1",
+            "id": 1,
+            "bbox": [
+                135,
+                701,
+                150,
+                722
+            ]
+        },
+        {
+            "text": "WALNUT",
+            "id": 2,
+            "bbox": [
+                146,
+                704,
+                215,
+                720
+            ]
+        },
+        {
+            "text": "KERNEL",
+            "id": 3,
+            "bbox": [
+                231,
+                705,
+                300,
+                722
+            ]
+        },
+        {
+            "text": "EXTRA",
+            "id": 4,
+            "bbox": [
+                315,
+                706,
+                371,
+                722
+            ]
+        },
+        {
+            "text": "174.85",
+            "id": 5,
+            "bbox": [
+                540,
+                708,
+                604,
+                724
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "WALNUT",
+                "KERNEL",
+                "EXTRA",
+                "174.85"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/548.jpg"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "text_boxes": [
+        {
+            "text": "1",
+            "id": 1,
+            "bbox": [
+                351,
+                494,
+                376,
+                508
+            ]
+        },
+        {
+            "text": "0",
+            "id": 2,
+            "bbox": [
+                378,
+                495,
+                380,
+                508
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "0"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/642.jpg"
+    }
+}

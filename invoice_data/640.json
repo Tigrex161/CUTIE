@@ -1,0 +1,99 @@
+{
+    "text_boxes": [
+        {
+            "text": "LCW-0S7173Z8-C44-46",
+            "id": 1,
+            "bbox": [
+                236,
+                600,
+                376,
+                617
+            ]
+        },
+        {
+            "text": "8681387238297",
+            "id": 2,
+            "bbox": [
+                269,
+                624,
+                392,
+                645
+            ]
+        },
+        {
+            "text": "109.00",
+            "id": 3,
+            "bbox": [
+                553,
+                629,
+                603,
+                643
+            ]
+        },
+        {
+            "text": "Description",
+            "id": 4,
+            "bbox": [
+                236,
+                553,
+                335,
+                576
+            ]
+        },
+        {
+            "text": "Qty",
+            "id": 5,
+            "bbox": [
+                466,
+                560,
+                496,
+                578
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 6,
+            "bbox": [
+                533,
+                561,
+                602,
+                578
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LCW-0S7173Z8-C44-46",
+                "8681387238297",
+                "109.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description",
+                "Qty",
+                "Amount"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/640.jpg"
+    }
+}

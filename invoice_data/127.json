@@ -1,0 +1,135 @@
+{
+    "text_boxes": [
+        {
+            "text": "Description",
+            "id": 1,
+            "bbox": [
+                199,
+                555,
+                283,
+                568
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 2,
+            "bbox": [
+                434,
+                547,
+                475,
+                558
+            ]
+        },
+        {
+            "text": "Item",
+            "id": 3,
+            "bbox": [
+                202,
+                602,
+                232,
+                614
+            ]
+        },
+        {
+            "text": "STAN",
+            "id": 4,
+            "bbox": [
+                202,
+                616,
+                234,
+                630
+            ]
+        },
+        {
+            "text": "SMITH",
+            "id": 5,
+            "bbox": [
+                240,
+                615,
+                279,
+                628
+            ]
+        },
+        {
+            "text": "CF",
+            "id": 6,
+            "bbox": [
+                288,
+                613,
+                302,
+                625
+            ]
+        },
+        {
+            "text": "I",
+            "id": 7,
+            "bbox": [
+                312,
+                613,
+                317,
+                624
+            ]
+        },
+        {
+            "text": "239.00",
+            "id": 8,
+            "bbox": [
+                437,
+                604,
+                479,
+                618
+            ]
+        },
+        {
+            "text": "A",
+            "id": 9,
+            "bbox": [
+                494,
+                605,
+                500,
+                615
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item",
+                "STAN",
+                "SMITH",
+                "CF",
+                "I",
+                "239.00",
+                "A"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description",
+                "Amount"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/127.jpg"
+    }
+}

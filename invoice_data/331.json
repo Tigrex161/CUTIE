@@ -1,0 +1,66 @@
+{
+    "text_boxes": [
+        {
+            "text": "V11",
+            "id": 1,
+            "bbox": [
+                243,
+                764,
+                263,
+                777
+            ]
+        },
+        {
+            "text": "Absolute",
+            "id": 2,
+            "bbox": [
+                274,
+                762,
+                335,
+                778
+            ]
+        },
+        {
+            "text": "1",
+            "id": 3,
+            "bbox": [
+                378,
+                763,
+                381,
+                774
+            ]
+        },
+        {
+            "text": "2,665.71",
+            "id": 4,
+            "bbox": [
+                416,
+                761,
+                475,
+                776
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "V11",
+                "Absolute",
+                "1",
+                "2,665.71"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/331.jpg"
+    }
+}

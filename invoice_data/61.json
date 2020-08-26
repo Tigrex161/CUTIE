@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "Item",
+            "id": 1,
+            "bbox": [
+                174,
+                793,
+                210,
+                807
+            ]
+        },
+        {
+            "text": "Price",
+            "id": 2,
+            "bbox": [
+                513,
+                790,
+                559,
+                805
+            ]
+        },
+        {
+            "text": "Tea",
+            "id": 3,
+            "bbox": [
+                172,
+                822,
+                201,
+                835
+            ]
+        },
+        {
+            "text": "to",
+            "id": 4,
+            "bbox": [
+                208,
+                823,
+                224,
+                835
+            ]
+        },
+        {
+            "text": "tan",
+            "id": 5,
+            "bbox": [
+                231,
+                823,
+                258,
+                835
+            ]
+        },
+        {
+            "text": "face",
+            "id": 6,
+            "bbox": [
+                264,
+                821,
+                301,
+                835
+            ]
+        },
+        {
+            "text": "and",
+            "id": 7,
+            "bbox": [
+                308,
+                820,
+                339,
+                834
+            ]
+        },
+        {
+            "text": "body",
+            "id": 8,
+            "bbox": [
+                345,
+                820,
+                389,
+                836
+            ]
+        },
+        {
+            "text": "Summer",
+            "id": 9,
+            "bbox": [
+                172,
+                844,
+                245,
+                861
+            ]
+        },
+        {
+            "text": "Bronze",
+            "id": 10,
+            "bbox": [
+                252,
+                844,
+                313,
+                860
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                440,
+                833,
+                446,
+                845
+            ]
+        },
+        {
+            "text": "AED309.00",
+            "id": 12,
+            "bbox": [
+                465,
+                829,
+                559,
+                845
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Tea",
+                "to",
+                "tan",
+                "face",
+                "and",
+                "body",
+                "Summer",
+                "Bronze",
+                "1",
+                "AED309.00"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item",
+                "Price"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/61.jpg"
+    }
+}

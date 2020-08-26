@@ -1,0 +1,54 @@
+{
+    "text_boxes": [
+        {
+            "text": "213412444",
+            "id": 1,
+            "bbox": [
+                155,
+                475,
+                230,
+                490
+            ]
+        },
+        {
+            "text": "10",
+            "id": 2,
+            "bbox": [
+                326,
+                478,
+                348,
+                489
+            ]
+        },
+        {
+            "text": "435.00",
+            "id": 3,
+            "bbox": [
+                391,
+                477,
+                440,
+                491
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "213412444",
+                "10",
+                "435.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/352.jpg"
+    }
+}

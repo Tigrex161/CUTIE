@@ -1,0 +1,135 @@
+{
+    "text_boxes": [
+        {
+            "text": "UNI",
+            "id": 1,
+            "bbox": [
+                324,
+                529,
+                342,
+                537
+            ]
+        },
+        {
+            "text": "4,230.00",
+            "id": 2,
+            "bbox": [
+                412,
+                527,
+                461,
+                538
+            ]
+        },
+        {
+            "text": "A82545B01481C3906",
+            "id": 3,
+            "bbox": [
+                90,
+                544,
+                209,
+                554
+            ]
+        },
+        {
+            "text": "Size",
+            "id": 4,
+            "bbox": [
+                321,
+                510,
+                346,
+                520
+            ]
+        },
+        {
+            "text": "Qty",
+            "id": 5,
+            "bbox": [
+                359,
+                510,
+                379,
+                522
+            ]
+        },
+        {
+            "text": "Unit",
+            "id": 6,
+            "bbox": [
+                401,
+                509,
+                426,
+                519
+            ]
+        },
+        {
+            "text": "price",
+            "id": 7,
+            "bbox": [
+                430,
+                509,
+                459,
+                522
+            ]
+        },
+        {
+            "text": "Reference",
+            "id": 8,
+            "bbox": [
+                89,
+                510,
+                149,
+                518
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 9,
+            "bbox": [
+                610,
+                508,
+                657,
+                520
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "UNI",
+                "4,230.00",
+                "A82545B01481C3906"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Size",
+                "Qty",
+                "Unit",
+                "price",
+                "Reference",
+                "Amount"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/275.jpg"
+    }
+}

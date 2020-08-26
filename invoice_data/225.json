@@ -1,0 +1,147 @@
+{
+    "text_boxes": [
+        {
+            "text": "DESCRIPTION",
+            "id": 1,
+            "bbox": [
+                70,
+                828,
+                235,
+                852
+            ]
+        },
+        {
+            "text": "QTY",
+            "id": 2,
+            "bbox": [
+                536,
+                827,
+                587,
+                851
+            ]
+        },
+        {
+            "text": "AMOUNT",
+            "id": 3,
+            "bbox": [
+                621,
+                825,
+                737,
+                850
+            ]
+        },
+        {
+            "text": "1.00",
+            "id": 4,
+            "bbox": [
+                542,
+                861,
+                589,
+                881
+            ]
+        },
+        {
+            "text": "Special",
+            "id": 5,
+            "bbox": [
+                36,
+                868,
+                115,
+                896
+            ]
+        },
+        {
+            "text": "Flowers",
+            "id": 6,
+            "bbox": [
+                124,
+                866,
+                210,
+                891
+            ]
+        },
+        {
+            "text": "\u0623\u0632\u0647\u0627\u0631",
+            "id": 7,
+            "bbox": [
+                91,
+                905,
+                135,
+                928
+            ]
+        },
+        {
+            "text": "\u0645 \u0645\u064a\u0632\u0629",
+            "id": 8,
+            "bbox": [
+                35,
+                908,
+                80,
+                929
+            ]
+        },
+        {
+            "text": "2019MDF03",
+            "id": 9,
+            "bbox": [
+                34,
+                931,
+                169,
+                953
+            ]
+        },
+        {
+            "text": "300.00",
+            "id": 10,
+            "bbox": [
+                664,
+                859,
+                740,
+                880
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00",
+                "Special",
+                "Flowers",
+                "\u0623\u0632\u0647\u0627\u0631",
+                "\u0645 \u0645\u064a\u0632\u0629",
+                "2019MDF03",
+                "300.00"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DESCRIPTION",
+                "QTY",
+                "AMOUNT"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/225.jpg"
+    }
+}

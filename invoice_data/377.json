@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "95.00",
+            "id": 1,
+            "bbox": [
+                435,
+                498,
+                467,
+                509
+            ]
+        },
+        {
+            "text": "786478",
+            "id": 2,
+            "bbox": [
+                148,
+                504,
+                193,
+                515
+            ]
+        },
+        {
+            "text": "BOTANICAL",
+            "id": 3,
+            "bbox": [
+                268,
+                517,
+                346,
+                530
+            ]
+        },
+        {
+            "text": "NAPKINS",
+            "id": 4,
+            "bbox": [
+                269,
+                534,
+                326,
+                545
+            ]
+        },
+        {
+            "text": "2PC",
+            "id": 5,
+            "bbox": [
+                332,
+                532,
+                356,
+                543
+            ]
+        },
+        {
+            "text": "45X45CM",
+            "id": 6,
+            "bbox": [
+                268,
+                549,
+                326,
+                560
+            ]
+        },
+        {
+            "text": "04STYO05652",
+            "id": 7,
+            "bbox": [
+                270,
+                563,
+                354,
+                574
+            ]
+        },
+        {
+            "text": "Item",
+            "id": 8,
+            "bbox": [
+                146,
+                471,
+                172,
+                483
+            ]
+        },
+        {
+            "text": "4",
+            "id": 9,
+            "bbox": [
+                176,
+                473,
+                187,
+                483
+            ]
+        },
+        {
+            "text": "Description",
+            "id": 10,
+            "bbox": [
+                266,
+                468,
+                340,
+                485
+            ]
+        },
+        {
+            "text": "as",
+            "id": 11,
+            "bbox": [
+                345,
+                469,
+                370,
+                482
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 12,
+            "bbox": [
+                398,
+                467,
+                447,
+                479
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "95.00",
+                "786478",
+                "BOTANICAL",
+                "NAPKINS",
+                "2PC",
+                "45X45CM",
+                "04STYO05652"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item",
+                "4",
+                "Description",
+                "as",
+                "Amount"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/377.jpg"
+    }
+}

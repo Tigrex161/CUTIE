@@ -1,0 +1,54 @@
+{
+    "text_boxes": [
+        {
+            "text": "CIGARETTE",
+            "id": 1,
+            "bbox": [
+                277,
+                507,
+                338,
+                520
+            ]
+        },
+        {
+            "text": "220.00",
+            "id": 2,
+            "bbox": [
+                424,
+                501,
+                465,
+                515
+            ]
+        },
+        {
+            "text": "V",
+            "id": 3,
+            "bbox": [
+                475,
+                501,
+                480,
+                512
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CIGARETTE",
+                "220.00",
+                "V"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/216.jpg"
+    }
+}

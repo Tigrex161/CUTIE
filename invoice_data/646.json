@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "135.00",
+            "id": 1,
+            "bbox": [
+                533,
+                828,
+                625,
+                854
+            ]
+        },
+        {
+            "text": "Wrapped",
+            "id": 2,
+            "bbox": [
+                47,
+                824,
+                154,
+                853
+            ]
+        },
+        {
+            "text": "Segai",
+            "id": 3,
+            "bbox": [
+                171,
+                825,
+                242,
+                855
+            ]
+        },
+        {
+            "text": "PL",
+            "id": 4,
+            "bbox": [
+                263,
+                826,
+                291,
+                852
+            ]
+        },
+        {
+            "text": "kg",
+            "id": 5,
+            "bbox": [
+                309,
+                825,
+                338,
+                855
+            ]
+        },
+        {
+            "text": "Description",
+            "id": 6,
+            "bbox": [
+                98,
+                753,
+                262,
+                784
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 7,
+            "bbox": [
+                572,
+                752,
+                665,
+                780
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "135.00",
+                "Wrapped",
+                "Segai",
+                "PL",
+                "kg"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description",
+                "Amount"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/646.jpg"
+    }
+}

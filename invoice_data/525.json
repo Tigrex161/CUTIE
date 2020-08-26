@@ -1,0 +1,159 @@
+{
+    "text_boxes": [
+        {
+            "text": "549.00",
+            "id": 1,
+            "bbox": [
+                509,
+                474,
+                561,
+                491
+            ]
+        },
+        {
+            "text": "549.00",
+            "id": 2,
+            "bbox": [
+                600,
+                474,
+                653,
+                490
+            ]
+        },
+        {
+            "text": "EAX8X007-E593",
+            "id": 3,
+            "bbox": [
+                170,
+                475,
+                283,
+                496
+            ]
+        },
+        {
+            "text": "SNEAKER-BLACK+GUNMETAL",
+            "id": 4,
+            "bbox": [
+                170,
+                494,
+                363,
+                512
+            ]
+        },
+        {
+            "text": "8.5",
+            "id": 5,
+            "bbox": [
+                365,
+                475,
+                391,
+                493
+            ]
+        },
+        {
+            "text": "1",
+            "id": 6,
+            "bbox": [
+                456,
+                476,
+                459,
+                491
+            ]
+        },
+        {
+            "text": "ITEM",
+            "id": 7,
+            "bbox": [
+                174,
+                417,
+                205,
+                439
+            ]
+        },
+        {
+            "text": "Size",
+            "id": 8,
+            "bbox": [
+                366,
+                418,
+                400,
+                437
+            ]
+        },
+        {
+            "text": "QTY",
+            "id": 9,
+            "bbox": [
+                446,
+                416,
+                471,
+                438
+            ]
+        },
+        {
+            "text": "PRICE",
+            "id": 10,
+            "bbox": [
+                510,
+                414,
+                553,
+                435
+            ]
+        },
+        {
+            "text": "TOTAL",
+            "id": 11,
+            "bbox": [
+                610,
+                413,
+                653,
+                431
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "549.00",
+                "549.00",
+                "EAX8X007-E593",
+                "SNEAKER-BLACK+GUNMETAL",
+                "8.5",
+                "1"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ITEM",
+                "Size",
+                "QTY",
+                "PRICE",
+                "TOTAL"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/525.jpg"
+    }
+}

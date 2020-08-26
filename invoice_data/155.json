@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "DESCRIPTION",
+            "id": 1,
+            "bbox": [
+                141,
+                465,
+                255,
+                480
+            ]
+        },
+        {
+            "text": "QTY",
+            "id": 2,
+            "bbox": [
+                457,
+                472,
+                485,
+                485
+            ]
+        },
+        {
+            "text": "PRICE",
+            "id": 3,
+            "bbox": [
+                573,
+                471,
+                625,
+                483
+            ]
+        },
+        {
+            "text": "FBRAZI",
+            "id": 4,
+            "bbox": [
+                140,
+                527,
+                199,
+                539
+            ]
+        },
+        {
+            "text": ":Full",
+            "id": 5,
+            "bbox": [
+                208,
+                529,
+                251,
+                541
+            ]
+        },
+        {
+            "text": "Braz\u0131lian",
+            "id": 6,
+            "bbox": [
+                277,
+                532,
+                368,
+                544
+            ]
+        },
+        {
+            "text": "138.10",
+            "id": 7,
+            "bbox": [
+                562,
+                534,
+                623,
+                545
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FBRAZI",
+                ":Full",
+                "Braz\u0131lian",
+                "138.10"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DESCRIPTION",
+                "QTY",
+                "PRICE"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/155.jpg"
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "text_boxes": [
+        {
+            "text": "1",
+            "id": 1,
+            "bbox": [
+                226,
+                552,
+                245,
+                581
+            ]
+        },
+        {
+            "text": "ChewyMelt",
+            "id": 2,
+            "bbox": [
+                244,
+                557,
+                340,
+                580
+            ]
+        },
+        {
+            "text": "120",
+            "id": 3,
+            "bbox": [
+                357,
+                560,
+                386,
+                579
+            ]
+        },
+        {
+            "text": "BX",
+            "id": 4,
+            "bbox": [
+                399,
+                560,
+                418,
+                578
+            ]
+        },
+        {
+            "text": "158.00",
+            "id": 5,
+            "bbox": [
+                544,
+                549,
+                608,
+                573
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "ChewyMelt",
+                "120",
+                "BX",
+                "158.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/389.jpg"
+    }
+}

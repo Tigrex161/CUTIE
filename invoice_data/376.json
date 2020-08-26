@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "148.50",
+            "id": 1,
+            "bbox": [
+                552,
+                328,
+                607,
+                347
+            ]
+        },
+        {
+            "text": "Waxing-",
+            "id": 2,
+            "bbox": [
+                264,
+                344,
+                332,
+                363
+            ]
+        },
+        {
+            "text": "Brazilian",
+            "id": 3,
+            "bbox": [
+                264,
+                368,
+                336,
+                384
+            ]
+        },
+        {
+            "text": "Item",
+            "id": 4,
+            "bbox": [
+                262,
+                251,
+                299,
+                271
+            ]
+        },
+        {
+            "text": "a",
+            "id": 5,
+            "bbox": [
+                308,
+                255,
+                325,
+                268
+            ]
+        },
+        {
+            "text": "unntity",
+            "id": 6,
+            "bbox": [
+                440,
+                246,
+                499,
+                268
+            ]
+        },
+        {
+            "text": "Price",
+            "id": 7,
+            "bbox": [
+                511,
+                259,
+                555,
+                275
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "148.50",
+                "Waxing-",
+                "Brazilian"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item",
+                "a",
+                "unntity",
+                "Price"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/376.jpg"
+    }
+}

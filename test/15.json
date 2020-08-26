@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "adi",
+            "id": 1,
+            "bbox": [
+                243,
+                940,
+                282,
+                963
+            ]
+        },
+        {
+            "text": "das",
+            "id": 2,
+            "bbox": [
+                292,
+                940,
+                337,
+                964
+            ]
+        },
+        {
+            "text": "SLEEK",
+            "id": 3,
+            "bbox": [
+                357,
+                940,
+                435,
+                963
+            ]
+        },
+        {
+            "text": "W",
+            "id": 4,
+            "bbox": [
+                454,
+                940,
+                467,
+                963
+            ]
+        },
+        {
+            "text": "255.00",
+            "id": 5,
+            "bbox": [
+                743,
+                939,
+                838,
+                962
+            ]
+        },
+        {
+            "text": "A",
+            "id": 6,
+            "bbox": [
+                873,
+                939,
+                886,
+                962
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 7,
+            "bbox": [
+                746,
+                808,
+                841,
+                834
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "adi",
+                "das",
+                "SLEEK",
+                "W",
+                "255.00",
+                "A"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Amount"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/15.jpg"
+    }
+}

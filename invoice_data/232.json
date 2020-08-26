@@ -1,0 +1,66 @@
+{
+    "text_boxes": [
+        {
+            "text": "1",
+            "id": 1,
+            "bbox": [
+                168,
+                674,
+                171,
+                690
+            ]
+        },
+        {
+            "text": "Insalata",
+            "id": 2,
+            "bbox": [
+                187,
+                673,
+                266,
+                690
+            ]
+        },
+        {
+            "text": "Di",
+            "id": 3,
+            "bbox": [
+                279,
+                673,
+                295,
+                690
+            ]
+        },
+        {
+            "text": "59.00",
+            "id": 4,
+            "bbox": [
+                458,
+                671,
+                511,
+                689
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "Insalata",
+                "Di",
+                "59.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/232.jpg"
+    }
+}

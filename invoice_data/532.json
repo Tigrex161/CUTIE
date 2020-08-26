@@ -1,0 +1,147 @@
+{
+    "text_boxes": [
+        {
+            "text": "A038352",
+            "id": 1,
+            "bbox": [
+                151,
+                644,
+                227,
+                661
+            ]
+        },
+        {
+            "text": "T-SHIRTS",
+            "id": 2,
+            "bbox": [
+                241,
+                644,
+                328,
+                661
+            ]
+        },
+        {
+            "text": "1",
+            "id": 3,
+            "bbox": [
+                376,
+                645,
+                382,
+                660
+            ]
+        },
+        {
+            "text": "285",
+            "id": 4,
+            "bbox": [
+                565,
+                643,
+                597,
+                660
+            ]
+        },
+        {
+            "text": "DESC",
+            "id": 5,
+            "bbox": [
+                238,
+                554,
+                282,
+                571
+            ]
+        },
+        {
+            "text": "ITEM",
+            "id": 6,
+            "bbox": [
+                149,
+                554,
+                192,
+                572
+            ]
+        },
+        {
+            "text": "QTY",
+            "id": 7,
+            "bbox": [
+                340,
+                554,
+                371,
+                570
+            ]
+        },
+        {
+            "text": "DIS%",
+            "id": 8,
+            "bbox": [
+                396,
+                554,
+                439,
+                570
+            ]
+        },
+        {
+            "text": "VAT%",
+            "id": 9,
+            "bbox": [
+                464,
+                554,
+                507,
+                569
+            ]
+        },
+        {
+            "text": "AED",
+            "id": 10,
+            "bbox": [
+                566,
+                553,
+                598,
+                570
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A038352",
+                "T-SHIRTS",
+                "1",
+                "285"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DESC",
+                "ITEM",
+                "QTY",
+                "DIS%",
+                "VAT%",
+                "AED"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/532.jpg"
+    }
+}

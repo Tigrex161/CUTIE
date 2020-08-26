@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "Qty",
+            "id": 1,
+            "bbox": [
+                296,
+                373,
+                316,
+                384
+            ]
+        },
+        {
+            "text": "Pr\u00edce",
+            "id": 2,
+            "bbox": [
+                337,
+                371,
+                373,
+                385
+            ]
+        },
+        {
+            "text": "Disc",
+            "id": 3,
+            "bbox": [
+                388,
+                367,
+                429,
+                385
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 4,
+            "bbox": [
+                431,
+                366,
+                471,
+                383
+            ]
+        },
+        {
+            "text": "Product",
+            "id": 5,
+            "bbox": [
+                181,
+                373,
+                232,
+                384
+            ]
+        },
+        {
+            "text": "1",
+            "id": 6,
+            "bbox": [
+                323,
+                411,
+                331,
+                426
+            ]
+        },
+        {
+            "text": "PELLICCIA",
+            "id": 7,
+            "bbox": [
+                183,
+                432,
+                233,
+                441
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "PELLICCIA"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Qty",
+                "Pr\u00edce",
+                "Disc",
+                "Amount",
+                "Product"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/153.jpg"
+    }
+}

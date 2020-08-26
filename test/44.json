@@ -1,0 +1,183 @@
+{
+    "text_boxes": [
+        {
+            "text": "PB",
+            "id": 1,
+            "bbox": [
+                162,
+                778,
+                178,
+                791
+            ]
+        },
+        {
+            "text": "LINKS",
+            "id": 2,
+            "bbox": [
+                183,
+                779,
+                221,
+                792
+            ]
+        },
+        {
+            "text": "OBJECTBRONZESMALL",
+            "id": 3,
+            "bbox": [
+                227,
+                780,
+                385,
+                799
+            ]
+        },
+        {
+            "text": "(5%",
+            "id": 4,
+            "bbox": [
+                160,
+                819,
+                187,
+                836
+            ]
+        },
+        {
+            "text": "VAT)",
+            "id": 5,
+            "bbox": [
+                193,
+                819,
+                229,
+                838
+            ]
+        },
+        {
+            "text": "PF8477557",
+            "id": 6,
+            "bbox": [
+                161,
+                839,
+                229,
+                855
+            ]
+        },
+        {
+            "text": "1.0",
+            "id": 7,
+            "bbox": [
+                388,
+                849,
+                405,
+                862
+            ]
+        },
+        {
+            "text": "225.00",
+            "id": 8,
+            "bbox": [
+                471,
+                852,
+                516,
+                870
+            ]
+        },
+        {
+            "text": "Invoice",
+            "id": 9,
+            "bbox": [
+                162,
+                745,
+                203,
+                760
+            ]
+        },
+        {
+            "text": "Detail",
+            "id": 10,
+            "bbox": [
+                210,
+                747,
+                242,
+                761
+            ]
+        },
+        {
+            "text": "|5",
+            "id": 11,
+            "bbox": [
+                249,
+                745,
+                263,
+                763
+            ]
+        },
+        {
+            "text": "Jali",
+            "id": 12,
+            "bbox": [
+                303,
+                748,
+                341,
+                763
+            ]
+        },
+        {
+            "text": "AED",
+            "id": 13,
+            "bbox": [
+                486,
+                752,
+                514,
+                765
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PB",
+                "LINKS",
+                "OBJECTBRONZESMALL",
+                "(5%",
+                "VAT)",
+                "PF8477557",
+                "1.0",
+                "225.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Invoice",
+                "Detail",
+                "|5",
+                "Jali",
+                "AED"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/44.jpg"
+    }
+}

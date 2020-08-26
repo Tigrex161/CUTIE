@@ -1,0 +1,159 @@
+{
+    "text_boxes": [
+        {
+            "text": "Barcode:",
+            "id": 1,
+            "bbox": [
+                244,
+                484,
+                305,
+                504
+            ]
+        },
+        {
+            "text": "HADORO",
+            "id": 2,
+            "bbox": [
+                243,
+                505,
+                291,
+                522
+            ]
+        },
+        {
+            "text": "IPHN",
+            "id": 3,
+            "bbox": [
+                300,
+                507,
+                330,
+                523
+            ]
+        },
+        {
+            "text": "11",
+            "id": 4,
+            "bbox": [
+                341,
+                509,
+                352,
+                522
+            ]
+        },
+        {
+            "text": "PRO",
+            "id": 5,
+            "bbox": [
+                362,
+                509,
+                385,
+                524
+            ]
+        },
+        {
+            "text": "M",
+            "id": 6,
+            "bbox": [
+                394,
+                511,
+                401,
+                524
+            ]
+        },
+        {
+            "text": "3701355900706",
+            "id": 7,
+            "bbox": [
+                418,
+                491,
+                519,
+                509
+            ]
+        },
+        {
+            "text": "26,100.00",
+            "id": 8,
+            "bbox": [
+                465,
+                513,
+                534,
+                528
+            ]
+        },
+        {
+            "text": "VA",
+            "id": 9,
+            "bbox": [
+                544,
+                515,
+                557,
+                528
+            ]
+        },
+        {
+            "text": "Description/",
+            "id": 10,
+            "bbox": [
+                244,
+                445,
+                339,
+                467
+            ]
+        },
+        {
+            "text": "Amount/",
+            "id": 11,
+            "bbox": [
+                482,
+                454,
+                536,
+                472
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Barcode:",
+                "HADORO",
+                "IPHN",
+                "11",
+                "PRO",
+                "M",
+                "3701355900706",
+                "26,100.00",
+                "VA"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description/",
+                "Amount/"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/119.jpg"
+    }
+}

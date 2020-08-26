@@ -1,0 +1,135 @@
+{
+    "text_boxes": [
+        {
+            "text": "Total",
+            "id": 1,
+            "bbox": [
+                455,
+                632,
+                506,
+                645
+            ]
+        },
+        {
+            "text": "(Inc.VAT)",
+            "id": 2,
+            "bbox": [
+                513,
+                626,
+                605,
+                645
+            ]
+        },
+        {
+            "text": "Qty",
+            "id": 3,
+            "bbox": [
+                253,
+                644,
+                284,
+                659
+            ]
+        },
+        {
+            "text": "Description",
+            "id": 4,
+            "bbox": [
+                316,
+                639,
+                431,
+                655
+            ]
+        },
+        {
+            "text": "1",
+            "id": 5,
+            "bbox": [
+                301,
+                719,
+                313,
+                734
+            ]
+        },
+        {
+            "text": "Mix",
+            "id": 6,
+            "bbox": [
+                309,
+                721,
+                339,
+                732
+            ]
+        },
+        {
+            "text": "of",
+            "id": 7,
+            "bbox": [
+                352,
+                719,
+                371,
+                730
+            ]
+        },
+        {
+            "text": "Freshchoc",
+            "id": 8,
+            "bbox": [
+                384,
+                713,
+                478,
+                729
+            ]
+        },
+        {
+            "text": "237.50",
+            "id": 9,
+            "bbox": [
+                513,
+                710,
+                577,
+                723
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "Mix",
+                "of",
+                "Freshchoc",
+                "237.50"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Total",
+                "(Inc.VAT)",
+                "Qty",
+                "Description"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/647.jpg"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "text_boxes": [
+        {
+            "text": "7325701619584",
+            "id": 1,
+            "bbox": [
+                184,
+                604,
+                320,
+                624
+            ]
+        },
+        {
+            "text": "SLIM",
+            "id": 2,
+            "bbox": [
+                182,
+                655,
+                224,
+                671
+            ]
+        },
+        {
+            "text": "GANT",
+            "id": 3,
+            "bbox": [
+                237,
+                655,
+                277,
+                671
+            ]
+        },
+        {
+            "text": "7325701041941",
+            "id": 4,
+            "bbox": [
+                183,
+                679,
+                318,
+                697
+            ]
+        },
+        {
+            "text": "SLIM",
+            "id": 5,
+            "bbox": [
+                181,
+                730,
+                223,
+                748
+            ]
+        },
+        {
+            "text": "STRAIGHT",
+            "id": 6,
+            "bbox": [
+                236,
+                729,
+                320,
+                748
+            ]
+        },
+        {
+            "text": "GANT",
+            "id": 7,
+            "bbox": [
+                334,
+                730,
+                372,
+                748
+            ]
+        },
+        {
+            "text": "J",
+            "id": 8,
+            "bbox": [
+                388,
+                732,
+                396,
+                747
+            ]
+        },
+        {
+            "text": "399.00",
+            "id": 9,
+            "bbox": [
+                516,
+                724,
+                581,
+                746
+            ]
+        },
+        {
+            "text": "Description/kas",
+            "id": 10,
+            "bbox": [
+                185,
+                558,
+                342,
+                579
+            ]
+        },
+        {
+            "text": "Amount/",
+            "id": 11,
+            "bbox": [
+                449,
+                554,
+                528,
+                580
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7325701619584",
+                "SLIM",
+                "GANT",
+                "7325701041941",
+                "SLIM",
+                "STRAIGHT",
+                "GANT",
+                "J",
+                "399.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description/kas",
+                "Amount/"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/13.jpg"
+    }
+}

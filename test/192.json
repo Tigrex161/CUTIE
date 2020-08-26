@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "Item",
+            "id": 1,
+            "bbox": [
+                121,
+                474,
+                169,
+                497
+            ]
+        },
+        {
+            "text": "Qty",
+            "id": 2,
+            "bbox": [
+                374,
+                472,
+                411,
+                497
+            ]
+        },
+        {
+            "text": "Price",
+            "id": 3,
+            "bbox": [
+                598,
+                466,
+                663,
+                490
+            ]
+        },
+        {
+            "text": "ACBowl",
+            "id": 4,
+            "bbox": [
+                118,
+                536,
+                190,
+                560
+            ]
+        },
+        {
+            "text": "45.00",
+            "id": 5,
+            "bbox": [
+                597,
+                531,
+                662,
+                554
+            ]
+        },
+        {
+            "text": "CkcS1Burgr",
+            "id": 6,
+            "bbox": [
+                118,
+                567,
+                243,
+                593
+            ]
+        },
+        {
+            "text": "100.00",
+            "id": 7,
+            "bbox": [
+                585,
+                563,
+                662,
+                587
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ACBowl",
+                "45.00",
+                "CkcS1Burgr",
+                "100.00"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item",
+                "Qty",
+                "Price"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/192.jpg"
+    }
+}

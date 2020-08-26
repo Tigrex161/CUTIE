@@ -1,0 +1,90 @@
+{
+    "text_boxes": [
+        {
+            "text": "Risott",
+            "id": 1,
+            "bbox": [
+                189,
+                724,
+                261,
+                746
+            ]
+        },
+        {
+            "text": "Spl",
+            "id": 2,
+            "bbox": [
+                277,
+                724,
+                309,
+                748
+            ]
+        },
+        {
+            "text": "Chk",
+            "id": 3,
+            "bbox": [
+                328,
+                723,
+                362,
+                745
+            ]
+        },
+        {
+            "text": "110.00",
+            "id": 4,
+            "bbox": [
+                529,
+                722,
+                600,
+                745
+            ]
+        },
+        {
+            "text": "Coke",
+            "id": 5,
+            "bbox": [
+                188,
+                754,
+                236,
+                776
+            ]
+        },
+        {
+            "text": "23.00",
+            "id": 6,
+            "bbox": [
+                540,
+                754,
+                601,
+                774
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Risott",
+                "Spl",
+                "Chk",
+                "110.00",
+                "Coke",
+                "23.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/660.jpg"
+    }
+}

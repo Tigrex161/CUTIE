@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "GAR",
+            "id": 1,
+            "bbox": [
+                3249,
+                2582,
+                3343,
+                2742
+            ]
+        },
+        {
+            "text": "Retailers",
+            "id": 2,
+            "bbox": [
+                3249,
+                2043,
+                3351,
+                2522
+            ]
+        },
+        {
+            "text": "Treat",
+            "id": 3,
+            "bbox": [
+                3253,
+                1726,
+                3356,
+                1978
+            ]
+        },
+        {
+            "text": "15.00",
+            "id": 4,
+            "bbox": [
+                3273,
+                715,
+                3381,
+                985
+            ]
+        },
+        {
+            "text": "A",
+            "id": 5,
+            "bbox": [
+                3290,
+                540,
+                3382,
+                590
+            ]
+        },
+        {
+            "text": "Description",
+            "id": 6,
+            "bbox": [
+                2732,
+                2111,
+                2846,
+                2699
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 7,
+            "bbox": [
+                2749,
+                732,
+                2845,
+                1047
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GAR",
+                "Retailers",
+                "Treat",
+                "15.00",
+                "A"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description",
+                "Amount"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/173.jpg"
+    }
+}

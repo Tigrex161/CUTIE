@@ -1,0 +1,123 @@
+{
+    "text_boxes": [
+        {
+            "text": "5055106613390",
+            "id": 1,
+            "bbox": [
+                232,
+                403,
+                329,
+                418
+            ]
+        },
+        {
+            "text": "ELEMENTI",
+            "id": 2,
+            "bbox": [
+                232,
+                421,
+                290,
+                435
+            ]
+        },
+        {
+            "text": "NATURA",
+            "id": 3,
+            "bbox": [
+                301,
+                423,
+                344,
+                437
+            ]
+        },
+        {
+            "text": "-",
+            "id": 4,
+            "bbox": [
+                355,
+                421,
+                362,
+                438
+            ]
+        },
+        {
+            "text": "St",
+            "id": 5,
+            "bbox": [
+                368,
+                423,
+                380,
+                436
+            ]
+        },
+        {
+            "text": "125,00",
+            "id": 6,
+            "bbox": [
+                467,
+                424,
+                509,
+                437
+            ]
+        },
+        {
+            "text": "Description/s",
+            "id": 7,
+            "bbox": [
+                232,
+                366,
+                345,
+                383
+            ]
+        },
+        {
+            "text": "Amount/s",
+            "id": 8,
+            "bbox": [
+                428,
+                366,
+                511,
+                383
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5055106613390",
+                "ELEMENTI",
+                "NATURA",
+                "-",
+                "St",
+                "125,00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description/s",
+                "Amount/s"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/535.jpg"
+    }
+}

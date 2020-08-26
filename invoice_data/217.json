@@ -1,0 +1,159 @@
+{
+    "text_boxes": [
+        {
+            "text": "FLAPBAG",
+            "id": 1,
+            "bbox": [
+                137,
+                574,
+                188,
+                584
+            ]
+        },
+        {
+            "text": "UNI",
+            "id": 2,
+            "bbox": [
+                356,
+                572,
+                373,
+                580
+            ]
+        },
+        {
+            "text": "1.",
+            "id": 3,
+            "bbox": [
+                394,
+                571,
+                403,
+                581
+            ]
+        },
+        {
+            "text": "28,070.00",
+            "id": 4,
+            "bbox": [
+                433,
+                568,
+                485,
+                579
+            ]
+        },
+        {
+            "text": "A58600Y01864C3906",
+            "id": 5,
+            "bbox": [
+                137,
+                589,
+                248,
+                600
+            ]
+        },
+        {
+            "text": "Unit",
+            "id": 6,
+            "bbox": [
+                428,
+                553,
+                451,
+                561
+            ]
+        },
+        {
+            "text": "price",
+            "id": 7,
+            "bbox": [
+                455,
+                552,
+                483,
+                563
+            ]
+        },
+        {
+            "text": "Reference",
+            "id": 8,
+            "bbox": [
+                134,
+                558,
+                191,
+                567
+            ]
+        },
+        {
+            "text": "Size",
+            "id": 9,
+            "bbox": [
+                355,
+                554,
+                380,
+                565
+            ]
+        },
+        {
+            "text": "Qty",
+            "id": 10,
+            "bbox": [
+                388,
+                554,
+                407,
+                564
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 11,
+            "bbox": [
+                624,
+                546,
+                670,
+                557
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FLAPBAG",
+                "UNI",
+                "1.",
+                "28,070.00",
+                "A58600Y01864C3906"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Unit",
+                "price",
+                "Reference",
+                "Size",
+                "Qty",
+                "Amount"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/217.jpg"
+    }
+}

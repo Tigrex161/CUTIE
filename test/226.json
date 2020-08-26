@@ -1,0 +1,159 @@
+{
+    "text_boxes": [
+        {
+            "text": "PAPAVERUM",
+            "id": 1,
+            "bbox": [
+                162,
+                684,
+                245,
+                702
+            ]
+        },
+        {
+            "text": "ORACLE",
+            "id": 2,
+            "bbox": [
+                256,
+                682,
+                311,
+                699
+            ]
+        },
+        {
+            "text": "100ml",
+            "id": 3,
+            "bbox": [
+                324,
+                682,
+                365,
+                699
+            ]
+        },
+        {
+            "text": "2",
+            "id": 4,
+            "bbox": [
+                189,
+                705,
+                198,
+                721
+            ]
+        },
+        {
+            "text": "pcs",
+            "id": 5,
+            "bbox": [
+                212,
+                701,
+                242,
+                721
+            ]
+        },
+        {
+            "text": "e",
+            "id": 6,
+            "bbox": [
+                246,
+                705,
+                255,
+                720
+            ]
+        },
+        {
+            "text": "551.25",
+            "id": 7,
+            "bbox": [
+                265,
+                700,
+                320,
+                719
+            ]
+        },
+        {
+            "text": "1,102.50",
+            "id": 8,
+            "bbox": [
+                437,
+                699,
+                510,
+                718
+            ]
+        },
+        {
+            "text": "B",
+            "id": 9,
+            "bbox": [
+                531,
+                700,
+                539,
+                715
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 10,
+            "bbox": [
+                478,
+                626,
+                530,
+                639
+            ]
+        },
+        {
+            "text": "Description",
+            "id": 11,
+            "bbox": [
+                191,
+                628,
+                291,
+                647
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PAPAVERUM",
+                "ORACLE",
+                "100ml",
+                "2",
+                "pcs",
+                "e",
+                "551.25",
+                "1,102.50",
+                "B"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Amount",
+                "Description"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/226.jpg"
+    }
+}

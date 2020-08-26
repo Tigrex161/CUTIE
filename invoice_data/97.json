@@ -1,0 +1,87 @@
+{
+    "text_boxes": [
+        {
+            "text": "2",
+            "id": 1,
+            "bbox": [
+                909,
+                119,
+                930,
+                130
+            ]
+        },
+        {
+            "text": "ATT",
+            "id": 2,
+            "bbox": [
+                909,
+                172,
+                930,
+                209
+            ]
+        },
+        {
+            "text": "295.24",
+            "id": 3,
+            "bbox": [
+                907,
+                463,
+                934,
+                549
+            ]
+        },
+        {
+            "text": "ITEM",
+            "id": 4,
+            "bbox": [
+                935,
+                200,
+                962,
+                248
+            ]
+        },
+        {
+            "text": "AMOUNT",
+            "id": 5,
+            "bbox": [
+                935,
+                452,
+                965,
+                536
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "ATT",
+                "295.24"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ITEM",
+                "AMOUNT"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/97.jpg"
+    }
+}

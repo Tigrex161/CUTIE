@@ -1,0 +1,159 @@
+{
+    "text_boxes": [
+        {
+            "text": "SNIRT",
+            "id": 1,
+            "bbox": [
+                152,
+                595,
+                207,
+                607
+            ]
+        },
+        {
+            "text": "RIBBED",
+            "id": 2,
+            "bbox": [
+                221,
+                598,
+                286,
+                611
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 3,
+            "bbox": [
+                299,
+                601,
+                329,
+                612
+            ]
+        },
+        {
+            "text": "615.00",
+            "id": 4,
+            "bbox": [
+                420,
+                604,
+                483,
+                616
+            ]
+        },
+        {
+            "text": "615.00",
+            "id": 5,
+            "bbox": [
+                553,
+                606,
+                616,
+                618
+            ]
+        },
+        {
+            "text": "2",
+            "id": 6,
+            "bbox": [
+                162,
+                616,
+                185,
+                629
+            ]
+        },
+        {
+            "text": "x",
+            "id": 7,
+            "bbox": [
+                195,
+                616,
+                208,
+                632
+            ]
+        },
+        {
+            "text": "900991045",
+            "id": 8,
+            "bbox": [
+                207,
+                617,
+                307,
+                635
+            ]
+        },
+        {
+            "text": "Deseripti\u0259n",
+            "id": 9,
+            "bbox": [
+                159,
+                532,
+                277,
+                550
+            ]
+        },
+        {
+            "text": "UP/TAX",
+            "id": 10,
+            "bbox": [
+                419,
+                539,
+                480,
+                549
+            ]
+        },
+        {
+            "text": "Amount/Disa",
+            "id": 11,
+            "bbox": [
+                493,
+                538,
+                610,
+                550
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SNIRT",
+                "RIBBED",
+                "SKU",
+                "615.00",
+                "615.00",
+                "2",
+                "x",
+                "900991045"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Deseripti\u0259n",
+                "UP/TAX",
+                "Amount/Disa"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/414.jpg"
+    }
+}

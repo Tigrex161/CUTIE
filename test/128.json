@@ -1,0 +1,99 @@
+{
+    "text_boxes": [
+        {
+            "text": "GFBilv",
+            "id": 1,
+            "bbox": [
+                195,
+                723,
+                240,
+                733
+            ]
+        },
+        {
+            "text": "790.00",
+            "id": 2,
+            "bbox": [
+                438,
+                722,
+                479,
+                729
+            ]
+        },
+        {
+            "text": "Descr",
+            "id": 3,
+            "bbox": [
+                192,
+                664,
+                234,
+                682
+            ]
+        },
+        {
+            "text": "ipt",
+            "id": 4,
+            "bbox": [
+                234,
+                669,
+                252,
+                678
+            ]
+        },
+        {
+            "text": "ion",
+            "id": 5,
+            "bbox": [
+                257,
+                669,
+                277,
+                676
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 6,
+            "bbox": [
+                432,
+                667,
+                473,
+                674
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GFBilv",
+                "790.00"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Descr",
+                "ipt",
+                "ion",
+                "Amount"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/128.jpg"
+    }
+}

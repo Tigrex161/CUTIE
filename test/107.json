@@ -1,0 +1,54 @@
+{
+    "text_boxes": [
+        {
+            "text": "101101-20150-007-XSM",
+            "id": 1,
+            "bbox": [
+                215,
+                506,
+                337,
+                519
+            ]
+        },
+        {
+            "text": "409.52",
+            "id": 2,
+            "bbox": [
+                446,
+                510,
+                478,
+                520
+            ]
+        },
+        {
+            "text": "1.",
+            "id": 3,
+            "bbox": [
+                176,
+                516,
+                185,
+                526
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "101101-20150-007-XSM",
+                "409.52",
+                "1."
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/107.jpg"
+    }
+}

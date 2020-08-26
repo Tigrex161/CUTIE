@@ -1,0 +1,123 @@
+{
+    "text_boxes": [
+        {
+            "text": "P",
+            "id": 1,
+            "bbox": [
+                502,
+                460,
+                508,
+                468
+            ]
+        },
+        {
+            "text": "59",
+            "id": 2,
+            "bbox": [
+                477,
+                458,
+                502,
+                472
+            ]
+        },
+        {
+            "text": "P",
+            "id": 3,
+            "bbox": [
+                502,
+                460,
+                508,
+                468
+            ]
+        },
+        {
+            "text": "YSP",
+            "id": 4,
+            "bbox": [
+                239,
+                407,
+                258,
+                417
+            ]
+        },
+        {
+            "text": "TAX",
+            "id": 5,
+            "bbox": [
+                274,
+                407,
+                292,
+                415
+            ]
+        },
+        {
+            "text": "OTY",
+            "id": 6,
+            "bbox": [
+                309,
+                405,
+                327,
+                414
+            ]
+        },
+        {
+            "text": "PRICE",
+            "id": 7,
+            "bbox": [
+                358,
+                402,
+                391,
+                413
+            ]
+        },
+        {
+            "text": "ANGUNT",
+            "id": 8,
+            "bbox": [
+                429,
+                399,
+                468,
+                409
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "P",
+                "59",
+                "P"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "YSP",
+                "TAX",
+                "OTY",
+                "PRICE",
+                "ANGUNT"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/140.jpg"
+    }
+}

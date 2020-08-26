@@ -1,0 +1,207 @@
+{
+    "text_boxes": [
+        {
+            "text": "PD",
+            "id": 1,
+            "bbox": [
+                205,
+                534,
+                220,
+                547
+            ]
+        },
+        {
+            "text": "REX",
+            "id": 2,
+            "bbox": [
+                226,
+                536,
+                246,
+                551
+            ]
+        },
+        {
+            "text": "THE",
+            "id": 3,
+            "bbox": [
+                253,
+                538,
+                273,
+                553
+            ]
+        },
+        {
+            "text": "CHOMPER",
+            "id": 4,
+            "bbox": [
+                280,
+                541,
+                324,
+                558
+            ]
+        },
+        {
+            "text": "Barcode:",
+            "id": 5,
+            "bbox": [
+                204,
+                551,
+                257,
+                567
+            ]
+        },
+        {
+            "text": "pc",
+            "id": 6,
+            "bbox": [
+                351,
+                547,
+                365,
+                561
+            ]
+        },
+        {
+            "text": "155.00",
+            "id": 7,
+            "bbox": [
+                410,
+                550,
+                447,
+                564
+            ]
+        },
+        {
+            "text": "VA",
+            "id": 8,
+            "bbox": [
+                454,
+                552,
+                467,
+                564
+            ]
+        },
+        {
+            "text": "HAMLEYS",
+            "id": 9,
+            "bbox": [
+                203,
+                568,
+                251,
+                584
+            ]
+        },
+        {
+            "text": "WRAPPING",
+            "id": 10,
+            "bbox": [
+                258,
+                573,
+                308,
+                589
+            ]
+        },
+        {
+            "text": "SER",
+            "id": 11,
+            "bbox": [
+                316,
+                576,
+                334,
+                590
+            ]
+        },
+        {
+            "text": "5.00",
+            "id": 12,
+            "bbox": [
+                419,
+                583,
+                445,
+                596
+            ]
+        },
+        {
+            "text": "VA",
+            "id": 13,
+            "bbox": [
+                452,
+                585,
+                464,
+                596
+            ]
+        },
+        {
+            "text": "Descript",
+            "id": 14,
+            "bbox": [
+                207,
+                485,
+                261,
+                504
+            ]
+        },
+        {
+            "text": "ion/es",
+            "id": 15,
+            "bbox": [
+                263,
+                490,
+                309,
+                508
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PD",
+                "REX",
+                "THE",
+                "CHOMPER",
+                "Barcode:",
+                "pc",
+                "155.00",
+                "VA",
+                "HAMLEYS",
+                "WRAPPING",
+                "SER",
+                "5.00",
+                "VA"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Descript",
+                "ion/es"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/374.jpg"
+    }
+}

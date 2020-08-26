@@ -1,0 +1,42 @@
+{
+    "text_boxes": [
+        {
+            "text": "SHC",
+            "id": 1,
+            "bbox": [
+                178,
+                371,
+                196,
+                382
+            ]
+        },
+        {
+            "text": "S.00",
+            "id": 2,
+            "bbox": [
+                206,
+                370,
+                231,
+                379
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SHC",
+                "S.00"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/338.jpg"
+    }
+}

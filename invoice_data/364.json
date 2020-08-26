@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "INOA",
+            "id": 1,
+            "bbox": [
+                197,
+                578,
+                241,
+                591
+            ]
+        },
+        {
+            "text": "Root",
+            "id": 2,
+            "bbox": [
+                250,
+                578,
+                283,
+                590
+            ]
+        },
+        {
+            "text": "Color",
+            "id": 3,
+            "bbox": [
+                196,
+                598,
+                239,
+                612
+            ]
+        },
+        {
+            "text": "315.00",
+            "id": 4,
+            "bbox": [
+                457,
+                585,
+                507,
+                597
+            ]
+        },
+        {
+            "text": "283.50",
+            "id": 5,
+            "bbox": [
+                457,
+                659,
+                508,
+                672
+            ]
+        },
+        {
+            "text": "Full",
+            "id": 6,
+            "bbox": [
+                200,
+                676,
+                227,
+                688
+            ]
+        },
+        {
+            "text": "Body",
+            "id": 7,
+            "bbox": [
+                236,
+                673,
+                274,
+                689
+            ]
+        },
+        {
+            "text": "Massage",
+            "id": 8,
+            "bbox": [
+                200,
+                697,
+                264,
+                710
+            ]
+        },
+        {
+            "text": "Item",
+            "id": 9,
+            "bbox": [
+                196,
+                544,
+                231,
+                558
+            ]
+        },
+        {
+            "text": "5ala",
+            "id": 10,
+            "bbox": [
+                239,
+                543,
+                271,
+                556
+            ]
+        },
+        {
+            "text": "Quantity",
+            "id": 11,
+            "bbox": [
+                337,
+                533,
+                404,
+                551
+            ]
+        },
+        {
+            "text": "Price",
+            "id": 12,
+            "bbox": [
+                425,
+                540,
+                467,
+                559
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "INOA",
+                "Root",
+                "Color",
+                "315.00",
+                "283.50",
+                "Full",
+                "Body",
+                "Massage"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item",
+                "5ala",
+                "Quantity",
+                "Price"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/364.jpg"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "text_boxes": [
+        {
+            "text": "Description",
+            "id": 1,
+            "bbox": [
+                213,
+                494,
+                296,
+                505
+            ]
+        },
+        {
+            "text": "LIP/TAX",
+            "id": 2,
+            "bbox": [
+                395,
+                491,
+                439,
+                504
+            ]
+        },
+        {
+            "text": "AMount/Disc",
+            "id": 3,
+            "bbox": [
+                447,
+                489,
+                531,
+                504
+            ]
+        },
+        {
+            "text": "BRA",
+            "id": 4,
+            "bbox": [
+                216,
+                552,
+                237,
+                563
+            ]
+        },
+        {
+            "text": "PYRMD",
+            "id": 5,
+            "bbox": [
+                246,
+                552,
+                283,
+                563
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 6,
+            "bbox": [
+                291,
+                552,
+                312,
+                563
+            ]
+        },
+        {
+            "text": "390.00",
+            "id": 7,
+            "bbox": [
+                395,
+                547,
+                439,
+                561
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                224,
+                572,
+                239,
+                582
+            ]
+        },
+        {
+            "text": "x",
+            "id": 9,
+            "bbox": [
+                247,
+                569,
+                252,
+                584
+            ]
+        },
+        {
+            "text": "900953290",
+            "id": 10,
+            "bbox": [
+                254,
+                569,
+                320,
+                582
+            ]
+        },
+        {
+            "text": "5%",
+            "id": 11,
+            "bbox": [
+                425,
+                568,
+                438,
+                579
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BRA",
+                "PYRMD",
+                "SKU",
+                "390.00",
+                "1",
+                "x",
+                "900953290",
+                "5%"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description",
+                "LIP/TAX",
+                "AMount/Disc"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/322.jpg"
+    }
+}

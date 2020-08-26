@@ -1,0 +1,135 @@
+{
+    "text_boxes": [
+        {
+            "text": "A035169",
+            "id": 1,
+            "bbox": [
+                261,
+                595,
+                324,
+                611
+            ]
+        },
+        {
+            "text": "POLOS",
+            "id": 2,
+            "bbox": [
+                334,
+                597,
+                378,
+                610
+            ]
+        },
+        {
+            "text": "490",
+            "id": 3,
+            "bbox": [
+                599,
+                597,
+                625,
+                609
+            ]
+        },
+        {
+            "text": "ITEM",
+            "id": 4,
+            "bbox": [
+                264,
+                532,
+                299,
+                544
+            ]
+        },
+        {
+            "text": "DESC",
+            "id": 5,
+            "bbox": [
+                335,
+                531,
+                370,
+                543
+            ]
+        },
+        {
+            "text": "OTY",
+            "id": 6,
+            "bbox": [
+                416,
+                531,
+                440,
+                543
+            ]
+        },
+        {
+            "text": "DIS%",
+            "id": 7,
+            "bbox": [
+                461,
+                530,
+                495,
+                543
+            ]
+        },
+        {
+            "text": "VAT%",
+            "id": 8,
+            "bbox": [
+                515,
+                530,
+                549,
+                542
+            ]
+        },
+        {
+            "text": "AED",
+            "id": 9,
+            "bbox": [
+                596,
+                528,
+                623,
+                541
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A035169",
+                "POLOS",
+                "490"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ITEM",
+                "DESC",
+                "OTY",
+                "DIS%",
+                "VAT%",
+                "AED"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/629.jpg"
+    }
+}

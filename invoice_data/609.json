@@ -1,0 +1,135 @@
+{
+    "text_boxes": [
+        {
+            "text": "Bernuda",
+            "id": 1,
+            "bbox": [
+                304,
+                408,
+                339,
+                418
+            ]
+        },
+        {
+            "text": "219.00",
+            "id": 2,
+            "bbox": [
+                488,
+                406,
+                519,
+                419
+            ]
+        },
+        {
+            "text": "219.00",
+            "id": 3,
+            "bbox": [
+                545,
+                404,
+                575,
+                415
+            ]
+        },
+        {
+            "text": "8433575325278",
+            "id": 4,
+            "bbox": [
+                427,
+                424,
+                492,
+                438
+            ]
+        },
+        {
+            "text": "ITEN",
+            "id": 5,
+            "bbox": [
+                305,
+                360,
+                323,
+                368
+            ]
+        },
+        {
+            "text": "NAME",
+            "id": 6,
+            "bbox": [
+                330,
+                361,
+                348,
+                370
+            ]
+        },
+        {
+            "text": "QTY",
+            "id": 7,
+            "bbox": [
+                442,
+                362,
+                455,
+                372
+            ]
+        },
+        {
+            "text": "PRICE",
+            "id": 8,
+            "bbox": [
+                487,
+                359,
+                511,
+                370
+            ]
+        },
+        {
+            "text": "TOTAL",
+            "id": 9,
+            "bbox": [
+                550,
+                355,
+                574,
+                367
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Bernuda",
+                "219.00",
+                "219.00",
+                "8433575325278"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ITEN",
+                "NAME",
+                "QTY",
+                "PRICE",
+                "TOTAL"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/609.jpg"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "text_boxes": [
+        {
+            "text": "FERRAGMO",
+            "id": 1,
+            "bbox": [
+                296,
+                485,
+                357,
+                500
+            ]
+        },
+        {
+            "text": "SUNGLASS",
+            "id": 2,
+            "bbox": [
+                301,
+                502,
+                351,
+                514
+            ]
+        },
+        {
+            "text": "45719",
+            "id": 3,
+            "bbox": [
+                236,
+                491,
+                262,
+                502
+            ]
+        },
+        {
+            "text": "6.00",
+            "id": 4,
+            "bbox": [
+                409,
+                490,
+                430,
+                498
+            ]
+        },
+        {
+            "text": "\u00c7ode",
+            "id": 5,
+            "bbox": [
+                265,
+                454,
+                289,
+                465
+            ]
+        },
+        {
+            "text": "De\u015fcription",
+            "id": 6,
+            "bbox": [
+                316,
+                449,
+                382,
+                465
+            ]
+        },
+        {
+            "text": "VAT%",
+            "id": 7,
+            "bbox": [
+                402,
+                447,
+                433,
+                462
+            ]
+        },
+        {
+            "text": "Quantity",
+            "id": 8,
+            "bbox": [
+                444,
+                448,
+                488,
+                462
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FERRAGMO",
+                "SUNGLASS",
+                "45719",
+                "6.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u00c7ode",
+                "De\u015fcription",
+                "VAT%",
+                "Quantity"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/306.jpg"
+    }
+}

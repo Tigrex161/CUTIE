@@ -1,0 +1,123 @@
+{
+    "text_boxes": [
+        {
+            "text": "Item",
+            "id": 1,
+            "bbox": [
+                230,
+                577,
+                261,
+                590
+            ]
+        },
+        {
+            "text": "Rate",
+            "id": 2,
+            "bbox": [
+                392,
+                573,
+                429,
+                588
+            ]
+        },
+        {
+            "text": "Qty.",
+            "id": 3,
+            "bbox": [
+                450,
+                574,
+                483,
+                590
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 4,
+            "bbox": [
+                505,
+                573,
+                568,
+                585
+            ]
+        },
+        {
+            "text": "550.00",
+            "id": 5,
+            "bbox": [
+                377,
+                633,
+                419,
+                645
+            ]
+        },
+        {
+            "text": "1.00",
+            "id": 6,
+            "bbox": [
+                444,
+                633,
+                468,
+                644
+            ]
+        },
+        {
+            "text": "550.00",
+            "id": 7,
+            "bbox": [
+                528,
+                628,
+                571,
+                641
+            ]
+        },
+        {
+            "text": "p.v.r",
+            "id": 8,
+            "bbox": [
+                230,
+                637,
+                253,
+                649
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "550.00",
+                "1.00",
+                "550.00",
+                "p.v.r"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item",
+                "Rate",
+                "Qty.",
+                "Amount"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/560.jpg"
+    }
+}

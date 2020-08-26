@@ -1,0 +1,147 @@
+{
+    "text_boxes": [
+        {
+            "text": "GCRecharge",
+            "id": 1,
+            "bbox": [
+                129,
+                549,
+                227,
+                570
+            ]
+        },
+        {
+            "text": "1",
+            "id": 2,
+            "bbox": [
+                329,
+                547,
+                344,
+                572
+            ]
+        },
+        {
+            "text": "200.00",
+            "id": 3,
+            "bbox": [
+                356,
+                549,
+                413,
+                567
+            ]
+        },
+        {
+            "text": "200.00",
+            "id": 4,
+            "bbox": [
+                491,
+                549,
+                547,
+                566
+            ]
+        },
+        {
+            "text": "Item",
+            "id": 5,
+            "bbox": [
+                130,
+                526,
+                156,
+                539
+            ]
+        },
+        {
+            "text": "Qty",
+            "id": 6,
+            "bbox": [
+                292,
+                526,
+                311,
+                540
+            ]
+        },
+        {
+            "text": "Unit",
+            "id": 7,
+            "bbox": [
+                332,
+                526,
+                359,
+                539
+            ]
+        },
+        {
+            "text": "Price",
+            "id": 8,
+            "bbox": [
+                368,
+                526,
+                403,
+                539
+            ]
+        },
+        {
+            "text": "Total(Incl",
+            "id": 9,
+            "bbox": [
+                434,
+                525,
+                503,
+                539
+            ]
+        },
+        {
+            "text": "VAT)",
+            "id": 10,
+            "bbox": [
+                515,
+                525,
+                540,
+                538
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GCRecharge",
+                "1",
+                "200.00",
+                "200.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item",
+                "Qty",
+                "Unit",
+                "Price",
+                "Total(Incl",
+                "VAT)"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/546.jpg"
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "text_boxes": [
+        {
+            "text": "SN",
+            "id": 1,
+            "bbox": [
+                225,
+                735,
+                242,
+                746
+            ]
+        },
+        {
+            "text": "ITEM",
+            "id": 2,
+            "bbox": [
+                255,
+                734,
+                289,
+                747
+            ]
+        },
+        {
+            "text": "DESCRIPTION",
+            "id": 3,
+            "bbox": [
+                296,
+                733,
+                391,
+                746
+            ]
+        },
+        {
+            "text": "AMOUNT",
+            "id": 4,
+            "bbox": [
+                555,
+                725,
+                618,
+                740
+            ]
+        },
+        {
+            "text": "1x10257",
+            "id": 5,
+            "bbox": [
+                257,
+                772,
+                314,
+                785
+            ]
+        },
+        {
+            "text": "@40000.00,",
+            "id": 6,
+            "bbox": [
+                320,
+                770,
+                400,
+                785
+            ]
+        },
+        {
+            "text": "Vat+1904.76",
+            "id": 7,
+            "bbox": [
+                408,
+                767,
+                495,
+                782
+            ]
+        },
+        {
+            "text": "ADVANCE",
+            "id": 8,
+            "bbox": [
+                255,
+                793,
+                333,
+                809
+            ]
+        },
+        {
+            "text": "PAYMENT",
+            "id": 9,
+            "bbox": [
+                341,
+                792,
+                417,
+                807
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                227,
+                775,
+                231,
+                787
+            ]
+        },
+        {
+            "text": "40,000.00",
+            "id": 11,
+            "bbox": [
+                535,
+                764,
+                621,
+                783
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1x10257",
+                "@40000.00,",
+                "Vat+1904.76",
+                "ADVANCE",
+                "PAYMENT",
+                "1",
+                "40,000.00"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SN",
+                "ITEM",
+                "DESCRIPTION",
+                "AMOUNT"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/465.jpg"
+    }
+}

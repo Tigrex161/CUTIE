@@ -1,0 +1,99 @@
+{
+    "text_boxes": [
+        {
+            "text": "1.",
+            "id": 1,
+            "bbox": [
+                555,
+                540,
+                566,
+                553
+            ]
+        },
+        {
+            "text": "305,00",
+            "id": 2,
+            "bbox": [
+                668,
+                545,
+                710,
+                557
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0648\u0635\u0641",
+            "id": 3,
+            "bbox": [
+                156,
+                514,
+                201,
+                533
+            ]
+        },
+        {
+            "text": "Qty",
+            "id": 4,
+            "bbox": [
+                529,
+                515,
+                555,
+                533
+            ]
+        },
+        {
+            "text": "Jll",
+            "id": 5,
+            "bbox": [
+                566,
+                515,
+                591,
+                527
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 6,
+            "bbox": [
+                619,
+                516,
+                680,
+                527
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.",
+                "305,00"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0644\u0648\u0635\u0641",
+                "Qty",
+                "Jll",
+                "Amount"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/214.jpg"
+    }
+}

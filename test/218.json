@@ -1,0 +1,147 @@
+{
+    "text_boxes": [
+        {
+            "text": "Barcode:",
+            "id": 1,
+            "bbox": [
+                260,
+                447,
+                319,
+                463
+            ]
+        },
+        {
+            "text": "ON",
+            "id": 2,
+            "bbox": [
+                259,
+                468,
+                274,
+                481
+            ]
+        },
+        {
+            "text": "100%WHEY",
+            "id": 3,
+            "bbox": [
+                285,
+                467,
+                345,
+                480
+            ]
+        },
+        {
+            "text": "VANILLA",
+            "id": 4,
+            "bbox": [
+                355,
+                466,
+                409,
+                479
+            ]
+        },
+        {
+            "text": "pcs",
+            "id": 5,
+            "bbox": [
+                427,
+                469,
+                449,
+                480
+            ]
+        },
+        {
+            "text": "748927028706",
+            "id": 6,
+            "bbox": [
+                356,
+                446,
+                448,
+                461
+            ]
+        },
+        {
+            "text": "155.14",
+            "id": 7,
+            "bbox": [
+                509,
+                463,
+                553,
+                477
+            ]
+        },
+        {
+            "text": "V5",
+            "id": 8,
+            "bbox": [
+                563,
+                463,
+                577,
+                475
+            ]
+        },
+        {
+            "text": "Description\\",
+            "id": 9,
+            "bbox": [
+                258,
+                410,
+                356,
+                429
+            ]
+        },
+        {
+            "text": "Amount\\e",
+            "id": 10,
+            "bbox": [
+                443,
+                406,
+                518,
+                425
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Barcode:",
+                "ON",
+                "100%WHEY",
+                "VANILLA",
+                "pcs",
+                "748927028706",
+                "155.14",
+                "V5"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description\\",
+                "Amount\\e"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/218.jpg"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "text_boxes": [
+        {
+            "text": "Descript",
+            "id": 1,
+            "bbox": [
+                219,
+                604,
+                284,
+                616
+            ]
+        },
+        {
+            "text": "ion",
+            "id": 2,
+            "bbox": [
+                289,
+                606,
+                311,
+                613
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 3,
+            "bbox": [
+                481,
+                606,
+                527,
+                613
+            ]
+        },
+        {
+            "text": "Baccarat70",
+            "id": 4,
+            "bbox": [
+                217,
+                669,
+                302,
+                678
+            ]
+        },
+        {
+            "text": "1,103.",
+            "id": 5,
+            "bbox": [
+                476,
+                668,
+                520,
+                678
+            ]
+        },
+        {
+            "text": "00",
+            "id": 6,
+            "bbox": [
+                526,
+                667,
+                540,
+                676
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Baccarat70",
+                "1,103.",
+                "00"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Descript",
+                "ion",
+                "Amount"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/200.jpg"
+    }
+}

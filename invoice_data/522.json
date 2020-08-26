@@ -1,0 +1,123 @@
+{
+    "text_boxes": [
+        {
+            "text": "FS",
+            "id": 1,
+            "bbox": [
+                230,
+                490,
+                243,
+                500
+            ]
+        },
+        {
+            "text": "GRP",
+            "id": 2,
+            "bbox": [
+                250,
+                488,
+                270,
+                500
+            ]
+        },
+        {
+            "text": "AOP",
+            "id": 3,
+            "bbox": [
+                278,
+                487,
+                298,
+                499
+            ]
+        },
+        {
+            "text": "TEE",
+            "id": 4,
+            "bbox": [
+                306,
+                487,
+                324,
+                498
+            ]
+        },
+        {
+            "text": "165.00",
+            "id": 5,
+            "bbox": [
+                442,
+                483,
+                479,
+                494
+            ]
+        },
+        {
+            "text": "A",
+            "id": 6,
+            "bbox": [
+                492,
+                483,
+                497,
+                492
+            ]
+        },
+        {
+            "text": "Description",
+            "id": 7,
+            "bbox": [
+                230,
+                437,
+                304,
+                447
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 8,
+            "bbox": [
+                439,
+                432,
+                477,
+                440
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FS",
+                "GRP",
+                "AOP",
+                "TEE",
+                "165.00",
+                "A"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description",
+                "Amount"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/522.jpg"
+    }
+}

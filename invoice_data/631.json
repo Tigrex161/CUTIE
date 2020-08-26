@@ -1,0 +1,123 @@
+{
+    "text_boxes": [
+        {
+            "text": "1",
+            "id": 1,
+            "bbox": [
+                133,
+                484,
+                146,
+                502
+            ]
+        },
+        {
+            "text": "IPHONE6SLCDWHITE",
+            "id": 2,
+            "bbox": [
+                149,
+                485,
+                303,
+                500
+            ]
+        },
+        {
+            "text": "149.00",
+            "id": 3,
+            "bbox": [
+                355,
+                484,
+                401,
+                496
+            ]
+        },
+        {
+            "text": "149.00",
+            "id": 4,
+            "bbox": [
+                438,
+                481,
+                485,
+                495
+            ]
+        },
+        {
+            "text": "Qty",
+            "id": 5,
+            "bbox": [
+                101,
+                430,
+                125,
+                445
+            ]
+        },
+        {
+            "text": "Description",
+            "id": 6,
+            "bbox": [
+                149,
+                430,
+                228,
+                447
+            ]
+        },
+        {
+            "text": "Price",
+            "id": 7,
+            "bbox": [
+                362,
+                428,
+                395,
+                440
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 8,
+            "bbox": [
+                421,
+                427,
+                476,
+                439
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "IPHONE6SLCDWHITE",
+                "149.00",
+                "149.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Qty",
+                "Description",
+                "Price",
+                "Amount"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/631.jpg"
+    }
+}

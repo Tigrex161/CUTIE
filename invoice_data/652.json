@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "FL1490020H080",
+            "id": 1,
+            "bbox": [
+                209,
+                549,
+                308,
+                562
+            ]
+        },
+        {
+            "text": "00",
+            "id": 2,
+            "bbox": [
+                429,
+                550,
+                442,
+                562
+            ]
+        },
+        {
+            "text": "066",
+            "id": 3,
+            "bbox": [
+                404,
+                550,
+                424,
+                561
+            ]
+        },
+        {
+            "text": "1,990.00",
+            "id": 4,
+            "bbox": [
+                472,
+                550,
+                519,
+                563
+            ]
+        },
+        {
+            "text": "FLORIDA-1490-WHITE",
+            "id": 5,
+            "bbox": [
+                209,
+                574,
+                344,
+                592
+            ]
+        },
+        {
+            "text": "OSTRICH-8",
+            "id": 6,
+            "bbox": [
+                363,
+                577,
+                419,
+                588
+            ]
+        },
+        {
+            "text": "S",
+            "id": 7,
+            "bbox": [
+                184,
+                442,
+                199,
+                455
+            ]
+        },
+        {
+            "text": "PRODUCT",
+            "id": 8,
+            "bbox": [
+                215,
+                444,
+                276,
+                456
+            ]
+        },
+        {
+            "text": "CODE",
+            "id": 9,
+            "bbox": [
+                281,
+                445,
+                314,
+                456
+            ]
+        },
+        {
+            "text": "OTY",
+            "id": 10,
+            "bbox": [
+                371,
+                444,
+                394,
+                455
+            ]
+        },
+        {
+            "text": "RATE",
+            "id": 11,
+            "bbox": [
+                420,
+                444,
+                451,
+                455
+            ]
+        },
+        {
+            "text": "AMOUNT",
+            "id": 12,
+            "bbox": [
+                472,
+                442,
+                527,
+                456
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FL1490020H080",
+                "00",
+                "066",
+                "1,990.00",
+                "FLORIDA-1490-WHITE",
+                "OSTRICH-8"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "S",
+                "PRODUCT",
+                "CODE",
+                "OTY",
+                "RATE",
+                "AMOUNT"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/652.jpg"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "text_boxes": [
+        {
+            "text": "99.00",
+            "id": 1,
+            "bbox": [
+                633,
+                708,
+                675,
+                721
+            ]
+        },
+        {
+            "text": "RdBeryMntJuice",
+            "id": 2,
+            "bbox": [
+                385,
+                720,
+                507,
+                738
+            ]
+        },
+        {
+            "text": "26.00",
+            "id": 3,
+            "bbox": [
+                632,
+                726,
+                674,
+                739
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "99.00",
+                "RdBeryMntJuice",
+                "26.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/283.jpg"
+    }
+}

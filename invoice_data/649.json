@@ -1,0 +1,78 @@
+{
+    "text_boxes": [
+        {
+            "text": "Fatoush",
+            "id": 1,
+            "bbox": [
+                458,
+                669,
+                524,
+                688
+            ]
+        },
+        {
+            "text": "25.00",
+            "id": 2,
+            "bbox": [
+                278,
+                670,
+                322,
+                686
+            ]
+        },
+        {
+            "text": "MIX2SHWA",
+            "id": 3,
+            "bbox": [
+                389,
+                707,
+                464,
+                725
+            ]
+        },
+        {
+            "text": "SDWPL",
+            "id": 4,
+            "bbox": [
+                476,
+                707,
+                523,
+                726
+            ]
+        },
+        {
+            "text": "80.00",
+            "id": 5,
+            "bbox": [
+                277,
+                708,
+                321,
+                724
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Fatoush",
+                "25.00",
+                "MIX2SHWA",
+                "SDWPL",
+                "80.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/649.jpg"
+    }
+}

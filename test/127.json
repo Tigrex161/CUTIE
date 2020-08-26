@@ -1,0 +1,111 @@
+{
+    "text_boxes": [
+        {
+            "text": "Item",
+            "id": 1,
+            "bbox": [
+                65,
+                1013,
+                119,
+                1036
+            ]
+        },
+        {
+            "text": "No.:",
+            "id": 2,
+            "bbox": [
+                130,
+                1009,
+                181,
+                1033
+            ]
+        },
+        {
+            "text": "200012",
+            "id": 3,
+            "bbox": [
+                247,
+                1003,
+                342,
+                1028
+            ]
+        },
+        {
+            "text": "00000AMIRA-RO10W381",
+            "id": 4,
+            "bbox": [
+                63,
+                1040,
+                396,
+                1076
+            ]
+        },
+        {
+            "text": "2,390.00",
+            "id": 5,
+            "bbox": [
+                547,
+                1030,
+                662,
+                1060
+            ]
+        },
+        {
+            "text": "Item/iy",
+            "id": 6,
+            "bbox": [
+                68,
+                934,
+                156,
+                959
+            ]
+        },
+        {
+            "text": "Amount/quas",
+            "id": 7,
+            "bbox": [
+                509,
+                914,
+                660,
+                945
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item",
+                "No.:",
+                "200012",
+                "00000AMIRA-RO10W381",
+                "2,390.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Item/iy",
+                "Amount/quas"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/127.jpg"
+    }
+}

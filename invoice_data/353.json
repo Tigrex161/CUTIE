@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "NKNEGSAG",
+            "id": 1,
+            "bbox": [
+                138,
+                394,
+                214,
+                412
+            ]
+        },
+        {
+            "text": "22",
+            "id": 2,
+            "bbox": [
+                219,
+                392,
+                241,
+                410
+            ]
+        },
+        {
+            "text": "LONG",
+            "id": 3,
+            "bbox": [
+                146,
+                408,
+                179,
+                426
+            ]
+        },
+        {
+            "text": "SLEEVE",
+            "id": 4,
+            "bbox": [
+                180,
+                406,
+                228,
+                426
+            ]
+        },
+        {
+            "text": "WORDGA",
+            "id": 5,
+            "bbox": [
+                229,
+                404,
+                287,
+                425
+            ]
+        },
+        {
+            "text": "179.00",
+            "id": 6,
+            "bbox": [
+                419,
+                392,
+                460,
+                408
+            ]
+        },
+        {
+            "text": "179.00",
+            "id": 7,
+            "bbox": [
+                493,
+                392,
+                535,
+                407
+            ]
+        },
+        {
+            "text": "ITEM",
+            "id": 8,
+            "bbox": [
+                149,
+                352,
+                174,
+                369
+            ]
+        },
+        {
+            "text": "GI24",
+            "id": 9,
+            "bbox": [
+                303,
+                351,
+                330,
+                367
+            ]
+        },
+        {
+            "text": "QTy",
+            "id": 10,
+            "bbox": [
+                368,
+                348,
+                388,
+                363
+            ]
+        },
+        {
+            "text": "PRICE",
+            "id": 11,
+            "bbox": [
+                418,
+                347,
+                453,
+                363
+            ]
+        },
+        {
+            "text": "TOTAL",
+            "id": 12,
+            "bbox": [
+                502,
+                342,
+                538,
+                361
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NKNEGSAG",
+                "22",
+                "LONG",
+                "SLEEVE",
+                "WORDGA",
+                "179.00",
+                "179.00"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ITEM",
+                "GI24",
+                "QTy",
+                "PRICE",
+                "TOTAL"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/353.jpg"
+    }
+}

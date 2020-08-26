@@ -1,0 +1,288 @@
+{
+    "text_boxes": [
+        {
+            "text": "ALL",
+            "id": 1,
+            "bbox": [
+                183,
+                632,
+                214,
+                650
+            ]
+        },
+        {
+            "text": "BATEEL",
+            "id": 2,
+            "bbox": [
+                230,
+                631,
+                295,
+                650
+            ]
+        },
+        {
+            "text": "XPL",
+            "id": 3,
+            "bbox": [
+                310,
+                631,
+                341,
+                649
+            ]
+        },
+        {
+            "text": "DATES",
+            "id": 4,
+            "bbox": [
+                355,
+                631,
+                409,
+                650
+            ]
+        },
+        {
+            "text": "kg",
+            "id": 5,
+            "bbox": [
+                423,
+                632,
+                443,
+                652
+            ]
+        },
+        {
+            "text": "175.00",
+            "id": 6,
+            "bbox": [
+                539,
+                628,
+                602,
+                649
+            ]
+        },
+        {
+            "text": "Midas",
+            "id": 7,
+            "bbox": [
+                182,
+                686,
+                238,
+                705
+            ]
+        },
+        {
+            "text": "Window",
+            "id": 8,
+            "bbox": [
+                252,
+                684,
+                318,
+                704
+            ]
+        },
+        {
+            "text": "Rectangle",
+            "id": 9,
+            "bbox": [
+                332,
+                683,
+                431,
+                705
+            ]
+        },
+        {
+            "text": "237.50",
+            "id": 10,
+            "bbox": [
+                536,
+                682,
+                601,
+                703
+            ]
+        },
+        {
+            "text": "Visa",
+            "id": 11,
+            "bbox": [
+                213,
+                767,
+                257,
+                788
+            ]
+        },
+        {
+            "text": "Card",
+            "id": 12,
+            "bbox": [
+                270,
+                765,
+                314,
+                787
+            ]
+        },
+        {
+            "text": "-412.50",
+            "id": 13,
+            "bbox": [
+                556,
+                762,
+                632,
+                786
+            ]
+        },
+        {
+            "text": "Description",
+            "id": 14,
+            "bbox": [
+                214,
+                575,
+                339,
+                598
+            ]
+        },
+        {
+            "text": "Amount",
+            "id": 15,
+            "bbox": [
+                565,
+                569,
+                633,
+                591
+            ]
+        },
+        {
+            "text": "VAT",
+            "id": 16,
+            "bbox": [
+                172,
+                999,
+                206,
+                1021
+            ]
+        },
+        {
+            "text": "RegNo.:",
+            "id": 17,
+            "bbox": [
+                219,
+                996,
+                299,
+                1022
+            ]
+        },
+        {
+            "text": "100239497900003",
+            "id": 18,
+            "bbox": [
+                342,
+                988,
+                514,
+                1017
+            ]
+        },
+        {
+            "text": "INVOICE",
+            "id": 19,
+            "bbox": [
+                396,
+                185,
+                556,
+                238
+            ]
+        },
+        {
+            "text": "duba",
+            "id": 20,
+            "bbox": [
+                286,
+                348,
+                339,
+                378
+            ]
+        },
+        {
+            "text": "Dubaimall,Dubai,UAE",
+            "id": 21,
+            "bbox": [
+                295,
+                260,
+                513,
+                292
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "lineItems",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ALL",
+                "BATEEL",
+                "XPL",
+                "DATES",
+                "kg",
+                "175.00",
+                "Midas",
+                "Window",
+                "Rectangle",
+                "237.50"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "otherLines",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Visa",
+                "Card",
+                "-412.50",
+                "VAT",
+                "RegNo.:",
+                "100239497900003",
+                "INVOICE",
+                "duba",
+                "Dubaimall,Dubai,UAE"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ]
+        },
+        {
+            "field_name": "heading",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Description",
+                "Amount"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/85.jpg"
+    }
+}
