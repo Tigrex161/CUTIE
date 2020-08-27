@@ -6,7 +6,7 @@ import numpy as np
 import argparse, os
 import timeit
 from pprint import pprint
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 from data_loader_json import DataLoader
 from utils import *
