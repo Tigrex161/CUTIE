@@ -6,7 +6,7 @@ import tensorflow as tf
 import numpy as np
 import argparse
 import os, csv, timeit
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 from model_cutie_aspp import CUTIERes as CUTIEv1
 from model_cutie2_aspp import CUTIE2 as CUTIEv2
