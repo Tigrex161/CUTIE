@@ -258,8 +258,8 @@ def vis_bbox(data_loader, file_prefix, grid_table, gt_classes, model_output_val,
         cv2.addWeighted(overlay_box, alpha, img, 1-alpha, 0, img)
         cv2.addWeighted(overlay_line, 1-alpha, img, 1, 0, img)
         cv2.imwrite('results/' + file_name[:-4]+'.png', img)        
-        cv2.imshow("test", img)
-        cv2.waitKey(0)
+#         cv2.imshow("test", img)
+#         cv2.waitKey(0)
         
 
 def cal_accuracy_table(data_loader, grid_table, gt_classes, model_output_val, label_mapids, bbox_mapids):
@@ -385,5 +385,5 @@ def vis_table(data_loader, file_prefix, grid_table, gt_classes, model_output_val
         cv2.addWeighted(overlay_box, alpha, img, 1-alpha, 0, img)
         cv2.addWeighted(overlay_line, 1-alpha, img, 1, 0, img)
         cv2.imwrite('results/' + file_name[:-4]+'.png', img)        
-        cv2.imshow("test", img)
-        cv2.waitKey(0)
+#         cv2.imshow("test", img)
+#         cv2.waitKey(0)

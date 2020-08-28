@@ -126,12 +126,18 @@ if __name__ == '__main__':
             bboxes = data['bboxes'][file_name]
             if not params.is_table:
                 vis_bbox(data_loader, params.doc_path, np.array(data['grid_table'])[0], 
-                         np.array(data['gt_classes'])[0], np.array(model_output_val)[0], file_name, 
+                         np.array(data['gt_classes'])[0], np.array(model_output_val)[0], '0.jpg', 
                          np.array(bboxes), shape)
+                print('visualizing333333')
+                print(params.doc_path, file_name)
             else:
                 vis_table(data_loader, params.doc_path, np.array(data['grid_table'])[0], 
-                         np.array(data['gt_classes'])[0], np.array(model_output_val)[0], file_name, 
+                         np.array(data['gt_classes'])[0], np.array(model_output_val)[0], '0.jpg', 
                          np.array(bboxes), shape)
+                print('visualizing')
+                print(params.doc_path, file_name)
+            print('visualizing22222')
+            print(params.doc_path, file_name)
 
         recall = sum(recalls) / len(recalls)
         acc_strict = sum(accs_strict) / len(accs_strict)
