@@ -68,8 +68,8 @@ if __name__ == '__main__':
             print(ckpt_path)
             ckpt = tf.train.get_checkpoint_state(ckpt_path)
             print('Restoring from {}...'.format(ckpt_path))
-#             ckpt_saver.restore(sess, ckpt_path)
-            ckpt_saver.restore(sess, tf.train.latest_checkpoint('./'))
+            ckpt_saver.restore(sess, ckpt_path)
+#             ckpt_saver.restore(sess, tf.train.latest_checkpoint('./'))
             print('{} restored'.format(ckpt_path))
         except:
             raise Exception('Check your pretrained {:s}'.format(ckpt_path))
