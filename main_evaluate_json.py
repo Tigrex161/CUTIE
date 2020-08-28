@@ -65,6 +65,7 @@ if __name__ == '__main__':
         try:
             #ckpt_path = os.path.join(params.e_ckpt_path, params.save_prefix, params.ckpt_file)
             ckpt_path = '/content/content/CUTIE/graph/INVOICE/CUTIE_atrousSPP_best.ckpt'
+            print(ckpt_path)
             ckpt = tf.train.get_checkpoint_state(ckpt_path)
             print('Restoring from {}...'.format(ckpt_path))
             ckpt_saver.restore(sess, ckpt_path)
