@@ -2,34 +2,25 @@
 # 2019-01 
 # written by Xiaohui Zhao
 # xiaohui.zhao@outlook.com
+
+# external dependencies
 from os import walk
 from os.path import isfile, join
 import csv, re, random, json
 from collections import defaultdict
-
 import numpy as np
+import cv2
+
+# local files
+import tokenization
+from utils import is_number
+
 np_load_old = np.load
 np.load = lambda *a,**k: np_load_old(*a, allow_pickle=True, **k)
-import tensorflow as tf
-import tokenization
-import cv2
+
 
 DEBUG = False # True to show grid as image 
 
-import unicodedata
-def is_number(s):
-    try:
-        float(s)
-        return True
-    except ValueError:
-        pass
- 
-    try:
-        unicodedata.numeric(s)
-        return True
-    except (TypeError, ValueError):
-        pass 
-    return False
 
 class DataLoader():
     """
@@ -39,20 +30,20 @@ class DataLoader():
         self.random = False
         self.data_laundry = False
         self.encoding_factor = 1 # ensures the size (rows/cols) of grid table compat with the network
-        # self.classes = ['O', 'DATE_SALE', 'ADDRESS_SELLER', 'DOC_NR', 'DATE_CREATION', 'ADDRESS_CONTRACTOR', 'VAT_ID_CONTRACTOR', 'PAYMENT_METHOD', 'VAT_ID_SELLER', 'PAYMENT_BANK_NR', 'TOTAL_PAY', 'TOTAL_CURRENCY', 'TOTAL_TAX', 'TOTAL_WITH_TAX', 'TOTAL_WITHOUT_TAX', 'DATE_PAYMENT', 'NAME_SELLER', 'NAME_CONTRACTOR']
-        self.classes = ['DontCare', 'lineItems', 'heading', 'otherLines'] # for table
-        #self.classes = ['DontCare', 'Column0', 'Column1', 'Column2', 'Column3', 'Column4', 'Column5'] # for column
-        #self.classes = ['DontCare', 'Column']
-        #self.classes = ['DontCare', 'VendorName', 'VendorTaxID', 'InvoiceDate', 'InvoiceNumber', 'ExpenseAmount', 'BaseAmount', 'TaxAmount', 'TaxRate'] # for Spanish project
+        
+        # set number of classes in training data
+        self.classes = ['DontCare', 'lineItems', 'heading', 'otherLines'] 
         
         self.doc_path = params.doc_path
         self.doc_test_path = params.test_path
         self.use_cutie2 = params.use_cutie2 
         self.text_case = params.text_case 
         self.tokenize = params.tokenize
+
         if self.tokenize:
             self.tokenizer = tokenization.FullTokenizer('dict/vocab.txt', do_lower_case=not self.text_case)
-        
+            print(self.tokenizer)
+
         self.rows = self.encoding_factor # to be updated 
         self.cols = self.encoding_factor # to be updated 
         self.segment_grid = params.segment_grid if hasattr(params, 'segment_grid') else False # segment grid into two parts if grid is larger than cols_target
@@ -96,6 +87,7 @@ class DataLoader():
         
         ## 1.1> load words and their location/class as training/validation docs and labels 
         self.training_doc_files = self._get_filenames(self.doc_path)
+        print(self.training_doc_files)
         self.training_docs, self.training_labels = self.load_data(self.training_doc_files, update_dict=update_dict) # TBD: optimize the update dict flag
         
         # polish and load dictionary/word_to_index/index_to_word as file
@@ -103,6 +95,9 @@ class DataLoader():
         self._updae_word_to_index()
         self._update_docs_dictionary(self.training_docs, 3, self.remove_lowfreq_words) # remove low frequency words and add it under the <unknown> key
         
+        # print(self.training_docs)
+        # print(self.training_labels)
+
         # save dictionary/word_to_index/index_to_word as file
         np.save(self.dict_path + '_dictionary.npy', self.dictionary)
         np.save(self.dict_path + '_word_to_index.npy', self.word_to_index)

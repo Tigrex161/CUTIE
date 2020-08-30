@@ -3,13 +3,29 @@
 # xiaohui.zhao@outlook.com
 import numpy as np
 import csv
+import unicodedata
 from os.path import join
+
 try:
     import cv2
 except ImportError:
     pass
 
 c_threshold = 0.5
+
+def is_number(s):
+    try:
+        float(s)
+        return True
+    except ValueError:
+        pass
+ 
+    try:
+        unicodedata.numeric(s)
+        return True
+    except (TypeError, ValueError):
+        pass 
+    return False
 
 def cal_accuracy(data_loader, grid_table, gt_classes, model_output_val, label_mapids, bbox_mapids):
     #num_tp = 0

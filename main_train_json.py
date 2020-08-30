@@ -178,7 +178,7 @@ if __name__ == '__main__':
     
     ckpt_saver = tf.train.Saver(max_to_keep=200)
     summary_path = os.path.join(params.log_path, params.save_prefix, network.name)
-    summary_writer = tf.summary.FileWriter(summary_path, tf.get_default_graph(), flush_secs=10)
+    # summary_writer = tf.summary.FileWriter(summary_path, tf.get_default_graph(), flush_secs=10)
     
     config = tf.ConfigProto(allow_soft_placement=True)
     config.gpu_options.allow_growth = True
@@ -390,9 +390,9 @@ if __name__ == '__main__':
                 save_ckpt(sess, params.ckpt_path, params.save_prefix, data_loader, network, num_words, num_classes, iter)
                 
             # save logs
-            if iter>=params.log_save_step and iter%params.log_save_step == 0:
-                summary_writer.add_summary(summary_str, iter+1)    
+            # if iter>=params.log_save_step and iter%params.log_save_step == 0:
+                # summary_writer.add_summary(summary_str, iter+1)    
     
     pprint(params)
     pprint('Data rows/cols:{},{}'.format(data_loader.rows, data_loader.cols))
-    summary_writer.close()
+    # summary_writer.close()
