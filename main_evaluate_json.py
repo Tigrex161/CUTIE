@@ -64,7 +64,7 @@ if __name__ == '__main__':
         sess.run(tf.global_variables_initializer())
         try:
             ckpt_path = os.path.join(params.e_ckpt_path, params.save_prefix)
-            ckpt_saver = tf.train.import_meta_graph('gdrive/My Drive/checkpoints/graph/INVOICE/CUTIE_atrousSPP_d20000c4(r80c80)_iter_501.ckpt.meta')
+            ckpt_saver = tf.train.import_meta_graph('gdrive/My Drive/checkpoints/cutie2/INVOICE/CUTIE2_dilate_d20000c3(r80c80)_iter_1200.ckpt.meta')
             print(ckpt_path)
             ckpt = tf.train.get_checkpoint_state(ckpt_path)
             print('Restoring from {}...'.format(ckpt_path))
