@@ -24,6 +24,7 @@ parser.add_argument('--fill_bbox', type=bool, default=False) # augment data row/
 
 parser.add_argument('--e_ckpt_path', type=str, default='../graph/CUTIE/graph/') # modify this
 parser.add_argument('--ckpt_file', type=str, default='CUTIE_atrousSPP_d20000c5(r80c80)_iter_29201.ckpt')
+parser.add_argument('--meta_file', type=str, default='gdrive/My Drive/checkpoints/graph/INVOICE/CUTIE_atrousSPP_d20000c4(r80c80)_iter_501.ckpt.meta')
 parser.add_argument('--positional_mapping_strategy', type=int, default=1)
 parser.add_argument('--rows_target', type=int, default=80)  
 parser.add_argument('--cols_target', type=int, default=80) 
@@ -64,7 +65,7 @@ if __name__ == '__main__':
         sess.run(tf.global_variables_initializer())
         try:
             ckpt_path = os.path.join(params.e_ckpt_path, params.save_prefix)
-            ckpt_saver = tf.train.import_meta_graph('gdrive/My Drive/checkpoints/cutie2/INVOICE/CUTIE2_dilate_d20000c3(r80c80)_iter_1200.ckpt.meta')
+            ckpt_saver = tf.train.import_meta_graph(str(params.meta_file))
             print(ckpt_path)
             ckpt = tf.train.get_checkpoint_state(ckpt_path)
             print('Restoring from {}...'.format(ckpt_path))
