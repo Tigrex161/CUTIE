@@ -210,7 +210,7 @@ if __name__ == '__main__':
                     ckpt_saver = tf.train.import_meta_graph(params.meta_file) 
                     ckpt = tf.train.get_checkpoint_state(ckpt_path)
                     print('Restoring from {}...'.format(ckpt_path))
-                    ckpt_saver.restore(sess, ckpt_path)
+                    ckpt_saver.restore(sess, tf.train.latest_checkpoint(ckpt_path))
                     print('Restored from {}'.format(ckpt_path))
                     stem = os.path.splitext(os.path.basename(ckpt_path))[0]
                     #iter_start = int(stem.split('_')[-1]) - 1
