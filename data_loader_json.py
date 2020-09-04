@@ -26,7 +26,7 @@ class DataLoader():
     """
     grid tables producer
     """
-    def __init__(self, params, update_dict=True, load_dictionary=False, data_split=0.75):
+    def __init__(self, params, update_dict=True, load_dictionary=False, data_split=0.85):
         self.random = False
         self.data_laundry = False
         self.encoding_factor = 1 # ensures the size (rows/cols) of grid table compat with the network
