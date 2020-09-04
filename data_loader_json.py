@@ -641,8 +641,10 @@ class DataLoader():
                 file_id = data['global_attributes']['file_id']
                 
                 label = self._collect_label(file_id, data['fields'])
+                
                 # ignore corrupted data
                 if not label:
+                    print('corrupted')
                     continue                
                 label_dressed.update(label) 
                 
