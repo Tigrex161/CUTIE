@@ -66,11 +66,11 @@ if __name__ == '__main__':
         try:
             ckpt_path = os.path.join(params.e_ckpt_path, params.save_prefix)
             ckpt_saver = tf.train.import_meta_graph(params.meta_file) # gdrive/My Drive/checkpoints/graph/INVOICE/CUTIE_atrousSPP_d20000c4(r80c80)_iter_501.ckpt.meta
-            print(ckpt_path)
+            # print(ckpt_path)
             ckpt = tf.train.get_checkpoint_state(ckpt_path)
             print('Restoring from {}...'.format(ckpt_path))
-#             ckpt_saver.restore(sess, ckpt_path)
-            ckpt_saver.restore(sess, tf.train.latest_checkpoint(ckpt_path))
+            ckpt_saver.restore(sess, ckpt_path)
+            # ckpt_saver.restore(sess, tf.train.latest_checkpoint(ckpt_path))
             print('{} restored'.format(ckpt_path))
         except:
             raise Exception('Check your pretrained {:s}'.format(ckpt_path))

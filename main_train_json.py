@@ -23,10 +23,11 @@ parser.add_argument('--test_path', type=str, default='') # leave empty if no tes
 
 # ckpt
 parser.add_argument('--restore_ckpt', type=bool, default=False) 
+parser.add_argument('--meta_file', type=str, default='gdrive/My Drive/checkpoints/graph/INVOICE/CUTIE_atrousSPP_d20000c4(r80c80)_iter_501.ckpt.meta')
 parser.add_argument('--restore_bertembedding_only', type=bool, default=False) # effective when restore_ckpt is True
 parser.add_argument('--embedding_file', type=str, default='../graph/bert/multi_cased_L-12_H-768_A-12/bert_model.ckpt') 
-parser.add_argument('--ckpt_path', type=str, default='../graph/CUTIE/graph/')
-parser.add_argument('--ckpt_file', type=str, default='meals/CUTIE_highresolution_8x_d20000c9(r80c80)_iter_40000.ckpt')  
+parser.add_argument('--ckpt_path', type=str, default='./gdrive/My Drive/checkpoints/cutie3/')
+parser.add_argument('--ckpt_file', type=str, default='')  
 
 # dict
 parser.add_argument('--load_dict', type=bool, default=True, help='True to work based on an existing dict') 
@@ -206,6 +207,7 @@ if __name__ == '__main__':
             else:
                 try:
                     ckpt_path = os.path.join(params.ckpt_path, params.ckpt_file)
+                    ckpt_saver = tf.train.import_meta_graph(params.meta_file)
                     ckpt = tf.train.get_checkpoint_state(ckpt_path)
                     print('Restoring from {}...'.format(ckpt_path))
                     ckpt_saver.restore(sess, ckpt_path)
