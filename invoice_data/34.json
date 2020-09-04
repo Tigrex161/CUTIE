@@ -1,110 +1,236 @@
 {
     "text_boxes": [
         {
-            "text": "SKC",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                193,
-                359,
-                213,
-                368
+                296,
+                309,
+                363,
+                321
             ]
         },
         {
-            "text": "5.00",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                216,
-                360,
-                234,
-                367
+                374,
+                306,
+                451,
+                319
             ]
         },
         {
-            "text": "429",
+            "text": "04/07/20",
             "id": 3,
             "bbox": [
-                306,
-                361,
-                320,
-                367
+                261,
+                531,
+                328,
+                545
             ]
         },
         {
-            "text": "429",
+            "text": "21:14",
             "id": 4,
             "bbox": [
-                371,
-                361,
-                385,
-                367
+                338,
+                528,
+                379,
+                542
             ]
         },
         {
-            "text": "P",
+            "text": "1,200.00",
             "id": 5,
             "bbox": [
-                392,
-                360,
-                395,
-                366
+                501,
+                745,
+                565,
+                761
             ]
         },
         {
-            "text": "1OD01331",
+            "text": "1,200.00",
             "id": 6,
             "bbox": [
-                196,
-                375,
-                234,
-                383
+                497,
+                661,
+                561,
+                677
             ]
         },
         {
-            "text": "0822327571201",
+            "text": "Leather",
             "id": 7,
             "bbox": [
-                247,
-                373,
-                327,
-                383
+                212,
+                656,
+                269,
+                670
             ]
         },
         {
-            "text": "COAT",
+            "text": "Accessory",
             "id": 8,
             "bbox": [
-                328,
-                375,
-                346,
-                383
+                279,
+                651,
+                352,
+                667
+            ]
+        },
+        {
+            "text": "BAG",
+            "id": 9,
+            "bbox": [
+                214,
+                678,
+                237,
+                690
+            ]
+        },
+        {
+            "text": "LEATHER",
+            "id": 10,
+            "bbox": [
+                247,
+                674,
+                303,
+                689
+            ]
+        },
+        {
+            "text": "MAYA",
+            "id": 11,
+            "bbox": [
+                309,
+                669,
+                351,
+                688
+            ]
+        },
+        {
+            "text": "H",
+            "id": 12,
+            "bbox": [
+                354,
+                669,
+                365,
+                685
+            ]
+        },
+        {
+            "text": "S",
+            "id": 13,
+            "bbox": [
+                372,
+                672,
+                377,
+                682
+            ]
+        },
+        {
+            "text": "900909024",
+            "id": 14,
+            "bbox": [
+                262,
+                692,
+                330,
+                712
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SKC",
-                "5.00",
-                "429",
-                "429",
-                "P",
-                "1OD01331",
-                "0822327571201",
-                "COAT"
+                "Leather",
+                "Accessory",
+                "BAG",
+                "LEATHER",
+                "MAYA",
+                "H",
+                "S"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:14"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "04/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,200.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900909024"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,200.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

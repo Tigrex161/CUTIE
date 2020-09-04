@@ -1,119 +1,164 @@
 {
     "text_boxes": [
         {
-            "text": "Description/es",
+            "text": "07/04/2020",
             "id": 1,
             "bbox": [
-                219,
-                518,
-                320,
-                531
+                163,
+                497,
+                222,
+                509
             ]
         },
         {
-            "text": "Amount/ts",
+            "text": "2,485.00",
             "id": 2,
             "bbox": [
-                366,
-                511,
-                434,
-                529
+                536,
+                756,
+                581,
+                765
             ]
         },
         {
-            "text": "THE",
+            "text": "1",
             "id": 3,
             "bbox": [
-                220,
-                568,
-                238,
-                579
+                577,
+                778,
+                580,
+                785
             ]
         },
         {
-            "text": "GRAND",
+            "text": "1",
             "id": 4,
             "bbox": [
-                247,
-                566,
-                279,
-                579
+                473,
+                637,
+                475,
+                644
             ]
         },
         {
-            "text": "DOLL",
+            "text": "OBI",
             "id": 5,
             "bbox": [
-                288,
-                566,
-                313,
-                579
+                213,
+                628,
+                233,
+                641
             ]
         },
         {
-            "text": "HOUSE",
+            "text": "BELT",
             "id": 6,
             "bbox": [
-                321,
-                565,
-                353,
-                578
+                235,
+                629,
+                255,
+                642
             ]
         },
         {
-            "text": "943.95",
+            "text": "0010409852",
             "id": 7,
             "bbox": [
-                428,
-                563,
-                465,
-                575
+                110,
+                629,
+                172,
+                640
             ]
         },
         {
-            "text": "VA",
+            "text": "3,380.95",
             "id": 8,
             "bbox": [
-                473,
-                563,
-                485,
-                574
+                630,
+                639,
+                675,
+                647
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "THE",
-                "GRAND",
-                "DOLL",
-                "HOUSE",
-                "943.95",
-                "VA"
+                "1"
             ],
             "value_id": [
-                3,
-                4,
-                5,
-                6,
-                7,
-                8
+                4
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Description/es",
-                "Amount/ts"
+                "OBI",
+                "BELT"
             ],
             "value_id": [
-                1,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/04/2020"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,485.00"
+            ],
+            "value_id": [
                 2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0010409852"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,380.95"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

@@ -1,119 +1,134 @@
 {
     "text_boxes": [
         {
-            "text": "Flexfit",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                122,
-                859,
-                216,
-                885
+                418,
+                317,
+                454,
+                328
             ]
         },
         {
-            "text": "110",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                230,
-                858,
-                278,
-                882
+                460,
+                320,
+                515,
+                331
             ]
         },
         {
-            "text": "White",
+            "text": "21/07/2020",
             "id": 3,
             "bbox": [
-                291,
-                856,
-                397,
-                882
+                598,
+                516,
+                655,
+                525
             ]
         },
         {
-            "text": "AED",
+            "text": "16:07",
             "id": 4,
             "bbox": [
-                466,
-                853,
-                532,
-                878
+                674,
+                518,
+                700,
+                526
             ]
         },
         {
-            "text": "105.00",
+            "text": "1,580.00",
             "id": 5,
             "bbox": [
-                545,
-                852,
-                640,
-                877
+                721,
+                578,
+                764,
+                585
             ]
         },
         {
-            "text": "OS",
+            "text": "1.500:00",
             "id": 6,
             "bbox": [
-                122,
-                899,
-                160,
-                923
+                726,
+                732,
+                771,
+                740
             ]
         },
         {
-            "text": "Item",
+            "text": "0.00",
             "id": 7,
             "bbox": [
-                121,
-                795,
-                184,
-                819
-            ]
-        },
-        {
-            "text": "Price",
-            "id": 8,
-            "bbox": [
-                564,
-                788,
-                639,
-                811
+                743,
+                609,
+                764,
+                615
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Flexfit",
-                "110",
-                "White",
-                "AED",
-                "105.00",
-                "OS"
+                "16:07"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21/07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.500:00"
+            ],
+            "value_id": [
                 6
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Item",
-                "Price"
+                "LOUIS",
+                "VUITTON"
             ],
             "value_id": [
-                7,
-                8
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,580.00",
+                "0.00"
+            ],
+            "value_id": [
+                5,
+                7
             ]
         }
     ],

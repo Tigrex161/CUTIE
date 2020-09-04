@@ -1,50 +1,185 @@
 {
     "text_boxes": [
         {
-            "text": "213412444",
+            "text": "30/06/20",
             "id": 1,
             "bbox": [
-                155,
-                475,
-                230,
-                490
+                256,
+                277,
+                318,
+                288
             ]
         },
         {
-            "text": "10",
+            "text": "12:19",
             "id": 2,
             "bbox": [
-                326,
-                478,
-                348,
-                489
+                329,
+                274,
+                366,
+                286
             ]
         },
         {
-            "text": "435.00",
+            "text": "313.74",
             "id": 3,
             "bbox": [
-                391,
-                477,
-                440,
-                491
+                485,
+                509,
+                529,
+                521
+            ]
+        },
+        {
+            "text": "498.00",
+            "id": 4,
+            "bbox": [
+                490,
+                390,
+                535,
+                402
+            ]
+        },
+        {
+            "text": "1",
+            "id": 5,
+            "bbox": [
+                203,
+                414,
+                226,
+                429
+            ]
+        },
+        {
+            "text": "TS",
+            "id": 6,
+            "bbox": [
+                201,
+                395,
+                216,
+                406
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 7,
+            "bbox": [
+                226,
+                395,
+                248,
+                406
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                529,
+                432,
+                531,
+                442
+            ]
+        },
+        {
+            "text": "900978171",
+            "id": 9,
+            "bbox": [
+                243,
+                414,
+                310,
+                427
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "213412444",
-                "10",
-                "435.00"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TS",
+                "SKU"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:19"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30/06/20"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "313.74"
+            ],
+            "value_id": [
                 3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900978171"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "498.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

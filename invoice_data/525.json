@@ -1,155 +1,203 @@
 {
     "text_boxes": [
         {
-            "text": "549.00",
+            "text": "OPTIFASHION",
             "id": 1,
             "bbox": [
-                509,
-                474,
-                561,
-                491
+                248,
+                428,
+                375,
+                453
             ]
         },
         {
-            "text": "549.00",
+            "text": "HEEYEWEAY",
             "id": 2,
             "bbox": [
-                600,
-                474,
-                653,
-                490
+                250,
+                451,
+                321,
+                463
             ]
         },
         {
-            "text": "EAX8X007-E593",
+            "text": "EOUTIQUE",
             "id": 3,
             "bbox": [
-                170,
-                475,
-                283,
-                496
+                329,
+                448,
+                376,
+                458
             ]
         },
         {
-            "text": "SNEAKER-BLACK+GUNMETAL",
+            "text": "11072020",
             "id": 4,
             "bbox": [
-                170,
-                494,
-                363,
-                512
+                376,
+                501,
+                415,
+                509
             ]
         },
         {
-            "text": "8.5",
+            "text": "1.300",
             "id": 5,
             "bbox": [
-                365,
-                475,
-                391,
-                493
+                636,
+                653,
+                657,
+                659
             ]
         },
         {
-            "text": "1",
+            "text": "DO",
             "id": 6,
             "bbox": [
-                456,
-                476,
-                459,
-                491
+                660,
+                653,
+                669,
+                658
             ]
         },
         {
-            "text": "ITEM",
+            "text": "1,300.00",
             "id": 7,
             "bbox": [
-                174,
-                417,
-                205,
-                439
+                653,
+                585,
+                685,
+                594
             ]
         },
         {
-            "text": "Size",
+            "text": "SEVL",
             "id": 8,
             "bbox": [
-                366,
-                418,
-                400,
-                437
+                373,
+                596,
+                394,
+                605
             ]
         },
         {
-            "text": "QTY",
+            "text": "8222",
             "id": 9,
             "bbox": [
-                446,
-                416,
-                471,
-                438
+                397,
+                596,
+                415,
+                604
             ]
         },
         {
-            "text": "PRICE",
+            "text": "50TS",
             "id": 10,
             "bbox": [
-                510,
-                414,
-                553,
-                435
+                418,
+                595,
+                442,
+                603
             ]
         },
         {
-            "text": "TOTAL",
+            "text": "55",
             "id": 11,
             "bbox": [
-                610,
-                413,
-                653,
-                431
+                445,
+                595,
+                454,
+                602
+            ]
+        },
+        {
+            "text": "H056597066792",
+            "id": 12,
+            "bbox": [
+                171,
+                602,
+                229,
+                613
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "549.00",
-                "549.00",
-                "EAX8X007-E593",
-                "SNEAKER-BLACK+GUNMETAL",
-                "8.5",
-                "1"
+                "SEVL",
+                "8222",
+                "50TS",
+                "55"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11072020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.300",
+                "DO"
+            ],
+            "value_id": [
                 5,
                 6
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ITEM",
-                "Size",
-                "QTY",
-                "PRICE",
-                "TOTAL"
+                "OPTIFASHION",
+                "HEEYEWEAY",
+                "EOUTIQUE"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "H056597066792"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,300.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

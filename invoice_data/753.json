@@ -1,0 +1,216 @@
+{
+    "text_boxes": [
+        {
+            "text": "Baldinini",
+            "id": 1,
+            "bbox": [
+                344,
+                206,
+                442,
+                222
+            ]
+        },
+        {
+            "text": "08:06",
+            "id": 2,
+            "bbox": [
+                386,
+                406,
+                416,
+                416
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 3,
+            "bbox": [
+                420,
+                408,
+                435,
+                416
+            ]
+        },
+        {
+            "text": "AED1,250.00",
+            "id": 4,
+            "bbox": [
+                258,
+                610,
+                419,
+                636
+            ]
+        },
+        {
+            "text": "1,250",
+            "id": 5,
+            "bbox": [
+                455,
+                503,
+                495,
+                519
+            ]
+        },
+        {
+            "text": "00",
+            "id": 6,
+            "bbox": [
+                500,
+                503,
+                518,
+                519
+            ]
+        },
+        {
+            "text": "1x",
+            "id": 7,
+            "bbox": [
+                228,
+                506,
+                241,
+                515
+            ]
+        },
+        {
+            "text": "HEEL",
+            "id": 8,
+            "bbox": [
+                256,
+                506,
+                292,
+                516
+            ]
+        },
+        {
+            "text": "SANDALS",
+            "id": 9,
+            "bbox": [
+                298,
+                506,
+                364,
+                516
+            ]
+        },
+        {
+            "text": "38",
+            "id": 10,
+            "bbox": [
+                370,
+                506,
+                385,
+                516
+            ]
+        },
+        {
+            "text": "BLU",
+            "id": 11,
+            "bbox": [
+                392,
+                505,
+                418,
+                516
+            ]
+        },
+        {
+            "text": "054122",
+            "id": 12,
+            "bbox": [
+                261,
+                538,
+                300,
+                550
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1x"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HEEL",
+                "SANDALS",
+                "38",
+                "BLU"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08:06",
+                "PM"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED1,250.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Baldinini"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "054122"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,250",
+                "00"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/753.jpg"
+    }
+}

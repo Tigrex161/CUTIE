@@ -1,170 +1,278 @@
 {
     "text_boxes": [
         {
-            "text": "Ultimate",
+            "text": "SEPHORA",
             "id": 1,
             "bbox": [
-                168,
-                460,
-                267,
-                480
+                315,
+                320,
+                371,
+                340
             ]
         },
         {
-            "text": "Fr.Toas",
+            "text": "DUBAI",
             "id": 2,
             "bbox": [
-                284,
-                460,
-                369,
-                479
+                378,
+                324,
+                416,
+                341
             ]
         },
         {
-            "text": "53.00",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                522,
-                456,
-                583,
-                475
+                424,
+                327,
+                453,
+                342
             ]
         },
         {
-            "text": "Piccolo",
+            "text": "July",
             "id": 4,
             "bbox": [
-                166,
-                489,
-                254,
-                510
+                389,
+                1220,
+                423,
+                1241
             ]
         },
         {
-            "text": "Latte",
+            "text": "24,2020",
             "id": 5,
             "bbox": [
-                270,
+                431,
+                1219,
                 489,
-                331,
-                509
+                1239
             ]
         },
         {
-            "text": "21.00",
+            "text": "22:19:52",
             "id": 6,
             "bbox": [
-                524,
-                484,
-                585,
-                504
+                498,
+                1214,
+                562,
+                1234
             ]
         },
         {
-            "text": "Iced",
+            "text": "105.00",
             "id": 7,
             "bbox": [
-                167,
-                518,
-                215,
-                538
+                462,
+                799,
+                546,
+                813
             ]
         },
         {
-            "text": "Melt",
+            "text": "105.00",
             "id": 8,
             "bbox": [
-                243,
-                545,
-                291,
-                568
+                505,
+                723,
+                547,
+                739
             ]
         },
         {
-            "text": "25",
+            "text": "1",
             "id": 9,
             "bbox": [
-                308,
-                546,
-                331,
-                566
+                325,
+                724,
+                329,
+                737
             ]
         },
         {
-            "text": "BX",
+            "text": "LIQUID",
             "id": 10,
             "bbox": [
-                347,
-                547,
-                370,
-                566
+                356,
+                685,
+                401,
+                702
             ]
         },
         {
-            "text": "53.00",
+            "text": "NATTE",
             "id": 11,
             "bbox": [
-                527,
-                542,
-                589,
-                563
+                410,
+                686,
+                447,
+                700
             ]
         },
         {
-            "text": "330ml",
+            "text": "2.5ML",
             "id": 12,
             "bbox": [
-                230,
-                576,
-                289,
-                597
+                456,
+                687,
+                493,
+                701
             ]
         },
         {
-            "text": "12.00",
+            "text": "403",
             "id": 13,
             "bbox": [
-                530,
-                571,
-                590,
-                592
+                502,
+                687,
+                524,
+                701
+            ]
+        },
+        {
+            "text": "021713424429",
+            "id": 14,
+            "bbox": [
+                219,
+                683,
+                315,
+                700
+            ]
+        },
+        {
+            "text": "LI",
+            "id": 15,
+            "bbox": [
+                223,
+                703,
+                266,
+                715
+            ]
+        },
+        {
+            "text": "al",
+            "id": 16,
+            "bbox": [
+                280,
+                706,
+                306,
+                719
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Ultimate",
-                "Fr.Toas",
-                "53.00",
-                "Piccolo",
-                "Latte",
-                "21.00",
-                "Iced",
-                "Melt",
-                "25",
-                "BX",
-                "53.00",
-                "330ml",
-                "12.00"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LIQUID",
+                "NATTE",
+                "2.5ML",
+                "403"
+            ],
+            "value_id": [
                 10,
                 11,
                 12,
                 13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22:19:52"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "24,2020"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LI",
+                "al"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "021713424429"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

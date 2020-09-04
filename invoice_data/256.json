@@ -1,155 +1,224 @@
 {
     "text_boxes": [
         {
-            "text": "SNC",
+            "text": "RALPH",
             "id": 1,
             "bbox": [
-                252,
-                343,
-                272,
-                352
+                356,
+                247,
+                407,
+                258
             ]
         },
         {
-            "text": "5.00",
+            "text": "LAUREN",
             "id": 2,
             "bbox": [
-                274,
-                343,
-                294,
-                351
+                422,
+                249,
+                485,
+                260
             ]
         },
         {
-            "text": "10001585",
+            "text": "9.July",
             "id": 3,
             "bbox": [
-                252,
-                357,
-                293,
-                367
+                498,
+                572,
+                521,
+                584
             ]
         },
         {
-            "text": "199",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                369,
-                344,
-                383,
-                350
+                523,
+                572,
+                540,
+                584
             ]
         },
         {
-            "text": "0306715771203",
+            "text": "35130",
             "id": 5,
             "bbox": [
-                307,
-                354,
-                378,
-                364
+                547,
+                575,
+                574,
+                582
             ]
         },
         {
-            "text": "TROUSERS",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                391,
-                355,
-                433,
-                366
+                578,
+                576,
+                589,
+                582
             ]
         },
         {
-            "text": "T5P",
+            "text": "370.00",
             "id": 7,
             "bbox": [
-                251,
-                316,
-                265,
-                323
+                688,
+                738,
+                715,
+                744
             ]
         },
         {
-            "text": "TAI",
+            "text": "370.00",
             "id": 8,
             "bbox": [
-                279,
-                315,
-                293,
-                321
+                689,
+                639,
+                714,
+                646
             ]
         },
         {
-            "text": "OTY",
+            "text": "\u0110ENIM",
             "id": 9,
             "bbox": [
-                307,
-                315,
-                321,
-                321
+                362,
+                633,
+                390,
+                641
             ]
         },
         {
-            "text": "PAICE",
+            "text": "BEAR-SHORT",
             "id": 10,
             "bbox": [
-                346,
-                314,
-                371,
-                321
+                394,
+                633,
+                447,
+                642
             ]
         },
         {
-            "text": "AMOUNT",
+            "text": "SLEEVE-",
             "id": 11,
             "bbox": [
-                402,
-                313,
-                431,
-                321
+                450,
+                634,
+                481,
+                643
+            ]
+        },
+        {
+            "text": "KNIT",
+            "id": 12,
+            "bbox": [
+                362,
+                647,
+                381,
+                653
+            ]
+        },
+        {
+            "text": "211785567",
+            "id": 13,
+            "bbox": [
+                121,
+                628,
+                166,
+                635
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SNC",
-                "5.00",
-                "10001585",
-                "199",
-                "0306715771203",
-                "TROUSERS"
+                "\u0110ENIM",
+                "BEAR-SHORT",
+                "SLEEVE-",
+                "KNIT"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "35130",
+                "PM"
+            ],
+            "value_id": [
                 5,
                 6
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "T5P",
-                "TAI",
-                "OTY",
-                "PAICE",
-                "AMOUNT"
+                "9.July",
+                "2020"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "370.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RALPH",
+                "LAUREN"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "211785567"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "370.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

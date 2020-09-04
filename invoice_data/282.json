@@ -1,238 +1,269 @@
 {
     "text_boxes": [
         {
-            "text": "TOTAL",
+            "text": "level",
             "id": 1,
             "bbox": [
-                392,
-                752,
-                423,
-                764
+                318,
+                142,
+                410,
+                203
             ]
         },
         {
-            "text": "Excl.VAT",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                378,
-                768,
-                430,
-                780
+                335,
+                209,
+                392,
+                223
             ]
         },
         {
-            "text": "VAT",
+            "text": "Jul,",
             "id": 3,
             "bbox": [
-                438,
-                768,
-                456,
-                779
+                469,
+                334,
+                495,
+                344
             ]
         },
         {
-            "text": "3",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                466,
-                768,
-                471,
-                779
+                507,
+                332,
+                535,
+                342
             ]
         },
         {
-            "text": "QTY",
+            "text": "11:32",
             "id": 5,
             "bbox": [
-                198,
-                762,
-                218,
-                775
+                546,
+                329,
+                581,
+                340
             ]
         },
         {
-            "text": "Price",
+            "text": "765.00",
             "id": 6,
             "bbox": [
-                261,
-                764,
-                296,
-                779
+                613,
+                649,
+                658,
+                660
             ]
         },
         {
-            "text": "Disc",
+            "text": "637.50",
             "id": 7,
             "bbox": [
-                330,
-                768,
-                356,
-                778
+                618,
+                499,
+                662,
+                511
             ]
         },
         {
-            "text": "TOTAL",
+            "text": "127.50",
             "id": 8,
             "bbox": [
-                500,
-                765,
-                531,
-                780
+                619,
+                550,
+                663,
+                559
             ]
         },
         {
-            "text": "292-2974-000010",
+            "text": "1.",
             "id": 9,
             "bbox": [
-                147,
-                830,
-                252,
-                845
+                420,
+                556,
+                425,
+                565
             ]
         },
         {
-            "text": "8350/56",
+            "text": "TSLDFTW:",
             "id": 10,
             "bbox": [
-                146,
-                849,
-                195,
-                863
+                80,
+                490,
+                134,
+                500
             ]
         },
         {
-            "text": "Notte",
+            "text": "THE",
             "id": 11,
             "bbox": [
-                203,
-                847,
-                239,
-                863
+                138,
+                490,
+                159,
+                498
             ]
         },
         {
-            "text": "Coffee",
+            "text": "SOLE",
             "id": 12,
             "bbox": [
-                247,
-                849,
-                288,
-                862
+                168,
+                489,
+                196,
+                499
             ]
         },
         {
-            "text": "Leveling",
+            "text": "LOUNGE",
             "id": 13,
             "bbox": [
-                296,
-                849,
-                351,
-                862
+                204,
+                488,
+                247,
+                498
             ]
         },
         {
-            "text": "Tool",
+            "text": "PROFESSIONAL",
             "id": 14,
             "bbox": [
-                360,
-                850,
-                384,
-                862
+                257,
+                486,
+                343,
+                496
             ]
         },
         {
-            "text": "58nn",
+            "text": "FOOT",
             "id": 15,
             "bbox": [
-                400,
-                851,
-                426,
-                863
+                352,
+                484,
+                380,
+                494
             ]
         },
         {
-            "text": "Accessories",
+            "text": "THERAPIE",
             "id": 16,
             "bbox": [
-                434,
-                851,
-                508,
-                863
+                388,
+                482,
+                447,
+                493
             ]
         },
         {
-            "text": "0.00",
+            "text": "TSLLMW:",
             "id": 17,
             "bbox": [
-                318,
-                866,
-                344,
-                878
+                80,
+                537,
+                130,
+                550
             ]
         },
         {
-            "text": "208.57",
+            "text": "THE",
             "id": 18,
             "bbox": [
-                233,
-                867,
-                273,
-                879
+                132,
+                536,
+                166,
+                549
             ]
         },
         {
-            "text": "208.57",
+            "text": "SOLE",
             "id": 19,
             "bbox": [
-                387,
-                867,
-                426,
-                880
+                170,
+                537,
+                190,
+                548
             ]
         },
         {
-            "text": "5%",
+            "text": "LOUNGE",
             "id": 20,
             "bbox": [
-                449,
-                867,
-                461,
-                879
+                199,
+                536,
+                241,
+                546
             ]
         },
         {
-            "text": "219.00",
+            "text": "NAIL",
             "id": 21,
             "bbox": [
-                497,
-                865,
-                536,
-                878
+                250,
+                535,
+                278,
+                544
+            ]
+        },
+        {
+            "text": "TREATMENTS:",
+            "id": 22,
+            "bbox": [
+                286,
+                533,
+                363,
+                545
+            ]
+        },
+        {
+            "text": "FEMALE",
+            "id": 23,
+            "bbox": [
+                376,
+                532,
+                417,
+                542
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "292-2974-000010",
-                "8350/56",
-                "Notte",
-                "Coffee",
-                "Leveling",
-                "Tool",
-                "58nn",
-                "Accessories",
-                "0.00",
-                "208.57",
-                "208.57",
-                "5%",
-                "219.00"
+                "1."
             ],
             "value_id": [
-                9,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TSLDFTW:",
+                "THE",
+                "SOLE",
+                "LOUNGE",
+                "PROFESSIONAL",
+                "FOOT",
+                "THERAPIE",
+                "TSLLMW:",
+                "THE",
+                "SOLE",
+                "LOUNGE",
+                "NAIL",
+                "TREATMENTS:",
+                "FEMALE"
+            ],
+            "value_id": [
                 10,
                 11,
                 12,
@@ -244,30 +275,68 @@
                 18,
                 19,
                 20,
-                21
+                21,
+                22,
+                23
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TOTAL",
-                "Excl.VAT",
-                "VAT",
-                "3",
-                "QTY",
-                "Price",
-                "Disc",
-                "TOTAL"
+                "11:32"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "765.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHOES"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "637.50",
+                "127.50"
+            ],
+            "value_id": [
                 7,
                 8
             ]

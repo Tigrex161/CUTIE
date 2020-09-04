@@ -1,110 +1,230 @@
 {
     "text_boxes": [
         {
-            "text": "3,500.00",
+            "text": "ZILLI",
             "id": 1,
             "bbox": [
-                480,
-                626,
-                522,
-                637
+                350,
+                89,
+                457,
+                146
             ]
         },
         {
-            "text": "3,500.00",
+            "text": "24/07/2020",
             "id": 2,
             "bbox": [
-                580,
-                625,
-                623,
-                635
+                635,
+                216,
+                706,
+                230
             ]
         },
         {
-            "text": "KCQ270VEA",
+            "text": "3:42:29",
             "id": 3,
             "bbox": [
-                105,
-                633,
-                175,
-                646
+                711,
+                219,
+                756,
+                230
             ]
         },
         {
-            "text": "S900",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                207,
-                633,
-                232,
-                642
+                761,
+                220,
+                779,
+                230
             ]
         },
         {
-            "text": "/",
+            "text": "3294.000",
             "id": 5,
             "bbox": [
-                238,
-                632,
-                242,
-                643
+                712,
+                551,
+                790,
+                567
             ]
         },
         {
-            "text": "T355",
+            "text": "3294.000",
             "id": 6,
             "bbox": [
-                243,
-                632,
-                267,
-                641
+                725,
+                396,
+                780,
+                408
             ]
         },
         {
-            "text": "30",
+            "text": "1",
             "id": 7,
             "bbox": [
-                273,
-                632,
-                284,
-                640
+                527,
+                394,
+                532,
+                403
             ]
         },
         {
-            "text": "MONTAIGNE",
+            "text": "1.000",
             "id": 8,
             "bbox": [
-                289,
-                630,
-                362,
-                641
+                241,
+                494,
+                278,
+                505
+            ]
+        },
+        {
+            "text": "3610348850228",
+            "id": 9,
+            "bbox": [
+                16,
+                391,
+                116,
+                401
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0639\u0627\u0628",
+            "id": 10,
+            "bbox": [
+                488,
+                417,
+                512,
+                429
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0643\u0631\u0629",
+            "id": 11,
+            "bbox": [
+                460,
+                417,
+                483,
+                429
+            ]
+        },
+        {
+            "text": "\u0648\u0627\u0644\u0635\u0648\u0644\u062c\u0627\u0646",
+            "id": 12,
+            "bbox": [
+                399,
+                417,
+                455,
+                429
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,500.00",
-                "3,500.00",
-                "KCQ270VEA",
-                "S900",
-                "/",
-                "T355",
-                "30",
-                "MONTAIGNE"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
+                7
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.000"
+            ],
+            "value_id": [
                 8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3:42:29",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24/07/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3294.000"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0644\u0639\u0627\u0628",
+                "\u0627\u0644\u0643\u0631\u0629",
+                "\u0648\u0627\u0644\u0635\u0648\u0644\u062c\u0627\u0646"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZILLI"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3610348850228"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3294.000"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

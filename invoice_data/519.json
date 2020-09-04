@@ -1,158 +1,197 @@
 {
     "text_boxes": [
         {
-            "text": "OSBM23POLC",
+            "text": "MONTO",
             "id": 1,
             "bbox": [
-                122,
-                509,
-                193,
-                522
+                590,
+                218,
+                735,
+                282
             ]
         },
         {
-            "text": "Y595/",
+            "text": "BLANC",
             "id": 2,
             "bbox": [
-                218,
-                507,
-                251,
-                518
+                597,
+                266,
+                704,
+                299
             ]
         },
         {
-            "text": "TOKA",
+            "text": "23/07/2020",
             "id": 3,
             "bbox": [
-                255,
-                506,
-                282,
-                516
+                31,
+                949,
+                83,
+                963
             ]
         },
         {
-            "text": "POLO",
+            "text": "16:31:38",
             "id": 4,
             "bbox": [
-                286,
-                504,
-                317,
-                515
+                87,
+                950,
+                127,
+                958
             ]
         },
         {
-            "text": "980.00",
+            "text": "1325.00",
             "id": 5,
             "bbox": [
-                496,
-                499,
-                529,
-                509
+                680,
+                761,
+                714,
+                769
             ]
         },
         {
-            "text": "980.00",
+            "text": "L323.00",
             "id": 6,
             "bbox": [
-                595,
-                497,
-                628,
-                506
+                680,
+                710,
+                714,
+                718
             ]
         },
         {
-            "text": "OSBM23SWEF",
+            "text": "1.",
             "id": 7,
             "bbox": [
-                121,
-                539,
-                195,
-                551
+                298,
+                722,
+                307,
+                731
             ]
         },
         {
-            "text": "Y16D/",
+            "text": "SP",
             "id": 8,
             "bbox": [
-                268,
-                536,
-                302,
-                545
+                73,
+                713,
+                82,
+                718
             ]
         },
         {
-            "text": "TO8A",
+            "text": "BLACK",
             "id": 9,
             "bbox": [
-                310,
-                532,
-                334,
-                545
+                85,
+                711,
+                108,
+                719
             ]
         },
         {
-            "text": "SWEATI",
+            "text": "00002866",
             "id": 10,
             "bbox": [
-                342,
-                530,
-                396,
-                544
-            ]
-        },
-        {
-            "text": "1,700.00",
-            "id": 11,
-            "bbox": [
-                489,
-                528,
-                530,
-                540
-            ]
-        },
-        {
-            "text": "1,700.00",
-            "id": 12,
-            "bbox": [
-                589,
-                526,
-                630,
-                538
+                124,
+                721,
+                170,
+                731
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "OSBM23POLC",
-                "Y595/",
-                "TOKA",
-                "POLO",
-                "980.00",
-                "980.00",
-                "OSBM23SWEF",
-                "Y16D/",
-                "TO8A",
-                "SWEATI",
-                "1,700.00",
-                "1,700.00"
+                "1."
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SP",
+                "BLACK"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:31:38"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23/07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1325.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MONTO",
+                "BLANC"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "00002866"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L323.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

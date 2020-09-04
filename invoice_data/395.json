@@ -1,162 +1,169 @@
 {
     "text_boxes": [
         {
-            "text": "BabyZen",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                142,
-                561,
-                209,
-                576
+                652,
+                518,
+                689,
+                535
             ]
         },
         {
-            "text": "3760222210126",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                342,
-                559,
-                463,
-                571
+                705,
+                515,
+                747,
+                530
             ]
         },
         {
-            "text": "BZ",
+            "text": "15:59",
             "id": 3,
             "bbox": [
-                136,
-                586,
-                175,
-                602
+                760,
+                512,
+                814,
+                529
             ]
         },
         {
-            "text": "Yoyo+",
+            "text": "2,",
             "id": 4,
             "bbox": [
-                172,
-                588,
-                218,
-                600
+                824,
+                898,
+                838,
+                911
             ]
         },
         {
-            "text": "oupholder",
+            "text": "695.00",
             "id": 5,
             "bbox": [
-                231,
-                587,
-                315,
-                601
+                846,
+                898,
+                910,
+                910
             ]
         },
         {
-            "text": "std",
+            "text": "2,695.00",
             "id": 6,
             "bbox": [
-                328,
-                588,
-                353,
-                598
-            ]
-        },
-        {
-            "text": "Blaok",
-            "id": 7,
-            "bbox": [
-                365,
-                587,
-                411,
-                597
+                835,
+                756,
+                922,
+                773
             ]
         },
         {
             "text": "1",
+            "id": 7,
+            "bbox": [
+                583,
+                766,
+                588,
+                777
+            ]
+        },
+        {
+            "text": "CLNWN_BAG:CHRISTIAN",
             "id": 8,
             "bbox": [
-                156,
-                632,
-                180,
-                646
+                100,
+                731,
+                304,
+                749
             ]
         },
         {
-            "text": "x",
+            "text": "LOUBOUTIN",
             "id": 9,
             "bbox": [
-                195,
-                636,
-                203,
-                643
+                316,
+                734,
+                407,
+                745
             ]
         },
         {
-            "text": "150.00",
+            "text": "WOMENS",
             "id": 10,
             "bbox": [
-                223,
-                634,
-                278,
-                645
+                420,
+                735,
+                478,
+                746
             ]
         },
         {
-            "text": "150.00",
+            "text": "BAGS",
             "id": 11,
             "bbox": [
-                458,
-                632,
-                512,
-                642
+                491,
+                734,
+                527,
+                745
             ]
         },
         {
-            "text": "Desaription",
+            "text": "L",
             "id": 12,
             "bbox": [
-                146,
-                505,
-                252,
-                519
+                574,
+                730,
+                582,
+                749
             ]
         },
         {
-            "text": "Amoun",
+            "text": "y",
             "id": 13,
             "bbox": [
-                464,
-                505,
-                509,
-                514
+                613,
+                736,
+                631,
+                746
+            ]
+        },
+        {
+            "text": "wi",
+            "id": 14,
+            "bbox": [
+                645,
+                731,
+                692,
+                745
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BabyZen",
-                "3760222210126",
-                "BZ",
-                "Yoyo+",
-                "oupholder",
-                "std",
-                "Blaok",
-                "1",
-                "x",
-                "150.00",
-                "150.00"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CLNWN_BAG:CHRISTIAN",
+                "LOUBOUTIN",
+                "WOMENS",
+                "BAGS"
+            ],
+            "value_id": [
                 8,
                 9,
                 10,
@@ -164,16 +171,66 @@
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Desaription",
-                "Amoun"
+                "15:59"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,",
+                "695.00"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L",
+                "y",
+                "wi"
             ],
             "value_id": [
                 12,
-                13
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,695.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

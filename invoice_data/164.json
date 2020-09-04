@@ -1,0 +1,240 @@
+{
+    "text_boxes": [
+        {
+            "text": "Jul,",
+            "id": 1,
+            "bbox": [
+                451,
+                362,
+                475,
+                374
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 2,
+            "bbox": [
+                486,
+                362,
+                512,
+                372
+            ]
+        },
+        {
+            "text": "12:55",
+            "id": 3,
+            "bbox": [
+                521,
+                361,
+                553,
+                372
+            ]
+        },
+        {
+            "text": "920.00",
+            "id": 4,
+            "bbox": [
+                575,
+                608,
+                615,
+                617
+            ]
+        },
+        {
+            "text": "920.00",
+            "id": 5,
+            "bbox": [
+                582,
+                519,
+                622,
+                529
+            ]
+        },
+        {
+            "text": "1001111001-RED:MIE.RED:M:VIRGINIE",
+            "id": 6,
+            "bbox": [
+                102,
+                502,
+                317,
+                514
+            ]
+        },
+        {
+            "text": "HAT",
+            "id": 7,
+            "bbox": [
+                325,
+                503,
+                343,
+                511
+            ]
+        },
+        {
+            "text": "20PS",
+            "id": 8,
+            "bbox": [
+                352,
+                503,
+                376,
+                511
+            ]
+        },
+        {
+            "text": "STRAW",
+            "id": 9,
+            "bbox": [
+                384,
+                501,
+                417,
+                510
+            ]
+        },
+        {
+            "text": "RI",
+            "id": 10,
+            "bbox": [
+                424,
+                502,
+                434,
+                511
+            ]
+        },
+        {
+            "text": "349724733901",
+            "id": 11,
+            "bbox": [
+                102,
+                526,
+                178,
+                536
+            ]
+        },
+        {
+            "text": "L",
+            "id": 12,
+            "bbox": [
+                440,
+                502,
+                464,
+                511
+            ]
+        },
+        {
+            "text": "u",
+            "id": 13,
+            "bbox": [
+                496,
+                499,
+                512,
+                510
+            ]
+        },
+        {
+            "text": "Lhii",
+            "id": 14,
+            "bbox": [
+                514,
+                498,
+                543,
+                509
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1001111001-RED:MIE.RED:M:VIRGINIE",
+                "HAT",
+                "20PS",
+                "STRAW",
+                "RI"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:55"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "920.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L",
+                "u",
+                "Lhii"
+            ],
+            "value_id": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "349724733901"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "920.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/164.jpg"
+    }
+}

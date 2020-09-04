@@ -1,0 +1,162 @@
+{
+    "text_boxes": [
+        {
+            "text": "29/07/2020",
+            "id": 1,
+            "bbox": [
+                283,
+                468,
+                387,
+                489
+            ]
+        },
+        {
+            "text": "4:08PM",
+            "id": 2,
+            "bbox": [
+                453,
+                459,
+                523,
+                480
+            ]
+        },
+        {
+            "text": "315.00",
+            "id": 3,
+            "bbox": [
+                571,
+                881,
+                627,
+                895
+            ]
+        },
+        {
+            "text": "315.00",
+            "id": 4,
+            "bbox": [
+                567,
+                704,
+                620,
+                720
+            ]
+        },
+        {
+            "text": "LHR",
+            "id": 5,
+            "bbox": [
+                228,
+                747,
+                260,
+                762
+            ]
+        },
+        {
+            "text": "Full",
+            "id": 6,
+            "bbox": [
+                267,
+                746,
+                290,
+                759
+            ]
+        },
+        {
+            "text": "Bikini",
+            "id": 7,
+            "bbox": [
+                296,
+                743,
+                332,
+                758
+            ]
+        },
+        {
+            "text": "-",
+            "id": 8,
+            "bbox": [
+                338,
+                751,
+                342,
+                751
+            ]
+        },
+        {
+            "text": "Female",
+            "id": 9,
+            "bbox": [
+                349,
+                740,
+                401,
+                755
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LHR",
+                "Full",
+                "Bikini",
+                "-",
+                "Female"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4:08PM"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "29/07/2020"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "315.00"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "315.00"
+            ],
+            "value_id": [
+                4
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/999.jpg"
+    }
+}

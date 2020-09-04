@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "July",
+            "id": 1,
+            "bbox": [
+                439,
+                427,
+                458,
+                439
+            ]
+        },
+        {
+            "text": "30,",
+            "id": 2,
+            "bbox": [
+                462,
+                425,
+                477,
+                435
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                482,
+                421,
+                508,
+                433
+            ]
+        },
+        {
+            "text": "11:20",
+            "id": 4,
+            "bbox": [
+                517,
+                418,
+                547,
+                430
+            ]
+        },
+        {
+            "text": "3,360.00",
+            "id": 5,
+            "bbox": [
+                567,
+                750,
+                619,
+                762
+            ]
+        },
+        {
+            "text": "3,360.00",
+            "id": 6,
+            "bbox": [
+                640,
+                578,
+                690,
+                592
+            ]
+        },
+        {
+            "text": "PUMPS",
+            "id": 7,
+            "bbox": [
+                162,
+                600,
+                196,
+                610
+            ]
+        },
+        {
+            "text": "G35801Y5373694305",
+            "id": 8,
+            "bbox": [
+                163,
+                624,
+                262,
+                640
+            ]
+        },
+        {
+            "text": "90C",
+            "id": 9,
+            "bbox": [
+                267,
+                624,
+                287,
+                633
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PUMPS"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:20"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "30,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,360.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "G35801Y5373694305",
+                "90C"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,360.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/946.jpg"
+    }
+}

@@ -1,239 +1,233 @@
 {
     "text_boxes": [
         {
-            "text": "INCENSE",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                209,
-                496,
-                250,
-                507
+                298,
+                146,
+                358,
+                166
             ]
         },
         {
-            "text": "SIGNATURE",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                258,
-                496,
-                313,
-                506
+                366,
+                144,
+                434,
+                159
             ]
         },
         {
-            "text": "2",
+            "text": "16/07/20",
             "id": 3,
             "bbox": [
-                322,
-                496,
-                326,
-                507
+                262,
+                334,
+                321,
+                347
             ]
         },
         {
-            "text": "452.38",
+            "text": "21:10",
             "id": 4,
             "bbox": [
-                391,
-                494,
-                427,
-                507
+                331,
+                332,
+                368,
+                344
             ]
         },
         {
-            "text": "22.62",
+            "text": "410.00",
             "id": 5,
             "bbox": [
-                441,
-                494,
-                471,
-                505
+                493,
+                543,
+                540,
+                557
             ]
         },
         {
-            "text": "475.00",
+            "text": "410.00",
             "id": 6,
             "bbox": [
-                505,
-                493,
-                542,
-                504
+                491,
+                463,
+                537,
+                476
             ]
         },
         {
-            "text": "INCENSE",
+            "text": "Wonen's",
             "id": 7,
             "bbox": [
-                209,
-                537,
-                250,
-                547
-            ]
-        },
-        {
-            "text": "FLORAMUSK",
-            "id": 8,
-            "bbox": [
-                259,
-                537,
-                314,
-                547
-            ]
-        },
-        {
-            "text": "S",
-            "id": 9,
-            "bbox": [
-                322,
-                537,
-                327,
-                547
-            ]
-        },
-        {
-            "text": "180.95",
-            "id": 10,
-            "bbox": [
-                392,
-                535,
-                427,
-                547
-            ]
-        },
-        {
-            "text": "9.05",
-            "id": 11,
-            "bbox": [
-                441,
-                534,
-                465,
-                546
-            ]
-        },
-        {
-            "text": "190.00",
-            "id": 12,
-            "bbox": [
-                506,
-                534,
-                543,
-                545
-            ]
-        },
-        {
-            "text": "ITEM",
-            "id": 13,
-            "bbox": [
-                209,
-                454,
-                232,
-                466
-            ]
-        },
-        {
-            "text": "NAME",
-            "id": 14,
-            "bbox": [
-                239,
-                454,
-                262,
-                466
-            ]
-        },
-        {
-            "text": "OTY",
-            "id": 15,
-            "bbox": [
-                353,
-                456,
-                371,
-                466
-            ]
-        },
-        {
-            "text": "PRICE",
-            "id": 16,
-            "bbox": [
-                397,
-                453,
-                426,
+                207,
+                451,
+                260,
                 465
             ]
         },
         {
-            "text": "VAT",
-            "id": 17,
+            "text": "Underwear",
+            "id": 8,
             "bbox": [
-                448,
-                453,
-                465,
-                462
+                269,
+                450,
+                338,
+                463
             ]
         },
         {
-            "text": "TOTAL",
-            "id": 18,
+            "text": "UNDERWEAR",
+            "id": 9,
             "bbox": [
-                512,
-                451,
-                542,
-                461
+                207,
+                470,
+                276,
+                485
+            ]
+        },
+        {
+            "text": "EMPORIO",
+            "id": 10,
+            "bbox": [
+                285,
+                468,
+                338,
+                482
+            ]
+        },
+        {
+            "text": "AR",
+            "id": 11,
+            "bbox": [
+                348,
+                468,
+                362,
+                480
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                533,
+                504,
+                537,
+                514
+            ]
+        },
+        {
+            "text": "900977358.",
+            "id": 13,
+            "bbox": [
+                247,
+                489,
+                318,
+                504
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "INCENSE",
-                "SIGNATURE",
-                "2",
-                "452.38",
-                "22.62",
-                "475.00",
-                "INCENSE",
-                "FLORAMUSK",
-                "S",
-                "180.95",
-                "9.05",
-                "190.00"
+                "Wonen's",
+                "Underwear",
+                "UNDERWEAR",
+                "EMPORIO",
+                "AR"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
                 7,
                 8,
                 9,
                 10,
-                11,
+                11
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
                 12
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ITEM",
-                "NAME",
-                "OTY",
-                "PRICE",
-                "VAT",
-                "TOTAL"
+                "21:10"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "410.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900977358."
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "410.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

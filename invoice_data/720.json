@@ -1,0 +1,201 @@
+{
+    "text_boxes": [
+        {
+            "text": "Massimo",
+            "id": 1,
+            "bbox": [
+                306,
+                175,
+                427,
+                195
+            ]
+        },
+        {
+            "text": "Dutti",
+            "id": 2,
+            "bbox": [
+                440,
+                174,
+                510,
+                193
+            ]
+        },
+        {
+            "text": "18-07-2020",
+            "id": 3,
+            "bbox": [
+                240,
+                359,
+                318,
+                372
+            ]
+        },
+        {
+            "text": "21:55",
+            "id": 4,
+            "bbox": [
+                329,
+                360,
+                366,
+                371
+            ]
+        },
+        {
+            "text": "259",
+            "id": 5,
+            "bbox": [
+                499,
+                609,
+                520,
+                619
+            ]
+        },
+        {
+            "text": "259",
+            "id": 6,
+            "bbox": [
+                503,
+                466,
+                524,
+                476
+            ]
+        },
+        {
+            "text": "0014514550003",
+            "id": 7,
+            "bbox": [
+                323,
+                488,
+                421,
+                498
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 8,
+            "bbox": [
+                440,
+                487,
+                476,
+                497
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                370,
+                530,
+                375,
+                540
+            ]
+        },
+        {
+            "text": "10001704",
+            "id": 10,
+            "bbox": [
+                246,
+                488,
+                304,
+                498
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0014514550003",
+                "SHIRT"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:55"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18-07-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "259"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Massimo",
+                "Dutti"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001704"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "259"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/720.jpg"
+    }
+}

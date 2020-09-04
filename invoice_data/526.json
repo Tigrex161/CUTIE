@@ -1,131 +1,227 @@
 {
     "text_boxes": [
         {
-            "text": "Sprungli",
+            "text": "Jut,",
             "id": 1,
             "bbox": [
-                253,
-                719,
-                310,
-                735
+                444,
+                421,
+                472,
+                433
             ]
         },
         {
-            "text": "speciality",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                320,
-                719,
-                392,
-                737
+                482,
+                421,
+                509,
+                431
             ]
         },
         {
-            "text": "\u0645\u0646\u062a\u062c",
+            "text": "14:38",
             "id": 3,
             "bbox": [
-                366,
-                742,
-                393,
-                756
+                520,
+                418,
+                553,
+                429
             ]
         },
         {
-            "text": "\u0633\u0628\u0631",
+            "text": "1,",
             "id": 4,
             "bbox": [
-                338,
-                744,
-                356,
-                753
+                572,
+                673,
+                581,
+                682
             ]
         },
         {
-            "text": "\u0646\u063a\u0644\u064a",
+            "text": "615.00",
             "id": 5,
             "bbox": [
-                306,
-                739,
-                334,
-                754
+                586,
+                672,
+                629,
+                682
             ]
         },
         {
-            "text": "\u0627\u0644\u0645 \u0645\u064a\u0627\u0632",
+            "text": "1,",
             "id": 6,
             "bbox": [
-                255,
-                739,
-                294,
-                754
+                577,
+                579,
+                593,
+                593
             ]
         },
         {
-            "text": "210.00",
+            "text": "615.00",
             "id": 7,
             "bbox": [
-                510,
-                760,
-                553,
-                771
+                593,
+                578,
+                635,
+                590
             ]
         },
         {
-            "text": "\u00e1le1/Items",
+            "text": "CLNWN",
             "id": 8,
             "bbox": [
-                247,
-                682,
-                335,
-                698
+                87,
+                561,
+                120,
+                575
             ]
         },
         {
-            "text": "AED",
+            "text": "SHOE:",
             "id": 9,
             "bbox": [
-                532,
-                687,
-                553,
-                699
+                130,
+                561,
+                165,
+                575
+            ]
+        },
+        {
+            "text": "CHRISTIAN",
+            "id": 10,
+            "bbox": [
+                165,
+                561,
+                230,
+                575
+            ]
+        },
+        {
+            "text": "LOUBeUeIN",
+            "id": 11,
+            "bbox": [
+                237,
+                561,
+                298,
+                575
+            ]
+        },
+        {
+            "text": "WOHNS",
+            "id": 12,
+            "bbox": [
+                306,
+                561,
+                347,
+                575
+            ]
+        },
+        {
+            "text": "SOES",
+            "id": 13,
+            "bbox": [
+                352,
+                561,
+                388,
+                575
+            ]
+        },
+        {
+            "text": "a",
+            "id": 14,
+            "bbox": [
+                417,
+                561,
+                433,
+                575
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Sprungli",
-                "speciality",
-                "\u0645\u0646\u062a\u062c",
-                "\u0633\u0628\u0631",
-                "\u0646\u063a\u0644\u064a",
-                "\u0627\u0644\u0645 \u0645\u064a\u0627\u0632",
-                "210.00"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "heading",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u00e1le1/Items",
-                "AED"
+                "CLNWN",
+                "SHOE:",
+                "CHRISTIAN",
+                "LOUBeUeIN",
+                "WOHNS",
+                "SOES"
             ],
             "value_id": [
                 8,
-                9
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:38"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jut,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,",
+                "615.00"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "a"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,",
+                "615.00"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         }
     ],

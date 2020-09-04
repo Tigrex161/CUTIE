@@ -1,191 +1,224 @@
 {
     "text_boxes": [
         {
-            "text": "\u0623\u062d\u0630\u064a\u0629",
+            "text": "level",
             "id": 1,
             "bbox": [
-                372,
-                554,
-                404,
-                572
+                339,
+                217,
+                396,
+                252
             ]
         },
         {
-            "text": "\u0631\u062c\u0644\u064a",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                332,
-                555,
-                367,
-                574
+                350,
+                255,
+                385,
+                263
             ]
         },
         {
-            "text": "PICARO/60",
+            "text": "Jul,",
             "id": 3,
             "bbox": [
-                333,
-                578,
-                427,
-                595
+                451,
+                350,
+                472,
+                358
             ]
         },
         {
-            "text": "622596302985",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                332,
-                599,
-                464,
-                616
+                482,
+                350,
+                505,
+                357
             ]
         },
         {
-            "text": "761251078550",
+            "text": "22:",
             "id": 5,
             "bbox": [
-                172,
-                552,
-                297,
-                570
+                512,
+                349,
+                530,
+                359
             ]
         },
         {
-            "text": "1,795.00",
+            "text": "03",
             "id": 6,
             "bbox": [
-                538,
-                561,
-                607,
-                577
+                532,
+                348,
+                543,
+                359
             ]
         },
         {
-            "text": "Item",
+            "text": "1,850.00",
             "id": 7,
             "bbox": [
-                173,
-                511,
-                208,
-                526
+                545,
+                561,
+                596,
+                573
             ]
         },
         {
-            "text": "4",
+            "text": "1,850.00",
             "id": 8,
             "bbox": [
-                213,
-                513,
-                228,
-                526
+                558,
+                485,
+                607,
+                495
             ]
         },
         {
-            "text": "Description",
+            "text": "PRIVATE",
             "id": 9,
             "bbox": [
-                334,
-                516,
-                434,
-                536
+                117,
+                470,
+                160,
+                476
             ]
         },
         {
-            "text": "as",
+            "text": "COLLECTION",
             "id": 10,
             "bbox": [
-                441,
-                520,
-                476,
-                534
+                168,
+                469,
+                230,
+                476
             ]
         },
         {
-            "text": "Amount",
+            "text": "MENS",
             "id": 11,
             "bbox": [
-                513,
-                520,
-                581,
-                535
+                237,
+                469,
+                262,
+                476
             ]
         },
         {
-            "text": "J",
+            "text": "OTHERS",
             "id": 12,
             "bbox": [
-                588,
-                522,
-                607,
-                535
+                273,
+                468,
+                305,
+                479
             ]
         },
         {
-            "text": "======",
+            "text": "SI-aLi",
             "id": 13,
             "bbox": [
-                178,
-                533,
-                228,
-                545
-            ]
-        },
-        {
-            "text": "==",
-            "id": 14,
-            "bbox": [
-                248,
-                536,
-                257,
-                545
+                328,
+                469,
+                400,
+                478
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u0623\u062d\u0630\u064a\u0629",
-                "\u0631\u062c\u0644\u064a",
-                "PICARO/60",
-                "622596302985",
-                "761251078550",
-                "1,795.00"
+                "PRIVATE",
+                "COLLECTION",
+                "MENS",
+                "OTHERS"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22:",
+                "03"
+            ],
+            "value_id": [
                 5,
                 6
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Item",
-                "4",
-                "Description",
-                "as",
-                "Amount",
-                "J",
-                "======",
-                "=="
+                "Jul,",
+                "2020"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,850.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SI-aLi"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHOES"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,850.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

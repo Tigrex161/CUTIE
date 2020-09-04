@@ -1,94 +1,166 @@
 {
     "text_boxes": [
         {
-            "text": "1.",
+            "text": "July",
             "id": 1,
             "bbox": [
-                555,
-                540,
-                566,
-                553
+                427,
+                428,
+                446,
+                437
             ]
         },
         {
-            "text": "305,00",
+            "text": "11,",
             "id": 2,
             "bbox": [
-                668,
-                545,
-                710,
-                557
+                453,
+                428,
+                466,
+                436
             ]
         },
         {
-            "text": "\u0627\u0644\u0648\u0635\u0641",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                156,
-                514,
-                201,
-                533
+                472,
+                427,
+                497,
+                435
             ]
         },
         {
-            "text": "Qty",
+            "text": "20:56",
             "id": 4,
             "bbox": [
-                529,
-                515,
-                555,
-                533
+                506,
+                427,
+                535,
+                435
             ]
         },
         {
-            "text": "Jll",
+            "text": "3,084.00",
             "id": 5,
             "bbox": [
-                566,
-                515,
-                591,
-                527
+                560,
+                751,
+                611,
+                762
             ]
         },
         {
-            "text": "Amount",
+            "text": "3,084.00",
             "id": 6,
             "bbox": [
-                619,
-                516,
-                680,
-                527
+                629,
+                591,
+                677,
+                604
+            ]
+        },
+        {
+            "text": "SANDALS",
+            "id": 7,
+            "bbox": [
+                128,
+                600,
+                184,
+                609
+            ]
+        },
+        {
+            "text": "G34696X529670H559",
+            "id": 8,
+            "bbox": [
+                128,
+                615,
+                248,
+                625
+            ]
+        },
+        {
+            "text": "80C",
+            "id": 9,
+            "bbox": [
+                254,
+                616,
+                274,
+                624
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.",
-                "305,00"
+                "SANDALS"
             ],
             "value_id": [
-                1,
-                2
+                7
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u0627\u0644\u0648\u0635\u0641",
-                "Qty",
-                "Jll",
-                "Amount"
+                "20:56"
             ],
             "value_id": [
-                3,
-                4,
-                5,
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "11,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,084.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "G34696X529670H559",
+                "80C"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,084.00"
+            ],
+            "value_id": [
                 6
             ]
         }

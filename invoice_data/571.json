@@ -1,109 +1,313 @@
 {
     "text_boxes": [
         {
-            "text": "19.00",
+            "text": "SEPHORA",
             "id": 1,
             "bbox": [
-                302,
-                519,
-                350,
-                538
+                216,
+                197,
+                269,
+                212
             ]
         },
         {
-            "text": "Iced",
+            "text": "DUBAI",
             "id": 2,
             "bbox": [
-                488,
-                518,
-                527,
-                536
+                279,
+                196,
+                315,
+                212
             ]
         },
         {
-            "text": "Tea",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                540,
-                519,
-                568,
-                536
+                326,
+                197,
+                355,
+                210
+            ]
+        },
+        {
+            "text": "July",
+            "id": 4,
+            "bbox": [
+                296,
+                1085,
+                323,
+                1099
+            ]
+        },
+        {
+            "text": "26,2020",
+            "id": 5,
+            "bbox": [
+                333,
+                1084,
+                384,
+                1099
+            ]
+        },
+        {
+            "text": "13:42:07",
+            "id": 6,
+            "bbox": [
+                395,
+                1083,
+                451,
+                1098
+            ]
+        },
+        {
+            "text": "130.00",
+            "id": 7,
+            "bbox": [
+                366,
+                699,
+                452,
+                714
+            ]
+        },
+        {
+            "text": "130.00",
+            "id": 8,
+            "bbox": [
+                409,
+                625,
+                452,
+                639
             ]
         },
         {
             "text": "1",
-            "id": 4,
+            "id": 9,
             "bbox": [
-                604,
-                518,
-                608,
-                535
+                233,
+                629,
+                236,
+                642
             ]
         },
         {
-            "text": "85.00",
-            "id": 5,
+            "text": "24HR",
+            "id": 10,
             "bbox": [
-                301,
-                565,
-                350,
+                261,
+                572,
+                290,
+                584
+            ]
+        },
+        {
+            "text": "BROW",
+            "id": 11,
+            "bbox": [
+                300,
+                571,
+                329,
+                583
+            ]
+        },
+        {
+            "text": "SETTER",
+            "id": 12,
+            "bbox": [
+                338,
+                571,
+                382,
+                583
+            ]
+        },
+        {
+            "text": "BZ",
+            "id": 13,
+            "bbox": [
+                392,
+                571,
+                404,
+                583
+            ]
+        },
+        {
+            "text": "BM",
+            "id": 14,
+            "bbox": [
+                415,
+                569,
+                429,
                 582
             ]
         },
         {
-            "text": "Sirloin",
-            "id": 6,
+            "text": "GE",
+            "id": 15,
             "bbox": [
-                477,
-                560,
-                547,
-                581
+                438,
+                569,
+                451,
+                582
             ]
         },
         {
-            "text": "8",
-            "id": 7,
+            "text": "003113610224",
+            "id": 16,
             "bbox": [
-                560,
-                564,
-                568,
-                581
+                130,
+                571,
+                222,
+                586
             ]
         },
         {
-            "text": "1",
-            "id": 8,
+            "text": "\u0645\u0643\u064a\u0627\u062c",
+            "id": 17,
             "bbox": [
-                603,
-                565,
-                607,
-                580
+                187,
+                611,
+                223,
+                625
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062d\u0627",
+            "id": 18,
+            "bbox": [
+                150,
+                611,
+                174,
+                620
+            ]
+        },
+        {
+            "text": "\u062c\u0628",
+            "id": 19,
+            "bbox": [
+                132,
+                616,
+                146,
+                623
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19.00",
-                "Iced",
-                "Tea",
-                "1",
-                "85.00",
-                "Sirloin",
-                "8",
                 "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24HR",
+                "BROW",
+                "SETTER",
+                "BZ",
+                "BM",
+                "GE"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:42:07"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "26,2020"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "130.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0643\u064a\u0627\u062c",
+                "\u0627\u0644\u062d\u0627",
+                "\u062c\u0628"
+            ],
+            "value_id": [
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "003113610224"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "130.00"
+            ],
+            "value_id": [
                 8
             ]
         }

@@ -1,182 +1,275 @@
 {
     "text_boxes": [
         {
-            "text": "(9780553824339)",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                260,
-                558,
-                378,
-                571
+                351,
+                251,
+                384,
+                263
             ]
         },
         {
-            "text": "Sulail",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                294,
-                578,
-                339,
-                602
+                389,
+                248,
+                438,
+                261
             ]
         },
         {
-            "text": "uls",
+            "text": "MADCNO",
             "id": 3,
             "bbox": [
-                341,
-                578,
-                372,
-                600
+                363,
+                284,
+                394,
+                293
             ]
         },
         {
-            "text": "GUNE",
+            "text": "N",
             "id": 4,
             "bbox": [
-                256,
-                604,
-                287,
-                616
+                407,
+                285,
+                413,
+                290
             ]
         },
         {
-            "text": ":",
+            "text": "27/06/2020",
             "id": 5,
             "bbox": [
-                299,
-                601,
-                307,
-                616
+                526,
+                418,
+                575,
+                428
             ]
         },
         {
-            "text": "JACK",
+            "text": "1145",
             "id": 6,
             "bbox": [
-                314,
-                605,
-                345,
-                616
+                597,
+                415,
+                618,
+                426
             ]
         },
         {
-            "text": "CAFFERY",
+            "text": "6.070.00",
             "id": 7,
             "bbox": [
-                354,
-                604,
-                409,
-                616
+                647,
+                600,
+                688,
+                609
             ]
         },
         {
-            "text": "52.00",
+            "text": "3.",
             "id": 8,
             "bbox": [
-                518,
-                603,
-                560,
-                615
+                639,
+                466,
+                650,
+                476
             ]
         },
         {
-            "text": "T",
+            "text": "S00.00",
             "id": 9,
             "bbox": [
-                570,
-                603,
-                575,
-                614
+                649,
+                467,
+                678,
+                474
             ]
         },
         {
-            "text": "IN",
+            "text": "E570.00",
             "id": 10,
             "bbox": [
-                254,
-                668,
-                270,
-                679
+                638,
+                494,
+                678,
+                503
             ]
         },
         {
-            "text": "HER",
+            "text": "1ASVIX",
             "id": 11,
             "bbox": [
-                279,
-                667,
-                302,
-                679
+                124,
+                488,
+                151,
+                495
             ]
         },
         {
-            "text": "EYES",
+            "text": "HIY4BHNPIO0250",
             "id": 12,
             "bbox": [
-                311,
-                667,
-                343,
-                680
+                162,
+                485,
+                229,
+                494
             ]
         },
         {
-            "text": "48.00",
+            "text": "LANSE",
             "id": 13,
             "bbox": [
-                518,
-                666,
-                560,
-                679
+                236,
+                484,
+                254,
+                491
             ]
         },
         {
-            "text": "T",
+            "text": "INSIDN",
             "id": 14,
             "bbox": [
-                570,
-                667,
-                577,
-                678
+                262,
+                483,
+                289,
+                491
+            ]
+        },
+        {
+            "text": "JABJRO",
+            "id": 15,
+            "bbox": [
+                126,
+                516,
+                152,
+                522
+            ]
+        },
+        {
+            "text": "HUYOPOoese",
+            "id": 16,
+            "bbox": [
+                164,
+                511,
+                232,
+                521
+            ]
+        },
+        {
+            "text": "LV",
+            "id": 17,
+            "bbox": [
+                238,
+                514,
+                246,
+                519
+            ]
+        },
+        {
+            "text": "STITCHP",
+            "id": 18,
+            "bbox": [
+                253,
+                512,
+                291,
+                519
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "(9780553824339)",
-                "Sulail",
-                "uls",
-                "GUNE",
-                ":",
-                "JACK",
-                "CAFFERY",
-                "52.00",
-                "T",
-                "IN",
-                "HER",
-                "EYES",
-                "48.00",
-                "T"
+                "1ASVIX",
+                "HIY4BHNPIO0250",
+                "LANSE",
+                "INSIDN",
+                "JABJRO",
+                "HUYOPOoese",
+                "LV",
+                "STITCHP"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1145"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "27/06/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6.070.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MADCNO",
+                "N"
             ],
             "value_id": [
                 1,
                 2,
                 3,
-                4,
-                5,
-                6,
-                7,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3.",
+                "S00.00",
+                "E570.00"
+            ],
+            "value_id": [
                 8,
                 9,
-                10,
-                11,
-                12,
-                13,
-                14
+                10
             ]
         }
     ],

@@ -1,179 +1,284 @@
 {
     "text_boxes": [
         {
-            "text": "Description",
+            "text": "CHAUMET",
             "id": 1,
             "bbox": [
-                152,
-                477,
-                255,
-                495
+                51,
+                225,
+                140,
+                241
             ]
         },
         {
-            "text": "UP/TAX",
+            "text": "EAU",
             "id": 2,
             "bbox": [
-                383,
-                476,
-                439,
-                490
+                148,
+                228,
+                179,
+                242
             ]
         },
         {
-            "text": "Amount/Disc",
+            "text": "TRADING",
             "id": 3,
             "bbox": [
-                451,
-                474,
-                555,
-                490
+                187,
+                228,
+                263,
+                243
             ]
         },
         {
-            "text": "EDP",
+            "text": "LLC",
             "id": 4,
             "bbox": [
-                148,
-                550,
-                175,
-                564
+                273,
+                231,
+                299,
+                243
             ]
         },
         {
-            "text": "BACCARAT",
+            "text": "July,",
             "id": 5,
             "bbox": [
-                188,
-                550,
-                263,
-                565
+                502,
+                326,
+                529,
+                335
             ]
         },
         {
-            "text": "ROUGE",
+            "text": "03",
             "id": 6,
             "bbox": [
-                276,
-                551,
-                322,
-                565
+                539,
+                325,
+                550,
+                333
             ]
         },
         {
-            "text": "5",
+            "text": "2020",
             "id": 7,
             "bbox": [
-                335,
-                552,
-                342,
-                564
+                557,
+                326,
+                580,
+                333
             ]
         },
         {
-            "text": "1,103.00",
+            "text": "18:20",
             "id": 8,
             "bbox": [
-                365,
-                551,
-                439,
-                566
+                588,
+                325,
+                616,
+                332
             ]
         },
         {
-            "text": "1,103.00",
+            "text": "15,",
             "id": 9,
             "bbox": [
-                481,
-                548,
-                554,
-                565
+                570,
+                615,
+                588,
+                626
             ]
         },
         {
-            "text": "1",
+            "text": "000.00",
             "id": 10,
             "bbox": [
-                160,
-                576,
-                185,
-                589
+                590,
+                614,
+                628,
+                626
             ]
         },
         {
-            "text": "x",
+            "text": "15,000.00",
             "id": 11,
             "bbox": [
-                188,
-                573,
-                200,
-                590
+                566,
+                530,
+                621,
+                543
             ]
         },
         {
-            "text": "900718410",
+            "text": "083293-000:1808489:ALLECMT",
             "id": 12,
             "bbox": [
-                198,
-                575,
-                284,
-                589
+                206,
+                518,
+                371,
+                531
             ]
         },
         {
-            "text": "5%",
+            "text": "EARR",
             "id": 13,
             "bbox": [
-                422,
-                576,
-                438,
-                589
+                379,
+                520,
+                403,
+                527
+            ]
+        },
+        {
+            "text": "STUD",
+            "id": 14,
+            "bbox": [
+                411,
+                520,
+                435,
+                526
+            ]
+        },
+        {
+            "text": "JOSE",
+            "id": 15,
+            "bbox": [
+                443,
+                519,
+                466,
+                525
+            ]
+        },
+        {
+            "text": "AIG",
+            "id": 16,
+            "bbox": [
+                475,
+                516,
+                494,
+                526
+            ]
+        },
+        {
+            "text": "WG",
+            "id": 17,
+            "bbox": [
+                499,
+                515,
+                512,
+                525
+            ]
+        },
+        {
+            "text": "122425025191",
+            "id": 18,
+            "bbox": [
+                120,
+                520,
+                197,
+                531
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "EDP",
-                "BACCARAT",
-                "ROUGE",
-                "5",
-                "1,103.00",
-                "1,103.00",
-                "1",
-                "x",
-                "900718410",
-                "5%"
+                "083293-000:1808489:ALLECMT",
+                "EARR",
+                "STUD",
+                "JOSE",
+                "AIG",
+                "WG"
             ],
             "value_id": [
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
                 12,
-                13
+                13,
+                14,
+                15,
+                16,
+                17
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Description",
-                "UP/TAX",
-                "Amount/Disc"
+                "18:20"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "03",
+                "2020"
+            ],
+            "value_id": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15,",
+                "000.00"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHAUMET",
+                "EAU",
+                "TRADING",
+                "LLC"
             ],
             "value_id": [
                 1,
                 2,
-                3
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "122425025191"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15,000.00"
+            ],
+            "value_id": [
+                11
             ]
         }
     ],

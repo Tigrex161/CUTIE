@@ -1,179 +1,209 @@
 {
     "text_boxes": [
         {
-            "text": "Description",
+            "text": "MEDICLINIC",
             "id": 1,
             "bbox": [
-                152,
-                582,
-                265,
-                610
+                473,
+                249,
+                591,
+                261
             ]
         },
         {
-            "text": "Amount",
+            "text": "10/07/2020",
             "id": 2,
             "bbox": [
-                471,
-                568,
-                531,
-                587
+                152,
+                469,
+                190,
+                475
             ]
         },
         {
-            "text": "\u062c\u0631\u0633\u0648\u0644\u0629",
+            "text": "03:54:21",
             "id": 3,
             "bbox": [
-                160,
-                638,
-                217,
-                657
+                193,
+                468,
+                223,
+                475
             ]
         },
         {
-            "text": "Granola",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                156,
-                660,
-                227,
-                683
+                226,
+                468,
+                235,
+                474
             ]
         },
         {
-            "text": "57.00",
+            "text": "265.00",
             "id": 5,
             "bbox": [
-                487,
-                640,
-                538,
-                662
+                615,
+                617,
+                641,
+                626
             ]
         },
         {
-            "text": "A",
+            "text": "265.00",
             "id": 6,
             "bbox": [
-                560,
-                640,
-                569,
-                657
+                618,
+                533,
+                642,
+                539
             ]
         },
         {
-            "text": "Cappuccino",
+            "text": "L00",
             "id": 7,
             "bbox": [
-                157,
-                709,
-                260,
-                736
+                399,
+                534,
+                413,
+                541
             ]
         },
         {
-            "text": "38.00",
+            "text": "SARS",
             "id": 8,
             "bbox": [
-                491,
-                691,
-                542,
-                713
+                147,
+                534,
+                163,
+                540
             ]
         },
         {
-            "text": "A",
+            "text": "Cov-2",
             "id": 9,
             "bbox": [
-                564,
-                689,
-                574,
-                708
+                167,
+                534,
+                186,
+                540
             ]
         },
         {
-            "text": "Cafe",
+            "text": "lyG",
             "id": 10,
             "bbox": [
-                158,
-                763,
-                199,
-                786
+                190,
+                534,
+                201,
+                541
             ]
         },
         {
-            "text": "Latte",
+            "text": "56760",
             "id": 11,
             "bbox": [
-                211,
-                760,
-                262,
-                782
-            ]
-        },
-        {
-            "text": "37.00",
-            "id": 12,
-            "bbox": [
-                495,
-                742,
-                547,
-                763
-            ]
-        },
-        {
-            "text": "A",
-            "id": 13,
-            "bbox": [
-                569,
-                742,
-                579,
-                759
+                113,
+                534,
+                133,
+                540
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u062c\u0631\u0633\u0648\u0644\u0629",
-                "Granola",
-                "57.00",
-                "A",
-                "Cappuccino",
-                "38.00",
-                "A",
-                "Cafe",
-                "Latte",
-                "37.00",
-                "A"
+                "L00"
             ],
             "value_id": [
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                7
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Description",
-                "Amount"
+                "SARS",
+                "Cov-2",
+                "lyG"
             ],
             "value_id": [
-                1,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "03:54:21",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10/07/2020"
+            ],
+            "value_id": [
                 2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "265.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MEDICLINIC"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "56760"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "265.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

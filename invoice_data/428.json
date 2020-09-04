@@ -1,134 +1,209 @@
 {
     "text_boxes": [
         {
-            "text": "Sales",
+            "text": "GEOX",
             "id": 1,
             "bbox": [
-                114,
-                586,
-                141,
-                595
+                361,
+                239,
+                400,
+                253
             ]
         },
         {
-            "text": "2500.00",
+            "text": "07/02/20",
             "id": 2,
             "bbox": [
-                487,
-                596,
-                527,
-                605
+                237,
+                375,
+                325,
+                396
             ]
         },
         {
-            "text": "2500.00",
+            "text": "11:05",
             "id": 3,
             "bbox": [
-                581,
-                590,
-                623,
-                602
+                338,
+                382,
+                387,
+                397
             ]
         },
         {
-            "text": "O13DS00A217X",
+            "text": "692.00",
             "id": 4,
             "bbox": [
-                112,
-                608,
-                198,
-                619
+                524,
+                787,
+                588,
+                803
             ]
         },
         {
-            "text": "C900",
+            "text": "346",
             "id": 5,
             "bbox": [
-                217,
-                607,
-                244,
-                615
+                551,
+                615,
+                593,
+                632
             ]
         },
         {
-            "text": "/",
+            "text": "346",
             "id": 6,
             "bbox": [
-                249,
-                605,
-                255,
-                617
+                556,
+                652,
+                587,
+                666
             ]
         },
         {
-            "text": "136",
+            "text": "1.",
             "id": 7,
             "bbox": [
-                257,
-                605,
-                274,
-                613
+                378,
+                618,
+                383,
+                630
             ]
         },
         {
-            "text": "JEANS",
+            "text": "SANDALS",
             "id": 8,
             "bbox": [
-                280,
-                604,
-                315,
-                613
+                252,
+                618,
+                323,
+                630
             ]
         },
         {
-            "text": "SL",
+            "text": "SANDALS",
             "id": 9,
             "bbox": [
-                320,
-                604,
-                332,
-                611
+                252,
+                651,
+                322,
+                663
             ]
         },
         {
-            "text": "17.5",
+            "text": "A063080",
             "id": 10,
             "bbox": [
-                338,
-                602,
-                357,
-                611
+                167,
+                617,
+                238,
+                630
+            ]
+        },
+        {
+            "text": "A063065",
+            "id": 11,
+            "bbox": [
+                168,
+                651,
+                239,
+                663
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Sales",
-                "2500.00",
-                "2500.00",
-                "O13DS00A217X",
-                "C900",
-                "/",
-                "136",
-                "JEANS",
-                "SL",
-                "17.5"
+                "1."
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SANDALS",
+                "SANDALS"
+            ],
+            "value_id": [
                 8,
-                9,
-                10
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:05"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/02/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "692.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GEOX"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A063080",
+                "A063065"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "346",
+                "346"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

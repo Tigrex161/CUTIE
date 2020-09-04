@@ -1,0 +1,195 @@
+{
+    "text_boxes": [
+        {
+            "text": "Jardin",
+            "id": 1,
+            "bbox": [
+                286,
+                174,
+                443,
+                257
+            ]
+        },
+        {
+            "text": "de",
+            "id": 2,
+            "bbox": [
+                437,
+                193,
+                486,
+                263
+            ]
+        },
+        {
+            "text": "Parfums",
+            "id": 3,
+            "bbox": [
+                272,
+                240,
+                531,
+                314
+            ]
+        },
+        {
+            "text": "23/07/20",
+            "id": 4,
+            "bbox": [
+                410,
+                581,
+                473,
+                596
+            ]
+        },
+        {
+            "text": "11:42",
+            "id": 5,
+            "bbox": [
+                516,
+                578,
+                554,
+                594
+            ]
+        },
+        {
+            "text": "496.00",
+            "id": 6,
+            "bbox": [
+                471,
+                745,
+                519,
+                757
+            ]
+        },
+        {
+            "text": "498.00",
+            "id": 7,
+            "bbox": [
+                468,
+                696,
+                514,
+                707
+            ]
+        },
+        {
+            "text": "UNIQUE",
+            "id": 8,
+            "bbox": [
+                217,
+                699,
+                264,
+                712
+            ]
+        },
+        {
+            "text": "SILVER",
+            "id": 9,
+            "bbox": [
+                274,
+                699,
+                321,
+                711
+            ]
+        },
+        {
+            "text": "FLAME",
+            "id": 10,
+            "bbox": [
+                331,
+                698,
+                369,
+                710
+            ]
+        },
+        {
+            "text": "100m",
+            "id": 11,
+            "bbox": [
+                381,
+                698,
+                410,
+                708
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "UNIQUE",
+                "SILVER",
+                "FLAME",
+                "100m"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:42"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23/07/20"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "496.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jardin",
+                "de",
+                "Parfums"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "498.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/735.jpg"
+    }
+}

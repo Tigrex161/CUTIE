@@ -1,239 +1,257 @@
 {
     "text_boxes": [
         {
-            "text": "CLASSIC",
+            "text": "DOLCE",
             "id": 1,
             "bbox": [
-                177,
-                494,
-                253,
-                510
+                207,
+                239,
+                317,
+                277
             ]
         },
         {
-            "text": "MANICURE",
+            "text": "&",
             "id": 2,
             "bbox": [
-                177,
-                513,
-                273,
-                528
+                324,
+                266,
+                335,
+                279
             ]
         },
         {
-            "text": "85.00",
+            "text": "July,",
             "id": 3,
             "bbox": [
-                398,
-                518,
-                435,
-                532
+                515,
+                331,
+                545,
+                342
             ]
         },
         {
-            "text": "4.25",
+            "text": "24",
             "id": 4,
             "bbox": [
-                440,
-                520,
-                468,
-                533
+                556,
+                330,
+                567,
+                338
             ]
         },
         {
-            "text": "89.25",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                477,
-                520,
-                514,
-                534
+                576,
+                329,
+                601,
+                338
             ]
         },
         {
-            "text": "1",
+            "text": "17:16",
             "id": 6,
             "bbox": [
-                325,
-                520,
-                327,
-                530
+                611,
+                328,
+                641,
+                338
             ]
         },
         {
-            "text": "85",
+            "text": "4,950.",
             "id": 7,
             "bbox": [
-                355,
-                519,
-                369,
-                529
+                582,
+                652,
+                619,
+                660
             ]
         },
         {
-            "text": "CLASSIC",
+            "text": "00",
             "id": 8,
             "bbox": [
-                173,
-                553,
-                251,
-                568
+                624,
+                651,
+                636,
+                659
             ]
         },
         {
-            "text": "PEDICURE",
+            "text": "4,950.00",
             "id": 9,
             "bbox": [
-                172,
-                572,
-                264,
-                587
+                581,
+                565,
+                634,
+                575
             ]
         },
         {
-            "text": "95",
+            "text": "F6H5RTHSSF8HFIAJ:",
             "id": 10,
             "bbox": [
-                354,
-                580,
-                370,
-                591
+                200,
+                543,
+                310,
+                554
             ]
         },
         {
-            "text": "95.004.75",
+            "text": "DGA.",
             "id": 11,
             "bbox": [
-                398,
-                580,
-                471,
-                596
+                317,
+                544,
+                343,
+                555
             ]
         },
         {
-            "text": "99.75",
+            "text": "HFIAJ:",
             "id": 12,
             "bbox": [
-                479,
-                582,
-                517,
-                596
+                345,
+                544,
+                381,
+                556
             ]
         },
         {
-            "text": "Item",
+            "text": "50:",
             "id": 13,
             "bbox": [
-                179,
-                475,
-                213,
-                488
+                383,
+                545,
+                399,
+                556
             ]
         },
         {
-            "text": "Qty",
+            "text": "009424841393",
             "id": 14,
             "bbox": [
-                324,
-                479,
-                350,
-                492
+                111,
+                543,
+                191,
+                552
             ]
         },
         {
-            "text": "Price",
+            "text": "L",
             "id": 15,
             "bbox": [
-                355,
-                479,
-                392,
-                490
-            ]
-        },
-        {
-            "text": "Total",
-            "id": 16,
-            "bbox": [
-                397,
-                479,
-                433,
-                490
-            ]
-        },
-        {
-            "text": "VAT",
-            "id": 17,
-            "bbox": [
-                439,
-                479,
-                471,
-                490
-            ]
-        },
-        {
-            "text": "Final",
-            "id": 18,
-            "bbox": [
-                476,
-                478,
-                513,
-                490
+                472,
+                547,
+                491,
+                557
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CLASSIC",
-                "MANICURE",
-                "85.00",
-                "4.25",
-                "89.25",
-                "1",
-                "85",
-                "CLASSIC",
-                "PEDICURE",
-                "95",
-                "95.004.75",
-                "99.75"
+                "F6H5RTHSSF8HFIAJ:",
+                "DGA.",
+                "HFIAJ:",
+                "50:"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
                 10,
                 11,
-                12
+                12,
+                13
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Item",
-                "Qty",
-                "Price",
-                "Total",
-                "VAT",
-                "Final"
+                "17:16"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "24",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,950.",
+                "00"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DOLCE",
+                "&"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "009424841393"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,950.00"
+            ],
+            "value_id": [
+                9
             ]
         }
     ],

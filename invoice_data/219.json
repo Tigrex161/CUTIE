@@ -1,254 +1,203 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                180,
-                553,
-                192,
-                572
+                294,
+                172,
+                368,
+                192
             ]
         },
         {
-            "text": "Lime",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                196,
-                556,
-                234,
-                572
+                378,
+                167,
+                461,
+                186
             ]
         },
         {
-            "text": "Corn",
+            "text": "15:06",
             "id": 3,
             "bbox": [
-                247,
-                557,
-                286,
-                572
+                347,
+                391,
+                391,
+                405
             ]
         },
         {
-            "text": "Salad",
+            "text": "105.00",
             "id": 4,
             "bbox": [
-                298,
-                556,
-                347,
-                572
+                560,
+                642,
+                619,
+                661
             ]
         },
         {
-            "text": "60.00",
+            "text": "105.00",
             "id": 5,
             "bbox": [
-                522,
-                552,
-                572,
-                568
+                553,
+                541,
+                611,
+                559
             ]
         },
         {
-            "text": "1",
+            "text": "Gift",
             "id": 6,
             "bbox": [
-                180,
-                602,
-                194,
-                623
+                192,
+                544,
+                229,
+                559
             ]
         },
         {
-            "text": "Chicken",
+            "text": "GIFT",
             "id": 7,
             "bbox": [
-                194,
-                601,
-                264,
-                621
+                192,
+                567,
+                229,
+                585
             ]
         },
         {
-            "text": "Musakhan",
+            "text": "O",
             "id": 8,
             "bbox": [
-                277,
-                602,
-                358,
-                620
+                243,
+                566,
+                252,
+                580
             ]
         },
         {
-            "text": "Rolls",
+            "text": "DE",
             "id": 9,
             "bbox": [
-                370,
-                600,
-                419,
-                618
+                262,
+                564,
+                280,
+                579
             ]
         },
         {
-            "text": "33.00",
+            "text": "ROSE",
             "id": 10,
             "bbox": [
-                525,
-                597,
-                575,
-                615
+                291,
+                559,
+                329,
+                577
             ]
         },
         {
-            "text": "1",
+            "text": "SKU",
             "id": 11,
             "bbox": [
-                177,
-                650,
-                189,
-                672
+                341,
+                557,
+                369,
+                574
             ]
         },
         {
-            "text": "Beef",
+            "text": "4992277481",
             "id": 12,
             "bbox": [
-                192,
-                651,
-                231,
-                668
-            ]
-        },
-        {
-            "text": "Shawarma",
-            "id": 13,
-            "bbox": [
-                245,
-                650,
-                326,
-                668
-            ]
-        },
-        {
-            "text": "Rice",
-            "id": 14,
-            "bbox": [
-                339,
-                650,
-                379,
-                666
-            ]
-        },
-        {
-            "text": "85.00",
-            "id": 15,
-            "bbox": [
-                528,
-                645,
-                579,
-                663
-            ]
-        },
-        {
-            "text": "2",
-            "id": 16,
-            "bbox": [
-                168,
-                701,
-                176,
-                717
-            ]
-        },
-        {
-            "text": "Somewhere",
-            "id": 17,
-            "bbox": [
-                190,
-                700,
-                284,
-                718
-            ]
-        },
-        {
-            "text": "cocktail",
-            "id": 18,
-            "bbox": [
-                297,
-                698,
-                376,
-                717
-            ]
-        },
-        {
-            "text": "Passion",
-            "id": 19,
-            "bbox": [
-                392,
-                697,
-                464,
-                714
-            ]
-        },
-        {
-            "text": "74.00",
-            "id": 20,
-            "bbox": [
-                530,
-                694,
-                582,
-                712
+                243,
+                584,
+                338,
+                605
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "Lime",
-                "Corn",
-                "Salad",
-                "60.00",
-                "1",
-                "Chicken",
-                "Musakhan",
-                "Rolls",
-                "33.00",
-                "1",
-                "Beef",
-                "Shawarma",
-                "Rice",
-                "85.00",
-                "2",
-                "Somewhere",
-                "cocktail",
-                "Passion",
-                "74.00"
+                "Gift",
+                "GIFT",
+                "O",
+                "DE",
+                "ROSE",
+                "SKU"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
                 6,
                 7,
                 8,
                 9,
                 10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:06"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4992277481"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

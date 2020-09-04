@@ -1,0 +1,183 @@
+{
+    "text_boxes": [
+        {
+            "text": "Jul,",
+            "id": 1,
+            "bbox": [
+                460,
+                234,
+                486,
+                244
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 2,
+            "bbox": [
+                498,
+                232,
+                527,
+                243
+            ]
+        },
+        {
+            "text": "17:35",
+            "id": 3,
+            "bbox": [
+                537,
+                231,
+                573,
+                242
+            ]
+        },
+        {
+            "text": "3,",
+            "id": 4,
+            "bbox": [
+                585,
+                499,
+                595,
+                509
+            ]
+        },
+        {
+            "text": "300.00",
+            "id": 5,
+            "bbox": [
+                601,
+                498,
+                646,
+                507
+            ]
+        },
+        {
+            "text": "3,",
+            "id": 6,
+            "bbox": [
+                593,
+                400,
+                603,
+                410
+            ]
+        },
+        {
+            "text": "300.00",
+            "id": 7,
+            "bbox": [
+                609,
+                397,
+                655,
+                409
+            ]
+        },
+        {
+            "text": "VALENTINO",
+            "id": 8,
+            "bbox": [
+                53,
+                362,
+                128,
+                374
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 9,
+            "bbox": [
+                136,
+                367,
+                185,
+                379
+            ]
+        },
+        {
+            "text": "L",
+            "id": 10,
+            "bbox": [
+                260,
+                371,
+                274,
+                385
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "VALENTINO",
+                "WOMENS"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:35"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,",
+                "300.00"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,",
+                "300.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/754.jpg"
+    }
+}

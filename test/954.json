@@ -1,0 +1,180 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZRA",
+            "id": 1,
+            "bbox": [
+                296,
+                97,
+                400,
+                145
+            ]
+        },
+        {
+            "text": "28-07",
+            "id": 2,
+            "bbox": [
+                229,
+                208,
+                256,
+                217
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                261,
+                209,
+                286,
+                216
+            ]
+        },
+        {
+            "text": "21:13",
+            "id": 4,
+            "bbox": [
+                295,
+                206,
+                322,
+                215
+            ]
+        },
+        {
+            "text": "169",
+            "id": 5,
+            "bbox": [
+                428,
+                368,
+                445,
+                378
+            ]
+        },
+        {
+            "text": "169",
+            "id": 6,
+            "bbox": [
+                426,
+                256,
+                442,
+                265
+            ]
+        },
+        {
+            "text": "0795078471201",
+            "id": 7,
+            "bbox": [
+                291,
+                281,
+                365,
+                294
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 8,
+            "bbox": [
+                379,
+                275,
+                407,
+                285
+            ]
+        },
+        {
+            "text": "10001265",
+            "id": 9,
+            "bbox": [
+                233,
+                285,
+                278,
+                297
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0795078471201",
+                "SHIRT"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:13"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "28-07",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "169"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZRA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001265"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "169"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/954.jpg"
+    }
+}

@@ -1,275 +1,230 @@
 {
     "text_boxes": [
         {
-            "text": "ITEM",
+            "text": "VALENT\u0399\u039d\u039f",
             "id": 1,
             "bbox": [
-                37,
-                637,
-                77,
-                663
+                596,
+                28,
+                949,
+                90
             ]
         },
         {
-            "text": "ID",
+            "text": "/",
             "id": 2,
             "bbox": [
-                92,
-                639,
-                110,
-                660
+                780,
+                82,
+                790,
+                95
             ]
         },
         {
-            "text": "ITEN",
+            "text": "a",
             "id": 3,
             "bbox": [
-                158,
-                638,
-                198,
-                666
+                817,
+                82,
+                827,
+                95
             ]
         },
         {
-            "text": "NAME",
+            "text": "7/15/2020",
             "id": 4,
             "bbox": [
-                206,
-                637,
-                254,
-                667
+                1206,
+                135,
+                1270,
+                150
             ]
         },
         {
-            "text": "QTY",
+            "text": "9:16:47",
             "id": 5,
             "bbox": [
-                352,
-                642,
-                381,
-                662
+                1200,
+                154,
+                1247,
+                167
             ]
         },
         {
-            "text": "UNIT",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                406,
-                642,
-                445,
-                663
+                1252,
+                157,
+                1273,
+                167
             ]
         },
         {
-            "text": "PRICE",
+            "text": "2,760.00",
             "id": 7,
             "bbox": [
-                460,
-                642,
-                511,
-                665
+                1271,
+                475,
+                1331,
+                489
             ]
         },
         {
-            "text": "NET",
+            "text": "2,760.00",
             "id": 8,
             "bbox": [
-                536,
-                644,
-                567,
-                668
+                1260,
+                389,
+                1319,
+                404
             ]
         },
         {
-            "text": "AMOUNT",
+            "text": "1",
             "id": 9,
             "bbox": [
-                579,
-                643,
-                642,
-                669
+                209,
+                380,
+                221,
+                398
             ]
         },
         {
-            "text": "12369177",
+            "text": "MULE",
             "id": 10,
             "bbox": [
-                46,
-                709,
-                130,
-                732
+                433,
+                378,
+                479,
+                395
             ]
         },
         {
-            "text": "C61",
+            "text": "Jae",
             "id": 11,
             "bbox": [
-                155,
-                710,
-                183,
-                731
+                489,
+                385,
+                520,
+                399
             ]
         },
         {
-            "text": "Pixie",
+            "text": "ZW2SOC47VOD",
             "id": 12,
             "bbox": [
-                194,
-                706,
-                266,
-                739
-            ]
-        },
-        {
-            "text": "Electric",
-            "id": 13,
-            "bbox": [
-                264,
-                711,
-                348,
-                734
-            ]
-        },
-        {
-            "text": "779.00",
-            "id": 14,
-            "bbox": [
-                460,
-                714,
-                522,
-                734
-            ]
-        },
-        {
-            "text": "779.00",
-            "id": 15,
-            "bbox": [
-                580,
-                715,
-                643,
-                738
-            ]
-        },
-        {
-            "text": "14",
-            "id": 16,
-            "bbox": [
-                151,
-                763,
-                175,
-                794
-            ]
-        },
-        {
-            "text": "Capsule",
-            "id": 17,
-            "bbox": [
-                183,
-                763,
-                271,
-                794
-            ]
-        },
-        {
-            "text": "Set",
-            "id": 18,
-            "bbox": [
-                274,
-                768,
-                304,
-                789
-            ]
-        },
-        {
-            "text": "R4",
-            "id": 19,
-            "bbox": [
-                318,
-                769,
-                336,
-                790
-            ]
-        },
-        {
-            "text": "0.00",
-            "id": 20,
-            "bbox": [
-                481,
-                770,
-                523,
-                792
-            ]
-        },
-        {
-            "text": "0.00",
-            "id": 21,
-            "bbox": [
-                602,
-                772,
-                644,
-                793
+                208,
+                347,
+                346,
+                378
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12369177",
-                "C61",
-                "Pixie",
-                "Electric",
-                "779.00",
-                "779.00",
-                "14",
-                "Capsule",
-                "Set",
-                "R4",
-                "0.00",
-                "0.00"
+                "MULE"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21
+                10
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ITEM",
-                "ID",
-                "ITEN",
-                "NAME",
-                "QTY",
-                "UNIT",
-                "PRICE",
-                "NET",
-                "AMOUNT"
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9:16:47",
+                "PM"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/15/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,760.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jae"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "VALENT\u0399\u039d\u039f",
+                "/",
+                "a"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZW2SOC47VOD"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,760.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

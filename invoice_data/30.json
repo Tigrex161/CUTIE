@@ -1,98 +1,188 @@
 {
     "text_boxes": [
         {
-            "text": "U",
+            "text": "Dior",
             "id": 1,
             "bbox": [
-                205,
-                465,
-                214,
-                480
+                89,
+                152,
+                260,
+                207
             ]
         },
         {
-            "text": "FAM",
+            "text": "BOUTIQUE",
             "id": 2,
             "bbox": [
-                215,
-                463,
-                233,
-                480
+                134,
+                224,
+                211,
+                236
             ]
         },
         {
-            "text": "TRAD",
+            "text": "25-Jun-2020",
             "id": 3,
             "bbox": [
-                238,
-                465,
-                266,
-                478
+                597,
+                377,
+                688,
+                393
             ]
         },
         {
-            "text": "ST",
+            "text": "16:27:38",
             "id": 4,
             "bbox": [
-                274,
-                463,
-                286,
-                475
+                724,
+                382,
+                783,
+                399
             ]
         },
         {
-            "text": "213321807",
+            "text": "1750.00",
             "id": 5,
             "bbox": [
-                208,
-                476,
-                274,
-                495
+                738,
+                833,
+                794,
+                848
             ]
         },
         {
-            "text": "199.00",
+            "text": "1.750.00",
             "id": 6,
             "bbox": [
-                443,
-                450,
-                488,
-                470
+                725,
+                562,
+                783,
+                579
             ]
         },
         {
-            "text": "199.00",
+            "text": "NID",
             "id": 7,
             "bbox": [
-                415,
-                468,
-                458,
-                483
+                243,
+                558,
+                274,
+                570
+            ]
+        },
+        {
+            "text": "D",
+            "id": 8,
+            "bbox": [
+                281,
+                558,
+                292,
+                571
+            ]
+        },
+        {
+            "text": "ANGE",
+            "id": 9,
+            "bbox": [
+                299,
+                558,
+                346,
+                571
+            ]
+        },
+        {
+            "text": "ORBP3INIDA",
+            "id": 10,
+            "bbox": [
+                32,
+                556,
+                132,
+                572
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "U",
-                "FAM",
-                "TRAD",
-                "ST",
-                "213321807",
-                "199.00",
-                "199.00"
+                "NID",
+                "D",
+                "ANGE"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:27:38"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25-Jun-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1750.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Dior",
+                "BOUTIQUE"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ORBP3INIDA"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.750.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

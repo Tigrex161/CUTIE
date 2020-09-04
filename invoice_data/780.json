@@ -1,0 +1,174 @@
+{
+    "text_boxes": [
+        {
+            "text": "CLARINS",
+            "id": 1,
+            "bbox": [
+                142,
+                190,
+                509,
+                237
+            ]
+        },
+        {
+            "text": ":",
+            "id": 2,
+            "bbox": [
+                460,
+                310,
+                469,
+                324
+            ]
+        },
+        {
+            "text": "23/07/2020",
+            "id": 3,
+            "bbox": [
+                471,
+                310,
+                529,
+                324
+            ]
+        },
+        {
+            "text": "210,00",
+            "id": 4,
+            "bbox": [
+                532,
+                824,
+                566,
+                836
+            ]
+        },
+        {
+            "text": "210,00",
+            "id": 5,
+            "bbox": [
+                542,
+                493,
+                574,
+                503
+            ]
+        },
+        {
+            "text": "ELCF+",
+            "id": 6,
+            "bbox": [
+                59,
+                487,
+                96,
+                499
+            ]
+        },
+        {
+            "text": "110",
+            "id": 7,
+            "bbox": [
+                98,
+                487,
+                113,
+                499
+            ]
+        },
+        {
+            "text": "RP",
+            "id": 8,
+            "bbox": [
+                120,
+                487,
+                130,
+                499
+            ]
+        },
+        {
+            "text": "10G",
+            "id": 9,
+            "bbox": [
+                139,
+                487,
+                156,
+                499
+            ]
+        },
+        {
+            "text": "17",
+            "id": 10,
+            "bbox": [
+                161,
+                487,
+                172,
+                499
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ELCF+",
+                "110",
+                "RP",
+                "10G",
+                "17"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ":",
+                "23/07/2020"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "210,00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CLARINS"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "210,00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/780.jpg"
+    }
+}

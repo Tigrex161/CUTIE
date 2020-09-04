@@ -1,146 +1,143 @@
 {
     "text_boxes": [
         {
-            "text": "S2089JSKC",
+            "text": "ZRA",
             "id": 1,
             "bbox": [
-                85,
-                597,
-                156,
-                608
+                311,
+                73,
+                434,
+                126
             ]
         },
         {
-            "text": "M64K",
+            "text": "30-06-2020",
             "id": 2,
             "bbox": [
-                204,
-                598,
-                241,
-                608
+                223,
+                329,
+                296,
+                346
             ]
         },
         {
-            "text": "30",
+            "text": "11:53",
             "id": 3,
             "bbox": [
-                266,
-                598,
-                279,
-                608
+                307,
+                334,
+                340,
+                344
             ]
         },
         {
-            "text": "MONTAIGNE",
+            "text": "199",
             "id": 4,
             "bbox": [
-                285,
-                598,
-                371,
-                608
+                471,
+                408,
+                490,
+                416
             ]
         },
         {
-            "text": "T",
+            "text": "0738530040603",
             "id": 5,
             "bbox": [
-                376,
-                599,
-                384,
-                608
+                298,
+                427,
+                393,
+                438
             ]
         },
         {
-            "text": "2,600.00",
+            "text": "DRESS",
             "id": 6,
             "bbox": [
-                526,
-                599,
-                575,
-                610
+                411,
+                427,
+                446,
+                436
             ]
         },
         {
-            "text": "2,600.00",
+            "text": "10001411",
             "id": 7,
             "bbox": [
-                643,
-                600,
-                693,
-                610
-            ]
-        },
-        {
-            "text": "DIORBYDIOR",
-            "id": 8,
-            "bbox": [
-                84,
-                634,
-                175,
-                644
-            ]
-        },
-        {
-            "text": "DDBSQ",
-            "id": 9,
-            "bbox": [
-                264,
-                635,
-                312,
-                647
-            ]
-        },
-        {
-            "text": "2,000.00",
-            "id": 10,
-            "bbox": [
-                526,
-                635,
-                575,
-                646
-            ]
-        },
-        {
-            "text": "2,000.00",
-            "id": 11,
-            "bbox": [
-                643,
-                635,
-                693,
-                646
+                218,
+                427,
+                279,
+                438
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "S2089JSKC",
-                "M64K",
-                "30",
-                "MONTAIGNE",
-                "T",
-                "2,600.00",
-                "2,600.00",
-                "DIORBYDIOR",
-                "DDBSQ",
-                "2,000.00",
-                "2,000.00"
+                "0738530040603",
+                "DRESS"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
                 5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:53"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30-06-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZRA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001411"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "199"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

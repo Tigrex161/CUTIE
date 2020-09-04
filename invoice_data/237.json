@@ -1,110 +1,155 @@
 {
     "text_boxes": [
         {
-            "text": "B0961ADRCO",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                127,
-                502,
-                213,
-                512
+                236,
+                132,
+                526,
+                185
             ]
         },
         {
-            "text": "D836",
+            "text": "PM",
             "id": 2,
             "bbox": [
-                241,
-                502,
-                271,
-                512
+                417,
+                319,
+                433,
+                334
             ]
         },
         {
-            "text": "ADR",
+            "text": "1,850.00",
             "id": 3,
             "bbox": [
-                295,
-                502,
-                322,
-                511
+                474,
+                685,
+                543,
+                703
             ]
         },
         {
-            "text": "Textile",
+            "text": "1,850.00",
             "id": 4,
             "bbox": [
-                328,
-                502,
-                366,
-                512
+                472,
+                517,
+                538,
+                533
             ]
         },
         {
-            "text": "J",
+            "text": "SL",
             "id": 5,
             "bbox": [
-                369,
-                499,
-                375,
-                512
+                195,
+                518,
+                215,
+                535
             ]
         },
         {
-            "text": "1",
+            "text": "-",
             "id": 6,
             "bbox": [
-                440,
-                503,
-                442,
-                511
+                226,
+                518,
+                236,
+                535
             ]
         },
         {
-            "text": "1,550.00",
+            "text": "Women's",
             "id": 7,
             "bbox": [
-                552,
-                503,
-                599,
-                513
+                239,
+                519,
+                297,
+                534
             ]
         },
         {
-            "text": "1,550.00",
+            "text": "208237611",
             "id": 8,
             "bbox": [
-                674,
-                502,
-                716,
-                514
+                213,
+                537,
+                287,
+                551
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "B0961ADRCO",
-                "D836",
-                "ADR",
-                "Textile",
-                "J",
-                "1",
-                "1,550.00",
-                "1,550.00"
+                "SL",
+                "-",
+                "Women's"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
                 5,
                 6,
-                7,
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PM"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,850.00"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdales"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "208237611"
+            ],
+            "value_id": [
                 8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,850.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

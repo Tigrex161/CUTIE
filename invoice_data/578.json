@@ -1,98 +1,212 @@
 {
     "text_boxes": [
         {
-            "text": "3SHIISYYO",
+            "text": "Jardin",
             "id": 1,
             "bbox": [
-                163,
-                595,
-                233,
-                604
+                288,
+                115,
+                413,
+                170
             ]
         },
         {
-            "text": "H960",
+            "text": "de",
             "id": 2,
             "bbox": [
-                268,
-                593,
-                297,
-                604
+                420,
+                140,
+                450,
+                170
             ]
         },
         {
-            "text": "/",
+            "text": "Parfums",
             "id": 3,
             "bbox": [
-                303,
-                592,
-                307,
-                603
+                269,
+                159,
+                490,
+                224
             ]
         },
         {
-            "text": "T405",
+            "text": "18/07/20",
             "id": 4,
             "bbox": [
-                309,
-                594,
-                334,
-                602
+                389,
+                430,
+                442,
+                444
             ]
         },
         {
-            "text": "3SHI18YYO",
+            "text": "08:27",
             "id": 5,
             "bbox": [
-                339,
-                592,
-                408,
-                602
+                478,
+                426,
+                512,
+                440
             ]
         },
         {
-            "text": "4,400.00",
+            "text": "625.00",
             "id": 6,
             "bbox": [
-                553,
-                588,
-                598,
-                598
+                438,
+                532,
+                478,
+                544
             ]
         },
         {
-            "text": "4,400.00",
+            "text": "WHITE",
             "id": 7,
             "bbox": [
-                658,
-                588,
-                702,
-                596
+                221,
+                536,
+                255,
+                548
+            ]
+        },
+        {
+            "text": "SUGAR",
+            "id": 8,
+            "bbox": [
+                263,
+                535,
+                296,
+                547
+            ]
+        },
+        {
+            "text": "FLOWER",
+            "id": 9,
+            "bbox": [
+                306,
+                535,
+                345,
+                547
+            ]
+        },
+        {
+            "text": "100ml",
+            "id": 10,
+            "bbox": [
+                355,
+                533,
+                386,
+                548
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                480,
+                660,
+                481,
+                671
+            ]
+        },
+        {
+            "text": "562.50",
+            "id": 12,
+            "bbox": [
+                463,
+                712,
+                505,
+                726
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3SHIISYYO",
-                "H960",
-                "/",
-                "T405",
-                "3SHI18YYO",
-                "4,400.00",
-                "4,400.00"
+                "WHITE",
+                "SUGAR",
+                "FLOWER",
+                "100ml"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08:27"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18/07/20"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "562.50"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jardin",
+                "de",
+                "Parfums"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "625.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

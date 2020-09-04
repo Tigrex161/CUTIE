@@ -1,263 +1,212 @@
 {
     "text_boxes": [
         {
-            "text": "\"FCHD002-",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                272,
-                580,
-                311,
-                587
+                524,
+                238,
+                553,
+                249
             ]
         },
         {
-            "text": "010",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                376,
-                582,
-                390,
-                588
+                567,
+                237,
+                599,
+                248
             ]
         },
         {
-            "text": "241",
+            "text": "22:18",
             "id": 3,
             "bbox": [
-                411,
-                582,
-                422,
-                589
+                609,
+                238,
+                650,
+                248
             ]
         },
         {
-            "text": "00",
+            "text": "3,550.00",
             "id": 4,
             "bbox": [
-                426,
-                582,
-                434,
-                589
+                683,
+                515,
+                754,
+                528
             ]
         },
         {
-            "text": "30.00",
+            "text": "3,550.00",
             "id": 5,
             "bbox": [
-                462,
-                583,
-                480,
-                590
+                681,
+                427,
+                749,
+                436
             ]
         },
         {
-            "text": "DELUXE",
+            "text": "1",
             "id": 6,
             "bbox": [
-                273,
-                593,
-                302,
-                600
+                473,
+                426,
+                476,
+                434
             ]
         },
         {
-            "text": "CHOCOLATE",
+            "text": "PCOU_OTHS",
             "id": 7,
             "bbox": [
-                305,
-                594,
-                352,
-                602
+                77,
+                395,
+                152,
+                410
             ]
         },
         {
-            "text": "\"FCHO001-",
+            "text": ":",
             "id": 8,
             "bbox": [
-                271,
-                678,
-                309,
-                685
+                154,
+                396,
+                164,
+                409
             ]
         },
         {
-            "text": "054",
+            "text": "PRIVATE",
             "id": 9,
             "bbox": [
-                376,
-                680,
-                389,
-                686
+                165,
+                398,
+                222,
+                409
             ]
         },
         {
-            "text": "221.00",
+            "text": "COLLECTION",
             "id": 10,
             "bbox": [
-                411,
-                680,
-                433,
-                686
+                233,
+                399,
+                317,
+                410
             ]
         },
         {
-            "text": "75.00",
+            "text": "MENS",
             "id": 11,
             "bbox": [
-                463,
-                681,
-                480,
-                687
+                326,
+                400,
+                359,
+                410
             ]
         },
         {
-            "text": "CLASSIC",
+            "text": "SI-SLL",
             "id": 12,
             "bbox": [
-                270,
-                692,
-                302,
-                699
-            ]
-        },
-        {
-            "text": "CHOCOLATE",
-            "id": 13,
-            "bbox": [
-                306,
-                690,
-                354,
-                700
-            ]
-        },
-        {
-            "text": "Itum",
-            "id": 14,
-            "bbox": [
-                273,
-                536,
-                287,
-                542
-            ]
-        },
-        {
-            "text": "Qly",
-            "id": 15,
-            "bbox": [
-                375,
-                539,
-                386,
-                546
-            ]
-        },
-        {
-            "text": "Price",
-            "id": 16,
-            "bbox": [
-                410,
-                539,
-                427,
-                545
-            ]
-        },
-        {
-            "text": "Amount",
-            "id": 17,
-            "bbox": [
-                452,
-                539,
-                480,
-                546
-            ]
-        },
-        {
-            "text": "L",
-            "id": 18,
-            "bbox": [
-                372,
-                558,
-                386,
-                566
-            ]
-        },
-        {
-            "text": "Inc.",
-            "id": 19,
-            "bbox": [
-                398,
-                560,
-                411,
-                568
-            ]
-        },
-        {
-            "text": "VAT",
-            "id": 20,
-            "bbox": [
-                413,
-                560,
-                427,
-                569
+                448,
+                403,
+                547,
+                415
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\"FCHD002-",
-                "010",
-                "241",
-                "00",
-                "30.00",
-                "DELUXE",
-                "CHOCOLATE",
-                "\"FCHO001-",
-                "054",
-                "221.00",
-                "75.00",
-                "CLASSIC",
-                "CHOCOLATE"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PCOU_OTHS",
+                ":",
+                "PRIVATE",
+                "COLLECTION",
+                "MENS"
+            ],
+            "value_id": [
                 7,
                 8,
                 9,
                 10,
-                11,
-                12,
-                13
+                11
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Itum",
-                "Qly",
-                "Price",
-                "Amount",
-                "L",
-                "Inc.",
-                "VAT"
+                "22:18"
             ],
             "value_id": [
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,550.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SI-SLL"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,550.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

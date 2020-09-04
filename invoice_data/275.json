@@ -1,131 +1,224 @@
 {
     "text_boxes": [
         {
-            "text": "UNI",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                324,
-                529,
-                342,
-                537
+                669,
+                690,
+                704,
+                703
             ]
         },
         {
-            "text": "4,230.00",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                412,
-                527,
-                461,
-                538
+                720,
+                690,
+                759,
+                702
             ]
         },
         {
-            "text": "A82545B01481C3906",
+            "text": "20:28",
             "id": 3,
             "bbox": [
-                90,
-                544,
-                209,
-                554
+                771,
+                691,
+                819,
+                703
             ]
         },
         {
-            "text": "Size",
+            "text": "1,690.00",
             "id": 4,
             "bbox": [
-                321,
-                510,
-                346,
-                520
+                842,
+                1057,
+                922,
+                1072
             ]
         },
         {
-            "text": "Qty",
+            "text": "1,690.00",
             "id": 5,
             "bbox": [
-                359,
-                510,
-                379,
-                522
+                852,
+                924,
+                932,
+                937
             ]
         },
         {
-            "text": "Unit",
+            "text": "1.",
             "id": 6,
             "bbox": [
-                401,
-                509,
-                426,
-                519
+                606,
+                920,
+                611,
+                931
             ]
         },
         {
-            "text": "price",
+            "text": "VALENTINO",
             "id": 7,
             "bbox": [
-                430,
-                509,
-                459,
-                522
+                131,
+                873,
+                227,
+                887
             ]
         },
         {
-            "text": "Reference",
+            "text": "WOMENS",
             "id": 8,
             "bbox": [
-                89,
-                510,
-                149,
-                518
+                239,
+                877,
+                300,
+                890
             ]
         },
         {
-            "text": "Amount",
+            "text": "SLGS",
             "id": 9,
             "bbox": [
-                610,
-                508,
-                657,
-                520
+                313,
+                880,
+                352,
+                892
+            ]
+        },
+        {
+            "text": "L",
+            "id": 10,
+            "bbox": [
+                401,
+                880,
+                417,
+                896
+            ]
+        },
+        {
+            "text": "is",
+            "id": 11,
+            "bbox": [
+                471,
+                883,
+                496,
+                900
+            ]
+        },
+        {
+            "text": "yib",
+            "id": 12,
+            "bbox": [
+                499,
+                886,
+                543,
+                900
+            ]
+        },
+        {
+            "text": "Sbiis",
+            "id": 13,
+            "bbox": [
+                553,
+                887,
+                616,
+                904
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "UNI",
-                "4,230.00",
-                "A82545B01481C3906"
+                "1."
             ],
             "value_id": [
-                1,
-                2,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "VALENTINO",
+                "WOMENS",
+                "SLGS"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:28"
+            ],
+            "value_id": [
                 3
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Size",
-                "Qty",
-                "Unit",
-                "price",
-                "Reference",
-                "Amount"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
-                4,
-                5,
-                6,
-                7,
-                8,
-                9
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,690.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L",
+                "is",
+                "yib",
+                "Sbiis"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,690.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

@@ -1,206 +1,188 @@
 {
     "text_boxes": [
         {
-            "text": "15.00",
+            "text": "LIWA",
             "id": 1,
             "bbox": [
-                312,
-                636,
-                376,
-                660
+                299,
+                146,
+                371,
+                177
             ]
         },
         {
-            "text": "Still",
+            "text": "TRADING",
             "id": 2,
             "bbox": [
-                492,
-                638,
-                546,
-                659
+                390,
+                161,
+                511,
+                194
             ]
         },
         {
-            "text": "Small",
+            "text": "11/07/20",
             "id": 3,
             "bbox": [
-                563,
-                637,
-                617,
-                659
+                329,
+                406,
+                399,
+                429
             ]
         },
         {
-            "text": "1",
+            "text": "8:41",
             "id": 4,
             "bbox": [
-                660,
-                640,
-                664,
-                658
+                525,
+                414,
+                558,
+                430
             ]
         },
         {
-            "text": "30.00",
+            "text": "139.00",
             "id": 5,
             "bbox": [
-                315,
-                698,
-                372,
-                717
+                479,
+                612,
+                531,
+                628
             ]
         },
         {
-            "text": "Spicy",
+            "text": "139.00",
             "id": 6,
             "bbox": [
-                492,
-                697,
-                549,
-                720
+                480,
+                568,
+                531,
+                584
             ]
         },
         {
-            "text": "Punch",
+            "text": "GANT",
             "id": 7,
             "bbox": [
-                563,
-                697,
-                621,
-                718
+                240,
+                561,
+                271,
+                582
             ]
         },
         {
-            "text": "1",
+            "text": "ARCHIVE",
             "id": 8,
             "bbox": [
-                661,
-                698,
-                665,
-                716
+                280,
+                564,
+                341,
+                581
             ]
         },
         {
-            "text": "60.00",
+            "text": "STR",
             "id": 9,
             "bbox": [
-                314,
-                756,
-                372,
-                776
+                353,
+                567,
+                377,
+                582
             ]
         },
         {
-            "text": "Grilled",
+            "text": "7325705349555",
             "id": 10,
             "bbox": [
-                481,
-                755,
-                562,
-                777
-            ]
-        },
-        {
-            "text": "Corn",
-            "id": 11,
-            "bbox": [
-                576,
-                757,
-                623,
-                776
-            ]
-        },
-        {
-            "text": "1",
-            "id": 12,
-            "bbox": [
-                663,
-                757,
-                667,
-                775
-            ]
-        },
-        {
-            "text": "55.00",
-            "id": 13,
-            "bbox": [
-                314,
-                816,
-                371,
-                835
-            ]
-        },
-        {
-            "text": "Pacific",
-            "id": 14,
-            "bbox": [
-                481,
-                815,
-                563,
-                835
-            ]
-        },
-        {
-            "text": "Roll",
-            "id": 15,
-            "bbox": [
-                577,
-                815,
-                621,
-                836
-            ]
-        },
-        {
-            "text": "1",
-            "id": 16,
-            "bbox": [
-                664,
-                816,
-                669,
-                835
+                198,
+                539,
+                315,
+                560
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15.00",
-                "Still",
-                "Small",
-                "1",
-                "30.00",
-                "Spicy",
-                "Punch",
-                "1",
-                "60.00",
-                "Grilled",
-                "Corn",
-                "1",
-                "55.00",
-                "Pacific",
-                "Roll",
-                "1"
+                "GANT",
+                "ARCHIVE",
+                "STR"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8:41"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "139.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LIWA",
+                "TRADING"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7325705349555"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "139.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

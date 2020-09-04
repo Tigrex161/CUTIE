@@ -1,0 +1,240 @@
+{
+    "text_boxes": [
+        {
+            "text": "level",
+            "id": 1,
+            "bbox": [
+                375,
+                279,
+                455,
+                332
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 2,
+            "bbox": [
+                385,
+                340,
+                439,
+                351
+            ]
+        },
+        {
+            "text": "Jul,",
+            "id": 3,
+            "bbox": [
+                488,
+                450,
+                509,
+                458
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                520,
+                450,
+                543,
+                457
+            ]
+        },
+        {
+            "text": "21:18",
+            "id": 5,
+            "bbox": [
+                551,
+                451,
+                580,
+                458
+            ]
+        },
+        {
+            "text": "1,",
+            "id": 6,
+            "bbox": [
+                576,
+                672,
+                583,
+                679
+            ]
+        },
+        {
+            "text": "850.0",
+            "id": 7,
+            "bbox": [
+                587,
+                671,
+                621,
+                678
+            ]
+        },
+        {
+            "text": "1,850.00",
+            "id": 8,
+            "bbox": [
+                589,
+                595,
+                635,
+                604
+            ]
+        },
+        {
+            "text": "PCOU",
+            "id": 9,
+            "bbox": [
+                151,
+                567,
+                182,
+                578
+            ]
+        },
+        {
+            "text": "OTHS:",
+            "id": 10,
+            "bbox": [
+                184,
+                568,
+                216,
+                579
+            ]
+        },
+        {
+            "text": "PRIVATE",
+            "id": 11,
+            "bbox": [
+                217,
+                570,
+                260,
+                579
+            ]
+        },
+        {
+            "text": "COLLECTION",
+            "id": 12,
+            "bbox": [
+                267,
+                570,
+                329,
+                580
+            ]
+        },
+        {
+            "text": "MENS",
+            "id": 13,
+            "bbox": [
+                336,
+                573,
+                360,
+                580
+            ]
+        },
+        {
+            "text": "SI-SLia",
+            "id": 14,
+            "bbox": [
+                425,
+                574,
+                496,
+                584
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PCOU",
+                "OTHS:",
+                "PRIVATE",
+                "COLLECTION",
+                "MENS"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:18"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,",
+                "850.0"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SI-SLia"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHOES"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,850.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/823.jpg"
+    }
+}

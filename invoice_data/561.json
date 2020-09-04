@@ -1,191 +1,203 @@
 {
     "text_boxes": [
         {
-            "text": "609.00",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                527,
-                587,
-                573,
-                602
+                426,
+                445,
+                445,
+                454
             ]
         },
         {
-            "text": "1.00",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                233,
-                592,
-                259,
-                605
+                454,
+                445,
+                475,
+                455
             ]
         },
         {
-            "text": "YEMENI",
+            "text": "17146",
             "id": 3,
             "bbox": [
-                272,
-                592,
-                321,
-                604
+                482,
+                446,
+                508,
+                455
             ]
         },
         {
-            "text": "SIDR",
+            "text": "2.850.00",
             "id": 4,
             "bbox": [
-                328,
-                591,
-                360,
-                603
+                498,
+                629,
+                538,
+                638
             ]
         },
         {
-            "text": "DO'ANI",
+            "text": "2.",
             "id": 5,
             "bbox": [
-                367,
-                590,
-                412,
-                603
+                508,
+                566,
+                519,
+                575
             ]
         },
         {
-            "text": "\u0639\u0633\u0644",
+            "text": "850.",
             "id": 6,
             "bbox": [
-                375,
-                610,
-                409,
-                623
+                521,
+                566,
+                541,
+                575
             ]
         },
         {
-            "text": "\u0633\u06cc\u062f\u0631",
+            "text": "00",
             "id": 7,
             "bbox": [
-                337,
-                614,
-                369,
-                623
+                539,
+                567,
+                549,
+                574
             ]
         },
         {
-            "text": "1KG",
+            "text": "POOU",
             "id": 8,
             "bbox": [
-                273,
-                610,
-                297,
-                622
+                142,
+                542,
+                167,
+                553
             ]
         },
         {
-            "text": "JAR",
+            "text": "OTHS:PRIVAIE",
             "id": 9,
             "bbox": [
-                303,
-                610,
-                326,
-                623
+                170,
+                542,
+                233,
+                553
             ]
         },
         {
-            "text": "609.00",
+            "text": "COLLECTION",
             "id": 10,
             "bbox": [
-                458,
-                586,
-                505,
-                603
+                239,
+                544,
+                291,
+                552
             ]
         },
         {
-            "text": "Price",
+            "text": "0ONS",
             "id": 11,
             "bbox": [
-                468,
-                518,
-                499,
-                529
+                296,
+                545,
+                316,
+                552
             ]
         },
         {
-            "text": "Amount",
+            "text": "L",
             "id": 12,
             "bbox": [
-                523,
-                514,
-                575,
-                529
-            ]
-        },
-        {
-            "text": "Qty",
-            "id": 13,
-            "bbox": [
-                231,
-                522,
-                253,
-                537
-            ]
-        },
-        {
-            "text": "Item",
-            "id": 14,
-            "bbox": [
-                272,
-                520,
-                302,
-                535
+                400,
+                547,
+                415,
+                556
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "609.00",
-                "1.00",
-                "YEMENI",
-                "SIDR",
-                "DO'ANI",
-                "\u0639\u0633\u0644",
-                "\u0633\u06cc\u062f\u0631",
-                "1KG",
-                "JAR",
-                "609.00"
+                "POOU",
+                "OTHS:PRIVAIE",
+                "COLLECTION",
+                "0ONS"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
                 8,
                 9,
-                10
+                10,
+                11
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Price",
-                "Amount",
-                "Qty",
-                "Item"
+                "17146"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.850.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.",
+                "850.",
+                "00"
+            ],
+            "value_id": [
+                5,
+                6,
+                7
             ]
         }
     ],

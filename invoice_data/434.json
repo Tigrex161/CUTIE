@@ -1,179 +1,278 @@
 {
     "text_boxes": [
         {
-            "text": "031623289138",
+            "text": "COS",
             "id": 1,
             "bbox": [
-                137,
-                472,
-                221,
-                482
+                251,
+                100,
+                303,
+                115
             ]
         },
         {
-            "text": "50008694-204:",
+            "text": "-",
             "id": 2,
             "bbox": [
-                230,
-                472,
-                319,
-                482
+                304,
+                99,
+                313,
+                115
             ]
         },
         {
-            "text": "TH.",
+            "text": "Dubai",
             "id": 3,
             "bbox": [
-                323,
-                474,
-                348,
-                482
+                310,
+                100,
+                359,
+                115
             ]
         },
         {
-            "text": "204:7:MILLERI",
+            "text": "Festival",
             "id": 4,
             "bbox": [
-                352,
-                473,
-                440,
-                483
+                365,
+                102,
+                430,
+                119
             ]
         },
         {
-            "text": "UN",
+            "text": "City",
             "id": 5,
             "bbox": [
-                480,
-                475,
-                507,
-                483
+                436,
+                106,
+                468,
+                122
             ]
         },
         {
-            "text": "990.00",
+            "text": "09/07/2020",
             "id": 6,
             "bbox": [
-                508,
-                496,
-                550,
-                504
+                437,
+                337,
+                519,
+                355
             ]
         },
         {
-            "text": "990.00",
+            "text": "20:09",
             "id": 7,
             "bbox": [
-                652,
-                496,
-                693,
-                504
+                526,
+                336,
+                566,
+                353
             ]
         },
         {
-            "text": "DESCRIPTION",
+            "text": "159.00",
             "id": 8,
             "bbox": [
-                260,
-                408,
-                337,
-                417
+                516,
+                662,
+                562,
+                679
             ]
         },
         {
-            "text": "VAT",
+            "text": "159.00",
             "id": 9,
             "bbox": [
-                394,
-                410,
-                414,
-                417
+                517,
+                561,
+                564,
+                576
             ]
         },
         {
-            "text": "OTY",
+            "text": "1.0",
             "id": 10,
             "bbox": [
-                457,
-                410,
-                477,
-                418
+                425,
+                564,
+                444,
+                578
             ]
         },
         {
-            "text": "FRICE",
+            "text": "1.0",
             "id": 11,
             "bbox": [
-                514,
-                409,
-                548,
-                417
+                426,
+                665,
+                445,
+                679
             ]
         },
         {
-            "text": "DINC",
+            "text": "CL",
             "id": 12,
             "bbox": [
-                584,
-                409,
-                611,
-                417
+                160,
+                494,
+                178,
+                509
             ]
         },
         {
-            "text": "AMOUNT",
+            "text": "E",
             "id": 13,
             "bbox": [
-                648,
-                408,
-                689,
-                418
+                185,
+                494,
+                193,
+                509
+            ]
+        },
+        {
+            "text": "HILLINGO",
+            "id": 14,
+            "bbox": [
+                200,
+                493,
+                274,
+                509
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 15,
+            "bbox": [
+                282,
+                493,
+                333,
+                508
+            ]
+        },
+        {
+            "text": "HP0789640001190002",
+            "id": 16,
+            "bbox": [
+                162,
+                564,
+                325,
+                580
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "031623289138",
-                "50008694-204:",
-                "TH.",
-                "204:7:MILLERI",
-                "UN",
-                "990.00",
-                "990.00"
+                "1.0"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CL",
+                "E",
+                "HILLINGO",
+                "DRESS"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.0"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:09"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "09/07/2020"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "159.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "COS",
+                "-",
+                "Dubai",
+                "Festival",
+                "City"
             ],
             "value_id": [
                 1,
                 2,
                 3,
                 4,
-                5,
-                6,
-                7
+                5
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DESCRIPTION",
-                "VAT",
-                "OTY",
-                "FRICE",
-                "DINC",
-                "AMOUNT"
+                "HP0789640001190002"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                16
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "159.00"
+            ],
+            "value_id": [
+                9
             ]
         }
     ],

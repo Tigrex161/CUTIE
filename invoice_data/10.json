@@ -1,143 +1,203 @@
 {
     "text_boxes": [
         {
-            "text": "LN#",
+            "text": "Perfetto",
             "id": 1,
             "bbox": [
-                174,
-                398,
-                199,
-                414
+                186,
+                160,
+                389,
+                240
             ]
         },
         {
-            "text": "Item/dalail",
+            "text": "50",
             "id": 2,
             "bbox": [
-                211,
-                398,
-                282,
-                413
+                435,
+                563,
+                449,
+                577
             ]
         },
         {
-            "text": ",",
+            "text": "50",
             "id": 3,
             "bbox": [
-                294,
-                404,
-                308,
-                414
+                434,
+                624,
+                448,
+                638
             ]
         },
         {
-            "text": "Qty/as",
+            "text": "160.00",
             "id": 4,
             "bbox": [
-                319,
-                401,
-                378,
-                416
+                580,
+                564,
+                628,
+                579
             ]
         },
         {
-            "text": "value/",
+            "text": "Freddo",
             "id": 5,
             "bbox": [
-                390,
-                402,
-                439,
-                415
+                251,
+                557,
+                299,
+                575
             ]
         },
         {
-            "text": "1",
+            "text": "Delicato",
             "id": 6,
             "bbox": [
-                185,
-                439,
-                196,
-                455
+                309,
+                559,
+                374,
+                577
             ]
         },
         {
-            "text": "3609140329209",
+            "text": "-",
             "id": 7,
             "bbox": [
-                198,
-                439,
-                304,
-                457
+                388,
+                559,
+                397,
+                578
             ]
         },
         {
-            "text": "MAXYPUN",
+            "text": "Intenso",
             "id": 8,
             "bbox": [
-                193,
-                452,
-                252,
-                467
+                309,
+                620,
+                381,
+                638
             ]
         },
         {
-            "text": "980.",
+            "text": "-",
             "id": 9,
             "bbox": [
-                470,
-                446,
-                499,
-                456
+                387,
+                620,
+                394,
+                638
             ]
         },
         {
-            "text": "00",
+            "text": "6758230",
             "id": 10,
             "bbox": [
-                505,
-                447,
-                519,
-                456
+                163,
+                552,
+                223,
+                572
+            ]
+        },
+        {
+            "text": "6758330",
+            "id": 11,
+            "bbox": [
+                161,
+                615,
+                221,
+                633
+            ]
+        },
+        {
+            "text": "100",
+            "id": 12,
+            "bbox": [
+                606,
+                706,
+                628,
+                722
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "3609140329209",
-                "MAXYPUN",
-                "980.",
-                "00"
+                "50",
+                "50"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10
+                2,
+                3
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LN#",
-                "Item/dalail",
-                ",",
-                "Qty/as",
-                "value/"
+                "Freddo",
+                "Delicato",
+                "-",
+                "Intenso",
+                "-"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Perfetto"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6758230",
+                "6758330"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "160.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

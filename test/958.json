@@ -1,0 +1,306 @@
+{
+    "text_boxes": [
+        {
+            "text": "TO",
+            "id": 1,
+            "bbox": [
+                224,
+                287,
+                242,
+                305
+            ]
+        },
+        {
+            "text": "Sabvatre",
+            "id": 2,
+            "bbox": [
+                234,
+                276,
+                369,
+                326
+            ]
+        },
+        {
+            "text": "Ferragamo",
+            "id": 3,
+            "bbox": [
+                372,
+                283,
+                539,
+                342
+            ]
+        },
+        {
+            "text": "July,",
+            "id": 4,
+            "bbox": [
+                546,
+                399,
+                577,
+                412
+            ]
+        },
+        {
+            "text": "28",
+            "id": 5,
+            "bbox": [
+                587,
+                399,
+                599,
+                409
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 6,
+            "bbox": [
+                608,
+                399,
+                632,
+                408
+            ]
+        },
+        {
+            "text": "18:10:",
+            "id": 7,
+            "bbox": [
+                642,
+                398,
+                674,
+                407
+            ]
+        },
+        {
+            "text": "3,570.00",
+            "id": 8,
+            "bbox": [
+                609,
+                723,
+                661,
+                732
+            ]
+        },
+        {
+            "text": "3,",
+            "id": 9,
+            "bbox": [
+                608,
+                638,
+                617,
+                647
+            ]
+        },
+        {
+            "text": "570.00",
+            "id": 10,
+            "bbox": [
+                622,
+                638,
+                661,
+                646
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                448,
+                641,
+                452,
+                648
+            ]
+        },
+        {
+            "text": "21H153-696058:0S:SFO.",
+            "id": 12,
+            "bbox": [
+                230,
+                618,
+                368,
+                627
+            ]
+        },
+        {
+            "text": "696058:",
+            "id": 13,
+            "bbox": [
+                372,
+                616,
+                417,
+                628
+            ]
+        },
+        {
+            "text": "SHOOSLDER",
+            "id": 14,
+            "bbox": [
+                419,
+                616,
+                473,
+                628
+            ]
+        },
+        {
+            "text": "BAG",
+            "id": 15,
+            "bbox": [
+                480,
+                619,
+                499,
+                626
+            ]
+        },
+        {
+            "text": "FLAP",
+            "id": 16,
+            "bbox": [
+                508,
+                619,
+                532,
+                626
+            ]
+        },
+        {
+            "text": "i",
+            "id": 17,
+            "bbox": [
+                596,
+                618,
+                627,
+                627
+            ]
+        },
+        {
+            "text": "028524486925",
+            "id": 18,
+            "bbox": [
+                141,
+                618,
+                222,
+                626
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21H153-696058:0S:SFO.",
+                "696058:",
+                "SHOOSLDER",
+                "BAG",
+                "FLAP"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:10:"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "28",
+                "2020"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,570.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "i"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TO",
+                "Sabvatre",
+                "Ferragamo"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "028524486925"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,",
+                "570.00"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/958.jpg"
+    }
+}

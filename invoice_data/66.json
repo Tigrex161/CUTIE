@@ -1,215 +1,260 @@
 {
     "text_boxes": [
         {
-            "text": "46P446BRA",
+            "text": "Van",
             "id": 1,
             "bbox": [
-                22,
-                504,
-                95,
-                516
+                224,
+                76,
+                277,
+                101
             ]
         },
         {
-            "text": "Double",
+            "text": "Cleef",
             "id": 2,
             "bbox": [
-                156,
-                505,
-                198,
-                517
+                288,
+                72,
+                363,
+                101
             ]
         },
         {
-            "text": "Bracelet",
+            "text": "&",
             "id": 3,
             "bbox": [
-                202,
-                505,
-                250,
-                517
+                372,
+                80,
+                391,
+                99
             ]
         },
         {
-            "text": "C3",
+            "text": "Arpels",
             "id": 4,
             "bbox": [
-                255,
-                506,
-                270,
-                517
+                400,
+                70,
+                489,
+                106
             ]
         },
         {
-            "text": "35OR",
+            "text": "03/07/2020",
             "id": 5,
             "bbox": [
-                276,
-                506,
-                308,
-                517
+                87,
+                660,
+                134,
+                669
             ]
         },
         {
-            "text": "1,500",
+            "text": "21:27:27",
             "id": 6,
             "bbox": [
-                486,
-                509,
-                517,
-                519
+                137,
+                660,
+                172,
+                667
             ]
         },
         {
-            "text": "1,500",
+            "text": "19,000",
             "id": 7,
             "bbox": [
-                676,
-                509,
-                708,
-                520
+                649,
+                504,
+                671,
+                510
             ]
         },
         {
-            "text": "Reference",
+            "text": ".00",
             "id": 8,
             "bbox": [
-                30,
-                468,
-                91,
-                485
+                674,
+                504,
+                682,
+                509
             ]
         },
         {
-            "text": "Description",
+            "text": "19000.00",
             "id": 9,
             "bbox": [
-                156,
-                473,
-                221,
-                488
+                648,
+                458,
+                681,
+                465
             ]
         },
         {
-            "text": "Org.",
+            "text": "BRAC",
             "id": 10,
             "bbox": [
-                437,
-                473,
-                459,
-                490
+                97,
+                451,
+                114,
+                456
             ]
         },
         {
-            "text": "PRIX",
+            "text": "VINTAGE",
             "id": 11,
             "bbox": [
-                461,
-                474,
-                491,
-                491
+                116,
+                450,
+                144,
+                456
             ]
         },
         {
-            "text": "Qty",
+            "text": "AL",
             "id": 12,
             "bbox": [
-                557,
-                476,
-                576,
-                487
+                147,
+                450,
+                154,
+                455
             ]
         },
         {
-            "text": "s",
+            "text": "SMO",
             "id": 13,
             "bbox": [
-                587,
-                476,
-                606,
-                487
+                156,
+                450,
+                172,
+                455
             ]
         },
         {
-            "text": "Tot,",
+            "text": "YG",
             "id": 14,
             "bbox": [
-                623,
-                476,
-                643,
-                486
+                174,
+                450,
+                182,
+                456
             ]
         },
         {
-            "text": "NET",
+            "text": "OUI",
             "id": 15,
             "bbox": [
-                650,
-                476,
-                676,
-                486
+                185,
+                449,
+                197,
+                455
             ]
         },
         {
-            "text": "AED",
+            "text": "ARP3IKOD",
             "id": 16,
             "bbox": [
-                681,
-                476,
-                708,
-                487
+                141,
+                460,
+                179,
+                466
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "46P446BRA",
-                "Double",
-                "Bracelet",
-                "C3",
-                "35OR",
-                "1,500",
-                "1,500"
+                "BRAC",
+                "VINTAGE",
+                "AL",
+                "SMO",
+                "YG",
+                "OUI"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "heading",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Reference",
-                "Description",
-                "Org.",
-                "PRIX",
-                "Qty",
-                "s",
-                "Tot,",
-                "NET",
-                "AED"
-            ],
-            "value_id": [
-                8,
-                9,
                 10,
                 11,
                 12,
                 13,
                 14,
-                15,
+                15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:27:27"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "03/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19,000",
+                ".00"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ARP3IKOD"
+            ],
+            "value_id": [
                 16
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19000.00"
+            ],
+            "value_id": [
+                9
             ]
         }
     ],

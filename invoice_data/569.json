@@ -1,167 +1,257 @@
 {
     "text_boxes": [
         {
-            "text": "5.00",
+            "text": "KARL",
             "id": 1,
             "bbox": [
-                218,
-                513,
-                246,
-                522
+                331,
+                125,
+                368,
+                142
             ]
         },
         {
-            "text": "169",
+            "text": "LAGERFELD",
             "id": 2,
             "bbox": [
-                348,
-                512,
-                368,
-                522
+                373,
+                121,
+                461,
+                139
             ]
         },
         {
-            "text": "169",
+            "text": "July,",
             "id": 3,
             "bbox": [
-                440,
-                512,
-                459,
-                521
+                543,
+                200,
+                572,
+                212
             ]
         },
         {
-            "text": "P",
+            "text": "24",
             "id": 4,
             "bbox": [
-                469,
-                513,
-                474,
-                521
+                582,
+                201,
+                593,
+                210
             ]
         },
         {
-            "text": "10001330",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                189,
-                533,
-                246,
-                541
+                601,
+                199,
+                625,
+                211
             ]
         },
         {
-            "text": "0710203270405",
+            "text": "17:06",
             "id": 6,
             "bbox": [
-                264,
-                533,
-                361,
-                542
+                632,
+                200,
+                660,
+                214
             ]
         },
         {
-            "text": "TROUSERS",
+            "text": "895.00",
             "id": 7,
             "bbox": [
-                379,
-                533,
-                436,
-                542
+                616,
+                519,
+                651,
+                528
             ]
         },
         {
-            "text": "TSP",
+            "text": "895.00",
             "id": 8,
             "bbox": [
-                186,
-                472,
-                206,
-                481
+                616,
+                435,
+                650,
+                444
             ]
         },
         {
-            "text": "TAI",
+            "text": "201W3105-290:",
             "id": 9,
             "bbox": [
-                225,
-                472,
-                244,
-                481
+                232,
+                419,
+                312,
+                429
             ]
         },
         {
-            "text": "QTY",
+            "text": "KLD.290:0s:",
             "id": 10,
             "bbox": [
-                262,
-                472,
-                283,
-                482
+                318,
+                415,
+                385,
+                429
             ]
         },
         {
-            "text": "PRICE",
+            "text": "K/SIGNATURE",
             "id": 11,
             "bbox": [
-                316,
-                472,
-                352,
-                482
+                387,
+                414,
+                459,
+                428
             ]
         },
         {
-            "text": "AMGUNT",
+            "text": "METALLIC",
             "id": 12,
             "bbox": [
-                394,
-                472,
-                436,
-                482
+                466,
+                415,
+                518,
+                425
+            ]
+        },
+        {
+            "text": "BELT-I",
+            "id": 13,
+            "bbox": [
+                525,
+                415,
+                557,
+                424
+            ]
+        },
+        {
+            "text": "104224774993",
+            "id": 14,
+            "bbox": [
+                152,
+                417,
+                223,
+                431
+            ]
+        },
+        {
+            "text": "i",
+            "id": 15,
+            "bbox": [
+                647,
+                412,
+                660,
+                424
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5.00",
-                "169",
-                "169",
-                "P",
-                "10001330",
-                "0710203270405",
-                "TROUSERS"
+                "201W3105-290:",
+                "KLD.290:0s:",
+                "K/SIGNATURE",
+                "METALLIC",
+                "BELT-I"
             ],
             "value_id": [
-                1,
-                2,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:06"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "24",
+                "2020"
+            ],
+            "value_id": [
                 3,
                 4,
-                5,
-                6,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "895.00"
+            ],
+            "value_id": [
                 7
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TSP",
-                "TAI",
-                "QTY",
-                "PRICE",
-                "AMGUNT"
+                "i"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "KARL",
+                "LAGERFELD"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "104224774993"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "895.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

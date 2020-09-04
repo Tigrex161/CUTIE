@@ -1,122 +1,245 @@
 {
     "text_boxes": [
         {
-            "text": "55.00",
+            "text": "GEOX",
             "id": 1,
             "bbox": [
-                316,
-                623,
-                356,
-                638
+                397,
+                251,
+                439,
+                264
             ]
         },
         {
-            "text": "1",
+            "text": "07/21/20",
             "id": 2,
             "bbox": [
-                556,
-                620,
-                558,
-                632
+                278,
+                430,
+                361,
+                446
             ]
         },
         {
-            "text": "Grilled",
+            "text": "8:21",
             "id": 3,
             "bbox": [
-                432,
-                662,
-                488,
-                677
+                385,
+                429,
+                425,
+                442
             ]
         },
         {
-            "text": "Corn",
+            "text": "942.00",
             "id": 4,
             "bbox": [
-                497,
-                662,
-                529,
-                675
+                568,
+                850,
+                633,
+                864
             ]
         },
         {
-            "text": "60.00",
+            "text": "297",
             "id": 5,
             "bbox": [
-                317,
-                665,
-                357,
-                679
+                606,
+                673,
+                636,
+                686
             ]
         },
         {
-            "text": "1.",
+            "text": "645",
             "id": 6,
             "bbox": [
-                557,
-                662,
-                559,
-                673
+                606,
+                708,
+                637,
+                722
             ]
         },
         {
             "text": "1",
             "id": 7,
             "bbox": [
-                558,
-                703,
-                561,
-                715
+                415,
+                674,
+                420,
+                685
             ]
         },
         {
-            "text": "150.00",
+            "text": "1",
             "id": 8,
             "bbox": [
-                312,
-                707,
-                357,
+                415,
+                708,
+                420,
+                720
+            ]
+        },
+        {
+            "text": "MALE",
+            "id": 9,
+            "bbox": [
+                278,
+                673,
+                322,
+                685
+            ]
+        },
+        {
+            "text": "LOAFER",
+            "id": 10,
+            "bbox": [
+                336,
+                673,
+                401,
+                685
+            ]
+        },
+        {
+            "text": "MALE",
+            "id": 11,
+            "bbox": [
+                277,
+                708,
+                321,
+                720
+            ]
+        },
+        {
+            "text": "LOAFER",
+            "id": 12,
+            "bbox": [
+                336,
+                708,
+                400,
                 721
             ]
         },
         {
-            "text": "Wagyu",
-            "id": 9,
+            "text": "A064400",
+            "id": 13,
             "bbox": [
-                425,
-                703,
-                465,
-                721
+                190,
+                672,
+                265,
+                685
+            ]
+        },
+        {
+            "text": "A052488",
+            "id": 14,
+            "bbox": [
+                187,
+                707,
+                263,
+                720
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "55.00",
                 "1",
-                "Grilled",
-                "Corn",
-                "60.00",
-                "1.",
-                "1",
-                "150.00",
-                "Wagyu"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
                 7,
-                8,
-                9
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MALE",
+                "LOAFER",
+                "MALE",
+                "LOAFER"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8:21"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/21/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "942.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GEOX"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A064400",
+                "A052488"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "297",
+                "645"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

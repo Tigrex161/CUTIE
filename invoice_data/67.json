@@ -1,0 +1,288 @@
+{
+    "text_boxes": [
+        {
+            "text": "10-07-2020",
+            "id": 1,
+            "bbox": [
+                569,
+                280,
+                630,
+                291
+            ]
+        },
+        {
+            "text": "1699.00",
+            "id": 2,
+            "bbox": [
+                654,
+                391,
+                695,
+                400
+            ]
+        },
+        {
+            "text": "SAMSUNG",
+            "id": 3,
+            "bbox": [
+                145,
+                391,
+                210,
+                400
+            ]
+        },
+        {
+            "text": "NOTE",
+            "id": 4,
+            "bbox": [
+                215,
+                391,
+                250,
+                401
+            ]
+        },
+        {
+            "text": "10",
+            "id": 5,
+            "bbox": [
+                256,
+                392,
+                268,
+                401
+            ]
+        },
+        {
+            "text": "LITE",
+            "id": 6,
+            "bbox": [
+                273,
+                392,
+                299,
+                401
+            ]
+        },
+        {
+            "text": "8/128",
+            "id": 7,
+            "bbox": [
+                304,
+                392,
+                334,
+                401
+            ]
+        },
+        {
+            "text": "N770FZKG",
+            "id": 8,
+            "bbox": [
+                339,
+                392,
+                402,
+                401
+            ]
+        },
+        {
+            "text": "BLK",
+            "id": 9,
+            "bbox": [
+                406,
+                392,
+                428,
+                401
+            ]
+        },
+        {
+            "text": "\u0636\u0631\u0628\u064a\u0629",
+            "id": 10,
+            "bbox": [
+                278,
+                406,
+                306,
+                417
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0642\u064a\u0645\u0629",
+            "id": 11,
+            "bbox": [
+                252,
+                406,
+                273,
+                417
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0645\u0636\u0627\u0642\u0629",
+            "id": 12,
+            "bbox": [
+                216,
+                406,
+                248,
+                415
+            ]
+        },
+        {
+            "text": "8806090282065",
+            "id": 13,
+            "bbox": [
+                25,
+                390,
+                119,
+                401
+            ]
+        },
+        {
+            "text": "1,699.00",
+            "id": 14,
+            "bbox": [
+                646,
+                442,
+                690,
+                451
+            ]
+        },
+        {
+            "text": "Ecity",
+            "id": 15,
+            "bbox": [
+                24,
+                230,
+                52,
+                239
+            ]
+        },
+        {
+            "text": "General",
+            "id": 16,
+            "bbox": [
+                58,
+                228,
+                103,
+                238
+            ]
+        },
+        {
+            "text": "Trading",
+            "id": 17,
+            "bbox": [
+                108,
+                227,
+                152,
+                238
+            ]
+        },
+        {
+            "text": "LLC.",
+            "id": 18,
+            "bbox": [
+                158,
+                228,
+                184,
+                235
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SAMSUNG",
+                "NOTE",
+                "10",
+                "LITE",
+                "8/128",
+                "N770FZKG",
+                "BLK"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10-07-2020"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,699.00"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0636\u0631\u0628\u064a\u0629",
+                "\u0627\u0644\u0642\u064a\u0645\u0629",
+                "\u0627\u0644\u0645\u0636\u0627\u0642\u0629"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Ecity",
+                "General",
+                "Trading",
+                "LLC."
+            ],
+            "value_id": [
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8806090282065"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1699.00"
+            ],
+            "value_id": [
+                2
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/67.jpg"
+    }
+}

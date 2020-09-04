@@ -1,203 +1,188 @@
 {
     "text_boxes": [
         {
-            "text": "CLNWN_SHOE:",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                75,
-                404,
-                174,
-                428
+                302,
+                242,
+                508,
+                283
             ]
         },
         {
-            "text": "CHRISTIAN",
+            "text": "July",
             "id": 2,
             "bbox": [
-                175,
-                410,
-                253,
-                433
+                427,
+                335,
+                445,
+                345
             ]
         },
         {
-            "text": "LOUBOUTIN",
+            "text": "09,",
             "id": 3,
             "bbox": [
-                261,
-                420,
-                337,
-                435
+                450,
+                336,
+                465,
+                344
             ]
         },
         {
-            "text": "WOMEIIS",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                344,
-                423,
-                408,
-                443
+                471,
+                334,
+                494,
+                344
             ]
         },
         {
-            "text": "SHOESIL",
+            "text": "18:36",
             "id": 5,
             "bbox": [
-                403,
-                426,
-                503,
-                449
+                504,
+                333,
+                532,
+                343
             ]
         },
         {
-            "text": "0633117330251063311733025",
+            "text": "3,710.00",
             "id": 6,
             "bbox": [
-                74,
-                434,
-                294,
-                462
+                545,
+                655,
+                593,
+                663
             ]
         },
         {
-            "text": "58",
+            "text": "3,710.00",
             "id": 7,
             "bbox": [
-                388,
-                458,
-                401,
-                468
+                615,
+                503,
+                659,
+                512
             ]
         },
         {
-            "text": "2,",
+            "text": "SNEAKERS",
             "id": 8,
             "bbox": [
-                507,
-                457,
-                530,
-                473
+                146,
+                504,
+                203,
+                514
             ]
         },
         {
-            "text": "750.00",
+            "text": "G35617YS364694305",
             "id": 9,
             "bbox": [
-                528,
-                460,
-                576,
-                471
+                145,
+                519,
+                254,
+                530
             ]
         },
         {
-            "text": "2,750.00",
+            "text": "10B",
             "id": 10,
             "bbox": [
-                670,
-                462,
-                736,
-                474
-            ]
-        },
-        {
-            "text": "VAT",
-            "id": 11,
-            "bbox": [
-                389,
-                349,
-                412,
-                359
-            ]
-        },
-        {
-            "text": "OTY",
-            "id": 12,
-            "bbox": [
-                462,
-                349,
-                487,
-                361
-            ]
-        },
-        {
-            "text": "PRICE",
-            "id": 13,
-            "bbox": [
-                530,
-                350,
-                570,
-                360
-            ]
-        },
-        {
-            "text": "DISC",
-            "id": 14,
-            "bbox": [
-                613,
-                352,
-                646,
-                362
-            ]
-        },
-        {
-            "text": "AMOUNT",
-            "id": 15,
-            "bbox": [
-                688,
-                354,
-                738,
-                364
+                260,
+                520,
+                277,
+                528
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CLNWN_SHOE:",
-                "CHRISTIAN",
-                "LOUBOUTIN",
-                "WOMEIIS",
-                "SHOESIL",
-                "0633117330251063311733025",
-                "58",
-                "2,",
-                "750.00",
-                "2,750.00"
+                "SNEAKERS"
             ],
             "value_id": [
-                1,
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:36"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "09,",
+                "2020"
+            ],
+            "value_id": [
                 2,
                 3,
-                4,
-                5,
-                6,
-                7,
-                8,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,710.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "G35617YS364694305",
+                "10B"
+            ],
+            "value_id": [
                 9,
                 10
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VAT",
-                "OTY",
-                "PRICE",
-                "DISC",
-                "AMOUNT"
+                "3,710.00"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15
+                7
             ]
         }
     ],

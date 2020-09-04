@@ -1,110 +1,212 @@
 {
     "text_boxes": [
         {
-            "text": "MO505OWCB",
+            "text": "BURBERRY",
             "id": 1,
             "bbox": [
-                41,
-                570,
-                141,
-                582
+                282,
+                7,
+                448,
+                35
             ]
         },
         {
-            "text": "M900",
+            "text": "LONDON",
             "id": 2,
             "bbox": [
-                180,
-                569,
-                220,
-                583
+                312,
+                37,
+                361,
+                48
             ]
         },
         {
-            "text": "LADY",
+            "text": "ENGLAND",
             "id": 3,
             "bbox": [
-                248,
-                571,
-                293,
-                582
+                367,
+                40,
+                422,
+                51
             ]
         },
         {
-            "text": "DIOR",
+            "text": "12/7/20",
             "id": 4,
             "bbox": [
-                300,
-                571,
-                339,
-                582
+                262,
+                277,
+                313,
+                293
             ]
         },
         {
-            "text": "Mi",
+            "text": "7:26",
             "id": 5,
             "bbox": [
-                346,
-                571,
-                363,
-                582
+                262,
+                297,
+                290,
+                310
             ]
         },
         {
-            "text": "C",
+            "text": "AED830.00",
             "id": 6,
             "bbox": [
-                369,
-                571,
-                379,
-                582
+                448,
+                754,
+                514,
+                770
             ]
         },
         {
-            "text": "12,500.00",
+            "text": "830.00",
             "id": 7,
             "bbox": [
-                547,
-                568,
-                611,
-                579
+                461,
+                608,
+                504,
+                620
             ]
         },
         {
-            "text": "12,500.00",
+            "text": "CN",
             "id": 8,
             "bbox": [
-                683,
-                570,
-                746,
-                582
+                222,
+                578,
+                238,
+                591
+            ]
+        },
+        {
+            "text": "\u0637\u0642\u0645",
+            "id": 9,
+            "bbox": [
+                381,
+                591,
+                401,
+                603
+            ]
+        },
+        {
+            "text": "\u0645\u0644\u0627\u064a\u0633\u0631",
+            "id": 10,
+            "bbox": [
+                335,
+                591,
+                371,
+                606
+            ]
+        },
+        {
+            "text": "\u0644\u0644\u0645\u0648\u0644\u0648\u062f",
+            "id": 11,
+            "bbox": [
+                279,
+                591,
+                328,
+                607
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062c\u062f\u064a\u062f",
+            "id": 12,
+            "bbox": [
+                225,
+                594,
+                265,
+                608
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MO505OWCB",
-                "M900",
-                "LADY",
-                "DIOR",
-                "Mi",
-                "C",
-                "12,500.00",
-                "12,500.00"
+                "CN"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7:26"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12/7/20"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED830.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0637\u0642\u0645",
+                "\u0645\u0644\u0627\u064a\u0633\u0631",
+                "\u0644\u0644\u0645\u0648\u0644\u0648\u062f",
+                "\u0627\u0644\u062c\u062f\u064a\u062f"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BURBERRY",
+                "LONDON",
+                "ENGLAND"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "830.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

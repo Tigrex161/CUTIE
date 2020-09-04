@@ -1,163 +1,151 @@
 {
     "text_boxes": [
         {
-            "text": "AGATE",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                219,
-                546,
-                267,
-                562
+                370,
+                194,
+                406,
+                207
             ]
         },
         {
-            "text": "COASTERS",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                272,
-                544,
-                351,
-                561
+                412,
+                194,
+                468,
+                206
             ]
         },
         {
-            "text": "SI4",
+            "text": "20/0/2020",
             "id": 3,
             "bbox": [
-                356,
-                545,
-                377,
-                560
+                562,
+                385,
+                619,
+                398
             ]
         },
         {
-            "text": "NATURAL",
+            "text": "15:41",
             "id": 4,
             "bbox": [
-                381,
-                543,
-                446,
-                559
+                638,
+                388,
+                665,
+                395
             ]
         },
         {
-            "text": "W",
+            "text": "B40.00",
             "id": 5,
             "bbox": [
-                451,
-                543,
-                469,
-                556
+                717,
+                596,
+                751,
+                603
             ]
         },
         {
-            "text": "GOLD",
+            "text": "40.00",
             "id": 6,
             "bbox": [
-                473,
-                540,
-                513,
-                556
+                704,
+                444,
+                737,
+                451
             ]
         },
         {
-            "text": "RIM",
+            "text": "N13)",
             "id": 7,
             "bbox": [
-                519,
-                539,
-                545,
-                554
+                87,
+                447,
+                118,
+                456
             ]
         },
         {
-            "text": "*(D)",
+            "text": "PTE",
             "id": 8,
             "bbox": [
-                222,
-                589,
-                256,
-                607
+                131,
+                446,
+                146,
+                453
             ]
         },
         {
-            "text": "(5%",
+            "text": "CAR.IMP.",
             "id": 9,
             "bbox": [
-                223,
-                611,
-                253,
-                627
+                156,
+                442,
+                203,
+                454
             ]
         },
         {
-            "text": "VAT)",
+            "text": "MNG",
             "id": 10,
             "bbox": [
-                259,
-                609,
-                297,
-                625
+                206,
+                441,
+                221,
+                452
             ]
         },
         {
-            "text": "FW703380",
+            "text": "NALL",
             "id": 11,
             "bbox": [
-                224,
-                630,
-                294,
-                644
+                87,
+                460,
+                112,
+                467
             ]
         },
         {
-            "text": "10",
+            "text": "LEATIHER",
             "id": 12,
             "bbox": [
-                458,
-                626,
-                477,
-                638
+                120,
+                456,
+                157,
+                464
             ]
         },
         {
-            "text": "172.50",
+            "text": "GOODn",
             "id": 13,
             "bbox": [
-                540,
-                621,
-                583,
-                636
+                165,
+                454,
+                192,
+                464
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AGATE",
-                "COASTERS",
-                "SI4",
-                "NATURAL",
-                "W",
-                "GOLD",
-                "RIM",
-                "*(D)",
-                "(5%",
-                "VAT)",
-                "FW703380",
-                "10",
-                "172.50"
+                "N13)",
+                "PTE",
+                "CAR.IMP.",
+                "MNG",
+                "NALL",
+                "LEATIHER",
+                "GOODn"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
                 7,
                 8,
                 9,
@@ -165,6 +153,63 @@
                 11,
                 12,
                 13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:41"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20/0/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "B40.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "40.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

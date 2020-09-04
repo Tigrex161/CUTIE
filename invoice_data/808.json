@@ -1,0 +1,141 @@
+{
+    "text_boxes": [
+        {
+            "text": "21/07/2020",
+            "id": 1,
+            "bbox": [
+                99,
+                710,
+                144,
+                717
+            ]
+        },
+        {
+            "text": "16:32:37",
+            "id": 2,
+            "bbox": [
+                148,
+                709,
+                181,
+                719
+            ]
+        },
+        {
+            "text": "6,250.00",
+            "id": 3,
+            "bbox": [
+                655,
+                523,
+                684,
+                528
+            ]
+        },
+        {
+            "text": "LOVEMINI",
+            "id": 4,
+            "bbox": [
+                122,
+                512,
+                152,
+                517
+            ]
+        },
+        {
+            "text": "ORCLE,",
+            "id": 5,
+            "bbox": [
+                155,
+                512,
+                177,
+                517
+            ]
+        },
+        {
+            "text": "Pa,",
+            "id": 6,
+            "bbox": [
+                195,
+                512,
+                205,
+                517
+            ]
+        },
+        {
+            "text": "I",
+            "id": 7,
+            "bbox": [
+                207,
+                511,
+                209,
+                516
+            ]
+        },
+        {
+            "text": "DIA",
+            "id": 8,
+            "bbox": [
+                213,
+                511,
+                223,
+                516
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:32:37"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21/07/2020"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOVEMINI",
+                "ORCLE,",
+                "Pa,",
+                "I",
+                "DIA"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6,250.00"
+            ],
+            "value_id": [
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/808.jpg"
+    }
+}

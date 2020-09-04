@@ -1,239 +1,305 @@
 {
     "text_boxes": [
         {
-            "text": "HO710022",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                127,
-                503,
-                169,
-                511
+                297,
+                228,
+                377,
+                240
             ]
         },
         {
-            "text": "3,165",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                458,
-                500,
-                481,
-                511
+                390,
+                227,
+                480,
+                240
             ]
         },
         {
-            "text": "00",
+            "text": "15/07/20",
             "id": 3,
             "bbox": [
-                482,
-                501,
-                492,
-                509
+                248,
+                484,
+                324,
+                499
             ]
         },
         {
-            "text": "3,165",
+            "text": "18:04",
             "id": 4,
             "bbox": [
-                563,
-                498,
-                587,
-                507
+                339,
+                487,
+                384,
+                498
             ]
         },
         {
-            "text": "00",
+            "text": "1,555.00",
             "id": 5,
             "bbox": [
+                514,
+                880,
                 590,
-                498,
-                599,
-                505
+                893
             ]
         },
         {
-            "text": "OASIS",
+            "text": "750.00",
             "id": 6,
             "bbox": [
-                192,
-                504,
-                219,
-                511
+                534,
+                709,
+                590,
+                719
             ]
         },
         {
-            "text": "SANDAL",
+            "text": "1,",
             "id": 7,
             "bbox": [
-                223,
-                504,
-                257,
-                511
+                511,
+                656,
+                535,
+                674
             ]
         },
         {
-            "text": "IN",
+            "text": "105.00",
             "id": 8,
             "bbox": [
-                262,
-                505,
-                270,
-                511
+                536,
+                659,
+                591,
+                672
             ]
         },
         {
-            "text": "CALF",
+            "text": "1",
             "id": 9,
             "bbox": [
-                274,
-                505,
-                295,
-                513
+                177,
+                682,
+                202,
+                698
             ]
         },
         {
-            "text": "WLMI",
+            "text": "Beauty",
             "id": 10,
             "bbox": [
-                294,
-                515,
-                317,
-                522
+                176,
+                635,
+                234,
+                649
             ]
         },
         {
-            "text": "\u0627\u0644\u0645\u0646\u0639",
+            "text": "EDP",
             "id": 11,
             "bbox": [
-                576,
-                441,
-                595,
-                451
+                176,
+                660,
+                203,
+                670
             ]
         },
         {
-            "text": "\u0627\u0644\u0635\u0627\u0641\u064a",
+            "text": "ELIXIR",
             "id": 12,
             "bbox": [
-                551,
-                442,
-                573,
-                452
+                217,
+                660,
+                275,
+                670
             ]
         },
         {
-            "text": "Net",
+            "text": "MYSTERIOU",
             "id": 13,
             "bbox": [
-                546,
-                457,
-                559,
-                465
+                287,
+                660,
+                373,
+                671
             ]
         },
         {
-            "text": "Amount",
+            "text": "SET",
             "id": 14,
             "bbox": [
-                564,
-                456,
-                598,
-                464
+                177,
+                709,
+                205,
+                719
             ]
         },
         {
-            "text": "Description",
+            "text": "STORIA",
             "id": 15,
             "bbox": [
-                253,
-                464,
-                301,
-                475
+                217,
+                709,
+                275,
+                719
             ]
         },
         {
-            "text": "Unit",
+            "text": "DELLA",
             "id": 16,
             "bbox": [
-                441,
-                461,
-                457,
-                469
+                286,
+                710,
+                334,
+                720
             ]
         },
         {
-            "text": "Price",
+            "text": "SAL",
             "id": 17,
             "bbox": [
-                461,
-                460,
-                482,
-                469
+                346,
+                710,
+                373,
+                719
             ]
         },
         {
-            "text": "Qty",
+            "text": "900972773",
             "id": 18,
             "bbox": [
-                507,
-                459,
-                521,
-                468
+                227,
+                680,
+                315,
+                696
+            ]
+        },
+        {
+            "text": "900938187",
+            "id": 19,
+            "bbox": [
+                228,
+                732,
+                313,
+                743
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "HO710022",
-                "3,165",
-                "00",
-                "3,165",
-                "00",
-                "OASIS",
-                "SANDAL",
-                "IN",
-                "CALF",
-                "WLMI"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10
+                9
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u0627\u0644\u0645\u0646\u0639",
-                "\u0627\u0644\u0635\u0627\u0641\u064a",
-                "Net",
-                "Amount",
-                "Description",
-                "Unit",
-                "Price",
-                "Qty"
+                "Beauty",
+                "EDP",
+                "ELIXIR",
+                "MYSTERIOU",
+                "SET",
+                "STORIA",
+                "DELLA",
+                "SAL"
             ],
             "value_id": [
+                10,
                 11,
                 12,
                 13,
                 14,
                 15,
                 16,
-                17,
-                18
+                17
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:04"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,555.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900972773",
+                "900938187"
+            ],
+            "value_id": [
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "750.00",
+                "1,",
+                "105.00"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
             ]
         }
     ],

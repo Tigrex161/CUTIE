@@ -1,239 +1,155 @@
 {
     "text_boxes": [
         {
-            "text": "STD",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                337,
-                520,
-                366,
-                534
+                325,
+                117,
+                383,
+                125
             ]
         },
         {
-            "text": "IVORY",
+            "text": "HOME",
             "id": 2,
             "bbox": [
-                378,
-                519,
-                428,
-                532
+                398,
+                115,
+                461,
+                124
             ]
         },
         {
-            "text": "Li)",
+            "text": "02-07-2020",
             "id": 3,
             "bbox": [
-                450,
-                514,
-                491,
-                534
+                282,
+                234,
+                333,
+                243
             ]
         },
         {
-            "text": "4",
+            "text": "13:44",
             "id": 4,
             "bbox": [
-                505,
-                513,
-                531,
-                532
+                341,
+                233,
+                364,
+                241
             ]
         },
         {
-            "text": "ANT",
+            "text": "199",
             "id": 5,
             "bbox": [
-                398,
-                540,
-                427,
-                553
+                458,
+                287,
+                472,
+                293
             ]
         },
         {
-            "text": ":",
+            "text": "4017704905215",
             "id": 6,
             "bbox": [
-                433,
-                537,
-                440,
-                554
+                336,
+                300,
+                403,
+                310
             ]
         },
         {
-            "text": "RY",
+            "text": "BASKETS",
             "id": 7,
             "bbox": [
-                142,
-                527,
-                159,
-                539
+                416,
+                299,
+                451,
+                307
             ]
         },
         {
-            "text": "390-IV",
+            "text": "10001959",
             "id": 8,
             "bbox": [
-                169,
-                524,
-                226,
-                538
-            ]
-        },
-        {
-            "text": "PRICE:",
-            "id": 9,
-            "bbox": [
-                236,
-                541,
-                291,
-                557
-            ]
-        },
-        {
-            "text": "495.00",
-            "id": 10,
-            "bbox": [
-                306,
-                540,
-                364,
-                555
-            ]
-        },
-        {
-            "text": "1495.00",
-            "id": 11,
-            "bbox": [
-                483,
-                535,
-                557,
-                551
-            ]
-        },
-        {
-            "text": "OTY:",
-            "id": 12,
-            "bbox": [
-                141,
-                546,
-                174,
-                561
-            ]
-        },
-        {
-            "text": "1",
-            "id": 13,
-            "bbox": [
-                189,
-                545,
-                194,
-                557
-            ]
-        },
-        {
-            "text": "Roference",
-            "id": 14,
-            "bbox": [
-                144,
-                465,
-                227,
-                482
-            ]
-        },
-        {
-            "text": "Size",
-            "id": 15,
-            "bbox": [
-                288,
-                462,
-                325,
-                475
-            ]
-        },
-        {
-            "text": "Cup",
-            "id": 16,
-            "bbox": [
-                337,
-                460,
-                367,
-                476
-            ]
-        },
-        {
-            "text": "Color",
-            "id": 17,
-            "bbox": [
-                378,
-                457,
-                428,
-                472
-            ]
-        },
-        {
-            "text": "Description",
-            "id": 18,
-            "bbox": [
-                441,
-                451,
-                559,
-                472
+                284,
+                302,
+                324,
+                310
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "STD",
-                "IVORY",
-                "Li)",
-                "4",
-                "ANT",
-                ":",
-                "RY",
-                "390-IV",
-                "PRICE:",
-                "495.00",
-                "1495.00",
-                "OTY:",
-                "1"
+                "4017704905215",
+                "BASKETS"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
                 6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                7
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Roference",
-                "Size",
-                "Cup",
-                "Color",
-                "Description"
+                "13:44"
             ],
             "value_id": [
-                14,
-                15,
-                16,
-                17,
-                18
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "02-07-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA",
+                "HOME"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001959"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "199"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

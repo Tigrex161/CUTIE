@@ -1,38 +1,212 @@
 {
     "text_boxes": [
         {
-            "text": "t",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                338,
-                614,
-                346,
-                619
+                258,
+                126,
+                321,
+                141
             ]
         },
         {
-            "text": "Denr",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                315,
-                617,
+                331,
+                124,
+                402,
+                139
+            ]
+        },
+        {
+            "text": "21/07/20",
+            "id": 3,
+            "bbox": [
+                221,
+                331,
+                284,
+                346
+            ]
+        },
+        {
+            "text": "17:55",
+            "id": 4,
+            "bbox": [
+                296,
+                330,
                 333,
-                620
+                343
+            ]
+        },
+        {
+            "text": "800.00",
+            "id": 5,
+            "bbox": [
+                460,
+                555,
+                507,
+                570
+            ]
+        },
+        {
+            "text": "800.00",
+            "id": 6,
+            "bbox": [
+                458,
+                474,
+                505,
+                487
+            ]
+        },
+        {
+            "text": "Leather",
+            "id": 7,
+            "bbox": [
+                167,
+                459,
+                221,
+                471
+            ]
+        },
+        {
+            "text": "Accessory",
+            "id": 8,
+            "bbox": [
+                232,
+                459,
+                303,
+                471
+            ]
+        },
+        {
+            "text": "ACC",
+            "id": 9,
+            "bbox": [
+                167,
+                480,
+                189,
+                491
+            ]
+        },
+        {
+            "text": "KENZO",
+            "id": 10,
+            "bbox": [
+                200,
+                479,
+                238,
+                491
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 11,
+            "bbox": [
+                248,
+                479,
+                270,
+                490
+            ]
+        },
+        {
+            "text": "900634020",
+            "id": 12,
+            "bbox": [
+                208,
+                498,
+                279,
+                512
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "t",
-                "Denr"
+                "Leather",
+                "Accessory",
+                "ACC",
+                "KENZO",
+                "SKU"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:55"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "800.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
             ],
             "value_id": [
                 1,
                 2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900634020"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "800.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

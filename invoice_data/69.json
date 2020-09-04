@@ -1,227 +1,221 @@
 {
     "text_boxes": [
         {
-            "text": "CLNWN",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                112,
-                421,
-                144,
-                434
-            ]
-        },
-        {
-            "text": "SHOE:",
-            "id": 2,
-            "bbox": [
-                150,
-                420,
-                190,
-                433
-            ]
-        },
-        {
-            "text": "CHRISTIAN",
-            "id": 3,
-            "bbox": [
-                192,
-                418,
-                246,
-                432
-            ]
-        },
-        {
-            "text": "LOUBOUTIN",
-            "id": 4,
-            "bbox": [
-                255,
-                418,
-                314,
-                430
-            ]
-        },
-        {
-            "text": "WOMENS",
-            "id": 5,
-            "bbox": [
+                326,
                 322,
-                417,
-                361,
-                428
-            ]
-        },
-        {
-            "text": "SHOES",
-            "id": 6,
-            "bbox": [
-                369,
-                414,
-                400,
-                425
-            ]
-        },
-        {
-            "text": "L",
-            "id": 7,
-            "bbox": [
-                462,
-                414,
-                472,
-                425
-            ]
-        },
-        {
-            "text": "0633117330251063311733025",
-            "id": 8,
-            "bbox": [
-                111,
-                442,
-                281,
-                453
-            ]
-        },
-        {
-            "text": "1,770.00",
-            "id": 9,
-            "bbox": [
-                456,
-                434,
-                510,
-                446
-            ]
-        },
-        {
-            "text": "1,770.00",
-            "id": 10,
-            "bbox": [
-                589,
-                428,
-                643,
-                441
-            ]
-        },
-        {
-            "text": "VAT",
-            "id": 11,
-            "bbox": [
-                354,
-                349,
-                373,
+                469,
                 359
             ]
         },
         {
-            "text": "OTY",
+            "text": "0207/2020",
+            "id": 2,
+            "bbox": [
+                101,
+                563,
+                144,
+                572
+            ]
+        },
+        {
+            "text": "1340",
+            "id": 3,
+            "bbox": [
+                154,
+                564,
+                173,
+                571
+            ]
+        },
+        {
+            "text": "5,625.00",
+            "id": 4,
+            "bbox": [
+                599,
+                710,
+                632,
+                717
+            ]
+        },
+        {
+            "text": "1557.14",
+            "id": 5,
+            "bbox": [
+                624,
+                643,
+                655,
+                650
+            ]
+        },
+        {
+            "text": "4.000.00",
+            "id": 6,
+            "bbox": [
+                622,
+                657,
+                655,
+                663
+            ]
+        },
+        {
+            "text": "2",
+            "id": 7,
+            "bbox": [
+                382,
+                684,
+                386,
+                690
+            ]
+        },
+        {
+            "text": "Fragrane/Makaupskin",
+            "id": 8,
+            "bbox": [
+                238,
+                641,
+                325,
+                651
+            ]
+        },
+        {
+            "text": "Women",
+            "id": 9,
+            "bbox": [
+                239,
+                656,
+                267,
+                661
+            ]
+        },
+        {
+            "text": "SIG",
+            "id": 10,
+            "bbox": [
+                272,
+                656,
+                287,
+                662
+            ]
+        },
+        {
+            "text": "CP090928009",
+            "id": 11,
+            "bbox": [
+                99,
+                642,
+                153,
+                648
+            ]
+        },
+        {
+            "text": "S0020FVRB",
             "id": 12,
             "bbox": [
-                414,
-                347,
-                433,
-                356
-            ]
-        },
-        {
-            "text": "PRICE",
-            "id": 13,
-            "bbox": [
-                469,
-                348,
-                501,
-                356
-            ]
-        },
-        {
-            "text": "DISC",
-            "id": 14,
-            "bbox": [
-                536,
-                346,
-                563,
-                355
-            ]
-        },
-        {
-            "text": "AMOUNT",
-            "id": 15,
-            "bbox": [
-                596,
-                342,
-                640,
-                354
-            ]
-        },
-        {
-            "text": "eall",
-            "id": 16,
-            "bbox": [
-                484,
-                371,
-                512,
-                380
-            ]
-        },
-        {
-            "text": "\u0627\u0644\u0645\u0628\u0644\u063a",
-            "id": 17,
-            "bbox": [
-                593,
-                366,
-                631,
-                378
+                99,
+                655,
+                148,
+                663
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CLNWN",
-                "SHOE:",
-                "CHRISTIAN",
-                "LOUBOUTIN",
-                "WOMENS",
-                "SHOES",
-                "L",
-                "0633117330251063311733025",
-                "1,770.00",
-                "1,770.00"
+                "Fragrane/Makaupskin",
+                "Women",
+                "SIG"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
                 8,
                 9,
                 10
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VAT",
-                "OTY",
-                "PRICE",
-                "DISC",
-                "AMOUNT",
-                "eall",
-                "\u0627\u0644\u0645\u0628\u0644\u063a"
+                "2"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1340"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0207/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5,625.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CP090928009",
+                "S0020FVRB"
             ],
             "value_id": [
                 11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1557.14",
+                "4.000.00"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

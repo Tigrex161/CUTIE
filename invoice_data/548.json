@@ -1,74 +1,257 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "level",
             "id": 1,
             "bbox": [
-                135,
-                701,
-                150,
-                722
+                366,
+                263,
+                433,
+                309
             ]
         },
         {
-            "text": "WALNUT",
+            "text": "5HOES",
             "id": 2,
             "bbox": [
-                146,
-                704,
-                215,
-                720
+                378,
+                314,
+                420,
+                325
             ]
         },
         {
-            "text": "KERNEL",
+            "text": "Jul,",
             "id": 3,
             "bbox": [
-                231,
-                705,
-                300,
-                722
+                504,
+                447,
+                529,
+                459
             ]
         },
         {
-            "text": "EXTRA",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                315,
-                706,
-                371,
-                722
+                541,
+                446,
+                568,
+                457
             ]
         },
         {
-            "text": "174.85",
+            "text": "20:56",
             "id": 5,
             "bbox": [
-                540,
-                708,
-                604,
-                724
+                577,
+                445,
+                613,
+                456
+            ]
+        },
+        {
+            "text": "340.00",
+            "id": 6,
+            "bbox": [
+                643,
+                697,
+                685,
+                708
+            ]
+        },
+        {
+            "text": "340.00",
+            "id": 7,
+            "bbox": [
+                643,
+                608,
+                684,
+                618
+            ]
+        },
+        {
+            "text": "Wc06549-100:",
+            "id": 8,
+            "bbox": [
+                131,
+                591,
+                217,
+                604
+            ]
+        },
+        {
+            "text": "NKE.",
+            "id": 9,
+            "bbox": [
+                219,
+                592,
+                247,
+                603
+            ]
+        },
+        {
+            "text": "100:5,5:AIR",
+            "id": 10,
+            "bbox": [
+                249,
+                591,
+                323,
+                604
+            ]
+        },
+        {
+            "text": "MAx",
+            "id": 11,
+            "bbox": [
+                329,
+                594,
+                349,
+                602
+            ]
+        },
+        {
+            "text": "270",
+            "id": 12,
+            "bbox": [
+                359,
+                593,
+                378,
+                601
+            ]
+        },
+        {
+            "text": "REACT",
+            "id": 13,
+            "bbox": [
+                386,
+                594,
+                420,
+                601
+            ]
+        },
+        {
+            "text": "052724980640",
+            "id": 14,
+            "bbox": [
+                126,
+                616,
+                212,
+                624
+            ]
+        },
+        {
+            "text": "ti",
+            "id": 15,
+            "bbox": [
+                537,
+                590,
+                559,
+                601
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "WALNUT",
-                "KERNEL",
-                "EXTRA",
-                "174.85"
+                "Wc06549-100:",
+                "NKE.",
+                "100:5,5:AIR",
+                "MAx",
+                "270",
+                "REACT"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:56"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "340.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ti"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "5HOES"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "052724980640"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "340.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

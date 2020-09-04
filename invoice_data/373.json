@@ -1,0 +1,264 @@
+{
+    "text_boxes": [
+        {
+            "text": "AL",
+            "id": 1,
+            "bbox": [
+                76,
+                195,
+                88,
+                202
+            ]
+        },
+        {
+            "text": "ANWAAR",
+            "id": 2,
+            "bbox": [
+                93,
+                194,
+                141,
+                204
+            ]
+        },
+        {
+            "text": "GOLDEN",
+            "id": 3,
+            "bbox": [
+                146,
+                197,
+                193,
+                207
+            ]
+        },
+        {
+            "text": "JEWELLERS",
+            "id": 4,
+            "bbox": [
+                196,
+                201,
+                263,
+                214
+            ]
+        },
+        {
+            "text": "BR.DUBAI",
+            "id": 5,
+            "bbox": [
+                267,
+                207,
+                320,
+                219
+            ]
+        },
+        {
+            "text": "as",
+            "id": 6,
+            "bbox": [
+                73,
+                202,
+                93,
+                212
+            ]
+        },
+        {
+            "text": "oo",
+            "id": 7,
+            "bbox": [
+                89,
+                206,
+                105,
+                212
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 8,
+            "bbox": [
+                110,
+                207,
+                137,
+                213
+            ]
+        },
+        {
+            "text": "MALL",
+            "id": 9,
+            "bbox": [
+                140,
+                208,
+                164,
+                216
+            ]
+        },
+        {
+            "text": "oco",
+            "id": 10,
+            "bbox": [
+                638,
+                283,
+                659,
+                295
+            ]
+        },
+        {
+            "text": "1,000.00",
+            "id": 11,
+            "bbox": [
+                642,
+                837,
+                675,
+                844
+            ]
+        },
+        {
+            "text": "3,000.00",
+            "id": 12,
+            "bbox": [
+                656,
+                371,
+                691,
+                378
+            ]
+        },
+        {
+            "text": "1.00",
+            "id": 13,
+            "bbox": [
+                538,
+                369,
+                555,
+                376
+            ]
+        },
+        {
+            "text": "DIAMOND",
+            "id": 14,
+            "bbox": [
+                143,
+                357,
+                190,
+                369
+            ]
+        },
+        {
+            "text": "RING",
+            "id": 15,
+            "bbox": [
+                193,
+                360,
+                216,
+                367
+            ]
+        },
+        {
+            "text": "1210383",
+            "id": 16,
+            "bbox": [
+                86,
+                353,
+                123,
+                364
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIAMOND",
+                "RING"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "oco"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,000.00"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AL",
+                "ANWAAR",
+                "GOLDEN",
+                "JEWELLERS",
+                "BR.DUBAI",
+                "as",
+                "oo",
+                "DUBAI",
+                "MALL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1210383"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,000.00"
+            ],
+            "value_id": [
+                12
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/373.jpg"
+    }
+}

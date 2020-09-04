@@ -1,107 +1,155 @@
 {
     "text_boxes": [
         {
-            "text": "148.50",
+            "text": "JIMMY",
             "id": 1,
             "bbox": [
-                552,
-                328,
-                607,
-                347
+                262,
+                230,
+                364,
+                261
             ]
         },
         {
-            "text": "Waxing-",
+            "text": "CHOO",
             "id": 2,
             "bbox": [
-                264,
-                344,
-                332,
-                363
+                375,
+                228,
+                496,
+                259
             ]
         },
         {
-            "text": "Brazilian",
+            "text": "13:06",
             "id": 3,
             "bbox": [
-                264,
-                368,
-                336,
-                384
+                370,
+                592,
+                410,
+                607
             ]
         },
         {
-            "text": "Item",
+            "text": "2020-07-12",
             "id": 4,
             "bbox": [
-                262,
-                251,
-                299,
-                271
+                418,
+                592,
+                509,
+                607
             ]
         },
         {
-            "text": "a",
+            "text": "1,710.00",
             "id": 5,
             "bbox": [
-                308,
-                255,
-                325,
-                268
+                488,
+                821,
+                554,
+                836
             ]
         },
         {
-            "text": "unntity",
+            "text": "1,710.00",
             "id": 6,
             "bbox": [
-                440,
-                246,
-                499,
-                268
+                491,
+                658,
+                557,
+                676
             ]
         },
         {
-            "text": "Price",
+            "text": "ARI",
             "id": 7,
             "bbox": [
-                511,
-                259,
-                555,
-                275
+                180,
+                657,
+                213,
+                671
+            ]
+        },
+        {
+            "text": "85/JC,KID,Black,38",
+            "id": 8,
+            "bbox": [
+                221,
+                656,
+                386,
+                676
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "148.50",
-                "Waxing-",
-                "Brazilian"
+                "ARI",
+                "85/JC,KID,Black,38"
             ],
             "value_id": [
-                1,
-                2,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:06"
+            ],
+            "value_id": [
                 3
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Item",
-                "a",
-                "unntity",
-                "Price"
+                "2020-07-12"
             ],
             "value_id": [
-                4,
-                5,
-                6,
-                7
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,710.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JIMMY",
+                "CHOO"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,710.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

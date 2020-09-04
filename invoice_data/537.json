@@ -1,110 +1,209 @@
 {
     "text_boxes": [
         {
-            "text": "TIF",
+            "text": "July,",
             "id": 1,
             "bbox": [
-                172,
-                416,
-                209,
-                437
+                528,
+                247,
+                567,
+                263
             ]
         },
         {
-            "text": "PAPER",
+            "text": "19",
             "id": 2,
             "bbox": [
-                213,
-                419,
-                263,
-                435
+                580,
+                245,
+                596,
+                257
             ]
         },
         {
-            "text": "CUP",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                277,
-                421,
-                306,
-                434
+                605,
+                243,
+                638,
+                256
             ]
         },
         {
-            "text": "BONECHN",
+            "text": "16:48",
             "id": 4,
             "bbox": [
-                319,
-                421,
-                390,
-                437
+                648,
+                240,
+                689,
+                253
             ]
         },
         {
-            "text": "S/2",
+            "text": "990.00",
             "id": 5,
             "bbox": [
-                402,
-                421,
-                431,
-                435
+                616,
+                637,
+                661,
+                647
             ]
         },
         {
-            "text": "250-23-67412532",
+            "text": "990.00",
             "id": 6,
             "bbox": [
-                193,
-                447,
-                348,
-                464
+                620,
+                538,
+                667,
+                551
             ]
         },
         {
-            "text": "05.00%",
+            "text": "1",
             "id": 7,
             "bbox": [
-                371,
-                448,
-                431,
-                462
+                412,
+                549,
+                417,
+                558
             ]
         },
         {
-            "text": "555.00",
+            "text": "75280-300:TBH.300:8:",
             "id": 8,
             "bbox": [
-                517,
-                447,
-                577,
-                462
+                149,
+                523,
+                309,
+                540
+            ]
+        },
+        {
+            "text": "MILLER",
+            "id": 9,
+            "bbox": [
+                311,
+                522,
+                353,
+                537
+            ]
+        },
+        {
+            "text": "031625046172",
+            "id": 10,
+            "bbox": [
+                48,
+                529,
+                139,
+                542
+            ]
+        },
+        {
+            "text": "Jus",
+            "id": 11,
+            "bbox": [
+                443,
+                522,
+                474,
+                534
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TIF",
-                "PAPER",
-                "CUP",
-                "BONECHN",
-                "S/2",
-                "250-23-67412532",
-                "05.00%",
-                "555.00"
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "75280-300:TBH.300:8:",
+                "MILLER"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:48"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "19",
+                "2020"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "990.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jus"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "031625046172"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "990.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

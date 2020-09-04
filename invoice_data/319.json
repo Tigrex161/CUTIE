@@ -1,74 +1,233 @@
 {
     "text_boxes": [
         {
-            "text": ":P",
+            "text": "July,",
             "id": 1,
             "bbox": [
-                314,
-                647,
-                326,
-                658
+                552,
+                201,
+                585,
+                214
             ]
         },
         {
-            "text": "Dresses:Pink",
+            "text": "10",
             "id": 2,
             "bbox": [
-                183,
-                646,
-                277,
-                660
+                598,
+                202,
+                611,
+                211
             ]
         },
         {
-            "text": "212531558",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                201,
-                663,
-                271,
-                674
+                620,
+                200,
+                648,
+                211
             ]
         },
         {
-            "text": "500.00",
+            "text": "11:53",
             "id": 4,
             "bbox": [
-                462,
-                644,
-                513,
-                658
+                658,
+                200,
+                693,
+                211
             ]
         },
         {
-            "text": "500.00",
+            "text": "648.00",
             "id": 5,
             "bbox": [
-                429,
-                661,
-                478,
-                674
+                648,
+                615,
+                690,
+                627
+            ]
+        },
+        {
+            "text": "240.00",
+            "id": 6,
+            "bbox": [
+                644,
+                472,
+                686,
+                481
+            ]
+        },
+        {
+            "text": "408.00",
+            "id": 7,
+            "bbox": [
+                646,
+                518,
+                687,
+                531
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                451,
+                526,
+                455,
+                535
+            ]
+        },
+        {
+            "text": "WO4179-64J:M3S.64J:03A:BERMUDA",
+            "id": 9,
+            "bbox": [
+                192,
+                451,
+                425,
+                466
+            ]
+        },
+        {
+            "text": "C14616-849:COE.",
+            "id": 10,
+            "bbox": [
+                193,
+                504,
+                308,
+                517
+            ]
+        },
+        {
+            "text": "022124905457",
+            "id": 11,
+            "bbox": [
+                88,
+                456,
+                181,
+                467
+            ]
+        },
+        {
+            "text": "006824866226",
+            "id": 12,
+            "bbox": [
+                90,
+                507,
+                185,
+                519
+            ]
+        },
+        {
+            "text": "JLki",
+            "id": 13,
+            "bbox": [
+                443,
+                500,
+                480,
+                512
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                ":P",
-                "Dresses:Pink",
-                "212531558",
-                "500.00",
-                "500.00"
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WO4179-64J:M3S.64J:03A:BERMUDA",
+                "C14616-849:COE."
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:53"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "10",
+                "2020"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "648.00"
+            ],
+            "value_id": [
                 5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JLki"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "022124905457",
+                "006824866226"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "240.00",
+                "408.00"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         }
     ],

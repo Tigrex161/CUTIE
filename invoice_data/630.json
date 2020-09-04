@@ -1,98 +1,143 @@
 {
     "text_boxes": [
         {
-            "text": "720.00",
+            "text": "07/26/2020",
             "id": 1,
             "bbox": [
-                467,
-                536,
-                508,
-                552
+                282,
+                395,
+                342,
+                405
             ]
         },
         {
-            "text": "720.00",
+            "text": "2,400.00",
             "id": 2,
             "bbox": [
-                438,
-                551,
-                480,
-                566
+                556,
+                1046,
+                601,
+                1057
             ]
         },
         {
-            "text": "Sig",
+            "text": "2,400.00",
             "id": 3,
             "bbox": [
-                221,
-                540,
-                242,
-                553
+                746,
+                623,
+                795,
+                632
             ]
         },
         {
-            "text": "Co",
+            "text": "1",
             "id": 4,
             "bbox": [
-                250,
-                540,
-                263,
-                551
+                682,
+                624,
+                686,
+                631
             ]
         },
         {
-            "text": "Sutton",
+            "text": "SLIP-ON",
             "id": 5,
             "bbox": [
-                272,
-                540,
-                314,
-                552
+                299,
+                600,
+                339,
+                607
             ]
         },
         {
-            "text": "Cb",
+            "text": "SHOES",
             "id": 6,
             "bbox": [
-                322,
-                540,
-                335,
-                551
+                344,
+                600,
+                378,
+                609
             ]
         },
         {
-            "text": "212745345",
+            "text": "BE2002E09K",
             "id": 7,
             "bbox": [
-                236,
-                552,
-                300,
-                566
+                24,
+                613,
+                97,
+                623
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "720.00",
-                "720.00",
-                "Sig",
-                "Co",
-                "Sutton",
-                "Cb",
-                "212745345"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SLIP-ON",
+                "SHOES"
+            ],
+            "value_id": [
                 5,
-                6,
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/26/2020"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,400.00"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BE2002E09K"
+            ],
+            "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,400.00"
+            ],
+            "value_id": [
+                3
             ]
         }
     ],

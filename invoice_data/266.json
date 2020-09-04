@@ -1,206 +1,200 @@
 {
     "text_boxes": [
         {
-            "text": "SAFFRON",
+            "text": "PIAGET",
             "id": 1,
             "bbox": [
-                370,
-                459,
-                432,
-                476
+                346,
+                188,
+                477,
+                240
             ]
         },
         {
-            "text": "DOLCE",
+            "text": "29/06/2020",
             "id": 2,
             "bbox": [
-                443,
-                459,
-                487,
-                474
+                145,
+                702,
+                190,
+                713
             ]
         },
         {
-            "text": "48.00",
+            "text": "21:26:01",
             "id": 3,
             "bbox": [
-                250,
-                462,
-                294,
-                476
+                193,
+                704,
+                226,
+                712
             ]
         },
         {
-            "text": "1",
+            "text": "20,700.00",
             "id": 4,
             "bbox": [
-                520,
-                458,
-                523,
-                472
+                680,
+                575,
+                711,
+                580
             ]
         },
         {
-            "text": "SENCHA",
+            "text": "20,700.00",
             "id": 5,
             "bbox": [
-                342,
-                505,
-                396,
-                520
+                677,
+                536,
+                708,
+                542
             ]
         },
         {
-            "text": "GREEN",
+            "text": "RING",
             "id": 6,
             "bbox": [
-                407,
-                503,
-                452,
-                520
+                162,
+                517,
+                177,
+                522
             ]
         },
         {
-            "text": "TEA",
+            "text": "POSSESON",
             "id": 7,
             "bbox": [
-                463,
-                504,
-                489,
-                519
+                179,
+                514,
+                216,
+                523
             ]
         },
         {
-            "text": "32.00",
+            "text": "CLASSIQUERG",
             "id": 8,
             "bbox": [
-                249,
-                506,
-                294,
-                521
+                218,
+                517,
+                261,
+                524
             ]
         },
         {
-            "text": "1",
+            "text": "LN",
             "id": 9,
             "bbox": [
-                521,
-                503,
-                524,
-                517
+                264,
+                519,
+                271,
+                525
             ]
         },
         {
-            "text": "PICOLLO",
+            "text": "DIA",
             "id": 10,
             "bbox": [
-                371,
-                550,
-                434,
-                565
+                274,
+                520,
+                284,
+                524
             ]
         },
         {
-            "text": "LATTE",
+            "text": "G34PRASE",
             "id": 11,
             "bbox": [
-                446,
-                548,
-                490,
-                564
-            ]
-        },
-        {
-            "text": "25.00",
-            "id": 12,
-            "bbox": [
-                249,
-                551,
-                294,
-                566
-            ]
-        },
-        {
-            "text": "39.00",
-            "id": 13,
-            "bbox": [
-                248,
-                596,
-                294,
-                612
-            ]
-        },
-        {
-            "text": "SPANISH",
-            "id": 14,
-            "bbox": [
-                390,
-                595,
-                454,
-                610
-            ]
-        },
-        {
-            "text": "ICE",
-            "id": 15,
-            "bbox": [
-                466,
-                594,
-                492,
-                609
-            ]
-        },
-        {
-            "text": "1",
-            "id": 16,
-            "bbox": [
-                524,
-                594,
-                528,
-                608
+                202,
+                526,
+                240,
+                533
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SAFFRON",
-                "DOLCE",
-                "48.00",
-                "1",
-                "SENCHA",
-                "GREEN",
-                "TEA",
-                "32.00",
-                "1",
-                "PICOLLO",
-                "LATTE",
-                "25.00",
-                "39.00",
-                "SPANISH",
-                "ICE",
-                "1"
+                "RING",
+                "POSSESON",
+                "CLASSIQUERG",
+                "LN",
+                "DIA"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
                 6,
                 7,
                 8,
                 9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:26:01"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "29/06/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20,700.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PIAGET"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "G34PRASE"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20,700.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

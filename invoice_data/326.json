@@ -1,146 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "SALES",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                307,
-                457,
-                353,
-                471
+                489,
+                403,
+                519,
+                417
             ]
         },
         {
-            "text": "PERSON",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                360,
-                458,
-                417,
-                473
+                532,
+                405,
+                563,
+                417
             ]
         },
         {
-            "text": "IC0025",
+            "text": "14:10",
             "id": 3,
             "bbox": [
-                425,
-                461,
-                471,
-                473
+                575,
+                408,
+                614,
+                419
             ]
         },
         {
-            "text": "(Cherilhan)",
+            "text": "2,980.00",
             "id": 4,
             "bbox": [
-                477,
-                463,
-                544,
-                478
+                603,
+                688,
+                663,
+                702
             ]
         },
         {
-            "text": "BING",
+            "text": "2,980.00",
             "id": 5,
             "bbox": [
-                308,
-                475,
-                344,
-                487
+                613,
+                586,
+                673,
+                599
             ]
         },
         {
-            "text": "65,SUE,DARK",
+            "text": "FENDI",
             "id": 6,
             "bbox": [
-                351,
-                477,
-                446,
-                493
+                59,
+                540,
+                100,
+                552
             ]
         },
         {
-            "text": "SKY,",
+            "text": "WOMENS",
             "id": 7,
             "bbox": [
-                453,
-                479,
-                485,
-                492
+                109,
+                543,
+                156,
+                554
             ]
         },
         {
-            "text": "38",
+            "text": "y",
             "id": 8,
             "bbox": [
-                308,
-                492,
-                321,
-                503
+                254,
+                553,
+                267,
+                560
             ]
         },
         {
-            "text": "AED",
+            "text": "is",
             "id": 9,
             "bbox": [
-                513,
-                480,
-                544,
-                493
-            ]
-        },
-        {
-            "text": "2,130",
-            "id": 10,
-            "bbox": [
+                278,
                 550,
-                480,
-                583,
-                495
-            ]
-        },
-        {
-            "text": "00",
-            "id": 11,
-            "bbox": [
-                588,
-                482,
-                603,
-                493
+                313,
+                562
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SALES",
-                "PERSON",
-                "IC0025",
-                "(Cherilhan)",
-                "BING",
-                "65,SUE,DARK",
-                "SKY,",
-                "38",
-                "AED",
-                "2,130",
-                "00"
+                "FENDI",
+                "WOMENS"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:10"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,980.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "y",
+                "is"
+            ],
+            "value_id": [
                 8,
-                9,
-                10,
-                11
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,980.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

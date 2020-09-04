@@ -1,227 +1,197 @@
 {
     "text_boxes": [
         {
-            "text": "GCIMN",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                127,
-                512,
-                158,
-                524
+                252,
+                161,
+                351,
+                178
             ]
         },
         {
-            "text": "SHOE:",
+            "text": "HOME",
             "id": 2,
             "bbox": [
-                167,
-                512,
-                200,
-                524
+                377,
+                160,
+                484,
+                177
             ]
         },
         {
-            "text": "GUCCI",
+            "text": "08-07-2020",
             "id": 3,
             "bbox": [
-                202,
-                512,
-                239,
-                524
+                168,
+                351,
+                260,
+                364
             ]
         },
         {
-            "text": "MENS",
+            "text": "18:39",
             "id": 4,
             "bbox": [
-                243,
-                512,
-                267,
-                524
+                273,
+                353,
+                316,
+                366
             ]
         },
         {
-            "text": "SHOESI",
+            "text": "459",
             "id": 5,
             "bbox": [
-                276,
-                515,
-                335,
-                524
+                485,
+                612,
+                511,
+                624
             ]
         },
         {
-            "text": "L",
+            "text": "459",
             "id": 6,
             "bbox": [
-                345,
-                512,
-                349,
-                524
+                480,
+                446,
+                505,
+                457
             ]
         },
         {
-            "text": "L",
+            "text": "1",
             "id": 7,
             "bbox": [
-                365,
-                516,
-                388,
-                524
+                281,
+                446,
+                287,
+                457
             ]
         },
         {
-            "text": "01341110081618073898731",
+            "text": "4010608862112",
             "id": 8,
             "bbox": [
-                126,
-                535,
-                281,
-                545
+                261,
+                468,
+                382,
+                482
             ]
         },
         {
-            "text": "58",
+            "text": "SHEET",
             "id": 9,
             "bbox": [
-                370,
-                537,
-                381,
-                545
+                404,
+                469,
+                448,
+                481
             ]
         },
         {
-            "text": "2,750.00",
+            "text": "10001565",
             "id": 10,
             "bbox": [
-                469,
-                534,
-                522,
-                543
-            ]
-        },
-        {
-            "text": "2,",
-            "id": 11,
-            "bbox": [
-                598,
-                532,
-                607,
-                541
-            ]
-        },
-        {
-            "text": "750.00",
-            "id": 12,
-            "bbox": [
-                611,
-                531,
-                650,
-                541
-            ]
-        },
-        {
-            "text": "VAT",
-            "id": 13,
-            "bbox": [
-                368,
-                451,
-                387,
-                459
-            ]
-        },
-        {
-            "text": "QTY",
-            "id": 14,
-            "bbox": [
-                428,
-                451,
-                447,
-                460
-            ]
-        },
-        {
-            "text": "PRICE",
-            "id": 15,
-            "bbox": [
-                482,
-                449,
-                513,
-                459
-            ]
-        },
-        {
-            "text": "DISC",
-            "id": 16,
-            "bbox": [
-                548,
-                449,
-                574,
-                458
-            ]
-        },
-        {
-            "text": "AMOUNT",
-            "id": 17,
-            "bbox": [
-                608,
-                449,
-                647,
-                456
+                164,
+                466,
+                238,
+                479
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GCIMN",
-                "SHOE:",
-                "GUCCI",
-                "MENS",
-                "SHOESI",
-                "L",
-                "L",
-                "01341110081618073898731",
-                "58",
-                "2,750.00",
-                "2,",
-                "750.00"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
+                7
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VAT",
-                "QTY",
-                "PRICE",
-                "DISC",
-                "AMOUNT"
+                "4010608862112",
+                "SHEET"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16,
-                17
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:39"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08-07-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "459"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA",
+                "HOME"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001565"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "459"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

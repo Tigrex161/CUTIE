@@ -1,0 +1,222 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                320,
+                115,
+                357,
+                125
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                363,
+                116,
+                420,
+                126
+            ]
+        },
+        {
+            "text": "MARCH",
+            "id": 3,
+            "bbox": [
+                333,
+                152,
+                358,
+                158
+            ]
+        },
+        {
+            "text": "FOHEch",
+            "id": 4,
+            "bbox": [
+                360,
+                152,
+                384,
+                159
+            ]
+        },
+        {
+            "text": "12:40",
+            "id": 5,
+            "bbox": [
+                605,
+                312,
+                628,
+                322
+            ]
+        },
+        {
+            "text": "2,700.00",
+            "id": 6,
+            "bbox": [
+                659,
+                535,
+                706,
+                542
+            ]
+        },
+        {
+            "text": "2.700.00",
+            "id": 7,
+            "bbox": [
+                656,
+                368,
+                702,
+                375
+            ]
+        },
+        {
+            "text": "NOJO2U",
+            "id": 8,
+            "bbox": [
+                33,
+                368,
+                68,
+                375
+            ]
+        },
+        {
+            "text": "CLLV",
+            "id": 9,
+            "bbox": [
+                81,
+                368,
+                111,
+                374
+            ]
+        },
+        {
+            "text": "O.T.K",
+            "id": 10,
+            "bbox": [
+                117,
+                368,
+                147,
+                375
+            ]
+        },
+        {
+            "text": "30",
+            "id": 11,
+            "bbox": [
+                152,
+                368,
+                164,
+                375
+            ]
+        },
+        {
+            "text": "REV.",
+            "id": 12,
+            "bbox": [
+                170,
+                366,
+                198,
+                377
+            ]
+        },
+        {
+            "text": "M.N.90",
+            "id": 13,
+            "bbox": [
+                200,
+                366,
+                232,
+                377
+            ]
+        },
+        {
+            "text": "BELTS",
+            "id": 14,
+            "bbox": [
+                32,
+                379,
+                62,
+                386
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NOJO2U",
+                "CLLV",
+                "O.T.K",
+                "30",
+                "REV.",
+                "M.N.90",
+                "BELTS"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:40"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,700.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MARCH",
+                "FOHEch"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.700.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/932.jpg"
+    }
+}

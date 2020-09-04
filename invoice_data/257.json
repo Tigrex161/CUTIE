@@ -1,227 +1,200 @@
 {
     "text_boxes": [
         {
-            "text": "Qty",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                65,
-                820,
-                119,
-                853
+                270,
+                125,
+                344,
+                151
             ]
         },
         {
-            "text": "Item",
+            "text": "AFAYETTE",
             "id": 2,
             "bbox": [
-                135,
-                816,
-                191,
-                847
+                333,
+                123,
+                426,
+                146
             ]
         },
         {
-            "text": "Amount",
+            "text": "11/07/20",
             "id": 3,
             "bbox": [
-                467,
-                811,
-                580,
-                840
+                243,
+                353,
+                309,
+                370
             ]
         },
         {
-            "text": "26.00",
+            "text": "15:42",
             "id": 4,
             "bbox": [
-                521,
-                885,
-                581,
-                904
+                320,
+                351,
+                361,
+                365
             ]
         },
         {
-            "text": "1",
+            "text": "665.00",
             "id": 5,
             "bbox": [
-                93,
-                897,
-                99,
-                915
+                514,
+                560,
+                569,
+                576
             ]
         },
         {
-            "text": "SAN",
+            "text": "665.00",
             "id": 6,
             "bbox": [
-                132,
-                896,
-                179,
-                915
+                503,
+                484,
+                555,
+                498
             ]
         },
         {
-            "text": "PELLEGRINO",
+            "text": "Shoe",
             "id": 7,
             "bbox": [
-                190,
-                893,
-                344,
-                915
+                182,
+                482,
+                216,
+                494
             ]
         },
         {
-            "text": "LARGE",
+            "text": "SHOES",
             "id": 8,
             "bbox": [
-                356,
-                892,
-                435,
-                912
+                182,
+                500,
+                224,
+                513
             ]
         },
         {
-            "text": "1",
+            "text": "CLAUDIA",
             "id": 9,
             "bbox": [
-                88,
-                971,
-                94,
-                990
+                235,
+                497,
+                296,
+                511
             ]
         },
         {
-            "text": "ITAME",
+            "text": "ROSSI",
             "id": 10,
             "bbox": [
-                129,
-                969,
-                203,
-                990
+                307,
+                495,
+                349,
+                507
             ]
         },
         {
-            "text": "CHICKEN",
+            "text": "900702586",
             "id": 11,
             "bbox": [
-                213,
-                969,
-                319,
-                989
-            ]
-        },
-        {
-            "text": "58.00",
-            "id": 12,
-            "bbox": [
-                525,
-                961,
-                586,
-                981
-            ]
-        },
-        {
-            "text": "1",
-            "id": 13,
-            "bbox": [
-                84,
-                1050,
-                90,
-                1069
-            ]
-        },
-        {
-            "text": "TERIYAKI",
-            "id": 14,
-            "bbox": [
-                124,
-                1048,
-                237,
-                1070
-            ]
-        },
-        {
-            "text": "DONBURI",
-            "id": 15,
-            "bbox": [
-                250,
-                1047,
-                361,
-                1068
-            ]
-        },
-        {
-            "text": "BEEF",
-            "id": 16,
-            "bbox": [
-                374,
-                1045,
-                436,
-                1067
-            ]
-        },
-        {
-            "text": "65.00",
-            "id": 17,
-            "bbox": [
-                529,
-                1039,
-                591,
-                1060
+                227,
+                516,
+                305,
+                530
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "26.00",
-                "1",
-                "SAN",
-                "PELLEGRINO",
-                "LARGE",
-                "1",
-                "ITAME",
-                "CHICKEN",
-                "58.00",
-                "1",
-                "TERIYAKI",
-                "DONBURI",
-                "BEEF",
-                "65.00"
+                "Shoe",
+                "SHOES",
+                "CLAUDIA",
+                "ROSSI"
             ],
             "value_id": [
-                4,
-                5,
-                6,
                 7,
                 8,
                 9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
+                10
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Qty",
-                "Item",
-                "Amount"
+                "15:42"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "665.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "AFAYETTE"
             ],
             "value_id": [
                 1,
-                2,
-                3
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900702586"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "665.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

@@ -1,143 +1,269 @@
 {
     "text_boxes": [
         {
-            "text": "Item",
+            "text": "Baccarat",
             "id": 1,
             "bbox": [
-                190,
-                512,
-                220,
-                527
+                264,
+                191,
+                532,
+                299
             ]
         },
         {
-            "text": "Qty",
+            "text": "July,",
             "id": 2,
             "bbox": [
-                370,
-                516,
-                392,
-                532
+                594,
+                328,
+                629,
+                341
             ]
         },
         {
-            "text": "Unit",
+            "text": "08",
             "id": 3,
             "bbox": [
-                414,
-                517,
-                444,
-                532
+                642,
+                328,
+                654,
+                337
             ]
         },
         {
-            "text": "Price",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                455,
-                517,
-                494,
-                534
+                665,
+                326,
+                694,
+                337
             ]
         },
         {
-            "text": "Total(Incl",
+            "text": "11:42",
             "id": 5,
             "bbox": [
-                530,
-                517,
-                609,
-                535
+                704,
+                326,
+                739,
+                339
             ]
         },
         {
-            "text": "VAT)",
+            "text": "675.00",
             "id": 6,
             "bbox": [
-                621,
-                518,
-                651,
-                535
+                688,
+                679,
+                733,
+                692
             ]
         },
         {
-            "text": "2D",
+            "text": "675.00",
             "id": 7,
             "bbox": [
-                243,
-                541,
-                264,
-                561
+                688,
+                577,
+                734,
+                589
             ]
         },
         {
-            "text": "2",
+            "text": "2812807:",
             "id": 8,
             "bbox": [
-                375,
-                544,
-                383,
-                563
+                224,
+                564,
+                282,
+                575
             ]
         },
         {
-            "text": "168.00",
+            "text": "BAC",
             "id": 9,
             "bbox": [
-                443,
-                545,
-                504,
-                564
+                287,
+                565,
+                309,
+                573
             ]
         },
         {
-            "text": "336.00",
+            "text": "THE",
             "id": 10,
             "bbox": [
-                592,
-                546,
-                657,
-                565
+                318,
+                565,
+                340,
+                573
+            ]
+        },
+        {
+            "text": "BLOOM",
+            "id": 11,
+            "bbox": [
+                349,
+                563,
+                387,
+                574
+            ]
+        },
+        {
+            "text": "COLLECTION",
+            "id": 12,
+            "bbox": [
+                395,
+                560,
+                472,
+                573
+            ]
+        },
+        {
+            "text": "WHITE",
+            "id": 13,
+            "bbox": [
+                481,
+                559,
+                519,
+                570
+            ]
+        },
+        {
+            "text": "BLOOM",
+            "id": 14,
+            "bbox": [
+                532,
+                556,
+                566,
+                570
+            ]
+        },
+        {
+            "text": "Li",
+            "id": 15,
+            "bbox": [
+                577,
+                556,
+                607,
+                567
+            ]
+        },
+        {
+            "text": "002214283539",
+            "id": 16,
+            "bbox": [
+                122,
+                565,
+                214,
+                577
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2D",
-                "2",
-                "168.00",
-                "336.00"
+                "2812807:",
+                "BAC",
+                "THE",
+                "BLOOM",
+                "COLLECTION",
+                "WHITE",
+                "BLOOM"
             ],
             "value_id": [
-                7,
                 8,
                 9,
-                10
+                10,
+                11,
+                12,
+                13,
+                14
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Item",
-                "Qty",
-                "Unit",
-                "Price",
-                "Total(Incl",
-                "VAT)"
+                "11:42"
             ],
             "value_id": [
-                1,
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "08",
+                "2020"
+            ],
+            "value_id": [
                 2,
                 3,
-                4,
-                5,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "675.00"
+            ],
+            "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Li"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Baccarat"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "002214283539"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "675.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

@@ -1,230 +1,200 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                245,
-                394,
-                255,
-                409
+                343,
+                217,
+                397,
+                228
             ]
         },
         {
-            "text": "Street",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                253,
-                396,
-                294,
-                410
+                406,
+                218,
+                467,
+                228
             ]
         },
         {
-            "text": "Fries",
+            "text": "10/07/20",
             "id": 3,
             "bbox": [
-                304,
-                398,
-                338,
-                411
+                307,
+                373,
+                363,
+                385
             ]
         },
         {
-            "text": "31.00",
+            "text": "13:10",
             "id": 4,
             "bbox": [
-                481,
-                404,
-                514,
-                416
+                373,
+                374,
+                407,
+                384
             ]
         },
         {
-            "text": "1",
+            "text": "259.00",
             "id": 5,
             "bbox": [
-                239,
-                448,
-                242,
-                458
+                533,
+                612,
+                577,
+                626
             ]
         },
         {
-            "text": "Lime",
+            "text": "370.00",
             "id": 6,
             "bbox": [
-                253,
-                447,
-                281,
-                461
+                525,
+                490,
+                569,
+                502
             ]
         },
         {
-            "text": "Hot",
+            "text": "900976389",
             "id": 7,
             "bbox": [
-                289,
-                449,
-                308,
-                461
+                294,
+                497,
+                354,
+                511
             ]
         },
         {
-            "text": "Pasta",
+            "text": "Kid's",
             "id": 8,
             "bbox": [
-                318,
-                450,
-                352,
-                462
+                251,
+                467,
+                287,
+                477
             ]
         },
         {
-            "text": "46.00",
+            "text": "Wear",
             "id": 9,
             "bbox": [
-                482,
-                454,
-                516,
-                466
+                297,
+                467,
+                325,
+                476
             ]
         },
         {
-            "text": "1",
+            "text": "TS",
             "id": 10,
             "bbox": [
-                237,
-                496,
-                249,
-                515
+                251,
+                484,
+                264,
+                493
             ]
         },
         {
-            "text": "Choco",
+            "text": "SKU",
             "id": 11,
             "bbox": [
-                254,
-                496,
-                292,
-                515
-            ]
-        },
-        {
-            "text": "Coffee",
-            "id": 12,
-            "bbox": [
-                288,
-                496,
-                343,
-                515
-            ]
-        },
-        {
-            "text": "29.00",
-            "id": 13,
-            "bbox": [
+                273,
                 483,
-                504,
-                517,
-                516
-            ]
-        },
-        {
-            "text": "2",
-            "id": 14,
-            "bbox": [
-                237,
-                551,
-                243,
-                563
-            ]
-        },
-        {
-            "text": "Passion",
-            "id": 15,
-            "bbox": [
-                251,
-                549,
-                302,
-                565
-            ]
-        },
-        {
-            "text": "Fruit",
-            "id": 16,
-            "bbox": [
-                311,
-                552,
-                346,
-                564
-            ]
-        },
-        {
-            "text": "Mojito",
-            "id": 17,
-            "bbox": [
-                355,
-                552,
-                397,
-                567
-            ]
-        },
-        {
-            "text": "62.00",
-            "id": 18,
-            "bbox": [
-                484,
-                555,
-                519,
-                567
+                295,
+                492
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "Street",
-                "Fries",
-                "31.00",
-                "1",
-                "Lime",
-                "Hot",
-                "Pasta",
-                "46.00",
-                "1",
-                "Choco",
-                "Coffee",
-                "29.00",
-                "2",
-                "Passion",
-                "Fruit",
-                "Mojito",
-                "62.00"
+                "Kid's",
+                "Wear",
+                "TS",
+                "SKU"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
                 8,
                 9,
                 10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:10"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "259.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900976389"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "370.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

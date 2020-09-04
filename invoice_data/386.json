@@ -1,146 +1,257 @@
 {
     "text_boxes": [
         {
-            "text": "39.00",
+            "text": "June,",
             "id": 1,
             "bbox": [
-                277,
-                539,
-                325,
-                556
+                582,
+                510,
+                615,
+                519
             ]
         },
         {
-            "text": "SPANISH",
+            "text": "21",
             "id": 2,
             "bbox": [
-                427,
-                540,
-                495,
-                556
+                627,
+                509,
+                639,
+                518
             ]
         },
         {
-            "text": "ICE",
+            "text": "2020",
             "id": 3,
             "bbox": [
+                650,
                 509,
-                540,
-                535,
-                555
+                679,
+                518
             ]
         },
         {
-            "text": "1",
+            "text": "18:51",
             "id": 4,
             "bbox": [
-                570,
-                539,
-                574,
-                554
+                689,
+                509,
+                724,
+                517
             ]
         },
         {
-            "text": "25.00",
+            "text": "168.00",
             "id": 5,
             "bbox": [
-                276,
-                588,
-                324,
-                605
+                651,
+                826,
+                690,
+                835
             ]
         },
         {
-            "text": "CAPPUCCINO",
+            "text": "168.00",
             "id": 6,
             "bbox": [
-                437,
-                589,
-                536,
-                604
+                652,
+                737,
+                693,
+                746
             ]
         },
         {
-            "text": "1",
+            "text": "1.",
             "id": 7,
             "bbox": [
-                571,
-                588,
-                574,
-                604
+                469,
+                737,
+                473,
+                744
             ]
         },
         {
-            "text": "24.00",
+            "text": "J25E73-849:",
             "id": 8,
             "bbox": [
-                273,
-                636,
-                322,
-                654
+                240,
+                712,
+                316,
+                725
             ]
         },
         {
-            "text": "DOUBLE",
+            "text": "HBS.",
             "id": 9,
             "bbox": [
-                385,
-                638,
-                444,
-                653
+                318,
+                713,
+                346,
+                725
             ]
         },
         {
-            "text": "ESPRESSO",
+            "text": "849:08A:",
             "id": 10,
             "bbox": [
-                457,
-                638,
-                536,
-                654
+                348,
+                713,
+                398,
+                725
             ]
         },
         {
-            "text": "1",
+            "text": "SHORT",
             "id": 11,
             "bbox": [
-                571,
-                638,
-                575,
-                653
+                401,
+                713,
+                433,
+                725
+            ]
+        },
+        {
+            "text": "SLEEVES",
+            "id": 12,
+            "bbox": [
+                441,
+                714,
+                487,
+                722
+            ]
+        },
+        {
+            "text": "014824906385",
+            "id": 13,
+            "bbox": [
+                145,
+                714,
+                229,
+                723
+            ]
+        },
+        {
+            "text": "L",
+            "id": 14,
+            "bbox": [
+                641,
+                714,
+                650,
+                726
+            ]
+        },
+        {
+            "text": "S",
+            "id": 15,
+            "bbox": [
+                652,
+                714,
+                663,
+                726
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "39.00",
-                "SPANISH",
-                "ICE",
-                "1",
-                "25.00",
-                "CAPPUCCINO",
-                "1",
-                "24.00",
-                "DOUBLE",
-                "ESPRESSO",
-                "1"
+                "1."
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "J25E73-849:",
+                "HBS.",
+                "849:08A:",
+                "SHORT",
+                "SLEEVES"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:51"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "June,",
+                "21",
+                "2020"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "168.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L",
+                "S"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "014824906385"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "168.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

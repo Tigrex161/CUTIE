@@ -1,134 +1,257 @@
 {
     "text_boxes": [
         {
-            "text": "*2",
+            "text": "level",
             "id": 1,
             "bbox": [
-                145,
-                551,
-                175,
-                573
+                334,
+                20,
+                441,
+                100
             ]
         },
         {
-            "text": "The",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                174,
-                551,
-                213,
-                570
+                356,
+                111,
+                421,
+                126
             ]
         },
         {
-            "text": "Sando",
+            "text": "Jul,",
             "id": 3,
             "bbox": [
-                222,
-                548,
-                288,
-                567
+                522,
+                266,
+                550,
+                277
             ]
         },
         {
-            "text": "AED90.00",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                518,
-                529,
-                623,
-                553
+                563,
+                266,
+                595,
+                277
             ]
         },
         {
-            "text": "Mild",
+            "text": "16:42",
             "id": 5,
             "bbox": [
-                185,
-                606,
-                225,
-                625
+                605,
+                266,
+                644,
+                276
             ]
         },
         {
-            "text": "+AED0.00",
+            "text": "1,700.00",
             "id": 6,
             "bbox": [
-                481,
-                584,
-                592,
-                611
+                657,
+                558,
+                721,
+                569
             ]
         },
         {
-            "text": "*Shake",
+            "text": "1,",
             "id": 7,
             "bbox": [
-                153,
-                634,
-                227,
-                655
+                662,
+                452,
+                681,
+                467
             ]
         },
         {
-            "text": "Fries",
+            "text": "700.00",
             "id": 8,
             "bbox": [
-                236,
-                631,
-                285,
-                651
+                681,
+                453,
+                729,
+                464
             ]
         },
         {
-            "text": "AED20.00",
+            "text": "1",
             "id": 9,
             "bbox": [
-                521,
-                612,
-                629,
-                635
+                472,
+                455,
+                476,
+                463
             ]
         },
         {
-            "text": "Water",
+            "text": "PCOU_OTHS:",
             "id": 10,
             "bbox": [
-                267,
-                656,
+                104,
+                426,
+                180,
+                439
+            ]
+        },
+        {
+            "text": "PRIVATE",
+            "id": 11,
+            "bbox": [
+                182,
+                427,
+                239,
+                440
+            ]
+        },
+        {
+            "text": "COLLECTION",
+            "id": 12,
+            "bbox": [
+                248,
+                429,
                 327,
-                678
+                437
+            ]
+        },
+        {
+            "text": "MENS",
+            "id": 13,
+            "bbox": [
+                336,
+                429,
+                366,
+                438
+            ]
+        },
+        {
+            "text": "OTHERS",
+            "id": 14,
+            "bbox": [
+                376,
+                430,
+                421,
+                438
+            ]
+        },
+        {
+            "text": "SI-aLils",
+            "id": 15,
+            "bbox": [
+                448,
+                430,
+                541,
+                442
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "*2",
-                "The",
-                "Sando",
-                "AED90.00",
-                "Mild",
-                "+AED0.00",
-                "*Shake",
-                "Fries",
-                "AED20.00",
-                "Water"
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PCOU_OTHS:",
+                "PRIVATE",
+                "COLLECTION",
+                "MENS",
+                "OTHERS"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:42"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,700.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SI-aLils"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHOES"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,",
+                "700.00"
+            ],
+            "value_id": [
                 7,
-                8,
-                9,
-                10
+                8
             ]
         }
     ],

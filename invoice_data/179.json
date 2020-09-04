@@ -1,251 +1,206 @@
 {
     "text_boxes": [
         {
-            "text": "20041-BLKSUD:AAG.",
+            "text": "SCOTCH&SODA",
             "id": 1,
             "bbox": [
-                140,
-                580,
-                247,
-                594
+                273,
+                262,
+                446,
+                285
             ]
         },
         {
-            "text": "BLKSUD:",
+            "text": "04/07/20",
             "id": 2,
             "bbox": [
-                249,
-                582,
-                291,
-                594
+                148,
+                389,
+                279,
+                414
             ]
         },
         {
-            "text": "42:CAP-TOE",
+            "text": "8:56",
             "id": 3,
             "bbox": [
-                293,
-                584,
-                357,
-                596
+                315,
+                391,
+                379,
+                416
             ]
         },
         {
-            "text": "SNEAKER",
+            "text": "385",
             "id": 4,
             "bbox": [
-                363,
-                585,
-                401,
-                597
+                649,
+                829,
+                697,
+                854
             ]
         },
         {
-            "text": "lo",
+            "text": "385",
             "id": 5,
             "bbox": [
-                403,
-                587,
-                416,
-                597
+                651,
+                659,
+                700,
+                685
             ]
         },
         {
-            "text": "ta",
+            "text": "1",
             "id": 6,
             "bbox": [
-                488,
-                591,
-                511,
-                597
+                364,
+                655,
+                375,
+                680
             ]
         },
         {
-            "text": "194924922023",
+            "text": "SHIRTS",
             "id": 7,
             "bbox": [
-                137,
-                602,
-                211,
-                612
+                161,
+                652,
+                259,
+                680
             ]
         },
         {
-            "text": "51",
+            "text": "L/S",
             "id": 8,
             "bbox": [
-                364,
-                607,
-                374,
-                614
+                279,
+                653,
+                326,
+                680
             ]
         },
         {
-            "text": "11",
+            "text": "A057424",
             "id": 9,
             "bbox": [
-                429,
-                608,
-                431,
-                615
+                28,
+                650,
+                141,
+                677
             ]
         },
         {
-            "text": "790.00",
+            "text": "\u0642\u0645\u064a\u0635",
             "id": 10,
             "bbox": [
-                467,
-                608,
-                504,
-                618
-            ]
-        },
-        {
-            "text": "301",
-            "id": 11,
-            "bbox": [
-                546,
-                610,
-                562,
-                617
-            ]
-        },
-        {
-            "text": "550.00",
-            "id": 12,
-            "bbox": [
-                599,
-                610,
-                636,
-                623
-            ]
-        },
-        {
-            "text": "VAT",
-            "id": 13,
-            "bbox": [
-                368,
-                527,
-                385,
-                534
-            ]
-        },
-        {
-            "text": "OTY",
-            "id": 14,
-            "bbox": [
-                424,
-                528,
-                442,
-                536
-            ]
-        },
-        {
-            "text": "PRICE",
-            "id": 15,
-            "bbox": [
-                476,
-                527,
-                507,
-                536
-            ]
-        },
-        {
-            "text": "DISC",
-            "id": 16,
-            "bbox": [
-                540,
-                527,
-                565,
-                537
-            ]
-        },
-        {
-            "text": "AMOUNT",
-            "id": 17,
-            "bbox": [
-                599,
-                529,
-                637,
-                536
-            ]
-        },
-        {
-            "text": "\u062e\u0631\u064a\u064a\u0629",
-            "id": 18,
-            "bbox": [
-                368,
-                548,
-                398,
-                557
-            ]
-        },
-        {
-            "text": "\u0627\u0644\u062a\u0639\u0628\u0644\u0628\u0639",
-            "id": 19,
-            "bbox": [
-                593,
-                551,
-                628,
-                560
+                126,
+                688,
+                185,
+                715
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20041-BLKSUD:AAG.",
-                "BLKSUD:",
-                "42:CAP-TOE",
-                "SNEAKER",
-                "lo",
-                "ta",
-                "194924922023",
-                "51",
-                "11",
-                "790.00",
-                "301",
-                "550.00"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
+                6
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VAT",
-                "OTY",
-                "PRICE",
-                "DISC",
-                "AMOUNT",
-                "\u062e\u0631\u064a\u064a\u0629",
-                "\u0627\u0644\u062a\u0639\u0628\u0644\u0628\u0639"
+                "SHIRTS",
+                "L/S"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8:56"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "04/07/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "385"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0642\u0645\u064a\u0635"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SCOTCH&SODA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A057424"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "385"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

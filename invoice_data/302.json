@@ -1,0 +1,207 @@
+{
+    "text_boxes": [
+        {
+            "text": "Jul,",
+            "id": 1,
+            "bbox": [
+                464,
+                263,
+                487,
+                273
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 2,
+            "bbox": [
+                498,
+                260,
+                524,
+                270
+            ]
+        },
+        {
+            "text": "23:07",
+            "id": 3,
+            "bbox": [
+                532,
+                260,
+                565,
+                269
+            ]
+        },
+        {
+            "text": "2,",
+            "id": 4,
+            "bbox": [
+                586,
+                496,
+                596,
+                506
+            ]
+        },
+        {
+            "text": "500.",
+            "id": 5,
+            "bbox": [
+                601,
+                494,
+                626,
+                505
+            ]
+        },
+        {
+            "text": "00",
+            "id": 6,
+            "bbox": [
+                629,
+                496,
+                643,
+                504
+            ]
+        },
+        {
+            "text": "2,500.00",
+            "id": 7,
+            "bbox": [
+                593,
+                406,
+                649,
+                418
+            ]
+        },
+        {
+            "text": "BALENCIAGNEN",
+            "id": 8,
+            "bbox": [
+                111,
+                393,
+                199,
+                407
+            ]
+        },
+        {
+            "text": "BAG:",
+            "id": 9,
+            "bbox": [
+                205,
+                393,
+                235,
+                405
+            ]
+        },
+        {
+            "text": "BALENCIAGA",
+            "id": 10,
+            "bbox": [
+                237,
+                392,
+                301,
+                405
+            ]
+        },
+        {
+            "text": "ME'S",
+            "id": 11,
+            "bbox": [
+                308,
+                393,
+                342,
+                403
+            ]
+        },
+        {
+            "text": "yis",
+            "id": 12,
+            "bbox": [
+                468,
+                388,
+                500,
+                400
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BALENCIAGNEN",
+                "BAG:",
+                "BALENCIAGA",
+                "ME'S"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23:07"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,",
+                "500.",
+                "00"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "yis"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,500.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/302.jpg"
+    }
+}

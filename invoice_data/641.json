@@ -1,191 +1,275 @@
 {
     "text_boxes": [
         {
-            "text": "3085224",
+            "text": "Jumbo",
             "id": 1,
             "bbox": [
-                207,
-                517,
-                245,
-                527
+                285,
+                113,
+                323,
+                131
             ]
         },
         {
-            "text": "349.00",
+            "text": "Electronics",
             "id": 2,
             "bbox": [
-                419,
-                514,
-                452,
-                527
+                326,
+                113,
+                383,
+                131
             ]
         },
         {
-            "text": "349.00",
+            "text": "Co.",
             "id": 3,
             "bbox": [
-                477,
-                516,
-                510,
-                526
+                386,
+                113,
+                406,
+                131
             ]
         },
         {
-            "text": "18237687000",
+            "text": "Ltd.",
             "id": 4,
             "bbox": [
-                201,
-                532,
-                268,
-                548
+                408,
+                113,
+                431,
+                131
             ]
         },
         {
-            "text": "8",
+            "text": "LLC",
             "id": 5,
             "bbox": [
-                273,
-                532,
-                282,
-                548
+                433,
+                113,
+                453,
+                131
             ]
         },
         {
-            "text": "S",
+            "text": "17.07.2020",
             "id": 6,
             "bbox": [
-                288,
-                536,
-                291,
-                546
+                99,
+                335,
+                151,
+                343
             ]
         },
         {
-            "text": "DOUBLE-BREASTED",
+            "text": "21:47",
             "id": 7,
             "bbox": [
-                299,
-                536,
-                383,
-                546
+                98,
+                346,
+                124,
+                354
             ]
         },
         {
-            "text": "OVERALL",
+            "text": "735.00",
             "id": 8,
             "bbox": [
-                391,
-                535,
-                429,
-                545
+                660,
+                667,
+                696,
+                676
             ]
         },
         {
-            "text": "868143769298",
+            "text": "Beats",
             "id": 9,
             "bbox": [
-                437,
-                534,
-                504,
-                545
+                168,
+                545,
+                194,
+                556
             ]
         },
         {
-            "text": "ITEN",
+            "text": "Powerbeats",
             "id": 10,
             "bbox": [
-                208,
-                461,
-                228,
-                471
+                198,
+                545,
+                253,
+                553
             ]
         },
         {
-            "text": "DETAILS",
+            "text": "Pro",
             "id": 11,
             "bbox": [
-                236,
-                461,
-                274,
-                471
+                168,
+                557,
+                183,
+                564
             ]
         },
         {
-            "text": "OTY",
+            "text": "Wireless",
             "id": 12,
             "bbox": [
-                373,
-                461,
-                388,
-                471
+                188,
+                556,
+                227,
+                564
             ]
         },
         {
-            "text": "PRICE",
+            "text": "Earphones,",
             "id": 13,
             "bbox": [
-                419,
-                461,
-                445,
-                471
+                164,
+                566,
+                221,
+                578
             ]
         },
         {
-            "text": "TOTAL",
+            "text": "Moss",
             "id": 14,
             "bbox": [
-                482,
-                460,
-                509,
-                470
+                226,
+                568,
+                250,
+                576
+            ]
+        },
+        {
+            "text": "Serial",
+            "id": 15,
+            "bbox": [
+                168,
+                576,
+                195,
+                588
+            ]
+        },
+        {
+            "text": "Number:",
+            "id": 16,
+            "bbox": [
+                198,
+                578,
+                238,
+                588
+            ]
+        },
+        {
+            "text": "SCC2ZNC7CLN3N",
+            "id": 17,
+            "bbox": [
+                176,
+                586,
+                255,
+                599
+            ]
+        },
+        {
+            "text": "MV712AE/A",
+            "id": 18,
+            "bbox": [
+                103,
+                545,
+                159,
+                553
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3085224",
-                "349.00",
-                "349.00",
-                "18237687000",
-                "8",
-                "S",
-                "DOUBLE-BREASTED",
-                "OVERALL",
-                "868143769298"
+                "Beats",
+                "Powerbeats",
+                "Pro",
+                "Wireless",
+                "Earphones,",
+                "Moss",
+                "Serial",
+                "Number:",
+                "SCC2ZNC7CLN3N"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:47"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17.07.2020"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "735.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jumbo",
+                "Electronics",
+                "Co.",
+                "Ltd.",
+                "LLC"
             ],
             "value_id": [
                 1,
                 2,
                 3,
                 4,
-                5,
-                6,
-                7,
-                8,
-                9
+                5
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ITEN",
-                "DETAILS",
-                "OTY",
-                "PRICE",
-                "TOTAL"
+                "MV712AE/A"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14
+                18
             ]
         }
     ],

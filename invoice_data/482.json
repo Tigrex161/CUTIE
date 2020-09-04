@@ -1,215 +1,179 @@
 {
     "text_boxes": [
         {
-            "text": "TW2SOC47NBR",
+            "text": "21:39",
             "id": 1,
             "bbox": [
-                376,
-                217,
-                386,
-                321
+                312,
+                532,
+                348,
+                546
             ]
         },
         {
-            "text": "MULE",
+            "text": "999.00",
             "id": 2,
             "bbox": [
-                376,
-                398,
-                387,
-                435
+                433,
+                783,
+                479,
+                796
             ]
         },
         {
-            "text": "Jia",
+            "text": "999.00",
             "id": 3,
             "bbox": [
-                377,
-                445,
-                386,
-                472
+                408,
+                637,
+                453,
+                651
             ]
         },
         {
-            "text": "W21",
+            "text": "1",
             "id": 4,
             "bbox": [
-                377,
-                623,
-                386,
-                648
+                322,
+                816,
+                326,
+                826
             ]
         },
         {
-            "text": "39",
+            "text": "YEEZY",
             "id": 5,
             "bbox": [
-                377,
-                688,
-                386,
-                700
+                193,
+                647,
+                223,
+                660
             ]
         },
         {
-            "text": "2,714.29",
+            "text": "BOOST",
             "id": 6,
             "bbox": [
-                377,
-                783,
-                386,
-                831
+                230,
+                644,
+                263,
+                658
             ]
         },
         {
-            "text": "5.000",
+            "text": "350",
             "id": 7,
             "bbox": [
-                377,
-                966,
-                386,
-                997
+                270,
+                643,
+                291,
+                657
             ]
         },
         {
-            "text": "ARTICLE",
+            "text": "V2",
             "id": 8,
             "bbox": [
-                406,
-                218,
-                416,
-                279
+                298,
+                643,
+                310,
+                655
             ]
         },
         {
-            "text": "DESCRIPTION",
+            "text": "FZ1267",
             "id": 9,
             "bbox": [
-                406,
-                398,
-                415,
-                492
+                270,
+                627,
+                310,
+                641
             ]
         },
         {
-            "text": "COL",
+            "text": "11",
             "id": 10,
             "bbox": [
-                405,
-                624,
-                415,
-                649
-            ]
-        },
-        {
-            "text": "SIZE",
-            "id": 11,
-            "bbox": [
-                404,
-                680,
-                414,
-                707
-            ]
-        },
-        {
-            "text": "QTY",
-            "id": 12,
-            "bbox": [
-                405,
-                734,
-                414,
-                761
-            ]
-        },
-        {
-            "text": "Unit",
-            "id": 13,
-            "bbox": [
-                404,
-                779,
-                414,
-                800
-            ]
-        },
-        {
-            "text": "Price",
-            "id": 14,
-            "bbox": [
-                404,
-                805,
-                414,
-                832
-            ]
-        },
-        {
-            "text": "Disc%",
-            "id": 15,
-            "bbox": [
-                404,
-                906,
-                415,
-                941
-            ]
-        },
-        {
-            "text": "VAT%",
-            "id": 16,
-            "bbox": [
-                404,
-                965,
-                414,
-                1001
+                320,
+                627,
+                331,
+                639
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TW2SOC47NBR",
-                "MULE",
-                "Jia",
-                "W21",
-                "39",
-                "2,714.29",
-                "5.000"
+                "YEEZY",
+                "BOOST",
+                "350",
+                "V2"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
                 5,
                 6,
-                7
+                7,
+                8
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ARTICLE",
-                "DESCRIPTION",
-                "COL",
-                "SIZE",
-                "QTY",
-                "Unit",
-                "Price",
-                "Disc%",
-                "VAT%"
+                "1"
             ],
             "value_id": [
-                8,
+                4
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:39"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "999.00"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FZ1267",
+                "11"
+            ],
+            "value_id": [
                 9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "999.00"
+            ],
+            "value_id": [
+                3
             ]
         }
     ],

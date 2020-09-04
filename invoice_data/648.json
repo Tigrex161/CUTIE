@@ -1,158 +1,182 @@
 {
     "text_boxes": [
         {
-            "text": "The",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                2417,
-                2008,
-                2488,
-                2135
+                316,
+                134,
+                351,
+                144
             ]
         },
         {
-            "text": "Impossible",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                2415,
-                1520,
-                2503,
-                1951
+                357,
+                134,
+                410,
+                145
             ]
         },
         {
-            "text": "All",
+            "text": "11",
             "id": 3,
             "bbox": [
-                2414,
-                1356,
-                2490,
-                1467
+                565,
+                335,
+                574,
+                340
             ]
         },
         {
-            "text": "American",
+            "text": "si",
             "id": 4,
             "bbox": [
-                2417,
-                956,
-                2493,
-                1295
+                578,
+                334,
+                591,
+                342
             ]
         },
         {
-            "text": "Burger..",
+            "text": "1,940.00",
             "id": 5,
             "bbox": [
-                2534,
-                1796,
-                2631,
-                2146
+                613,
+                542,
+                655,
+                550
             ]
         },
         {
-            "text": "75.00",
+            "text": "1,940.00",
             "id": 6,
             "bbox": [
-                2536,
-                243,
-                2611,
-                458
+                613,
+                390,
+                654,
+                398
             ]
         },
         {
-            "text": "Add",
+            "text": "M47542",
             "id": 7,
             "bbox": [
-                2658,
-                2016,
-                2737,
-                2147
+                47,
+                382,
+                78,
+                390
             ]
         },
         {
-            "text": "Idaho",
+            "text": "PO.TOILET.26",
             "id": 8,
             "bbox": [
-                2653,
-                1744,
-                2733,
-                1955
+                91,
+                379,
+                154,
+                389
             ]
         },
         {
-            "text": "Fries",
+            "text": "M",
             "id": 9,
             "bbox": [
-                2657,
-                1476,
-                2732,
-                1687
+                161,
+                379,
+                177,
+                386
             ]
         },
         {
-            "text": "24.00",
+            "text": "TRAVEL",
             "id": 10,
             "bbox": [
-                2659,
-                237,
-                2735,
-                454
+                48,
+                393,
+                80,
+                401
             ]
         },
         {
-            "text": "Brooklyn",
+            "text": "ACCESSORIES",
             "id": 11,
             "bbox": [
-                2778,
-                1787,
-                2872,
-                2147
-            ]
-        },
-        {
-            "text": "62.00",
-            "id": 12,
-            "bbox": [
-                2777,
-                233,
-                2858,
-                447
+                85,
+                391,
+                144,
+                401
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "The",
-                "Impossible",
-                "All",
-                "American",
-                "Burger..",
-                "75.00",
-                "Add",
-                "Idaho",
-                "Fries",
-                "24.00",
-                "Brooklyn",
-                "62.00"
+                "M47542",
+                "PO.TOILET.26",
+                "M",
+                "TRAVEL",
+                "ACCESSORIES"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
                 7,
                 8,
                 9,
                 10,
-                11,
-                12
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11",
+                "si"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,940.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,940.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

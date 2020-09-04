@@ -1,179 +1,227 @@
 {
     "text_boxes": [
         {
-            "text": "S2071000500012U-XZKB-XG39:",
+            "text": "N",
             "id": 1,
             "bbox": [
-                68,
-                480,
-                270,
-                493
+                377,
+                198,
+                389,
+                207
             ]
         },
         {
-            "text": "SHZ.XG39:40:S-ARISSA",
+            "text": "ON",
             "id": 2,
             "bbox": [
-                275,
-                481,
-                432,
-                494
+                406,
+                194,
+                422,
+                205
             ]
         },
         {
-            "text": "SPR",
+            "text": "0/07/2030",
             "id": 3,
             "bbox": [
-                441,
-                484,
-                464,
-                494
+                498,
+                354,
+                544,
+                361
             ]
         },
         {
-            "text": "054824899270",
+            "text": "14125",
             "id": 4,
             "bbox": [
-                69,
-                507,
-                162,
-                517
+                561,
+                354,
+                583,
+                360
             ]
         },
         {
-            "text": "50",
+            "text": "2,900.00",
             "id": 5,
             "bbox": [
-                354,
-                510,
-                366,
-                520
+                608,
+                528,
+                645,
+                535
             ]
         },
         {
-            "text": "410.00",
+            "text": "2,",
             "id": 6,
             "bbox": [
-                480,
-                509,
-                527,
-                523
+                599,
+                400,
+                611,
+                410
             ]
         },
         {
-            "text": "328",
+            "text": "0.",
             "id": 7,
             "bbox": [
-                577,
-                511,
-                599,
-                521
+                611,
+                402,
+                627,
+                407
             ]
         },
         {
-            "text": "280.00",
+            "text": "00",
             "id": 8,
             "bbox": [
-                642,
-                511,
-                688,
-                521
+                629,
+                403,
+                637,
+                407
             ]
         },
         {
-            "text": "VAT",
+            "text": "M4201",
             "id": 9,
             "bbox": [
-                353,
-                402,
-                377,
+                105,
+                406,
+                133,
                 413
             ]
         },
         {
-            "text": "QTY",
+            "text": "COLL.",
             "id": 10,
             "bbox": [
-                426,
-                403,
-                449,
-                414
+                144,
+                407,
+                165,
+                412
             ]
         },
         {
-            "text": "PRICE",
+            "text": "LOUTGR",
             "id": 11,
             "bbox": [
-                492,
-                402,
-                531,
+                168,
+                405,
+                196,
                 412
             ]
         },
         {
-            "text": "DISC",
+            "text": "OR",
             "id": 12,
             "bbox": [
-                574,
-                403,
-                605,
-                412
+                202,
+                407,
+                210,
+                411
             ]
         },
         {
-            "text": "AMOUNT",
+            "text": "FAGILION",
             "id": 13,
             "bbox": [
-                646,
-                403,
-                694,
-                413
+                107,
+                416,
+                139,
+                421
+            ]
+        },
+        {
+            "text": "JDntay",
+            "id": 14,
+            "bbox": [
+                145,
+                416,
+                177,
+                421
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "S2071000500012U-XZKB-XG39:",
-                "SHZ.XG39:40:S-ARISSA",
-                "SPR",
-                "054824899270",
-                "50",
-                "410.00",
-                "328",
-                "280.00"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "heading",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "VAT",
-                "QTY",
-                "PRICE",
-                "DISC",
-                "AMOUNT"
+                "M4201",
+                "COLL.",
+                "LOUTGR",
+                "OR",
+                "FAGILION",
+                "JDntay"
             ],
             "value_id": [
                 9,
                 10,
                 11,
                 12,
-                13
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14125"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0/07/2030"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,900.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "N",
+                "ON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,",
+                "0.",
+                "00"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
             ]
         }
     ],

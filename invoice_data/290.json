@@ -1,109 +1,262 @@
 {
     "text_boxes": [
         {
-            "text": "SOOTHING",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                242,
-                584,
-                306,
-                595
+                356,
+                271,
+                389,
+                281
             ]
         },
         {
-            "text": "SOUNDS",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                311,
-                583,
-                360,
-                594
+                393,
+                269,
+                448,
+                282
             ]
         },
         {
-            "text": "PLUSHBUNNY",
+            "text": "MAILETEAan",
             "id": 3,
             "bbox": [
-                366,
-                583,
-                447,
-                595
+                378,
+                281,
+                424,
+                288
             ]
         },
         {
-            "text": "(5%",
+            "text": "09/07/2020",
             "id": 4,
             "bbox": [
-                242,
-                618,
-                266,
-                632
+                534,
+                452,
+                588,
+                459
             ]
         },
         {
-            "text": "VAT)",
+            "text": "15",
             "id": 5,
             "bbox": [
-                273,
-                618,
-                303,
-                631
+                607,
+                453,
+                619,
+                458
             ]
         },
         {
-            "text": "PH565384",
+            "text": "00",
             "id": 6,
             "bbox": [
-                242,
-                635,
-                298,
-                647
+                623,
+                453,
+                632,
+                458
             ]
         },
         {
-            "text": "1.0",
+            "text": "11,000.00",
             "id": 7,
             "bbox": [
-                441,
-                636,
-                454,
-                647
+                661,
+                656,
+                710,
+                662
             ]
         },
         {
-            "text": "17500",
+            "text": "11,000.00",
             "id": 8,
             "bbox": [
-                509,
-                636,
-                544,
-                647
+                654,
+                522,
+                703,
+                530
+            ]
+        },
+        {
+            "text": "M45428",
+            "id": 9,
+            "bbox": [
+                75,
+                517,
+                108,
+                524
+            ]
+        },
+        {
+            "text": "EESP.",
+            "id": 10,
+            "bbox": [
+                121,
+                519,
+                147,
+                524
+            ]
+        },
+        {
+            "text": "50",
+            "id": 11,
+            "bbox": [
+                150,
+                520,
+                160,
+                525
+            ]
+        },
+        {
+            "text": "BA.",
+            "id": 12,
+            "bbox": [
+                167,
+                520,
+                181,
+                525
+            ]
+        },
+        {
+            "text": "MNG",
+            "id": 13,
+            "bbox": [
+                184,
+                520,
+                200,
+                525
+            ]
+        },
+        {
+            "text": "CLOUDS",
+            "id": 14,
+            "bbox": [
+                207,
+                519,
+                240,
+                528
+            ]
+        },
+        {
+            "text": "BL.",
+            "id": 15,
+            "bbox": [
+                247,
+                521,
+                261,
+                526
+            ]
+        },
+        {
+            "text": "SOFT",
+            "id": 16,
+            "bbox": [
+                74,
+                528,
+                96,
+                533
+            ]
+        },
+        {
+            "text": "LUGGAGE",
+            "id": 17,
+            "bbox": [
+                104,
+                528,
+                142,
+                534
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SOOTHING",
-                "SOUNDS",
-                "PLUSHBUNNY",
-                "(5%",
-                "VAT)",
-                "PH565384",
-                "1.0",
-                "17500"
+                "M45428",
+                "EESP.",
+                "50",
+                "BA.",
+                "MNG",
+                "CLOUDS",
+                "BL.",
+                "SOFT",
+                "LUGGAGE"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15",
+                "00"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "09/07/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11,000.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MAILETEAan"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11,000.00"
+            ],
+            "value_id": [
                 8
             ]
         }

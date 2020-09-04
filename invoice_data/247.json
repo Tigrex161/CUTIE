@@ -1,167 +1,143 @@
 {
     "text_boxes": [
         {
-            "text": "VAT",
+            "text": "Scentitude",
             "id": 1,
             "bbox": [
-                348,
-                503,
-                362,
-                510
+                333,
+                163,
+                402,
+                176
             ]
         },
         {
-            "text": "PRICE",
+            "text": "05/07/20",
             "id": 2,
             "bbox": [
-                440,
-                501,
-                465,
-                508
+                299,
+                484,
+                343,
+                493
             ]
         },
         {
-            "text": "DIIC",
+            "text": "20:52",
             "id": 3,
             "bbox": [
-                494,
-                498,
-                515,
-                508
+                350,
+                485,
+                377,
+                491
             ]
         },
         {
-            "text": "AHOUNT",
+            "text": "B50",
             "id": 4,
             "bbox": [
-                544,
-                500,
-                576,
-                507
-            ]
-        },
-        {
-            "text": "HIUW",
-            "id": 5,
-            "bbox": [
-                150,
-                552,
-                172,
-                562
-            ]
-        },
-        {
-            "text": "SOSIHIU",
-            "id": 6,
-            "bbox": [
-                181,
-                552,
-                232,
-                564
-            ]
-        },
-        {
-            "text": "HIU",
-            "id": 7,
-            "bbox": [
-                233,
-                555,
-                248,
-                562
-            ]
-        },
-        {
-            "text": "MHB",
-            "id": 8,
-            "bbox": [
-                255,
-                555,
-                287,
-                562
-            ]
-        },
-        {
-            "text": "SISI",
-            "id": 9,
-            "bbox": [
-                295,
-                554,
-                328,
-                564
-            ]
-        },
-        {
-            "text": "2,040,",
-            "id": 10,
-            "bbox": [
-                429,
-                570,
-                458,
-                580
+                437,
+                621,
+                452,
+                626
             ]
         },
         {
             "text": "00",
-            "id": 11,
+            "id": 5,
             "bbox": [
-                461,
-                571,
-                471,
-                578
+                459,
+                621,
+                468,
+                626
             ]
         },
         {
-            "text": "2,040.00",
-            "id": 12,
+            "text": "U50.00",
+            "id": 6,
             "bbox": [
-                534,
-                571,
-                576,
-                579
+                440,
+                578,
+                471,
+                584
+            ]
+        },
+        {
+            "text": "3770010279on2",
+            "id": 7,
+            "bbox": [
+                260,
+                577,
+                332,
+                586
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "HIUW",
-                "SOSIHIU",
-                "HIU",
-                "MHB",
-                "SISI",
-                "2,040,",
-                "00",
-                "2,040.00"
+                "3770010279on2"
             ],
             "value_id": [
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
+                7
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VAT",
-                "PRICE",
-                "DIIC",
-                "AHOUNT"
+                "20:52"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "05/07/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "B50",
+                "00"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Scentitude"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "U50.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

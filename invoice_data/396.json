@@ -1,167 +1,200 @@
 {
     "text_boxes": [
         {
-            "text": "Tea",
+            "text": "July",
             "id": 1,
             "bbox": [
-                172,
-                822,
-                201,
-                835
+                390,
+                314,
+                406,
+                322
             ]
         },
         {
-            "text": "to",
+            "text": "11,",
             "id": 2,
             "bbox": [
-                208,
-                823,
-                224,
-                835
+                412,
+                313,
+                424,
+                321
             ]
         },
         {
-            "text": "tan",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                231,
-                823,
-                258,
-                835
+                430,
+                312,
+                451,
+                320
             ]
         },
         {
-            "text": "face",
+            "text": "17:07",
             "id": 4,
             "bbox": [
-                264,
-                821,
-                301,
-                835
+                460,
+                313,
+                485,
+                321
             ]
         },
         {
-            "text": "and",
+            "text": "3,750.00",
             "id": 5,
             "bbox": [
-                308,
-                820,
-                339,
-                834
+                501,
+                603,
+                546,
+                612
             ]
         },
         {
-            "text": "body",
+            "text": "3,750.00",
             "id": 6,
             "bbox": [
-                345,
-                820,
-                389,
-                836
-            ]
-        },
-        {
-            "text": "Summer",
-            "id": 7,
-            "bbox": [
-                172,
-                844,
-                245,
-                861
-            ]
-        },
-        {
-            "text": "Bronze",
-            "id": 8,
-            "bbox": [
-                252,
-                844,
-                313,
-                860
+                564,
+                462,
+                605,
+                473
             ]
         },
         {
             "text": "1",
+            "id": 7,
+            "bbox": [
+                365,
+                468,
+                368,
+                474
+            ]
+        },
+        {
+            "text": "LEATHER",
+            "id": 8,
+            "bbox": [
+                128,
+                468,
+                175,
+                474
+            ]
+        },
+        {
+            "text": "WOMAN",
             "id": 9,
             "bbox": [
-                440,
-                833,
-                446,
-                845
+                180,
+                468,
+                220,
+                474
             ]
         },
         {
-            "text": "AED309.00",
+            "text": "BELT",
             "id": 10,
             "bbox": [
-                465,
-                829,
-                559,
-                845
+                226,
+                468,
+                250,
+                474
             ]
         },
         {
-            "text": "Item",
+            "text": "AA6893B0366494305",
             "id": 11,
             "bbox": [
-                174,
-                793,
-                210,
-                807
-            ]
-        },
-        {
-            "text": "Price",
-            "id": 12,
-            "bbox": [
-                513,
-                790,
-                559,
-                805
+                128,
+                482,
+                230,
+                489
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Tea",
-                "to",
-                "tan",
-                "face",
-                "and",
-                "body",
-                "Summer",
-                "Bronze",
-                "1",
-                "AED309.00"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LEATHER",
+                "WOMAN",
+                "BELT"
+            ],
+            "value_id": [
                 8,
                 9,
                 10
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Item",
-                "Price"
+                "17:07"
             ],
             "value_id": [
-                11,
-                12
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "11,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,750.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AA6893B0366494305"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,750.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

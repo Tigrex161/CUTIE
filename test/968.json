@@ -1,0 +1,126 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZARA",
+            "id": 1,
+            "bbox": [
+                295,
+                125,
+                378,
+                155
+            ]
+        },
+        {
+            "text": "105",
+            "id": 2,
+            "bbox": [
+                398,
+                328,
+                410,
+                334
+            ]
+        },
+        {
+            "text": "199",
+            "id": 3,
+            "bbox": [
+                398,
+                241,
+                411,
+                247
+            ]
+        },
+        {
+            "text": "ON741230RO002",
+            "id": 4,
+            "bbox": [
+                281,
+                252,
+                345,
+                259
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 5,
+            "bbox": [
+                357,
+                252,
+                380,
+                258
+            ]
+        },
+        {
+            "text": "100011A",
+            "id": 6,
+            "bbox": [
+                232,
+                253,
+                269,
+                259
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ON741230RO002",
+                "DRESS"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100011A"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "199"
+            ],
+            "value_id": [
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/968.jpg"
+    }
+}

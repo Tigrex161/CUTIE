@@ -1,215 +1,233 @@
 {
     "text_boxes": [
         {
-            "text": "LVNWN",
+            "text": "ZRA",
             "id": 1,
             "bbox": [
-                89,
-                418,
-                127,
-                426
+                361,
+                99,
+                467,
+                149
             ]
         },
         {
-            "text": "BAG:LOUIS",
+            "text": "24-06-",
             "id": 2,
             "bbox": [
-                137,
-                418,
-                209,
-                426
+                286,
+                324,
+                321,
+                332
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                218,
-                418,
-                275,
-                427
+                324,
+                322,
+                348,
+                333
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "18:02",
             "id": 4,
             "bbox": [
-                284,
-                418,
-                331,
-                427
+                358,
+                323,
+                387,
+                334
             ]
         },
         {
-            "text": "BAGSI",
+            "text": "89",
             "id": 5,
             "bbox": [
-                342,
-                415,
-                388,
-                429
+                504,
+                391,
+                514,
+                399
             ]
         },
         {
-            "text": "uis",
+            "text": "1",
             "id": 6,
             "bbox": [
-                465,
-                418,
-                503,
-                429
+                366,
+                427,
+                369,
+                434
             ]
         },
         {
-            "text": "0632111008351108032",
+            "text": "0686145080040",
             "id": 7,
             "bbox": [
-                89,
-                443,
-                242,
-                455
+                352,
+                408,
+                432,
+                419
             ]
         },
         {
-            "text": "51",
+            "text": "TROUSERS",
             "id": 8,
             "bbox": [
-                382,
-                444,
-                395,
-                454
+                447,
+                409,
+                495,
+                416
             ]
         },
         {
-            "text": "2,230.00",
+            "text": "0070641880004",
             "id": 9,
             "bbox": [
-                504,
-                440,
-                568,
-                455
-            ]
-        },
-        {
-            "text": "0%",
-            "id": 10,
-            "bbox": [
-                613,
-                441,
-                627,
-                451
-            ]
-        },
-        {
-            "text": "2,230.00",
-            "id": 11,
-            "bbox": [
-                664,
-                440,
-                729,
+                353,
+                442,
+                431,
                 452
             ]
         },
         {
-            "text": "VAT",
+            "text": "WIND-JACKET",
+            "id": 10,
+            "bbox": [
+                446,
+                441,
+                512,
+                451
+            ]
+        },
+        {
+            "text": "178",
+            "id": 11,
+            "bbox": [
+                493,
+                534,
+                508,
+                543
+            ]
+        },
+        {
+            "text": "10001508",
             "id": 12,
             "bbox": [
-                381,
-                338,
-                404,
-                347
+                290,
+                410,
+                337,
+                417
             ]
         },
         {
-            "text": "OTY",
+            "text": "10002538",
             "id": 13,
             "bbox": [
-                454,
-                335,
-                477,
-                347
-            ]
-        },
-        {
-            "text": "PRICE",
-            "id": 14,
-            "bbox": [
-                520,
-                334,
-                560,
-                346
-            ]
-        },
-        {
-            "text": "DISC",
-            "id": 15,
-            "bbox": [
-                603,
-                333,
-                637,
-                343
-            ]
-        },
-        {
-            "text": "AMOUNT",
-            "id": 16,
-            "bbox": [
-                680,
-                331,
-                730,
-                341
+                292,
+                442,
+                338,
+                452
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LVNWN",
-                "BAG:LOUIS",
-                "VUITTON",
-                "WOMENS",
-                "BAGSI",
-                "uis",
-                "0632111008351108032",
-                "51",
-                "2,230.00",
-                "0%",
-                "2,230.00"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0686145080040",
+                "TROUSERS",
+                "0070641880004",
+                "WIND-JACKET"
+            ],
+            "value_id": [
                 7,
                 8,
                 9,
-                10,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:02"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24-06-",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "178"
+            ],
+            "value_id": [
                 11
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VAT",
-                "OTY",
-                "PRICE",
-                "DISC",
-                "AMOUNT"
+                "ZRA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001508",
+                "10002538"
             ],
             "value_id": [
                 12,
-                13,
-                14,
-                15,
-                16
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "89"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

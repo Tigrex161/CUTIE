@@ -1,107 +1,209 @@
 {
     "text_boxes": [
         {
-            "text": "Qty",
+            "text": "DHAMANI",
             "id": 1,
             "bbox": [
-                296,
-                373,
-                316,
-                384
+                326,
+                274,
+                478,
+                293
             ]
         },
         {
-            "text": "Pr\u00edce",
+            "text": "1969",
             "id": 2,
             "bbox": [
-                337,
-                371,
-                373,
-                385
+                387,
+                305,
+                417,
+                314
             ]
         },
         {
-            "text": "Disc",
+            "text": "29/06/2020",
             "id": 3,
             "bbox": [
-                388,
-                367,
-                429,
-                385
+                209,
+                365,
+                267,
+                376
             ]
         },
         {
-            "text": "Amount",
+            "text": "9,530.00",
             "id": 4,
             "bbox": [
-                431,
-                366,
-                471,
-                383
+                662,
+                778,
+                698,
+                788
             ]
         },
         {
-            "text": "Product",
+            "text": "1.00",
             "id": 5,
             "bbox": [
-                181,
-                373,
-                232,
-                384
+                500,
+                780,
+                516,
+                787
             ]
         },
         {
-            "text": "1",
+            "text": "9,530.00",
             "id": 6,
             "bbox": [
-                323,
-                411,
-                331,
-                426
+                658,
+                444,
+                695,
+                453
             ]
         },
         {
-            "text": "PELLICCIA",
+            "text": "1.00000",
             "id": 7,
             "bbox": [
-                183,
-                432,
-                233,
-                441
+                484,
+                447,
+                516,
+                455
+            ]
+        },
+        {
+            "text": "DIAMOND",
+            "id": 8,
+            "bbox": [
+                253,
+                449,
+                296,
+                456
+            ]
+        },
+        {
+            "text": "GOLD",
+            "id": 9,
+            "bbox": [
+                299,
+                449,
+                325,
+                456
+            ]
+        },
+        {
+            "text": "RING",
+            "id": 10,
+            "bbox": [
+                329,
+                449,
+                350,
+                455
+            ]
+        },
+        {
+            "text": "DSRC6511",
+            "id": 11,
+            "bbox": [
+                142,
+                449,
+                187,
+                456
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "PELLICCIA"
+                "1.00000"
             ],
             "value_id": [
-                6,
                 7
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Qty",
-                "Pr\u00edce",
-                "Disc",
-                "Amount",
-                "Product"
+                "DIAMOND",
+                "GOLD",
+                "RING"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "29/06/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9,530.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DHAMANI",
+                "1969"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DSRC6511"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9,530.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

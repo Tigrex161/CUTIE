@@ -1,119 +1,143 @@
 {
     "text_boxes": [
         {
-            "text": "FS",
+            "text": "abercrombie",
             "id": 1,
             "bbox": [
-                230,
-                490,
-                243,
-                500
+                348,
+                135,
+                680,
+                197
             ]
         },
         {
-            "text": "GRP",
+            "text": "KIDS",
             "id": 2,
             "bbox": [
-                250,
-                488,
-                270,
-                500
+                487,
+                213,
+                540,
+                231
             ]
         },
         {
-            "text": "AOP",
+            "text": "2020-07-25",
             "id": 3,
             "bbox": [
-                278,
-                487,
-                298,
-                499
+                438,
+                603,
+                554,
+                622
             ]
         },
         {
-            "text": "TEE",
+            "text": "17:09",
             "id": 4,
             "bbox": [
-                306,
-                487,
-                324,
-                498
+                571,
+                602,
+                627,
+                619
             ]
         },
         {
-            "text": "165.00",
+            "text": "125.00",
             "id": 5,
             "bbox": [
-                442,
-                483,
-                479,
-                494
+                656,
+                861,
+                725,
+                878
             ]
         },
         {
-            "text": "A",
+            "text": "125.00",
             "id": 6,
             "bbox": [
-                492,
-                483,
-                497,
-                492
+                579,
+                689,
+                646,
+                705
             ]
         },
         {
-            "text": "Description",
+            "text": "641461712",
             "id": 7,
             "bbox": [
-                230,
-                437,
-                304,
-                447
-            ]
-        },
-        {
-            "text": "Amount",
-            "id": 8,
-            "bbox": [
-                439,
-                432,
-                477,
-                440
+                269,
+                689,
+                374,
+                705
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FS",
-                "GRP",
-                "AOP",
-                "TEE",
-                "165.00",
-                "A"
+                "17:09"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6
+                4
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Description",
-                "Amount"
+                "2020-07-25"
             ],
             "value_id": [
-                7,
-                8
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "125.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "abercrombie",
+                "KIDS"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "641461712"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "125.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

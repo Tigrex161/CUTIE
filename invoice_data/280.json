@@ -1,108 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "GLOW",
+            "text": "DIAI",
             "id": 1,
             "bbox": [
-                248,
-                610,
-                280,
-                622
+                584,
+                210,
+                688,
+                223
             ]
         },
         {
-            "text": "AND",
+            "text": "03-Jul-2020",
             "id": 2,
             "bbox": [
-                289,
-                610,
-                312,
-                620
+                46,
+                544,
+                221,
+                571
             ]
         },
         {
-            "text": "RADIANCE",
+            "text": "3,150.00",
             "id": 3,
             "bbox": [
-                323,
-                607,
-                385,
-                620
+                568,
+                1290,
+                697,
+                1322
             ]
         },
         {
-            "text": "SET",
+            "text": "2",
             "id": 4,
             "bbox": [
-                249,
-                625,
-                269,
-                634
+                680,
+                1141,
+                693,
+                1161
             ]
         },
         {
-            "text": "1",
+            "text": "MOON",
             "id": 5,
             "bbox": [
-                265,
-                637,
-                293,
-                651
+                210,
+                1053,
+                273,
+                1079
             ]
         },
         {
-            "text": "D",
+            "text": "DUST",
             "id": 6,
             "bbox": [
-                290,
-                640,
-                298,
-                649
+                291,
+                1055,
+                351,
+                1083
             ]
         },
         {
-            "text": "AED609.45",
+            "text": "213422814",
             "id": 7,
             "bbox": [
-                307,
-                635,
-                379,
-                648
+                80,
+                982,
+                224,
+                1013
             ]
         },
         {
-            "text": "AED609.45",
+            "text": "213422995",
             "id": 8,
             "bbox": [
-                420,
-                632,
-                492,
-                642
+                81,
+                1080,
+                225,
+                1106
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GLOW",
-                "AND",
-                "RADIANCE",
-                "SET",
-                "1",
-                "D",
-                "AED609.45",
-                "AED609.45"
+                "MOON",
+                "DUST"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
                 5,
-                6,
+                6
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "03-Jul-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,150.00"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIAI"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "213422814",
+                "213422995"
+            ],
+            "value_id": [
                 7,
                 8
             ]

@@ -1,83 +1,164 @@
 {
     "text_boxes": [
         {
-            "text": "2",
+            "text": "Chlo\u00e9",
             "id": 1,
             "bbox": [
-                909,
-                119,
-                930,
-                130
+                292,
+                304,
+                799,
+                481
             ]
         },
         {
-            "text": "ATT",
+            "text": "07/03/2020",
             "id": 2,
             "bbox": [
-                909,
-                172,
-                930,
-                209
+                858,
+                593,
+                929,
+                607
             ]
         },
         {
-            "text": "295.24",
+            "text": "4,690.00",
             "id": 3,
             "bbox": [
-                907,
-                463,
-                934,
-                549
+                729,
+                1679,
+                789,
+                1695
             ]
         },
         {
-            "text": "ITEM",
+            "text": "4,590.00",
             "id": 4,
             "bbox": [
-                935,
-                200,
-                962,
-                248
+                928,
+                869,
+                983,
+                884
             ]
         },
         {
-            "text": "AMOUNT",
+            "text": "1",
             "id": 5,
             "bbox": [
-                935,
-                452,
-                965,
-                536
+                635,
+                872,
+                639,
+                882
+            ]
+        },
+        {
+            "text": "SHOULDER",
+            "id": 6,
+            "bbox": [
+                220,
+                872,
+                297,
+                882
+            ]
+        },
+        {
+            "text": "BAGS",
+            "id": 7,
+            "bbox": [
+                303,
+                872,
+                340,
+                883
+            ]
+        },
+        {
+            "text": "CHC20SS202H20",
+            "id": 8,
+            "bbox": [
+                72,
+                869,
+                193,
+                887
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2",
-                "ATT",
-                "295.24"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SHOULDER",
+                "BAGS"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/03/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,690.00"
+            ],
+            "value_id": [
                 3
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ITEM",
-                "AMOUNT"
+                "Chlo\u00e9"
             ],
             "value_id": [
-                4,
-                5
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHC20SS202H20"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,590.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

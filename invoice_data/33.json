@@ -1,272 +1,200 @@
 {
     "text_boxes": [
         {
-            "text": "ANKLE",
+            "text": "Jun,",
             "id": 1,
             "bbox": [
-                258,
-                579,
-                306,
-                590
+                452,
+                435,
+                469,
+                446
             ]
         },
         {
-            "text": "BOOTS",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                313,
-                579,
-                361,
-                590
+                480,
+                435,
+                499,
+                442
             ]
         },
         {
-            "text": "NO",
+            "text": "14:15",
             "id": 3,
             "bbox": [
-                368,
-                579,
-                388,
-                589
+                507,
+                434,
+                531,
+                442
             ]
         },
         {
-            "text": "57035922",
+            "text": "2,910.00",
             "id": 4,
             "bbox": [
-                394,
-                579,
-                456,
-                589
+                539,
+                613,
+                581,
+                621
             ]
         },
         {
-            "text": "37",
+            "text": "2,910.00",
             "id": 5,
             "bbox": [
-                463,
-                579,
-                477,
-                589
+                542,
+                551,
+                584,
+                559
             ]
         },
         {
-            "text": "99",
+            "text": "LOUIS",
             "id": 6,
             "bbox": [
-                483,
-                580,
-                498,
-                588
+                189,
+                540,
+                216,
+                552
             ]
         },
         {
-            "text": "144",
+            "text": "VUITTO",
             "id": 7,
             "bbox": [
-                333,
-                595,
-                351,
-                603
+                218,
+                538,
+                246,
+                550
             ]
         },
         {
-            "text": "1",
+            "text": "MONNS",
             "id": 8,
             "bbox": [
-                325,
-                614,
-                327,
-                624
+                255,
+                536,
+                282,
+                546
             ]
         },
         {
-            "text": "199",
+            "text": "SHORS",
             "id": 9,
             "bbox": [
-                360,
-                614,
-                380,
-                624
+                288,
+                534,
+                311,
+                543
             ]
         },
         {
-            "text": "199",
+            "text": "06321110083J116140",
             "id": 10,
             "bbox": [
-                477,
-                615,
-                498,
-                624
+                190,
+                551,
+                278,
+                568
             ]
         },
         {
-            "text": "VAT",
+            "text": "l",
             "id": 11,
             "bbox": [
-                313,
-                769,
-                343,
-                780
-            ]
-        },
-        {
-            "text": "VAT",
-            "id": 12,
-            "bbox": [
-                365,
-                770,
-                394,
-                781
-            ]
-        },
-        {
-            "text": "\u00b0o",
-            "id": 13,
-            "bbox": [
-                400,
-                767,
-                410,
-                783
-            ]
-        },
-        {
-            "text": "DESCRIP.",
-            "id": 14,
-            "bbox": [
-                430,
-                770,
-                496,
-                783
-            ]
-        },
-        {
-            "text": "TOTAL.",
-            "id": 15,
-            "bbox": [
-                343,
-                666,
-                388,
-                676
-            ]
-        },
-        {
-            "text": "199",
-            "id": 16,
-            "bbox": [
-                477,
-                667,
-                497,
-                677
-            ]
-        },
-        {
-            "text": "OUAN",
-            "id": 17,
-            "bbox": [
-                224,
-                525,
-                267,
-                536
-            ]
-        },
-        {
-            "text": "PRICE",
-            "id": 18,
-            "bbox": [
-                290,
-                524,
-                332,
-                535
-            ]
-        },
-        {
-            "text": "DCT",
-            "id": 19,
-            "bbox": [
-                338,
-                524,
+                360,
+                534,
                 381,
-                535
-            ]
-        },
-        {
-            "text": "TOTAL",
-            "id": 20,
-            "bbox": [
-                452,
-                522,
-                493,
-                536
+                541
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ANKLE",
-                "BOOTS",
-                "NO",
-                "57035922",
-                "37",
-                "99",
-                "144",
-                "1",
-                "199",
-                "199"
+                "LOUIS",
+                "VUITTO",
+                "MONNS",
+                "SHORS"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
                 6,
                 7,
                 8,
-                9,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:15"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jun,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,910.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "l"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "06321110083J116140"
+            ],
+            "value_id": [
                 10
             ]
         },
         {
-            "field_name": "otherLines",
+            "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VAT",
-                "VAT",
-                "\u00b0o",
-                "DESCRIP.",
-                "TOTAL.",
-                "199"
+                "2,910.00"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "heading",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "OUAN",
-                "PRICE",
-                "DCT",
-                "TOTAL"
-            ],
-            "value_id": [
-                17,
-                18,
-                19,
-                20
+                5
             ]
         }
     ],

@@ -1,206 +1,290 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "YSL",
             "id": 1,
             "bbox": [
-                233,
-                569,
-                244,
-                586
+                321,
+                397,
+                339,
+                410
             ]
         },
         {
-            "text": "Pain",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                245,
-                568,
-                271,
-                586
+                347,
+                395,
+                378,
+                411
             ]
         },
         {
-            "text": "Pardu",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                273,
-                568,
-                308,
-                583
+                388,
+                395,
+                412,
+                409
             ]
         },
         {
-            "text": "59.00",
+            "text": "22/7/20",
             "id": 4,
             "bbox": [
-                477,
-                564,
-                513,
-                580
+                378,
+                486,
+                421,
+                500
+            ]
+        },
+        {
+            "text": "14:14:49",
+            "id": 5,
+            "bbox": [
+                431,
+                485,
+                480,
+                499
+            ]
+        },
+        {
+            "text": "2,350.00",
+            "id": 6,
+            "bbox": [
+                497,
+                788,
+                545,
+                802
+            ]
+        },
+        {
+            "text": "2.350.00",
+            "id": 7,
+            "bbox": [
+                493,
+                671,
+                540,
+                682
             ]
         },
         {
             "text": "1",
-            "id": 5,
-            "bbox": [
-                225,
-                639,
-                228,
-                651
-            ]
-        },
-        {
-            "text": "Cafe",
-            "id": 6,
-            "bbox": [
-                238,
-                637,
-                264,
-                650
-            ]
-        },
-        {
-            "text": "Latte",
-            "id": 7,
-            "bbox": [
-                273,
-                637,
-                306,
-                650
-            ]
-        },
-        {
-            "text": "33.00",
             "id": 8,
             "bbox": [
-                480,
-                634,
-                515,
-                647
+                285,
+                675,
+                287,
+                685
             ]
         },
         {
-            "text": "Evian",
+            "text": "VOMEN'S",
             "id": 9,
             "bbox": [
-                236,
-                708,
-                270,
-                720
+                208,
+                692,
+                250,
+                705
             ]
         },
         {
-            "text": "Small",
+            "text": "SHOES",
             "id": 10,
             "bbox": [
-                279,
-                706,
-                312,
-                720
+                259,
+                694,
+                288,
+                704
             ]
         },
         {
-            "text": "Chantilly",
+            "text": "571952B8I00",
             "id": 11,
             "bbox": [
-                245,
-                616,
-                307,
-                633
+                302,
+                692,
+                368,
+                704
             ]
         },
         {
-            "text": "0.00",
+            "text": "-",
             "id": 12,
             "bbox": [
-                487,
-                615,
-                515,
-                628
+                377,
+                697,
+                380,
+                698
             ]
         },
         {
-            "text": "Fresh",
+            "text": "1000",
             "id": 13,
             "bbox": [
-                245,
-                689,
-                278,
+                390,
+                691,
+                411,
                 702
             ]
         },
         {
-            "text": "Full",
+            "text": "38",
             "id": 14,
             "bbox": [
-                287,
-                688,
-                312,
+                432,
+                691,
+                442,
                 701
             ]
         },
         {
-            "text": "Fat",
+            "text": "L",
             "id": 15,
             "bbox": [
-                323,
-                688,
-                342,
+                450,
+                692,
+                454,
                 701
             ]
         },
         {
-            "text": "0.00",
+            "text": "1",
             "id": 16,
             "bbox": [
-                488,
-                686,
-                517,
-                700
+                284,
+                794,
+                286,
+                804
+            ]
+        },
+        {
+            "text": "808737262",
+            "id": 17,
+            "bbox": [
+                209,
+                673,
+                264,
+                686
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "Pain",
-                "Pardu",
-                "59.00",
-                "1",
-                "Cafe",
-                "Latte",
-                "33.00",
-                "Evian",
-                "Small",
-                "Chantilly",
-                "0.00",
-                "Fresh",
-                "Full",
-                "Fat",
-                "0.00"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "VOMEN'S",
+                "SHOES",
+                "571952B8I00",
+                "-",
+                "1000",
+                "38",
+                "L"
+            ],
+            "value_id": [
                 9,
                 10,
                 11,
                 12,
                 13,
                 14,
-                15,
+                15
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
                 16
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:14:49"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22/7/20"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,350.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "YSL",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "808737262"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.350.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

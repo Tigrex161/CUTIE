@@ -1,178 +1,175 @@
 {
     "text_boxes": [
         {
-            "text": "I",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                165,
-                294,
-                170,
-                305
+                324,
+                322,
+                501,
+                348
             ]
         },
         {
-            "text": "TEM",
+            "text": "July",
             "id": 2,
             "bbox": [
-                172,
-                294,
-                180,
-                305
+                428,
+                393,
+                443,
+                400
             ]
         },
         {
-            "text": "Size",
+            "text": "05,",
             "id": 3,
             "bbox": [
-                267,
-                293,
-                286,
-                304
+                448,
+                392,
+                461,
+                400
             ]
         },
         {
-            "text": "OTV",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                310,
-                293,
-                323,
-                302
+                466,
+                392,
+                486,
+                398
             ]
         },
         {
-            "text": "PRICE",
+            "text": "18:55",
             "id": 5,
             "bbox": [
-                344,
-                293,
-                366,
-                301
+                495,
+                391,
+                519,
+                398
             ]
         },
         {
-            "text": "TOTAL",
+            "text": "1,470.00",
             "id": 6,
             "bbox": [
-                397,
-                292,
-                418,
-                301
+                604,
+                512,
+                644,
+                521
             ]
         },
         {
-            "text": "NOT93VFN-BOU",
+            "text": "EARRINGS",
             "id": 7,
             "bbox": [
-                161,
-                338,
-                218,
-                351
+                170,
+                523,
+                223,
+                529
             ]
         },
         {
-            "text": "NEVERO",
+            "text": "A88429Y0200323502",
             "id": 8,
             "bbox": [
-                161,
-                355,
-                189,
-                365
+                168,
+                534,
+                269,
+                541
             ]
         },
         {
-            "text": "DOWN",
+            "text": "1,470.00",
             "id": 9,
             "bbox": [
-                196,
-                356,
-                214,
-                364
-            ]
-        },
-        {
-            "text": "JACKET",
-            "id": 10,
-            "bbox": [
-                220,
-                354,
-                247,
-                364
-            ]
-        },
-        {
-            "text": "11",
-            "id": 11,
-            "bbox": [
-                315,
-                339,
-                319,
-                347
-            ]
-        },
-        {
-            "text": "845.00",
-            "id": 12,
-            "bbox": [
-                345,
-                338,
-                373,
-                347
-            ]
-        },
-        {
-            "text": "845.00",
-            "id": 13,
-            "bbox": [
-                392,
-                335,
-                421,
-                347
+                545,
+                640,
+                590,
+                650
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NOT93VFN-BOU",
-                "NEVERO",
-                "DOWN",
-                "JACKET",
-                "11",
-                "845.00",
-                "845.00"
+                "EARRINGS"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                7
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "I",
-                "TEM",
-                "Size",
-                "OTV",
-                "PRICE",
-                "TOTAL"
+                "18:55"
             ],
             "value_id": [
-                1,
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "05,",
+                "2020"
+            ],
+            "value_id": [
                 2,
                 3,
-                4,
-                5,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,470.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A88429Y0200323502"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,470.00"
+            ],
+            "value_id": [
                 6
             ]
         }

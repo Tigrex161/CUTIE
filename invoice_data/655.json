@@ -1,203 +1,323 @@
 {
     "text_boxes": [
         {
-            "text": "HAIR",
+            "text": "level",
             "id": 1,
             "bbox": [
-                224,
-                594,
-                250,
-                604
+                341,
+                270,
+                433,
+                328
             ]
         },
         {
-            "text": "MIST",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                258,
-                593,
-                283,
-                604
+                358,
+                338,
+                415,
+                349
+            ]
+        },
+        {
+            "text": "Jul,",
+            "id": 3,
+            "bbox": [
+                490,
+                470,
+                515,
+                480
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                527,
+                469,
+                554,
+                478
+            ]
+        },
+        {
+            "text": "15:27",
+            "id": 5,
+            "bbox": [
+                564,
+                468,
+                597,
+                478
             ]
         },
         {
             "text": "THE",
-            "id": 3,
-            "bbox": [
-                292,
-                591,
-                310,
-                602
-            ]
-        },
-        {
-            "text": "ONLY",
-            "id": 4,
-            "bbox": [
-                319,
-                591,
-                343,
-                602
-            ]
-        },
-        {
-            "text": "O",
-            "id": 5,
-            "bbox": [
-                352,
-                591,
-                357,
-                599
-            ]
-        },
-        {
-            "text": "4sku",
             "id": 6,
             "bbox": [
-                232,
-                611,
-                257,
-                621
+                104,
+                619,
+                125,
+                626
             ]
         },
         {
-            "text": "x",
+            "text": "SOLE",
             "id": 7,
             "bbox": [
-                266,
-                614,
-                270,
-                619
+                134,
+                618,
+                162,
+                627
             ]
         },
         {
-            "text": "900973086",
+            "text": "LOUNGE",
             "id": 8,
             "bbox": [
-                279,
-                608,
-                337,
-                619
+                172,
+                618,
+                215,
+                626
             ]
         },
         {
-            "text": "205",
+            "text": "PROFESSIONAL",
             "id": 9,
             "bbox": [
-                385,
-                588,
-                404,
-                599
+                224,
+                616,
+                310,
+                626
             ]
         },
         {
-            "text": "00",
+            "text": "FOOT",
             "id": 10,
             "bbox": [
-                412,
-                586,
-                424,
-                598
+                319,
+                617,
+                346,
+                625
             ]
         },
         {
-            "text": "820.00",
+            "text": "THERAPIES",
             "id": 11,
             "bbox": [
-                465,
-                582,
-                505,
-                595
+                354,
+                615,
+                417,
+                625
             ]
         },
         {
-            "text": "5%",
+            "text": ":",
             "id": 12,
             "bbox": [
-                412,
-                604,
-                424,
-                614
+                428,
+                615,
+                438,
+                626
             ]
         },
         {
-            "text": "Description",
+            "text": "MALE",
             "id": 13,
             "bbox": [
-                224,
-                543,
-                296,
-                555
+                440,
+                615,
+                467,
+                624
             ]
         },
         {
-            "text": "UP/TAX",
+            "text": "THE",
             "id": 14,
             "bbox": [
-                383,
-                538,
-                422,
-                549
+                107,
+                666,
+                128,
+                674
             ]
         },
         {
-            "text": "Amount/Disc",
+            "text": "SOLE",
             "id": 15,
             "bbox": [
-                430,
-                533,
-                502,
-                547
+                137,
+                665,
+                165,
+                674
+            ]
+        },
+        {
+            "text": "LOUNGE",
+            "id": 16,
+            "bbox": [
+                175,
+                664,
+                217,
+                673
+            ]
+        },
+        {
+            "text": "NAIL",
+            "id": 17,
+            "bbox": [
+                225,
+                665,
+                254,
+                673
+            ]
+        },
+        {
+            "text": "TREATMENTS:",
+            "id": 18,
+            "bbox": [
+                262,
+                663,
+                337,
+                672
+            ]
+        },
+        {
+            "text": "MALE",
+            "id": 19,
+            "bbox": [
+                348,
+                663,
+                375,
+                672
+            ]
+        },
+        {
+            "text": "550.00",
+            "id": 20,
+            "bbox": [
+                627,
+                633,
+                667,
+                646
+            ]
+        },
+        {
+            "text": "170.00",
+            "id": 21,
+            "bbox": [
+                625,
+                681,
+                665,
+                690
+            ]
+        },
+        {
+            "text": "720.00",
+            "id": 22,
+            "bbox": [
+                616,
+                770,
+                656,
+                781
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "HAIR",
-                "MIST",
                 "THE",
-                "ONLY",
-                "O",
-                "4sku",
-                "x",
-                "900973086",
-                "205",
-                "00",
-                "820.00",
-                "5%"
+                "SOLE",
+                "LOUNGE",
+                "PROFESSIONAL",
+                "FOOT",
+                "THERAPIES",
+                ":",
+                "MALE",
+                "THE",
+                "SOLE",
+                "LOUNGE",
+                "NAIL",
+                "TREATMENTS:",
+                "MALE"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
                 6,
                 7,
                 8,
                 9,
                 10,
                 11,
-                12
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Description",
-                "UP/TAX",
-                "Amount/Disc"
+                "15:27"
             ],
             "value_id": [
-                13,
-                14,
-                15
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "720.00"
+            ],
+            "value_id": [
+                22
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHOES"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "550.00",
+                "170.00"
+            ],
+            "value_id": [
+                20,
+                21
             ]
         }
     ],

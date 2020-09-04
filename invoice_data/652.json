@@ -1,167 +1,203 @@
 {
     "text_boxes": [
         {
-            "text": "FL1490020H080",
+            "text": "OPTIFASHION",
             "id": 1,
             "bbox": [
-                209,
-                549,
-                308,
-                562
+                231,
+                249,
+                378,
+                278
             ]
         },
         {
-            "text": "00",
+            "text": "THE",
             "id": 2,
             "bbox": [
-                429,
-                550,
-                442,
-                562
+                227,
+                276,
+                256,
+                293
             ]
         },
         {
-            "text": "066",
+            "text": "EYEWEAR",
             "id": 3,
             "bbox": [
-                404,
-                550,
-                424,
-                561
+                260,
+                278,
+                312,
+                288
             ]
         },
         {
-            "text": "1,990.00",
+            "text": "ROUTIQUE",
             "id": 4,
             "bbox": [
-                472,
-                550,
-                519,
-                563
+                323,
+                275,
+                378,
+                285
             ]
         },
         {
-            "text": "FLORIDA-1490-WHITE",
+            "text": "23/07/2020",
             "id": 5,
             "bbox": [
-                209,
-                574,
-                344,
-                592
+                357,
+                346,
+                405,
+                356
             ]
         },
         {
-            "text": "OSTRICH-8",
+            "text": "1.500,00",
             "id": 6,
             "bbox": [
-                363,
-                577,
-                419,
-                588
+                658,
+                535,
+                697,
+                543
             ]
         },
         {
-            "text": "S",
+            "text": "1.500.00",
             "id": 7,
             "bbox": [
-                184,
-                442,
-                199,
-                455
+                681,
+                452,
+                719,
+                462
             ]
         },
         {
-            "text": "PRODUCT",
+            "text": "SMON",
             "id": 8,
             "bbox": [
-                215,
-                444,
-                276,
-                456
+                369,
+                461,
+                398,
+                470
             ]
         },
         {
-            "text": "CODE",
+            "text": "719",
             "id": 9,
             "bbox": [
-                281,
-                445,
-                314,
-                456
+                403,
+                462,
+                417,
+                468
             ]
         },
         {
-            "text": "OTY",
+            "text": "52J",
             "id": 10,
             "bbox": [
-                371,
-                444,
-                394,
-                455
+                421,
+                461,
+                436,
+                469
             ]
         },
         {
-            "text": "RATE",
+            "text": "se",
             "id": 11,
             "bbox": [
-                420,
-                444,
-                451,
-                455
+                440,
+                461,
+                450,
+                468
             ]
         },
         {
-            "text": "AMOUNT",
+            "text": "664689934577",
             "id": 12,
             "bbox": [
-                472,
-                442,
-                527,
-                456
+                120,
+                465,
+                180,
+                477
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FL1490020H080",
-                "00",
-                "066",
-                "1,990.00",
-                "FLORIDA-1490-WHITE",
-                "OSTRICH-8"
+                "SMON",
+                "719",
+                "52J",
+                "se"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.500,00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "OPTIFASHION",
+                "THE",
+                "EYEWEAR",
+                "ROUTIQUE"
             ],
             "value_id": [
                 1,
                 2,
                 3,
-                4,
-                5,
-                6
+                4
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "S",
-                "PRODUCT",
-                "CODE",
-                "OTY",
-                "RATE",
-                "AMOUNT"
+                "664689934577"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11,
                 12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.500.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

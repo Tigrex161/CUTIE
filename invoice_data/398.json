@@ -1,134 +1,257 @@
 {
     "text_boxes": [
         {
-            "text": "2",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                187,
-                377,
-                197,
-                394
+                333,
+                302,
+                418,
+                326
             ]
         },
         {
-            "text": "ARABIAN",
+            "text": "KIDS",
             "id": 2,
             "bbox": [
-                211,
-                378,
-                303,
-                397
+                394,
+                333,
+                419,
+                341
             ]
         },
         {
-            "text": "COFFEE",
+            "text": "7/",
             "id": 3,
             "bbox": [
+                136,
                 312,
-                380,
-                397,
-                399
+                146,
+                322
             ]
         },
         {
-            "text": "DZ",
+            "text": "12/",
             "id": 4,
             "bbox": [
-                406,
-                382,
-                431,
-                399
+                147,
+                315,
+                157,
+                322
             ]
         },
         {
-            "text": "140.00",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                458,
-                381,
-                522,
-                399
+                160,
+                316,
+                179,
+                322
+            ]
+        },
+        {
+            "text": "1224:45",
+            "id": 6,
+            "bbox": [
+                187,
+                315,
+                219,
+                324
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                222,
+                316,
+                235,
+                323
+            ]
+        },
+        {
+            "text": "1290.00",
+            "id": 8,
+            "bbox": [
+                670,
+                605,
+                702,
+                612
+            ]
+        },
+        {
+            "text": "1228.57",
+            "id": 9,
+            "bbox": [
+                667,
+                540,
+                698,
+                548
             ]
         },
         {
             "text": "1",
-            "id": 6,
-            "bbox": [
-                187,
-                433,
-                193,
-                448
-            ]
-        },
-        {
-            "text": "ARABIAN",
-            "id": 7,
-            "bbox": [
-                210,
-                433,
-                302,
-                451
-            ]
-        },
-        {
-            "text": "COFFEE",
-            "id": 8,
-            "bbox": [
-                311,
-                434,
-                396,
-                453
-            ]
-        },
-        {
-            "text": "DZ",
-            "id": 9,
-            "bbox": [
-                405,
-                436,
-                431,
-                453
-            ]
-        },
-        {
-            "text": "70.00",
             "id": 10,
             "bbox": [
-                468,
-                436,
-                521,
-                454
+                515,
+                591,
+                518,
+                596
+            ]
+        },
+        {
+            "text": "BSNEAKER/CALF",
+            "id": 11,
+            "bbox": [
+                202,
+                543,
+                282,
+                551
+            ]
+        },
+        {
+            "text": "LEATHER+INS.CAL",
+            "id": 12,
+            "bbox": [
+                286,
+                543,
+                367,
+                551
+            ]
+        },
+        {
+            "text": "BLACK+BLACK",
+            "id": 13,
+            "bbox": [
+                377,
+                542,
+                440,
+                552
+            ]
+        },
+        {
+            "text": "TOBA",
+            "id": 14,
+            "bbox": [
+                442,
+                542,
+                462,
+                552
+            ]
+        },
+        {
+            "text": "751067",
+            "id": 15,
+            "bbox": [
+                34,
+                543,
+                62,
+                550
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2",
-                "ARABIAN",
-                "COFFEE",
-                "DZ",
-                "140.00",
-                "1",
-                "ARABIAN",
-                "COFFEE",
-                "DZ",
-                "70.00"
+                "BSNEAKER/CALF",
+                "LEATHER+INS.CAL",
+                "BLACK+BLACK",
+                "TOBA"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1224:45",
+                "PM"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/",
+                "12/",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1290.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "KIDS"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "751067"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1228.57"
+            ],
+            "value_id": [
+                9
             ]
         }
     ],

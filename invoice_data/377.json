@@ -1,160 +1,168 @@
 {
     "text_boxes": [
         {
-            "text": "95.00",
+            "text": "July,",
             "id": 1,
             "bbox": [
-                435,
-                498,
-                467,
-                509
+                565,
+                320,
+                598,
+                332
             ]
         },
         {
-            "text": "786478",
+            "text": "12",
             "id": 2,
             "bbox": [
-                148,
-                504,
-                193,
-                515
+                611,
+                320,
+                623,
+                328
             ]
         },
         {
-            "text": "BOTANICAL",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                268,
-                517,
-                346,
-                530
+                633,
+                318,
+                661,
+                328
             ]
         },
         {
-            "text": "NAPKINS",
+            "text": "15:52",
             "id": 4,
             "bbox": [
-                269,
-                534,
-                326,
-                545
+                670,
+                317,
+                704,
+                328
             ]
         },
         {
-            "text": "2PC",
+            "text": "1,200.00",
             "id": 5,
             "bbox": [
-                332,
-                532,
-                356,
-                543
+                650,
+                674,
+                708,
+                684
             ]
         },
         {
-            "text": "45X45CM",
+            "text": "1,200.00",
             "id": 6,
             "bbox": [
-                268,
-                549,
-                326,
-                560
+                648,
+                574,
+                707,
+                587
             ]
         },
         {
-            "text": "04STYO05652",
+            "text": "1.",
             "id": 7,
             "bbox": [
-                270,
-                563,
-                354,
-                574
+                465,
+                582,
+                469,
+                591
             ]
         },
         {
-            "text": "Item",
+            "text": "55691-615:TBH.",
             "id": 8,
             "bbox": [
-                146,
-                471,
-                172,
-                483
+                210,
+                560,
+                315,
+                571
             ]
         },
         {
-            "text": "4",
+            "text": "615:OS:",
             "id": 9,
             "bbox": [
-                176,
-                473,
-                187,
-                483
+                319,
+                557,
+                376,
+                570
             ]
         },
         {
-            "text": "Description",
+            "text": "PERRY",
             "id": 10,
             "bbox": [
-                266,
-                468,
-                340,
-                485
+                378,
+                556,
+                408,
+                569
             ]
         },
         {
-            "text": "as",
+            "text": "BOMBE",
             "id": 11,
             "bbox": [
-                345,
-                469,
-                370,
-                482
+                417,
+                558,
+                454,
+                568
             ]
         },
         {
-            "text": "Amount",
+            "text": "MINI",
             "id": 12,
             "bbox": [
-                398,
-                467,
-                447,
-                479
+                462,
+                556,
+                492,
+                566
+            ]
+        },
+        {
+            "text": "031625046363",
+            "id": 13,
+            "bbox": [
+                107,
+                561,
+                199,
+                573
+            ]
+        },
+        {
+            "text": "J",
+            "id": 14,
+            "bbox": [
+                584,
+                554,
+                610,
+                565
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "95.00",
-                "786478",
-                "BOTANICAL",
-                "NAPKINS",
-                "2PC",
-                "45X45CM",
-                "04STYO05652"
+                "1."
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
                 7
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Item",
-                "4",
-                "Description",
-                "as",
-                "Amount"
+                "55691-615:TBH.",
+                "615:OS:",
+                "PERRY",
+                "BOMBE",
+                "MINI"
             ],
             "value_id": [
                 8,
@@ -162,6 +170,76 @@
                 10,
                 11,
                 12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:52"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "12",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,200.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "J"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "031625046363"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,200.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

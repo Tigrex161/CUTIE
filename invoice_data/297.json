@@ -1,239 +1,212 @@
 {
     "text_boxes": [
         {
-            "text": "109.00",
+            "text": "Van",
             "id": 1,
             "bbox": [
-                413,
-                630,
-                477,
-                652
+                254,
+                345,
+                295,
+                361
             ]
         },
         {
-            "text": "CLASSES",
+            "text": "Cleef",
             "id": 2,
             "bbox": [
-                189,
-                656,
-                281,
-                675
+                305,
+                341,
+                367,
+                361
             ]
         },
         {
-            "text": "SHORTS",
+            "text": "&",
             "id": 3,
             "bbox": [
-                291,
-                658,
-                364,
-                676
+                375,
+                346,
+                389,
+                358
             ]
         },
         {
-            "text": "10\"",
+            "text": "Arpels",
             "id": 4,
             "bbox": [
-                375,
-                660,
-                402,
-                677
+                398,
+                338,
+                470,
+                363
             ]
         },
         {
-            "text": "A",
+            "text": "03/07/2020",
             "id": 5,
             "bbox": [
-                414,
-                658,
-                430,
-                679
+                131,
+                802,
+                171,
+                811
             ]
         },
         {
-            "text": "ttr:",
+            "text": "2",
             "id": 6,
             "bbox": [
-                432,
-                659,
-                459,
-                681
+                196,
+                801,
+                201,
+                811
             ]
         },
         {
-            "text": "01",
+            "text": "5250.00",
             "id": 7,
             "bbox": [
-                469,
-                661,
-                485,
-                678
+                620,
+                670,
+                645,
+                674
             ]
         },
         {
-            "text": "Size:L",
+            "text": "5.250.00",
             "id": 8,
             "bbox": [
-                505,
-                662,
-                563,
-                679
+                621,
+                631,
+                647,
+                636
             ]
         },
         {
-            "text": "109",
+            "text": "RALSWITT",
             "id": 9,
             "bbox": [
-                597,
-                633,
-                632,
-                653
+                137,
+                623,
+                170,
+                631
             ]
         },
         {
-            "text": "00",
+            "text": "ALHAPG",
             "id": 10,
             "bbox": [
-                636,
-                634,
-                660,
-                653
+                172,
+                622,
+                197,
+                630
             ]
         },
         {
-            "text": "hen",
+            "text": "CLOVCAN",
             "id": 11,
             "bbox": [
-                183,
-                593,
-                218,
-                613
+                198,
+                623,
+                225,
+                629
             ]
         },
         {
-            "text": "Stvle",
+            "text": "ARNSSKO0",
             "id": 12,
             "bbox": [
-                228,
-                595,
-                277,
-                616
-            ]
-        },
-        {
-            "text": "Q",
-            "id": 13,
-            "bbox": [
-                367,
-                597,
-                377,
-                620
-            ]
-        },
-        {
-            "text": "tv",
-            "id": 14,
-            "bbox": [
-                379,
-                597,
-                389,
-                620
-            ]
-        },
-        {
-            "text": "Price",
-            "id": 15,
-            "bbox": [
-                422,
-                599,
-                466,
-                616
-            ]
-        },
-        {
-            "text": "D",
-            "id": 16,
-            "bbox": [
-                499,
-                598,
-                512,
-                620
-            ]
-        },
-        {
-            "text": "isc.",
-            "id": 17,
-            "bbox": [
-                510,
-                601,
-                541,
-                618
-            ]
-        },
-        {
-            "text": "Total",
-            "id": 18,
-            "bbox": [
-                617,
-                601,
-                663,
-                618
+                172,
+                633,
+                207,
+                640
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "109.00",
-                "CLASSES",
-                "SHORTS",
-                "10\"",
-                "A",
-                "ttr:",
-                "01",
-                "Size:L",
-                "109",
-                "00"
+                "RALSWITT",
+                "ALHAPG",
+                "CLOVCAN"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "03/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5250.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
             ],
             "value_id": [
                 1,
                 2,
                 3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10
+                4
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "hen",
-                "Stvle",
-                "Q",
-                "tv",
-                "Price",
-                "D",
-                "isc.",
-                "Total"
+                "ARNSSKO0"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5.250.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

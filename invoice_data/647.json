@@ -1,131 +1,215 @@
 {
     "text_boxes": [
         {
-            "text": "Total",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                455,
-                632,
-                506,
-                645
+                714,
+                545,
+                751,
+                562
             ]
         },
         {
-            "text": "(Inc.VAT)",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                513,
-                626,
-                605,
-                645
+                765,
+                546,
+                806,
+                563
             ]
         },
         {
-            "text": "Qty",
+            "text": "22:20",
             "id": 3,
             "bbox": [
-                253,
-                644,
-                284,
-                659
+                816,
+                550,
+                868,
+                568
             ]
         },
         {
-            "text": "Description",
+            "text": "4,",
             "id": 4,
             "bbox": [
-                316,
-                639,
-                431,
-                655
+                834,
+                904,
+                854,
+                920
             ]
         },
         {
-            "text": "1",
+            "text": "750.00",
             "id": 5,
             "bbox": [
-                301,
-                719,
-                313,
-                734
+                855,
+                905,
+                913,
+                925
             ]
         },
         {
-            "text": "Mix",
+            "text": "4,750.00",
             "id": 6,
             "bbox": [
-                309,
-                721,
-                339,
-                732
+                859,
+                785,
+                938,
+                802
             ]
         },
         {
-            "text": "of",
+            "text": "SAINT",
             "id": 7,
             "bbox": [
-                352,
-                719,
-                371,
-                730
+                172,
+                711,
+                222,
+                727
             ]
         },
         {
-            "text": "Freshchoc",
+            "text": "LAURENT",
             "id": 8,
             "bbox": [
-                384,
-                713,
-                478,
-                729
+                233,
+                716,
+                302,
+                733
             ]
         },
         {
-            "text": "237.50",
+            "text": "WOMENS",
             "id": 9,
             "bbox": [
-                513,
-                710,
-                577,
-                723
+                313,
+                722,
+                373,
+                738
+            ]
+        },
+        {
+            "text": "i",
+            "id": 10,
+            "bbox": [
+                469,
+                730,
+                502,
+                748
+            ]
+        },
+        {
+            "text": "ouis",
+            "id": 11,
+            "bbox": [
+                506,
+                739,
+                551,
+                752
+            ]
+        },
+        {
+            "text": "l>",
+            "id": 12,
+            "bbox": [
+                563,
+                740,
+                605,
+                755
+            ]
+        },
+        {
+            "text": "Slaiis",
+            "id": 13,
+            "bbox": [
+                615,
+                740,
+                673,
+                754
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "Mix",
-                "of",
-                "Freshchoc",
-                "237.50"
+                "SAINT",
+                "LAURENT",
+                "WOMENS"
             ],
             "value_id": [
-                5,
-                6,
                 7,
                 8,
                 9
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Total",
-                "(Inc.VAT)",
-                "Qty",
-                "Description"
+                "22:20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,",
+                "750.00"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "i",
+                "ouis",
+                "l>",
+                "Slaiis"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,750.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

@@ -1,0 +1,318 @@
+{
+    "text_boxes": [
+        {
+            "text": "NIKE",
+            "id": 1,
+            "bbox": [
+                328,
+                185,
+                363,
+                195
+            ]
+        },
+        {
+            "text": "BEACON",
+            "id": 2,
+            "bbox": [
+                376,
+                186,
+                432,
+                197
+            ]
+        },
+        {
+            "text": "18/07/2020",
+            "id": 3,
+            "bbox": [
+                305,
+                266,
+                351,
+                275
+            ]
+        },
+        {
+            "text": "14:09",
+            "id": 4,
+            "bbox": [
+                305,
+                282,
+                327,
+                292
+            ]
+        },
+        {
+            "text": "138.00",
+            "id": 5,
+            "bbox": [
+                462,
+                731,
+                488,
+                741
+            ]
+        },
+        {
+            "text": "69.00",
+            "id": 6,
+            "bbox": [
+                459,
+                479,
+                483,
+                490
+            ]
+        },
+        {
+            "text": "89.00",
+            "id": 7,
+            "bbox": [
+                460,
+                543,
+                482,
+                551
+            ]
+        },
+        {
+            "text": "3PPK",
+            "id": 8,
+            "bbox": [
+                227,
+                492,
+                250,
+                503
+            ]
+        },
+        {
+            "text": "OMEN'S",
+            "id": 9,
+            "bbox": [
+                252,
+                492,
+                288,
+                504
+            ]
+        },
+        {
+            "text": "LIGHTUEIGHT",
+            "id": 10,
+            "bbox": [
+                291,
+                496,
+                341,
+                504
+            ]
+        },
+        {
+            "text": "TRAIN",
+            "id": 11,
+            "bbox": [
+                349,
+                495,
+                370,
+                504
+            ]
+        },
+        {
+            "text": "OMEN'S",
+            "id": 12,
+            "bbox": [
+                253,
+                558,
+                285,
+                567
+            ]
+        },
+        {
+            "text": "LIGHTWETGHT",
+            "id": 13,
+            "bbox": [
+                292,
+                559,
+                341,
+                567
+            ]
+        },
+        {
+            "text": "FOOTI",
+            "id": 14,
+            "bbox": [
+                348,
+                559,
+                369,
+                567
+            ]
+        },
+        {
+            "text": "2",
+            "id": 15,
+            "bbox": [
+                301,
+                639,
+                305,
+                647
+            ]
+        },
+        {
+            "text": "NKSX5277-010",
+            "id": 16,
+            "bbox": [
+                229,
+                479,
+                285,
+                487
+            ]
+        },
+        {
+            "text": "NKEX4363-101",
+            "id": 17,
+            "bbox": [
+                227,
+                542,
+                284,
+                552
+            ]
+        },
+        {
+            "text": "l",
+            "id": 18,
+            "bbox": [
+                235,
+                575,
+                241,
+                585
+            ]
+        },
+        {
+            "text": "vula",
+            "id": 19,
+            "bbox": [
+                251,
+                576,
+                269,
+                584
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3PPK",
+                "OMEN'S",
+                "LIGHTUEIGHT",
+                "TRAIN",
+                "OMEN'S",
+                "LIGHTWETGHT",
+                "FOOTI"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:09"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18/07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "138.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "l",
+                "vula"
+            ],
+            "value_id": [
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NIKE",
+                "BEACON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NKSX5277-010",
+                "NKEX4363-101"
+            ],
+            "value_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "69.00",
+                "89.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/707.jpg"
+    }
+}

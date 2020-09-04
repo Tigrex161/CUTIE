@@ -1,203 +1,245 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "FREDPERRY",
             "id": 1,
             "bbox": [
-                200,
-                471,
-                212,
-                487
+                331,
+                357,
+                436,
+                374
             ]
         },
         {
-            "text": "8868953321700",
+            "text": "3:46",
             "id": 2,
             "bbox": [
-                210,
-                472,
-                312,
-                487
+                350,
+                474,
+                397,
+                493
+            ]
+        },
+        {
+            "text": "478.00",
+            "id": 3,
+            "bbox": [
+                554,
+                848,
+                630,
+                870
+            ]
+        },
+        {
+            "text": "239",
+            "id": 4,
+            "bbox": [
+                596,
+                670,
+                632,
+                688
+            ]
+        },
+        {
+            "text": "239",
+            "id": 5,
+            "bbox": [
+                595,
+                720,
+                632,
+                739
             ]
         },
         {
             "text": "1",
-            "id": 3,
-            "bbox": [
-                322,
-                474,
-                325,
-                485
-            ]
-        },
-        {
-            "text": "339",
-            "id": 4,
-            "bbox": [
-                338,
-                471,
-                362,
-                487
-            ]
-        },
-        {
-            "text": "00",
-            "id": 5,
-            "bbox": [
-                364,
-                471,
-                384,
-                487
-            ]
-        },
-        {
-            "text": "0.00",
             "id": 6,
             "bbox": [
-                406,
-                473,
-                433,
-                484
+                384,
+                715,
+                396,
+                739
             ]
         },
         {
-            "text": "339.00",
+            "text": "POLO",
             "id": 7,
             "bbox": [
-                462,
-                473,
-                506,
-                484
+                233,
+                665,
+                280,
+                685
             ]
         },
         {
-            "text": "SF894S-FERRAGAMO",
+            "text": "FPS",
             "id": 8,
             "bbox": [
-                211,
-                505,
-                356,
-                518
+                295,
+                666,
+                329,
+                686
             ]
         },
         {
-            "text": "SUNGLASSES",
+            "text": "POL0",
             "id": 9,
             "bbox": [
-                361,
-                503,
-                454,
-                518
+                231,
+                713,
+                278,
+                734
             ]
         },
         {
-            "text": "SI#",
+            "text": "FPS",
             "id": 10,
             "bbox": [
-                189,
-                424,
-                209,
-                435
+                292,
+                715,
+                327,
+                735
             ]
         },
         {
-            "text": "Item",
+            "text": "A014772",
             "id": 11,
             "bbox": [
-                226,
-                423,
-                250,
-                435
+                136,
+                663,
+                219,
+                684
             ]
         },
         {
-            "text": "Qty",
+            "text": "A035652",
             "id": 12,
             "bbox": [
-                293,
-                425,
-                315,
-                440
+                132,
+                712,
+                217,
+                732
             ]
         },
         {
-            "text": "Rate",
+            "text": "\u0628\u0648\u0644\u0648",
             "id": 13,
             "bbox": [
-                331,
-                425,
-                359,
-                436
+                207,
+                693,
+                238,
+                710
             ]
         },
         {
-            "text": "Promotion",
+            "text": "\u0628\u0648\u0644\u0648",
             "id": 14,
             "bbox": [
-                375,
-                424,
-                438,
-                438
-            ]
-        },
-        {
-            "text": "Amount",
-            "id": 15,
-            "bbox": [
-                463,
-                426,
-                511,
-                437
+                203,
+                742,
+                235,
+                759
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "8868953321700",
-                "1",
-                "339",
-                "00",
-                "0.00",
-                "339.00",
-                "SF894S-FERRAGAMO",
-                "SUNGLASSES"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9
+                6
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SI#",
-                "Item",
-                "Qty",
-                "Rate",
-                "Promotion",
-                "Amount"
+                "POLO",
+                "FPS",
+                "POL0",
+                "FPS"
             ],
             "value_id": [
-                10,
-                11,
-                12,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3:46"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "478.00"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0628\u0648\u0644\u0648",
+                "\u0628\u0648\u0644\u0648"
+            ],
+            "value_id": [
                 13,
-                14,
-                15
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FREDPERRY"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A014772",
+                "A035652"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "239",
+                "239"
+            ],
+            "value_id": [
+                4,
+                5
             ]
         }
     ],

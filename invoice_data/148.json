@@ -1,238 +1,244 @@
 {
     "text_boxes": [
         {
-            "text": "VAT",
+            "text": "Rana",
             "id": 1,
             "bbox": [
-                364,
-                418,
-                383,
-                427
+                450,
+                158,
+                557,
+                212
             ]
         },
         {
-            "text": "OTY",
+            "text": "05-07-2020",
             "id": 2,
             "bbox": [
-                426,
-                415,
-                447,
-                426
+                628,
+                325,
+                688,
+                336
             ]
         },
         {
-            "text": "PRICE",
+            "text": "21:12:26",
             "id": 3,
             "bbox": [
-                485,
-                413,
-                518,
-                423
+                692,
+                325,
+                739,
+                336
             ]
         },
         {
-            "text": "DISC",
+            "text": "2,930.00",
             "id": 4,
             "bbox": [
-                554,
-                416,
-                580,
-                424
+                696,
+                504,
+                732,
+                511
             ]
         },
         {
-            "text": "AMOUNT",
+            "text": "2,930.00",
             "id": 5,
             "bbox": [
-                616,
-                417,
-                655,
-                425
+                692,
+                465,
+                728,
+                471
             ]
         },
         {
-            "text": "CHNWN_SHOE:",
+            "text": "1",
             "id": 6,
             "bbox": [
-                98,
-                484,
-                179,
-                497
+                514,
+                466,
+                517,
+                472
             ]
         },
         {
-            "text": "CHANEL",
+            "text": "SUMMER",
             "id": 7,
             "bbox": [
-                183,
-                486,
-                227,
-                495
+                224,
+                465,
+                266,
+                473
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "CHARMS",
             "id": 8,
             "bbox": [
-                235,
-                487,
-                278,
-                496
+                270,
+                465,
+                310,
+                474
             ]
         },
         {
-            "text": "SHOESI",
+            "text": "WALK",
             "id": 9,
             "bbox": [
-                287,
-                487,
-                326,
-                495
+                314,
+                466,
+                340,
+                473
             ]
         },
         {
-            "text": "L",
+            "text": "13",
             "id": 10,
             "bbox": [
-                355,
-                485,
-                361,
-                498
+                345,
+                466,
+                353,
+                473
             ]
         },
         {
-            "text": "ybl",
+            "text": "SUE.",
             "id": 11,
             "bbox": [
-                382,
-                486,
-                411,
-                498
+                357,
+                466,
+                378,
+                474
             ]
         },
         {
-            "text": "006611100802|",
+            "text": "H026,",
             "id": 12,
             "bbox": [
-                99,
-                508,
-                194,
-                519
+                382,
+                467,
+                406,
+                474
             ]
         },
         {
-            "text": "3572642688931",
+            "text": "40",
             "id": 13,
             "bbox": [
-                199,
-                509,
-                292,
-                520
+                410,
+                466,
+                419,
+                473
             ]
         },
         {
-            "text": "51",
+            "text": "1SC11FAES4441",
             "id": 14,
             "bbox": [
-                367,
-                511,
-                378,
-                519
-            ]
-        },
-        {
-            "text": "\u0969,",
-            "id": 15,
-            "bbox": [
-                474,
-                505,
-                484,
-                514
-            ]
-        },
-        {
-            "text": "080,00",
-            "id": 16,
-            "bbox": [
-                488,
-                505,
-                528,
-                516
-            ]
-        },
-        {
-            "text": "3,",
-            "id": 17,
-            "bbox": [
-                607,
-                507,
-                616,
-                516
-            ]
-        },
-        {
-            "text": "080.00",
-            "id": 18,
-            "bbox": [
-                620,
-                505,
-                660,
-                515
+                113,
+                465,
+                186,
+                472
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHNWN_SHOE:",
-                "CHANEL",
-                "WOMENS",
-                "SHOESI",
-                "L",
-                "ybl",
-                "006611100802|",
-                "3572642688931",
-                "51",
-                "\u0969,",
-                "080,00",
-                "3,",
-                "080.00"
+                "1"
             ],
             "value_id": [
-                6,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SUMMER",
+                "CHARMS",
+                "WALK",
+                "13",
+                "SUE.",
+                "H026,",
+                "40"
+            ],
+            "value_id": [
                 7,
                 8,
                 9,
                 10,
                 11,
                 12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
+                13
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VAT",
-                "OTY",
-                "PRICE",
-                "DISC",
-                "AMOUNT"
+                "21:12:26"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "05-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,930.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Rana"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1SC11FAES4441"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,930.00"
+            ],
+            "value_id": [
                 5
             ]
         }

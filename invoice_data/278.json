@@ -1,206 +1,212 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "ACQUA",
             "id": 1,
             "bbox": [
-                113,
-                539,
-                134,
-                570
+                375,
+                419,
+                427,
+                425
             ]
         },
         {
-            "text": "BABY",
+            "text": "orPAR",
             "id": 2,
             "bbox": [
-                140,
-                543,
-                193,
-                567
+                437,
+                419,
+                468,
+                428
             ]
         },
         {
-            "text": "DYNAMITE",
+            "text": "MA",
             "id": 3,
             "bbox": [
-                208,
-                545,
-                310,
-                569
+                477,
+                422,
+                496,
+                428
             ]
         },
         {
-            "text": "58.00",
+            "text": "02-Jul-2020",
             "id": 4,
             "bbox": [
-                552,
-                551,
-                615,
-                572
+                380,
+                521,
+                426,
+                531
             ]
         },
         {
-            "text": "2",
+            "text": "16:33",
             "id": 5,
             "bbox": [
-                112,
-                611,
-                123,
-                633
+                432,
+                522,
+                451,
+                530
             ]
         },
         {
-            "text": "SAFFRON",
+            "text": "00.00",
             "id": 6,
             "bbox": [
-                139,
-                610,
-                231,
-                633
+                486,
+                770,
+                510,
+                778
             ]
         },
         {
-            "text": "LATTE",
+            "text": "S06.00",
             "id": 7,
             "bbox": [
-                248,
-                610,
-                309,
-                632
+                504,
+                693,
+                527,
+                703
             ]
         },
         {
-            "text": "@",
+            "text": "81071:SIG.",
             "id": 8,
             "bbox": [
-                324,
-                611,
-                334,
-                631
+                298,
+                662,
+                337,
+                671
             ]
         },
         {
-            "text": "36.00",
+            "text": "AMBRA",
             "id": 9,
             "bbox": [
-                349,
-                611,
-                410,
-                632
+                344,
+                663,
+                364,
+                670
             ]
         },
         {
-            "text": "72.00",
+            "text": "EDP",
             "id": 10,
             "bbox": [
-                551,
-                614,
-                615,
-                637
+                369,
+                664,
+                380,
+                671
             ]
         },
         {
-            "text": "1",
+            "text": "1OOML",
             "id": 11,
             "bbox": [
-                114,
-                674,
-                135,
-                704
+                386,
+                664,
+                404,
+                671
             ]
         },
         {
-            "text": "CRISP",
+            "text": "000114503035",
             "id": 12,
             "bbox": [
-                137,
-                675,
-                203,
-                699
-            ]
-        },
-        {
-            "text": "&",
-            "id": 13,
-            "bbox": [
-                218,
-                676,
-                229,
-                697
-            ]
-        },
-        {
-            "text": "CHEWY",
-            "id": 14,
-            "bbox": [
-                245,
-                673,
-                308,
-                696
-            ]
-        },
-        {
-            "text": "WAFFLES",
-            "id": 15,
-            "bbox": [
-                323,
-                672,
-                409,
-                696
-            ]
-        },
-        {
-            "text": "48.00",
-            "id": 16,
-            "bbox": [
-                550,
-                676,
-                616,
-                704
+                298,
+                647,
+                347,
+                658
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "BABY",
-                "DYNAMITE",
-                "58.00",
-                "2",
-                "SAFFRON",
-                "LATTE",
-                "@",
-                "36.00",
-                "72.00",
-                "1",
-                "CRISP",
-                "&",
-                "CHEWY",
-                "WAFFLES",
-                "48.00"
+                "81071:SIG.",
+                "AMBRA",
+                "EDP",
+                "1OOML"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:33"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "02-Jul-2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "00.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ACQUA",
+                "orPAR",
+                "MA"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "000114503035"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "S06.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

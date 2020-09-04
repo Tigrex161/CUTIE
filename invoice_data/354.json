@@ -1,122 +1,197 @@
 {
     "text_boxes": [
         {
-            "text": "KCQ287WLL",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                32,
-                521,
-                117,
-                533
+                321,
+                250,
+                558,
+                306
             ]
         },
         {
-            "text": "S49K",
+            "text": "July",
             "id": 2,
             "bbox": [
-                153,
-                522,
-                186,
-                532
+                448,
+                375,
+                472,
+                389
             ]
         },
         {
-            "text": "/",
+            "text": "08,",
             "id": 3,
             "bbox": [
-                193,
-                520,
-                201,
-                535
+                476,
+                374,
+                495,
+                386
             ]
         },
         {
-            "text": "T365",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                201,
-                522,
-                231,
-                533
+                501,
+                371,
+                532,
+                384
             ]
         },
         {
-            "text": "TEDDY-D",
+            "text": "19:49",
             "id": 5,
             "bbox": [
-                238,
-                523,
-                303,
-                535
+                542,
+                369,
+                579,
+                381
             ]
         },
         {
-            "text": "MULE",
+            "text": "23,390.00",
             "id": 6,
             "bbox": [
-                309,
-                524,
-                372,
-                536
+                582,
+                765,
+                653,
+                776
             ]
         },
         {
-            "text": "I",
+            "text": "23,390.00",
             "id": 7,
             "bbox": [
-                374,
-                522,
-                377,
-                537
+                675,
+                575,
+                742,
+                591
             ]
         },
         {
-            "text": "3,600.00",
+            "text": "1",
             "id": 8,
             "bbox": [
-                491,
-                524,
-                546,
-                538
+                412,
+                584,
+                416,
+                592
             ]
         },
         {
-            "text": "3,600.00",
+            "text": "FLAPBAG",
             "id": 9,
             "bbox": [
-                621,
-                527,
-                676,
-                540
+                95,
+                578,
+                159,
+                588
+            ]
+        },
+        {
+            "text": "A01113Y04059N6515",
+            "id": 10,
+            "bbox": [
+                95,
+                596,
+                234,
+                610
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "KCQ287WLL",
-                "S49K",
-                "/",
-                "T365",
-                "TEDDY-D",
-                "MULE",
-                "I",
-                "3,600.00",
-                "3,600.00"
+                "1"
             ],
             "value_id": [
-                1,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FLAPBAG"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:49"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "08,",
+                "2020"
+            ],
+            "value_id": [
                 2,
                 3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23,390.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A01113Y04059N6515"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23,390.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

@@ -1,167 +1,170 @@
 {
     "text_boxes": [
         {
-            "text": "SWST",
+            "text": "118.00",
             "id": 1,
             "bbox": [
-                225,
-                534,
-                255,
-                543
+                543,
+                824,
+                585,
+                838
             ]
         },
         {
-            "text": "ZIPPER",
+            "text": "54.00",
             "id": 2,
             "bbox": [
-                265,
-                535,
-                310,
-                544
+                546,
+                671,
+                582,
+                685
             ]
         },
         {
-            "text": "SKU",
+            "text": "64.00",
             "id": 3,
             "bbox": [
-                319,
-                536,
-                340,
-                543
+                547,
+                720,
+                582,
+                733
             ]
         },
         {
-            "text": "290.00",
+            "text": "20",
             "id": 4,
             "bbox": [
-                411,
-                536,
-                454,
-                544
+                412,
+                670,
+                424,
+                684
             ]
         },
         {
-            "text": "290.00",
+            "text": "Uolluto",
             "id": 5,
             "bbox": [
-                502,
-                531,
-                546,
-                542
+                244,
+                670,
+                295,
+                684
             ]
         },
         {
-            "text": "1",
+            "text": "Freddo",
             "id": 6,
             "bbox": [
-                227,
-                551,
-                249,
-                563
+                244,
+                720,
+                287,
+                733
             ]
         },
         {
-            "text": "x",
+            "text": "Delicato",
             "id": 7,
             "bbox": [
-                249,
-                556,
-                255,
-                561
+                297,
+                719,
+                356,
+                733
             ]
         },
         {
-            "text": "900990756",
+            "text": "I",
             "id": 8,
             "bbox": [
-                265,
-                552,
-                333,
-                562
+                382,
+                719,
+                386,
+                732
             ]
         },
         {
-            "text": "54",
+            "text": "6743530",
             "id": 9,
             "bbox": [
-                442,
-                554,
-                454,
-                563
+                167,
+                670,
+                219,
+                684
             ]
         },
         {
-            "text": "Description",
+            "text": "6758230",
             "id": 10,
             "bbox": [
-                225,
-                478,
-                309,
-                490
-            ]
-        },
-        {
-            "text": "UP/TAX",
-            "id": 11,
-            "bbox": [
-                411,
-                477,
-                454,
-                490
-            ]
-        },
-        {
-            "text": "Amount/Disc",
-            "id": 12,
-            "bbox": [
-                464,
-                474,
-                546,
-                488
+                166,
+                720,
+                218,
+                734
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SWST",
-                "ZIPPER",
-                "SKU",
-                "290.00",
-                "290.00",
-                "1",
-                "x",
-                "900990756",
-                "54"
+                "20"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9
+                4
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Description",
-                "UP/TAX",
-                "Amount/Disc"
+                "Uolluto",
+                "Freddo",
+                "Delicato",
+                "I"
             ],
             "value_id": [
-                10,
-                11,
-                12
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "118.00"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6743530",
+                "6758230"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "54.00",
+                "64.00"
+            ],
+            "value_id": [
+                2,
+                3
             ]
         }
     ],

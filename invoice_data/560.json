@@ -1,119 +1,242 @@
 {
     "text_boxes": [
         {
-            "text": "Item",
+            "text": "level",
             "id": 1,
             "bbox": [
-                230,
-                577,
-                261,
-                590
+                377,
+                292,
+                442,
+                340
             ]
         },
         {
-            "text": "Rate",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                392,
-                573,
+                389,
+                348,
                 429,
-                588
+                356
             ]
         },
         {
-            "text": "Qty.",
+            "text": "Jul,",
             "id": 3,
             "bbox": [
-                450,
-                574,
-                483,
-                590
+                502,
+                479,
+                525,
+                488
             ]
         },
         {
-            "text": "Amount",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                505,
-                573,
-                568,
-                585
+                537,
+                478,
+                562,
+                486
             ]
         },
         {
-            "text": "550.00",
+            "text": "18:03",
             "id": 5,
             "bbox": [
-                377,
-                633,
-                419,
-                645
+                572,
+                476,
+                605,
+                487
             ]
         },
         {
-            "text": "1.00",
+            "text": "1,460.",
             "id": 6,
             "bbox": [
-                444,
-                633,
-                468,
-                644
+                610,
+                714,
+                647,
+                725
             ]
         },
         {
-            "text": "550.00",
+            "text": "00",
             "id": 7,
             "bbox": [
-                528,
-                628,
-                571,
-                641
+                651,
+                716,
+                663,
+                724
             ]
         },
         {
-            "text": "p.v.r",
+            "text": "1,460.00",
             "id": 8,
             "bbox": [
-                230,
-                637,
-                253,
-                649
+                616,
+                629,
+                668,
+                640
+            ]
+        },
+        {
+            "text": "1.",
+            "id": 9,
+            "bbox": [
+                452,
+                631,
+                461,
+                640
+            ]
+        },
+        {
+            "text": "coIV-CLR:",
+            "id": 10,
+            "bbox": [
+                165,
+                609,
+                221,
+                620
+            ]
+        },
+        {
+            "text": "CGI.CLR:38:ALIA",
+            "id": 11,
+            "bbox": [
+                223,
+                609,
+                317,
+                620
+            ]
+        },
+        {
+            "text": "266325049207",
+            "id": 12,
+            "bbox": [
+                158,
+                630,
+                234,
+                638
+            ]
+        },
+        {
+            "text": "i",
+            "id": 13,
+            "bbox": [
+                433,
+                609,
+                445,
+                620
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "550.00",
-                "1.00",
-                "550.00",
-                "p.v.r"
+                "1."
             ],
             "value_id": [
-                5,
-                6,
-                7,
-                8
+                9
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Item",
-                "Rate",
-                "Qty.",
-                "Amount"
+                "coIV-CLR:",
+                "CGI.CLR:38:ALIA"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:03"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,460.",
+                "00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "i"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHOES"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "266325049207"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,460.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

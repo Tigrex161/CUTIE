@@ -1,86 +1,212 @@
 {
     "text_boxes": [
         {
-            "text": "Risott",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                189,
-                724,
-                261,
-                746
+                456,
+                457,
+                490,
+                468
             ]
         },
         {
-            "text": "Spl",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                277,
-                724,
-                309,
-                748
+                493,
+                457,
+                510,
+                468
             ]
         },
         {
-            "text": "Chk",
+            "text": "19:39",
             "id": 3,
             "bbox": [
-                328,
-                723,
-                362,
-                745
+                520,
+                459,
+                548,
+                466
             ]
         },
         {
-            "text": "110.00",
+            "text": "2,",
             "id": 4,
             "bbox": [
-                529,
-                722,
-                600,
-                745
+                556,
+                674,
+                565,
+                683
             ]
         },
         {
-            "text": "Coke",
+            "text": "490.00",
             "id": 5,
             "bbox": [
-                188,
-                754,
-                236,
-                776
+                569,
+                674,
+                604,
+                683
             ]
         },
         {
-            "text": "23.00",
+            "text": "2,",
             "id": 6,
             "bbox": [
-                540,
-                754,
-                601,
-                774
+                560,
+                595,
+                571,
+                604
+            ]
+        },
+        {
+            "text": "490.00",
+            "id": 7,
+            "bbox": [
+                575,
+                595,
+                610,
+                604
+            ]
+        },
+        {
+            "text": "GIO86015RICHCH-ARGE:GRT",
+            "id": 8,
+            "bbox": [
+                140,
+                573,
+                275,
+                585
+            ]
+        },
+        {
+            "text": "ARGE:39:010860",
+            "id": 9,
+            "bbox": [
+                282,
+                574,
+                366,
+                584
+            ]
+        },
+        {
+            "text": "METAL",
+            "id": 10,
+            "bbox": [
+                372,
+                576,
+                402,
+                582
+            ]
+        },
+        {
+            "text": "04992s024316",
+            "id": 11,
+            "bbox": [
+                137,
+                593,
+                207,
+                604
+            ]
+        },
+        {
+            "text": "Ja",
+            "id": 12,
+            "bbox": [
+                526,
+                577,
+                549,
+                584
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Risott",
-                "Spl",
-                "Chk",
-                "110.00",
-                "Coke",
-                "23.00"
+                "GIO86015RICHCH-ARGE:GRT",
+                "ARGE:39:010860",
+                "METAL"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:39"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
             ],
             "value_id": [
                 1,
-                2,
-                3,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,",
+                "490.00"
+            ],
+            "value_id": [
                 4,
-                5,
-                6
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Ja"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "04992s024316"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,",
+                "490.00"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         }
     ],

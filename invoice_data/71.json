@@ -1,203 +1,191 @@
 {
     "text_boxes": [
         {
-            "text": "MEN",
+            "text": "July,",
             "id": 1,
             "bbox": [
-                207,
-                602,
-                227,
-                610
+                538,
+                470,
+                565,
+                482
             ]
         },
         {
-            "text": "WEAR",
+            "text": "05",
             "id": 2,
             "bbox": [
-                236,
-                602,
-                263,
-                610
+                576,
+                470,
+                588,
+                481
             ]
         },
         {
-            "text": "KENZO",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                274,
-                601,
-                309,
-                610
+                593,
+                471,
+                616,
+                480
             ]
         },
         {
-            "text": "SKU",
+            "text": "15:41",
             "id": 4,
             "bbox": [
-                319,
-                600,
-                338,
-                608
+                624,
+                470,
+                652,
+                480
             ]
         },
         {
-            "text": "250.",
+            "text": "1,",
             "id": 5,
             "bbox": [
-                381,
-                597,
-                414,
-                609
+                596,
+                749,
+                604,
+                756
             ]
         },
         {
-            "text": "00",
+            "text": "645.00",
             "id": 6,
             "bbox": [
-                416,
-                597,
-                427,
-                609
+                608,
+                747,
+                644,
+                756
             ]
         },
         {
-            "text": "250.00",
+            "text": "1,645,00",
             "id": 7,
             "bbox": [
-                472,
-                595,
-                514,
-                608
+                596,
+                669,
+                643,
+                677
             ]
         },
         {
-            "text": "1900901504",
+            "text": "CS1772AJ992BG234:",
             "id": 8,
             "bbox": [
-                216,
-                616,
-                308,
-                629
+                250,
+                648,
+                351,
+                660
             ]
         },
         {
-            "text": "54",
+            "text": "DGA,",
             "id": 9,
             "bbox": [
-                414,
-                617,
-                425,
-                626
+                353,
+                648,
+                373,
+                660
             ]
         },
         {
-            "text": "Numiber",
+            "text": "EG234:43:LOW-TOP",
             "id": 10,
             "bbox": [
-                251,
-                637,
-                294,
-                646
+                375,
+                648,
+                470,
+                660
             ]
         },
         {
-            "text": "of",
+            "text": "D09424838640",
             "id": 11,
             "bbox": [
-                304,
-                637,
-                316,
-                645
-            ]
-        },
-        {
-            "text": "Itemes",
-            "id": 12,
-            "bbox": [
-                326,
-                637,
-                365,
-                645
-            ]
-        },
-        {
-            "text": "Desaription",
-            "id": 13,
-            "bbox": [
-                207,
-                549,
-                286,
-                559
-            ]
-        },
-        {
-            "text": "UP/TAX",
-            "id": 14,
-            "bbox": [
-                384,
-                547,
-                425,
-                557
-            ]
-        },
-        {
-            "text": "Amount/Disa",
-            "id": 15,
-            "bbox": [
-                434,
-                546,
-                513,
-                556
+                161,
+                648,
+                238,
+                660
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MEN",
-                "WEAR",
-                "KENZO",
-                "SKU",
-                "250.",
-                "00",
-                "250.00",
-                "1900901504",
-                "54",
-                "Numiber",
-                "of",
-                "Itemes"
+                "CS1772AJ992BG234:",
+                "DGA,",
+                "EG234:43:LOW-TOP"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:41"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "05",
+                "2020"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
+                3
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Desaription",
-                "UP/TAX",
-                "Amount/Disa"
+                "1,",
+                "645.00"
             ],
             "value_id": [
-                13,
-                14,
-                15
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "D09424838640"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,645,00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

@@ -32,7 +32,7 @@ class DataLoader():
         self.encoding_factor = 1 # ensures the size (rows/cols) of grid table compat with the network
         
         # set number of classes in training data
-        self.classes = ['DontCare', 'lineItems', 'heading'] 
+        self.classes = ['DontCare', 'store_name', 'date', 'time', 'total', 'item_price', 'item_quantity', 'item_description', 'total_items', 'item_sku', 'arabic_description'] 
         
         self.doc_path = params.doc_path
         self.doc_test_path = params.test_path

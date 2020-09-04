@@ -1,134 +1,224 @@
 {
     "text_boxes": [
         {
-            "text": "Tarama",
+            "text": "MINUT",
             "id": 1,
             "bbox": [
-                222,
-                504,
-                279,
-                521
+                215,
+                226,
+                373,
+                251
             ]
         },
         {
-            "text": "35.00",
+            "text": "04/Jul/20",
             "id": 2,
             "bbox": [
-                498,
-                503,
-                546,
-                520
+                254,
+                413,
+                307,
+                427
             ]
         },
         {
-            "text": "2",
+            "text": "03:24",
             "id": 3,
             "bbox": [
-                202,
-                529,
-                209,
-                545
+                312,
+                414,
+                344,
+                426
             ]
         },
         {
-            "text": "Bread",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                221,
-                528,
-                269,
-                545
+                350,
+                415,
+                365,
+                424
             ]
         },
         {
-            "text": "&",
+            "text": "116.00",
             "id": 5,
             "bbox": [
-                281,
-                530,
-                289,
-                545
+                438,
+                714,
+                479,
+                726
             ]
         },
         {
-            "text": "0lives",
+            "text": "58,00",
             "id": 6,
             "bbox": [
-                301,
-                528,
-                358,
-                545
+                455,
+                555,
+                485,
+                565
             ]
         },
         {
-            "text": "Fish",
+            "text": "58.00",
             "id": 7,
             "bbox": [
-                222,
-                552,
-                259,
-                569
+                454,
+                569,
+                484,
+                582
             ]
         },
         {
-            "text": "Chick",
+            "text": "RENATA",
             "id": 8,
             "bbox": [
-                271,
-                577,
-                318,
-                593
+                231,
+                556,
+                275,
+                565
             ]
         },
         {
-            "text": "1",
+            "text": "RENATA",
             "id": 9,
             "bbox": [
-                204,
-                602,
-                207,
-                617
+                231,
+                573,
+                275,
+                583
             ]
         },
         {
-            "text": "11tr",
+            "text": "UL",
             "id": 10,
             "bbox": [
+                281,
+                556,
+                302,
+                567
+            ]
+        },
+        {
+            "text": "llas",
+            "id": 11,
+            "bbox": [
+                307,
+                556,
                 342,
-                601,
-                377,
-                617
+                567
+            ]
+        },
+        {
+            "text": "UL)",
+            "id": 12,
+            "bbox": [
+                281,
+                574,
+                302,
+                584
+            ]
+        },
+        {
+            "text": "lyta",
+            "id": 13,
+            "bbox": [
+                307,
+                572,
+                342,
+                584
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Tarama",
-                "35.00",
-                "2",
-                "Bread",
-                "&",
-                "0lives",
-                "Fish",
-                "Chick",
-                "1",
-                "11tr"
+                "RENATA",
+                "RENATA"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
                 8,
-                9,
-                10
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "03:24",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "04/Jul/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "116.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "UL",
+                "llas",
+                "UL)",
+                "lyta"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MINUT"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "58,00",
+                "58.00"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         }
     ],

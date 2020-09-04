@@ -1,239 +1,221 @@
 {
     "text_boxes": [
         {
-            "text": "X1269",
+            "text": "SYMPLIONY",
             "id": 1,
             "bbox": [
-                139,
-                720,
-                182,
-                733
+                295,
+                209,
+                529,
+                260
             ]
         },
         {
-            "text": "Green",
+            "text": "13/07/20",
             "id": 2,
             "bbox": [
-                306,
-                721,
-                344,
-                732
+                217,
+                393,
+                258,
+                404
             ]
         },
         {
-            "text": "36",
+            "text": "09:05:05",
             "id": 3,
             "bbox": [
-                379,
-                719,
-                402,
-                736
+                263,
+                392,
+                307,
+                402
             ]
         },
         {
-            "text": "1",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                448,
-                721,
-                450,
-                732
+                311,
+                391,
+                327,
+                400
             ]
         },
         {
-            "text": "115",
+            "text": "4340.00",
             "id": 5,
             "bbox": [
-                511,
-                721,
-                531,
-                732
+                700,
+                541,
+                745,
+                552
             ]
         },
         {
-            "text": "115",
+            "text": "4J40",
             "id": 6,
             "bbox": [
-                591,
-                722,
-                612,
-                733
+                707,
+                496,
+                730,
+                507
             ]
         },
         {
-            "text": "X1241",
+            "text": "00",
             "id": 7,
             "bbox": [
-                140,
-                761,
-                182,
-                772
+                735,
+                499,
+                746,
+                506
             ]
         },
         {
-            "text": "Silver",
+            "text": "1.",
             "id": 8,
             "bbox": [
-                308,
-                760,
-                345,
-                772
+                298,
+                493,
+                300,
+                500
             ]
         },
         {
-            "text": "37",
+            "text": "MATICEVSKI",
             "id": 9,
             "bbox": [
-                380,
-                760,
-                402,
-                777
+                100,
+                512,
+                157,
+                520
             ]
         },
         {
-            "text": "1",
+            "text": "BLUSH/10",
             "id": 10,
             "bbox": [
-                448,
-                762,
-                451,
-                773
+                161,
+                512,
+                207,
+                521
             ]
         },
         {
-            "text": "120",
+            "text": "Dresses",
             "id": 11,
             "bbox": [
-                510,
-                762,
-                532,
-                773
+                211,
+                513,
+                247,
+                522
             ]
         },
         {
-            "text": "120",
+            "text": "5699100630542",
             "id": 12,
             "bbox": [
-                592,
-                763,
-                613,
-                774
-            ]
-        },
-        {
-            "text": "PRICE",
-            "id": 13,
-            "bbox": [
-                495,
-                684,
-                545,
-                699
-            ]
-        },
-        {
-            "text": "TOTAL",
-            "id": 14,
-            "bbox": [
-                574,
-                684,
-                630,
-                699
-            ]
-        },
-        {
-            "text": "ITEM",
-            "id": 15,
-            "bbox": [
-                137,
-                674,
-                181,
-                689
-            ]
-        },
-        {
-            "text": "L",
-            "id": 16,
-            "bbox": [
-                189,
-                671,
-                209,
-                687
-            ]
-        },
-        {
-            "text": "Siz",
-            "id": 17,
-            "bbox": [
-                375,
-                673,
-                407,
-                691
-            ]
-        },
-        {
-            "text": "Color",
-            "id": 18,
-            "bbox": [
-                306,
-                686,
-                344,
-                697
+                102,
+                491,
+                170,
+                501
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "X1269",
-                "Green",
-                "36",
-                "1",
-                "115",
-                "115",
-                "X1241",
-                "Silver",
-                "37",
-                "1",
-                "120",
-                "120"
+                "1."
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MATICEVSKI",
+                "BLUSH/10",
+                "Dresses"
+            ],
+            "value_id": [
                 9,
                 10,
-                11,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "09:05:05",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13/07/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4340.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SYMPLIONY"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5699100630542"
+            ],
+            "value_id": [
                 12
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PRICE",
-                "TOTAL",
-                "ITEM",
-                "L",
-                "Siz",
-                "Color"
+                "4J40",
+                "00"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
+                6,
+                7
             ]
         }
     ],

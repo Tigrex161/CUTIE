@@ -1,93 +1,201 @@
 {
     "text_boxes": [
         {
-            "text": "Descript",
+            "text": "7:59:40",
             "id": 1,
             "bbox": [
-                219,
-                604,
-                284,
-                616
+                346,
+                354,
+                412,
+                368
             ]
         },
         {
-            "text": "ion",
+            "text": "169.00",
             "id": 2,
             "bbox": [
-                289,
-                606,
-                311,
-                613
+                510,
+                549,
+                566,
+                567
             ]
         },
         {
-            "text": "Amount",
+            "text": "139.00",
             "id": 3,
             "bbox": [
-                481,
-                606,
-                527,
+                511,
+                589,
+                568,
+                606
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 4,
+            "bbox": [
+                201,
+                559,
+                248,
+                575
+            ]
+        },
+        {
+            "text": "REGULAR",
+            "id": 5,
+            "bbox": [
+                261,
+                557,
+                328,
+                574
+            ]
+        },
+        {
+            "text": "FI",
+            "id": 6,
+            "bbox": [
+                340,
+                555,
+                358,
+                571
+            ]
+        },
+        {
+            "text": "2",
+            "id": 7,
+            "bbox": [
+                561,
+                649,
+                570,
+                663
+            ]
+        },
+        {
+            "text": "SLIM",
+            "id": 8,
+            "bbox": [
+                262,
+                597,
+                300,
                 613
             ]
         },
         {
-            "text": "Baccarat70",
-            "id": 4,
+            "text": "FIT",
+            "id": 9,
             "bbox": [
-                217,
-                669,
-                302,
-                678
+                311,
+                595,
+                338,
+                612
             ]
         },
         {
-            "text": "1,103.",
-            "id": 5,
+            "text": "213577865",
+            "id": 10,
             "bbox": [
-                476,
-                668,
-                520,
-                678
+                192,
+                577,
+                280,
+                596
             ]
         },
         {
-            "text": "00",
-            "id": 6,
+            "text": "213577850",
+            "id": 11,
             "bbox": [
-                526,
-                667,
-                540,
-                676
+                193,
+                617,
+                280,
+                635
+            ]
+        },
+        {
+            "text": "308.00",
+            "id": 12,
+            "bbox": [
+                515,
+                748,
+                573,
+                764
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Baccarat70",
-                "1,103.",
-                "00"
+                "SHIRT",
+                "REGULAR",
+                "FI",
+                "SLIM",
+                "FIT"
             ],
             "value_id": [
                 4,
                 5,
-                6
+                6,
+                8,
+                9
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Descript",
-                "ion",
-                "Amount"
+                "2"
             ],
             "value_id": [
-                1,
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7:59:40"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "308.00"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "213577865",
+                "213577850"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "169.00",
+                "139.00"
+            ],
+            "value_id": [
                 2,
                 3
             ]

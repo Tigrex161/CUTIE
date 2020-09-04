@@ -1,110 +1,179 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "BRANDS",
             "id": 1,
             "bbox": [
-                173,
-                851,
-                186,
-                873
+                236,
+                241,
+                326,
+                257
             ]
         },
         {
-            "text": "100",
+            "text": "FOR",
             "id": 2,
             "bbox": [
-                192,
-                852,
-                220,
-                874
+                336,
+                245,
+                379,
+                261
             ]
         },
         {
-            "text": "Dhm",
+            "text": "18A07/2020",
             "id": 3,
             "bbox": [
-                224,
-                853,
-                254,
-                871
+                290,
+                397,
+                363,
+                411
             ]
         },
         {
-            "text": "BOU",
+            "text": "17:31:45",
             "id": 4,
             "bbox": [
-                266,
-                854,
-                296,
-                871
+                371,
+                396,
+                428,
+                410
             ]
         },
         {
-            "text": "CARD",
+            "text": "111.00",
             "id": 5,
             "bbox": [
-                308,
-                855,
-                348,
-                874
+                473,
+                653,
+                518,
+                668
             ]
         },
         {
-            "text": "C",
+            "text": "111.00",
             "id": 6,
             "bbox": [
-                360,
-                856,
-                369,
-                873
+                497,
+                485,
+                539,
+                498
             ]
         },
         {
-            "text": "3928",
+            "text": "MACYS",
             "id": 7,
             "bbox": [
-                181,
-                878,
-                221,
-                895
+                223,
+                517,
+                275,
+                531
             ]
         },
         {
-            "text": "100.01",
+            "text": "EXCL",
             "id": 8,
             "bbox": [
-                468,
-                859,
-                523,
-                877
+                281,
+                520,
+                318,
+                534
+            ]
+        },
+        {
+            "text": "BEAR",
+            "id": 9,
+            "bbox": [
+                324,
+                521,
+                361,
+                535
+            ]
+        },
+        {
+            "text": "ROBE",
+            "id": 10,
+            "bbox": [
+                369,
+                520,
+                406,
+                534
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "100",
-                "Dhm",
-                "BOU",
-                "CARD",
-                "C",
-                "3928",
-                "100.01"
+                "MACYS",
+                "EXCL",
+                "BEAR",
+                "ROBE"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:31:45"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18A07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "111.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BRANDS",
+                "FOR"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "111.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

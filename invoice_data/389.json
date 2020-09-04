@@ -1,73 +1,190 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                226,
-                552,
-                245,
-                581
+                338,
+                209,
+                468,
+                247
             ]
         },
         {
-            "text": "ChewyMelt",
+            "text": "JOAILLIERS",
             "id": 2,
             "bbox": [
-                244,
-                557,
-                340,
-                580
+                366,
+                255,
+                443,
+                262
             ]
         },
         {
-            "text": "120",
+            "text": "05/07/2020",
             "id": 3,
             "bbox": [
-                357,
-                560,
-                386,
-                579
+                126,
+                727,
+                171,
+                735
             ]
         },
         {
-            "text": "BX",
+            "text": "12:09.24",
             "id": 4,
             "bbox": [
-                399,
-                560,
-                418,
-                578
+                175,
+                727,
+                208,
+                733
             ]
         },
         {
-            "text": "158.00",
+            "text": "L3001661",
             "id": 5,
             "bbox": [
+                196,
+                550,
+                231,
+                558
+            ]
+        },
+        {
+            "text": "Leather",
+            "id": 6,
+            "bbox": [
+                96,
                 544,
-                549,
-                608,
-                573
+                119,
+                548
+            ]
+        },
+        {
+            "text": "Goods",
+            "id": 7,
+            "bbox": [
+                123,
+                542,
+                141,
+                548
+            ]
+        },
+        {
+            "text": "CARD",
+            "id": 8,
+            "bbox": [
+                154,
+                541,
+                170,
+                546
+            ]
+        },
+        {
+            "text": "MUST",
+            "id": 9,
+            "bbox": [
+                200,
+                541,
+                217,
+                546
+            ]
+        },
+        {
+            "text": "NOK",
+            "id": 10,
+            "bbox": [
+                235,
+                541,
+                248,
+                546
+            ]
+        },
+        {
+            "text": "830.00",
+            "id": 11,
+            "bbox": [
+                689,
+                661,
+                716,
+                669
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "ChewyMelt",
-                "120",
-                "BX",
-                "158.00"
+                "Leather",
+                "Goods",
+                "CARD",
+                "MUST",
+                "NOK"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:09.24"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "05/07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "830.00"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Cartier",
+                "JOAILLIERS"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L3001661"
+            ],
+            "value_id": [
                 5
             ]
         }

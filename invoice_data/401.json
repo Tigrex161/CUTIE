@@ -1,193 +1,169 @@
 {
     "text_boxes": [
         {
-            "text": "46P446BRA",
+            "text": "Dior",
             "id": 1,
             "bbox": [
-                22,
-                504,
-                95,
-                516
+                182,
+                24,
+                479,
+                145
             ]
         },
         {
-            "text": "Double",
+            "text": "25-Jun-2020",
             "id": 2,
             "bbox": [
-                156,
-                505,
-                198,
-                517
+                242,
+                417,
+                341,
+                438
             ]
         },
         {
-            "text": "Bracelet",
+            "text": "19:52",
             "id": 3,
             "bbox": [
-                202,
-                505,
-                250,
-                517
+                353,
+                416,
+                396,
+                435
             ]
         },
         {
-            "text": "C3",
+            "text": "1,425.00",
             "id": 4,
             "bbox": [
-                255,
-                506,
-                270,
-                517
+                474,
+                965,
+                545,
+                986
             ]
         },
         {
-            "text": "35OR",
+            "text": "1,425.00",
             "id": 5,
             "bbox": [
-                276,
-                506,
-                308,
-                517
+                510,
+                787,
+                582,
+                804
             ]
         },
         {
-            "text": "1,500",
+            "text": "1",
             "id": 6,
             "bbox": [
-                486,
-                509,
-                517,
-                519
+                258,
+                783,
+                262,
+                799
             ]
         },
         {
-            "text": "1,500",
+            "text": "1",
             "id": 7,
             "bbox": [
-                676,
-                509,
-                708,
-                520
+                535,
+                848,
+                540,
+                864
             ]
         },
         {
-            "text": "Reference",
+            "text": "F090928009:CPCD",
             "id": 8,
             "bbox": [
-                30,
-                468,
-                91,
-                485
+                75,
+                724,
+                210,
+                742
             ]
         },
         {
-            "text": "Description",
+            "text": "OUD",
             "id": 9,
             "bbox": [
-                156,
-                473,
                 221,
-                488
+                723,
+                246,
+                739
             ]
         },
         {
-            "text": "Org.",
+            "text": "ISPAHAN",
             "id": 10,
             "bbox": [
-                437,
-                473,
-                459,
-                490
+                259,
+                722,
+                318,
+                739
             ]
         },
         {
-            "text": "Qty",
+            "text": "SPR",
             "id": 11,
             "bbox": [
-                557,
-                476,
-                576,
-                487
+                328,
+                723,
+                352,
+                739
             ]
         },
         {
-            "text": "s",
+            "text": "250ML",
             "id": 12,
             "bbox": [
-                587,
-                476,
-                606,
-                487
+                363,
+                723,
+                406,
+                740
             ]
         },
         {
-            "text": "Tot,",
+            "text": "INT12",
             "id": 13,
             "bbox": [
-                623,
-                476,
-                643,
-                486
+                419,
+                724,
+                460,
+                741
             ]
         },
         {
-            "text": "NET",
+            "text": "009111680226",
             "id": 14,
             "bbox": [
-                650,
-                476,
-                676,
-                486
-            ]
-        },
-        {
-            "text": "AED",
-            "id": 15,
-            "bbox": [
-                681,
-                476,
-                708,
-                487
+                75,
+                693,
+                182,
+                711
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "46P446BRA",
-                "Double",
-                "Bracelet",
-                "C3",
-                "35OR",
-                "1,500",
-                "1,500"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7
+                6
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Reference",
-                "Description",
-                "Org.",
-                "Qty",
-                "s",
-                "Tot,",
-                "NET",
-                "AED"
+                "F090928009:CPCD",
+                "OUD",
+                "ISPAHAN",
+                "SPR",
+                "250ML",
+                "INT12"
             ],
             "value_id": [
                 8,
@@ -195,9 +171,84 @@
                 10,
                 11,
                 12,
-                13,
-                14,
-                15
+                13
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:52"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25-Jun-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,425.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Dior"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "009111680226"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,425.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

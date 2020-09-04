@@ -1,0 +1,183 @@
+{
+    "text_boxes": [
+        {
+            "text": "Datei7",
+            "id": 1,
+            "bbox": [
+                460,
+                381,
+                491,
+                391
+            ]
+        },
+        {
+            "text": "Jul,",
+            "id": 2,
+            "bbox": [
+                499,
+                383,
+                518,
+                390
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                527,
+                384,
+                548,
+                392
+            ]
+        },
+        {
+            "text": "12118",
+            "id": 4,
+            "bbox": [
+                556,
+                384,
+                581,
+                393
+            ]
+        },
+        {
+            "text": "1,775.00",
+            "id": 5,
+            "bbox": [
+                592,
+                577,
+                636,
+                587
+            ]
+        },
+        {
+            "text": "1,775.00",
+            "id": 6,
+            "bbox": [
+                596,
+                508,
+                639,
+                516
+            ]
+        },
+        {
+            "text": "FENDI",
+            "id": 7,
+            "bbox": [
+                206,
+                479,
+                231,
+                487
+            ]
+        },
+        {
+            "text": "MON",
+            "id": 8,
+            "bbox": [
+                239,
+                479,
+                271,
+                489
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 9,
+            "bbox": [
+                279,
+                480,
+                305,
+                492
+            ]
+        },
+        {
+            "text": "yal",
+            "id": 10,
+            "bbox": [
+                352,
+                484,
+                375,
+                494
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "MON",
+                "SHOES"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12118"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Datei7",
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,775.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "yal"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,775.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/329.jpg"
+    }
+}

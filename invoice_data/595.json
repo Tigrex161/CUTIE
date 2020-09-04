@@ -1,182 +1,224 @@
 {
     "text_boxes": [
         {
-            "text": "S/S",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                389,
-                386,
-                417,
-                403
+                323,
+                109,
+                380,
+                123
             ]
         },
         {
-            "text": "Chicken",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                428,
-                384,
-                495,
-                402
+                387,
+                112,
+                449,
+                127
             ]
         },
         {
-            "text": "63.00",
+            "text": "10/07/20",
             "id": 3,
             "bbox": [
-                242,
-                383,
-                291,
-                403
+                288,
+                292,
+                342,
+                304
             ]
         },
         {
-            "text": "1",
+            "text": "18:27",
             "id": 4,
             "bbox": [
-                529,
-                385,
-                533,
-                400
+                352,
+                293,
+                383,
+                305
             ]
         },
         {
-            "text": "1",
+            "text": "417.00",
             "id": 5,
             "bbox": [
-                529,
-                432,
-                533,
-                447
+                484,
+                526,
+                523,
+                535
             ]
         },
         {
-            "text": "49.35",
+            "text": "72",
             "id": 6,
             "bbox": [
-                242,
-                431,
-                289,
-                449
+                494,
+                421,
+                505,
+                431
             ]
         },
         {
-            "text": "DYNAMITE",
+            "text": "00",
             "id": 7,
             "bbox": [
-                378,
-                432,
-                455,
-                449
+                513,
+                422,
+                526,
+                431
             ]
         },
         {
-            "text": "CHX",
+            "text": "345.00",
             "id": 8,
             "bbox": [
-                467,
-                432,
-                495,
-                448
+                487,
+                456,
+                525,
+                466
             ]
         },
         {
-            "text": "10.50",
+            "text": "SWAROVSKI",
             "id": 9,
             "bbox": [
-                244,
-                481,
-                288,
-                497
+                236,
+                452,
+                296,
+                464
             ]
         },
         {
-            "text": "SD",
+            "text": "JEWELLERY",
             "id": 10,
             "bbox": [
-                377,
-                481,
-                395,
-                498
+                307,
+                453,
+                367,
+                465
             ]
         },
         {
-            "text": "WHT",
+            "text": "SLAROVSKI",
             "id": 11,
             "bbox": [
-                407,
-                481,
-                434,
-                497
+                236,
+                416,
+                297,
+                427
             ]
         },
         {
-            "text": "RC",
+            "text": "JEWELLERY",
             "id": 12,
             "bbox": [
-                446,
-                481,
-                464,
-                497
+                308,
+                418,
+                367,
+                429
             ]
         },
         {
-            "text": "CP",
+            "text": "900050784",
             "id": 13,
             "bbox": [
-                476,
-                480,
-                494,
-                496
-            ]
-        },
-        {
-            "text": "1",
-            "id": 14,
-            "bbox": [
-                528,
-                480,
-                532,
-                495
+                273,
+                467,
+                332,
+                482
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "S/S",
-                "Chicken",
-                "63.00",
-                "1",
-                "1",
-                "49.35",
-                "DYNAMITE",
-                "CHX",
-                "10.50",
-                "SD",
-                "WHT",
-                "RC",
-                "CP",
-                "1"
+                "SWAROVSKI",
+                "JEWELLERY",
+                "SLAROVSKI",
+                "JEWELLERY"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
                 9,
                 10,
                 11,
-                12,
-                13,
-                14
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:27"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "417.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900050784"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "72",
+                "00",
+                "345.00"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
             ]
         }
     ],

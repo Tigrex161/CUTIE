@@ -1,0 +1,201 @@
+{
+    "text_boxes": [
+        {
+            "text": "CHANEL",
+            "id": 1,
+            "bbox": [
+                304,
+                387,
+                529,
+                420
+            ]
+        },
+        {
+            "text": "July",
+            "id": 2,
+            "bbox": [
+                436,
+                483,
+                457,
+                493
+            ]
+        },
+        {
+            "text": "23,",
+            "id": 3,
+            "bbox": [
+                463,
+                483,
+                479,
+                493
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                485,
+                485,
+                512,
+                493
+            ]
+        },
+        {
+            "text": "18:23",
+            "id": 5,
+            "bbox": [
+                523,
+                485,
+                554,
+                494
+            ]
+        },
+        {
+            "text": "545.00",
+            "id": 6,
+            "bbox": [
+                582,
+                853,
+                631,
+                864
+            ]
+        },
+        {
+            "text": "545.00",
+            "id": 7,
+            "bbox": [
+                666,
+                663,
+                709,
+                674
+            ]
+        },
+        {
+            "text": "ALLURE",
+            "id": 8,
+            "bbox": [
+                90,
+                638,
+                141,
+                650
+            ]
+        },
+        {
+            "text": "ll",
+            "id": 9,
+            "bbox": [
+                85,
+                654,
+                103,
+                665
+            ]
+        },
+        {
+            "text": "112460",
+            "id": 10,
+            "bbox": [
+                84,
+                671,
+                129,
+                681
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ALLURE"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:23"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "23,",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "545.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ll"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "112460"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "545.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/674.jpg"
+    }
+}

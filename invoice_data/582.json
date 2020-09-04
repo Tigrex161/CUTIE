@@ -1,266 +1,170 @@
 {
     "text_boxes": [
         {
-            "text": "MARCIO",
+            "text": "Van",
             "id": 1,
             "bbox": [
-                196,
-                609,
-                246,
-                622
+                256,
+                260,
+                317,
+                289
             ]
         },
         {
-            "text": "DISPLAY",
+            "text": "Cleef",
             "id": 2,
             "bbox": [
-                251,
-                610,
-                303,
-                622
+                332,
+                254,
+                419,
+                286
             ]
         },
         {
-            "text": "COFEE",
+            "text": "&",
             "id": 3,
             "bbox": [
-                307,
-                609,
-                350,
-                621
+                430,
+                261,
+                449,
+                284
             ]
         },
         {
-            "text": "-",
+            "text": "Arpels",
             "id": 4,
             "bbox": [
-                355,
-                615,
-                357,
-                616
+                462,
+                253,
+                564,
+                290
             ]
         },
         {
-            "text": "DARK",
+            "text": "20/07/2020",
             "id": 5,
             "bbox": [
-                196,
-                626,
-                230,
-                635
+                102,
+                942,
+                157,
+                956
             ]
         },
         {
-            "text": "WALNUT/GLASS",
+            "text": "11:06:35",
             "id": 6,
             "bbox": [
-                235,
-                623,
-                334,
-                636
+                162,
+                942,
+                202,
+                952
             ]
         },
         {
-            "text": "1",
+            "text": "5,200.00",
             "id": 7,
             "bbox": [
-                36,
-                610,
-                46,
-                623
+                770,
+                745,
+                805,
+                753
             ]
         },
         {
-            "text": "PW2637657",
+            "text": "5,200.00",
             "id": 8,
             "bbox": [
-                50,
-                611,
-                121,
-                622
+                768,
+                690,
+                805,
+                700
             ]
         },
         {
-            "text": "5%",
+            "text": "PEND",
             "id": 9,
             "bbox": [
-                458,
-                608,
-                475,
-                618
+                114,
+                699,
+                134,
+                705
             ]
         },
         {
-            "text": "1",
+            "text": "SWEET",
             "id": 10,
             "bbox": [
-                536,
-                608,
-                540,
-                617
+                137,
+                697,
+                162,
+                704
             ]
         },
         {
-            "text": "1625.00",
+            "text": "ALHA",
             "id": 11,
             "bbox": [
-                576,
-                607,
-                619,
-                617
+                165,
+                698,
+                184,
+                704
             ]
         },
         {
-            "text": "406.50",
+            "text": "YG",
             "id": 12,
             "bbox": [
-                659,
-                604,
-                697,
-                616
+                186,
+                696,
+                195,
+                703
             ]
         },
         {
-            "text": "1218.50",
+            "text": "CLOV",
             "id": 13,
             "bbox": [
-                739,
-                604,
-                784,
-                614
+                198,
+                696,
+                218,
+                702
             ]
         },
         {
-            "text": "EA",
+            "text": "WMOP",
             "id": 14,
             "bbox": [
-                383,
-                610,
-                397,
-                619
+                221,
+                694,
+                246,
+                702
             ]
         },
         {
-            "text": "Ln",
+            "text": "ARF69100",
             "id": 15,
             "bbox": [
-                26,
-                588,
-                39,
-                600
-            ]
-        },
-        {
-            "text": "Item",
-            "id": 16,
-            "bbox": [
-                53,
-                592,
-                77,
-                601
-            ]
-        },
-        {
-            "text": "Uom",
-            "id": 17,
-            "bbox": [
-                377,
-                586,
-                407,
-                601
-            ]
-        },
-        {
-            "text": "Qty",
-            "id": 18,
-            "bbox": [
-                523,
-                587,
-                541,
-                598
-            ]
-        },
-        {
-            "text": "U/Price",
-            "id": 19,
-            "bbox": [
-                579,
-                584,
-                618,
-                596
-            ]
-        },
-        {
-            "text": "U/Discount",
-            "id": 20,
-            "bbox": [
-                636,
-                585,
-                697,
-                595
-            ]
-        },
-        {
-            "text": "Value",
-            "id": 21,
-            "bbox": [
-                751,
-                582,
-                782,
-                594
-            ]
-        },
-        {
-            "text": "VAT",
-            "id": 22,
-            "bbox": [
-                451,
-                588,
-                474,
-                597
-            ]
-        },
-        {
-            "text": "Description",
-            "id": 23,
-            "bbox": [
-                193,
-                590,
-                265,
-                604
+                165,
+                708,
+                210,
+                717
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MARCIO",
-                "DISPLAY",
-                "COFEE",
-                "-",
-                "DARK",
-                "WALNUT/GLASS",
-                "1",
-                "PW2637657",
-                "5%",
-                "1",
-                "1625.00",
-                "406.50",
-                "1218.50",
-                "EA"
+                "PEND",
+                "SWEET",
+                "ALHA",
+                "YG",
+                "CLOV",
+                "WMOP"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
                 9,
                 10,
                 11,
@@ -270,30 +174,75 @@
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Ln",
-                "Item",
-                "Uom",
-                "Qty",
-                "U/Price",
-                "U/Discount",
-                "Value",
-                "VAT",
-                "Description"
+                "11:06:35"
             ],
             "value_id": [
-                15,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21,
-                22,
-                23
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5,200.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ARF69100"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5,200.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

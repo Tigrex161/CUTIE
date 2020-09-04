@@ -1,0 +1,237 @@
+{
+    "text_boxes": [
+        {
+            "text": "July,",
+            "id": 1,
+            "bbox": [
+                562,
+                315,
+                594,
+                327
+            ]
+        },
+        {
+            "text": "26",
+            "id": 2,
+            "bbox": [
+                606,
+                314,
+                620,
+                323
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                629,
+                315,
+                656,
+                324
+            ]
+        },
+        {
+            "text": "14:13",
+            "id": 4,
+            "bbox": [
+                665,
+                316,
+                698,
+                325
+            ]
+        },
+        {
+            "text": "400.00",
+            "id": 5,
+            "bbox": [
+                645,
+                667,
+                686,
+                676
+            ]
+        },
+        {
+            "text": "400.00",
+            "id": 6,
+            "bbox": [
+                640,
+                577,
+                680,
+                588
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                457,
+                672,
+                461,
+                679
+            ]
+        },
+        {
+            "text": "76882-654:",
+            "id": 8,
+            "bbox": [
+                215,
+                558,
+                289,
+                571
+            ]
+        },
+        {
+            "text": "TEH,",
+            "id": 9,
+            "bbox": [
+                291,
+                558,
+                321,
+                570
+            ]
+        },
+        {
+            "text": "654:7:MILLER",
+            "id": 10,
+            "bbox": [
+                319,
+                561,
+                402,
+                569
+            ]
+        },
+        {
+            "text": "STUD",
+            "id": 11,
+            "bbox": [
+                411,
+                560,
+                437,
+                568
+            ]
+        },
+        {
+            "text": "031625046841",
+            "id": 12,
+            "bbox": [
+                120,
+                561,
+                205,
+                570
+            ]
+        },
+        {
+            "text": "S",
+            "id": 13,
+            "bbox": [
+                512,
+                557,
+                534,
+                569
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "76882-654:",
+                "TEH,",
+                "654:7:MILLER",
+                "STUD"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:13"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "26",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "400.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "S"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "031625046841"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "400.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/893.jpg"
+    }
+}

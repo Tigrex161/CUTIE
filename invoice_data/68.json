@@ -1,215 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "83280634",
+            "text": "July",
             "id": 1,
             "bbox": [
-                130,
-                469,
-                179,
-                479
+                376,
+                351,
+                396,
+                360
             ]
         },
         {
-            "text": "ESSENTIAL",
+            "text": "10,",
             "id": 2,
             "bbox": [
-                193,
-                469,
-                255,
-                480
+                403,
+                349,
+                418,
+                359
             ]
         },
         {
-            "text": "TRUNK",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                260,
-                470,
-                298,
-                479
+                424,
+                348,
+                450,
+                358
             ]
         },
         {
-            "text": "PLUS",
+            "text": "13:32",
             "id": 4,
             "bbox": [
-                302,
-                471,
-                330,
-                479
+                460,
+                348,
+                491,
+                358
             ]
         },
         {
-            "text": "-",
+            "text": "2,118.00",
             "id": 5,
             "bbox": [
-                336,
-                469,
-                342,
-                480
+                507,
+                696,
+                563,
+                705
             ]
         },
         {
-            "text": "Matte",
+            "text": "2,118.00",
             "id": 6,
             "bbox": [
-                342,
-                471,
-                369,
-                480
+                586,
+                528,
+                636,
+                537
             ]
         },
         {
-            "text": "Black",
+            "text": "SNEAKERS",
             "id": 7,
             "bbox": [
-                374,
-                472,
-                400,
-                480
+                61,
+                525,
+                125,
+                533
             ]
         },
         {
-            "text": "3,790.00",
+            "text": "G34763Y52032K1387",
             "id": 8,
             "bbox": [
-                584,
-                472,
-                627,
-                481
+                59,
+                539,
+                180,
+                550
             ]
         },
         {
-            "text": "Ref",
+            "text": "10B",
             "id": 9,
             "bbox": [
-                130,
-                448,
-                152,
-                460
-            ]
-        },
-        {
-            "text": "Description",
-            "id": 10,
-            "bbox": [
-                196,
-                449,
-                257,
-                462
-            ]
-        },
-        {
-            "text": "ia,",
-            "id": 11,
-            "bbox": [
-                457,
-                449,
-                483,
-                461
-            ]
-        },
-        {
-            "text": "Qty",
-            "id": 12,
-            "bbox": [
-                485,
-                452,
-                501,
-                461
-            ]
-        },
-        {
-            "text": "s",
-            "id": 13,
-            "bbox": [
-                511,
-                452,
-                526,
-                461
-            ]
-        },
-        {
-            "text": "Total",
-            "id": 14,
-            "bbox": [
-                534,
-                453,
-                559,
-                461
-            ]
-        },
-        {
-            "text": "y",
-            "id": 15,
-            "bbox": [
-                570,
-                450,
-                598,
-                462
-            ]
-        },
-        {
-            "text": "l",
-            "id": 16,
-            "bbox": [
-                604,
-                452,
-                624,
-                462
+                186,
+                540,
+                206,
+                549
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "83280634",
-                "ESSENTIAL",
-                "TRUNK",
-                "PLUS",
-                "-",
-                "Matte",
-                "Black",
-                "3,790.00"
+                "SNEAKERS"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:32"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "10,",
+                "2020"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8
+                3
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Ref",
-                "Description",
-                "ia,",
-                "Qty",
-                "s",
-                "Total",
-                "y",
-                "l"
+                "2,118.00"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "G34763Y52032K1387",
+                "10B"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,118.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

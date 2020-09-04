@@ -1,0 +1,183 @@
+{
+    "text_boxes": [
+        {
+            "text": "Rana",
+            "id": 1,
+            "bbox": [
+                412,
+                223,
+                504,
+                268
+            ]
+        },
+        {
+            "text": "30-07-2020",
+            "id": 2,
+            "bbox": [
+                566,
+                367,
+                619,
+                377
+            ]
+        },
+        {
+            "text": "18:36:39",
+            "id": 3,
+            "bbox": [
+                624,
+                369,
+                663,
+                377
+            ]
+        },
+        {
+            "text": "2,700.00",
+            "id": 4,
+            "bbox": [
+                632,
+                522,
+                665,
+                529
+            ]
+        },
+        {
+            "text": "2,700.00",
+            "id": 5,
+            "bbox": [
+                628,
+                487,
+                659,
+                495
+            ]
+        },
+        {
+            "text": "SUMMER",
+            "id": 6,
+            "bbox": [
+                199,
+                479,
+                239,
+                488
+            ]
+        },
+        {
+            "text": "WALK",
+            "id": 7,
+            "bbox": [
+                243,
+                479,
+                268,
+                488
+            ]
+        },
+        {
+            "text": "SUEDE,",
+            "id": 8,
+            "bbox": [
+                272,
+                481,
+                304,
+                490
+            ]
+        },
+        {
+            "text": "MB83,",
+            "id": 9,
+            "bbox": [
+                308,
+                483,
+                332,
+                490
+            ]
+        },
+        {
+            "text": "41.5",
+            "id": 10,
+            "bbox": [
+                336,
+                483,
+                352,
+                491
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SUMMER",
+                "WALK",
+                "SUEDE,",
+                "MB83,",
+                "41.5"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:36:39"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,700.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Rana"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,700.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1009.jpg"
+    }
+}

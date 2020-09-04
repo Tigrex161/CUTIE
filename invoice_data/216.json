@@ -1,50 +1,293 @@
 {
     "text_boxes": [
         {
-            "text": "CIGARETTE",
+            "text": "DOLCE",
             "id": 1,
             "bbox": [
-                277,
-                507,
-                338,
-                520
+                194,
+                85,
+                319,
+                130
             ]
         },
         {
-            "text": "220.00",
+            "text": "&",
             "id": 2,
             "bbox": [
-                424,
-                501,
-                465,
-                515
+                327,
+                113,
+                339,
+                127
             ]
         },
         {
-            "text": "V",
+            "text": "GABBANA",
             "id": 3,
             "bbox": [
-                475,
-                501,
-                480,
-                512
+                346,
+                80,
+                547,
+                126
+            ]
+        },
+        {
+            "text": "July,",
+            "id": 4,
+            "bbox": [
+                583,
+                241,
+                616,
+                254
+            ]
+        },
+        {
+            "text": "02",
+            "id": 5,
+            "bbox": [
+                628,
+                243,
+                641,
+                252
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 6,
+            "bbox": [
+                650,
+                243,
+                676,
+                255
+            ]
+        },
+        {
+            "text": "14:46",
+            "id": 7,
+            "bbox": [
+                686,
+                246,
+                717,
+                257
+            ]
+        },
+        {
+            "text": "1,710.00",
+            "id": 8,
+            "bbox": [
+                664,
+                632,
+                720,
+                644
+            ]
+        },
+        {
+            "text": "780.00",
+            "id": 9,
+            "bbox": [
+                673,
+                484,
+                713,
+                494
+            ]
+        },
+        {
+            "text": "930.00",
+            "id": 10,
+            "bbox": [
+                674,
+                533,
+                715,
+                542
+            ]
+        },
+        {
+            "text": "L54S05HS5GGHA96C:",
+            "id": 11,
+            "bbox": [
+                224,
+                461,
+                355,
+                477
+            ]
+        },
+        {
+            "text": "DGA.",
+            "id": 12,
+            "bbox": [
+                357,
+                462,
+                379,
+                475
+            ]
+        },
+        {
+            "text": "L53145HSSGGHA9EC:DGA,",
+            "id": 13,
+            "bbox": [
+                225,
+                510,
+                385,
+                523
+            ]
+        },
+        {
+            "text": "HA96C:8:",
+            "id": 14,
+            "bbox": [
+                387,
+                508,
+                448,
+                522
+            ]
+        },
+        {
+            "text": "009424843958",
+            "id": 15,
+            "bbox": [
+                120,
+                464,
+                214,
+                478
+            ]
+        },
+        {
+            "text": "009424842723",
+            "id": 16,
+            "bbox": [
+                119,
+                511,
+                214,
+                524
+            ]
+        },
+        {
+            "text": "waei",
+            "id": 17,
+            "bbox": [
+                556,
+                460,
+                587,
+                470
+            ]
+        },
+        {
+            "text": "i",
+            "id": 18,
+            "bbox": [
+                536,
+                511,
+                548,
+                520
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CIGARETTE",
-                "220.00",
-                "V"
+                "L54S05HS5GGHA96C:",
+                "DGA.",
+                "L53145HSSGGHA9EC:DGA,",
+                "HA96C:8:"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:46"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "02",
+                "2020"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,710.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "waei",
+                "i"
+            ],
+            "value_id": [
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DOLCE",
+                "&",
+                "GABBANA"
             ],
             "value_id": [
                 1,
                 2,
                 3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "009424843958",
+                "009424842723"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "780.00",
+                "930.00"
+            ],
+            "value_id": [
+                9,
+                10
             ]
         }
     ],

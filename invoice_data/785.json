@@ -1,0 +1,252 @@
+{
+    "text_boxes": [
+        {
+            "text": "Van",
+            "id": 1,
+            "bbox": [
+                224,
+                209,
+                305,
+                246
+            ]
+        },
+        {
+            "text": "Cleef",
+            "id": 2,
+            "bbox": [
+                317,
+                210,
+                429,
+                252
+            ]
+        },
+        {
+            "text": "&",
+            "id": 3,
+            "bbox": [
+                439,
+                224,
+                468,
+                251
+            ]
+        },
+        {
+            "text": "Arpels",
+            "id": 4,
+            "bbox": [
+                477,
+                216,
+                604,
+                268
+            ]
+        },
+        {
+            "text": "16/07/2020",
+            "id": 5,
+            "bbox": [
+                70,
+                884,
+                125,
+                894
+            ]
+        },
+        {
+            "text": "12:13:11",
+            "id": 6,
+            "bbox": [
+                131,
+                884,
+                172,
+                892
+            ]
+        },
+        {
+            "text": "5,250.00",
+            "id": 7,
+            "bbox": [
+                747,
+                708,
+                781,
+                714
+            ]
+        },
+        {
+            "text": "5,250.00",
+            "id": 8,
+            "bbox": [
+                745,
+                656,
+                778,
+                663
+            ]
+        },
+        {
+            "text": "BRAL",
+            "id": 9,
+            "bbox": [
+                93,
+                631,
+                113,
+                637
+            ]
+        },
+        {
+            "text": "SWEET",
+            "id": 10,
+            "bbox": [
+                117,
+                632,
+                142,
+                638
+            ]
+        },
+        {
+            "text": "ALHA",
+            "id": 11,
+            "bbox": [
+                145,
+                631,
+                165,
+                638
+            ]
+        },
+        {
+            "text": "PG",
+            "id": 12,
+            "bbox": [
+                168,
+                632,
+                177,
+                638
+            ]
+        },
+        {
+            "text": "CLOV",
+            "id": 13,
+            "bbox": [
+                181,
+                632,
+                201,
+                638
+            ]
+        },
+        {
+            "text": "CRN",
+            "id": 14,
+            "bbox": [
+                204,
+                632,
+                219,
+                638
+            ]
+        },
+        {
+            "text": "ARNS9K00",
+            "id": 15,
+            "bbox": [
+                144,
+                642,
+                194,
+                651
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BRAL",
+                "SWEET",
+                "ALHA",
+                "PG",
+                "CLOV",
+                "CRN"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:13:11"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5,250.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ARNS9K00"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5,250.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/785.jpg"
+    }
+}

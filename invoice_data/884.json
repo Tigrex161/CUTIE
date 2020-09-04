@@ -1,0 +1,228 @@
+{
+    "text_boxes": [
+        {
+            "text": "level",
+            "id": 1,
+            "bbox": [
+                364,
+                273,
+                422,
+                322
+            ]
+        },
+        {
+            "text": "SHDES",
+            "id": 2,
+            "bbox": [
+                368,
+                320,
+                411,
+                331
+            ]
+        },
+        {
+            "text": "Jul,",
+            "id": 3,
+            "bbox": [
+                472,
+                425,
+                493,
+                433
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                503,
+                424,
+                525,
+                432
+            ]
+        },
+        {
+            "text": "21:09",
+            "id": 5,
+            "bbox": [
+                533,
+                425,
+                563,
+                432
+            ]
+        },
+        {
+            "text": "2,",
+            "id": 6,
+            "bbox": [
+                576,
+                664,
+                589,
+                674
+            ]
+        },
+        {
+            "text": "600.00",
+            "id": 7,
+            "bbox": [
+                588,
+                664,
+                623,
+                674
+            ]
+        },
+        {
+            "text": "2,600.",
+            "id": 8,
+            "bbox": [
+                576,
+                583,
+                617,
+                596
+            ]
+        },
+        {
+            "text": "00",
+            "id": 9,
+            "bbox": [
+                619,
+                582,
+                629,
+                596
+            ]
+        },
+        {
+            "text": "CHANBL",
+            "id": 10,
+            "bbox": [
+                144,
+                546,
+                181,
+                553
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 11,
+            "bbox": [
+                188,
+                545,
+                225,
+                553
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 12,
+            "bbox": [
+                234,
+                543,
+                264,
+                555
+            ]
+        },
+        {
+            "text": "Gi",
+            "id": 13,
+            "bbox": [
+                319,
+                545,
+                343,
+                551
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANBL",
+                "WOMENS",
+                "SHOES"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:09"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,",
+                "600.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Gi"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHDES"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,600.",
+                "00"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/884.jpg"
+    }
+}

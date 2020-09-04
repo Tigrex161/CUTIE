@@ -1,284 +1,272 @@
 {
     "text_boxes": [
         {
-            "text": "ALL",
+            "text": "TAX",
             "id": 1,
             "bbox": [
-                183,
-                632,
-                214,
-                650
+                235,
+                189,
+                266,
+                202
             ]
         },
         {
-            "text": "BATEEL",
+            "text": "INVOICE/TAX",
             "id": 2,
             "bbox": [
-                230,
-                631,
-                295,
-                650
+                273,
+                189,
+                374,
+                204
             ]
         },
         {
-            "text": "XPL",
+            "text": "CREDIT",
             "id": 3,
             "bbox": [
-                310,
-                631,
-                341,
-                649
+                381,
+                192,
+                439,
+                206
             ]
         },
         {
-            "text": "DATES",
+            "text": "NOTE",
             "id": 4,
             "bbox": [
-                355,
-                631,
-                409,
-                650
+                446,
+                194,
+                487,
+                207
             ]
         },
         {
-            "text": "kg",
+            "text": "1:07",
             "id": 5,
             "bbox": [
-                423,
-                632,
-                443,
-                652
+                396,
+                361,
+                417,
+                372
             ]
         },
         {
-            "text": "175.00",
+            "text": "12",
             "id": 6,
             "bbox": [
-                539,
-                628,
-                602,
-                649
+                422,
+                361,
+                433,
+                370
             ]
         },
         {
-            "text": "Midas",
+            "text": "964.00",
             "id": 7,
             "bbox": [
-                182,
-                686,
-                238,
-                705
+                471,
+                801,
+                504,
+                812
             ]
         },
         {
-            "text": "Window",
+            "text": "1,204.00",
             "id": 8,
             "bbox": [
-                252,
-                684,
-                318,
-                704
+                457,
+                459,
+                503,
+                472
             ]
         },
         {
-            "text": "Rectangle",
+            "text": "MAGIC",
             "id": 9,
             "bbox": [
-                332,
-                683,
-                431,
-                705
+                323,
+                491,
+                360,
+                500
             ]
         },
         {
-            "text": "237.50",
+            "text": "CRIB",
             "id": 10,
             "bbox": [
-                536,
-                682,
-                601,
-                703
+                365,
+                490,
+                393,
+                499
             ]
         },
         {
-            "text": "Visa",
+            "text": "SAND",
             "id": 11,
             "bbox": [
-                213,
-                767,
-                257,
-                788
+                322,
+                505,
+                355,
+                513
             ]
         },
         {
-            "text": "Card",
+            "text": "CH79584-43",
             "id": 12,
             "bbox": [
-                270,
-                765,
-                314,
-                787
+                360,
+                503,
+                427,
+                513
             ]
         },
         {
-            "text": "-412.50",
+            "text": "805866410896",
             "id": 13,
             "bbox": [
-                556,
-                762,
-                632,
-                786
+                220,
+                465,
+                299,
+                476
             ]
         },
         {
-            "text": "Description",
+            "text": "\u0627\u0644\u0645\u0647\u062f",
             "id": 14,
             "bbox": [
-                214,
-                575,
-                339,
-                598
+                398,
+                463,
+                417,
+                472
             ]
         },
         {
-            "text": "Amount",
+            "text": "\u0627\u0644\u0645\u0634\u062a\u0631\u0644\u0627",
             "id": 15,
             "bbox": [
-                565,
-                569,
-                633,
-                591
+                362,
+                463,
+                393,
+                473
             ]
         },
         {
-            "text": "VAT",
+            "text": "\u0644\u06cc\u06a9\u0633\u062a",
             "id": 16,
             "bbox": [
-                172,
-                999,
-                206,
-                1021
+                333,
+                465,
+                358,
+                473
             ]
         },
         {
-            "text": "RegNo.:",
+            "text": "\u062a\u0648",
             "id": 17,
             "bbox": [
-                219,
-                996,
-                299,
-                1022
-            ]
-        },
-        {
-            "text": "100239497900003",
-            "id": 18,
-            "bbox": [
-                342,
-                988,
-                514,
-                1017
-            ]
-        },
-        {
-            "text": "INVOICE",
-            "id": 19,
-            "bbox": [
-                396,
-                185,
-                556,
-                238
-            ]
-        },
-        {
-            "text": "duba",
-            "id": 20,
-            "bbox": [
-                286,
-                348,
-                339,
-                378
-            ]
-        },
-        {
-            "text": "Dubaimall,Dubai,UAE",
-            "id": 21,
-            "bbox": [
-                295,
-                260,
-                513,
-                292
+                322,
+                465,
+                330,
+                473
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ALL",
-                "BATEEL",
-                "XPL",
-                "DATES",
-                "kg",
-                "175.00",
-                "Midas",
-                "Window",
-                "Rectangle",
-                "237.50"
+                "MAGIC",
+                "CRIB",
+                "SAND",
+                "CH79584-43"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1:07",
+                "12"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "964.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0644\u0645\u0647\u062f",
+                "\u0627\u0644\u0645\u0634\u062a\u0631\u0644\u0627",
+                "\u0644\u06cc\u06a9\u0633\u062a",
+                "\u062a\u0648"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TAX",
+                "INVOICE/TAX",
+                "CREDIT",
+                "NOTE"
             ],
             "value_id": [
                 1,
                 2,
                 3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10
+                4
             ]
         },
         {
-            "field_name": "otherLines",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Visa",
-                "Card",
-                "-412.50",
-                "VAT",
-                "RegNo.:",
-                "100239497900003",
-                "INVOICE",
-                "duba",
-                "Dubaimall,Dubai,UAE"
+                "805866410896"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21
+                13
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Description",
-                "Amount"
+                "1,204.00"
             ],
             "value_id": [
-                14,
-                15
+                8
             ]
         }
     ],

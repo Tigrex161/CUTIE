@@ -1,122 +1,179 @@
 {
     "text_boxes": [
         {
-            "text": "2",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                238,
-                493,
-                251,
-                515
+                1374,
+                966,
+                1454,
+                1006
             ]
         },
         {
-            "text": "Chewy",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                252,
-                495,
-                299,
-                517
+                1490,
+                964,
+                1580,
+                1001
             ]
         },
         {
-            "text": "Melt",
+            "text": "17153",
             "id": 3,
             "bbox": [
-                309,
-                497,
-                345,
-                516
+                1608,
+                958,
+                1716,
+                998
             ]
         },
         {
-            "text": "M/S",
+            "text": "950.00",
             "id": 4,
             "bbox": [
-                356,
-                499,
-                384,
-                519
+                1780,
+                1737,
+                1905,
+                1770
             ]
         },
         {
-            "text": "66.00",
+            "text": "950.00",
             "id": 5,
             "bbox": [
-                516,
-                497,
-                564,
-                517
+                1798,
+                1454,
+                1925,
+                1489
             ]
         },
         {
-            "text": "Saffron",
+            "text": "FENU",
             "id": 6,
             "bbox": [
-                252,
-                518,
-                317,
-                539
+                238,
+                1400,
+                336,
+                1440
             ]
         },
         {
-            "text": "MC",
+            "text": "OTHS:",
             "id": 7,
             "bbox": [
-                327,
-                522,
-                346,
-                539
+                352,
+                1399,
+                463,
+                1440
             ]
         },
         {
-            "text": "SL",
+            "text": "FFENDI",
             "id": 8,
             "bbox": [
-                356,
-                523,
-                374,
-                540
+                465,
+                1398,
+                576,
+                1439
             ]
         },
         {
-            "text": "53.00",
+            "text": "S",
             "id": 9,
             "bbox": [
-                516,
-                522,
-                562,
-                539
+                798,
+                1397,
+                876,
+                1436
+            ]
+        },
+        {
+            "text": "Llals",
+            "id": 10,
+            "bbox": [
+                901,
+                1402,
+                1046,
+                1430
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2",
-                "Chewy",
-                "Melt",
-                "M/S",
-                "66.00",
-                "Saffron",
-                "MC",
-                "SL",
-                "53.00"
+                "FENU",
+                "OTHS:",
+                "FFENDI"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17153"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "950.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "S",
+                "Llals"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "950.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

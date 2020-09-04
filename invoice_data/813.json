@@ -1,0 +1,321 @@
+{
+    "text_boxes": [
+        {
+            "text": "SEPHORA",
+            "id": 1,
+            "bbox": [
+                251,
+                246,
+                299,
+                264
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 2,
+            "bbox": [
+                306,
+                245,
+                340,
+                261
+            ]
+        },
+        {
+            "text": "MALL",
+            "id": 3,
+            "bbox": [
+                348,
+                243,
+                374,
+                259
+            ]
+        },
+        {
+            "text": "July",
+            "id": 4,
+            "bbox": [
+                353,
+                978,
+                379,
+                996
+            ]
+        },
+        {
+            "text": "12,2020",
+            "id": 5,
+            "bbox": [
+                388,
+                978,
+                431,
+                995
+            ]
+        },
+        {
+            "text": "15:52:18",
+            "id": 6,
+            "bbox": [
+                441,
+                975,
+                494,
+                992
+            ]
+        },
+        {
+            "text": "313.01",
+            "id": 7,
+            "bbox": [
+                411,
+                720,
+                486,
+                739
+            ]
+        },
+        {
+            "text": "313.00",
+            "id": 8,
+            "bbox": [
+                445,
+                615,
+                487,
+                633
+            ]
+        },
+        {
+            "text": "0.01",
+            "id": 9,
+            "bbox": [
+                461,
+                668,
+                488,
+                683
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                286,
+                634,
+                290,
+                647
+            ]
+        },
+        {
+            "text": "CHEEK",
+            "id": 11,
+            "bbox": [
+                309,
+                577,
+                343,
+                594
+            ]
+        },
+        {
+            "text": "STARS",
+            "id": 12,
+            "bbox": [
+                352,
+                574,
+                386,
+                590
+            ]
+        },
+        {
+            "text": "REUNION",
+            "id": 13,
+            "bbox": [
+                393,
+                568,
+                441,
+                585
+            ]
+        },
+        {
+            "text": "TOUR",
+            "id": 14,
+            "bbox": [
+                449,
+                564,
+                476,
+                579
+            ]
+        },
+        {
+            "text": "GIFT-WRAP",
+            "id": 15,
+            "bbox": [
+                314,
+                644,
+                377,
+                662
+            ]
+        },
+        {
+            "text": "SERVICE",
+            "id": 16,
+            "bbox": [
+                384,
+                640,
+                432,
+                656
+            ]
+        },
+        {
+            "text": "*d",
+            "id": 17,
+            "bbox": [
+                196,
+                620,
+                227,
+                632
+            ]
+        },
+        {
+            "text": "ga",
+            "id": 18,
+            "bbox": [
+                237,
+                621,
+                262,
+                631
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062e\u062f\u0645\u0627\u0646",
+            "id": 19,
+            "bbox": [
+                267,
+                668,
+                314,
+                680
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0641\u0631",
+            "id": 20,
+            "bbox": [
+                234,
+                668,
+                260,
+                685
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHEEK",
+                "STARS",
+                "REUNION",
+                "TOUR",
+                "GIFT-WRAP",
+                "SERVICE"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:52:18"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "12,2020"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "313.01"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "*d",
+                "ga",
+                "\u0627\u0644\u062e\u062f\u0645\u0627\u0646",
+                "\u0627\u0644\u0641\u0631"
+            ],
+            "value_id": [
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "313.00",
+                "0.01"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/813.jpg"
+    }
+}

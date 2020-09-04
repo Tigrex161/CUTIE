@@ -1,215 +1,209 @@
 {
     "text_boxes": [
         {
-            "text": "VAMUUVZY",
+            "text": "FREDPERRY",
             "id": 1,
             "bbox": [
-                174,
-                825,
-                223,
-                839
+                327,
+                503,
+                421,
+                522
             ]
         },
         {
-            "text": "UR",
+            "text": "08/07/20",
             "id": 2,
             "bbox": [
-                172,
-                846,
-                184,
-                858
+                246,
+                612,
+                328,
+                630
             ]
         },
         {
-            "text": "OLD",
+            "text": "4:07",
             "id": 3,
             "bbox": [
-                191,
-                846,
-                209,
-                859
+                351,
+                611,
+                391,
+                628
             ]
         },
         {
-            "text": "SKOOL",
+            "text": "584.00",
             "id": 4,
             "bbox": [
-                216,
-                848,
-                246,
-                861
+                534,
+                918,
+                596,
+                937
             ]
         },
         {
-            "text": "UC",
+            "text": "245",
             "id": 5,
             "bbox": [
-                251,
-                848,
-                265,
-                861
+                563,
+                775,
+                593,
+                790
             ]
         },
         {
-            "text": "199.00",
+            "text": "339",
             "id": 6,
             "bbox": [
-                410,
-                834,
-                445,
-                848
+                564,
+                815,
+                594,
+                831
             ]
         },
         {
-            "text": "199.00",
+            "text": "T-SHIRTS",
             "id": 7,
             "bbox": [
-                472,
-                837,
-                507,
-                851
+                260,
+                778,
+                342,
+                797
             ]
         },
         {
-            "text": "ITEM",
+            "text": "A014656",
             "id": 8,
             "bbox": [
-                179,
-                762,
-                201,
-                774
+                176,
+                781,
+                248,
+                799
             ]
         },
         {
-            "text": "Size",
+            "text": "A036097",
             "id": 9,
             "bbox": [
-                313,
-                767,
-                336,
-                779
+                177,
+                823,
+                249,
+                840
             ]
         },
         {
-            "text": "OTY",
+            "text": "\u062a\u064a",
             "id": 10,
             "bbox": [
-                368,
-                769,
-                385,
-                781
+                291,
+                805,
+                306,
+                818
             ]
         },
         {
-            "text": "PRICE",
+            "text": "\u0634\u06cc\u0631\u062a",
             "id": 11,
             "bbox": [
-                411,
-                771,
-                440,
-                783
-            ]
-        },
-        {
-            "text": "TOTAL",
-            "id": 12,
-            "bbox": [
-                479,
-                773,
-                510,
-                788
-            ]
-        },
-        {
-            "text": "\u0627\u0644\u0639\u062c\u0645\u0648\u0639",
-            "id": 13,
-            "bbox": [
-                443,
-                794,
-                478,
-                810
-            ]
-        },
-        {
-            "text": "\u0627\u0644\u0633\u0639\u0631",
-            "id": 14,
-            "bbox": [
-                400,
-                791,
-                424,
-                807
-            ]
-        },
-        {
-            "text": "\u0627\u0644\u0643\u0645\u064a\u0629",
-            "id": 15,
-            "bbox": [
-                358,
-                790,
-                387,
-                806
-            ]
-        },
-        {
-            "text": "\u0627\u0644\u062f\u0642\u0627\u0645",
-            "id": 16,
-            "bbox": [
-                309,
-                788,
-                339,
-                804
+                239,
+                805,
+                279,
+                820
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VAMUUVZY",
-                "UR",
-                "OLD",
-                "SKOOL",
-                "UC",
-                "199.00",
-                "199.00"
+                "T-SHIRTS"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
                 7
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ITEM",
-                "Size",
-                "OTY",
-                "PRICE",
-                "TOTAL",
-                "\u0627\u0644\u0639\u062c\u0645\u0648\u0639",
-                "\u0627\u0644\u0633\u0639\u0631",
-                "\u0627\u0644\u0643\u0645\u064a\u0629",
-                "\u0627\u0644\u062f\u0642\u0627\u0645"
+                "4:07"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08/07/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "584.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062a\u064a",
+                "\u0634\u06cc\u0631\u062a"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FREDPERRY"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A014656",
+                "A036097"
             ],
             "value_id": [
                 8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "245",
+                "339"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

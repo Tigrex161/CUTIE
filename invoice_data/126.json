@@ -1,146 +1,218 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                133,
-                477,
-                153,
-                510
+                312,
+                168,
+                400,
+                182
             ]
         },
         {
-            "text": "Qahwa",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                153,
-                480,
-                221,
-                506
+                414,
+                168,
+                514,
+                181
             ]
         },
         {
-            "text": "Medium",
+            "text": "10/07/20",
             "id": 3,
             "bbox": [
-                237,
-                482,
-                318,
-                507
+                259,
+                455,
+                348,
+                479
             ]
         },
         {
-            "text": "57.00",
+            "text": "20:51",
             "id": 4,
             "bbox": [
-                555,
-                483,
-                622,
-                507
+                362,
+                454,
+                413,
+                477
+            ]
+        },
+        {
+            "text": "134.00",
+            "id": 5,
+            "bbox": [
+                585,
+                769,
+                649,
+                788
+            ]
+        },
+        {
+            "text": "134.00",
+            "id": 6,
+            "bbox": [
+                586,
+                657,
+                648,
+                674
             ]
         },
         {
             "text": "1",
-            "id": 5,
-            "bbox": [
-                126,
-                512,
-                148,
-                545
-            ]
-        },
-        {
-            "text": "Cheese",
-            "id": 6,
-            "bbox": [
-                154,
-                515,
-                235,
-                540
-            ]
-        },
-        {
-            "text": "Cake",
             "id": 7,
             "bbox": [
-                251,
-                516,
-                304,
-                541
+                190,
+                688,
+                216,
+                707
             ]
         },
         {
-            "text": "34.00",
+            "text": "SWAROVSKI",
             "id": 8,
             "bbox": [
-                554,
-                517,
-                622,
-                541
+                189,
+                661,
+                284,
+                677
             ]
         },
         {
-            "text": "Acqua",
+            "text": "JEWELLERY",
             "id": 9,
             "bbox": [
-                155,
-                550,
-                222,
-                577
+                299,
+                660,
+                394,
+                676
             ]
         },
         {
-            "text": "Panna",
+            "text": "1",
             "id": 10,
             "bbox": [
-                238,
-                551,
-                304,
-                575
+                641,
+                714,
+                645,
+                729
             ]
         },
         {
-            "text": "16.00",
+            "text": "900050784",
             "id": 11,
             "bbox": [
-                557,
-                550,
-                621,
-                575
+                245,
+                688,
+                340,
+                705
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "Qahwa",
-                "Medium",
-                "57.00",
-                "1",
-                "Cheese",
-                "Cake",
-                "34.00",
-                "Acqua",
-                "Panna",
-                "16.00"
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SWAROVSKI",
+                "JEWELLERY"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:51"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "134.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900050784"
+            ],
+            "value_id": [
                 11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "134.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

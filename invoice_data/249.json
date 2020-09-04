@@ -1,50 +1,197 @@
 {
     "text_boxes": [
         {
-            "text": "1,200.00",
+            "text": "Gstradivarius",
             "id": 1,
             "bbox": [
-                548,
-                552,
-                611,
-                566
+                248,
+                75,
+                546,
+                141
             ]
         },
         {
-            "text": "1,200.00",
+            "text": "04",
             "id": 2,
             "bbox": [
-                516,
-                565,
-                579,
-                583
+                144,
+                341,
+                173,
+                353
             ]
         },
         {
-            "text": "213361617",
+            "text": "-07-2020",
             "id": 3,
             "bbox": [
-                302,
-                565,
-                373,
-                581
+                180,
+                339,
+                259,
+                353
+            ]
+        },
+        {
+            "text": "19:40",
+            "id": 4,
+            "bbox": [
+                276,
+                341,
+                330,
+                354
+            ]
+        },
+        {
+            "text": "119",
+            "id": 5,
+            "bbox": [
+                539,
+                680,
+                571,
+                695
+            ]
+        },
+        {
+            "text": "119",
+            "id": 6,
+            "bbox": [
+                541,
+                461,
+                571,
+                475
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                286,
+                458,
+                293,
+                472
+            ]
+        },
+        {
+            "text": "0235957300404",
+            "id": 8,
+            "bbox": [
+                261,
+                489,
+                414,
+                504
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 9,
+            "bbox": [
+                443,
+                491,
+                499,
+                505
+            ]
+        },
+        {
+            "text": "10001280",
+            "id": 10,
+            "bbox": [
+                139,
+                486,
+                232,
+                502
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,200.00",
-                "1,200.00",
-                "213361617"
+                "1"
             ],
             "value_id": [
-                1,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0235957300404",
+                "DRESS"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:40"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "04",
+                "-07-2020"
+            ],
+            "value_id": [
                 2,
                 3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "119"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Gstradivarius"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001280"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "119"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

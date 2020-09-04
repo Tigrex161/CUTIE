@@ -1,203 +1,278 @@
 {
     "text_boxes": [
         {
-            "text": "NKCQ7629-100",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                231,
-                399,
-                283,
-                415
+                296,
+                106,
+                491,
+                145
             ]
         },
         {
-            "text": "NS",
+            "text": ".....",
             "id": 2,
             "bbox": [
-                232,
-                415,
-                251,
-                426
+                460,
+                136,
+                489,
+                143
             ]
         },
         {
-            "text": "AIR",
+            "text": "838.90",
             "id": 3,
             "bbox": [
-                254,
-                418,
-                268,
-                428
+                444,
+                438,
+                476,
+                447
             ]
         },
         {
-            "text": "JURDAN",
+            "text": "PB",
             "id": 4,
             "bbox": [
-                272,
-                420,
-                296,
-                432
+                273,
+                433,
+                283,
+                442
             ]
         },
         {
-            "text": "1",
+            "text": "Oud",
             "id": 5,
             "bbox": [
-                299,
-                425,
-                302,
-                431
+                289,
+                434,
+                305,
+                443
             ]
         },
         {
-            "text": "KID",
+            "text": "Wood",
             "id": 6,
             "bbox": [
-                307,
-                425,
-                320,
-                435
+                311,
+                435,
+                333,
+                445
             ]
         },
         {
-            "text": "FEARLES",
+            "text": "New",
             "id": 7,
             "bbox": [
-                325,
-                425,
-                363,
-                439
+                339,
+                436,
+                355,
+                446
             ]
         },
         {
-            "text": "569.00",
+            "text": "EDP",
             "id": 8,
             "bbox": [
-                402,
-                412,
-                429,
-                420
+                361,
+                436,
+                377,
+                447
             ]
         },
         {
-            "text": "569.00",
+            "text": "50ml",
             "id": 9,
             "bbox": [
-                450,
-                410,
-                477,
-                420
+                383,
+                437,
+                402,
+                447
             ]
         },
         {
-            "text": "11",
+            "text": "0.00",
             "id": 10,
             "bbox": [
-                327,
-                410,
-                333,
-                418
+                451,
+                514,
+                472,
+                522
             ]
         },
         {
-            "text": "1TEM",
+            "text": "TF",
             "id": 11,
             "bbox": [
-                232,
-                346,
-                249,
-                357
+                252,
+                505,
+                261,
+                515
             ]
         },
         {
-            "text": "TOTAL",
+            "text": "PHP",
             "id": 12,
             "bbox": [
-                456,
-                360,
-                477,
-                369
+                268,
+                508,
+                284,
+                517
             ]
         },
         {
-            "text": "Size",
+            "text": "Tobacco",
             "id": 13,
             "bbox": [
-                326,
-                360,
-                343,
-                369
+                291,
+                508,
+                328,
+                519
             ]
         },
         {
-            "text": "UTV",
+            "text": "Vanil",
             "id": 14,
             "bbox": [
-                368,
-                360,
-                382,
-                371
+                335,
+                510,
+                359,
+                520
             ]
         },
         {
-            "text": "PRICE",
+            "text": "Lvpc",
             "id": 15,
             "bbox": [
-                402,
-                359,
-                423,
-                371
+                271,
+                542,
+                292,
+                552
+            ]
+        },
+        {
+            "text": "Saint",
+            "id": 16,
+            "bbox": [
+                299,
+                541,
+                325,
+                552
+            ]
+        },
+        {
+            "text": "Sulpt",
+            "id": 17,
+            "bbox": [
+                332,
+                543,
+                356,
+                554
+            ]
+        },
+        {
+            "text": "1,816.00",
+            "id": 18,
+            "bbox": [
+                415,
+                672,
+                461,
+                685
+            ]
+        },
+        {
+            "text": "11-Jul-2020",
+            "id": 19,
+            "bbox": [
+                264,
+                243,
+                327,
+                258
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NKCQ7629-100",
-                "NS",
-                "AIR",
-                "JURDAN",
-                "1",
-                "KID",
-                "FEARLES",
-                "569.00",
-                "569.00",
-                "11"
+                "PB",
+                "Oud",
+                "Wood",
+                "New",
+                "EDP",
+                "50ml",
+                "TF",
+                "PHP",
+                "Tobacco",
+                "Vanil",
+                "Lvpc",
+                "Saint",
+                "Sulpt"
             ],
             "value_id": [
-                1,
-                2,
-                3,
                 4,
                 5,
                 6,
                 7,
                 8,
                 9,
-                10
-            ]
-        },
-        {
-            "field_name": "heading",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1TEM",
-                "TOTAL",
-                "Size",
-                "UTV",
-                "PRICE"
-            ],
-            "value_id": [
                 11,
                 12,
                 13,
                 14,
-                15
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11-Jul-2020"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,816.00"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdales",
+                "....."
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "838.90",
+                "0.00"
+            ],
+            "value_id": [
+                3,
+                10
             ]
         }
     ],

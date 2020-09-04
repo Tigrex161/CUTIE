@@ -1,227 +1,200 @@
 {
     "text_boxes": [
         {
-            "text": "Reference",
+            "text": "AQUAZZURA",
             "id": 1,
             "bbox": [
-                62,
-                502,
-                127,
-                511
+                314,
+                235,
+                422,
+                253
             ]
         },
         {
-            "text": "Size",
+            "text": "15.",
             "id": 2,
             "bbox": [
-                309,
-                500,
-                333,
-                509
+                435,
+                522,
+                443,
+                527
             ]
         },
         {
-            "text": "EARRINGS",
+            "text": "July",
             "id": 3,
             "bbox": [
-                65,
-                519,
-                134,
-                530
+                446,
+                521,
+                458,
+                529
             ]
         },
         {
-            "text": "UNI",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                312,
-                519,
-                331,
+                461,
+                521,
+                476,
                 527
             ]
         },
         {
-            "text": "1,750.00",
+            "text": "5231",
             "id": 5,
             "bbox": [
-                401,
-                514,
-                446,
-                527
+                479,
+                518,
+                506,
+                529
             ]
         },
         {
-            "text": "1,750.00",
+            "text": "1,479.00",
             "id": 6,
             "bbox": [
-                595,
-                501,
-                650,
-                518
+                596,
+                669,
+                624,
+                677
             ]
         },
         {
-            "text": "AB3522B02595N6403",
+            "text": "1479.00",
             "id": 7,
             "bbox": [
-                66,
-                536,
-                195,
-                548
+                596,
+                564,
+                623,
+                574
             ]
         },
         {
-            "text": "wliall",
+            "text": "AQZ",
             "id": 8,
             "bbox": [
-                307,
-                481,
-                332,
-                494
+                329,
+                573,
+                344,
+                578
             ]
         },
         {
-            "text": "asl",
+            "text": "WOMEN",
             "id": 9,
             "bbox": [
-                347,
-                482,
-                367,
-                493
+                346,
+                572,
+                374,
+                578
             ]
         },
         {
-            "text": "\u0633\u0639\u0631",
+            "text": "SHOES",
             "id": 10,
             "bbox": [
-                420,
-                483,
-                435,
-                491
+                378,
+                572,
+                399,
+                578
             ]
         },
         {
-            "text": "\u0627\u0644\u0648\u062d\u062f\u0629",
+            "text": "PSHMIDMO-MTS",
             "id": 11,
             "bbox": [
-                395,
-                479,
-                416,
-                492
-            ]
-        },
-        {
-            "text": "Reference",
-            "id": 12,
-            "bbox": [
-                62,
-                502,
-                127,
-                511
-            ]
-        },
-        {
-            "text": "Amount",
-            "id": 13,
-            "bbox": [
-                599,
-                482,
-                653,
-                495
-            ]
-        },
-        {
-            "text": "Size",
-            "id": 14,
-            "bbox": [
-                309,
-                500,
-                333,
-                509
-            ]
-        },
-        {
-            "text": "Qty",
-            "id": 15,
-            "bbox": [
-                346,
-                499,
-                366,
-                509
-            ]
-        },
-        {
-            "text": "Unit",
-            "id": 16,
-            "bbox": [
-                388,
-                497,
-                411,
-                508
-            ]
-        },
-        {
-            "text": "price",
-            "id": 17,
-            "bbox": [
-                415,
-                496,
-                443,
-                508
+                129,
+                573,
+                194,
+                583
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Reference",
-                "Size",
-                "EARRINGS",
-                "UNI",
-                "1,750.00",
-                "1,750.00",
-                "AB3522B02595N6403"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "heading",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "wliall",
-                "asl",
-                "\u0633\u0639\u0631",
-                "\u0627\u0644\u0648\u062d\u062f\u0629",
-                "Reference",
-                "Amount",
-                "Size",
-                "Qty",
-                "Unit",
-                "price"
+                "AQZ",
+                "WOMEN",
+                "SHOES"
             ],
             "value_id": [
                 8,
                 9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5231"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15.",
+                "July",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,479.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AQUAZZURA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PSHMIDMO-MTS"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1479.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

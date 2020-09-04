@@ -1,311 +1,251 @@
 {
     "text_boxes": [
         {
-            "text": "1641221ALMA",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                93,
-                414,
-                151,
-                421
+                362,
+                162,
+                402,
+                174
             ]
         },
         {
-            "text": "BE",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                157,
-                416,
-                165,
-                420
+                408,
+                162,
+                469,
+                174
             ]
         },
         {
-            "text": "D.",
+            "text": "MALEEKAM",
             "id": 3,
             "bbox": [
-                172,
-                414,
-                182,
-                421
+                388,
+                174,
+                442,
+                182
             ]
         },
         {
-            "text": "EE",
+            "text": "MAON",
             "id": 4,
             "bbox": [
-                184,
-                414,
-                197,
-                421
+                372,
+                201,
+                399,
+                209
             ]
         },
         {
-            "text": "DATLY",
+            "text": "FONDEEN",
             "id": 5,
             "bbox": [
-                93,
-                424,
-                117,
-                429
+                403,
+                201,
+                440,
+                209
             ]
         },
         {
-            "text": "BAGE",
+            "text": "24/07/2020",
             "id": 6,
             "bbox": [
-                123,
-                424,
-                141,
-                429
+                561,
+                387,
+                623,
+                398
             ]
         },
         {
-            "text": "3.142.06",
+            "text": "12:53",
             "id": 7,
             "bbox": [
-                331,
-                418,
-                369,
-                423
+                644,
+                390,
+                673,
+                397
             ]
         },
         {
-            "text": "5.00",
+            "text": "7,100.00",
             "id": 8,
             "bbox": [
-                380,
-                418,
-                402,
-                423
+                697,
+                621,
+                748,
+                629
             ]
         },
         {
-            "text": "267.14",
+            "text": "7,100.00",
             "id": 9,
             "bbox": [
-                454,
-                418,
-                481,
-                425
+                696,
+                455,
+                744,
+                464
             ]
         },
         {
-            "text": "5,142.06",
+            "text": "M44840",
             "id": 10,
             "bbox": [
-                524,
-                418,
-                561,
-                426
+                62,
+                444,
+                98,
+                451
             ]
         },
         {
-            "text": "5.400.00",
+            "text": "MULTI",
             "id": 11,
             "bbox": [
-                603,
-                419,
-                641,
-                425
+                110,
+                444,
+                139,
+                452
             ]
         },
         {
-            "text": "DNITER",
+            "text": "PO.ACC.MNG",
             "id": 12,
             "bbox": [
-                321,
-                427,
-                349,
-                434
+                147,
+                445,
+                206,
+                454
             ]
         },
         {
-            "text": "ERRNE",
+            "text": "VVN",
             "id": 13,
             "bbox": [
-                356,
-                426,
-                379,
-                434
+                213,
+                447,
+                230,
+                454
             ]
         },
         {
-            "text": "Reterence",
+            "text": "ROSE",
             "id": 14,
             "bbox": [
-                93,
-                395,
-                136,
-                402
+                237,
+                448,
+                261,
+                455
             ]
         },
         {
-            "text": "Deacription",
+            "text": "DAILY",
             "id": 15,
             "bbox": [
-                143,
-                396,
-                196,
-                404
+                64,
+                456,
+                93,
+                464
             ]
         },
         {
-            "text": "DEY",
+            "text": "BAGS",
             "id": 16,
             "bbox": [
-                286,
-                399,
-                300,
-                405
-            ]
-        },
-        {
-            "text": "Unit",
-            "id": 17,
-            "bbox": [
-                321,
-                399,
-                339,
-                404
-            ]
-        },
-        {
-            "text": "Price",
-            "id": 18,
-            "bbox": [
-                346,
-                400,
-                369,
-                405
-            ]
-        },
-        {
-            "text": "VAT",
-            "id": 19,
-            "bbox": [
-                385,
-                400,
-                399,
-                405
-            ]
-        },
-        {
-            "text": "VAT",
-            "id": 20,
-            "bbox": [
-                469,
-                401,
-                483,
-                406
-            ]
-        },
-        {
-            "text": "Total",
-            "id": 21,
-            "bbox": [
-                509,
-                400,
-                531,
-                407
-            ]
-        },
-        {
-            "text": "uxVAT",
-            "id": 22,
-            "bbox": [
-                539,
-                399,
-                562,
-                407
-            ]
-        },
-        {
-            "text": "Total",
-            "id": 23,
-            "bbox": [
-                582,
-                401,
-                606,
-                406
-            ]
-        },
-        {
-            "text": "Anount",
-            "id": 24,
-            "bbox": [
-                613,
-                401,
-                639,
-                406
+                100,
+                457,
+                123,
+                463
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1641221ALMA",
-                "BE",
-                "D.",
-                "EE",
-                "DATLY",
-                "BAGE",
-                "3.142.06",
-                "5.00",
-                "267.14",
-                "5,142.06",
-                "5.400.00",
-                "DNITER",
-                "ERRNE"
+                "M44840",
+                "MULTI",
+                "PO.ACC.MNG",
+                "VVN",
+                "ROSE",
+                "DAILY",
+                "BAGS"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:53"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24/07/2020"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7,100.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MALEEKAM",
+                "MAON",
+                "FONDEEN"
             ],
             "value_id": [
                 1,
                 2,
                 3,
                 4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                5
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Reterence",
-                "Deacription",
-                "DEY",
-                "Unit",
-                "Price",
-                "VAT",
-                "VAT",
-                "Total",
-                "uxVAT",
-                "Total",
-                "Anount"
+                "7,100.00"
             ],
             "value_id": [
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21,
-                22,
-                23,
-                24
+                9
             ]
         }
     ],

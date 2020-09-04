@@ -1,194 +1,362 @@
 {
     "text_boxes": [
         {
-            "text": "ALACARONS",
+            "text": "TARSAM",
             "id": 1,
             "bbox": [
-                228,
-                582,
-                292,
-                593
+                286,
+                264,
+                377,
+                277
             ]
         },
         {
-            "text": "20PC",
+            "text": "iMAGE",
             "id": 2,
             "bbox": [
-                294,
+                386,
+                264,
+                453,
+                279
+            ]
+        },
+        {
+            "text": ":",
+            "id": 3,
+            "bbox": [
+                407,
+                388,
+                413,
+                398
+            ]
+        },
+        {
+            "text": "7/18/2020",
+            "id": 4,
+            "bbox": [
+                415,
+                388,
+                453,
+                398
+            ]
+        },
+        {
+            "text": "11:10:36PM",
+            "id": 5,
+            "bbox": [
+                496,
+                387,
+                552,
+                395
+            ]
+        },
+        {
+            "text": "139.00",
+            "id": 6,
+            "bbox": [
+                554,
+                692,
+                591,
+                703
+            ]
+        },
+        {
+            "text": "139.00",
+            "id": 7,
+            "bbox": [
+                571,
+                451,
+                602,
+                461
+            ]
+        },
+        {
+            "text": "0.00",
+            "id": 8,
+            "bbox": [
                 582,
-                318,
-                593
+                497,
+                601,
+                505
             ]
         },
         {
             "text": "1",
-            "id": 3,
-            "bbox": [
-                376,
-                583,
-                383,
-                593
-            ]
-        },
-        {
-            "text": "280.00",
-            "id": 4,
-            "bbox": [
-                386,
-                582,
-                412,
-                593
-            ]
-        },
-        {
-            "text": "260.00",
-            "id": 5,
-            "bbox": [
-                465,
-                585,
-                496,
-                593
-            ]
-        },
-        {
-            "text": "PLUMIER",
-            "id": 6,
-            "bbox": [
-                228,
-                630,
-                276,
-                638
-            ]
-        },
-        {
-            "text": "HEARTS",
-            "id": 7,
-            "bbox": [
-                284,
-                630,
-                325,
-                638
-            ]
-        },
-        {
-            "text": "130.00",
-            "id": 8,
-            "bbox": [
-                466,
-                630,
-                496,
-                638
-            ]
-        },
-        {
-            "text": "LIMITED",
             "id": 9,
             "bbox": [
-                228,
-                638,
-                272,
-                654
+                386,
+                456,
+                388,
+                463
             ]
         },
         {
-            "text": "EDITION",
+            "text": "Giant",
             "id": 10,
             "bbox": [
-                278,
-                638,
-                321,
-                650
+                223,
+                455,
+                246,
+                463
             ]
         },
         {
-            "text": "TARLET",
+            "text": "Pool",
             "id": 11,
             "bbox": [
-                229,
-                688,
-                266,
-                695
+                251,
+                456,
+                270,
+                463
             ]
         },
         {
-            "text": "MILN",
+            "text": "Float-VWhite",
             "id": 12,
             "bbox": [
-                273,
-                688,
-                300,
-                695
+                274,
+                456,
+                326,
+                463
             ]
         },
         {
-            "text": "38.00",
+            "text": "Swan",
             "id": 13,
             "bbox": [
-                387,
-                688,
-                412,
-                695
+                223,
+                467,
+                247,
+                475
             ]
         },
         {
-            "text": "76.00",
+            "text": "BMPF-Ws",
             "id": 14,
             "bbox": [
-                470,
-                688,
-                494,
-                695
+                252,
+                467,
+                299,
+                475
             ]
         },
         {
-            "text": "CHOCOLATE",
+            "text": "Giant",
             "id": 15,
             "bbox": [
-                228,
-                696,
+                223,
+                499,
+                247,
+                509
+            ]
+        },
+        {
+            "text": "Donuts",
+            "id": 16,
+            "bbox": [
+                251,
+                499,
+                283,
+                508
+            ]
+        },
+        {
+            "text": "Strawberry",
+            "id": 17,
+            "bbox": [
+                224,
+                509,
+                272,
+                522
+            ]
+        },
+        {
+            "text": "Pool",
+            "id": 18,
+            "bbox": [
+                276,
+                511,
                 295,
-                712
+                519
+            ]
+        },
+        {
+            "text": "Float",
+            "id": 19,
+            "bbox": [
+                300,
+                511,
+                321,
+                520
+            ]
+        },
+        {
+            "text": "BM1516",
+            "id": 20,
+            "bbox": [
+                224,
+                524,
+                260,
+                531
+            ]
+        },
+        {
+            "text": "2",
+            "id": 21,
+            "bbox": [
+                392,
+                561,
+                397,
+                571
+            ]
+        },
+        {
+            "text": "0600001339",
+            "id": 22,
+            "bbox": [
+                145,
+                456,
+                201,
+                463
+            ]
+        },
+        {
+            "text": "0600001275",
+            "id": 23,
+            "bbox": [
+                146,
+                500,
+                201,
+                508
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ALACARONS",
-                "20PC",
-                "1",
-                "280.00",
-                "260.00",
-                "PLUMIER",
-                "HEARTS",
-                "130.00",
-                "LIMITED",
-                "EDITION",
-                "TARLET",
-                "MILN",
-                "38.00",
-                "76.00",
-                "CHOCOLATE"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Giant",
+                "Pool",
+                "Float-VWhite",
+                "Swan",
+                "BMPF-Ws",
+                "Giant",
+                "Donuts",
+                "Strawberry",
+                "Pool",
+                "Float",
+                "BM1516"
+            ],
+            "value_id": [
                 10,
                 11,
                 12,
                 13,
                 14,
-                15
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                21
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:10:36PM"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ":",
+                "7/18/2020"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "139.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TARSAM",
+                "iMAGE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0600001339",
+                "0600001275"
+            ],
+            "value_id": [
+                22,
+                23
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "139.00",
+                "0.00"
+            ],
+            "value_id": [
+                7,
+                8
             ]
         }
     ],

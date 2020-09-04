@@ -1,0 +1,165 @@
+{
+    "text_boxes": [
+        {
+            "text": "29/07/20",
+            "id": 1,
+            "bbox": [
+                286,
+                492,
+                332,
+                504
+            ]
+        },
+        {
+            "text": "DSNY",
+            "id": 2,
+            "bbox": [
+                289,
+                581,
+                311,
+                593
+            ]
+        },
+        {
+            "text": "PLSH",
+            "id": 3,
+            "bbox": [
+                318,
+                581,
+                341,
+                592
+            ]
+        },
+        {
+            "text": "SNUGGLETIM",
+            "id": 4,
+            "bbox": [
+                348,
+                580,
+                405,
+                592
+            ]
+        },
+        {
+            "text": "DSNEY",
+            "id": 5,
+            "bbox": [
+                290,
+                611,
+                318,
+                622
+            ]
+        },
+        {
+            "text": "PLSH",
+            "id": 6,
+            "bbox": [
+                325,
+                611,
+                348,
+                621
+            ]
+        },
+        {
+            "text": "YSI",
+            "id": 7,
+            "bbox": [
+                389,
+                609,
+                405,
+                619
+            ]
+        },
+        {
+            "text": "85.00",
+            "id": 8,
+            "bbox": [
+                476,
+                576,
+                505,
+                588
+            ]
+        },
+        {
+            "text": "44.00",
+            "id": 9,
+            "bbox": [
+                477,
+                606,
+                506,
+                618
+            ]
+        },
+        {
+            "text": "129.00",
+            "id": 10,
+            "bbox": [
+                484,
+                633,
+                517,
+                646
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "129.00"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "29/07/20"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DSNY",
+                "PLSH",
+                "SNUGGLETIM",
+                "DSNEY",
+                "PLSH",
+                "YSI"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "85.00",
+                "44.00"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/989.jpg"
+    }
+}

@@ -1,230 +1,245 @@
 {
     "text_boxes": [
         {
-            "text": "3",
+            "text": "MIZEN",
             "id": 1,
             "bbox": [
-                252,
-                632,
-                262,
-                647
+                496,
+                234,
+                706,
+                277
             ]
         },
         {
-            "text": "PAPA",
+            "text": "09/",
             "id": 2,
             "bbox": [
-                277,
-                632,
-                335,
-                650
+                505,
+                490,
+                522,
+                498
             ]
         },
         {
-            "text": "S",
+            "text": "07/2020",
             "id": 3,
             "bbox": [
-                344,
-                634,
-                357,
-                650
+                523,
+                488,
+                563,
+                498
             ]
         },
         {
-            "text": "BUN",
+            "text": "12.46",
             "id": 4,
             "bbox": [
-                366,
-                634,
-                410,
-                652
+                569,
+                487,
+                596,
+                497
             ]
         },
         {
-            "text": "39.00",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                591,
-                638,
-                648,
-                657
+                600,
+                488,
+                614,
+                497
             ]
         },
         {
-            "text": "1",
+            "text": "195.00",
             "id": 6,
             "bbox": [
-                252,
-                695,
-                257,
-                711
+                669,
+                705,
+                701,
+                715
             ]
         },
         {
-            "text": "HOT",
+            "text": "195.00",
             "id": 7,
             "bbox": [
-                276,
-                695,
-                319,
-                713
+                669,
+                682,
+                701,
+                690
             ]
         },
         {
-            "text": "CHOCOLATE",
+            "text": "3",
             "id": 8,
             "bbox": [
-                327,
-                696,
-                464,
-                717
+                265,
+                686,
+                270,
+                694
             ]
         },
         {
-            "text": "28.00",
+            "text": "3",
             "id": 9,
             "bbox": [
-                592,
-                702,
-                647,
-                719
+                268,
+                708,
+                273,
+                715
             ]
         },
         {
-            "text": "1",
+            "text": "Protective",
             "id": 10,
             "bbox": [
-                250,
-                761,
-                255,
-                775
+                41,
+                688,
+                90,
+                698
             ]
         },
         {
-            "text": "PAPPA",
+            "text": "Lip",
             "id": 11,
             "bbox": [
-                274,
-                759,
-                348,
-                778
+                94,
+                688,
+                108,
+                699
             ]
         },
         {
-            "text": "MILK",
+            "text": "Balm",
             "id": 12,
             "bbox": [
-                357,
-                762,
-                407,
-                780
+                113,
+                687,
+                137,
+                697
             ]
         },
         {
-            "text": "TEA",
+            "text": "SPF30",
             "id": 13,
             "bbox": [
-                415,
-                762,
-                456,
-                780
+                142,
+                686,
+                175,
+                697
             ]
         },
         {
-            "text": "23.00",
+            "text": "5,5g",
             "id": 14,
             "bbox": [
-                592,
-                767,
-                647,
-                785
-            ]
-        },
-        {
-            "text": "2",
-            "id": 15,
-            "bbox": [
-                247,
-                824,
-                257,
-                840
-            ]
-        },
-        {
-            "text": "STILL",
-            "id": 16,
-            "bbox": [
-                272,
-                824,
-                328,
-                843
-            ]
-        },
-        {
-            "text": "WATER",
-            "id": 17,
-            "bbox": [
-                336,
-                825,
-                418,
-                844
-            ]
-        },
-        {
-            "text": "24.00",
-            "id": 18,
-            "bbox": [
-                591,
-                831,
-                646,
-                849
+                179,
+                686,
+                199,
+                697
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3",
-                "PAPA",
-                "S",
-                "BUN",
-                "39.00",
-                "1",
-                "HOT",
-                "CHOCOLATE",
-                "28.00",
-                "1",
-                "PAPPA",
-                "MILK",
-                "TEA",
-                "23.00",
-                "2",
-                "STILL",
-                "WATER",
-                "24.00"
+                "3"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Protective",
+                "Lip",
+                "Balm",
+                "SPF30",
+                "5,5g"
+            ],
+            "value_id": [
                 10,
                 11,
                 12,
                 13,
-                14,
-                15,
-                16,
-                17,
-                18
+                14
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12.46",
+                "PM"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "09/",
+                "07/2020"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "195.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MIZEN"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "195.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

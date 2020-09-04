@@ -1,170 +1,155 @@
 {
     "text_boxes": [
         {
-            "text": "Black",
+            "text": "bloomingdoles",
             "id": 1,
             "bbox": [
-                417,
-                558,
-                474,
-                578
+                217,
+                177,
+                423,
+                213
             ]
         },
         {
-            "text": "IcedTe",
+            "text": "24-Jul-2020",
             "id": 2,
             "bbox": [
-                490,
-                556,
-                559,
-                577
+                191,
+                312,
+                255,
+                321
             ]
         },
         {
-            "text": "15.75",
+            "text": "515.00",
             "id": 3,
             "bbox": [
-                255,
-                560,
-                308,
-                580
+                397,
+                528,
+                432,
+                541
             ]
         },
         {
-            "text": "1",
+            "text": "515.00",
             "id": 4,
             "bbox": [
-                601,
-                557,
-                605,
-                575
+                396,
+                437,
+                431,
+                448
             ]
         },
         {
-            "text": "1",
+            "text": "BASIC",
             "id": 5,
             "bbox": [
-                601,
-                605,
-                606,
-                624
+                192,
+                440,
+                220,
+                449
             ]
         },
         {
-            "text": "71.40",
+            "text": "STUSSY",
             "id": 6,
             "bbox": [
-                251,
-                607,
-                307,
-                627
+                228,
+                440,
+                262,
+                448
             ]
         },
         {
-            "text": "Pine",
+            "text": "HDOD",
             "id": 7,
             "bbox": [
-                416,
-                607,
-                461,
-                626
+                270,
+                440,
+                292,
+                448
             ]
         },
         {
-            "text": "Ck",
+            "text": "213906262",
             "id": 8,
             "bbox": [
-                476,
-                605,
-                497,
-                625
-            ]
-        },
-        {
-            "text": "35.70",
-            "id": 9,
-            "bbox": [
-                248,
-                656,
-                304,
-                676
-            ]
-        },
-        {
-            "text": "Cin",
-            "id": 10,
-            "bbox": [
-                435,
-                654,
-                479,
-                680
-            ]
-        },
-        {
-            "text": "Swl",
-            "id": 11,
-            "bbox": [
-                488,
-                655,
-                519,
-                677
-            ]
-        },
-        {
-            "text": "CC",
-            "id": 12,
-            "bbox": [
-                537,
-                656,
-                559,
-                676
-            ]
-        },
-        {
-            "text": "1",
-            "id": 13,
-            "bbox": [
-                602,
-                656,
-                607,
-                676
+                203,
+                449,
+                257,
+                461
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Black",
-                "IcedTe",
-                "15.75",
-                "1",
-                "1",
-                "71.40",
-                "Pine",
-                "Ck",
-                "35.70",
-                "Cin",
-                "Swl",
-                "CC",
-                "1"
+                "BASIC",
+                "STUSSY",
+                "HDOD"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
                 5,
                 6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24-Jul-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "515.00"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdoles"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "213906262"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "515.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

@@ -1,110 +1,125 @@
 {
     "text_boxes": [
         {
-            "text": "BEYOND",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                185,
-                633,
-                250,
-                652
+                356,
+                47,
+                516,
+                76
             ]
         },
         {
-            "text": "BURGER",
+            "text": "1,068.00",
             "id": 2,
             "bbox": [
-                261,
-                637,
-                324,
-                655
+                495,
+                407,
+                531,
+                417
             ]
         },
         {
-            "text": "1.135K",
+            "text": "1,088.00",
             "id": 3,
             "bbox": [
-                337,
-                640,
-                398,
-                659
+                492,
+                296,
+                529,
+                306
             ]
         },
         {
-            "text": "99.00",
+            "text": "LUX",
             "id": 4,
             "bbox": [
-                514,
-                643,
-                565,
-                658
+                369,
+                299,
+                382,
+                306
             ]
         },
         {
-            "text": "V",
+            "text": "RG",
             "id": 5,
             "bbox": [
-                578,
-                645,
-                585,
-                658
+                388,
+                299,
+                396,
+                306
             ]
         },
         {
-            "text": "1KG",
+            "text": "EDP",
             "id": 6,
             "bbox": [
-                352,
-                682,
-                376,
-                705
+                402,
+                299,
+                415,
+                306
             ]
         },
         {
-            "text": "11.00",
+            "text": "GAR",
             "id": 7,
             "bbox": [
-                516,
-                688,
-                566,
-                704
-            ]
-        },
-        {
-            "text": "V",
-            "id": 8,
-            "bbox": [
-                579,
-                689,
-                587,
-                703
+                421,
+                298,
+                434,
+                306
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BEYOND",
-                "BURGER",
-                "1.135K",
-                "99.00",
-                "V",
-                "1KG",
-                "11.00",
-                "V"
+                "bloomingdales"
             ],
             "value_id": [
-                1,
-                2,
-                3,
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,068.00"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LUX",
+                "RG",
+                "EDP",
+                "GAR"
+            ],
+            "value_id": [
                 4,
                 5,
                 6,
-                7,
-                8
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,088.00"
+            ],
+            "value_id": [
+                3
             ]
         }
     ],

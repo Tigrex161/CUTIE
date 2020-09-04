@@ -1,155 +1,176 @@
 {
     "text_boxes": [
         {
-            "text": "3603652141762",
+            "text": "07/28/20",
             "id": 1,
             "bbox": [
-                278,
-                532,
-                351,
-                544
+                252,
+                542,
+                328,
+                556
             ]
         },
         {
-            "text": "LIMA",
+            "text": "9:50",
             "id": 2,
             "bbox": [
-                358,
-                533,
-                379,
-                544
+                350,
+                542,
+                388,
+                556
             ]
         },
         {
-            "text": "3603652141762",
+            "text": "159",
             "id": 3,
             "bbox": [
-                278,
-                559,
-                351,
-                572
+                548,
+                802,
+                575,
+                817
             ]
         },
         {
-            "text": "1",
+            "text": "159",
             "id": 4,
             "bbox": [
-                359,
-                562,
-                361,
-                571
+                550,
+                704,
+                577,
+                718
             ]
         },
         {
-            "text": "373.00",
+            "text": "BW",
             "id": 5,
             "bbox": [
-                397,
-                562,
-                430,
-                572
+                263,
+                701,
+                281,
+                715
             ]
         },
         {
-            "text": "373.00",
+            "text": "BOXERS",
             "id": 6,
             "bbox": [
-                470,
-                563,
-                503,
-                572
+                293,
+                701,
+                349,
+                715
             ]
         },
         {
-            "text": "Descript",
+            "text": "A043457",
             "id": 7,
             "bbox": [
-                278,
-                490,
-                321,
-                503
+                186,
+                700,
+                251,
+                713
             ]
         },
         {
-            "text": "ion",
+            "text": "\u0645\u0644\u0627\u0628\u0633",
             "id": 8,
             "bbox": [
-                323,
-                489,
-                343,
-                502
+                286,
+                721,
+                325,
+                738
             ]
         },
         {
-            "text": "Qty",
+            "text": "\u0633\u0628\u0627\u062d\u0629",
             "id": 9,
             "bbox": [
-                352,
-                491,
-                367,
-                502
-            ]
-        },
-        {
-            "text": "Price",
-            "id": 10,
-            "bbox": [
-                397,
-                491,
-                425,
-                503
-            ]
-        },
-        {
-            "text": "Amount",
-            "id": 11,
-            "bbox": [
-                470,
-                493,
-                502,
-                504
+                243,
+                719,
+                276,
+                736
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3603652141762",
-                "LIMA",
-                "3603652141762",
-                "1",
-                "373.00",
-                "373.00"
+                "BW",
+                "BOXERS"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
                 5,
                 6
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Descript",
-                "ion",
-                "Qty",
-                "Price",
-                "Amount"
+                "9:50"
             ],
             "value_id": [
-                7,
+                2
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/28/20"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "159"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0644\u0627\u0628\u0633",
+                "\u0633\u0628\u0627\u062d\u0629"
+            ],
+            "value_id": [
                 8,
-                9,
-                10,
-                11
+                9
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A043457"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "159"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

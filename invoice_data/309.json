@@ -1,143 +1,266 @@
 {
     "text_boxes": [
         {
-            "text": "A012712",
+            "text": "WEEKEND",
             "id": 1,
             "bbox": [
-                167,
-                659,
-                250,
-                677
+                359,
+                341,
+                518,
+                359
             ]
         },
         {
-            "text": "T-SHIRTS",
+            "text": "MaxMara",
             "id": 2,
             "bbox": [
-                265,
-                656,
-                358,
-                676
+                404,
+                375,
+                474,
+                393
+            ]
+        },
+        {
+            "text": "June,",
+            "id": 3,
+            "bbox": [
+                592,
+                467,
+                625,
+                478
+            ]
+        },
+        {
+            "text": "23",
+            "id": 4,
+            "bbox": [
+                637,
+                468,
+                650,
+                476
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 5,
+            "bbox": [
+                659,
+                468,
+                686,
+                479
+            ]
+        },
+        {
+            "text": "21:36",
+            "id": 6,
+            "bbox": [
+                695,
+                470,
+                729,
+                480
+            ]
+        },
+        {
+            "text": "1,792.",
+            "id": 7,
+            "bbox": [
+                660,
+                827,
+                701,
+                840
+            ]
+        },
+        {
+            "text": "00",
+            "id": 8,
+            "bbox": [
+                703,
+                828,
+                720,
+                840
+            ]
+        },
+        {
+            "text": "1,792.00",
+            "id": 9,
+            "bbox": [
+                659,
+                731,
+                717,
+                743
             ]
         },
         {
             "text": "1",
-            "id": 3,
-            "bbox": [
-                410,
-                656,
-                417,
-                672
-            ]
-        },
-        {
-            "text": "285",
-            "id": 4,
-            "bbox": [
-                611,
-                650,
-                644,
-                668
-            ]
-        },
-        {
-            "text": "QTY",
-            "id": 5,
-            "bbox": [
-                371,
-                573,
-                402,
-                588
-            ]
-        },
-        {
-            "text": "DIS%",
-            "id": 6,
-            "bbox": [
-                428,
-                571,
-                473,
-                588
-            ]
-        },
-        {
-            "text": "VAT%",
-            "id": 7,
-            "bbox": [
-                498,
-                569,
-                542,
-                585
-            ]
-        },
-        {
-            "text": "ITEM",
-            "id": 8,
-            "bbox": [
-                172,
-                578,
-                217,
-                592
-            ]
-        },
-        {
-            "text": "DESC",
-            "id": 9,
-            "bbox": [
-                266,
-                576,
-                310,
-                591
-            ]
-        },
-        {
-            "text": "AED",
             "id": 10,
             "bbox": [
-                603,
-                567,
-                635,
-                582
+                467,
+                728,
+                485,
+                741
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                477,
+                827,
+                481,
+                835
+            ]
+        },
+        {
+            "text": "52210507-001:",
+            "id": 12,
+            "bbox": [
+                231,
+                702,
+                320,
+                713
+            ]
+        },
+        {
+            "text": "WMX.001:42:RICAMO",
+            "id": 13,
+            "bbox": [
+                324,
+                703,
+                454,
+                715
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 14,
+            "bbox": [
+                463,
+                706,
+                498,
+                715
+            ]
+        },
+        {
+            "text": "258924819237",
+            "id": 15,
+            "bbox": [
+                130,
+                702,
+                221,
+                712
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "A012712",
-                "T-SHIRTS",
-                "1",
-                "285"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4
+                10
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "QTY",
-                "DIS%",
-                "VAT%",
-                "ITEM",
-                "DESC",
-                "AED"
+                "52210507-001:",
+                "WMX.001:42:RICAMO",
+                "DRESS"
             ],
             "value_id": [
-                5,
-                6,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:36"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "June,",
+                "23",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,792.",
+                "00"
+            ],
+            "value_id": [
                 7,
-                8,
-                9,
-                10
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WEEKEND",
+                "MaxMara"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "258924819237"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,792.00"
+            ],
+            "value_id": [
+                9
             ]
         }
     ],

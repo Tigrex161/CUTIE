@@ -1,251 +1,212 @@
 {
     "text_boxes": [
         {
-            "text": "TW2POS93RQR",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                381,
-                263,
-                393,
-                377
+                337,
+                249,
+                462,
+                284
             ]
         },
         {
-            "text": "WALLET",
+            "text": "16/07/2020",
             "id": 2,
             "bbox": [
-                382,
-                457,
-                393,
-                517
+                128,
+                744,
+                174,
+                756
             ]
         },
         {
-            "text": "ON",
+            "text": "12:18:27",
             "id": 3,
             "bbox": [
-                382,
-                523,
-                393,
-                542
+                178,
+                744,
+                212,
+                752
             ]
         },
         {
-            "text": "CHAIN",
+            "text": "1,470.00",
             "id": 4,
             "bbox": [
-                383,
-                553,
-                396,
-                589
+                696,
+                584,
+                724,
+                590
             ]
         },
         {
-            "text": "16U",
+            "text": "1,470.00",
             "id": 5,
             "bbox": [
-                384,
-                693,
-                393,
-                716
+                695,
+                548,
+                724,
+                556
             ]
         },
         {
-            "text": "UNI",
+            "text": "COMPACT",
             "id": 6,
             "bbox": [
-                384,
-                756,
-                393,
-                778
+                160,
+                562,
+                191,
+                569
             ]
         },
         {
-            "text": "3,590.48",
+            "text": "WAL",
             "id": 7,
             "bbox": [
-                382,
-                868,
-                394,
-                924
+                193,
+                562,
+                207,
+                568
             ]
         },
         {
-            "text": "5.000",
+            "text": "MUSTE",
             "id": 8,
             "bbox": [
-                384,
-                1080,
-                395,
-                1114
+                209,
+                561,
+                232,
+                567
             ]
         },
         {
-            "text": "3,770.00",
+            "text": "CCELKA",
             "id": 9,
             "bbox": [
-                385,
-                1190,
-                397,
-                1241
+                235,
+                560,
+                262,
+                566
             ]
         },
         {
-            "text": "ARTICLE",
+            "text": "BON",
             "id": 10,
             "bbox": [
-                415,
-                262,
-                426,
-                327
+                265,
+                560,
+                277,
+                564
             ]
         },
         {
-            "text": "DESCRIPTION",
+            "text": "CALF",
             "id": 11,
             "bbox": [
-                413,
-                458,
-                426,
-                555
+                280,
+                557,
+                294,
+                563
             ]
         },
         {
-            "text": "COL",
+            "text": "LI001549",
             "id": 12,
             "bbox": [
-                414,
-                691,
-                425,
-                719
-            ]
-        },
-        {
-            "text": "SIZE",
-            "id": 13,
-            "bbox": [
-                414,
-                753,
-                424,
-                782
-            ]
-        },
-        {
-            "text": "QTY",
-            "id": 14,
-            "bbox": [
-                414,
-                813,
-                425,
-                843
-            ]
-        },
-        {
-            "text": "Unit",
-            "id": 15,
-            "bbox": [
-                415,
-                863,
-                425,
-                887
-            ]
-        },
-        {
-            "text": "Price",
-            "id": 16,
-            "bbox": [
-                415,
-                893,
-                425,
-                924
-            ]
-        },
-        {
-            "text": "Disc%",
-            "id": 17,
-            "bbox": [
-                416,
-                1011,
-                428,
-                1052
-            ]
-        },
-        {
-            "text": "VAT%",
-            "id": 18,
-            "bbox": [
-                415,
-                1080,
-                429,
-                1118
-            ]
-        },
-        {
-            "text": "TOTAL",
-            "id": 19,
-            "bbox": [
-                417,
-                1158,
-                428,
-                1199
+                202,
+                570,
+                238,
+                578
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TW2POS93RQR",
-                "WALLET",
-                "ON",
-                "CHAIN",
-                "16U",
-                "UNI",
-                "3,590.48",
-                "5.000",
-                "3,770.00"
+                "COMPACT",
+                "WAL",
+                "MUSTE",
+                "CCELKA",
+                "BON",
+                "CALF"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
                 6,
                 7,
                 8,
-                9
+                9,
+                10,
+                11
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ARTICLE",
-                "DESCRIPTION",
-                "COL",
-                "SIZE",
-                "QTY",
-                "Unit",
-                "Price",
-                "Disc%",
-                "VAT%",
-                "TOTAL"
+                "12:18:27"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16/07/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,470.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Cartier"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LI001549"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,470.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

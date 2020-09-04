@@ -1,218 +1,200 @@
 {
     "text_boxes": [
         {
-            "text": "15.00",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                244,
-                536,
-                288,
-                550
+                508,
+                400,
+                535,
+                409
             ]
         },
         {
-            "text": "Still",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                386,
-                532,
-                429,
-                548
+                548,
+                399,
+                577,
+                408
             ]
         },
         {
-            "text": "Small",
+            "text": "18:20",
             "id": 3,
             "bbox": [
-                443,
-                531,
-                487,
-                548
+                588,
+                400,
+                624,
+                408
             ]
         },
         {
-            "text": "1",
+            "text": "190.00",
             "id": 4,
             "bbox": [
-                522,
-                532,
-                525,
-                546
+                653,
+                678,
+                697,
+                689
             ]
         },
         {
-            "text": "30.00",
+            "text": "190.",
             "id": 5,
             "bbox": [
-                241,
-                580,
-                287,
-                597
+                663,
+                578,
+                688,
+                588
             ]
         },
         {
-            "text": "Tropical",
+            "text": "00",
             "id": 6,
             "bbox": [
-                416,
-                577,
-                489,
-                595
+                693,
+                578,
+                707,
+                587
             ]
         },
         {
             "text": "1",
             "id": 7,
             "bbox": [
-                524,
-                578,
-                528,
-                591
+                463,
+                580,
+                465,
+                588
             ]
         },
         {
-            "text": "60.00",
+            "text": "EES393-CRCOSC:",
             "id": 8,
             "bbox": [
-                240,
-                627,
-                287,
-                643
+                98,
+                550,
+                215,
+                565
             ]
         },
         {
-            "text": "HSP",
+            "text": "ADS.CRCOSC:",
             "id": 9,
             "bbox": [
-                465,
-                624,
-                493,
-                640
+                217,
+                550,
+                301,
+                565
             ]
         },
         {
-            "text": "1",
+            "text": "8:CONTINENTAL",
             "id": 10,
             "bbox": [
-                526,
-                624,
-                530,
-                639
+                303,
+                551,
+                399,
+                566
             ]
         },
         {
-            "text": "60.00",
+            "text": "000224808552",
             "id": 11,
             "bbox": [
-                238,
-                676,
-                286,
-                692
-            ]
-        },
-        {
-            "text": "Wagyu",
-            "id": 12,
-            "bbox": [
-                377,
-                673,
-                425,
-                692
-            ]
-        },
-        {
-            "text": "Slider",
-            "id": 13,
-            "bbox": [
-                437,
-                671,
-                495,
-                690
-            ]
-        },
-        {
-            "text": "1",
-            "id": 14,
-            "bbox": [
-                529,
-                673,
-                533,
-                687
-            ]
-        },
-        {
-            "text": "Pacific",
-            "id": 15,
-            "bbox": [
-                372,
-                717,
-                459,
-                742
-            ]
-        },
-        {
-            "text": "Roll",
-            "id": 16,
-            "bbox": [
-                459,
-                720,
-                495,
-                739
-            ]
-        },
-        {
-            "text": "55.00",
-            "id": 17,
-            "bbox": [
-                236,
-                724,
-                285,
-                742
+                100,
+                578,
+                194,
+                587
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15.00",
-                "Still",
-                "Small",
-                "1",
-                "30.00",
-                "Tropical",
-                "1",
-                "60.00",
-                "HSP",
-                "1",
-                "60.00",
-                "Wagyu",
-                "Slider",
-                "1",
-                "Pacific",
-                "Roll",
-                "55.00"
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "EES393-CRCOSC:",
+                "ADS.CRCOSC:",
+                "8:CONTINENTAL"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "190.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "000224808552"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "190.",
+                "00"
+            ],
+            "value_id": [
                 5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
+                6
             ]
         }
     ],

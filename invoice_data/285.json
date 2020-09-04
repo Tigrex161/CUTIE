@@ -1,146 +1,131 @@
 {
     "text_boxes": [
         {
-            "text": "*2",
+            "text": "270.00",
             "id": 1,
             "bbox": [
-                222,
-                560,
-                249,
-                580
+                567,
+                759,
+                614,
+                777
             ]
         },
         {
-            "text": "The",
+            "text": "270.00",
             "id": 2,
             "bbox": [
-                250,
-                562,
-                284,
-                578
+                569,
+                643,
+                616,
+                660
             ]
         },
         {
-            "text": "Sando",
+            "text": "100",
             "id": 3,
             "bbox": [
-                293,
-                562,
-                351,
-                579
+                422,
+                641,
+                443,
+                656
             ]
         },
         {
-            "text": "AED90.00",
+            "text": "Firenze",
             "id": 4,
             "bbox": [
-                568,
-                560,
-                665,
-                576
+                240,
+                636,
+                300,
+                655
             ]
         },
         {
-            "text": "2",
+            "text": "100",
             "id": 5,
             "bbox": [
-                255,
+                594,
+                705,
                 615,
-                264,
-                630
+                721
             ]
         },
         {
-            "text": "Mild",
+            "text": "6757030",
             "id": 6,
             "bbox": [
-                273,
-                613,
-                309,
-                630
-            ]
-        },
-        {
-            "text": "+AEDO.00",
-            "id": 7,
-            "bbox": [
-                538,
-                612,
+                155,
                 634,
-                628
-            ]
-        },
-        {
-            "text": "AED24.00",
-            "id": 8,
-            "bbox": [
-                569,
-                638,
-                666,
-                654
-            ]
-        },
-        {
-            "text": "*2",
-            "id": 9,
-            "bbox": [
-                224,
-                666,
-                242,
-                681
-            ]
-        },
-        {
-            "text": "Cola",
-            "id": 10,
-            "bbox": [
-                250,
-                664,
-                292,
-                681
-            ]
-        },
-        {
-            "text": "AED32.00",
-            "id": 11,
-            "bbox": [
-                569,
-                664,
-                666,
-                679
+                213,
+                651
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "*2",
-                "The",
-                "Sando",
-                "AED90.00",
-                "2",
-                "Mild",
-                "+AEDO.00",
-                "AED24.00",
-                "*2",
-                "Cola",
-                "AED32.00"
+                "100"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Firenze"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "270.00"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6757030"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "270.00"
+            ],
+            "value_id": [
+                2
             ]
         }
     ],

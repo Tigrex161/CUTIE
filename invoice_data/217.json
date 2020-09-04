@@ -1,155 +1,257 @@
 {
     "text_boxes": [
         {
-            "text": "FLAPBAG",
+            "text": "ANGELINA",
             "id": 1,
             "bbox": [
-                137,
-                574,
-                188,
-                584
+                316,
+                167,
+                482,
+                209
             ]
         },
         {
-            "text": "UNI",
+            "text": "11/07/20",
             "id": 2,
             "bbox": [
-                356,
-                572,
-                373,
-                580
+                319,
+                583,
+                401,
+                606
             ]
         },
         {
-            "text": "1.",
+            "text": "10:14",
             "id": 3,
             "bbox": [
-                394,
-                571,
-                403,
-                581
+                544,
+                580,
+                594,
+                599
             ]
         },
         {
-            "text": "28,070.00",
+            "text": "198.00",
             "id": 4,
             "bbox": [
-                433,
-                568,
-                485,
-                579
+                509,
+                971,
+                569,
+                991
             ]
         },
         {
-            "text": "A58600Y01864C3906",
+            "text": "140.00",
             "id": 5,
             "bbox": [
-                137,
-                589,
-                248,
-                600
+                504,
+                814,
+                565,
+                832
             ]
         },
         {
-            "text": "Unit",
+            "text": "58.00",
             "id": 6,
             "bbox": [
-                428,
-                553,
-                451,
-                561
+                515,
+                893,
+                567,
+                911
             ]
         },
         {
-            "text": "price",
+            "text": "2",
             "id": 7,
             "bbox": [
-                455,
-                552,
-                483,
-                563
+                207,
+                819,
+                217,
+                837
             ]
         },
         {
-            "text": "Reference",
+            "text": "2",
             "id": 8,
             "bbox": [
-                134,
-                558,
-                191,
-                567
+                208,
+                898,
+                217,
+                916
             ]
         },
         {
-            "text": "Size",
+            "text": "Egg",
             "id": 9,
             "bbox": [
-                355,
-                554,
-                380,
-                565
+                176,
+                793,
+                205,
+                814
             ]
         },
         {
-            "text": "Qty",
+            "text": "Benedict",
             "id": 10,
             "bbox": [
-                388,
-                554,
-                407,
-                564
+                218,
+                791,
+                299,
+                811
             ]
         },
         {
-            "text": "Amount",
+            "text": "\u0628\u0646\u062f\u064a\u0643\u062a",
             "id": 11,
             "bbox": [
-                624,
-                546,
-                670,
-                557
+                282,
+                766,
+                343,
+                782
+            ]
+        },
+        {
+            "text": "\u0628",
+            "id": 12,
+            "bbox": [
+                260,
+                775,
+                270,
+                782
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0633\u0644\u0645\u0648\u0646",
+            "id": 13,
+            "bbox": [
+                187,
+                767,
+                255,
+                786
+            ]
+        },
+        {
+            "text": "\u0623\u0645\u0631",
+            "id": 14,
+            "bbox": [
+                232,
+                843,
+                257,
+                863
+            ]
+        },
+        {
+            "text": "\u0628\u06cc\u0643\u0627\u0646\u0648",
+            "id": 15,
+            "bbox": [
+                179,
+                845,
+                228,
+                865
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FLAPBAG",
-                "UNI",
-                "1.",
-                "28,070.00",
-                "A58600Y01864C3906"
+                "2",
+                "2"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5
+                7,
+                8
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Unit",
-                "price",
-                "Reference",
-                "Size",
-                "Qty",
-                "Amount"
+                "Egg",
+                "Benedict"
             ],
             "value_id": [
-                6,
-                7,
-                8,
                 9,
-                10,
-                11
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10:14"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11/07/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "198.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0628\u0646\u062f\u064a\u0643\u062a",
+                "\u0628",
+                "\u0627\u0644\u0633\u0644\u0645\u0648\u0646",
+                "\u0623\u0645\u0631",
+                "\u0628\u06cc\u0643\u0627\u0646\u0648"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ANGELINA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "140.00",
+                "58.00"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

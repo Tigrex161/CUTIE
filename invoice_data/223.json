@@ -1,122 +1,209 @@
 {
     "text_boxes": [
         {
-            "text": "4,500.00",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                553,
-                663,
-                604,
-                674
+                369,
+                404,
+                499,
+                468
             ]
         },
         {
-            "text": "4,500.00",
+            "text": "01/07/2020",
             "id": 2,
             "bbox": [
-                673,
+                84,
                 658,
-                724,
-                672
+                135,
+                667
             ]
         },
         {
-            "text": "KCP746RJS",
+            "text": "15:45",
             "id": 3,
             "bbox": [
-                116,
-                671,
-                189,
-                682
+                146,
+                658,
+                169,
+                667
             ]
         },
         {
-            "text": "S900",
+            "text": "2,900.00",
             "id": 4,
             "bbox": [
-                234,
-                670,
-                262,
-                680
+                645,
+                792,
+                682,
+                799
             ]
         },
         {
-            "text": "/",
+            "text": "2,761.90",
             "id": 5,
             "bbox": [
-                268,
-                670,
-                271,
-                679
+                674,
+                735,
+                710,
+                743
             ]
         },
         {
-            "text": "T38",
+            "text": "1.",
             "id": 6,
             "bbox": [
-                276,
-                669,
-                297,
-                679
+                412,
+                742,
+                414,
+                748
             ]
         },
         {
-            "text": "DIOR",
+            "text": "Men",
             "id": 7,
             "bbox": [
-                303,
-                667,
-                336,
-                679
+                246,
+                745,
+                264,
+                752
             ]
         },
         {
-            "text": "BLOSSOM",
+            "text": "RTW",
             "id": 8,
             "bbox": [
-                343,
-                667,
-                409,
-                679
+                268,
+                744,
+                290,
+                752
             ]
         },
         {
-            "text": "1",
+            "text": "Tee",
             "id": 9,
             "bbox": [
-                440,
-                667,
-                442,
-                676
+                294,
+                743,
+                310,
+                750
+            ]
+        },
+        {
+            "text": "Shirt",
+            "id": 10,
+            "bbox": [
+                315,
+                744,
+                333,
+                750
+            ]
+        },
+        {
+            "text": "0333617A0554",
+            "id": 11,
+            "bbox": [
+                84,
+                746,
+                152,
+                757
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4,500.00",
-                "4,500.00",
-                "KCP746RJS",
-                "S900",
-                "/",
-                "T38",
-                "DIOR",
-                "BLOSSOM",
-                "1"
+                "1."
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Men",
+                "RTW",
+                "Tee",
+                "Shirt"
+            ],
+            "value_id": [
                 7,
                 8,
-                9
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:45"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "01/07/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,900.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0333617A0554"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,761.90"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

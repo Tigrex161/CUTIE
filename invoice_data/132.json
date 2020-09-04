@@ -1,290 +1,293 @@
 {
     "text_boxes": [
         {
-            "text": "23.00",
+            "text": "SUPER",
             "id": 1,
             "bbox": [
-                423,
-                470,
-                466,
-                487
+                251,
+                293,
+                301,
+                308
             ]
         },
         {
-            "text": "1",
+            "text": "CARE",
             "id": 2,
             "bbox": [
-                186,
-                474,
-                197,
-                495
+                307,
+                292,
+                346,
+                306
             ]
         },
         {
-            "text": "Orange",
+            "text": "PHARMACY",
             "id": 3,
             "bbox": [
-                199,
-                474,
-                245,
-                495
+                353,
+                289,
+                441,
+                304
             ]
         },
         {
-            "text": "Juice",
+            "text": "08.07/2020",
             "id": 4,
             "bbox": [
-                256,
-                476,
-                299,
-                491
+                272,
+                429,
+                315,
+                439
             ]
         },
         {
-            "text": "1",
+            "text": "10:43",
             "id": 5,
             "bbox": [
-                177,
-                515,
-                190,
-                534
+                322,
+                429,
+                342,
+                438
             ]
         },
         {
-            "text": "Lemonade",
+            "text": "105.00",
             "id": 6,
             "bbox": [
-                195,
-                517,
-                263,
-                535
+                448,
+                738,
+                485,
+                747
             ]
         },
         {
-            "text": "Juice",
+            "text": "105",
             "id": 7,
             "bbox": [
-                272,
-                516,
-                320,
-                535
+                460,
+                664,
+                472,
+                673
             ]
         },
         {
-            "text": "23.00",
+            "text": "00",
             "id": 8,
             "bbox": [
-                424,
-                514,
-                466,
-                530
+                476,
+                664,
+                485,
+                672
             ]
         },
         {
-            "text": "1",
+            "text": "3.00",
             "id": 9,
             "bbox": [
-                181,
-                557,
-                194,
-                576
+                212,
+                668,
+                228,
+                676
             ]
         },
         {
-            "text": "Passion",
+            "text": "3",
             "id": 10,
             "bbox": [
-                194,
-                560,
-                254,
-                575
+                349,
+                758,
+                355,
+                770
             ]
         },
         {
-            "text": "Fruit",
+            "text": "00",
             "id": 11,
             "bbox": [
-                266,
-                560,
-                306,
-                575
+                354,
+                760,
+                362,
+                768
             ]
         },
         {
-            "text": "Mojito",
+            "text": "DISPOSABLE",
             "id": 12,
             "bbox": [
-                318,
-                560,
-                369,
-                577
+                216,
+                645,
+                282,
+                656
             ]
         },
         {
-            "text": "34.00",
+            "text": "CHILDREN",
             "id": 13,
             "bbox": [
-                424,
-                557,
-                466,
-                572
+                287,
+                645,
+                339,
+                655
             ]
         },
         {
-            "text": "1",
+            "text": "3",
             "id": 14,
             "bbox": [
-                181,
-                600,
-                194,
-                619
+                344,
+                645,
+                348,
+                654
             ]
         },
         {
-            "text": "Mushroom",
+            "text": "PLY",
             "id": 15,
             "bbox": [
-                194,
-                603,
-                263,
-                618
+                352,
+                645,
+                371,
+                654
             ]
         },
         {
-            "text": "Risotto",
+            "text": "FACE",
             "id": 16,
             "bbox": [
-                274,
-                602,
-                334,
-                618
+                375,
+                645,
+                401,
+                654
             ]
         },
         {
-            "text": "69.00",
+            "text": "MASK",
             "id": 17,
             "bbox": [
-                424,
-                600,
-                467,
-                615
+                406,
+                644,
+                435,
+                654
             ]
         },
         {
-            "text": "Piastra",
+            "text": "60S",
             "id": 18,
             "bbox": [
-                256,
-                646,
-                316,
-                661
-            ]
-        },
-        {
-            "text": "89.00",
-            "id": 19,
-            "bbox": [
-                424,
-                643,
-                467,
-                659
-            ]
-        },
-        {
-            "text": "1",
-            "id": 20,
-            "bbox": [
-                176,
-                689,
-                179,
-                703
-            ]
-        },
-        {
-            "text": "Classica",
-            "id": 21,
-            "bbox": [
-                193,
-                688,
-                263,
-                704
-            ]
-        },
-        {
-            "text": "Lasagna",
-            "id": 22,
-            "bbox": [
-                275,
-                692,
-                334,
-                705
-            ]
-        },
-        {
-            "text": "69.00",
-            "id": 23,
-            "bbox": [
-                424,
-                686,
-                468,
-                702
+                440,
+                644,
+                455,
+                653
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "23.00",
-                "1",
-                "Orange",
-                "Juice",
-                "1",
-                "Lemonade",
-                "Juice",
-                "23.00",
-                "1",
-                "Passion",
-                "Fruit",
-                "Mojito",
-                "34.00",
-                "1",
-                "Mushroom",
-                "Risotto",
-                "69.00",
-                "Piastra",
-                "89.00",
-                "1",
-                "Classica",
-                "Lasagna",
-                "69.00"
+                "3.00"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DISPOSABLE",
+                "CHILDREN",
+                "3",
+                "PLY",
+                "FACE",
+                "MASK",
+                "60S"
+            ],
+            "value_id": [
                 12,
                 13,
                 14,
                 15,
                 16,
                 17,
-                18,
-                19,
-                20,
-                21,
-                22,
-                23
+                18
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3",
+                "00"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10:43"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08.07/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SUPER",
+                "CARE",
+                "PHARMACY"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105",
+                "00"
+            ],
+            "value_id": [
+                7,
+                8
             ]
         }
     ],

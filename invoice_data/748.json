@@ -1,0 +1,126 @@
+{
+    "text_boxes": [
+        {
+            "text": "Patch",
+            "id": 1,
+            "bbox": [
+                408,
+                138,
+                449,
+                147
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 2,
+            "bbox": [
+                491,
+                580,
+                507,
+                589
+            ]
+        },
+        {
+            "text": "241.00",
+            "id": 3,
+            "bbox": [
+                553,
+                736,
+                590,
+                746
+            ]
+        },
+        {
+            "text": "1.00",
+            "id": 4,
+            "bbox": [
+                423,
+                734,
+                444,
+                743
+            ]
+        },
+        {
+            "text": "DELUXE",
+            "id": 5,
+            "bbox": [
+                257,
+                753,
+                303,
+                763
+            ]
+        },
+        {
+            "text": "CHOCOLATE",
+            "id": 6,
+            "bbox": [
+                308,
+                753,
+                383,
+                765
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DELUXE",
+                "CHOCOLATE"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PM"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Patch"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "241.00"
+            ],
+            "value_id": [
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/748.jpg"
+    }
+}

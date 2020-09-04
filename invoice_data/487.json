@@ -1,167 +1,218 @@
 {
     "text_boxes": [
         {
-            "text": "SWST",
+            "text": "Huawei-",
             "id": 1,
             "bbox": [
-                225,
-                534,
-                255,
-                543
+                358,
+                455,
+                401,
+                464
             ]
         },
         {
-            "text": "ZIPPER",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                265,
-                535,
-                310,
-                544
+                405,
+                455,
+                435,
+                466
             ]
         },
         {
-            "text": "SKU",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                319,
-                536,
-                340,
-                543
+                439,
+                456,
+                460,
+                466
             ]
         },
         {
-            "text": "290.00",
+            "text": "24/07/2020",
             "id": 4,
             "bbox": [
-                411,
-                536,
-                454,
-                544
+                346,
+                561,
+                391,
+                570
             ]
         },
         {
-            "text": "290.00",
+            "text": "399.00",
             "id": 5,
             "bbox": [
-                502,
-                531,
-                546,
-                542
+                487,
+                834,
+                512,
+                842
             ]
         },
         {
-            "text": "1",
+            "text": "399.00",
             "id": 6,
             "bbox": [
-                227,
-                551,
-                249,
-                563
+                493,
+                691,
+                519,
+                698
             ]
         },
         {
-            "text": "x",
+            "text": "mm",
             "id": 7,
             "bbox": [
-                249,
-                556,
-                255,
-                561
+                306,
+                688,
+                328,
+                695
             ]
         },
         {
-            "text": "900990756",
+            "text": "mm?",
             "id": 8,
             "bbox": [
-                265,
-                552,
                 333,
-                562
+                689,
+                360,
+                696
             ]
         },
         {
-            "text": "54",
+            "text": "77m7",
             "id": 9,
             "bbox": [
-                442,
-                554,
-                454,
-                563
+                365,
+                690,
+                392,
+                696
             ]
         },
         {
-            "text": "Description",
+            "text": "WAL-CT025",
             "id": 10,
             "bbox": [
-                225,
-                478,
-                309,
-                490
+                397,
+                690,
+                448,
+                699
             ]
         },
         {
-            "text": "UP/TAX",
+            "text": "HUAWEI",
             "id": 11,
             "bbox": [
-                411,
-                477,
-                454,
-                490
+                305,
+                710,
+                342,
+                717
             ]
         },
         {
-            "text": "Amount/Disc",
+            "text": "FREEBUOS",
             "id": 12,
             "bbox": [
-                464,
-                474,
-                546,
-                488
+                346,
+                709,
+                398,
+                720
+            ]
+        },
+        {
+            "text": "3IET025",
+            "id": 13,
+            "bbox": [
+                400,
+                710,
+                434,
+                720
+            ]
+        },
+        {
+            "text": "CARBON",
+            "id": 14,
+            "bbox": [
+                305,
+                720,
+                342,
+                729
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SWST",
-                "ZIPPER",
-                "SKU",
-                "290.00",
-                "290.00",
-                "1",
-                "x",
-                "900990756",
-                "54"
+                "mm",
+                "mm?",
+                "77m7",
+                "WAL-CT025",
+                "HUAWEI",
+                "FREEBUOS",
+                "3IET025",
+                "CARBON"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24/07/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "399.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Huawei-",
+                "Dubai",
+                "Mall"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9
+                3
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Description",
-                "UP/TAX",
-                "Amount/Disc"
+                "399.00"
             ],
             "value_id": [
-                10,
-                11,
-                12
+                6
             ]
         }
     ],

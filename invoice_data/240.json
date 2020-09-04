@@ -1,215 +1,179 @@
 {
     "text_boxes": [
         {
-            "text": "5010993461073",
+            "text": "7/11/2020",
             "id": 1,
             "bbox": [
-                349,
-                515,
-                436,
-                532
+                860,
+                709,
+                911,
+                720
             ]
         },
         {
-            "text": "pcs",
+            "text": "7",
             "id": 2,
             "bbox": [
-                390,
-                536,
-                409,
-                548
+                858,
+                723,
+                864,
+                735
             ]
         },
         {
-            "text": "Barcode:",
+            "text": "15",
             "id": 3,
             "bbox": [
-                255,
-                517,
-                307,
-                534
+                866,
+                723,
+                875,
+                735
             ]
         },
         {
-            "text": "BIRTHDAY",
+            "text": "45",
             "id": 4,
             "bbox": [
-                255,
-                534,
-                308,
-                550
+                877,
+                726,
+                889,
+                734
             ]
         },
         {
-            "text": "BLOWOUT",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                316,
-                534,
-                362,
-                553
+                894,
+                726,
+                910,
+                734
             ]
         },
         {
-            "text": "179.00",
+            "text": "1,575.00",
             "id": 6,
             "bbox": [
-                467,
-                528,
-                507,
-                542
+                867,
+                980,
+                912,
+                992
             ]
         },
         {
-            "text": "VA",
+            "text": "1,575",
             "id": 7,
             "bbox": [
-                514,
-                527,
-                527,
-                539
+                872,
+                903,
+                898,
+                915
             ]
         },
         {
-            "text": "086002017031",
+            "text": "00",
             "id": 8,
             "bbox": [
-                349,
-                566,
-                428,
-                582
+                903,
+                904,
+                913,
+                916
             ]
         },
         {
-            "text": "Barcode:",
+            "text": "DRESS",
             "id": 9,
             "bbox": [
-                255,
-                568,
-                307,
-                585
+                301,
+                897,
+                341,
+                906
             ]
         },
         {
-            "text": "MY",
+            "text": "TROVAMSOLLIN",
             "id": 10,
             "bbox": [
-                256,
-                586,
-                268,
-                598
-            ]
-        },
-        {
-            "text": "FIRST",
-            "id": 11,
-            "bbox": [
-                276,
-                586,
-                308,
-                601
-            ]
-        },
-        {
-            "text": "GAMES",
-            "id": 12,
-            "bbox": [
-                316,
-                586,
-                349,
-                600
-            ]
-        },
-        {
-            "text": "TAIL",
-            "id": 13,
-            "bbox": [
-                357,
-                584,
-                383,
-                598
-            ]
-        },
-        {
-            "text": "169.00",
-            "id": 14,
-            "bbox": [
-                468,
-                579,
-                507,
-                593
-            ]
-        },
-        {
-            "text": "VA",
-            "id": 15,
-            "bbox": [
-                515,
-                579,
-                528,
-                590
-            ]
-        },
-        {
-            "text": "Amount/t",
-            "id": 16,
-            "bbox": [
-                402,
-                478,
-                465,
-                498
+                154,
+                891,
+                246,
+                902
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5010993461073",
-                "pcs",
-                "Barcode:",
-                "BIRTHDAY",
-                "BLOWOUT",
-                "179.00",
-                "VA",
-                "086002017031",
-                "Barcode:",
-                "MY",
-                "FIRST",
-                "GAMES",
-                "TAIL",
-                "169.00",
-                "VA"
+                "DRESS"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15
+                9
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Amount/t"
+                "7",
+                "15",
+                "45",
+                "PM"
             ],
             "value_id": [
-                16
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/11/2020"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,575.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TROVAMSOLLIN"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,575",
+                "00"
+            ],
+            "value_id": [
+                7,
+                8
             ]
         }
     ],

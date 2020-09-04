@@ -1,38 +1,176 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "Diamnd",
             "id": 1,
             "bbox": [
-                351,
-                494,
-                376,
-                508
+                248,
+                247,
+                386,
+                273
             ]
         },
         {
-            "text": "0",
+            "text": "World",
             "id": 2,
             "bbox": [
-                378,
-                495,
-                380,
-                508
+                401,
+                245,
+                492,
+                266
+            ]
+        },
+        {
+            "text": "24/07/2020",
+            "id": 3,
+            "bbox": [
+                560,
+                410,
+                611,
+                421
+            ]
+        },
+        {
+            "text": "8:11:10PM",
+            "id": 4,
+            "bbox": [
+                563,
+                427,
+                611,
+                435
+            ]
+        },
+        {
+            "text": "1,000.00",
+            "id": 5,
+            "bbox": [
+                592,
+                732,
+                637,
+                743
+            ]
+        },
+        {
+            "text": "1,000.00",
+            "id": 6,
+            "bbox": [
+                577,
+                482,
+                614,
+                491
+            ]
+        },
+        {
+            "text": "Diamond",
+            "id": 7,
+            "bbox": [
+                237,
+                480,
+                273,
+                486
+            ]
+        },
+        {
+            "text": "Ring",
+            "id": 8,
+            "bbox": [
+                277,
+                480,
+                293,
+                487
+            ]
+        },
+        {
+            "text": "RG9062",
+            "id": 9,
+            "bbox": [
+                184,
+                480,
+                214,
+                488
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "0"
+                "Diamond",
+                "Ring"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8:11:10PM"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24/07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,000.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Diamnd",
+                "World"
             ],
             "value_id": [
                 1,
                 2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RG9062"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,000.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

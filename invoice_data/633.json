@@ -1,167 +1,131 @@
 {
     "text_boxes": [
         {
-            "text": "flood",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                70,
-                542,
-                113,
-                556
+                446,
+                139,
+                541,
+                197
             ]
         },
         {
-            "text": "damage",
+            "text": "1207020",
             "id": 2,
             "bbox": [
-                122,
-                546,
-                174,
-                562
+                85,
+                426,
+                141,
+                439
             ]
         },
         {
-            "text": "\u2022",
+            "text": "19",
             "id": 3,
             "bbox": [
-                64,
-                568,
-                75,
-                583
+                152,
+                427,
+                161,
+                439
             ]
         },
         {
-            "text": "9999999",
+            "text": "1450.00",
             "id": 4,
             "bbox": [
-                76,
-                568,
-                129,
-                586
-            ]
-        },
-        {
-            "text": "100.00",
-            "id": 5,
-            "bbox": [
-                508,
-                591,
-                552,
+                693,
+                593,
+                730,
                 601
             ]
         },
         {
-            "text": "01",
+            "text": "1.380.95",
+            "id": 5,
+            "bbox": [
+                719,
+                528,
+                755,
+                536
+            ]
+        },
+        {
+            "text": "3aHG",
             "id": 6,
             "bbox": [
-                604,
-                592,
-                618,
-                602
-            ]
-        },
-        {
-            "text": "300,00",
-            "id": 7,
-            "bbox": [
-                672,
-                594,
-                719,
-                604
-            ]
-        },
-        {
-            "text": "VAT",
-            "id": 8,
-            "bbox": [
-                381,
-                474,
-                404,
-                484
-            ]
-        },
-        {
-            "text": "OTY",
-            "id": 9,
-            "bbox": [
-                454,
-                478,
-                476,
-                489
-            ]
-        },
-        {
-            "text": "PRICE",
-            "id": 10,
-            "bbox": [
-                518,
-                482,
-                556,
-                494
-            ]
-        },
-        {
-            "text": "DISC",
-            "id": 11,
-            "bbox": [
-                599,
-                485,
-                630,
-                495
-            ]
-        },
-        {
-            "text": "AMOUN'T",
-            "id": 12,
-            "bbox": [
-                672,
-                488,
-                720,
-                500
+                257,
+                528,
+                318,
+                534
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "flood",
-                "damage",
-                "\u2022",
-                "9999999",
-                "100.00",
-                "01",
-                "300,00"
+                "3aHG"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7
+                6
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VAT",
-                "OTY",
-                "PRICE",
-                "DISC",
-                "AMOUN'T"
+                "19"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1207020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1450.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.380.95"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

@@ -1,110 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "Brz1",
+            "text": "OYSHO",
             "id": 1,
             "bbox": [
-                374,
-                504,
-                418,
-                526
+                256,
+                89,
+                400,
+                120
             ]
         },
         {
-            "text": "500g",
+            "text": "11-07-2020",
             "id": 2,
             "bbox": [
-                522,
-                505,
-                569,
-                528
+                221,
+                305,
+                273,
+                313
             ]
         },
         {
-            "text": "1",
+            "text": "13:30",
             "id": 3,
             "bbox": [
-                612,
-                504,
-                617,
-                525
+                282,
+                304,
+                306,
+                311
             ]
         },
         {
-            "text": "110.00",
+            "text": "240",
             "id": 4,
             "bbox": [
-                241,
-                503,
-                310,
-                525
+                410,
+                478,
+                424,
+                486
             ]
         },
         {
-            "text": "80z",
+            "text": "3021226686503",
             "id": 5,
             "bbox": [
-                435,
-                561,
-                468,
-                582
+                279,
+                374,
+                348,
+                385
             ]
         },
         {
-            "text": "Tumbler",
+            "text": "301022",
             "id": 6,
             "bbox": [
-                484,
-                559,
-                568,
-                582
+                281,
+                400,
+                313,
+                411
             ]
         },
         {
-            "text": "125.00",
+            "text": "TOPS",
             "id": 7,
             "bbox": [
-                242,
-                559,
-                311,
-                580
+                361,
+                373,
+                381,
+                382
             ]
         },
         {
-            "text": "1",
+            "text": "AND",
             "id": 8,
             "bbox": [
-                611,
-                560,
-                616,
-                580
+                388,
+                372,
+                403,
+                381
+            ]
+        },
+        {
+            "text": "SHORTS",
+            "id": 9,
+            "bbox": [
+                362,
+                400,
+                392,
+                407
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Brz1",
-                "500g",
-                "1",
-                "110.00",
-                "80z",
-                "Tumbler",
-                "125.00",
-                "1"
+                "TOPS",
+                "AND",
+                "SHORTS"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
                 7,
-                8
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:30"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "240"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "OYSHO"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3021226686503",
+                "301022"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

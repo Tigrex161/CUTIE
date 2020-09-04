@@ -1,239 +1,302 @@
 {
     "text_boxes": [
         {
-            "text": "Affogato",
+            "text": "SEPHORA",
             "id": 1,
             "bbox": [
-                253,
-                495,
-                316,
-                512
+                272,
+                185,
+                315,
+                193
             ]
         },
         {
-            "text": "56.00",
+            "text": "DUBAI",
             "id": 2,
             "bbox": [
-                520,
-                489,
-                551,
-                500
+                322,
+                185,
+                351,
+                195
             ]
         },
         {
-            "text": "Ice",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                255,
-                553,
-                273,
-                565
+                359,
+                186,
+                382,
+                194
             ]
         },
         {
-            "text": "Cream",
+            "text": "July",
             "id": 4,
             "bbox": [
-                279,
-                552,
-                327,
-                564
+                364,
+                888,
+                394,
+                904
             ]
         },
         {
-            "text": "Scoop",
+            "text": "11,2020",
             "id": 5,
             "bbox": [
-                333,
-                551,
-                377,
-                566
+                403,
+                883,
+                453,
+                901
             ]
         },
         {
-            "text": "15.00",
+            "text": "22:36:06",
             "id": 6,
             "bbox": [
-                524,
-                545,
-                553,
-                557
+                461,
+                877,
+                520,
+                897
             ]
         },
         {
-            "text": "1",
+            "text": "250.00",
             "id": 7,
             "bbox": [
-                217,
-                613,
-                218,
-                623
+                411,
+                539,
+                490,
+                554
             ]
         },
         {
-            "text": "Cappuccino",
+            "text": "250.00",
             "id": 8,
             "bbox": [
-                255,
-                609,
-                342,
-                627
-            ]
-        },
-        {
-            "text": "22.00",
-            "id": 9,
-            "bbox": [
-                524,
-                602,
-                555,
-                614
-            ]
-        },
-        {
-            "text": "Espresso",
-            "id": 10,
-            "bbox": [
-                256,
-                664,
-                322,
-                685
-            ]
-        },
-        {
-            "text": "illy",
-            "id": 11,
-            "bbox": [
-                327,
-                663,
-                349,
-                682
+                449,
+                471,
+                489,
+                484
             ]
         },
         {
             "text": "1",
+            "id": 9,
+            "bbox": [
+                292,
+                478,
+                295,
+                490
+            ]
+        },
+        {
+            "text": "UHD",
+            "id": 10,
+            "bbox": [
+                315,
+                425,
+                335,
+                438
+            ]
+        },
+        {
+            "text": "PALETTE",
+            "id": 11,
+            "bbox": [
+                343,
+                423,
+                390,
+                437
+            ]
+        },
+        {
+            "text": "12",
             "id": 12,
             "bbox": [
-                218,
-                670,
-                220,
-                681
+                400,
+                425,
+                411,
+                434
             ]
         },
         {
-            "text": "19.00",
+            "text": "BLUSH",
             "id": 13,
             "bbox": [
-                528,
-                659,
-                558,
-                669
+                419,
+                423,
+                451,
+                436
             ]
         },
         {
-            "text": "Qty/duas",
+            "text": "24G",
             "id": 14,
             "bbox": [
-                211,
-                451,
-                266,
-                468
+                459,
+                426,
+                478,
+                436
             ]
         },
         {
-            "text": "Item",
+            "text": "021714525957",
             "id": 15,
             "bbox": [
-                287,
-                451,
-                314,
-                463
+                197,
+                426,
+                279,
+                442
             ]
         },
         {
-            "text": "Name/aall",
+            "text": "\u0627\u062d\u0645\u0631",
             "id": 16,
             "bbox": [
-                328,
-                446,
-                404,
-                466
+                278,
+                461,
+                300,
+                474
             ]
         },
         {
-            "text": "pl",
+            "text": "\u062e\u062f\u0648\u062f",
             "id": 17,
             "bbox": [
-                406,
-                445,
-                437,
-                463
+                244,
+                463,
+                268,
+                475
             ]
         },
         {
-            "text": "Amount/las",
+            "text": "\u0644 \u0644\u0648\u062c\u0647",
             "id": 18,
             "bbox": [
-                445,
-                443,
-                533,
-                463
+                202,
+                463,
+                234,
+                477
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Affogato",
-                "56.00",
-                "Ice",
-                "Cream",
-                "Scoop",
-                "15.00",
-                "1",
-                "Cappuccino",
-                "22.00",
-                "Espresso",
-                "illy",
-                "1",
-                "19.00"
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "UHD",
+                "PALETTE",
+                "12",
+                "BLUSH",
+                "24G"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22:36:06"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "11,2020"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "250.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u062d\u0645\u0631",
+                "\u062e\u062f\u0648\u062f",
+                "\u0644 \u0644\u0648\u062c\u0647"
+            ],
+            "value_id": [
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                3
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Qty/duas",
-                "Item",
-                "Name/aall",
-                "pl",
-                "Amount/las"
+                "021714525957"
             ],
             "value_id": [
-                14,
-                15,
-                16,
-                17,
-                18
+                15
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "250.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

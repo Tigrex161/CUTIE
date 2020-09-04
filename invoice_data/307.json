@@ -1,170 +1,215 @@
 {
     "text_boxes": [
         {
-            "text": "60.00",
+            "text": "Apple",
             "id": 1,
             "bbox": [
-                307,
-                599,
-                353,
-                618
+                179,
+                48,
+                202,
+                57
             ]
         },
         {
-            "text": "2",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                551,
-                599,
-                557,
-                613
+                205,
+                48,
+                228,
+                55
             ]
         },
         {
-            "text": "1",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                554,
-                639,
-                557,
-                649
+                232,
+                48,
+                248,
+                55
             ]
         },
         {
-            "text": "Grilled",
+            "text": "Jul.",
             "id": 4,
             "bbox": [
-                425,
-                641,
-                482,
-                655
+                229,
+                465,
+                240,
+                471
             ]
         },
         {
-            "text": "Corn",
+            "text": "10,",
             "id": 5,
             "bbox": [
-                492,
-                641,
-                525,
-                652
+                245,
+                465,
+                253,
+                472
             ]
         },
         {
-            "text": "60.00",
+            "text": "2020",
             "id": 6,
             "bbox": [
-                309,
-                644,
-                349,
-                658
+                257,
+                465,
+                274,
+                472
             ]
         },
         {
-            "text": "1",
+            "text": "679.00",
             "id": 7,
             "bbox": [
-                556,
-                672,
-                559,
-                683
+                535,
+                645,
+                560,
+                651
             ]
         },
         {
-            "text": "Pacific",
+            "text": "67900",
             "id": 8,
             "bbox": [
-                422,
-                672,
-                492,
-                693
+                537,
+                570,
+                560,
+                576
             ]
         },
         {
-            "text": "Rol1",
+            "text": "AIRPODS",
             "id": 9,
             "bbox": [
-                493,
-                673,
-                525,
-                686
+                179,
+                423,
+                215,
+                429
             ]
         },
         {
-            "text": "55.00",
+            "text": "WITH",
             "id": 10,
             "bbox": [
-                301,
-                681,
-                351,
-                699
+                218,
+                423,
+                238,
+                429
             ]
         },
         {
-            "text": "1.",
+            "text": "CHARGING",
             "id": 11,
             "bbox": [
-                558,
-                709,
-                562,
-                721
+                242,
+                423,
+                285,
+                429
             ]
         },
         {
-            "text": "75.00",
+            "text": "CASE-ZEE",
             "id": 12,
             "bbox": [
-                307,
-                722,
-                347,
-                734
+                288,
+                423,
+                326,
+                429
             ]
         },
         {
-            "text": "Rigatoni",
+            "text": "MV?N2ZE/A",
             "id": 13,
             "bbox": [
-                459,
-                710,
-                526,
-                727
+                232,
+                438,
+                277,
+                445
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "60.00",
-                "2",
-                "1",
-                "Grilled",
-                "Corn",
-                "60.00",
-                "1",
-                "Pacific",
-                "Rol1",
-                "55.00",
-                "1.",
-                "75.00",
-                "Rigatoni"
+                "AIRPODS",
+                "WITH",
+                "CHARGING",
+                "CASE-ZEE"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul.",
+                "10,",
+                "2020"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "679.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Apple",
+                "Dubai",
+                "Mall"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MV?N2ZE/A"
+            ],
+            "value_id": [
                 13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "67900"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

@@ -1,0 +1,276 @@
+{
+    "text_boxes": [
+        {
+            "text": "01-Jul-2020",
+            "id": 1,
+            "bbox": [
+                77,
+                297,
+                172,
+                310
+            ]
+        },
+        {
+            "text": "12:45:35",
+            "id": 2,
+            "bbox": [
+                234,
+                290,
+                301,
+                311
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 3,
+            "bbox": [
+                309,
+                290,
+                326,
+                303
+            ]
+        },
+        {
+            "text": "745.00",
+            "id": 4,
+            "bbox": [
+                380,
+                658,
+                432,
+                673
+            ]
+        },
+        {
+            "text": "335.00",
+            "id": 5,
+            "bbox": [
+                375,
+                480,
+                427,
+                501
+            ]
+        },
+        {
+            "text": "410.00",
+            "id": 6,
+            "bbox": [
+                376,
+                515,
+                428,
+                534
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 7,
+            "bbox": [
+                77,
+                495,
+                119,
+                508
+            ]
+        },
+        {
+            "text": "LS",
+            "id": 8,
+            "bbox": [
+                131,
+                495,
+                147,
+                508
+            ]
+        },
+        {
+            "text": "MICRO",
+            "id": 9,
+            "bbox": [
+                157,
+                494,
+                200,
+                507
+            ]
+        },
+        {
+            "text": "TEXT",
+            "id": 10,
+            "bbox": [
+                211,
+                494,
+                243,
+                507
+            ]
+        },
+        {
+            "text": "JEANS",
+            "id": 11,
+            "bbox": [
+                76,
+                530,
+                120,
+                542
+            ]
+        },
+        {
+            "text": "EXTRA",
+            "id": 12,
+            "bbox": [
+                131,
+                529,
+                174,
+                543
+            ]
+        },
+        {
+            "text": "SLIM",
+            "id": 13,
+            "bbox": [
+                185,
+                529,
+                218,
+                542
+            ]
+        },
+        {
+            "text": "FIT",
+            "id": 14,
+            "bbox": [
+                229,
+                528,
+                252,
+                541
+            ]
+        },
+        {
+            "text": "2",
+            "id": 15,
+            "bbox": [
+                422,
+                569,
+                429,
+                582
+            ]
+        },
+        {
+            "text": "213431605",
+            "id": 16,
+            "bbox": [
+                95,
+                512,
+                174,
+                525
+            ]
+        },
+        {
+            "text": "213434257",
+            "id": 17,
+            "bbox": [
+                94,
+                545,
+                173,
+                560
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SHIRT",
+                "LS",
+                "MICRO",
+                "TEXT",
+                "JEANS",
+                "EXTRA",
+                "SLIM",
+                "FIT"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:45:35",
+                "PM"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "01-Jul-2020"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "745.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "213431605",
+                "213434257"
+            ],
+            "value_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "335.00",
+                "410.00"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/189.jpg"
+    }
+}

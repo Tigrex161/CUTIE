@@ -1,287 +1,197 @@
 {
     "text_boxes": [
         {
-            "text": "733564",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                48,
-                562,
-                78,
-                570
+                319,
+                49,
+                418,
+                96
             ]
         },
         {
-            "text": "FS7254",
+            "text": "17",
             "id": 2,
             "bbox": [
-                100,
-                562,
-                135,
-                571
+                245,
+                138,
+                259,
+                149
             ]
         },
         {
-            "text": "ASYO",
+            "text": "07-2020",
             "id": 3,
             "bbox": [
+                263,
                 139,
-                563,
-                163,
-                571
+                305,
+                151
             ]
         },
         {
-            "text": "FOZNM",
+            "text": "17:06",
             "id": 4,
             "bbox": [
-                172,
-                563,
-                204,
-                571
+                314,
+                144,
+                341,
+                152
             ]
         },
         {
-            "text": "WT-SHIRT/KNITTED",
+            "text": "209",
             "id": 5,
             "bbox": [
-                224,
-                563,
-                325,
-                574
+                448,
+                298,
+                463,
+                306
             ]
         },
         {
-            "text": "FABRIC",
+            "text": "289",
             "id": 6,
             "bbox": [
-                329,
-                565,
-                365,
-                574
-            ]
-        },
-        {
-            "text": "WHITE",
-            "id": 7,
-            "bbox": [
-                374,
-                566,
-                407,
-                575
-            ]
-        },
-        {
-            "text": "L",
-            "id": 8,
-            "bbox": [
-                529,
-                562,
-                568,
-                578
+                443,
+                194,
+                460,
+                202
             ]
         },
         {
             "text": "1",
+            "id": 7,
+            "bbox": [
+                309,
+                199,
+                324,
+                209
+            ]
+        },
+        {
+            "text": "0720011e001",
+            "id": 8,
+            "bbox": [
+                308,
+                213,
+                383,
+                224
+            ]
+        },
+        {
+            "text": "DRESS",
             "id": 9,
             "bbox": [
-                572,
-                562,
-                591,
-                578
+                396,
+                211,
+                424,
+                220
             ]
         },
         {
-            "text": "2276.19.Jla",
+            "text": "10001675",
             "id": 10,
             "bbox": [
-                593,
-                566,
-                644,
-                576
-            ]
-        },
-        {
-            "text": "2,276.19",
-            "id": 11,
-            "bbox": [
-                729,
-                568,
-                765,
-                578
-            ]
-        },
-        {
-            "text": "L",
-            "id": 12,
-            "bbox": [
-                772,
-                569,
-                778,
-                576
-            ]
-        },
-        {
-            "text": "ttem",
-            "id": 13,
-            "bbox": [
-                48,
-                533,
-                71,
-                543
-            ]
-        },
-        {
-            "text": "Product",
-            "id": 14,
-            "bbox": [
-                100,
-                532,
-                145,
-                542
-            ]
-        },
-        {
-            "text": "Description",
-            "id": 15,
-            "bbox": [
-                225,
-                534,
-                292,
-                547
-            ]
-        },
-        {
-            "text": "Size",
-            "id": 16,
-            "bbox": [
-                521,
-                536,
-                545,
-                546
-            ]
-        },
-        {
-            "text": "Qty",
-            "id": 17,
-            "bbox": [
-                552,
-                536,
-                571,
-                547
-            ]
-        },
-        {
-            "text": "Unit",
-            "id": 18,
-            "bbox": [
-                581,
-                537,
-                604,
-                547
-            ]
-        },
-        {
-            "text": "Price",
-            "id": 19,
-            "bbox": [
-                609,
-                537,
-                638,
-                547
-            ]
-        },
-        {
-            "text": "Discount",
-            "id": 20,
-            "bbox": [
-                648,
-                537,
-                700,
-                549
-            ]
-        },
-        {
-            "text": "Net",
-            "id": 21,
-            "bbox": [
-                708,
-                538,
-                727,
-                547
-            ]
-        },
-        {
-            "text": "Amount",
-            "id": 22,
-            "bbox": [
-                731,
-                538,
-                778,
-                548
+                249,
+                215,
+                293,
+                222
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "733564",
-                "FS7254",
-                "ASYO",
-                "FOZNM",
-                "WT-SHIRT/KNITTED",
-                "FABRIC",
-                "WHITE",
-                "L",
-                "1",
-                "2276.19.Jla",
-                "2,276.19",
-                "L"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
+                7
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ttem",
-                "Product",
-                "Description",
-                "Size",
-                "Qty",
-                "Unit",
-                "Price",
-                "Discount",
-                "Net",
-                "Amount"
+                "0720011e001",
+                "DRESS"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21,
-                22
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:06"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17",
+                "07-2020"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "209"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001675"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "289"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

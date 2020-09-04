@@ -1,203 +1,212 @@
 {
     "text_boxes": [
         {
-            "text": "Honey",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                235,
-                656,
-                269,
-                668
+                385,
+                334,
+                473,
+                370
             ]
         },
         {
-            "text": "2",
+            "text": "KIDS",
             "id": 2,
             "bbox": [
-                255,
-                671,
-                261,
-                682
+                447,
+                374,
+                471,
+                384
             ]
         },
         {
-            "text": "pcs",
+            "text": "7/11/",
             "id": 3,
             "bbox": [
-                269,
-                672,
-                291,
-                683
+                185,
+                357,
+                205,
+                364
             ]
         },
         {
-            "text": "8",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                299,
-                670,
-                305,
-                680
+                208,
+                357,
+                227,
+                364
             ]
         },
         {
-            "text": "59.00",
+            "text": "156:16",
             "id": 5,
             "bbox": [
-                313,
-                667,
-                348,
-                680
+                235,
+                357,
+                263,
+                365
             ]
         },
         {
-            "text": "118.00",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                460,
-                665,
-                502,
-                678
+                266,
+                357,
+                279,
+                365
             ]
         },
         {
-            "text": "A",
+            "text": "25238",
             "id": 7,
             "bbox": [
-                518,
-                669,
-                525,
-                679
+                720,
+                608,
+                743,
+                616
             ]
         },
         {
-            "text": "Karak",
+            "text": "BGIRL",
             "id": 8,
             "bbox": [
-                230,
-                698,
-                265,
-                715
+                243,
+                590,
+                268,
+                603
             ]
         },
         {
-            "text": "by",
+            "text": "JERSEYT-SHIRT",
             "id": 9,
             "bbox": [
-                274,
-                701,
-                288,
-                714
+                270,
+                590,
+                348,
+                604
             ]
         },
         {
-            "text": "Two",
+            "text": "MILKCREAM",
             "id": 10,
             "bbox": [
-                298,
-                699,
-                318,
-                712
+                358,
+                596,
+                414,
+                606
             ]
         },
         {
-            "text": "19.00",
+            "text": "1",
             "id": 11,
             "bbox": [
-                468,
-                698,
-                502,
-                712
+                562,
+                653,
+                564,
+                659
             ]
         },
         {
-            "text": "A",
+            "text": "700252",
             "id": 12,
             "bbox": [
-                519,
-                700,
-                525,
-                710
-            ]
-        },
-        {
-            "text": "Descript",
-            "id": 13,
-            "bbox": [
-                239,
-                608,
-                293,
-                623
-            ]
-        },
-        {
-            "text": "lon",
-            "id": 14,
-            "bbox": [
-                298,
-                611,
-                315,
-                620
-            ]
-        },
-        {
-            "text": "Amount",
-            "id": 15,
-            "bbox": [
-                458,
-                610,
-                499,
-                620
+                78,
+                591,
+                105,
+                598
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Honey",
-                "2",
-                "pcs",
-                "8",
-                "59.00",
-                "118.00",
-                "A",
-                "Karak",
-                "by",
-                "Two",
-                "19.00",
-                "A"
+                "BGIRL",
+                "JERSEYT-SHIRT",
+                "MILKCREAM"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "156:16",
+                "PM"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/11/",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "KIDS"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "700252"
+            ],
+            "value_id": [
                 12
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Descript",
-                "lon",
-                "Amount"
+                "25238"
             ],
             "value_id": [
-                13,
-                14,
-                15
+                7
             ]
         }
     ],

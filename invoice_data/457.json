@@ -1,122 +1,131 @@
 {
     "text_boxes": [
         {
-            "text": "TF",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                101,
-                485,
-                115,
-                502
+                383,
+                120,
+                488,
+                159
             ]
         },
         {
-            "text": "Zero",
+            "text": "23-07-2020",
             "id": 2,
             "bbox": [
-                123,
-                485,
-                155,
-                501
+                308,
+                212,
+                368,
+                220
             ]
         },
         {
-            "text": "Gravi",
+            "text": "11:08",
             "id": 3,
             "bbox": [
-                165,
-                488,
-                200,
-                500
+                377,
+                212,
+                405,
+                220
             ]
         },
         {
-            "text": "ty",
+            "text": "169",
             "id": 4,
             "bbox": [
-                206,
-                490,
-                219,
-                501
+                516,
+                272,
+                531,
+                279
             ]
         },
         {
-            "text": "Lip",
+            "text": "TROUSERS",
             "id": 5,
             "bbox": [
-                229,
-                488,
-                252,
-                502
+                465,
+                287,
+                512,
+                294
             ]
         },
         {
-            "text": "213484239",
+            "text": "10001105",
             "id": 6,
             "bbox": [
-                117,
-                501,
-                188,
-                517
-            ]
-        },
-        {
-            "text": "254.00",
-            "id": 7,
-            "bbox": [
-                372,
-                486,
-                417,
-                499
-            ]
-        },
-        {
-            "text": "254.00",
-            "id": 8,
-            "bbox": [
-                340,
-                502,
-                386,
-                515
-            ]
-        },
-        {
-            "text": "19",
-            "id": 9,
-            "bbox": [
-                278,
-                504,
-                300,
-                516
+                307,
+                284,
+                354,
+                295
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TF",
-                "Zero",
-                "Gravi",
-                "ty",
-                "Lip",
-                "213484239",
-                "254.00",
-                "254.00",
-                "19"
+                "TROUSERS"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:08"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001105"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "169"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

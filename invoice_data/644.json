@@ -1,110 +1,200 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "JOE'S",
             "id": 1,
             "bbox": [
-                87,
-                892,
-                94,
-                918
+                212,
+                265,
+                341,
+                319
             ]
         },
         {
-            "text": "BABY",
+            "text": "CAFE",
             "id": 2,
             "bbox": [
-                116,
-                888,
-                177,
-                916
+                360,
+                261,
+                474,
+                312
             ]
         },
         {
-            "text": "DYNAMITE",
+            "text": "Jul18",
             "id": 3,
             "bbox": [
-                194,
-                882,
-                315,
-                913
+                255,
+                584,
+                313,
+                615
             ]
         },
         {
-            "text": "58.00",
+            "text": "04:51PM",
             "id": 4,
             "bbox": [
-                602,
-                879,
-                678,
-                906
+                359,
+                582,
+                436,
+                605
+            ]
+        },
+        {
+            "text": "141.00",
+            "id": 5,
+            "bbox": [
+                414,
+                743,
+                543,
+                768
+            ]
+        },
+        {
+            "text": "118.00",
+            "id": 6,
+            "bbox": [
+                476,
+                660,
+                541,
+                682
+            ]
+        },
+        {
+            "text": "23.00",
+            "id": 7,
+            "bbox": [
+                487,
+                689,
+                541,
+                709
             ]
         },
         {
             "text": "1",
-            "id": 5,
-            "bbox": [
-                84,
-                964,
-                110,
-                1002
-            ]
-        },
-        {
-            "text": "ARABIC",
-            "id": 6,
-            "bbox": [
-                114,
-                963,
-                208,
-                994
-            ]
-        },
-        {
-            "text": "COFFEE",
-            "id": 7,
-            "bbox": [
-                225,
-                956,
-                316,
-                988
-            ]
-        },
-        {
-            "text": "42.00",
             "id": 8,
             "bbox": [
-                604,
-                957,
-                680,
-                983
+                149,
+                705,
+                154,
+                723
+            ]
+        },
+        {
+            "text": "Risotto",
+            "id": 9,
+            "bbox": [
+                169,
+                673,
+                248,
+                695
+            ]
+        },
+        {
+            "text": "Prawn",
+            "id": 10,
+            "bbox": [
+                261,
+                670,
+                316,
+                690
+            ]
+        },
+        {
+            "text": "Coke",
+            "id": 11,
+            "bbox": [
+                170,
+                702,
+                214,
+                722
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "BABY",
-                "DYNAMITE",
-                "58.00",
-                "1",
-                "ARABIC",
-                "COFFEE",
-                "42.00"
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Risotto",
+                "Prawn",
+                "Coke"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "04:51PM"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul18"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "141.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JOE'S",
+                "CAFE"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "118.00",
+                "23.00"
+            ],
+            "value_id": [
                 6,
-                7,
-                8
+                7
             ]
         }
     ],

@@ -1,131 +1,155 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "July",
             "id": 1,
             "bbox": [
-                159,
-                336,
-                171,
-                353
+                400,
+                230,
+                421,
+                242
             ]
         },
         {
-            "text": "ASFU-T6F4N-3093",
+            "text": "11,",
             "id": 2,
             "bbox": [
-                172,
-                336,
-                285,
-                358
+                427,
+                230,
+                442,
+                240
             ]
         },
         {
-            "text": "10",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                298,
-                346,
-                310,
-                357
+                448,
+                229,
+                475,
+                238
             ]
         },
         {
-            "text": "1",
+            "text": "23:42",
             "id": 4,
             "bbox": [
-                361,
-                351,
-                363,
-                361
+                484,
+                227,
+                516,
+                237
             ]
         },
         {
-            "text": "299.00",
+            "text": "3,790.00",
             "id": 5,
             "bbox": [
-                415,
-                349,
-                460,
-                359
+                550,
+                562,
+                606,
+                575
             ]
         },
         {
-            "text": "No.",
+            "text": "3,790.00",
             "id": 6,
             "bbox": [
-                139,
-                296,
-                177,
-                311
+                621,
+                392,
+                672,
+                405
             ]
         },
         {
-            "text": "DESCRIPTION",
+            "text": "O-CASE",
             "id": 7,
             "bbox": [
-                176,
-                299,
-                263,
-                315
+                77,
+                394,
+                128,
+                407
             ]
         },
         {
-            "text": "OTY",
+            "text": "A82725B02396C0229",
             "id": 8,
             "bbox": [
-                350,
-                310,
-                371,
-                320
-            ]
-        },
-        {
-            "text": "AMOUNT",
-            "id": 9,
-            "bbox": [
-                412,
-                310,
-                455,
-                320
+                77,
+                411,
+                208,
+                429
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "ASFU-T6F4N-3093",
-                "10",
-                "1",
-                "299.00"
+                "O-CASE"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23:42"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "11,",
+                "2020"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,790.00"
+            ],
+            "value_id": [
                 5
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "No.",
-                "DESCRIPTION",
-                "OTY",
-                "AMOUNT"
+                "A82725B02396C0229"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,790.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

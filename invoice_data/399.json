@@ -1,239 +1,260 @@
 {
     "text_boxes": [
         {
-            "text": "Quan",
+            "text": "5/07/20",
             "id": 1,
             "bbox": [
-                209,
-                525,
-                241,
-                539
+                527,
+                200,
+                575,
+                214
             ]
         },
         {
-            "text": "Description",
+            "text": "2.28.49",
             "id": 2,
             "bbox": [
-                259,
-                522,
-                348,
-                540
+                582,
+                203,
+                624,
+                212
             ]
         },
         {
-            "text": "Cost",
+            "text": "PM",
             "id": 3,
             "bbox": [
-                474,
-                520,
-                505,
-                535
+                629,
+                204,
+                646,
+                213
             ]
         },
         {
-            "text": "3",
+            "text": "630.00",
             "id": 4,
             "bbox": [
-                235,
-                585,
-                242,
-                599
+                651,
+                730,
+                690,
+                741
             ]
         },
         {
-            "text": "POP",
+            "text": "630.00",
             "id": 5,
             "bbox": [
-                252,
-                585,
-                275,
-                599
+                640,
+                294,
+                678,
+                304
             ]
         },
         {
-            "text": "TARTS",
+            "text": "0.01",
             "id": 6,
             "bbox": [
-                285,
-                584,
-                324,
-                599
-            ]
-        },
-        {
-            "text": "PER",
-            "id": 7,
-            "bbox": [
-                334,
-                584,
-                357,
-                598
-            ]
-        },
-        {
-            "text": "BOX",
-            "id": 8,
-            "bbox": [
-                367,
-                584,
-                390,
-                598
-            ]
-        },
-        {
-            "text": "AED210.0",
-            "id": 9,
-            "bbox": [
-                466,
-                581,
-                532,
-                596
-            ]
-        },
-        {
-            "text": "1",
-            "id": 10,
-            "bbox": [
-                237,
-                624,
-                248,
-                642
-            ]
-        },
-        {
-            "text": "POPTART",
-            "id": 11,
-            "bbox": [
-                252,
-                624,
-                308,
-                640
+                655,
+                359,
+                677,
+                368
             ]
         },
         {
             "text": "2",
+            "id": 7,
+            "bbox": [
+                308,
+                456,
+                313,
+                465
+            ]
+        },
+        {
+            "text": "OMEGA",
+            "id": 8,
+            "bbox": [
+                47,
+                308,
+                93,
+                319
+            ]
+        },
+        {
+            "text": "STRAPS",
+            "id": 9,
+            "bbox": [
+                98,
+                308,
+                149,
+                319
+            ]
+        },
+        {
+            "text": "GIFT",
+            "id": 10,
+            "bbox": [
+                43,
+                371,
+                71,
+                382
+            ]
+        },
+        {
+            "text": "CERTIFICATES",
+            "id": 11,
+            "bbox": [
+                77,
+                371,
+                170,
+                384
+            ]
+        },
+        {
+            "text": "GENERAL",
             "id": 12,
             "bbox": [
-                318,
-                625,
-                324,
-                639
+                176,
+                373,
+                237,
+                384
             ]
         },
         {
-            "text": "SLICE",
+            "text": "031CWZ011614",
             "id": 13,
             "bbox": [
-                335,
-                624,
-                374,
-                639
+                48,
+                287,
+                140,
+                297
             ]
         },
         {
-            "text": "AED18.0",
+            "text": "EZ",
             "id": 14,
             "bbox": [
-                475,
-                621,
-                532,
-                637
+                44,
+                350,
+                59,
+                359
             ]
         },
         {
-            "text": "11",
+            "text": "GV",
             "id": 15,
             "bbox": [
-                229,
-                667,
-                240,
-                681
+                64,
+                351,
+                82,
+                360
             ]
         },
         {
-            "text": "FRUITS",
+            "text": "AED200",
             "id": 16,
             "bbox": [
-                253,
-                665,
-                300,
-                681
-            ]
-        },
-        {
-            "text": "ROLLSUP",
-            "id": 17,
-            "bbox": [
-                310,
-                665,
-                366,
-                680
-            ]
-        },
-        {
-            "text": "AED55.0",
-            "id": 18,
-            "bbox": [
-                476,
-                664,
-                532,
-                678
+                86,
+                351,
+                134,
+                361
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3",
-                "POP",
-                "TARTS",
-                "PER",
-                "BOX",
-                "AED210.0",
-                "1",
-                "POPTART",
-                "2",
-                "SLICE",
-                "AED18.0",
-                "11",
-                "FRUITS",
-                "ROLLSUP",
-                "AED55.0"
+                "OMEGA",
+                "STRAPS",
+                "GIFT",
+                "CERTIFICATES",
+                "GENERAL"
             ],
             "value_id": [
-                4,
-                5,
-                6,
-                7,
                 8,
                 9,
                 10,
                 11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
+                12
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Quan",
-                "Description",
-                "Cost"
+                "2"
             ],
             "value_id": [
-                1,
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.28.49",
+                "PM"
+            ],
+            "value_id": [
                 2,
                 3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5/07/20"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "630.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "031CWZ011614",
+                "EZ",
+                "GV",
+                "AED200"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "630.00",
+                "0.01"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

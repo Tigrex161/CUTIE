@@ -1,0 +1,249 @@
+{
+    "text_boxes": [
+        {
+            "text": "SEPHORA",
+            "id": 1,
+            "bbox": [
+                252,
+                210,
+                331,
+                234
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 2,
+            "bbox": [
+                343,
+                212,
+                398,
+                236
+            ]
+        },
+        {
+            "text": "MALL",
+            "id": 3,
+            "bbox": [
+                411,
+                215,
+                455,
+                237
+            ]
+        },
+        {
+            "text": "28,2020",
+            "id": 4,
+            "bbox": [
+                347,
+                1405,
+                425,
+                1425
+            ]
+        },
+        {
+            "text": "11:31:50",
+            "id": 5,
+            "bbox": [
+                440,
+                1411,
+                525,
+                1429
+            ]
+        },
+        {
+            "text": "1000.00",
+            "id": 6,
+            "bbox": [
+                396,
+                1134,
+                545,
+                1160
+            ]
+        },
+        {
+            "text": "1000.00",
+            "id": 7,
+            "bbox": [
+                483,
+                818,
+                556,
+                840
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                258,
+                811,
+                263,
+                828
+            ]
+        },
+        {
+            "text": "SEPHORA",
+            "id": 9,
+            "bbox": [
+                291,
+                732,
+                367,
+                754
+            ]
+        },
+        {
+            "text": "GIFT",
+            "id": 10,
+            "bbox": [
+                378,
+                735,
+                420,
+                756
+            ]
+        },
+        {
+            "text": "CARD",
+            "id": 11,
+            "bbox": [
+                432,
+                737,
+                474,
+                757
+            ]
+        },
+        {
+            "text": "UAE",
+            "id": 12,
+            "bbox": [
+                485,
+                739,
+                517,
+                758
+            ]
+        },
+        {
+            "text": "NEW",
+            "id": 13,
+            "bbox": [
+                529,
+                742,
+                560,
+                761
+            ]
+        },
+        {
+            "text": "105414256895",
+            "id": 14,
+            "bbox": [
+                107,
+                725,
+                236,
+                749
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "GIFT",
+                "CARD",
+                "UAE",
+                "NEW"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:31:50"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "28,2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1000.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105414256895"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1000.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/792.jpg"
+    }
+}

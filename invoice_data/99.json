@@ -1,239 +1,248 @@
 {
     "text_boxes": [
         {
-            "text": "028524487445",
+            "text": "KALPH",
             "id": 1,
             "bbox": [
-                102,
-                547,
-                186,
-                559
+                346,
+                266,
+                395,
+                274
             ]
         },
         {
-            "text": "357911-704109:SFO.",
+            "text": "L.",
             "id": 2,
             "bbox": [
-                196,
-                547,
-                316,
-                560
+                410,
+                268,
+                414,
+                275
             ]
         },
         {
-            "text": "704109:08:TIES",
+            "text": "AUREN",
             "id": 3,
             "bbox": [
-                318,
-                548,
-                412,
-                561
+                421,
+                268,
+                471,
+                276
             ]
         },
         {
-            "text": "PRINT",
+            "text": "11",
             "id": 4,
             "bbox": [
-                411,
-                551,
-                443,
-                559
+                478,
+                581,
+                487,
+                588
             ]
         },
         {
-            "text": "TIE",
+            "text": "July",
             "id": 5,
             "bbox": [
-                449,
-                552,
-                469,
-                559
+                490,
+                581,
+                504,
+                590
             ]
         },
         {
-            "text": "CR",
+            "text": "202n",
             "id": 6,
             "bbox": [
-                475,
-                552,
-                488,
-                560
+                508,
+                580,
+                525,
+                588
             ]
         },
         {
-            "text": "4-GEJi",
+            "text": "944",
             "id": 7,
             "bbox": [
-                496,
-                553,
-                544,
-                561
+                531,
+                579,
+                547,
+                590
             ]
         },
         {
-            "text": "54",
+            "text": "26",
             "id": 8,
             "bbox": [
-                347,
-                569,
-                357,
-                576
+                549,
+                579,
+                559,
+                590
             ]
         },
         {
-            "text": "720.00",
+            "text": "330.00",
             "id": 9,
             "bbox": [
-                449,
-                570,
-                486,
-                580
+                663,
+                743,
+                688,
+                749
             ]
         },
         {
-            "text": "508",
+            "text": "T",
             "id": 10,
             "bbox": [
-                526,
-                573,
-                542,
-                580
+                499,
+                641,
+                500,
+                645
             ]
         },
         {
-            "text": "360.00",
+            "text": "SSK",
             "id": 11,
             "bbox": [
-                576,
-                573,
-                613,
-                581
+                357,
+                638,
+                374,
+                649
             ]
         },
         {
-            "text": "ITEM",
+            "text": "CLSME-SHORT",
             "id": 12,
             "bbox": [
-                135,
-                486,
-                162,
-                494
+                376,
+                640,
+                430,
+                647
             ]
         },
         {
-            "text": "DESCRIPTION",
+            "text": "SEEEVE",
             "id": 13,
             "bbox": [
-                216,
-                486,
-                297,
-                497
+                435,
+                640,
+                460,
+                647
             ]
         },
         {
-            "text": "VAT",
+            "text": "KNIT",
             "id": 14,
             "bbox": [
-                349,
-                487,
-                367,
-                495
+                463,
+                640,
+                483,
+                646
             ]
         },
         {
-            "text": "OTY",
+            "text": "710754922",
             "id": 15,
             "bbox": [
-                408,
-                489,
-                427,
-                498
-            ]
-        },
-        {
-            "text": "PRICE",
-            "id": 16,
-            "bbox": [
-                461,
-                490,
-                493,
-                498
-            ]
-        },
-        {
-            "text": "DISC",
-            "id": 17,
-            "bbox": [
-                528,
-                490,
-                553,
-                498
-            ]
-        },
-        {
-            "text": "AHOUNT",
-            "id": 18,
-            "bbox": [
-                583,
-                490,
-                626,
-                500
+                136,
+                638,
+                177,
+                645
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "028524487445",
-                "357911-704109:SFO.",
-                "704109:08:TIES",
-                "PRINT",
-                "TIE",
-                "CR",
-                "4-GEJi",
-                "54",
-                "720.00",
-                "508",
-                "360.00"
+                "T"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SSK",
+                "CLSME-SHORT",
+                "SEEEVE",
+                "KNIT"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "944",
+                "26"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11",
+                "July",
+                "202n"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "330.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "KALPH",
+                "L.",
+                "AUREN"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
+                3
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ITEM",
-                "DESCRIPTION",
-                "VAT",
-                "OTY",
-                "PRICE",
-                "DISC",
-                "AHOUNT"
+                "710754922"
             ],
             "value_id": [
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
+                15
             ]
         }
     ],

@@ -1,122 +1,224 @@
 {
     "text_boxes": [
         {
-            "text": "DH",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                101,
-                570,
-                129,
-                579
+                311,
+                126,
+                383,
+                143
             ]
         },
         {
-            "text": "2288.00",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                136,
-                570,
-                166,
-                579
+                394,
+                129,
+                475,
+                144
             ]
         },
         {
-            "text": "TAX",
+            "text": "05/07/20",
             "id": 3,
             "bbox": [
-                195,
-                572,
-                210,
-                579
+                263,
+                357,
+                337,
+                372
             ]
         },
         {
-            "text": "S%",
+            "text": "13:01",
             "id": 4,
             "bbox": [
-                213,
-                572,
-                224,
-                580
+                349,
+                359,
+                390,
+                373
             ]
         },
         {
-            "text": "DH",
+            "text": "142.80",
             "id": 5,
             "bbox": [
-                274,
-                573,
-                303,
-                582
+                539,
+                692,
+                592,
+                706
             ]
         },
         {
-            "text": "2.160,00",
+            "text": "168.00",
             "id": 6,
             "bbox": [
-                309,
-                574,
-                340,
-                583
+                537,
+                525,
+                589,
+                538
             ]
         },
         {
-            "text": "Aka",
+            "text": "900882457",
             "id": 7,
             "bbox": [
-                525,
-                573,
-                548,
-                581
+                244,
+                547,
+                327,
+                562
             ]
         },
         {
-            "text": "handbag",
+            "text": "Beauty",
             "id": 8,
             "bbox": [
-                551,
-                574,
-                581,
-                583
+                196,
+                498,
+                252,
+                514
             ]
         },
         {
-            "text": "AACA10BJ04255IN",
+            "text": "DSKIN",
             "id": 9,
             "bbox": [
-                587,
-                573,
-                656,
-                581
+                195,
+                522,
+                242,
+                536
+            ]
+        },
+        {
+            "text": "RG",
+            "id": 10,
+            "bbox": [
+                253,
+                523,
+                271,
+                536
+            ]
+        },
+        {
+            "text": "A",
+            "id": 11,
+            "bbox": [
+                282,
+                524,
+                290,
+                536
+            ]
+        },
+        {
+            "text": "SUN",
+            "id": 12,
+            "bbox": [
+                301,
+                524,
+                328,
+                537
+            ]
+        },
+        {
+            "text": "SENSI",
+            "id": 13,
+            "bbox": [
+                339,
+                524,
+                383,
+                539
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DH",
-                "2288.00",
-                "TAX",
-                "S%",
-                "DH",
-                "2.160,00",
-                "Aka",
-                "handbag",
-                "AACA10BJ04255IN"
+                "Beauty",
+                "DSKIN",
+                "RG",
+                "A",
+                "SUN",
+                "SENSI"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:01"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "05/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "142.80"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900882457"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "168.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

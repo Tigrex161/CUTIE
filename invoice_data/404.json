@@ -1,251 +1,221 @@
 {
     "text_boxes": [
         {
-            "text": "Reference",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                100,
-                507,
-                166,
-                522
+                281,
+                257,
+                495,
+                290
             ]
         },
         {
-            "text": "\u0633\u0639\u0631",
+            "text": "July",
             "id": 2,
             "bbox": [
-                448,
-                514,
-                464,
-                520
+                413,
+                356,
+                432,
+                365
             ]
         },
         {
-            "text": "\u0627\u0644\u0648\u062d\u062f\u0629",
+            "text": "03,",
             "id": 3,
             "bbox": [
-                422,
-                510,
-                445,
-                520
+                438,
+                355,
+                452,
+                364
             ]
         },
         {
-            "text": "\u0627\u0644\u0645\u062c\u0645\u0648\u0639",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                629,
-                510,
-                661,
-                523
+                459,
+                353,
+                483,
+                363
             ]
         },
         {
-            "text": "Size",
+            "text": "22:13",
             "id": 5,
             "bbox": [
-                339,
-                523,
-                362,
-                532
+                492,
+                354,
+                522,
+                363
             ]
         },
         {
-            "text": "Qty",
+            "text": "470.00",
             "id": 6,
             "bbox": [
-                374,
-                524,
-                393,
-                536
+                547,
+                677,
+                585,
+                685
             ]
         },
         {
-            "text": "Unit",
+            "text": "470.00",
             "id": 7,
             "bbox": [
-                415,
-                525,
-                439,
-                536
+                617,
+                528,
+                652,
+                537
             ]
         },
         {
-            "text": "price",
+            "text": "1",
             "id": 8,
             "bbox": [
-                442,
-                525,
-                471,
-                538
+                385,
+                532,
+                388,
+                540
             ]
         },
         {
-            "text": "Amount",
+            "text": "ALLURE",
             "id": 9,
             "bbox": [
-                617,
-                528,
-                664,
-                536
+                122,
+                533,
+                165,
+                541
             ]
         },
         {
-            "text": "SNEAKERS",
+            "text": "HOMME",
             "id": 10,
             "bbox": [
-                103,
-                526,
                 171,
+                533,
+                214,
                 540
             ]
         },
         {
-            "text": "Unit",
+            "text": "SPORT",
             "id": 11,
             "bbox": [
-                415,
-                525,
-                439,
-                536
-            ]
-        },
-        {
-            "text": "price",
-            "id": 12,
-            "bbox": [
-                442,
-                525,
-                471,
-                538
-            ]
-        },
-        {
-            "text": "Amount",
-            "id": 13,
-            "bbox": [
-                617,
-                528,
-                664,
-                536
-            ]
-        },
-        {
-            "text": "SNEAKERS",
-            "id": 14,
-            "bbox": [
-                103,
-                526,
-                171,
+                219,
+                533,
+                256,
                 540
             ]
         },
         {
-            "text": "G35934X51755C7600",
-            "id": 15,
+            "text": "123630",
+            "id": 12,
             "bbox": [
-                101,
-                543,
-                228,
-                560
-            ]
-        },
-        {
-            "text": "108",
-            "id": 16,
-            "bbox": [
-                235,
-                551,
-                255,
-                561
-            ]
-        },
-        {
-            "text": "39.5",
-            "id": 17,
-            "bbox": [
-                339,
-                541,
-                360,
-                549
-            ]
-        },
-        {
-            "text": "3,280.00",
-            "id": 18,
-            "bbox": [
-                426,
-                543,
-                472,
-                553
-            ]
-        },
-        {
-            "text": "3,280.00",
-            "id": 19,
-            "bbox": [
-                611,
-                543,
-                660,
-                555
+                123,
+                547,
+                160,
+                558
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Unit",
-                "price",
-                "Amount",
-                "SNEAKERS",
-                "G35934X51755C7600",
-                "108",
-                "39.5",
-                "3,280.00",
-                "3,280.00"
+                "1"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19
+                8
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Reference",
-                "\u0633\u0639\u0631",
-                "\u0627\u0644\u0648\u062d\u062f\u0629",
-                "\u0627\u0644\u0645\u062c\u0645\u0648\u0639",
-                "Size",
-                "Qty",
-                "Unit",
-                "price",
-                "Amount",
-                "SNEAKERS"
+                "ALLURE",
+                "HOMME",
+                "SPORT"
             ],
             "value_id": [
-                1,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22:13"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "03,",
+                "2020"
+            ],
+            "value_id": [
                 2,
                 3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "470.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "123630"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "470.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

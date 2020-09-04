@@ -1,134 +1,164 @@
 {
     "text_boxes": [
         {
-            "text": "RO750DSEMT",
+            "text": "ZRA",
             "id": 1,
             "bbox": [
-                155,
-                494,
-                222,
-                508
+                310,
+                104,
+                431,
+                155
             ]
         },
         {
-            "text": "D300",
+            "text": "01-07-2020",
             "id": 2,
             "bbox": [
-                247,
-                495,
-                271,
-                504
+                234,
+                334,
+                294,
+                341
             ]
         },
         {
-            "text": "/",
+            "text": "11:49",
             "id": 3,
             "bbox": [
-                276,
-                494,
-                282,
-                505
+                304,
+                335,
+                332,
+                341
             ]
         },
         {
-            "text": "TM",
+            "text": "289",
             "id": 4,
             "bbox": [
-                282,
-                496,
-                297,
-                503
+                445,
+                494,
+                462,
+                501
             ]
         },
         {
-            "text": "DSE",
+            "text": "289",
             "id": 5,
             "bbox": [
-                302,
-                494,
-                321,
-                502
+                443,
+                389,
+                459,
+                396
             ]
         },
         {
-            "text": "CD",
+            "text": "0503905225102",
             "id": 6,
             "bbox": [
-                331,
-                494,
-                340,
-                502
+                295,
+                404,
+                376,
+                412
             ]
         },
         {
-            "text": "metalli",
+            "text": "DRESS",
             "id": 7,
             "bbox": [
-                345,
-                493,
-                374,
-                502
+                391,
+                403,
+                421,
+                411
             ]
         },
         {
-            "text": "1.000",
+            "text": "10001122",
             "id": 8,
             "bbox": [
-                497,
-                489,
-                519,
-                497
-            ]
-        },
-        {
-            "text": "00",
-            "id": 9,
-            "bbox": [
-                524,
-                489,
-                534,
-                495
-            ]
-        },
-        {
-            "text": "1,000.00",
-            "id": 10,
-            "bbox": [
-                588,
-                483,
-                626,
-                495
+                232,
+                405,
+                280,
+                413
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RO750DSEMT",
-                "D300",
-                "/",
-                "TM",
-                "DSE",
-                "CD",
-                "metalli",
-                "1.000",
-                "00",
-                "1,000.00"
+                "0503905225102",
+                "DRESS"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
                 6,
-                7,
-                8,
-                9,
-                10
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:49"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "01-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "289"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZRA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001122"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "289"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

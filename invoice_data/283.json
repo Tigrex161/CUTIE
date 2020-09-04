@@ -1,239 +1,192 @@
 {
     "text_boxes": [
         {
-            "text": "Still",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                171,
-                715,
-                215,
-                733
+                300,
+                283,
+                384,
+                294
             ]
         },
         {
-            "text": "1L",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                231,
-                717,
-                246,
-                732
+                398,
+                282,
+                492,
+                293
             ]
         },
         {
-            "text": "Antipodes",
+            "text": "11/07/20",
             "id": 3,
             "bbox": [
-                258,
-                716,
-                341,
-                735
+                251,
+                550,
+                332,
+                565
             ]
         },
         {
-            "text": "36.00",
+            "text": "15:58",
             "id": 4,
             "bbox": [
-                474,
-                717,
-                519,
-                733
+                348,
+                549,
+                396,
+                562
             ]
         },
         {
-            "text": "A",
+            "text": "3,760.00",
             "id": 5,
             "bbox": [
                 540,
-                718,
-                548,
-                733
+                882,
+                623,
+                897
             ]
         },
         {
-            "text": "Arabic",
+            "text": "1,980.00",
             "id": 6,
             "bbox": [
-                170,
-                762,
-                226,
-                779
+                538,
+                725,
+                619,
+                740
             ]
         },
         {
-            "text": "Coffee",
+            "text": "1,780.00",
             "id": 7,
             "bbox": [
-                238,
-                762,
-                293,
-                779
+                540,
+                775,
+                621,
+                792
             ]
         },
         {
-            "text": "30.00",
+            "text": "BAGS",
             "id": 8,
             "bbox": [
-                475,
-                764,
-                520,
-                779
+                179,
+                733,
+                220,
+                745
             ]
         },
         {
-            "text": "A",
+            "text": "LOUIS",
             "id": 9,
             "bbox": [
-                542,
-                764,
-                549,
-                779
+                235,
+                727,
+                304,
+                746
             ]
         },
         {
-            "text": "sebastian",
+            "text": "VUITTON",
             "id": 10,
             "bbox": [
-                198,
-                810,
-                283,
-                826
+                296,
+                726,
+                367,
+                745
             ]
         },
         {
-            "text": "cheese",
+            "text": "S",
             "id": 11,
             "bbox": [
-                295,
-                809,
-                350,
-                826
+                375,
+                727,
+                390,
+                742
             ]
         },
         {
-            "text": "47.00",
+            "text": "BAGS",
             "id": 12,
             "bbox": [
-                476,
-                810,
-                521,
-                826
+                180,
+                786,
+                220,
+                798
             ]
         },
         {
-            "text": "A",
+            "text": "LOUIS",
             "id": 13,
             "bbox": [
-                543,
-                811,
-                550,
-                827
+                235,
+                779,
+                307,
+                798
             ]
         },
         {
-            "text": "Tea",
+            "text": "VUITTON",
             "id": 14,
             "bbox": [
-                168,
-                858,
-                194,
-                875
+                309,
+                777,
+                369,
+                796
             ]
         },
         {
-            "text": "Jade",
+            "text": "S",
             "id": 15,
             "bbox": [
-                285,
-                857,
-                321,
-                875
+                381,
+                781,
+                389,
+                793
             ]
         },
         {
-            "text": "Dew",
+            "text": "900906112",
             "id": 16,
             "bbox": [
-                333,
-                858,
-                359,
-                874
+                234,
+                755,
+                327,
+                771
             ]
         },
         {
-            "text": "25.00",
+            "text": "900906112",
             "id": 17,
             "bbox": [
-                477,
-                858,
-                522,
-                874
-            ]
-        },
-        {
-            "text": "A",
-            "id": 18,
-            "bbox": [
-                544,
-                858,
-                551,
-                874
-            ]
-        },
-        {
-            "text": "Description",
-            "id": 19,
-            "bbox": [
-                173,
-                647,
-                276,
-                669
-            ]
-        },
-        {
-            "text": "Amount",
-            "id": 20,
-            "bbox": [
-                464,
-                649,
-                516,
-                665
+                235,
+                807,
+                327,
+                824
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Still",
-                "1L",
-                "Antipodes",
-                "36.00",
-                "A",
-                "Arabic",
-                "Coffee",
-                "30.00",
-                "A",
-                "sebastian",
-                "cheese",
-                "47.00",
-                "A",
-                "Tea",
-                "Jade",
-                "Dew",
-                "25.00",
-                "A"
+                "BAGS",
+                "LOUIS",
+                "VUITTON",
+                "S",
+                "BAGS",
+                "LOUIS",
+                "VUITTON",
+                "S"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
                 8,
                 9,
                 10,
@@ -241,23 +194,79 @@
                 12,
                 13,
                 14,
-                15,
-                16,
-                17,
-                18
+                15
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Description",
-                "Amount"
+                "15:58"
             ],
             "value_id": [
-                19,
-                20
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,760.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900906112",
+                "900906112"
+            ],
+            "value_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,980.00",
+                "1,780.00"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         }
     ],

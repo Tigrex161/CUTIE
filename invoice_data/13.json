@@ -1,155 +1,293 @@
 {
     "text_boxes": [
         {
-            "text": "7325701619584",
+            "text": "Boots",
             "id": 1,
             "bbox": [
-                184,
-                604,
-                320,
-                624
+                392,
+                139,
+                428,
+                155
             ]
         },
         {
-            "text": "SLIM",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                182,
-                655,
-                224,
-                671
+                432,
+                143,
+                468,
+                159
             ]
         },
         {
-            "text": "GANT",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                237,
-                655,
-                277,
-                671
+                473,
+                149,
+                498,
+                161
             ]
         },
         {
-            "text": "7325701041941",
+            "text": "10/07/2020",
             "id": 4,
             "bbox": [
-                183,
-                679,
-                318,
-                697
+                488,
+                450,
+                545,
+                466
             ]
         },
         {
-            "text": "SLIM",
+            "text": "119.00",
             "id": 5,
             "bbox": [
-                181,
-                730,
-                223,
-                748
+                540,
+                675,
+                570,
+                687
             ]
         },
         {
-            "text": "STRAIGHT",
+            "text": "119",
             "id": 6,
             "bbox": [
-                236,
-                729,
-                320,
-                748
+                540,
+                602,
+                555,
+                612
             ]
         },
         {
-            "text": "GANT",
+            "text": "00",
             "id": 7,
             "bbox": [
-                334,
-                730,
-                372,
-                748
+                560,
+                601,
+                572,
+                611
             ]
         },
         {
-            "text": "J",
+            "text": "10",
             "id": 8,
             "bbox": [
-                388,
-                732,
-                396,
-                747
+                475,
+                605,
+                488,
+                614
             ]
         },
         {
-            "text": "399.00",
+            "text": "1.0",
             "id": 9,
             "bbox": [
-                516,
-                724,
-                581,
-                746
+                474,
+                678,
+                487,
+                687
             ]
         },
         {
-            "text": "Description/kas",
+            "text": "...",
             "id": 10,
             "bbox": [
-                185,
-                558,
-                342,
-                579
+                341,
+                534,
+                366,
+                544
             ]
         },
         {
-            "text": "Amount/",
+            "text": "R",
             "id": 11,
             "bbox": [
-                449,
+                398,
+                539,
+                410,
+                547
+            ]
+        },
+        {
+            "text": "IFESCAN",
+            "id": 12,
+            "bbox": [
+                298,
+                539,
+                351,
+                556
+            ]
+        },
+        {
+            "text": "ONE",
+            "id": 13,
+            "bbox": [
+                349,
+                546,
+                374,
+                558
+            ]
+        },
+        {
+            "text": "TOUCH",
+            "id": 14,
+            "bbox": [
+                377,
+                548,
+                418,
+                561
+            ]
+        },
+        {
+            "text": "SELECT",
+            "id": 15,
+            "bbox": [
+                421,
+                550,
+                464,
+                564
+            ]
+        },
+        {
+            "text": "50",
+            "id": 16,
+            "bbox": [
+                468,
                 554,
-                528,
-                580
+                480,
+                565
+            ]
+        },
+        {
+            "text": "STRIP",
+            "id": 17,
+            "bbox": [
+                484,
+                554,
+                512,
+                566
+            ]
+        },
+        {
+            "text": "NPBOWPSELECT498",
+            "id": 18,
+            "bbox": [
+                291,
+                589,
+                406,
+                613
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7325701619584",
-                "SLIM",
-                "GANT",
-                "7325701041941",
-                "SLIM",
-                "STRAIGHT",
-                "GANT",
-                "J",
-                "399.00"
+                "10"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "...",
+                "R",
+                "IFESCAN",
+                "ONE",
+                "TOUCH",
+                "SELECT",
+                "50",
+                "STRIP"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.0"
+            ],
+            "value_id": [
                 9
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Description/kas",
-                "Amount/"
+                "10/07/2020"
             ],
             "value_id": [
-                10,
-                11
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "119.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Boots",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NPBOWPSELECT498"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "119",
+                "00"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         }
     ],

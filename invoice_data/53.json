@@ -1,254 +1,245 @@
 {
     "text_boxes": [
         {
-            "text": "Lime",
+            "text": "SEPHORA",
             "id": 1,
             "bbox": [
-                166,
-                680,
-                211,
-                700
+                293,
+                179,
+                353,
+                194
             ]
         },
         {
-            "text": "Corn",
+            "text": "DUBAI",
             "id": 2,
             "bbox": [
-                227,
-                680,
-                273,
-                700
+                364,
+                179,
+                404,
+                193
             ]
         },
         {
-            "text": "Salad",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                288,
-                678,
-                347,
-                700
+                416,
+                179,
+                448,
+                193
             ]
         },
         {
-            "text": "57.00",
+            "text": "July",
             "id": 4,
             "bbox": [
-                559,
-                676,
-                619,
-                697
+                380,
+                1194,
+                421,
+                1216
             ]
         },
         {
-            "text": "Chicken",
+            "text": "10,2020",
             "id": 5,
             "bbox": [
-                165,
-                738,
-                248,
-                761
+                428,
+                1198,
+                490,
+                1216
             ]
         },
         {
-            "text": "Musakhan",
+            "text": "12:46:03",
             "id": 6,
             "bbox": [
-                263,
-                737,
-                359,
-                760
+                502,
+                1201,
+                571,
+                1223
             ]
         },
         {
-            "text": "Rolls",
+            "text": "104.00",
             "id": 7,
             "bbox": [
-                374,
-                736,
-                433,
-                759
+                480,
+                733,
+                562,
+                749
             ]
         },
         {
-            "text": "31.00",
+            "text": "104.00",
             "id": 8,
             "bbox": [
-                559,
-                737,
-                619,
-                758
+                514,
+                669,
+                562,
+                684
             ]
         },
         {
-            "text": "EggPlant",
+            "text": "1",
             "id": 9,
             "bbox": [
-                163,
-                799,
-                258,
-                823
+                311,
+                671,
+                316,
+                684
             ]
         },
         {
-            "text": "Moussaka",
+            "text": "FOAMING",
             "id": 10,
             "bbox": [
-                274,
-                798,
-                371,
-                820
+                345,
+                602,
+                405,
+                620
             ]
         },
         {
-            "text": "37.00",
+            "text": "CLEANSING",
             "id": 11,
             "bbox": [
-                560,
-                796,
-                620,
-                819
+                416,
+                602,
+                491,
+                620
             ]
         },
         {
-            "text": "Shish",
+            "text": "WATER",
             "id": 12,
             "bbox": [
-                162,
-                829,
-                222,
-                851
+                501,
+                604,
+                543,
+                620
             ]
         },
         {
-            "text": "Barak",
+            "text": "W",
             "id": 13,
             "bbox": [
-                236,
-                829,
-                296,
-                850
+                553,
+                605,
+                560,
+                618
             ]
         },
         {
-            "text": "&",
+            "text": "024911686469",
             "id": 14,
             "bbox": [
-                312,
-                831,
-                321,
-                850
-            ]
-        },
-        {
-            "text": "Varmicelle",
-            "id": 15,
-            "bbox": [
-                337,
-                828,
-                458,
-                850
-            ]
-        },
-        {
-            "text": "Rice",
-            "id": 16,
-            "bbox": [
-                161,
-                861,
-                208,
-                882
-            ]
-        },
-        {
-            "text": "69.00",
-            "id": 17,
-            "bbox": [
-                561,
-                857,
-                622,
-                879
-            ]
-        },
-        {
-            "text": "Ginger",
-            "id": 18,
-            "bbox": [
-                160,
-                921,
-                232,
-                947
-            ]
-        },
-        {
-            "text": "Ale",
-            "id": 19,
-            "bbox": [
-                247,
-                919,
-                283,
-                943
-            ]
-        },
-        {
-            "text": "17.00",
-            "id": 20,
-            "bbox": [
-                566,
-                917,
-                625,
-                938
+                190,
+                595,
+                297,
+                618
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Lime",
-                "Corn",
-                "Salad",
-                "57.00",
-                "Chicken",
-                "Musakhan",
-                "Rolls",
-                "31.00",
-                "EggPlant",
-                "Moussaka",
-                "37.00",
-                "Shish",
-                "Barak",
-                "&",
-                "Varmicelle",
-                "Rice",
-                "69.00",
-                "Ginger",
-                "Ale",
-                "17.00"
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FOAMING",
+                "CLEANSING",
+                "WATER",
+                "W"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:46:03"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "10,2020"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "104.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
             ],
             "value_id": [
                 1,
                 2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "024911686469"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "104.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

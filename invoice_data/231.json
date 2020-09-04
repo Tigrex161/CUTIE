@@ -1,119 +1,233 @@
 {
     "text_boxes": [
         {
-            "text": "1",
+            "text": "ZRA",
             "id": 1,
             "bbox": [
-                414,
-                1039,
-                457,
-                1061
+                360,
+                145,
+                482,
+                201
             ]
         },
         {
-            "text": "120.75",
+            "text": "16-07-2020",
             "id": 2,
             "bbox": [
-                576,
-                1037,
-                651,
-                1057
+                278,
+                272,
+                345,
+                280
             ]
         },
         {
-            "text": "SI",
+            "text": "16:38",
             "id": 3,
             "bbox": [
-                40,
-                1043,
-                91,
-                1066
+                356,
+                271,
+                387,
+                280
             ]
         },
         {
-            "text": "00114099",
+            "text": "448",
             "id": 4,
             "bbox": [
-                97,
-                1041,
-                199,
-                1066
+                509,
+                508,
+                529,
+                519
             ]
         },
         {
-            "text": "Amount",
+            "text": "79",
             "id": 5,
             "bbox": [
-                544,
-                951,
-                650,
-                973
+                519,
+                339,
+                531,
+                349
             ]
         },
         {
-            "text": "#",
+            "text": "369",
             "id": 6,
             "bbox": [
-                52,
-                956,
-                72,
-                985
+                511,
+                377,
+                530,
+                386
             ]
         },
         {
-            "text": "Item",
+            "text": "1",
             "id": 7,
             "bbox": [
-                88,
-                958,
-                143,
-                981
+                362,
+                344,
+                365,
+                352
             ]
         },
         {
-            "text": "Qty",
+            "text": "0116522680003",
             "id": 8,
             "bbox": [
-                410,
-                952,
+                347,
+                362,
+                436,
+                371
+            ]
+        },
+        {
+            "text": "5HIRT",
+            "id": 9,
+            "bbox": [
                 453,
-                979
+                360,
+                486,
+                369
+            ]
+        },
+        {
+            "text": "0510705704401",
+            "id": 10,
+            "bbox": [
+                347,
+                399,
+                435,
+                407
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 11,
+            "bbox": [
+                453,
+                396,
+                486,
+                406
+            ]
+        },
+        {
+            "text": "10001247",
+            "id": 12,
+            "bbox": [
+                277,
+                361,
+                330,
+                370
+            ]
+        },
+        {
+            "text": "10002277",
+            "id": 13,
+            "bbox": [
+                276,
+                399,
+                329,
+                407
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "120.75",
-                "SI",
-                "00114099"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0116522680003",
+                "5HIRT",
+                "0510705704401",
+                "DRESS"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:38"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "448"
+            ],
+            "value_id": [
                 4
             ]
         },
         {
-            "field_name": "heading",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Amount",
-                "#",
-                "Item",
-                "Qty"
+                "ZRA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001247",
+                "10002277"
+            ],
+            "value_id": [
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "79",
+                "369"
             ],
             "value_id": [
                 5,
-                6,
-                7,
-                8
+                6
             ]
         }
     ],

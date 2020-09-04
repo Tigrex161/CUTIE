@@ -1,206 +1,281 @@
 {
     "text_boxes": [
         {
-            "text": "FINE",
+            "text": "LUSH",
             "id": 1,
             "bbox": [
-                206,
-                609,
-                238,
-                622
+                233,
+                251,
+                450,
+                328
             ]
         },
         {
-            "text": "GUARD",
+            "text": "FRESH",
             "id": 2,
             "bbox": [
-                249,
-                607,
-                291,
-                622
+                458,
+                269,
+                550,
+                296
             ]
         },
         {
-            "text": "N95",
+            "text": "HANDMADE",
             "id": 3,
             "bbox": [
-                302,
-                607,
-                326,
-                622
+                460,
+                294,
+                551,
+                311
             ]
         },
         {
-            "text": "FACE",
+            "text": "COSMETICS",
             "id": 4,
             "bbox": [
-                337,
-                609,
-                369,
-                622
+                462,
+                307,
+                553,
+                325
             ]
         },
         {
-            "text": "99.00",
+            "text": "25/07/2020",
             "id": 5,
             "bbox": [
-                476,
-                609,
-                518,
-                621
+                357,
+                563,
+                434,
+                577
             ]
         },
         {
-            "text": "V",
+            "text": "2:59:32",
             "id": 6,
             "bbox": [
-                528,
-                608,
-                535,
-                620
+                361,
+                582,
+                412,
+                594
             ]
         },
         {
-            "text": "NAV\u0116L",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                206,
-                646,
-                247,
-                661
+                420,
+                582,
+                440,
+                593
             ]
         },
         {
-            "text": "S.",
+            "text": "230.00",
             "id": 8,
             "bbox": [
-                328,
-                645,
-                340,
-                661
+                583,
+                781,
+                622,
+                793
             ]
         },
         {
-            "text": "AFRIC\u010c",
+            "text": "230.00",
             "id": 9,
             "bbox": [
-                337,
-                645,
-                378,
-                660
+                570,
+                678,
+                609,
+                692
             ]
         },
         {
-            "text": "14.38",
+            "text": "RO'S",
             "id": 10,
             "bbox": [
-                477,
-                647,
-                518,
-                660
+                334,
+                697,
+                363,
+                708
             ]
         },
         {
-            "text": "V",
+            "text": "ARGAN",
             "id": 11,
             "bbox": [
-                529,
-                647,
-                535,
-                660
+                369,
+                695,
+                411,
+                707
             ]
         },
         {
-            "text": "SLICED",
+            "text": "BODY",
             "id": 12,
             "bbox": [
-                207,
-                671,
-                257,
-                684
+                417,
+                692,
+                451,
+                704
             ]
         },
         {
-            "text": "ENERGY",
+            "text": "CONDITIONER",
             "id": 13,
             "bbox": [
-                268,
-                670,
-                317,
-                684
+                335,
+                708,
+                421,
+                722
             ]
         },
         {
-            "text": "BREAD",
+            "text": "22",
             "id": 14,
             "bbox": [
-                328,
-                670,
-                370,
-                683
+                426,
+                707,
+                439,
+                718
             ]
         },
         {
-            "text": "6.20",
+            "text": "\u0630\u0627\u0646\u064a",
             "id": 15,
             "bbox": [
-                485,
-                670,
-                518,
-                684
+                371,
+                740,
+                392,
+                752
             ]
         },
         {
-            "text": "V",
+            "text": "\u0627\u0644\u062d\u0641\u0638(",
             "id": 16,
             "bbox": [
-                529,
-                670,
-                535,
-                682
+                337,
+                736,
+                367,
+                753
+            ]
+        },
+        {
+            "text": "7036",
+            "id": 17,
+            "bbox": [
+                250,
+                699,
+                277,
+                709
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "lineItems",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FINE",
-                "GUARD",
-                "N95",
-                "FACE",
-                "99.00",
-                "V",
-                "NAV\u0116L",
-                "S.",
-                "AFRIC\u010c",
-                "14.38",
-                "V",
-                "SLICED",
-                "ENERGY",
-                "BREAD",
-                "6.20",
-                "V"
+                "RO'S",
+                "ARGAN",
+                "BODY",
+                "CONDITIONER",
+                "22"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2:59:32",
+                "PM"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "230.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0630\u0627\u0646\u064a",
+                "\u0627\u0644\u062d\u0641\u0638("
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LUSH",
+                "FRESH",
+                "HANDMADE",
+                "COSMETICS"
             ],
             "value_id": [
                 1,
                 2,
                 3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7036"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "230.00"
+            ],
+            "value_id": [
+                9
             ]
         }
     ],

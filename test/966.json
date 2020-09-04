@@ -1,0 +1,237 @@
+{
+    "text_boxes": [
+        {
+            "text": "MaxMara",
+            "id": 1,
+            "bbox": [
+                317,
+                252,
+                504,
+                297
+            ]
+        },
+        {
+            "text": "July,",
+            "id": 2,
+            "bbox": [
+                565,
+                357,
+                596,
+                368
+            ]
+        },
+        {
+            "text": "18",
+            "id": 3,
+            "bbox": [
+                608,
+                357,
+                620,
+                366
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                629,
+                357,
+                655,
+                367
+            ]
+        },
+        {
+            "text": "15:45",
+            "id": 5,
+            "bbox": [
+                664,
+                356,
+                697,
+                366
+            ]
+        },
+        {
+            "text": "4,",
+            "id": 6,
+            "bbox": [
+                616,
+                695,
+                625,
+                703
+            ]
+        },
+        {
+            "text": "676.00",
+            "id": 7,
+            "bbox": [
+                630,
+                693,
+                669,
+                702
+            ]
+        },
+        {
+            "text": "4,676.00",
+            "id": 8,
+            "bbox": [
+                618,
+                608,
+                671,
+                618
+            ]
+        },
+        {
+            "text": "1.",
+            "id": 9,
+            "bbox": [
+                458,
+                612,
+                460,
+                619
+            ]
+        },
+        {
+            "text": "12410107-010:MXM.",
+            "id": 10,
+            "bbox": [
+                238,
+                589,
+                347,
+                600
+            ]
+        },
+        {
+            "text": "010:42:CESENA",
+            "id": 11,
+            "bbox": [
+                352,
+                591,
+                436,
+                602
+            ]
+        },
+        {
+            "text": "JUMPSUIT",
+            "id": 12,
+            "bbox": [
+                444,
+                590,
+                495,
+                598
+            ]
+        },
+        {
+            "text": "037024012556",
+            "id": 13,
+            "bbox": [
+                148,
+                589,
+                229,
+                600
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1."
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12410107-010:MXM.",
+                "010:42:CESENA",
+                "JUMPSUIT"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:45"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "18",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,",
+                "676.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MaxMara"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "037024012556"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,676.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/966.jpg"
+    }
+}
