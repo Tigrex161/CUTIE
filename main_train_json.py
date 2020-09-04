@@ -180,9 +180,9 @@ if __name__ == '__main__':
     ckpt_saver = tf.train.Saver(max_to_keep=200)
     summary_path = os.path.join(params.log_path, params.save_prefix, network.name)
     # summary_writer = tf.summary.FileWriter(summary_path, tf.get_default_graph(), flush_secs=10)
-    
     config = tf.ConfigProto(allow_soft_placement=True)
     config.gpu_options.allow_growth = True
+
     with tf.Session(config=config) as sess:
         sess.run(tf.global_variables_initializer())
         
@@ -206,8 +206,8 @@ if __name__ == '__main__':
                     raise Exception('Check your path {:s}'.format(ckpt_path))
             else:
                 try:
-                    ckpt_path = os.path.join(params.ckpt_path, params.ckpt_file)
-                    ckpt_saver = tf.train.import_meta_graph(params.meta_file)
+                    ckpt_path = os.path.join(params.ckpt_path, params.save_prefix)
+                    ckpt_saver = tf.train.import_meta_graph(params.meta_file) 
                     ckpt = tf.train.get_checkpoint_state(ckpt_path)
                     print('Restoring from {}...'.format(ckpt_path))
                     ckpt_saver.restore(sess, ckpt_path)
