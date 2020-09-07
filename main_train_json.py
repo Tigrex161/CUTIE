@@ -199,9 +199,9 @@ if __name__ == '__main__':
                     raise Exception('no bert embedding was designed in the built model, \
                         switch restore_bertembedding_only off or built a related model')
                 try:
-                    # load_variable = {"bert/embeddings/word_embeddings": network.embedding_table}
-                    # ckpt_saver = tf.train.Saver(load_variable, max_to_keep=50)
-                    ckpt_saver = tf.train.import_meta_graph('gdrive/My Drive/checkpoints/BERT/bert_model.ckpt.meta') 
+                    load_variable = {"bert/embeddings/word_embeddings": network.embedding_table}
+                    ckpt_saver = tf.train.Saver(load_variable, max_to_keep=50)
+                    # ckpt_saver = tf.train.import_meta_graph('gdrive/My Drive/checkpoints/BERT/bert_model.ckpt.meta') 
                     # ckpt_path = params.embedding_file
                     ckpt_path = 'gdrive/My Drive/checkpoints/BERT/bert_model.ckpt'
                     ckpt = tf.train.get_checkpoint_state(ckpt_path)

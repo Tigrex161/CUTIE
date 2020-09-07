@@ -10,6 +10,9 @@ class CUTIERes(CUTIE):
         
         self.data = tf.placeholder(tf.int32, shape=[None, None, None, 1], name='grid_table')
         self.gt_classes = tf.placeholder(tf.int32, shape=[None, None, None], name='gt_classes')
+
+
+        
         self.use_ghm = tf.equal(1, params.use_ghm) if hasattr(params, 'use_ghm') else tf.equal(1, 0) #params.use_ghm 
         self.activation = 'sigmoid' if (hasattr(params, 'use_ghm') and params.use_ghm) else 'relu'
         self.ghm_weights = tf.placeholder(tf.float32, shape=[None, None, None, num_classes], name='ghm_weights')        
