@@ -1,103 +1,231 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "HERM\u00c9S",
             "id": 1,
             "bbox": [
-                360,
-                255,
-                394,
-                266
+                174,
+                301,
+                290,
+                332
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "07/06/2020",
             "id": 2,
             "bbox": [
-                399,
-                255,
                 450,
-                266
+                360,
+                495,
+                369
             ]
         },
         {
-            "text": "19:5",
+            "text": "08",
             "id": 3,
             "bbox": [
-                606,
-                438,
-                630,
-                445
+                451,
+                379,
+                460,
+                385
             ]
         },
         {
-            "text": "1.950.00",
+            "text": "11",
             "id": 4,
             "bbox": [
-                652,
-                490,
-                693,
-                497
+                465,
+                379,
+                471,
+                385
             ]
         },
         {
-            "text": "SMALL",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                116,
-                510,
-                141,
-                518
+                477,
+                378,
+                489,
+                384
             ]
         },
         {
-            "text": "LEATHEX",
+            "text": "2,740.00",
             "id": 6,
             "bbox": [
-                147,
-                511,
-                182,
-                518
+                499,
+                871,
+                541,
+                884
             ]
         },
         {
-            "text": "DOODS",
+            "text": "2,740.00",
             "id": 7,
             "bbox": [
-                188,
-                510,
-                213,
-                518
+                569,
+                525,
+                606,
+                532
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                521,
+                526,
+                523,
+                531
+            ]
+        },
+        {
+            "text": "M2021972",
+            "id": 9,
+            "bbox": [
+                120,
+                529,
+                161,
+                540
+            ]
+        },
+        {
+            "text": "CALFSKIN",
+            "id": 10,
+            "bbox": [
+                212,
+                531,
+                257,
+                541
+            ]
+        },
+        {
+            "text": "WOMEN'S",
+            "id": 11,
+            "bbox": [
+                262,
+                529,
+                306,
+                541
+            ]
+        },
+        {
+            "text": "SANDAL",
+            "id": 12,
+            "bbox": [
+                310,
+                529,
+                347,
+                537
+            ]
+        },
+        {
+            "text": "385",
+            "id": 13,
+            "bbox": [
+                350,
+                530,
+                364,
+                536
+            ]
+        },
+        {
+            "text": "90",
+            "id": 14,
+            "bbox": [
+                368,
+                529,
+                377,
+                535
+            ]
+        },
+        {
+            "text": "BLANC",
+            "id": 15,
+            "bbox": [
+                381,
+                526,
+                412,
+                535
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LOUIS",
-                "VUITTON"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SMALL",
-                "LEATHEX",
-                "DOODS"
+                "CALFSKIN",
+                "WOMEN'S",
+                "SANDAL",
+                "385",
+                "90",
+                "BLANC"
             ],
             "value_id": [
-                5,
-                6,
-                7
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/06/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HERM\u00c9S"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,740.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "M2021972"
+            ],
+            "value_id": [
+                9
             ]
         },
         {
@@ -105,10 +233,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19:5"
+                "08",
+                "11",
+                "PM"
             ],
             "value_id": [
-                3
+                3,
+                4,
+                5
             ]
         },
         {
@@ -116,10 +248,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.950.00"
+                "2,740.00"
             ],
             "value_id": [
-                4
+                7
             ]
         }
     ],

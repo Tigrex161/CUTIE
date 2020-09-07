@@ -1,206 +1,96 @@
 {
     "text_boxes": [
         {
-            "text": "SWISS",
+            "text": "10/07/20",
             "id": 1,
             "bbox": [
-                410,
-                277,
-                450,
-                293
+                178,
+                330,
+                265,
+                348
             ]
         },
         {
-            "text": "MADE",
+            "text": "5:49",
             "id": 2,
             "bbox": [
-                410,
-                286,
-                450,
-                300
+                291,
+                332,
+                334,
+                348
             ]
         },
         {
-            "text": "S",
+            "text": "570",
             "id": 3,
             "bbox": [
-                307,
-                292,
-                324,
-                310
+                516,
+                608,
+                548,
+                625
             ]
         },
         {
-            "text": "watche",
+            "text": "570",
             "id": 4,
             "bbox": [
-                347,
-                280,
-                429,
-                305
-            ]
-        },
-        {
-            "text": "6:32:50",
-            "id": 5,
-            "bbox": [
-                565,
-                375,
-                602,
-                387
-            ]
-        },
-        {
-            "text": "PM",
-            "id": 6,
-            "bbox": [
-                606,
-                375,
-                622,
-                384
-            ]
-        },
-        {
-            "text": "950.00",
-            "id": 7,
-            "bbox": [
-                627,
-                786,
-                659,
-                795
-            ]
-        },
-        {
-            "text": "850.00",
-            "id": 8,
-            "bbox": [
-                616,
-                455,
-                649,
-                465
-            ]
-        },
-        {
-            "text": "100.00",
-            "id": 9,
-            "bbox": [
-                618,
-                512,
-                649,
-                523
-            ]
-        },
-        {
-            "text": "1.",
-            "id": 10,
-            "bbox": [
-                334,
-                524,
-                336,
+                520,
+                514,
+                553,
                 532
             ]
         },
         {
-            "text": "2.",
-            "id": 11,
+            "text": "1",
+            "id": 5,
             "bbox": [
-                337,
-                613,
-                346,
-                623
+                323,
+                513,
+                329,
+                529
             ]
         },
         {
-            "text": "SWATCH",
-            "id": 12,
+            "text": "1",
+            "id": 6,
             "bbox": [
-                118,
-                493,
-                162,
-                505
+                504,
+                744,
+                510,
+                760
             ]
         },
         {
-            "text": "WATCHES",
-            "id": 13,
+            "text": "SNEAKERS",
+            "id": 7,
             "bbox": [
-                165,
-                490,
-                218,
-                503
+                183,
+                510,
+                273,
+                527
             ]
         },
         {
-            "text": "SWATCH",
-            "id": 14,
+            "text": "A058707",
+            "id": 8,
             "bbox": [
-                117,
-                548,
-                162,
-                557
-            ]
-        },
-        {
-            "text": "WATCHES",
-            "id": 15,
-            "bbox": [
-                166,
-                545,
-                220,
-                556
-            ]
-        },
-        {
-            "text": "SS072100",
-            "id": 16,
-            "bbox": [
-                118,
-                476,
-                165,
-                486
-            ]
-        },
-        {
-            "text": "SUOW157",
-            "id": 17,
-            "bbox": [
-                114,
-                528,
-                167,
-                540
-            ]
-        },
-        {
-            "text": "Siete",
-            "id": 18,
-            "bbox": [
-                116,
-                568,
-                141,
-                574
-            ]
-        },
-        {
-            "text": "P-",
-            "id": 19,
-            "bbox": [
-                147,
-                567,
-                170,
-                575
+                93,
+                510,
+                169,
+                527
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1."
+                "1"
             ],
             "value_id": [
-                10
+                6
             ]
         },
         {
@@ -208,40 +98,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SWATCH",
-                "WATCHES",
-                "SWATCH",
-                "WATCHES"
+                "SNEAKERS"
             ],
             "value_id": [
-                12,
-                13,
-                14,
-                15
+                7
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2."
+                "1"
             ],
             "value_id": [
-                11
+                5
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6:32:50",
-                "PM"
+                "10/07/20"
             ],
             "value_id": [
-                5,
-                6
+                1
             ]
         },
         {
@@ -249,40 +131,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "950.00"
+                "570"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Siete",
-                "P-"
-            ],
-            "value_id": [
-                18,
-                19
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SWISS",
-                "MADE",
-                "S",
-                "watche"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4
+                3
             ]
         },
         {
@@ -290,12 +142,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SS072100",
-                "SUOW157"
+                "A058707"
             ],
             "value_id": [
-                16,
-                17
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5:49"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -303,12 +164,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "850.00",
-                "100.00"
+                "570"
             ],
             "value_id": [
-                8,
-                9
+                4
             ]
         }
     ],

@@ -1,155 +1,177 @@
 {
     "text_boxes": [
         {
-            "text": "RALPH",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                316,
-                143,
-                368,
-                158
+                306,
+                192,
+                479,
+                242
             ]
         },
         {
-            "text": "LAUREN",
+            "text": "10/07/2020",
             "id": 2,
             "bbox": [
-                382,
-                138,
-                447,
-                152
+                45,
+                492,
+                94,
+                500
             ]
         },
         {
-            "text": "Ay",
+            "text": "19:09",
             "id": 3,
             "bbox": [
-                191,
-                475,
-                222,
-                487
+                106,
+                492,
+                129,
+                500
             ]
         },
         {
-            "text": "2020",
+            "text": "4,660,00",
             "id": 4,
             "bbox": [
-                224,
-                473,
-                242,
-                486
+                633,
+                648,
+                672,
+                657
             ]
         },
         {
-            "text": "20121",
+            "text": "4,428.57",
             "id": 5,
             "bbox": [
-                248,
-                474,
-                273,
-                483
+                659,
+                585,
+                698,
+                593
             ]
         },
         {
-            "text": "PM",
+            "text": "3",
             "id": 6,
             "bbox": [
-                278,
-                473,
-                289,
-                482
+                376,
+                617,
+                380,
+                624
             ]
         },
         {
-            "text": "350.00",
+            "text": "Cus",
             "id": 7,
             "bbox": [
-                638,
-                633,
-                659,
-                642
+                206,
+                584,
+                222,
+                591
             ]
         },
         {
-            "text": "NATURAL",
+            "text": "tom.",
             "id": 8,
             "bbox": [
-                331,
-                536,
-                368,
-                543
+                224,
+                585,
+                243,
+                592
             ]
         },
         {
-            "text": "STRTCH",
+            "text": "Je",
             "id": 9,
             "bbox": [
-                373,
-                535,
-                403,
-                543
+                247,
+                584,
+                256,
+                591
             ]
         },
         {
-            "text": "PPLN",
+            "text": "we",
             "id": 10,
             "bbox": [
-                407,
-                533,
-                427,
-                543
+                258,
+                587,
+                268,
+                591
             ]
         },
         {
-            "text": "CUSDPPCS",
+            "text": "le",
             "id": 11,
             "bbox": [
-                330,
-                547,
-                373,
-                557
+                271,
+                584,
+                276,
+                591
             ]
         },
         {
-            "text": "710792044",
+            "text": "ry",
             "id": 12,
             "bbox": [
-                106,
-                538,
-                146,
-                548
+                279,
+                586,
+                287,
+                593
+            ]
+        },
+        {
+            "text": "B0961",
+            "id": 13,
+            "bbox": [
+                42,
+                583,
+                68,
+                591
+            ]
+        },
+        {
+            "text": "ADRCO",
+            "id": 14,
+            "bbox": [
+                72,
+                584,
+                108,
+                591
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NATURAL",
-                "STRTCH",
-                "PPLN",
-                "CUSDPPCS"
+                "Cus",
+                "tom.",
+                "Je",
+                "we",
+                "le",
+                "ry"
             ],
             "value_id": [
+                7,
                 8,
                 9,
                 10,
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20121",
-                "PM"
-            ],
-            "value_id": [
-                5,
-                6
+                11,
+                12
             ]
         },
         {
@@ -157,23 +179,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Ay",
-                "2020"
+                "10/07/2020"
             ],
             "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "350.00"
-            ],
-            "value_id": [
-                7
+                2
             ]
         },
         {
@@ -181,12 +190,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RALPH",
-                "LAUREN"
+                "DIOR"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,660,00"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -194,10 +212,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "710792044"
+                "B0961",
+                "ADRCO"
             ],
             "value_id": [
-                12
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:09"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,428.57"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

@@ -1,0 +1,216 @@
+{
+    "text_boxes": [
+        {
+            "text": "Apple",
+            "id": 1,
+            "bbox": [
+                200,
+                153,
+                227,
+                164
+            ]
+        },
+        {
+            "text": "Dubai",
+            "id": 2,
+            "bbox": [
+                230,
+                153,
+                256,
+                163
+            ]
+        },
+        {
+            "text": "Mall",
+            "id": 3,
+            "bbox": [
+                260,
+                153,
+                278,
+                163
+            ]
+        },
+        {
+            "text": "IPHONE",
+            "id": 4,
+            "bbox": [
+                200,
+                583,
+                235,
+                590
+            ]
+        },
+        {
+            "text": "1",
+            "id": 5,
+            "bbox": [
+                239,
+                583,
+                245,
+                590
+            ]
+        },
+        {
+            "text": "BLACK",
+            "id": 6,
+            "bbox": [
+                251,
+                583,
+                280,
+                590
+            ]
+        },
+        {
+            "text": "256GB",
+            "id": 7,
+            "bbox": [
+                284,
+                583,
+                313,
+                590
+            ]
+        },
+        {
+            "text": "MWM72AE/A",
+            "id": 8,
+            "bbox": [
+                261,
+                599,
+                317,
+                608
+            ]
+        },
+        {
+            "text": "3,579.00",
+            "id": 9,
+            "bbox": [
+                602,
+                751,
+                635,
+                759
+            ]
+        },
+        {
+            "text": "3,579.00",
+            "id": 10,
+            "bbox": [
+                598,
+                835,
+                635,
+                845
+            ]
+        },
+        {
+            "text": "27/07/20",
+            "id": 11,
+            "bbox": [
+                200,
+                1248,
+                240,
+                1255
+            ]
+        },
+        {
+            "text": "13:30",
+            "id": 12,
+            "bbox": [
+                251,
+                1248,
+                272,
+                1255
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MWM72AE/A"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,579.00"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Apple",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "IPHONE",
+                "1",
+                "BLACK",
+                "256GB"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:30"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "27/07/20"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,579.00"
+            ],
+            "value_id": [
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/217.jpg"
+    }
+}

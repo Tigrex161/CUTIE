@@ -1,200 +1,170 @@
 {
     "text_boxes": [
         {
-            "text": "SEPHORA",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                324,
-                360,
-                365,
-                369
+                309,
+                222,
+                427,
+                256
             ]
         },
         {
-            "text": "DUBAI",
+            "text": "15/07/2020",
             "id": 2,
             "bbox": [
-                373,
-                359,
-                401,
-                369
+                94,
+                683,
+                139,
+                693
             ]
         },
         {
-            "text": "MALL",
+            "text": "11:06:17",
             "id": 3,
             "bbox": [
-                409,
-                359,
-                431,
-                369
+                143,
+                685,
+                176,
+                693
             ]
         },
         {
-            "text": "085713997445",
+            "text": "340.00",
             "id": 4,
             "bbox": [
-                247,
-                627,
-                324,
-                638
+                634,
+                550,
+                661,
+                557
             ]
         },
         {
-            "text": "(6)",
+            "text": "s40.00",
             "id": 5,
             "bbox": [
-                333,
-                626,
-                349,
-                638
+                638,
+                516,
+                659,
+                521
             ]
         },
         {
-            "text": "VEL",
+            "text": "MUST",
             "id": 6,
             "bbox": [
-                358,
-                624,
-                375,
-                637
+                131,
+                507,
+                148,
+                511
             ]
         },
         {
-            "text": "EXTRM",
+            "text": "CARD",
             "id": 7,
             "bbox": [
-                384,
-                625,
-                415,
-                639
+                150,
+                507,
+                166,
+                512
             ]
         },
         {
-            "text": "MATTE",
+            "text": "HOLDER",
             "id": 8,
             "bbox": [
-                422,
-                626,
-                453,
-                637
+                168,
+                507,
+                192,
+                512
             ]
         },
         {
-            "text": "L/S",
+            "text": "CC",
             "id": 9,
             "bbox": [
-                461,
-                626,
-                479,
-                638
+                194,
+                507,
+                205,
+                512
             ]
         },
         {
-            "text": "FIRE",
+            "text": "ME",
             "id": 10,
             "bbox": [
-                487,
-                625,
-                511,
-                636
+                208,
+                508,
+                216,
+                512
             ]
         },
         {
-            "text": "137.00",
+            "text": "ECLU",
             "id": 11,
             "bbox": [
-                482,
-                672,
-                518,
-                683
+                218,
+                507,
+                237,
+                514
             ]
         },
         {
-            "text": "1",
+            "text": "PEACOCK",
             "id": 12,
             "bbox": [
-                334,
-                675,
-                336,
-                684
+                131,
+                515,
+                158,
+                520
             ]
         },
         {
-            "text": "July",
+            "text": "O",
             "id": 13,
             "bbox": [
-                376,
-                1068,
-                404,
-                1083
+                161,
+                516,
+                167,
+                520
             ]
         },
         {
-            "text": "05,2020",
+            "text": "UOJ1547",
             "id": 14,
             "bbox": [
-                413,
-                1068,
-                463,
-                1082
-            ]
-        },
-        {
-            "text": "12:52:47",
-            "id": 15,
-            "bbox": [
-                473,
-                1068,
-                528,
-                1083
+                170,
+                524,
+                205,
+                532
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "085713997445",
-                "(6)",
-                "VEL",
-                "EXTRM",
-                "MATTE",
-                "L/S",
-                "FIRE"
+                "MUST",
+                "CARD",
+                "HOLDER",
+                "CC",
+                "ME",
+                "ECLU",
+                "PEACOCK",
+                "O"
             ],
             "value_id": [
-                4,
-                5,
                 6,
                 7,
                 8,
                 9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:52:47"
-            ],
-            "value_id": [
-                15
+                10,
+                11,
+                12,
+                13
             ]
         },
         {
@@ -202,12 +172,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "05,2020"
+                "15/07/2020"
             ],
             "value_id": [
-                13,
-                14
+                2
             ]
         },
         {
@@ -215,13 +183,42 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SEPHORA",
-                "DUBAI",
-                "MALL"
+                "Cartier"
             ],
             "value_id": [
-                1,
-                2,
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "340.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "UOJ1547"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:06:17"
+            ],
+            "value_id": [
                 3
             ]
         },
@@ -230,10 +227,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "137.00"
+                "s40.00"
             ],
             "value_id": [
-                11
+                5
             ]
         }
     ],

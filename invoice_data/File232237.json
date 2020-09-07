@@ -1,0 +1,192 @@
+{
+    "text_boxes": [
+        {
+            "text": "Cartier",
+            "id": 1,
+            "bbox": [
+                320,
+                161,
+                442,
+                202
+            ]
+        },
+        {
+            "text": "25/07/2020",
+            "id": 2,
+            "bbox": [
+                111,
+                626,
+                155,
+                639
+            ]
+        },
+        {
+            "text": "11:04:35",
+            "id": 3,
+            "bbox": [
+                159,
+                630,
+                191,
+                638
+            ]
+        },
+        {
+            "text": "1,790.00",
+            "id": 4,
+            "bbox": [
+                635,
+                508,
+                662,
+                515
+            ]
+        },
+        {
+            "text": "1.790.00",
+            "id": 5,
+            "bbox": [
+                637,
+                477,
+                663,
+                482
+            ]
+        },
+        {
+            "text": "WAL",
+            "id": 6,
+            "bbox": [
+                143,
+                458,
+                157,
+                465
+            ]
+        },
+        {
+            "text": "MUST",
+            "id": 7,
+            "bbox": [
+                159,
+                459,
+                175,
+                466
+            ]
+        },
+        {
+            "text": "MULTIPLREAAOK",
+            "id": 8,
+            "bbox": [
+                177,
+                459,
+                237,
+                467
+            ]
+        },
+        {
+            "text": "CALF",
+            "id": 9,
+            "bbox": [
+                240,
+                462,
+                253,
+                469
+            ]
+        },
+        {
+            "text": "LI001365",
+            "id": 10,
+            "bbox": [
+                183,
+                469,
+                217,
+                477
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LI001365"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,790.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Cartier"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WAL",
+                "MUST",
+                "MULTIPLREAAOK",
+                "CALF"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:04:35"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25/07/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.790.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/236.jpg"
+    }
+}

@@ -1,150 +1,203 @@
 {
     "text_boxes": [
         {
-            "text": "KINOKUNIYA",
+            "text": "JUMBO",
             "id": 1,
             "bbox": [
-                221,
-                406,
-                314,
-                425
+                308,
+                118,
+                414,
+                148
             ]
         },
         {
-            "text": "B0OKSTORES",
+            "text": "360.05",
             "id": 2,
             "bbox": [
-                326,
-                409,
-                420,
-                426
+                651,
+                712,
+                685,
+                722
             ]
         },
         {
-            "text": "PTE",
+            "text": "Y6",
             "id": 3,
             "bbox": [
-                431,
-                411,
-                459,
-                429
+                185,
+                579,
+                197,
+                590
             ]
         },
         {
-            "text": "LTD",
+            "text": "Prime",
             "id": 4,
             "bbox": [
-                465,
-                413,
-                497,
-                432
+                201,
+                580,
+                228,
+                589
             ]
         },
         {
-            "text": "18/07/2020",
+            "text": "2019",
             "id": 5,
             "bbox": [
-                460,
-                626,
-                553,
-                644
+                145,
+                592,
+                169,
+                601
             ]
         },
         {
-            "text": "12:53",
+            "text": "Smartphone",
             "id": 6,
             "bbox": [
-                517,
-                915,
-                563,
-                934
+                173,
+                591,
+                232,
+                603
             ]
         },
         {
-            "text": "180.00",
+            "text": "LTE",
             "id": 7,
             "bbox": [
-                458,
-                787,
-                566,
-                805
+                146,
+                605,
+                163,
+                613
             ]
         },
         {
-            "text": "180.00",
+            "text": "Amber",
             "id": 8,
             "bbox": [
-                513,
-                746,
-                568,
-                763
+                167,
+                604,
+                198,
+                612
             ]
         },
         {
-            "text": "(9780789213525)",
+            "text": "Brown",
             "id": 9,
             "bbox": [
-                223,
-                677,
-                357,
-                702
+                202,
+                604,
+                232,
+                612
             ]
         },
         {
-            "text": "ANNUAL",
+            "text": "Serial",
             "id": 10,
             "bbox": [
-                323,
-                739,
-                376,
-                757
+                146,
+                617,
+                170,
+                625
             ]
         },
         {
-            "text": "20",
+            "text": "Number.",
             "id": 11,
             "bbox": [
-                388,
-                742,
-                405,
-                757
+                175,
+                616,
+                214,
+                625
+            ]
+        },
+        {
+            "text": "PRIME-",
+            "id": 12,
+            "bbox": [
+                103,
+                605,
+                135,
+                613
+            ]
+        },
+        {
+            "text": "HUA-",
+            "id": 13,
+            "bbox": [
+                102,
+                581,
+                125,
+                590
+            ]
+        },
+        {
+            "text": "Y6-",
+            "id": 14,
+            "bbox": [
+                98,
+                593,
+                116,
+                603
+            ]
+        },
+        {
+            "text": "2019-",
+            "id": 15,
+            "bbox": [
+                99,
+                615,
+                127,
+                627
+            ]
+        },
+        {
+            "text": "BRN",
+            "id": 16,
+            "bbox": [
+                104,
+                628,
+                122,
+                637
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JUMBO"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ANNUAL",
-                "20"
+                "Y6",
+                "Prime",
+                "2019",
+                "Smartphone",
+                "LTE",
+                "Amber",
+                "Brown",
+                "Serial",
+                "Number."
             ],
             "value_id": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
                 10,
                 11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:53"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18/07/2020"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -152,27 +205,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "180.00"
+                "360.05"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "KINOKUNIYA",
-                "B0OKSTORES",
-                "PTE",
-                "LTD"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4
+                2
             ]
         },
         {
@@ -180,21 +216,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "(9780789213525)"
+                "PRIME-",
+                "HUA-",
+                "Y6-",
+                "2019-",
+                "BRN"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "180.00"
-            ],
-            "value_id": [
-                8
+                12,
+                13,
+                14,
+                15,
+                16
             ]
         }
     ],

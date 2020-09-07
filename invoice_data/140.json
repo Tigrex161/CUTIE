@@ -1,207 +1,186 @@
 {
     "text_boxes": [
         {
-            "text": "LONGCHAMP",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                288,
-                225,
-                508,
-                249
+                311,
+                262,
+                362,
+                275
             ]
         },
         {
-            "text": "PARIS",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                362,
-                254,
-                436,
-                266
+                370,
+                260,
+                427,
+                273
             ]
         },
         {
-            "text": "July,",
+            "text": "11/07/20",
             "id": 3,
             "bbox": [
-                576,
-                333,
-                610,
-                345
+                281,
+                433,
+                331,
+                444
             ]
         },
         {
-            "text": "04",
+            "text": "15:48",
             "id": 4,
             "bbox": [
-                622,
-                335,
-                635,
-                344
+                341,
+                433,
+                371,
+                443
             ]
         },
         {
-            "text": "2020",
+            "text": "Women's",
             "id": 5,
             "bbox": [
-                645,
-                336,
-                673,
-                347
+                231,
+                526,
+                276,
+                535
             ]
         },
         {
-            "text": "10:34",
+            "text": "Wear",
             "id": 6,
             "bbox": [
-                683,
-                338,
-                715,
-                348
+                285,
+                527,
+                310,
+                535
             ]
         },
         {
-            "text": "210.00",
+            "text": "WOMEN",
             "id": 7,
             "bbox": [
-                668,
-                681,
-                714,
-                693
+                230,
+                541,
+                262,
+                549
             ]
         },
         {
-            "text": "210.00",
+            "text": "POCA",
             "id": 8,
             "bbox": [
-                667,
-                581,
-                712,
-                590
+                271,
+                541,
+                296,
+                550
             ]
         },
         {
-            "text": "1",
+            "text": "AND",
             "id": 9,
             "bbox": [
-                464,
-                586,
-                468,
-                595
+                305,
+                542,
+                323,
+                550
             ]
         },
         {
-            "text": "50552SOIP35:",
+            "text": "POCA",
             "id": 10,
             "bbox": [
-                206,
-                561,
-                297,
-                571
+                332,
+                542,
+                357,
+                551
             ]
         },
         {
-            "text": "LON.",
+            "text": "1,",
             "id": 11,
             "bbox": [
-                301,
-                562,
-                328,
-                570
+                460,
+                538,
+                477,
+                550
             ]
         },
         {
-            "text": "P35:ALL:SILK",
+            "text": "056",
             "id": 12,
             "bbox": [
-                333,
-                562,
-                423,
-                571
+                479,
+                538,
+                495,
+                550
             ]
         },
         {
-            "text": "SCARF",
+            "text": "00",
             "id": 13,
             "bbox": [
-                432,
-                562,
-                469,
-                571
+                501,
+                542,
+                513,
+                550
             ]
         },
         {
-            "text": "50X50",
+            "text": "1.",
             "id": 14,
             "bbox": [
-                479,
-                559,
-                515,
-                569
+                507,
+                571,
+                516,
+                582
             ]
         },
         {
-            "text": "POMEGRANA",
+            "text": "1,056.00",
             "id": 15,
             "bbox": [
-                525,
-                557,
-                594,
-                570
+                464,
+                602,
+                517,
+                613
             ]
         },
         {
-            "text": "1",
+            "text": "900269401",
             "id": 16,
             "bbox": [
-                466,
-                686,
-                470,
-                694
-            ]
-        },
-        {
-            "text": "020724953495",
-            "id": 17,
-            "bbox": [
-                101,
-                561,
-                195,
-                571
+                263,
+                555,
+                321,
+                566
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "50552SOIP35:",
-                "LON.",
-                "P35:ALL:SILK",
-                "SCARF",
-                "50X50",
-                "POMEGRANA"
+                "Women's",
+                "Wear",
+                "WOMEN",
+                "POCA",
+                "AND",
+                "POCA"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
             ]
         },
         {
@@ -209,7 +188,53 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "1."
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,056.00"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900269401"
             ],
             "value_id": [
                 16
@@ -220,60 +245,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10:34"
+                "15:48"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "04",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "210.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LONGCHAMP",
-                "PARIS"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "020724953495"
-            ],
-            "value_id": [
-                17
+                4
             ]
         },
         {
@@ -281,10 +256,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "210.00"
+                "1,",
+                "056",
+                "00"
             ],
             "value_id": [
-                8
+                11,
+                12,
+                13
             ]
         }
     ],

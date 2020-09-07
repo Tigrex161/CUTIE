@@ -1,123 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                332,
-                183,
-                410,
-                243
+                281,
+                257,
+                495,
+                290
             ]
         },
         {
-            "text": "SHOES",
+            "text": "July",
             "id": 2,
             "bbox": [
-                353,
-                236,
-                391,
-                246
+                413,
+                356,
+                432,
+                365
             ]
         },
         {
-            "text": "Jul.",
+            "text": "03,",
             "id": 3,
             "bbox": [
-                464,
-                353,
-                485,
-                365
+                438,
+                355,
+                452,
+                364
             ]
         },
         {
             "text": "2020",
             "id": 4,
             "bbox": [
-                494,
-                351,
-                517,
+                459,
+                353,
+                483,
                 363
             ]
         },
         {
-            "text": "11:28",
+            "text": "22:13",
             "id": 5,
             "bbox": [
-                526,
-                351,
-                555,
-                362
+                492,
+                354,
+                522,
+                363
             ]
         },
         {
-            "text": "250.00",
+            "text": "470.00",
             "id": 6,
             "bbox": [
-                579,
-                557,
-                616,
-                567
+                547,
+                677,
+                585,
+                685
             ]
         },
         {
-            "text": "250.00",
+            "text": "470.00",
             "id": 7,
             "bbox": [
-                581,
-                479,
-                621,
-                490
+                617,
+                528,
+                652,
+                537
             ]
         },
         {
-            "text": "a",
+            "text": "1",
             "id": 8,
             "bbox": [
-                155,
-                471,
-                163,
-                482
+                385,
+                532,
+                388,
+                540
             ]
         },
         {
-            "text": "-COCOTIADS",
+            "text": "ALLURE",
             "id": 9,
             "bbox": [
-                187,
-                469,
-                251,
-                482
+                122,
+                533,
+                165,
+                541
             ]
         },
         {
-            "text": "COCOPT",
+            "text": "HOMME",
             "id": 10,
             "bbox": [
-                255,
-                468,
-                289,
-                481
+                171,
+                533,
+                214,
+                540
             ]
         },
         {
-            "text": "10,",
+            "text": "SPORT",
             "id": 11,
             "bbox": [
-                335,
-                467,
-                351,
-                479
+                219,
+                533,
+                256,
+                540
             ]
         },
         {
-            "text": "000",
+            "text": "123630",
             "id": 12,
             "bbox": [
-                353,
-                467,
-                375,
-                478
+                123,
+                547,
+                160,
+                558
             ]
         }
     ],
@@ -127,17 +127,72 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "a",
-                "-COCOTIADS",
-                "COCOPT",
-                "10,",
-                "000"
+                "ALLURE",
+                "HOMME",
+                "SPORT"
             ],
             "value_id": [
-                8,
                 9,
                 10,
-                11,
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "03,",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "470.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "123630"
+            ],
+            "value_id": [
                 12
             ]
         },
@@ -146,47 +201,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:28"
+                "22:13"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul.",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "250.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "level",
-                "SHOES"
-            ],
-            "value_id": [
-                1,
-                2
             ]
         },
         {
@@ -194,7 +212,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "250.00"
+                "470.00"
             ],
             "value_id": [
                 7

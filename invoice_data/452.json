@@ -1,113 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                327,
-                268,
-                375,
-                275
+                464,
+                263,
+                487,
+                273
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                383,
-                268,
-                437,
-                276
+                498,
+                260,
+                524,
+                270
             ]
         },
         {
-            "text": "16/07/20",
+            "text": "23:07",
             "id": 3,
             "bbox": [
-                299,
-                418,
-                346,
-                426
+                532,
+                260,
+                565,
+                269
             ]
         },
         {
-            "text": "23134",
+            "text": "2,",
             "id": 4,
             "bbox": [
-                354,
-                419,
-                383,
-                427
+                586,
+                496,
+                596,
+                506
             ]
         },
         {
-            "text": "143.50",
+            "text": "500.",
             "id": 5,
             "bbox": [
-                482,
-                621,
-                516,
-                628
+                601,
+                494,
+                626,
+                505
             ]
         },
         {
-            "text": "205.00",
+            "text": "00",
             "id": 6,
             "bbox": [
-                480,
-                520,
-                515,
-                527
+                629,
+                496,
+                643,
+                504
             ]
         },
         {
-            "text": "Kid'",
+            "text": "2,500.00",
             "id": 7,
             "bbox": [
-                257,
-                507,
-                286,
-                514
+                593,
+                406,
+                649,
+                418
             ]
         },
         {
-            "text": "WeaE",
+            "text": "BALENCIAGNEN",
             "id": 8,
             "bbox": [
-                294,
-                508,
-                318,
-                514
+                111,
+                393,
+                199,
+                407
             ]
         },
         {
-            "text": "TS",
+            "text": "BAG:",
             "id": 9,
             "bbox": [
-                253,
-                520,
-                276,
-                529
+                205,
+                393,
+                235,
+                405
             ]
         },
         {
-            "text": "SKU",
+            "text": "BALENCIAGA",
             "id": 10,
             "bbox": [
-                276,
-                521,
-                293,
-                528
+                237,
+                392,
+                301,
+                405
             ]
         },
         {
-            "text": "900977950",
+            "text": "ME'S",
             "id": 11,
             "bbox": [
-                292,
-                533,
-                345,
-                545
+                308,
+                393,
+                342,
+                403
+            ]
+        },
+        {
+            "text": "yis",
+            "id": 12,
+            "bbox": [
+                468,
+                388,
+                500,
+                400
             ]
         }
     ],
@@ -117,27 +127,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Kid'",
-                "WeaE",
-                "TS",
-                "SKU"
+                "BALENCIAGNEN",
+                "BAG:",
+                "BALENCIAGA",
+                "ME'S"
             ],
             "value_id": [
-                7,
                 8,
                 9,
-                10
+                10,
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "23134"
+                "yis"
             ],
             "value_id": [
-                4
+                12
             ]
         },
         {
@@ -145,30 +155,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16/07/20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "143.50"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
                 1,
@@ -176,14 +164,29 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900977950"
+                "2,",
+                "500.",
+                "00"
             ],
             "value_id": [
-                11
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23:07"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -191,10 +194,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "205.00"
+                "2,500.00"
             ],
             "value_id": [
-                6
+                7
             ]
         }
     ],

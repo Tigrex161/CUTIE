@@ -1,179 +1,141 @@
 {
     "text_boxes": [
         {
-            "text": "MARINA",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                571,
-                227,
-                663,
-                247
+                310,
+                120,
+                391,
+                151
             ]
         },
         {
-            "text": "URBAN",
+            "text": "12",
             "id": 2,
             "bbox": [
-                565,
-                273,
-                606,
-                281
+                254,
+                291,
+                265,
+                297
             ]
         },
         {
-            "text": "-EXOTIC",
+            "text": "07-2020",
             "id": 3,
             "bbox": [
-                625,
-                271,
-                671,
-                280
+                269,
+                289,
+                301,
+                297
             ]
         },
         {
-            "text": "18/072020",
+            "text": "2001",
             "id": 4,
             "bbox": [
-                516,
-                362,
-                558,
-                373
+                308,
+                289,
+                330,
+                296
             ]
         },
         {
-            "text": "07",
+            "text": "200",
             "id": 5,
             "bbox": [
-                565,
-                362,
-                580,
-                370
+                419,
+                422,
+                432,
+                430
             ]
         },
         {
-            "text": "pm",
+            "text": "0038715a5010",
             "id": 6,
             "bbox": [
-                584,
-                364,
-                596,
-                371
+                304,
+                350,
+                366,
+                358
             ]
         },
         {
-            "text": "245.00",
+            "text": "ORESS",
             "id": 7,
             "bbox": [
-                633,
-                774,
-                665,
-                783
+                378,
+                349,
+                401,
+                356
             ]
         },
         {
-            "text": "1.00",
+            "text": "10001003",
             "id": 8,
             "bbox": [
-                353,
-                775,
-                370,
-                783
-            ]
-        },
-        {
-            "text": "245",
-            "id": 9,
-            "bbox": [
-                633,
-                588,
-                648,
-                595
-            ]
-        },
-        {
-            "text": "00",
-            "id": 10,
-            "bbox": [
-                650,
-                587,
-                660,
-                594
-            ]
-        },
-        {
-            "text": "1.00",
-            "id": 11,
-            "bbox": [
-                352,
-                593,
-                367,
-                601
-            ]
-        },
-        {
-            "text": "Ava",
-            "id": 12,
-            "bbox": [
-                171,
-                594,
-                190,
-                601
-            ]
-        },
-        {
-            "text": "Vae",
-            "id": 13,
-            "bbox": [
-                193,
-                594,
-                210,
-                601
-            ]
-        },
-        {
-            "text": "20242cma",
-            "id": 14,
-            "bbox": [
-                213,
-                594,
-                266,
-                600
+                255,
+                350,
+                292,
+                359
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Ava",
-                "Vae",
-                "20242cma"
+                "0038715a5010",
+                "ORESS"
             ],
             "value_id": [
-                12,
-                13,
-                14
+                6,
+                7
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.00"
+                "12",
+                "07-2020"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "200"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001003"
             ],
             "value_id": [
                 8
@@ -184,62 +146,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07",
-                "pm"
-            ],
-            "value_id": [
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18/072020"
+                "2001"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "245.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MARINA",
-                "URBAN",
-                "-EXOTIC"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "245",
-                "00"
-            ],
-            "value_id": [
-                9,
-                10
             ]
         }
     ],

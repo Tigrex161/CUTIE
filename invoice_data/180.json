@@ -1,220 +1,174 @@
 {
     "text_boxes": [
         {
-            "text": "PIERRE",
+            "text": "SUPER",
             "id": 1,
             "bbox": [
-                238,
-                280,
-                327,
-                294
+                368,
+                339,
+                417,
+                350
             ]
         },
         {
-            "text": "MARCOLINI",
+            "text": "CARE",
             "id": 2,
             "bbox": [
-                343,
-                280,
-                481,
-                293
+                423,
+                340,
+                462,
+                351
             ]
         },
         {
-            "text": "ERUSSELS",
+            "text": "PHARMACY",
             "id": 3,
             "bbox": [
-                315,
-                307,
-                405,
-                316
+                469,
+                340,
+                552,
+                352
             ]
         },
         {
-            "text": "09/07",
+            "text": "13/07/2020",
             "id": 4,
             "bbox": [
-                197,
-                558,
-                234,
-                568
+                382,
+                459,
+                425,
+                468
             ]
         },
         {
-            "text": "2020",
+            "text": "14:54",
             "id": 5,
             "bbox": [
-                240,
-                558,
-                273,
-                569
+                433,
+                460,
+                453,
+                469
             ]
         },
         {
-            "text": "15:49:19",
+            "text": "219.00",
             "id": 6,
             "bbox": [
-                350,
-                560,
-                409,
-                571
+                561,
+                762,
+                600,
+                770
             ]
         },
         {
-            "text": "450.00",
+            "text": "219.00",
             "id": 7,
             "bbox": [
-                472,
-                849,
-                522,
-                863
+                578,
+                688,
+                606,
+                696
             ]
         },
         {
-            "text": "370.00",
+            "text": "2.00",
             "id": 8,
             "bbox": [
-                478,
-                619,
-                515,
-                628
-            ]
-        },
-        {
-            "text": "80.00",
-            "id": 9,
-            "bbox": [
-                481,
-                688,
-                511,
+                313,
+                689,
+                330,
                 697
             ]
         },
         {
-            "text": "2",
+            "text": "CENTRUM",
+            "id": 9,
+            "bbox": [
+                318,
+                666,
+                372,
+                676
+            ]
+        },
+        {
+            "text": "WOMEN",
             "id": 10,
             "bbox": [
-                369,
-                616,
-                378,
-                629
+                377,
+                666,
+                419,
+                676
             ]
         },
         {
-            "text": "ALARRON",
+            "text": "TAB",
             "id": 11,
             "bbox": [
-                196,
-                618,
-                253,
-                627
+                424,
+                666,
+                445,
+                676
             ]
         },
         {
-            "text": "GLACE",
+            "text": "60S",
             "id": 12,
             "bbox": [
-                259,
-                618,
-                302,
-                628
+                451,
+                666,
+                467,
+                675
             ]
         },
         {
-            "text": "10PC",
+            "text": "200",
             "id": 13,
             "bbox": [
-                196,
-                632,
-                223,
-                641
-            ]
-        },
-        {
-            "text": "ASSORTMENT",
-            "id": 14,
-            "bbox": [
-                196,
-                687,
-                282,
-                695
-            ]
-        },
-        {
-            "text": "OF",
-            "id": 15,
-            "bbox": [
-                287,
-                687,
-                303,
-                695
-            ]
-        },
-        {
-            "text": "4",
-            "id": 16,
-            "bbox": [
-                307,
-                688,
-                311,
-                695
-            ]
-        },
-        {
-            "text": "BARS",
-            "id": 17,
-            "bbox": [
-                195,
-                699,
-                227,
-                710
+                456,
+                783,
+                472,
+                790
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ALARRON",
-                "GLACE",
-                "10PC",
-                "ASSORTMENT",
-                "OF",
-                "4",
-                "BARS"
+                "CENTRUM",
+                "WOMEN",
+                "TAB",
+                "60S"
             ],
             "value_id": [
+                9,
+                10,
                 11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
+                12
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15:49:19"
+                "200"
             ],
             "value_id": [
-                6
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.00"
+            ],
+            "value_id": [
+                8
             ]
         },
         {
@@ -222,23 +176,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "09/07",
-                "2020"
+                "13/07/2020"
             ],
             "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "450.00"
-            ],
-            "value_id": [
-                7
+                4
             ]
         },
         {
@@ -246,9 +187,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PIERRE",
-                "MARCOLINI",
-                "ERUSSELS"
+                "SUPER",
+                "CARE",
+                "PHARMACY"
             ],
             "value_id": [
                 1,
@@ -257,16 +198,36 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "219.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:54"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "370.00",
-                "80.00"
+                "219.00"
             ],
             "value_id": [
-                8,
-                9
+                7
             ]
         }
     ],

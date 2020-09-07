@@ -1,156 +1,176 @@
 {
     "text_boxes": [
         {
-            "text": "PARFUMS",
+            "text": "CONDOTTI",
             "id": 1,
             "bbox": [
-                269,
-                312,
-                397,
-                329
+                437,
+                256,
+                585,
+                288
             ]
         },
         {
-            "text": "de",
+            "text": "10/Jul/2020",
             "id": 2,
             "bbox": [
-                402,
-                312,
-                420,
-                328
+                367,
+                535,
+                484,
+                557
             ]
         },
         {
-            "text": "MARIY",
+            "text": "10:17",
             "id": 3,
             "bbox": [
-                426,
-                314,
-                502,
-                327
+                687,
+                519,
+                746,
+                541
             ]
         },
         {
-            "text": "l'ARIS",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                364,
-                332,
-                411,
-                345
+                754,
+                518,
+                784,
+                537
             ]
         },
         {
-            "text": "02/07/2020",
+            "text": "\u062d\u0632\u0627\u0645",
             "id": 5,
             "bbox": [
-                304,
-                750,
-                391,
-                768
+                421,
+                972,
+                472,
+                996
             ]
         },
         {
-            "text": "12:49",
+            "text": "\u0645\u0646",
             "id": 6,
             "bbox": [
-                398,
-                750,
-                439,
-                765
+                381,
+                980,
+                412,
+                996
             ]
         },
         {
-            "text": "pm",
+            "text": "\u0627\u0644\u062c\u0644\u062f",
             "id": 7,
             "bbox": [
-                446,
-                754,
-                468,
-                766
-            ]
-        },
-        {
-            "text": "AED791.00",
-            "id": 8,
-            "bbox": [
-                488,
-                1031,
-                583,
-                1046
-            ]
-        },
-        {
-            "text": "AED791.00",
-            "id": 9,
-            "bbox": [
-                489,
-                918,
-                582,
-                934
+                318,
+                973,
+                370,
+                995
             ]
         },
         {
             "text": "1",
-            "id": 10,
+            "id": 8,
             "bbox": [
-                464,
-                915,
-                472,
-                934
+                261,
+                1014,
+                268,
+                1030
             ]
         },
         {
-            "text": "PEGASUS",
+            "text": "200011007",
+            "id": 9,
+            "bbox": [
+                356,
+                595,
+                469,
+                616
+            ]
+        },
+        {
+            "text": "125.00",
+            "id": 10,
+            "bbox": [
+                739,
+                905,
+                811,
+                923
+            ]
+        },
+        {
+            "text": "35310-Black",
             "id": 11,
             "bbox": [
-                190,
-                918,
-                280,
+                317,
+                912,
+                442,
                 932
             ]
         },
         {
-            "text": "75ml",
+            "text": "-",
             "id": 12,
             "bbox": [
-                287,
-                918,
-                327,
-                931
+                452,
+                921,
+                456,
+                923
             ]
         },
         {
-            "text": "EDP",
+            "text": "Leather",
             "id": 13,
             "bbox": [
-                336,
-                918,
-                372,
-                931
+                468,
+                910,
+                542,
+                928
             ]
         },
         {
-            "text": "SPRAY",
+            "text": "Belt",
             "id": 14,
             "bbox": [
-                380,
-                918,
-                441,
-                931
+                316,
+                941,
+                354,
+                959
+            ]
+        },
+        {
+            "text": "1",
+            "id": 15,
+            "bbox": [
+                260,
+                916,
+                267,
+                932
+            ]
+        },
+        {
+            "text": "125.00",
+            "id": 16,
+            "bbox": [
+                730,
+                1345,
+                816,
+                1365
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
                 "1"
             ],
             "value_id": [
-                10
+                8
             ]
         },
         {
@@ -158,10 +178,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PEGASUS",
-                "75ml",
-                "EDP",
-                "SPRAY"
+                "35310-Black",
+                "-",
+                "Leather",
+                "Belt"
             ],
             "value_id": [
                 11,
@@ -171,14 +191,27 @@
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:49",
-                "pm"
+                "1"
             ],
             "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062d\u0632\u0627\u0645",
+                "\u0645\u0646",
+                "\u0627\u0644\u062c\u0644\u062f"
+            ],
+            "value_id": [
+                5,
                 6,
                 7
             ]
@@ -188,21 +221,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02/07/2020"
+                "10/Jul/2020"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AED791.00"
-            ],
-            "value_id": [
-                8
+                2
             ]
         },
         {
@@ -210,14 +232,43 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PARFUMS",
-                "de",
-                "MARIY",
-                "l'ARIS"
+                "CONDOTTI"
             ],
             "value_id": [
-                1,
-                2,
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "125.00"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "200011007"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10:17",
+                "PM"
+            ],
+            "value_id": [
                 3,
                 4
             ]
@@ -227,10 +278,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AED791.00"
+                "125.00"
             ],
             "value_id": [
-                9
+                10
             ]
         }
     ],

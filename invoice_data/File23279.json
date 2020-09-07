@@ -1,0 +1,162 @@
+{
+    "text_boxes": [
+        {
+            "text": "25/07/2020",
+            "id": 1,
+            "bbox": [
+                296,
+                384,
+                359,
+                402
+            ]
+        },
+        {
+            "text": "7:00:48",
+            "id": 2,
+            "bbox": [
+                362,
+                388,
+                400,
+                402
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 3,
+            "bbox": [
+                404,
+                391,
+                421,
+                401
+            ]
+        },
+        {
+            "text": "245.00",
+            "id": 4,
+            "bbox": [
+                451,
+                792,
+                483,
+                804
+            ]
+        },
+        {
+            "text": "AAPTEM0072XXA",
+            "id": 5,
+            "bbox": [
+                326,
+                676,
+                414,
+                689
+            ]
+        },
+        {
+            "text": "GY2",
+            "id": 6,
+            "bbox": [
+                418,
+                680,
+                436,
+                690
+            ]
+        },
+        {
+            "text": "MEN",
+            "id": 7,
+            "bbox": [
+                441,
+                680,
+                464,
+                691
+            ]
+        },
+        {
+            "text": "SHC",
+            "id": 8,
+            "bbox": [
+                468,
+                681,
+                486,
+                692
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                346,
+                726,
+                349,
+                735
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "245.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AAPTEM0072XXA",
+                "GY2",
+                "MEN",
+                "SHC"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7:00:48",
+                "PM"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25/07/2020"
+            ],
+            "value_id": [
+                1
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/78.jpg"
+    }
+}

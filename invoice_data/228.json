@@ -1,223 +1,289 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                344,
-                258,
-                382,
-                271
+                364,
+                383,
+                439,
+                409
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "ROMA",
             "id": 2,
             "bbox": [
-                387,
-                255,
-                444,
-                269
+                390,
+                412,
+                408,
+                418
             ]
         },
         {
-            "text": "MAmAas",
+            "text": "21122020",
             "id": 3,
             "bbox": [
-                369,
-                268,
-                419,
-                276
+                200,
+                386,
+                233,
+                395
             ]
         },
         {
-            "text": "MASON",
+            "text": "1535PM",
             "id": 4,
             "bbox": [
-                358,
-                295,
-                380,
-                301
+                240,
+                388,
+                275,
+                397
             ]
         },
         {
-            "text": "FOD",
+            "text": "4,840",
             "id": 5,
             "bbox": [
-                383,
-                293,
-                404,
-                300
+                626,
+                721,
+                647,
+                728
             ]
         },
         {
-            "text": "IN",
+            "text": "00",
             "id": 6,
             "bbox": [
-                408,
-                293,
-                415,
-                298
+                651,
+                723,
+                659,
+                729
             ]
         },
         {
-            "text": "10:12",
+            "text": "1,419",
             "id": 7,
             "bbox": [
-                631,
-                441,
-                656,
-                453
+                636,
+                619,
+                661,
+                630
             ]
         },
         {
-            "text": "7,100.00",
+            "text": "05",
             "id": 8,
             "bbox": [
-                681,
-                501,
-                729,
-                513
+                662,
+                621,
+                669,
+                630
             ]
         },
         {
-            "text": "M44B13",
+            "text": "3.100",
             "id": 9,
             "bbox": [
-                61,
-                522,
-                94,
-                530
+                633,
+                662,
+                653,
+                669
             ]
         },
         {
-            "text": "MULTI",
+            "text": "48",
             "id": 10,
             "bbox": [
-                108,
-                521,
-                136,
-                529
+                655,
+                664,
+                664,
+                671
             ]
         },
         {
-            "text": "PO.",
+            "text": "1",
             "id": 11,
             "bbox": [
-                144,
-                521,
-                158,
-                527
+                495,
+                608,
+                497,
+                614
             ]
         },
         {
-            "text": "ACC.",
+            "text": "WSNEAKERUFABRO",
             "id": 12,
             "bbox": [
-                161,
-                519,
-                182,
-                527
+                231,
+                582,
+                309,
+                597
             ]
         },
         {
-            "text": "MNG",
+            "text": "RUBBER",
             "id": 13,
             "bbox": [
-                185,
-                518,
-                202,
-                526
+                310,
+                591,
+                343,
+                600
             ]
         },
         {
-            "text": "VVN",
+            "text": "SOLE",
             "id": 14,
             "bbox": [
-                209,
-                517,
-                226,
-                525
+                345,
+                593,
+                365,
+                603
             ]
         },
         {
-            "text": "KAKI",
+            "text": "BLACK-BLACK-VHn",
             "id": 15,
             "bbox": [
-                234,
-                517,
-                255,
-                525
+                372,
+                596,
+                449,
+                610
             ]
         },
         {
-            "text": "DAILY",
+            "text": "WSLNG",
             "id": 16,
             "bbox": [
-                60,
-                533,
-                90,
-                541
+                229,
+                620,
+                260,
+                630
             ]
         },
         {
-            "text": "BAGS",
+            "text": "BACFABRICLEATHER",
             "id": 17,
             "bbox": [
-                97,
-                533,
-                119,
-                540
+                261,
+                623,
+                350,
+                639
+            ]
+        },
+        {
+            "text": "SO",
+            "id": 18,
+            "bbox": [
+                352,
+                633,
+                363,
+                640
+            ]
+        },
+        {
+            "text": "BLACKBLACK-BLAC",
+            "id": 19,
+            "bbox": [
+                370,
+                635,
+                444,
+                649
+            ]
+        },
+        {
+            "text": "2",
+            "id": 20,
+            "bbox": [
+                483,
+                689,
+                488,
+                695
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MAmAas",
-                "MASON",
-                "FOD",
-                "IN"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "M44B13",
-                "MULTI",
-                "PO.",
-                "ACC.",
-                "MNG",
-                "VVN",
-                "KAKI",
-                "DAILY",
-                "BAGS"
+                "WSNEAKERUFABRO",
+                "RUBBER",
+                "SOLE",
+                "BLACK-BLACK-VHn",
+                "WSLNG",
+                "BACFABRICLEATHER",
+                "SO",
+                "BLACKBLACK-BLAC"
             ],
             "value_id": [
-                9,
-                10,
-                11,
                 12,
                 13,
                 14,
                 15,
                 16,
-                17
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                20
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21122020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "ROMA"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,840",
+                "00"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         },
         {
@@ -225,10 +291,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10:12"
+                "1535PM"
             ],
             "value_id": [
-                7
+                4
             ]
         },
         {
@@ -236,10 +302,16 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7,100.00"
+                "1,419",
+                "05",
+                "3.100",
+                "48"
             ],
             "value_id": [
-                8
+                7,
+                8,
+                9,
+                10
             ]
         }
     ],

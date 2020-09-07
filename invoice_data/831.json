@@ -1,133 +1,173 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "LUSH",
             "id": 1,
             "bbox": [
-                358,
-                368,
-                457,
-                441
+                233,
+                251,
+                450,
+                328
             ]
         },
         {
-            "text": "SHOES",
+            "text": "FRESH",
             "id": 2,
             "bbox": [
-                377,
-                450,
-                436,
-                460
+                458,
+                269,
+                550,
+                296
             ]
         },
         {
-            "text": "Jul,",
+            "text": "HANDMADE",
             "id": 3,
             "bbox": [
-                520,
-                574,
-                546,
-                583
+                460,
+                294,
+                551,
+                311
             ]
         },
         {
-            "text": "2020",
+            "text": "COSMETICS",
             "id": 4,
             "bbox": [
-                558,
-                573,
-                587,
-                581
+                462,
+                307,
+                553,
+                325
             ]
         },
         {
-            "text": "21:27",
+            "text": "25/07/2020",
             "id": 5,
             "bbox": [
-                596,
-                571,
-                632,
-                581
+                357,
+                563,
+                434,
+                577
             ]
         },
         {
-            "text": "3,",
+            "text": "2:59:32",
             "id": 6,
             "bbox": [
-                644,
-                838,
-                653,
-                847
+                361,
+                582,
+                412,
+                594
             ]
         },
         {
-            "text": "200.00",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                658,
-                836,
-                701,
-                846
+                420,
+                582,
+                440,
+                593
             ]
         },
         {
-            "text": "3,200.00",
+            "text": "230.00",
             "id": 8,
             "bbox": [
-                645,
-                740,
-                702,
-                751
+                583,
+                781,
+                622,
+                793
             ]
         },
         {
-            "text": "DIOR",
+            "text": "230.00",
             "id": 9,
             "bbox": [
-                114,
-                728,
-                145,
-                737
+                570,
+                678,
+                609,
+                692
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "RO'S",
             "id": 10,
             "bbox": [
-                153,
-                726,
-                200,
-                736
+                334,
+                697,
+                363,
+                708
             ]
         },
         {
-            "text": "SHOES",
+            "text": "ARGAN",
             "id": 11,
             "bbox": [
-                209,
-                726,
-                247,
-                735
+                369,
+                695,
+                411,
+                707
             ]
         },
         {
-            "text": "Lai",
+            "text": "BODY",
             "id": 12,
             "bbox": [
-                285,
-                724,
-                309,
-                736
+                417,
+                692,
+                451,
+                704
             ]
         },
         {
-            "text": "yisl",
+            "text": "CONDITIONER",
             "id": 13,
             "bbox": [
-                312,
-                723,
-                343,
-                735
+                335,
+                708,
+                421,
+                722
+            ]
+        },
+        {
+            "text": "22",
+            "id": 14,
+            "bbox": [
+                426,
+                707,
+                439,
+                718
+            ]
+        },
+        {
+            "text": "\u0630\u0627\u0646\u064a",
+            "id": 15,
+            "bbox": [
+                371,
+                740,
+                392,
+                752
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062d\u0641\u0638(",
+            "id": 16,
+            "bbox": [
+                337,
+                736,
+                367,
+                753
+            ]
+        },
+        {
+            "text": "7036",
+            "id": 17,
+            "bbox": [
+                250,
+                699,
+                277,
+                709
             ]
         }
     ],
@@ -137,25 +177,31 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR",
-                "WOMENS",
-                "SHOES"
+                "RO'S",
+                "ARGAN",
+                "BODY",
+                "CONDITIONER",
+                "22"
             ],
             "value_id": [
-                9,
                 10,
-                11
+                11,
+                12,
+                13,
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:27"
+                "\u0630\u0627\u0646\u064a",
+                "\u0627\u0644\u062d\u0641\u0638("
             ],
             "value_id": [
-                5
+                15,
+                16
             ]
         },
         {
@@ -163,10 +209,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "25/07/2020"
             ],
             "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LUSH",
+                "FRESH",
+                "HANDMADE",
+                "COSMETICS"
+            ],
+            "value_id": [
+                1,
+                2,
                 3,
                 4
             ]
@@ -176,8 +237,30 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,",
-                "200.00"
+                "230.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7036"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2:59:32",
+                "PM"
             ],
             "value_id": [
                 6,
@@ -185,40 +268,14 @@
             ]
         },
         {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Lai",
-                "yisl"
-            ],
-            "value_id": [
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "level",
-                "SHOES"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,200.00"
+                "230.00"
             ],
             "value_id": [
-                8
+                9
             ]
         }
     ],

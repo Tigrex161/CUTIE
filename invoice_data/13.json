@@ -1,232 +1,144 @@
 {
     "text_boxes": [
         {
-            "text": "Boots",
+            "text": "SMOKERS",
             "id": 1,
             "bbox": [
-                392,
-                139,
-                428,
-                155
+                243,
+                156,
+                387,
+                190
             ]
         },
         {
-            "text": "Dubai",
+            "text": "CENTRE",
             "id": 2,
             "bbox": [
-                432,
-                143,
-                468,
-                159
+                397,
+                152,
+                512,
+                185
             ]
         },
         {
-            "text": "Mall",
+            "text": "01/07/2020",
             "id": 3,
             "bbox": [
-                473,
-                149,
-                498,
-                161
+                227,
+                426,
+                342,
+                449
             ]
         },
         {
-            "text": "10/07/2020",
+            "text": "17:15:25",
             "id": 4,
             "bbox": [
-                488,
-                450,
-                545,
-                466
+                353,
+                426,
+                438,
+                447
             ]
         },
         {
-            "text": "119.00",
+            "text": "267.75",
             "id": 5,
             "bbox": [
-                540,
-                675,
-                570,
-                687
+                561,
+                816,
+                628,
+                833
             ]
         },
         {
-            "text": "119",
+            "text": "267,75",
             "id": 6,
             "bbox": [
-                540,
-                602,
-                555,
-                612
+                548,
+                658,
+                601,
+                675
             ]
         },
         {
-            "text": "00",
+            "text": "XIKAR",
             "id": 7,
             "bbox": [
-                560,
-                601,
-                572,
-                611
+                301,
+                609,
+                346,
+                624
             ]
         },
         {
-            "text": "10",
+            "text": "CUTTER",
             "id": 8,
             "bbox": [
-                475,
-                605,
-                488,
-                614
+                353,
+                609,
+                413,
+                624
             ]
         },
         {
-            "text": "1.0",
+            "text": "X12",
             "id": 9,
             "bbox": [
-                474,
-                678,
-                487,
-                687
+                422,
+                607,
+                444,
+                624
             ]
         },
         {
-            "text": "...",
+            "text": "CARBON",
             "id": 10,
             "bbox": [
-                341,
-                534,
-                366,
-                544
+                448,
+                607,
+                510,
+                624
             ]
         },
         {
-            "text": "R",
+            "text": "FIBER",
             "id": 11,
             "bbox": [
-                398,
-                539,
-                410,
-                547
+                518,
+                604,
+                563,
+                622
             ]
         },
         {
-            "text": "IFESCAN",
+            "text": "36271601011",
             "id": 12,
             "bbox": [
-                298,
-                539,
-                351,
-                556
-            ]
-        },
-        {
-            "text": "ONE",
-            "id": 13,
-            "bbox": [
-                349,
-                546,
-                374,
-                558
-            ]
-        },
-        {
-            "text": "TOUCH",
-            "id": 14,
-            "bbox": [
-                377,
-                548,
-                418,
-                561
-            ]
-        },
-        {
-            "text": "SELECT",
-            "id": 15,
-            "bbox": [
-                421,
-                550,
-                464,
-                564
-            ]
-        },
-        {
-            "text": "50",
-            "id": 16,
-            "bbox": [
-                468,
-                554,
-                480,
-                565
-            ]
-        },
-        {
-            "text": "STRIP",
-            "id": 17,
-            "bbox": [
-                484,
-                554,
-                512,
-                566
-            ]
-        },
-        {
-            "text": "NPBOWPSELECT498",
-            "id": 18,
-            "bbox": [
-                291,
-                589,
-                406,
-                613
+                173,
+                611,
+                275,
+                624
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "...",
-                "R",
-                "IFESCAN",
-                "ONE",
-                "TOUCH",
-                "SELECT",
-                "50",
-                "STRIP"
+                "XIKAR",
+                "CUTTER",
+                "X12",
+                "CARBON",
+                "FIBER"
             ],
             "value_id": [
+                7,
+                8,
+                9,
                 10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.0"
-            ],
-            "value_id": [
-                9
+                11
             ]
         },
         {
@@ -234,21 +146,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10/07/2020"
+                "01/07/2020"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "119.00"
-            ],
-            "value_id": [
-                5
+                3
             ]
         },
         {
@@ -256,14 +157,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Boots",
-                "Dubai",
-                "Mall"
+                "SMOKERS",
+                "CENTRE"
             ],
             "value_id": [
                 1,
-                2,
-                3
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "267.75"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -271,10 +181,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NPBOWPSELECT498"
+                "36271601011"
             ],
             "value_id": [
-                18
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:15:25"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -282,12 +203,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "119",
-                "00"
+                "267,75"
             ],
             "value_id": [
-                6,
-                7
+                6
             ]
         }
     ],

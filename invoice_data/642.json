@@ -1,93 +1,93 @@
 {
     "text_boxes": [
         {
-            "text": "Diamnd",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                248,
-                247,
-                386,
-                273
+                459,
+                329,
+                485,
+                339
             ]
         },
         {
-            "text": "World",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                401,
-                245,
-                492,
-                266
+                496,
+                329,
+                525,
+                339
             ]
         },
         {
-            "text": "24/07/2020",
+            "text": "20:22",
             "id": 3,
             "bbox": [
-                560,
-                410,
-                611,
-                421
+                534,
+                331,
+                569,
+                341
             ]
         },
         {
-            "text": "8:11:10PM",
+            "text": "565.0o",
             "id": 4,
             "bbox": [
-                563,
-                427,
-                611,
-                435
+                604,
+                595,
+                648,
+                606
             ]
         },
         {
-            "text": "1,000.00",
+            "text": "565.00",
             "id": 5,
             "bbox": [
-                592,
-                732,
-                637,
-                743
+                612,
+                497,
+                655,
+                508
             ]
         },
         {
-            "text": "1,000.00",
+            "text": "VLTU",
             "id": 6,
             "bbox": [
-                577,
-                482,
-                614,
-                491
+                93,
+                487,
+                117,
+                496
             ]
         },
         {
-            "text": "Diamond",
+            "text": "OTHS:VALENTINO",
             "id": 7,
             "bbox": [
-                237,
-                480,
-                273,
-                486
+                122,
+                478,
+                213,
+                494
             ]
         },
         {
-            "text": "Ring",
+            "text": "OTHERS",
             "id": 8,
             "bbox": [
-                277,
-                480,
-                293,
-                487
+                222,
+                476,
+                264,
+                490
             ]
         },
         {
-            "text": "RG9062",
+            "text": "stS,",
             "id": 9,
             "bbox": [
-                184,
-                480,
-                214,
-                488
+                288,
+                473,
+                375,
+                487
             ]
         }
     ],
@@ -97,23 +97,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Diamond",
-                "Ring"
+                "VLTU",
+                "OTHS:VALENTINO",
+                "OTHERS"
             ],
             "value_id": [
+                6,
                 7,
                 8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "8:11:10PM"
+                "stS,"
             ],
             "value_id": [
-                4
+                9
             ]
         },
         {
@@ -121,30 +123,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "24/07/2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,000.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Diamnd",
-                "World"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
                 1,
@@ -152,14 +132,25 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RG9062"
+                "565.0o"
             ],
             "value_id": [
-                9
+                4
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:22"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -167,10 +158,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,000.00"
+                "565.00"
             ],
             "value_id": [
-                6
+                5
             ]
         }
     ],

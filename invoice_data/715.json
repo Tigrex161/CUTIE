@@ -1,145 +1,131 @@
 {
     "text_boxes": [
         {
-            "text": "20/07/2020",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                114,
-                685,
-                163,
-                694
+                517,
+                548,
+                542,
+                559
             ]
         },
         {
-            "text": "4.150.00",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                717,
-                525,
-                749,
-                531
+                553,
+                550,
+                581,
+                560
             ]
         },
         {
-            "text": "4,150.00",
+            "text": "22:34",
             "id": 3,
             "bbox": [
-                718,
-                474,
-                751,
-                482
+                589,
+                549,
+                623,
+                560
             ]
         },
         {
-            "text": "1",
+            "text": "2,170.00",
             "id": 4,
             "bbox": [
-                362,
-                476,
-                374,
-                486
+                611,
+                780,
+                662,
+                790
             ]
         },
         {
-            "text": "RING",
+            "text": "2,170.00",
             "id": 5,
             "bbox": [
-                125,
-                459,
-                141,
-                464
+                608,
+                688,
+                671,
+                702
             ]
         },
         {
-            "text": "JUSTE",
+            "text": "LOUIS",
             "id": 6,
             "bbox": [
-                144,
-                459,
-                163,
-                465
+                132,
+                673,
+                167,
+                682
             ]
         },
         {
-            "text": "UN",
+            "text": "VUITTOH",
             "id": 7,
             "bbox": [
-                166,
-                459,
-                175,
-                464
+                176,
+                672,
+                225,
+                682
             ]
         },
         {
-            "text": "CLOU",
+            "text": "WOMENS",
             "id": 8,
             "bbox": [
-                178,
-                457,
-                200,
-                467
+                235,
+                673,
+                281,
+                683
             ]
         },
         {
-            "text": "SM",
+            "text": "SL",
             "id": 9,
             "bbox": [
-                199,
-                459,
-                209,
-                465
+                451,
+                674,
+                464,
+                684
             ]
         },
         {
-            "text": "YG",
+            "text": "O",
             "id": 10,
             "bbox": [
-                212,
-                459,
-                220,
-                465
-            ]
-        },
-        {
-            "text": "B4225949",
-            "id": 11,
-            "bbox": [
-                171,
-                469,
-                213,
-                478
+                486,
+                675,
+                490,
+                685
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RING",
-                "JUSTE",
-                "UN",
-                "CLOU",
-                "SM",
-                "YG"
+                "LOUIS",
+                "VUITTOH",
+                "WOMENS"
             ],
             "value_id": [
-                5,
                 6,
                 7,
-                8,
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SL",
+                "O"
+            ],
+            "value_id": [
                 9,
                 10
             ]
@@ -149,10 +135,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20/07/2020"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
-                1
+                1,
+                2
             ]
         },
         {
@@ -160,21 +148,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4.150.00"
+                "2,170.00"
             ],
             "value_id": [
-                2
+                4
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "B4225949"
+                "22:34"
             ],
             "value_id": [
-                11
+                3
             ]
         },
         {
@@ -182,10 +170,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4,150.00"
+                "2,170.00"
             ],
             "value_id": [
-                3
+                5
             ]
         }
     ],

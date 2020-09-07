@@ -1,164 +1,122 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                251,
-                127,
-                324,
-                139
+                310,
+                271,
+                455,
+                297
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "T1/07/2020",
             "id": 2,
             "bbox": [
-                336,
-                128,
-                417,
-                140
+                88,
+                478,
+                132,
+                488
             ]
         },
         {
-            "text": "14/07/20",
+            "text": "19:32",
             "id": 3,
             "bbox": [
-                215,
-                363,
-                286,
-                379
+                142,
+                480,
+                162,
+                486
             ]
         },
         {
-            "text": "19:33",
+            "text": "1.540,00",
             "id": 4,
             "bbox": [
-                299,
-                364,
-                342,
-                377
+                590,
+                599,
+                621,
+                606
             ]
         },
         {
-            "text": "960.00",
+            "text": "LAT6.19",
             "id": 5,
             "bbox": [
-                489,
-                605,
-                543,
-                619
+                614,
+                546,
+                645,
+                554
             ]
         },
         {
-            "text": "960.00",
+            "text": "Cus",
             "id": 6,
             "bbox": [
-                482,
-                522,
-                533,
-                535
+                234,
+                559,
+                248,
+                565
             ]
         },
         {
-            "text": "2sku",
+            "text": "tom,",
             "id": 7,
             "bbox": [
-                168,
-                554,
-                203,
-                566
+                250,
+                561,
+                266,
+                565
             ]
         },
         {
-            "text": "Leather",
+            "text": "lewele",
             "id": 8,
             "bbox": [
-                159,
-                510,
-                220,
-                523
+                270,
+                556,
+                295,
+                564
             ]
         },
         {
-            "text": "Accessory",
+            "text": "o",
             "id": 9,
             "bbox": [
-                232,
-                507,
-                311,
-                522
+                297,
+                560,
+                303,
+                565
             ]
         },
         {
-            "text": "ACC",
+            "text": "B0961AIRCO",
             "id": 10,
             "bbox": [
-                158,
-                531,
-                183,
-                544
-            ]
-        },
-        {
-            "text": "KENZO",
-            "id": 11,
-            "bbox": [
-                195,
-                531,
-                239,
-                543
-            ]
-        },
-        {
-            "text": "900634020",
-            "id": 12,
-            "bbox": [
-                233,
-                549,
-                312,
-                565
+                92,
+                560,
+                150,
+                568
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2sku"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Leather",
-                "Accessory",
-                "ACC",
-                "KENZO"
+                "Cus",
+                "tom,",
+                "lewele",
+                "o"
             ],
             "value_id": [
+                6,
+                7,
                 8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:33"
-            ],
-            "value_id": [
-                4
+                9
             ]
         },
         {
@@ -166,21 +124,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14/07/20"
+                "T1/07/2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "960.00"
-            ],
-            "value_id": [
-                5
+                2
             ]
         },
         {
@@ -188,12 +135,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "DIOR"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.540,00"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -201,10 +157,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900634020"
+                "B0961AIRCO"
             ],
             "value_id": [
-                12
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:32"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -212,10 +179,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "960.00"
+                "LAT6.19"
             ],
             "value_id": [
-                6
+                5
             ]
         }
     ],

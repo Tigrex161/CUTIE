@@ -1,216 +1,76 @@
 {
     "text_boxes": [
         {
-            "text": "MAKE",
+            "text": "bloomingdoles",
             "id": 1,
             "bbox": [
-                333,
-                96,
-                403,
-                121
+                233,
+                178,
+                461,
+                223
             ]
         },
         {
-            "text": "UP",
+            "text": "15-Jul-2020",
             "id": 2,
             "bbox": [
-                412,
-                103,
-                440,
-                123
+                201,
+                312,
+                272,
+                327
             ]
         },
         {
-            "text": "FOR",
+            "text": "PM",
             "id": 3,
             "bbox": [
-                330,
-                120,
-                376,
-                144
+                372,
+                320,
+                385,
+                333
             ]
         },
         {
-            "text": "EVER",
+            "text": "1,042.00",
             "id": 4,
             "bbox": [
-                384,
-                125,
-                439,
-                149
-            ]
-        },
-        {
-            "text": "PROFESSIONAL",
-            "id": 5,
-            "bbox": [
-                331,
-                155,
-                440,
-                171
-            ]
-        },
-        {
-            "text": "28-Jul-2020",
-            "id": 6,
-            "bbox": [
-                336,
-                340,
-                401,
-                350
-            ]
-        },
-        {
-            "text": "19:43",
-            "id": 7,
-            "bbox": [
-                410,
-                340,
-                438,
-                350
-            ]
-        },
-        {
-            "text": "120.00",
-            "id": 8,
-            "bbox": [
-                498,
-                698,
-                533,
-                715
-            ]
-        },
-        {
-            "text": "120.00",
-            "id": 9,
-            "bbox": [
-                522,
-                579,
-                555,
-                590
-            ]
-        },
-        {
-            "text": "1",
-            "id": 10,
-            "bbox": [
-                340,
-                572,
-                342,
+                415,
+                569,
+                469,
                 583
             ]
         },
         {
-            "text": "1000071091:MIST",
-            "id": 11,
-            "bbox": [
-                214,
-                527,
-                306,
-                543
-            ]
-        },
-        {
-            "text": "&",
-            "id": 12,
-            "bbox": [
-                315,
-                530,
-                319,
-                541
-            ]
-        },
-        {
-            "text": "FIX",
-            "id": 13,
-            "bbox": [
-                327,
-                530,
-                345,
-                541
-            ]
-        },
-        {
-            "text": "HYDRATING",
-            "id": 14,
-            "bbox": [
-                353,
-                529,
-                407,
-                543
-            ]
-        },
-        {
-            "text": "100ML",
-            "id": 15,
+            "text": "1,042.00",
+            "id": 5,
             "bbox": [
                 415,
-                533,
-                443,
-                547
+                462,
+                469,
+                474
             ]
         },
         {
-            "text": "021714525958",
-            "id": 16,
+            "text": "MG",
+            "id": 6,
             "bbox": [
-                213,
-                508,
-                288,
-                521
-            ]
-        },
-        {
-            "text": "\u0645\u062b\u0628\u0629",
-            "id": 17,
-            "bbox": [
-                259,
-                551,
-                279,
-                561
+                238,
+                464,
+                251,
+                473
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1000071091:MIST",
-                "&",
-                "FIX",
-                "HYDRATING",
-                "100ML"
+                "MG"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:43"
-            ],
-            "value_id": [
-                7
+                6
             ]
         },
         {
@@ -218,32 +78,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "28-Jul-2020"
+                "15-Jul-2020"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "120.00"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0645\u062b\u0628\u0629"
-            ],
-            "value_id": [
-                17
+                2
             ]
         },
         {
@@ -251,29 +89,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MAKE",
-                "UP",
-                "FOR",
-                "EVER",
-                "PROFESSIONAL"
+                "bloomingdoles"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5
+                1
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "021714525958"
+                "1,042.00"
             ],
             "value_id": [
-                16
+                4
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PM"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -281,10 +122,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "120.00"
+                "1,042.00"
             ],
             "value_id": [
-                9
+                5
             ]
         }
     ],

@@ -1,138 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "PEPPERS",
+            "text": "LONGCHAMP",
             "id": 1,
             "bbox": [
-                119,
-                142,
-                601,
-                247
+                288,
+                225,
+                508,
+                249
             ]
         },
         {
-            "text": "nashville",
+            "text": "PARIS",
             "id": 2,
             "bbox": [
-                196,
-                238,
-                339,
-                268
+                362,
+                254,
+                436,
+                266
             ]
         },
         {
-            "text": "hot",
+            "text": "July,",
             "id": 3,
             "bbox": [
-                352,
-                238,
-                403,
-                267
+                576,
+                333,
+                610,
+                345
             ]
         },
         {
-            "text": "chicken",
+            "text": "04",
             "id": 4,
             "bbox": [
-                412,
-                239,
-                527,
-                267
+                622,
+                335,
+                635,
+                344
             ]
         },
         {
-            "text": "7:33",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                528,
-                420,
-                571,
-                438
+                645,
+                336,
+                673,
+                347
             ]
         },
         {
-            "text": "PM",
+            "text": "10:34",
             "id": 6,
             "bbox": [
-                580,
-                418,
-                611,
-                436
+                683,
+                338,
+                715,
+                348
             ]
         },
         {
-            "text": "4",
+            "text": "210.00",
             "id": 7,
             "bbox": [
-                591,
-                664,
-                601,
-                677
+                668,
+                681,
+                714,
+                693
             ]
         },
         {
-            "text": "The",
+            "text": "210.00",
             "id": 8,
             "bbox": [
-                158,
-                486,
-                197,
-                505
+                667,
+                581,
+                712,
+                590
             ]
         },
         {
-            "text": "Sando",
+            "text": "1",
             "id": 9,
             "bbox": [
-                207,
-                485,
-                273,
-                505
+                464,
+                586,
+                468,
+                595
+            ]
+        },
+        {
+            "text": "50552SOIP35:",
+            "id": 10,
+            "bbox": [
+                206,
+                561,
+                297,
+                571
+            ]
+        },
+        {
+            "text": "LON.",
+            "id": 11,
+            "bbox": [
+                301,
+                562,
+                328,
+                570
+            ]
+        },
+        {
+            "text": "P35:ALL:SILK",
+            "id": 12,
+            "bbox": [
+                333,
+                562,
+                423,
+                571
+            ]
+        },
+        {
+            "text": "SCARF",
+            "id": 13,
+            "bbox": [
+                432,
+                562,
+                469,
+                571
+            ]
+        },
+        {
+            "text": "50X50",
+            "id": 14,
+            "bbox": [
+                479,
+                559,
+                515,
+                569
+            ]
+        },
+        {
+            "text": "POMEGRANA",
+            "id": 15,
+            "bbox": [
+                525,
+                557,
+                594,
+                570
+            ]
+        },
+        {
+            "text": "1",
+            "id": 16,
+            "bbox": [
+                466,
+                686,
+                470,
+                694
+            ]
+        },
+        {
+            "text": "020724953495",
+            "id": 17,
+            "bbox": [
+                101,
+                561,
+                195,
+                571
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "PEPPERS",
-                "nashville",
-                "hot",
-                "chicken"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "The",
-                "Sando"
+                "50552SOIP35:",
+                "LON.",
+                "P35:ALL:SILK",
+                "SCARF",
+                "50X50",
+                "POMEGRANA"
             ],
             "value_id": [
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7:33",
-                "PM"
-            ],
-            "value_id": [
-                5,
-                6
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
             ]
         },
         {
@@ -140,10 +198,93 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4"
+                "1"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "04",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LONGCHAMP",
+                "PARIS"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "210.00"
             ],
             "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "020724953495"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10:34"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "210.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

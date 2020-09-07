@@ -1,123 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "Boggi",
+            "text": "DENASTER",
             "id": 1,
             "bbox": [
-                291,
-                297,
-                358,
-                322
+                265,
+                226,
+                483,
+                257
             ]
         },
         {
-            "text": "Dubai",
+            "text": "GENERAL",
             "id": 2,
             "bbox": [
-                373,
-                292,
-                444,
-                314
+                266,
+                256,
+                337,
+                268
             ]
         },
         {
-            "text": "Mall",
+            "text": "TRADINGLLO",
             "id": 3,
             "bbox": [
-                459,
-                289,
-                517,
-                308
+                354,
+                249,
+                477,
+                265
             ]
         },
         {
-            "text": "17/07/2020",
+            "text": "24/Jul/20",
             "id": 4,
             "bbox": [
-                360,
-                1182,
-                464,
-                1204
+                263,
+                470,
+                324,
+                487
             ]
         },
         {
-            "text": "5:31:36PM",
+            "text": "12:15",
             "id": 5,
             "bbox": [
-                539,
-                1174,
-                635,
-                1194
+                332,
+                472,
+                367,
+                484
             ]
         },
         {
-            "text": "3,",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                537,
-                858,
-                574,
-                874
+                374,
+                472,
+                390,
+                484
             ]
         },
         {
-            "text": "480.00",
+            "text": "549.00",
             "id": 7,
             "bbox": [
-                576,
-                856,
-                635,
-                873
+                496,
+                966,
+                549,
+                979
             ]
         },
         {
-            "text": "3,480.0",
+            "text": "549.00",
             "id": 8,
             "bbox": [
-                571,
-                672,
-                641,
-                685
+                489,
+                699,
+                534,
+                711
             ]
         },
         {
-            "text": "2",
+            "text": "RING",
             "id": 9,
             "bbox": [
-                357,
-                643,
-                370,
-                659
+                233,
+                701,
+                265,
+                712
             ]
         },
         {
-            "text": "Pcs",
+            "text": "DOOR",
             "id": 10,
             "bbox": [
-                373,
-                646,
-                402,
-                657
+                272,
+                700,
+                310,
+                712
             ]
         },
         {
-            "text": "500008538005",
+            "text": "VIEW",
             "id": 11,
             "bbox": [
-                168,
-                639,
-                295,
-                658
+                317,
+                700,
+                352,
+                712
             ]
         },
         {
-            "text": "s",
+            "text": "CAMERA",
             "id": 12,
             "bbox": [
-                519,
-                645,
-                554,
-                661
+                232,
+                719,
+                287,
+                731
             ]
         }
     ],
@@ -127,23 +127,16 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2",
-                "Pcs"
+                "RING",
+                "DOOR",
+                "VIEW",
+                "CAMERA"
             ],
             "value_id": [
                 9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "5:31:36PM"
-            ],
-            "value_id": [
-                5
+                10,
+                11,
+                12
             ]
         },
         {
@@ -151,34 +144,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17/07/2020"
+                "24/Jul/20"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,",
-                "480.00"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "s"
-            ],
-            "value_id": [
-                12
             ]
         },
         {
@@ -186,9 +155,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Boggi",
-                "Dubai",
-                "Mall"
+                "DENASTER",
+                "GENERAL",
+                "TRADINGLLO"
             ],
             "value_id": [
                 1,
@@ -197,14 +166,27 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "500008538005"
+                "549.00"
             ],
             "value_id": [
-                11
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:15",
+                "PM"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         },
         {
@@ -212,7 +194,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,480.0"
+                "549.00"
             ],
             "value_id": [
                 8

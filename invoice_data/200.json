@@ -1,186 +1,194 @@
 {
     "text_boxes": [
         {
-            "text": "7:59:40",
+            "text": "SUPER",
             "id": 1,
             "bbox": [
-                346,
-                354,
-                412,
-                368
+                251,
+                293,
+                301,
+                308
             ]
         },
         {
-            "text": "169.00",
+            "text": "CARE",
             "id": 2,
             "bbox": [
-                510,
-                549,
-                566,
-                567
+                307,
+                292,
+                346,
+                306
             ]
         },
         {
-            "text": "139.00",
+            "text": "PHARMACY",
             "id": 3,
             "bbox": [
-                511,
-                589,
-                568,
-                606
+                353,
+                289,
+                441,
+                304
             ]
         },
         {
-            "text": "SHIRT",
+            "text": "08.07/2020",
             "id": 4,
             "bbox": [
-                201,
-                559,
-                248,
-                575
+                272,
+                429,
+                315,
+                439
             ]
         },
         {
-            "text": "REGULAR",
+            "text": "10:43",
             "id": 5,
             "bbox": [
-                261,
-                557,
-                328,
-                574
+                322,
+                429,
+                342,
+                438
             ]
         },
         {
-            "text": "FI",
+            "text": "105.00",
             "id": 6,
             "bbox": [
-                340,
-                555,
-                358,
-                571
+                448,
+                738,
+                485,
+                747
             ]
         },
         {
-            "text": "2",
+            "text": "105",
             "id": 7,
             "bbox": [
-                561,
-                649,
-                570,
-                663
+                460,
+                664,
+                472,
+                673
             ]
         },
         {
-            "text": "SLIM",
+            "text": "00",
             "id": 8,
             "bbox": [
-                262,
-                597,
-                300,
-                613
+                476,
+                664,
+                485,
+                672
             ]
         },
         {
-            "text": "FIT",
+            "text": "3.00",
             "id": 9,
             "bbox": [
-                311,
-                595,
-                338,
-                612
+                212,
+                668,
+                228,
+                676
             ]
         },
         {
-            "text": "213577865",
+            "text": "3",
             "id": 10,
             "bbox": [
-                192,
-                577,
-                280,
-                596
+                349,
+                758,
+                355,
+                770
             ]
         },
         {
-            "text": "213577850",
+            "text": "00",
             "id": 11,
             "bbox": [
-                193,
-                617,
-                280,
-                635
+                354,
+                760,
+                362,
+                768
             ]
         },
         {
-            "text": "308.00",
+            "text": "DISPOSABLE",
             "id": 12,
             "bbox": [
-                515,
-                748,
-                573,
-                764
+                216,
+                645,
+                282,
+                656
+            ]
+        },
+        {
+            "text": "CHILDREN",
+            "id": 13,
+            "bbox": [
+                287,
+                645,
+                339,
+                655
+            ]
+        },
+        {
+            "text": "3",
+            "id": 14,
+            "bbox": [
+                344,
+                645,
+                348,
+                654
+            ]
+        },
+        {
+            "text": "PLY",
+            "id": 15,
+            "bbox": [
+                352,
+                645,
+                371,
+                654
+            ]
+        },
+        {
+            "text": "FACE",
+            "id": 16,
+            "bbox": [
+                375,
+                645,
+                401,
+                654
+            ]
+        },
+        {
+            "text": "MASK",
+            "id": 17,
+            "bbox": [
+                406,
+                644,
+                435,
+                654
+            ]
+        },
+        {
+            "text": "60S",
+            "id": 18,
+            "bbox": [
+                440,
+                644,
+                455,
+                653
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SHIRT",
-                "REGULAR",
-                "FI",
-                "SLIM",
-                "FIT"
-            ],
-            "value_id": [
-                4,
-                5,
-                6,
-                8,
-                9
-            ]
-        },
-        {
             "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7:59:40"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "308.00"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "213577865",
-                "213577850"
+                "3",
+                "00"
             ],
             "value_id": [
                 10,
@@ -188,16 +196,98 @@
             ]
         },
         {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DISPOSABLE",
+                "CHILDREN",
+                "3",
+                "PLY",
+                "FACE",
+                "MASK",
+                "60S"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08.07/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SUPER",
+                "CARE",
+                "PHARMACY"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10:43"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "169.00",
-                "139.00"
+                "105",
+                "00"
             ],
             "value_id": [
-                2,
-                3
+                7,
+                8
             ]
         }
     ],

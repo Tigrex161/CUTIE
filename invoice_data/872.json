@@ -1,123 +1,83 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "RI",
             "id": 1,
             "bbox": [
-                303,
-                152,
-                373,
-                165
+                448,
+                142,
+                474,
+                149
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "18-Jul-20",
             "id": 2,
             "bbox": [
-                384,
-                150,
-                463,
-                165
+                354,
+                313,
+                408,
+                324
             ]
         },
         {
-            "text": "27/07/20",
+            "text": "05:27",
             "id": 3,
             "bbox": [
-                256,
-                379,
-                328,
-                394
+                543,
+                315,
+                576,
+                325
             ]
         },
         {
-            "text": "20:59",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                339,
-                380,
-                383,
-                394
+                583,
+                315,
+                598,
+                325
             ]
         },
         {
-            "text": "485.00.",
+            "text": "119.05",
             "id": 5,
             "bbox": [
-                520,
-                626,
-                585,
-                645
+                537,
+                564,
+                571,
+                573
             ]
         },
         {
-            "text": "485.00",
+            "text": "119.05",
             "id": 6,
             "bbox": [
-                524,
-                531,
-                578,
-                546
+                576,
+                499,
+                610,
+                510
             ]
         },
         {
-            "text": "Women's",
+            "text": "1",
             "id": 7,
             "bbox": [
-                188,
-                513,
-                251,
-                527
+                522,
+                504,
+                524,
+                512
             ]
         },
         {
-            "text": "Underwear",
+            "text": "101107-20026-067-LRG",
             "id": 8,
             "bbox": [
-                262,
-                512,
-                344,
-                526
-            ]
-        },
-        {
-            "text": "UNDERWEAR",
-            "id": 9,
-            "bbox": [
-                186,
-                534,
-                268,
-                548
-            ]
-        },
-        {
-            "text": "BRIDAL",
-            "id": 10,
-            "bbox": [
-                281,
-                533,
-                333,
-                548
-            ]
-        },
-        {
-            "text": "SKU",
-            "id": 11,
-            "bbox": [
-                346,
-                534,
-                372,
-                547
-            ]
-        },
-        {
-            "text": "900643138",
-            "id": 12,
-            "bbox": [
-                233,
-                556,
-                315,
-                572
+                320,
+                494,
+                452,
+                504
             ]
         }
     ],
@@ -127,29 +87,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Women's",
-                "Underwear",
-                "UNDERWEAR",
-                "BRIDAL",
-                "SKU"
+                "101107-20026-067-LRG"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
+                8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:59"
+                "1"
             ],
             "value_id": [
-                4
+                7
             ]
         },
         {
@@ -157,21 +109,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "27/07/20"
+                "18-Jul-20"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "485.00."
-            ],
-            "value_id": [
-                5
+                2
             ]
         },
         {
@@ -179,23 +120,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "RI"
             ],
             "value_id": [
-                1,
-                2
+                1
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900643138"
+                "119.05"
             ],
             "value_id": [
-                12
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "05:27",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
             ]
         },
         {
@@ -203,7 +155,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "485.00"
+                "119.05"
             ],
             "value_id": [
                 6

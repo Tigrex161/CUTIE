@@ -1,180 +1,138 @@
 {
     "text_boxes": [
         {
-            "text": "25/7/20",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                184,
-                272,
-                229,
-                282
+                360,
+                217,
+                393,
+                228
             ]
         },
         {
-            "text": "20:",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                539,
-                276,
-                555,
-                284
+                399,
+                217,
+                451,
+                229
             ]
         },
         {
-            "text": "47",
+            "text": "24/07/2020",
             "id": 3,
             "bbox": [
-                558,
-                277,
-                568,
-                284
+                546,
+                404,
+                600,
+                413
             ]
         },
         {
-            "text": "625.00",
+            "text": "1R:07",
             "id": 4,
             "bbox": [
-                531,
-                592,
-                568,
-                601
+                619,
+                405,
+                643,
+                411
             ]
         },
         {
-            "text": "595.24",
+            "text": "2,960.00",
             "id": 5,
             "bbox": [
-                538,
-                545,
-                575,
-                556
+                669,
+                610,
+                710,
+                616
             ]
         },
         {
-            "text": "1",
+            "text": "2.960.0",
             "id": 6,
             "bbox": [
-                239,
-                544,
-                241,
-                551
+                668,
+                454,
+                710,
+                462
             ]
         },
         {
-            "text": "SHEIKH",
+            "text": "1ASENI",
             "id": 7,
             "bbox": [
-                135,
-                528,
-                174,
-                535
+                112,
+                467,
+                140,
+                475
             ]
         },
         {
-            "text": "A",
+            "text": "AGLataDDMEHMDO",
             "id": 8,
             "bbox": [
-                181,
-                529,
-                188,
-                536
+                153,
+                464,
+                224,
+                474
             ]
         },
         {
-            "text": "HAO",
+            "text": "LOCK",
             "id": 9,
             "bbox": [
-                195,
-                529,
-                214,
-                536
+                232,
+                464,
+                252,
+                472
             ]
         },
         {
-            "text": "EDP",
+            "text": "IT",
             "id": 10,
             "bbox": [
-                221,
-                530,
-                240,
-                536
+                259,
+                464,
+                268,
+                471
             ]
         },
         {
-            "text": "SPRAY",
+            "text": "MUL",
             "id": 11,
             "bbox": [
-                249,
-                530,
-                279,
-                537
+                274,
+                465,
+                290,
+                470
             ]
         },
         {
-            "text": "SHIELD",
+            "text": "SHOES",
             "id": 12,
             "bbox": [
-                288,
-                530,
-                326,
-                537
-            ]
-        },
-        {
-            "text": "50ML",
-            "id": 13,
-            "bbox": [
-                334,
-                530,
-                359,
-                538
-            ]
-        },
-        {
-            "text": "6291107640716",
-            "id": 14,
-            "bbox": [
-                138,
-                543,
-                222,
-                552
-            ]
-        },
-        {
-            "text": "1",
-            "id": 15,
-            "bbox": [
-                250,
-                733,
-                255,
-                739
+                112,
+                478,
+                136,
+                485
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SHEIKH",
-                "A",
-                "HAO",
-                "EDP",
-                "SPRAY",
-                "SHIELD",
-                "50ML"
+                "1ASENI",
+                "AGLataDDMEHMDO",
+                "LOCK",
+                "IT",
+                "MUL",
+                "SHOES"
             ],
             "value_id": [
                 7,
@@ -182,32 +140,7 @@
                 9,
                 10,
                 11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                15
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:",
-                "47"
-            ],
-            "value_id": [
-                2,
-                3
+                12
             ]
         },
         {
@@ -215,10 +148,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25/7/20"
+                "24/07/2020"
             ],
             "value_id": [
-                1
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
             ]
         },
         {
@@ -226,21 +172,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "625.00"
+                "2,960.00"
             ],
             "value_id": [
-                4
+                5
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6291107640716"
+                "1R:07"
             ],
             "value_id": [
-                14
+                4
             ]
         },
         {
@@ -248,10 +194,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "595.24"
+                "2.960.0"
             ],
             "value_id": [
-                5
+                6
             ]
         }
     ],

@@ -1,103 +1,103 @@
 {
     "text_boxes": [
         {
-            "text": "BRANDS",
+            "text": "Dior",
             "id": 1,
             "bbox": [
-                236,
-                241,
-                326,
-                257
+                106,
+                251,
+                273,
+                317
             ]
         },
         {
-            "text": "FOR",
+            "text": "BOUTIQUE",
             "id": 2,
             "bbox": [
-                336,
-                245,
-                379,
-                261
+                150,
+                331,
+                224,
+                347
             ]
         },
         {
-            "text": "18A07/2020",
+            "text": "28-Jun-2020",
             "id": 3,
             "bbox": [
-                290,
-                397,
-                363,
-                411
+                604,
+                487,
+                695,
+                500
             ]
         },
         {
-            "text": "17:31:45",
+            "text": "12:49:22",
             "id": 4,
             "bbox": [
-                371,
-                396,
-                428,
-                410
+                732,
+                487,
+                791,
+                500
             ]
         },
         {
-            "text": "111.00",
+            "text": "840.00",
             "id": 5,
             "bbox": [
-                473,
-                653,
-                518,
-                668
+                741,
+                935,
+                788,
+                947
             ]
         },
         {
-            "text": "111.00",
+            "text": "840.00",
             "id": 6,
             "bbox": [
-                497,
-                485,
-                539,
-                498
+                747,
+                667,
+                795,
+                683
             ]
         },
         {
-            "text": "MACYS",
+            "text": "CD",
             "id": 7,
             "bbox": [
-                223,
-                517,
-                275,
-                531
+                260,
+                674,
+                283,
+                686
             ]
         },
         {
-            "text": "EXCL",
+            "text": "OBLIQUE",
             "id": 8,
             "bbox": [
-                281,
-                520,
-                318,
-                534
+                289,
+                672,
+                364,
+                688
             ]
         },
         {
-            "text": "BEAR",
+            "text": "6*1",
             "id": 9,
             "bbox": [
-                324,
-                521,
-                361,
-                535
+                371,
+                672,
+                393,
+                685
             ]
         },
         {
-            "text": "ROBE",
+            "text": "85CDO1061624",
             "id": 10,
             "bbox": [
-                369,
-                520,
-                406,
-                534
+                56,
+                675,
+                165,
+                691
             ]
         }
     ],
@@ -107,15 +107,59 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MACYS",
-                "EXCL",
-                "BEAR",
-                "ROBE"
+                "CD",
+                "OBLIQUE",
+                "6*1"
             ],
             "value_id": [
                 7,
                 8,
-                9,
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "28-Jun-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Dior",
+                "BOUTIQUE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "840.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "85CDO1061624"
+            ],
+            "value_id": [
                 10
             ]
         },
@@ -124,45 +168,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:31:45"
+                "12:49:22"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18A07/2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "111.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "BRANDS",
-                "FOR"
-            ],
-            "value_id": [
-                1,
-                2
             ]
         },
         {
@@ -170,7 +179,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "111.00"
+                "840.00"
             ],
             "value_id": [
                 6

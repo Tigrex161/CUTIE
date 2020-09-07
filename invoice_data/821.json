@@ -1,123 +1,103 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                316,
-                194,
-                396,
-                246
+                260,
+                134,
+                368,
+                152
             ]
         },
         {
-            "text": "SHOES",
+            "text": "HOME",
             "id": 2,
             "bbox": [
-                330,
-                253,
-                379,
-                263
+                396,
+                130,
+                513,
+                149
             ]
         },
         {
-            "text": "Jun,",
+            "text": "19-07-2020",
             "id": 3,
             "bbox": [
-                449,
-                354,
-                472,
-                363
+                181,
+                365,
+                274,
+                379
             ]
         },
         {
-            "text": "2020",
+            "text": "12:07",
             "id": 4,
             "bbox": [
-                483,
-                351,
-                508,
-                360
+                289,
+                366,
+                333,
+                380
             ]
         },
         {
-            "text": "17:46",
+            "text": "210",
             "id": 5,
             "bbox": [
-                517,
-                348,
-                548,
-                358
+                498,
+                642,
+                524,
+                655
             ]
         },
         {
-            "text": "1,",
+            "text": "218",
             "id": 6,
             "bbox": [
-                559,
-                585,
-                567,
-                593
+                500,
+                466,
+                526,
+                478
             ]
         },
         {
-            "text": "740.00",
+            "text": "2",
             "id": 7,
             "bbox": [
-                572,
-                584,
-                611,
-                594
+                298,
+                468,
+                304,
+                479
             ]
         },
         {
-            "text": "1,740.00",
+            "text": "20001468",
             "id": 8,
             "bbox": [
-                566,
-                495,
-                619,
-                506
+                183,
+                491,
+                256,
+                504
             ]
         },
         {
-            "text": "JIMMY",
+            "text": "4285221799099",
             "id": 9,
             "bbox": [
-                110,
-                486,
-                140,
-                495
+                280,
+                492,
+                400,
+                503
             ]
         },
         {
-            "text": "CHOO",
+            "text": "GLASSWARE",
             "id": 10,
             "bbox": [
-                148,
-                486,
-                172,
-                494
-            ]
-        },
-        {
-            "text": "WOMENS",
-            "id": 11,
-            "bbox": [
-                179,
-                485,
-                215,
-                494
-            ]
-        },
-        {
-            "text": "LI",
-            "id": 12,
-            "bbox": [
-                329,
-                481,
-                338,
-                491
+                423,
+                491,
+                506,
+                504
             ]
         }
     ],
@@ -127,25 +107,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "JIMMY",
-                "CHOO",
-                "WOMENS"
+                "4285221799099",
+                "GLASSWARE"
             ],
             "value_id": [
                 9,
-                10,
-                11
+                10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:46"
+                "2"
             ],
             "value_id": [
-                5
+                7
             ]
         },
         {
@@ -153,36 +131,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jun,",
-                "2020"
+                "19-07-2020"
             ],
             "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,",
-                "740.00"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LI"
-            ],
-            "value_id": [
-                12
+                3
             ]
         },
         {
@@ -190,8 +142,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "level",
-                "SHOES"
+                "ZARA",
+                "HOME"
             ],
             "value_id": [
                 1,
@@ -199,14 +151,47 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "210"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20001468"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:07"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,740.00"
+                "218"
             ],
             "value_id": [
-                8
+                6
             ]
         }
     ],

@@ -1,0 +1,198 @@
+{
+    "text_boxes": [
+        {
+            "text": "B40",
+            "id": 1,
+            "bbox": [
+                8,
+                20,
+                33,
+                33
+            ]
+        },
+        {
+            "text": "FSS",
+            "id": 2,
+            "bbox": [
+                38,
+                23,
+                65,
+                36
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 3,
+            "bbox": [
+                70,
+                25,
+                114,
+                41
+            ]
+        },
+        {
+            "text": "TDM",
+            "id": 4,
+            "bbox": [
+                118,
+                29,
+                149,
+                43
+            ]
+        },
+        {
+            "text": "07/08/2020",
+            "id": 5,
+            "bbox": [
+                574,
+                86,
+                623,
+                97
+            ]
+        },
+        {
+            "text": "1.915.00",
+            "id": 6,
+            "bbox": [
+                605,
+                604,
+                652,
+                621
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                412,
+                393,
+                416,
+                393
+            ]
+        },
+        {
+            "text": "FLAT",
+            "id": 8,
+            "bbox": [
+                125,
+                385,
+                155,
+                402
+            ]
+        },
+        {
+            "text": "PAILLETT",
+            "id": 9,
+            "bbox": [
+                157,
+                385,
+                211,
+                403
+            ]
+        },
+        {
+            "text": "Q579",
+            "id": 10,
+            "bbox": [
+                213,
+                387,
+                242,
+                404
+            ]
+        },
+        {
+            "text": "SILVER",
+            "id": 11,
+            "bbox": [
+                247,
+                387,
+                285,
+                405
+            ]
+        },
+        {
+            "text": "40",
+            "id": 12,
+            "bbox": [
+                287,
+                388,
+                299,
+                404
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FLAT",
+                "PAILLETT",
+                "Q579",
+                "SILVER",
+                "40"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/08/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "B40",
+                "FSS",
+                "DUBAI",
+                "TDM"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.915.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/956.jpg"
+    }
+}

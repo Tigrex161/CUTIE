@@ -1,0 +1,333 @@
+{
+    "text_boxes": [
+        {
+            "text": "KENZO",
+            "id": 1,
+            "bbox": [
+                304,
+                346,
+                569,
+                401
+            ]
+        },
+        {
+            "text": "25",
+            "id": 2,
+            "bbox": [
+                622,
+                482,
+                636,
+                492
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                643,
+                478,
+                671,
+                491
+            ]
+        },
+        {
+            "text": "23:49",
+            "id": 4,
+            "bbox": [
+                678,
+                472,
+                712,
+                487
+            ]
+        },
+        {
+            "text": "840.00",
+            "id": 5,
+            "bbox": [
+                657,
+                877,
+                700,
+                890
+            ]
+        },
+        {
+            "text": "390.00",
+            "id": 6,
+            "bbox": [
+                658,
+                738,
+                699,
+                747
+            ]
+        },
+        {
+            "text": "450.",
+            "id": 7,
+            "bbox": [
+                658,
+                785,
+                682,
+                794
+            ]
+        },
+        {
+            "text": "00",
+            "id": 8,
+            "bbox": [
+                686,
+                786,
+                698,
+                794
+            ]
+        },
+        {
+            "text": "FA55TS5024AB-65:KZO.",
+            "id": 9,
+            "bbox": [
+                251,
+                709,
+                388,
+                722
+            ]
+        },
+        {
+            "text": "65:XL:",
+            "id": 10,
+            "bbox": [
+                390,
+                710,
+                429,
+                723
+            ]
+        },
+        {
+            "text": "KENZO",
+            "id": 11,
+            "bbox": [
+                431,
+                711,
+                461,
+                723
+            ]
+        },
+        {
+            "text": "SPORT",
+            "id": 12,
+            "bbox": [
+                469,
+                714,
+                501,
+                723
+            ]
+        },
+        {
+            "text": "OVERSIZE",
+            "id": 13,
+            "bbox": [
+                509,
+                714,
+                564,
+                724
+            ]
+        },
+        {
+            "text": "FA65TS0204YA-73:",
+            "id": 14,
+            "bbox": [
+                250,
+                754,
+                358,
+                769
+            ]
+        },
+        {
+            "text": "KZO.73:XXXL:CLASSIC",
+            "id": 15,
+            "bbox": [
+                361,
+                756,
+                495,
+                771
+            ]
+        },
+        {
+            "text": "TIGER",
+            "id": 16,
+            "bbox": [
+                496,
+                760,
+                529,
+                767
+            ]
+        },
+        {
+            "text": "017924828860",
+            "id": 17,
+            "bbox": [
+                158,
+                711,
+                241,
+                720
+            ]
+        },
+        {
+            "text": "017925070550",
+            "id": 18,
+            "bbox": [
+                157,
+                756,
+                240,
+                765
+            ]
+        },
+        {
+            "text": "UL",
+            "id": 19,
+            "bbox": [
+                630,
+                715,
+                656,
+                725
+            ]
+        },
+        {
+            "text": "UL",
+            "id": 20,
+            "bbox": [
+                630,
+                762,
+                657,
+                772
+            ]
+        },
+        {
+            "text": "S",
+            "id": 21,
+            "bbox": [
+                664,
+                762,
+                692,
+                772
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "017924828860",
+                "017925070550"
+            ],
+            "value_id": [
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "840.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "UL",
+                "UL",
+                "S"
+            ],
+            "value_id": [
+                19,
+                20,
+                21
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "KENZO"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FA55TS5024AB-65:KZO.",
+                "65:XL:",
+                "KENZO",
+                "SPORT",
+                "OVERSIZE",
+                "FA65TS0204YA-73:",
+                "KZO.73:XXXL:CLASSIC",
+                "TIGER"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23:49"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "390.00",
+                "450.",
+                "00"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/72.jpg"
+    }
+}

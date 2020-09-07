@@ -1,203 +1,98 @@
 {
     "text_boxes": [
         {
-            "text": "WEEKEND",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                342,
-                265,
-                491,
-                280
+                338,
+                330,
+                501,
+                377
             ]
         },
         {
-            "text": "\u041ca\u0445\u041cara",
+            "text": "H07/2020",
             "id": 2,
             "bbox": [
-                385,
-                296,
-                449,
-                313
+                88,
+                608,
+                135,
+                617
             ]
         },
         {
-            "text": "July,",
+            "text": "1242",
             "id": 3,
             "bbox": [
-                568,
-                382,
-                599,
-                392
+                147,
+                609,
+                168,
+                617
             ]
         },
         {
-            "text": "20",
+            "text": "2,200,00",
             "id": 4,
             "bbox": [
-                610,
-                382,
-                622,
-                390
+                646,
+                762,
+                684,
+                770
             ]
         },
         {
-            "text": "2020",
+            "text": "2,095.24",
             "id": 5,
             "bbox": [
-                631,
-                382,
-                656,
-                390
+                672,
+                699,
+                710,
+                709
             ]
         },
         {
-            "text": "12:47",
+            "text": "Custon.",
             "id": 6,
             "bbox": [
-                665,
-                382,
+                239,
                 697,
-                391
+                275,
+                705
             ]
         },
         {
-            "text": "1,",
+            "text": "Jewelery",
             "id": 7,
             "bbox": [
-                630,
-                718,
-                639,
-                727
+                278,
+                697,
+                316,
+                707
             ]
         },
         {
-            "text": "494.00",
+            "text": "BI07IADRMT",
             "id": 8,
             "bbox": [
-                644,
-                718,
-                683,
-                726
-            ]
-        },
-        {
-            "text": "1,494.00",
-            "id": 9,
-            "bbox": [
-                631,
-                627,
-                684,
-                637
-            ]
-        },
-        {
-            "text": "1.",
-            "id": 10,
-            "bbox": [
-                465,
-                630,
-                469,
-                637
-            ]
-        },
-        {
-            "text": "1",
-            "id": 11,
-            "bbox": [
-                464,
-                718,
-                471,
-                726
-            ]
-        },
-        {
-            "text": "52210107-005:",
-            "id": 12,
-            "bbox": [
-                238,
-                607,
-                323,
-                615
-            ]
-        },
-        {
-            "text": "WMX.005:48:MEDUSA",
-            "id": 13,
-            "bbox": [
-                327,
-                607,
-                443,
-                615
-            ]
-        },
-        {
-            "text": "DRESS",
-            "id": 14,
-            "bbox": [
-                451,
-                608,
-                483,
-                615
-            ]
-        },
-        {
-            "text": "258924B18753.",
-            "id": 15,
-            "bbox": [
-                147,
-                607,
-                229,
-                615
+                82,
+                695,
+                146,
+                703
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "52210107-005:",
-                "WMX.005:48:MEDUSA",
-                "DRESS"
+                "Custon.",
+                "Jewelery"
             ],
             "value_id": [
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:47"
-            ],
-            "value_id": [
-                6
+                6,
+                7
             ]
         },
         {
@@ -205,27 +100,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July,",
-                "20",
-                "2020"
+                "H07/2020"
             ],
             "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,",
-                "494.00"
-            ],
-            "value_id": [
-                7,
-                8
+                2
             ]
         },
         {
@@ -233,12 +111,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WEEKEND",
-                "\u041ca\u0445\u041cara"
+                "DIOR"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,200,00"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -246,10 +133,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "258924B18753."
+                "BI07IADRMT"
             ],
             "value_id": [
-                15
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1242"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -257,10 +155,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,494.00"
+                "2,095.24"
             ],
             "value_id": [
-                9
+                5
             ]
         }
     ],

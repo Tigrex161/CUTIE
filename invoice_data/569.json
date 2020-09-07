@@ -1,153 +1,113 @@
 {
     "text_boxes": [
         {
-            "text": "KARL",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                331,
-                125,
-                368,
-                142
+                338,
+                209,
+                468,
+                247
             ]
         },
         {
-            "text": "LAGERFELD",
+            "text": "JOAILLIERS",
             "id": 2,
             "bbox": [
-                373,
-                121,
-                461,
-                139
+                366,
+                255,
+                443,
+                262
             ]
         },
         {
-            "text": "July,",
+            "text": "05/07/2020",
             "id": 3,
             "bbox": [
-                543,
-                200,
-                572,
-                212
+                126,
+                727,
+                171,
+                735
             ]
         },
         {
-            "text": "24",
+            "text": "12:09.24",
             "id": 4,
             "bbox": [
-                582,
-                201,
-                593,
-                210
+                175,
+                727,
+                208,
+                733
             ]
         },
         {
-            "text": "2020",
+            "text": "L3001661",
             "id": 5,
             "bbox": [
-                601,
-                199,
-                625,
-                211
+                196,
+                550,
+                231,
+                558
             ]
         },
         {
-            "text": "17:06",
+            "text": "Leather",
             "id": 6,
             "bbox": [
-                632,
-                200,
-                660,
-                214
+                96,
+                544,
+                119,
+                548
             ]
         },
         {
-            "text": "895.00",
+            "text": "Goods",
             "id": 7,
             "bbox": [
-                616,
-                519,
-                651,
-                528
+                123,
+                542,
+                141,
+                548
             ]
         },
         {
-            "text": "895.00",
+            "text": "CARD",
             "id": 8,
             "bbox": [
-                616,
-                435,
-                650,
-                444
+                154,
+                541,
+                170,
+                546
             ]
         },
         {
-            "text": "201W3105-290:",
+            "text": "MUST",
             "id": 9,
             "bbox": [
-                232,
-                419,
-                312,
-                429
+                200,
+                541,
+                217,
+                546
             ]
         },
         {
-            "text": "KLD.290:0s:",
+            "text": "NOK",
             "id": 10,
             "bbox": [
-                318,
-                415,
-                385,
-                429
+                235,
+                541,
+                248,
+                546
             ]
         },
         {
-            "text": "K/SIGNATURE",
+            "text": "830.00",
             "id": 11,
             "bbox": [
-                387,
-                414,
-                459,
-                428
-            ]
-        },
-        {
-            "text": "METALLIC",
-            "id": 12,
-            "bbox": [
-                466,
-                415,
-                518,
-                425
-            ]
-        },
-        {
-            "text": "BELT-I",
-            "id": 13,
-            "bbox": [
-                525,
-                415,
-                557,
-                424
-            ]
-        },
-        {
-            "text": "104224774993",
-            "id": 14,
-            "bbox": [
-                152,
-                417,
-                223,
-                431
-            ]
-        },
-        {
-            "text": "i",
-            "id": 15,
-            "bbox": [
-                647,
-                412,
-                660,
-                424
+                689,
+                661,
+                716,
+                669
             ]
         }
     ],
@@ -157,29 +117,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "201W3105-290:",
-                "KLD.290:0s:",
-                "K/SIGNATURE",
-                "METALLIC",
-                "BELT-I"
+                "Leather",
+                "Goods",
+                "CARD",
+                "MUST",
+                "NOK"
             ],
             "value_id": [
+                6,
+                7,
+                8,
                 9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:06"
-            ],
-            "value_id": [
-                6
+                10
             ]
         },
         {
@@ -187,36 +136,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July,",
-                "24",
-                "2020"
+                "05/07/2020"
             ],
             "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "895.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "i"
-            ],
-            "value_id": [
-                15
+                3
             ]
         },
         {
@@ -224,8 +147,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "KARL",
-                "LAGERFELD"
+                "Cartier",
+                "JOAILLIERS"
             ],
             "value_id": [
                 1,
@@ -233,25 +156,36 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "830.00"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "104224774993"
+                "L3001661"
             ],
             "value_id": [
-                14
+                5
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "895.00"
+                "12:09.24"
             ],
             "value_id": [
-                8
+                4
             ]
         }
     ],

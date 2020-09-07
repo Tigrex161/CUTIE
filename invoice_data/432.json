@@ -1,134 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "Salsa",
             "id": 1,
             "bbox": [
-                475,
-                305,
-                499,
-                317
+                261,
+                309,
+                309,
+                321
             ]
         },
         {
-            "text": "2020",
+            "text": "Jeans",
             "id": 2,
             "bbox": [
-                512,
-                303,
-                538,
-                315
+                321,
+                310,
+                367,
+                320
             ]
         },
         {
-            "text": "15:49",
+            "text": "Dubai",
             "id": 3,
             "bbox": [
-                548,
-                303,
-                581,
-                314
+                378,
+                311,
+                424,
+                320
             ]
         },
         {
-            "text": "2,850.00",
+            "text": "Mall",
             "id": 4,
             "bbox": [
-                598,
-                551,
-                655,
-                563
+                436,
+                309,
+                471,
+                319
             ]
         },
         {
-            "text": "2,850.00",
+            "text": "03/07/2020",
             "id": 5,
             "bbox": [
-                600,
-                465,
-                654,
-                476
+                334,
+                1031,
+                418,
+                1047
             ]
         },
         {
-            "text": "VALENTINO",
+            "text": "608.00",
             "id": 6,
             "bbox": [
-                115,
-                448,
-                178,
-                458
+                489,
+                780,
+                533,
+                789
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "229.0",
             "id": 7,
             "bbox": [
-                185,
-                448,
-                226,
-                458
+                502,
+                648,
+                533,
+                656
             ]
         },
         {
-            "text": "SHOES",
+            "text": "379.0",
             "id": 8,
             "bbox": [
-                235,
-                448,
-                269,
-                459
+                501,
+                594,
+                533,
+                603
             ]
         },
         {
-            "text": "L",
+            "text": "560980733153",
             "id": 9,
             "bbox": [
-                293,
-                449,
-                307,
-                460
+                216,
+                631,
+                303,
+                642
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "VALENTINO",
-                "WOMENS",
-                "SHOES"
-            ],
-            "value_id": [
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15:49"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "03/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Salsa",
+                "Jeans",
+                "Dubai",
+                "Mall"
             ],
             "value_id": [
                 1,
-                2
+                2,
+                3,
+                4
             ]
         },
         {
@@ -136,18 +125,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,850.00"
+                "608.00"
             ],
             "value_id": [
-                4
+                6
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L"
+                "560980733153"
             ],
             "value_id": [
                 9
@@ -158,10 +147,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,850.00"
+                "229.0",
+                "379.0"
             ],
             "value_id": [
-                5
+                7,
+                8
             ]
         }
     ],

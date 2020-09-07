@@ -1,213 +1,83 @@
 {
     "text_boxes": [
         {
-            "text": "RALPH",
+            "text": "Jun,",
             "id": 1,
             "bbox": [
-                362,
-                246,
-                411,
-                257
-            ]
-        },
-        {
-            "text": "LAUREN",
-            "id": 2,
-            "bbox": [
-                425,
-                243,
-                485,
-                256
-            ]
-        },
-        {
-            "text": "12",
-            "id": 3,
-            "bbox": [
-                505,
-                547,
-                511,
-                556
-            ]
-        },
-        {
-            "text": "July",
-            "id": 4,
-            "bbox": [
-                516,
-                547,
-                530,
-                557
+                494,
+                272,
+                518,
+                284
             ]
         },
         {
             "text": "2020",
+            "id": 2,
+            "bbox": [
+                528,
+                270,
+                555,
+                282
+            ]
+        },
+        {
+            "text": "12:14",
+            "id": 3,
+            "bbox": [
+                564,
+                269,
+                595,
+                280
+            ]
+        },
+        {
+            "text": "1,950.00",
+            "id": 4,
+            "bbox": [
+                602,
+                505,
+                653,
+                518
+            ]
+        },
+        {
+            "text": "1,950.00",
             "id": 5,
             "bbox": [
-                533,
-                546,
-                551,
-                555
+                603,
+                420,
+                652,
+                431
             ]
         },
         {
-            "text": "25304",
+            "text": "VALENTINO",
             "id": 6,
             "bbox": [
-                556,
-                545,
-                582,
-                554
+                125,
+                408,
+                187,
+                420
             ]
         },
         {
-            "text": "PM",
+            "text": "WOMENS",
             "id": 7,
             "bbox": [
-                586,
-                545,
-                597,
-                551
+                202,
+                409,
+                237,
+                419
             ]
         },
         {
-            "text": "660.00",
+            "text": "SHOES",
             "id": 8,
             "bbox": [
-                694,
-                749,
-                721,
-                758
-            ]
-        },
-        {
-            "text": "33000",
-            "id": 9,
-            "bbox": [
-                693,
-                600,
-                717,
-                607
-            ]
-        },
-        {
-            "text": "330.00",
-            "id": 10,
-            "bbox": [
-                695,
-                646,
-                719,
-                655
-            ]
-        },
-        {
-            "text": "SSFBBOM1-SHORT",
-            "id": 11,
-            "bbox": [
-                386,
-                607,
-                456,
-                620
-            ]
-        },
-        {
-            "text": "SLEEVE-KNIT",
-            "id": 12,
-            "bbox": [
-                459,
-                605,
-                505,
-                618
-            ]
-        },
-        {
-            "text": "SSFBBDM2-SHORT",
-            "id": 13,
-            "bbox": [
-                386,
-                655,
-                455,
-                665
-            ]
-        },
-        {
-            "text": "SLEEVE",
-            "id": 14,
-            "bbox": [
-                461,
-                654,
-                485,
-                663
-            ]
-        },
-        {
-            "text": "KNIT",
-            "id": 15,
-            "bbox": [
-                488,
-                653,
-                508,
-                661
-            ]
-        },
-        {
-            "text": "plasl",
-            "id": 16,
-            "bbox": [
-                405,
-                625,
-                434,
-                637
-            ]
-        },
-        {
-            "text": "l",
-            "id": 17,
-            "bbox": [
-                437,
-                626,
-                452,
-                634
-            ]
-        },
-        {
-            "text": "na",
-            "id": 18,
-            "bbox": [
-                387,
-                674,
-                409,
-                683
-            ]
-        },
-        {
-            "text": "plasi",
-            "id": 19,
-            "bbox": [
-                412,
-                670,
-                434,
-                682
-            ]
-        },
-        {
-            "text": "ajsi",
-            "id": 20,
-            "bbox": [
-                438,
-                671,
-                455,
-                681
-            ]
-        },
-        {
-            "text": "710792415",
-            "id": 21,
-            "bbox": [
-                170,
-                664,
-                209,
-                671
+                248,
+                408,
+                281,
+                419
             ]
         }
     ],
@@ -217,31 +87,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SSFBBOM1-SHORT",
-                "SLEEVE-KNIT",
-                "SSFBBDM2-SHORT",
-                "SLEEVE",
-                "KNIT"
-            ],
-            "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "25304",
-                "PM"
+                "VALENTINO",
+                "WOMENS",
+                "SHOES"
             ],
             "value_id": [
                 6,
-                7
+                7,
+                8
             ]
         },
         {
@@ -249,53 +102,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12",
-                "July",
+                "Jun,",
                 "2020"
-            ],
-            "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "660.00"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "plasl",
-                "l",
-                "na",
-                "plasi",
-                "ajsi"
-            ],
-            "value_id": [
-                16,
-                17,
-                18,
-                19,
-                20
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "RALPH",
-                "LAUREN"
             ],
             "value_id": [
                 1,
@@ -303,14 +111,25 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "710792415"
+                "1,950.00"
             ],
             "value_id": [
-                21
+                4
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:14"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -318,12 +137,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "33000",
-                "330.00"
+                "1,950.00"
             ],
             "value_id": [
-                9,
-                10
+                5
             ]
         }
     ],

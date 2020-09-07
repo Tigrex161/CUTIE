@@ -1,143 +1,83 @@
 {
     "text_boxes": [
         {
-            "text": "JASHANMAL",
+            "text": "July",
             "id": 1,
             "bbox": [
-                288,
-                262,
-                362,
-                276
+                406,
+                163,
+                430,
+                174
             ]
         },
         {
-            "text": "DEPARTMENT",
+            "text": "16,",
             "id": 2,
             "bbox": [
-                367,
-                264,
-                452,
-                274
+                437,
+                162,
+                455,
+                173
             ]
         },
         {
-            "text": "STORE",
+            "text": "20:21",
             "id": 3,
             "bbox": [
-                457,
-                264,
-                499,
-                274
+                512,
+                157,
+                540,
+                172
             ]
         },
         {
-            "text": "8:38",
+            "text": "1,420.00",
             "id": 4,
             "bbox": [
-                435,
-                383,
-                459,
-                393
+                556,
+                573,
+                617,
+                585
             ]
         },
         {
-            "text": "29",
+            "text": "1,420.00",
             "id": 5,
             "bbox": [
-                461,
-                382,
-                476,
-                393
+                652,
+                368,
+                707,
+                381
             ]
         },
         {
-            "text": "a",
+            "text": "EARRINGS",
             "id": 6,
             "bbox": [
-                485,
-                382,
-                503,
-                393
+                16,
+                351,
+                97,
+                364
             ]
         },
         {
-            "text": "PM",
+            "text": "A36138Y0200522354",
             "id": 7,
             "bbox": [
-                513,
-                381,
-                530,
-                391
+                13,
+                390,
+                165,
+                405
             ]
         },
         {
-            "text": "545.00",
+            "text": "bll",
             "id": 8,
             "bbox": [
-                513,
-                452,
-                551,
-                465
-            ]
-        },
-        {
-            "text": "165441",
-            "id": 9,
-            "bbox": [
-                252,
-                461,
-                291,
-                474
-            ]
-        },
-        {
-            "text": "MENS",
-            "id": 10,
-            "bbox": [
-                362,
-                473,
-                396,
-                484
-            ]
-        },
-        {
-            "text": "BAGS",
-            "id": 11,
-            "bbox": [
-                401,
-                473,
-                437,
-                484
-            ]
-        },
-        {
-            "text": "BRIEFCASE",
-            "id": 12,
-            "bbox": [
-                363,
-                488,
-                434,
-                498
-            ]
-        },
-        {
-            "text": "327.00",
-            "id": 13,
-            "bbox": [
-                518,
-                584,
-                558,
-                597
-            ]
-        },
-        {
-            "text": "1",
-            "id": 14,
-            "bbox": [
-                553,
-                601,
-                557,
-                610
+                13,
+                370,
+                38,
+                385
             ]
         }
     ],
@@ -147,42 +87,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MENS",
-                "BAGS",
-                "BRIEFCASE"
+                "EARRINGS"
             ],
             "value_id": [
-                10,
-                11,
-                12
+                6
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "bll"
             ],
             "value_id": [
-                14
+                8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "8:38",
-                "29",
-                "a",
-                "PM"
+                "July",
+                "16,"
             ],
             "value_id": [
-                4,
-                5,
-                6,
-                7
+                1,
+                2
             ]
         },
         {
@@ -190,25 +122,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "327.00"
+                "1,420.00"
             ],
             "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "JASHANMAL",
-                "DEPARTMENT",
-                "STORE"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
+                4
             ]
         },
         {
@@ -216,10 +133,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "165441"
+                "A36138Y0200522354"
             ],
             "value_id": [
-                9
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:21"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -227,10 +155,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "545.00"
+                "1,420.00"
             ],
             "value_id": [
-                8
+                5
             ]
         }
     ],

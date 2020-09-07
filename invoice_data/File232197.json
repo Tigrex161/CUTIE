@@ -1,0 +1,225 @@
+{
+    "text_boxes": [
+        {
+            "text": "NIKE",
+            "id": 1,
+            "bbox": [
+                346,
+                182,
+                384,
+                191
+            ]
+        },
+        {
+            "text": "BEACON",
+            "id": 2,
+            "bbox": [
+                399,
+                182,
+                459,
+                191
+            ]
+        },
+        {
+            "text": "30/07/2020",
+            "id": 3,
+            "bbox": [
+                321,
+                269,
+                372,
+                280
+            ]
+        },
+        {
+            "text": "12:45",
+            "id": 4,
+            "bbox": [
+                322,
+                287,
+                346,
+                297
+            ]
+        },
+        {
+            "text": "549.00",
+            "id": 5,
+            "bbox": [
+                501,
+                706,
+                531,
+                715
+            ]
+        },
+        {
+            "text": "549.00",
+            "id": 6,
+            "bbox": [
+                491,
+                497,
+                521,
+                506
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                321,
+                605,
+                322,
+                614
+            ]
+        },
+        {
+            "text": "AIR",
+            "id": 8,
+            "bbox": [
+                239,
+                516,
+                253,
+                525
+            ]
+        },
+        {
+            "text": "JORDAN",
+            "id": 9,
+            "bbox": [
+                261,
+                516,
+                291,
+                525
+            ]
+        },
+        {
+            "text": "I",
+            "id": 10,
+            "bbox": [
+                298,
+                516,
+                300,
+                525
+            ]
+        },
+        {
+            "text": "LON",
+            "id": 11,
+            "bbox": [
+                308,
+                516,
+                322,
+                525
+            ]
+        },
+        {
+            "text": "NKS53558-606",
+            "id": 12,
+            "bbox": [
+                239,
+                498,
+                301,
+                508
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NKS53558-606"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "549.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NIKE",
+                "BEACON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AIR",
+                "JORDAN",
+                "I",
+                "LON"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:45"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30/07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "549.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/196.jpg"
+    }
+}

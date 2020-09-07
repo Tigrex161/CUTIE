@@ -1,143 +1,46 @@
 {
     "text_boxes": [
         {
-            "text": "LAFAYETTE",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                348,
-                136,
-                439,
-                155
+                357,
+                335,
+                462,
+                365
             ]
         },
         {
-            "text": "08/07/20",
+            "text": "170721",
             "id": 2,
             "bbox": [
-                267,
-                325,
-                328,
-                339
+                230,
+                748,
+                258,
+                754
             ]
         },
         {
-            "text": "18:20",
+            "text": "VA50",
             "id": 3,
             "bbox": [
-                338,
-                328,
-                374,
-                340
-            ]
-        },
-        {
-            "text": "906.50",
-            "id": 4,
-            "bbox": [
-                491,
-                602,
-                536,
-                617
-            ]
-        },
-        {
-            "text": "1,295.00",
-            "id": 5,
-            "bbox": [
-                475,
-                468,
-                532,
-                481
-            ]
-        },
-        {
-            "text": "1",
-            "id": 6,
-            "bbox": [
-                213,
-                484,
-                236,
-                500
-            ]
-        },
-        {
-            "text": "Kid's",
-            "id": 7,
-            "bbox": [
-                213,
-                446,
-                251,
-                459
-            ]
-        },
-        {
-            "text": "Wear",
-            "id": 8,
-            "bbox": [
-                261,
-                447,
-                290,
-                460
-            ]
-        },
-        {
-            "text": "DRESS",
-            "id": 9,
-            "bbox": [
-                214,
-                466,
-                251,
-                479
-            ]
-        },
-        {
-            "text": "SKU",
-            "id": 10,
-            "bbox": [
-                261,
-                467,
-                282,
-                478
-            ]
-        },
-        {
-            "text": "900975999",
-            "id": 11,
-            "bbox": [
-                253,
-                486,
-                321,
-                500
+                235,
+                603,
+                262,
+                608
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "Cartier"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Kid's",
-                "Wear",
-                "DRESS",
-                "SKU"
-            ],
-            "value_id": [
-                7,
-                8,
-                9,
-                10
+                1
             ]
         },
         {
@@ -145,43 +48,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18:20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "08/07/20"
+                "170721"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "906.50"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1
             ]
         },
         {
@@ -189,21 +59,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900975999"
+                "VA50"
             ],
             "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,295.00"
-            ],
-            "value_id": [
-                5
+                3
             ]
         }
     ],

@@ -1,178 +1,141 @@
 {
     "text_boxes": [
         {
-            "text": "25/",
+            "text": "MAGIC",
             "id": 1,
             "bbox": [
-                510,
-                265,
-                527,
-                276
+                366,
+                107,
+                403,
+                118
             ]
         },
         {
-            "text": "07/2020",
+            "text": "FYOR",
             "id": 2,
             "bbox": [
-                529,
-                265,
-                561,
-                276
+                360,
+                121,
+                432,
+                140
             ]
         },
         {
-            "text": "11:20",
+            "text": "7152020",
             "id": 3,
             "bbox": [
-                567,
-                267,
-                590,
-                274
+                441,
+                379,
+                496,
+                391
             ]
         },
         {
-            "text": "AN",
+            "text": "9:38:63",
             "id": 4,
             "bbox": [
-                593,
-                266,
-                606,
-                274
+                486,
+                399,
+                530,
+                406
             ]
         },
         {
-            "text": "335.00",
+            "text": "295.00",
             "id": 5,
             "bbox": [
-                643,
-                457,
-                671,
-                463
+                545,
+                645,
+                594,
+                659
             ]
         },
         {
-            "text": "335,00",
+            "text": "295.00",
             "id": 6,
             "bbox": [
-                643,
-                436,
-                671,
-                444
+                542,
+                521,
+                590,
+                536
+            ]
+        },
+        {
+            "text": "FOHF",
+            "id": 7,
+            "bbox": [
+                215,
+                525,
+                258,
+                540
+            ]
+        },
+        {
+            "text": "YK",
+            "id": 8,
+            "bbox": [
+                214,
+                544,
+                232,
+                555
+            ]
+        },
+        {
+            "text": "12",
+            "id": 9,
+            "bbox": [
+                240,
+                544,
+                253,
+                555
             ]
         },
         {
             "text": "1",
-            "id": 7,
-            "bbox": [
-                300,
-                441,
-                302,
-                447
-            ]
-        },
-        {
-            "text": "Reverence",
-            "id": 8,
-            "bbox": [
-                111,
-                442,
-                155,
-                449
-            ]
-        },
-        {
-            "text": "Aomatique",
-            "id": 9,
-            "bbox": [
-                159,
-                441,
-                206,
-                450
-            ]
-        },
-        {
-            "text": "Hand",
             "id": 10,
             "bbox": [
-                210,
-                441,
-                232,
-                448
+                315,
+                588,
+                324,
+                606
             ]
         },
         {
-            "text": "Balm",
+            "text": "55768",
             "id": 11,
             "bbox": [
-                236,
-                441,
-                255,
-                449
-            ]
-        },
-        {
-            "text": "500ml",
-            "id": 12,
-            "bbox": [
-                259,
-                440,
-                285,
-                449
-            ]
-        },
-        {
-            "text": "9319944004236",
-            "id": 13,
-            "bbox": [
-                110,
-                428,
-                178,
-                437
+                299,
+                525,
+                345,
+                539
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FOHF",
+                "YK",
+                "12"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
                 "1"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Reverence",
-                "Aomatique",
-                "Hand",
-                "Balm",
-                "500ml"
-            ],
-            "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:20",
-                "AN"
-            ],
-            "value_id": [
-                3,
-                4
+                10
             ]
         },
         {
@@ -180,8 +143,19 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25/",
-                "07/2020"
+                "7152020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MAGIC",
+                "FYOR"
             ],
             "value_id": [
                 1,
@@ -193,7 +167,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "335.00"
+                "295.00"
             ],
             "value_id": [
                 5
@@ -204,10 +178,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "9319944004236"
+                "55768"
             ],
             "value_id": [
-                13
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9:38:63"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -215,7 +200,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "335,00"
+                "295.00"
             ],
             "value_id": [
                 6

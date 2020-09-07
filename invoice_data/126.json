@@ -1,158 +1,138 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "AED",
             "id": 1,
             "bbox": [
-                312,
-                168,
-                400,
-                182
+                621,
+                633,
+                641,
+                642
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "750.00",
             "id": 2,
             "bbox": [
-                414,
-                168,
-                514,
-                181
+                649,
+                631,
+                689,
+                641
             ]
         },
         {
-            "text": "10/07/20",
+            "text": "750.00",
             "id": 3,
             "bbox": [
-                259,
-                455,
-                348,
-                479
+                648,
+                542,
+                689,
+                554
             ]
         },
         {
-            "text": "20:51",
+            "text": "1.",
             "id": 4,
             "bbox": [
-                362,
-                454,
-                413,
-                477
+                469,
+                553,
+                474,
+                563
             ]
         },
         {
-            "text": "134.00",
+            "text": "IU",
             "id": 5,
             "bbox": [
-                585,
-                769,
-                649,
-                788
+                524,
+                527,
+                563,
+                540
             ]
         },
         {
-            "text": "134.00",
+            "text": "SUL",
             "id": 6,
             "bbox": [
-                586,
-                657,
-                648,
-                674
+                571,
+                525,
+                612,
+                535
             ]
         },
         {
-            "text": "1",
+            "text": "aL",
             "id": 7,
             "bbox": [
-                190,
-                688,
-                216,
-                707
+                622,
+                524,
+                654,
+                532
             ]
         },
         {
-            "text": "SWAROVSKI",
+            "text": "July,",
             "id": 8,
             "bbox": [
-                189,
-                661,
-                284,
-                677
+                564,
+                295,
+                597,
+                309
             ]
         },
         {
-            "text": "JEWELLERY",
+            "text": "10",
             "id": 9,
             "bbox": [
-                299,
-                660,
-                394,
-                676
+                608,
+                294,
+                621,
+                303
             ]
         },
         {
-            "text": "1",
+            "text": "2020",
             "id": 10,
             "bbox": [
-                641,
-                714,
-                645,
-                729
+                629,
+                291,
+                657,
+                303
             ]
         },
         {
-            "text": "900050784",
+            "text": "22:55",
             "id": 11,
             "bbox": [
-                245,
-                688,
-                340,
-                705
+                664,
+                288,
+                700,
+                300
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "IU",
+                "SUL",
+                "aL"
             ],
             "value_id": [
+                5,
+                6,
                 7
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SWAROVSKI",
-                "JEWELLERY"
-            ],
-            "value_id": [
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:51"
+                "1."
             ],
             "value_id": [
                 4
@@ -163,10 +143,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10/07/20"
+                "July,",
+                "10",
+                "2020"
             ],
             "value_id": [
-                3
+                8,
+                9,
+                10
             ]
         },
         {
@@ -174,19 +158,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "134.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "AED",
+                "750.00"
             ],
             "value_id": [
                 1,
@@ -194,11 +167,11 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900050784"
+                "22:55"
             ],
             "value_id": [
                 11
@@ -209,10 +182,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "134.00"
+                "750.00"
             ],
             "value_id": [
-                6
+                3
             ]
         }
     ],

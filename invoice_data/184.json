@@ -1,220 +1,140 @@
 {
     "text_boxes": [
         {
-            "text": "PARIS",
+            "text": "SARA",
             "id": 1,
             "bbox": [
-                477,
-                34,
-                508,
-                46
+                315,
+                303,
+                417,
+                321
             ]
         },
         {
-            "text": "July,",
+            "text": "1967",
             "id": 2,
             "bbox": [
-                581,
-                159,
-                617,
-                175
+                353,
+                329,
+                379,
+                337
             ]
         },
         {
-            "text": "01",
+            "text": "18:35:36",
             "id": 3,
             "bbox": [
-                629,
-                162,
-                642,
-                173
+                272,
+                472,
+                313,
+                481
             ]
         },
         {
-            "text": "2020",
+            "text": "146.85",
             "id": 4,
             "bbox": [
-                649,
-                166,
-                676,
-                179
+                658,
+                667,
+                691,
+                676
             ]
         },
         {
-            "text": "15:56",
+            "text": "146.85",
             "id": 5,
             "bbox": [
-                684,
-                172,
-                714,
-                186
+                659,
+                597,
+                694,
+                606
             ]
         },
         {
-            "text": "520.00",
+            "text": "55",
             "id": 6,
             "bbox": [
-                683,
-                624,
-                723,
+                465,
+                601,
+                483,
+                610
+            ]
+        },
+        {
+            "text": "555",
+            "id": 7,
+            "bbox": [
+                346,
+                630,
+                364,
                 638
             ]
         },
         {
-            "text": "270.00",
-            "id": 7,
-            "bbox": [
-                677,
-                462,
-                716,
-                473
-            ]
-        },
-        {
-            "text": "250.00",
+            "text": "Bon",
             "id": 8,
             "bbox": [
-                678,
-                514,
-                717,
-                527
+                259,
+                604,
+                278,
+                611
             ]
         },
         {
-            "text": "1",
+            "text": "Chocolate",
             "id": 9,
             "bbox": [
-                464,
-                464,
-                468,
-                473
+                285,
+                599,
+                334,
+                613
             ]
         },
         {
-            "text": "017924873986",
+            "text": "FG030530740003",
             "id": 10,
             "bbox": [
-                96,
-                447,
-                185,
-                460
-            ]
-        },
-        {
-            "text": "017924873983",
-            "id": 11,
-            "bbox": [
-                96,
-                500,
-                185,
-                512
-            ]
-        },
-        {
-            "text": "\u00dcL",
-            "id": 12,
-            "bbox": [
-                525,
-                434,
-                557,
-                446
-            ]
-        },
-        {
-            "text": "S",
-            "id": 13,
-            "bbox": [
-                566,
-                434,
-                586,
-                445
-            ]
-        },
-        {
-            "text": "\u00dcL",
-            "id": 14,
-            "bbox": [
-                517,
-                490,
-                549,
-                501
-            ]
-        },
-        {
-            "text": "S",
-            "id": 15,
-            "bbox": [
-                559,
-                491,
-                580,
-                502
+                106,
+                597,
+                198,
+                611
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "555"
             ],
             "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Bon",
+                "Chocolate"
+            ],
+            "value_id": [
+                8,
                 9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15:56"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "01",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "520.00"
+                "55"
             ],
             "value_id": [
                 6
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u00dcL",
-                "S",
-                "\u00dcL",
-                "S"
-            ],
-            "value_id": [
-                12,
-                13,
-                14,
-                15
             ]
         },
         {
@@ -222,10 +142,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PARIS"
+                "SARA",
+                "1967"
             ],
             "value_id": [
-                1
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "146.85"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -233,12 +166,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "017924873986",
-                "017924873983"
+                "FG030530740003"
             ],
             "value_id": [
-                10,
-                11
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:35:36"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -246,12 +188,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "270.00",
-                "250.00"
+                "146.85"
             ],
             "value_id": [
-                7,
-                8
+                5
             ]
         }
     ],

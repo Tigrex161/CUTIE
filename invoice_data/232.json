@@ -1,96 +1,119 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "83-07",
             "id": 1,
             "bbox": [
-                308,
-                147,
-                380,
-                215
+                240,
+                381,
+                278,
+                395
             ]
         },
         {
-            "text": "SHOES",
+            "text": "2028",
             "id": 2,
             "bbox": [
-                322,
-                222,
-                368,
-                236
+                281,
+                386,
+                306,
+                395
             ]
         },
         {
-            "text": "Jul,",
+            "text": "13:12",
             "id": 3,
             "bbox": [
-                408,
-                343,
-                428,
-                353
+                316,
+                388,
+                347,
+                398
             ]
         },
         {
-            "text": "2020",
+            "text": "929",
             "id": 4,
             "bbox": [
-                437,
-                340,
                 463,
-                351
+                576,
+                482,
+                584
             ]
         },
         {
-            "text": "20:47",
+            "text": "929",
             "id": 5,
             "bbox": [
-                468,
-                336,
-                502,
-                351
+                464,
+                457,
+                482,
+                465
             ]
         },
         {
-            "text": "420.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                536,
-                577,
-                574,
-                588
+                319,
+                454,
+                323,
+                462
             ]
         },
         {
-            "text": "420.00",
+            "text": "605022548eee2",
             "id": 7,
             "bbox": [
-                538,
-                498,
-                577,
-                506
+                304,
+                469,
+                391,
+                483
             ]
         },
         {
-            "text": "\u09e6\u09e6424841092",
+            "text": "DRESS",
             "id": 8,
             "bbox": [
-                92,
-                494,
-                167,
-                503
+                408,
+                472,
+                441,
+                484
+            ]
+        },
+        {
+            "text": "10001889",
+            "id": 9,
+            "bbox": [
+                234,
+                463,
+                288,
+                475
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "time",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:47"
+                "605022548eee2",
+                "DRESS"
             ],
             "value_id": [
-                5
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -98,32 +121,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "420.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "level",
-                "SHOES"
+                "83-07",
+                "2028"
             ],
             "value_id": [
                 1,
@@ -131,14 +130,36 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "929"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u09e6\u09e6424841092"
+                "10001889"
             ],
             "value_id": [
-                8
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:12"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -146,10 +167,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "420.00"
+                "929"
             ],
             "value_id": [
-                7
+                5
             ]
         }
     ],

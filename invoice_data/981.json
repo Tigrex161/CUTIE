@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "blomingdales",
+            "id": 1,
+            "bbox": [
+                232,
+                252,
+                423,
+                318
+            ]
+        },
+        {
+            "text": "4:14",
+            "id": 2,
+            "bbox": [
+                319,
+                404,
+                340,
+                417
+            ]
+        },
+        {
+            "text": "2,651.00",
+            "id": 3,
+            "bbox": [
+                403,
+                653,
+                446,
+                662
+            ]
+        },
+        {
+            "text": "2.60)",
+            "id": 4,
+            "bbox": [
+                397,
+                514,
+                423,
+                524
+            ]
+        },
+        {
+            "text": "00",
+            "id": 5,
+            "bbox": [
+                428,
+                514,
+                441,
+                522
+            ]
+        },
+        {
+            "text": "GIFT",
+            "id": 6,
+            "bbox": [
+                217,
+                517,
+                239,
+                527
+            ]
+        },
+        {
+            "text": "CARD",
+            "id": 7,
+            "bbox": [
+                246,
+                517,
+                267,
+                527
+            ]
+        },
+        {
+            "text": "DETAILS",
+            "id": 8,
+            "bbox": [
+                273,
+                515,
+                312,
+                525
+            ]
+        },
+        {
+            "text": "207180010",
+            "id": 9,
+            "bbox": [
+                229,
+                526,
+                279,
+                538
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GIFT",
+                "CARD",
+                "DETAILS"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "blomingdales"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,651.00"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "207180010"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4:14"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.60)",
+                "00"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/981.jpg"
+    }
+}

@@ -1,143 +1,173 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "Urban",
             "id": 1,
             "bbox": [
-                311,
-                188,
-                393,
-                245
+                232,
+                199,
+                277,
+                219
             ]
         },
         {
-            "text": "SHOES",
+            "text": "outfitters",
             "id": 2,
             "bbox": [
-                326,
-                249,
-                375,
-                260
+                293,
+                205,
+                399,
+                226
             ]
         },
         {
-            "text": "Jun,",
+            "text": "Dubai",
             "id": 3,
             "bbox": [
-                445,
-                350,
+                410,
+                204,
                 468,
-                359
+                223
             ]
         },
         {
-            "text": "2020",
+            "text": "Mall",
             "id": 4,
             "bbox": [
-                478,
-                347,
-                503,
-                356
+                482,
+                198,
+                523,
+                218
             ]
         },
         {
-            "text": "17:46",
+            "text": "16/07/2020",
             "id": 5,
             "bbox": [
-                513,
-                346,
-                544,
-                356
+                345,
+                1058,
+                422,
+                1084
             ]
         },
         {
-            "text": "1,",
+            "text": "2117:59PM",
             "id": 6,
             "bbox": [
-                553,
-                583,
-                562,
-                591
+                472,
+                1060,
+                549,
+                1074
             ]
         },
         {
-            "text": "740.00",
+            "text": "165.00",
             "id": 7,
             "bbox": [
-                567,
-                581,
-                606,
-                590
+                496,
+                627,
+                547,
+                639
             ]
         },
         {
-            "text": "1,740.00",
+            "text": "165.0",
             "id": 8,
             "bbox": [
-                560,
-                493,
-                613,
-                503
+                515,
+                542,
+                550,
+                554
             ]
         },
         {
-            "text": "1.",
+            "text": "1",
             "id": 9,
             "bbox": [
-                400,
-                498,
-                402,
-                505
+                297,
+                592,
+                302,
+                598
             ]
         },
         {
-            "text": "JIMMY",
+            "text": "M",
             "id": 10,
             "bbox": [
-                105,
-                482,
-                135,
-                490
+                334,
+                525,
+                340,
+                533
             ]
         },
         {
-            "text": "CHOO",
+            "text": "TOPS",
             "id": 11,
             "bbox": [
-                143,
-                482,
-                167,
-                489
+                350,
+                525,
+                382,
+                534
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "7264",
             "id": 12,
             "bbox": [
-                175,
-                480,
-                211,
-                489
+                190,
+                520,
+                221,
+                532
             ]
         },
         {
-            "text": "I",
+            "text": "9064",
             "id": 13,
             "bbox": [
-                255,
-                479,
-                260,
-                489
+                226,
+                522,
+                257,
+                533
+            ]
+        },
+        {
+            "text": "L)",
+            "id": 14,
+            "bbox": [
+                411,
+                526,
+                449,
+                538
+            ]
+        },
+        {
+            "text": "3",
+            "id": 15,
+            "bbox": [
+                504,
+                527,
+                508,
+                535
+            ]
+        },
+        {
+            "text": "LA",
+            "id": 16,
+            "bbox": [
+                521,
+                523,
+                553,
+                534
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1."
+                "1"
             ],
             "value_id": [
                 9
@@ -148,25 +178,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "JIMMY",
-                "CHOO",
-                "WOMENS"
+                "M",
+                "TOPS"
             ],
             "value_id": [
                 10,
-                11,
-                12
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:46"
+                "L)",
+                "3",
+                "LA"
             ],
             "value_id": [
-                5
+                14,
+                15,
+                16
             ]
         },
         {
@@ -174,10 +206,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jun,",
-                "2020"
+                "16/07/2020"
             ],
             "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Urban",
+                "outfitters",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
                 3,
                 4
             ]
@@ -187,36 +234,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "740.00"
+                "165.00"
             ],
             "value_id": [
-                6,
                 7
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "I"
+                "7264",
+                "9064"
             ],
             "value_id": [
+                12,
                 13
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "level",
-                "SHOES"
+                "2117:59PM"
             ],
             "value_id": [
-                1,
-                2
+                6
             ]
         },
         {
@@ -224,7 +269,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,740.00"
+                "165.0"
             ],
             "value_id": [
                 8

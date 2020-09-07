@@ -1,93 +1,93 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdales",
+            "text": "FREDPERRY",
             "id": 1,
             "bbox": [
-                260,
-                32,
-                511,
-                76
+                255,
+                236,
+                325,
+                253
             ]
         },
         {
-            "text": "27.06.2020",
+            "text": "03/07/20",
             "id": 2,
             "bbox": [
-                598,
-                228,
-                660,
-                240
+                196,
+                319,
+                258,
+                335
             ]
         },
         {
-            "text": "1350",
+            "text": "12:04",
             "id": 3,
             "bbox": [
-                736,
-                647,
-                763,
-                658
+                267,
+                317,
+                305,
+                332
             ]
         },
         {
-            "text": "Serpent",
+            "text": "409.00",
             "id": 4,
             "bbox": [
-                11,
-                647,
-                53,
-                659
+                415,
+                517,
+                464,
+                532
             ]
         },
         {
-            "text": "Boh\u00e8me",
+            "text": "409",
             "id": 5,
             "bbox": [
-                58,
-                647,
-                103,
-                657
+                437,
+                436,
+                461,
+                448
             ]
         },
         {
-            "text": "Double",
+            "text": "POLOS",
             "id": 6,
             "bbox": [
-                108,
-                647,
-                146,
-                657
+                204,
+                444,
+                243,
+                458
             ]
         },
         {
-            "text": "Motif",
+            "text": "A038181",
             "id": 7,
             "bbox": [
-                150,
-                647,
-                179,
-                657
+                141,
+                446,
+                193,
+                460
             ]
         },
         {
-            "text": "Bracelet",
+            "text": "1",
             "id": 8,
             "bbox": [
-                183,
-                647,
-                228,
-                657
+                436,
+                618,
+                440,
+                630
             ]
         },
         {
-            "text": "1350",
+            "text": "\u0646\u0648\u0644\u0648",
             "id": 9,
             "bbox": [
-                611,
-                791,
-                638,
-                801
+                187,
+                463,
+                207,
+                476
             ]
         }
     ],
@@ -97,18 +97,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Serpent",
-                "Boh\u00e8me",
-                "Double",
-                "Motif",
-                "Bracelet"
+                "POLOS"
             ],
             "value_id": [
-                4,
-                5,
-                6,
-                7,
+                6
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
                 8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0646\u0648\u0644\u0648"
+            ],
+            "value_id": [
+                9
             ]
         },
         {
@@ -116,21 +130,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "27.06.2020"
+                "03/07/20"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1350"
-            ],
-            "value_id": [
-                9
             ]
         },
         {
@@ -138,10 +141,43 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "bloomingdales"
+                "FREDPERRY"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "409.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A038181"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:04"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -149,10 +185,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1350"
+                "409"
             ],
             "value_id": [
-                3
+                5
             ]
         }
     ],

@@ -1,0 +1,303 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                315,
+                22,
+                350,
+                32
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                356,
+                22,
+                412,
+                32
+            ]
+        },
+        {
+            "text": "MAON",
+            "id": 3,
+            "bbox": [
+                325,
+                60,
+                350,
+                67
+            ]
+        },
+        {
+            "text": "FONr",
+            "id": 4,
+            "bbox": [
+                353,
+                59,
+                376,
+                66
+            ]
+        },
+        {
+            "text": "iaa",
+            "id": 5,
+            "bbox": [
+                378,
+                59,
+                397,
+                66
+            ]
+        },
+        {
+            "text": "16/07/2020",
+            "id": 6,
+            "bbox": [
+                501,
+                223,
+                555,
+                232
+            ]
+        },
+        {
+            "text": "20:25",
+            "id": 7,
+            "bbox": [
+                577,
+                223,
+                599,
+                233
+            ]
+        },
+        {
+            "text": "6,060.00",
+            "id": 8,
+            "bbox": [
+                619,
+                432,
+                660,
+                439
+            ]
+        },
+        {
+            "text": "2,",
+            "id": 9,
+            "bbox": [
+                615,
+                280,
+                630,
+                291
+            ]
+        },
+        {
+            "text": "810.",
+            "id": 10,
+            "bbox": [
+                632,
+                280,
+                652,
+                291
+            ]
+        },
+        {
+            "text": "00",
+            "id": 11,
+            "bbox": [
+                654,
+                280,
+                662,
+                291
+            ]
+        },
+        {
+            "text": "3.250.00",
+            "id": 12,
+            "bbox": [
+                614,
+                313,
+                655,
+                319
+            ]
+        },
+        {
+            "text": "1ANOSP",
+            "id": 13,
+            "bbox": [
+                46,
+                277,
+                78,
+                284
+            ]
+        },
+        {
+            "text": "JGUaPPcaonoes",
+            "id": 14,
+            "bbox": [
+                90,
+                277,
+                167,
+                285
+            ]
+        },
+        {
+            "text": "1UXEMBOURG",
+            "id": 15,
+            "bbox": [
+                174,
+                278,
+                230,
+                285
+            ]
+        },
+        {
+            "text": "SHOLS",
+            "id": 16,
+            "bbox": [
+                47,
+                288,
+                73,
+                295
+            ]
+        },
+        {
+            "text": "IAROXZ",
+            "id": 17,
+            "bbox": [
+                49,
+                309,
+                81,
+                315
+            ]
+        },
+        {
+            "text": "JGUIPLNOSHOES",
+            "id": 18,
+            "bbox": [
+                93,
+                309,
+                169,
+                317
+            ]
+        },
+        {
+            "text": "LATXEMBOURG",
+            "id": 19,
+            "bbox": [
+                176,
+                310,
+                231,
+                318
+            ]
+        },
+        {
+            "text": "SHORS",
+            "id": 20,
+            "bbox": [
+                46,
+                319,
+                77,
+                326
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6,060.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MAON",
+                "FONr",
+                "iaa"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1ANOSP",
+                "JGUaPPcaonoes",
+                "1UXEMBOURG",
+                "SHOLS",
+                "IAROXZ",
+                "JGUIPLNOSHOES",
+                "LATXEMBOURG",
+                "SHORS"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:25"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16/07/2020"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,",
+                "810.",
+                "00",
+                "3.250.00"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/65.jpg"
+    }
+}

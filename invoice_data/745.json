@@ -1,143 +1,133 @@
 {
     "text_boxes": [
         {
-            "text": "DOLCE",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                199,
-                48,
-                339,
-                93
+                298,
+                193,
+                350,
+                203
             ]
         },
         {
-            "text": "&",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                350,
-                72,
-                363,
-                89
+                358,
+                193,
+                416,
+                203
             ]
         },
         {
-            "text": "GABBANA",
+            "text": "16/07/20",
             "id": 3,
             "bbox": [
-                371,
-                50,
-                599,
-                99
+                268,
+                365,
+                318,
+                375
             ]
         },
         {
-            "text": "July,",
+            "text": "23:45",
             "id": 4,
             "bbox": [
-                592,
-                179,
-                628,
-                192
+                326,
+                365,
+                358,
+                374
             ]
         },
         {
-            "text": "27",
+            "text": "Men's",
             "id": 5,
             "bbox": [
-                642,
-                180,
-                656,
-                190
+                223,
+                468,
+                254,
+                478
             ]
         },
         {
-            "text": "2020",
+            "text": "Wear",
             "id": 6,
             "bbox": [
-                667,
-                181,
-                698,
-                191
+                262,
+                468,
+                287,
+                478
             ]
         },
         {
-            "text": "21:12",
+            "text": "MEN",
             "id": 7,
             "bbox": [
-                709,
-                181,
-                749,
-                191
+                223,
+                485,
+                241,
+                495
             ]
         },
         {
-            "text": "990.00",
+            "text": "WEAR",
             "id": 8,
             "bbox": [
-                681,
-                588,
-                731,
-                598
+                249,
+                485,
+                273,
+                495
             ]
         },
         {
-            "text": "990.00",
+            "text": "KENZ0",
             "id": 9,
             "bbox": [
-                681,
-                479,
-                731,
-                489
+                282,
+                485,
+                313,
+                495
             ]
         },
         {
-            "text": "1",
+            "text": "SKU",
             "id": 10,
             "bbox": [
-                457,
-                578,
-                462,
-                586
+                321,
+                485,
+                339,
+                494
             ]
         },
         {
-            "text": "F8L61TG7WBYNO000:",
+            "text": "380.00",
             "id": 11,
             "bbox": [
-                169,
-                422,
-                327,
-                447
+                458,
+                483,
+                495,
+                493
             ]
         },
         {
-            "text": "009424841442",
+            "text": "900901504",
             "id": 12,
             "bbox": [
-                48,
-                420,
-                159,
-                439
+                256,
+                502,
+                313,
+                511
             ]
         },
         {
-            "text": "UL",
+            "text": "380.00",
             "id": 13,
             "bbox": [
-                558,
-                448,
-                588,
-                461
-            ]
-        },
-        {
-            "text": "S",
-            "id": 14,
-            "bbox": [
-                596,
-                451,
-                618,
-                463
+                458,
+                550,
+                496,
+                560
             ]
         }
     ],
@@ -147,32 +137,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "F8L61TG7WBYNO000:"
+                "Men's",
+                "Wear",
+                "MEN",
+                "WEAR",
+                "KENZ0",
+                "SKU"
             ],
             "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
+                5,
+                6,
+                7,
+                8,
+                9,
                 10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21:12"
-            ],
-            "value_id": [
-                7
             ]
         },
         {
@@ -180,38 +158,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July,",
-                "27",
-                "2020"
+                "16/07/20"
             ],
             "value_id": [
-                4,
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "990.00"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "UL",
-                "S"
-            ],
-            "value_id": [
-                13,
-                14
+                3
             ]
         },
         {
@@ -219,14 +169,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DOLCE",
-                "&",
-                "GABBANA"
+                "GALERIES",
+                "LAFAYETTE"
             ],
             "value_id": [
                 1,
-                2,
-                3
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "380.00"
+            ],
+            "value_id": [
+                13
             ]
         },
         {
@@ -234,10 +193,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "009424841442"
+                "900901504"
             ],
             "value_id": [
                 12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23:45"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -245,10 +215,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "990.00"
+                "380.00"
             ],
             "value_id": [
-                9
+                11
             ]
         }
     ],

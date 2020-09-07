@@ -1,86 +1,96 @@
 {
     "text_boxes": [
         {
-            "text": "abercrombie",
+            "text": "Manolo",
             "id": 1,
             "bbox": [
-                348,
-                135,
-                680,
-                197
+                298,
+                128,
+                356,
+                134
             ]
         },
         {
-            "text": "KIDS",
+            "text": "Blahnik",
             "id": 2,
             "bbox": [
-                487,
-                213,
-                540,
-                231
+                364,
+                127,
+                421,
+                134
             ]
         },
         {
-            "text": "2020-07-25",
+            "text": "11/07/20",
             "id": 3,
             "bbox": [
-                438,
-                603,
-                554,
-                622
+                387,
+                479,
+                457,
+                495
             ]
         },
         {
-            "text": "17:09",
+            "text": "18:54:01",
             "id": 4,
             "bbox": [
-                571,
-                602,
-                627,
-                619
+                387,
+                504,
+                454,
+                520
             ]
         },
         {
-            "text": "125.00",
+            "text": "1,340.00",
             "id": 5,
             "bbox": [
-                656,
-                861,
-                725,
-                878
+                505,
+                733,
+                575,
+                750
             ]
         },
         {
-            "text": "125.00",
+            "text": "3,350.00",
             "id": 6,
             "bbox": [
-                579,
-                689,
-                646,
-                705
+                528,
+                645,
+                598,
+                660
             ]
         },
         {
-            "text": "641461712",
+            "text": "1003591000001229",
             "id": 7,
             "bbox": [
-                269,
-                689,
-                374,
-                705
+                229,
+                649,
+                388,
+                664
+            ]
+        },
+        {
+            "text": "100359",
+            "id": 8,
+            "bbox": [
+                343,
+                624,
+                400,
+                639
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "time",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:09"
+                "1003591000001229"
             ],
             "value_id": [
-                4
+                7
             ]
         },
         {
@@ -88,21 +98,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2020-07-25"
+                "11/07/20"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "125.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -110,8 +109,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "abercrombie",
-                "KIDS"
+                "Manolo",
+                "Blahnik"
             ],
             "value_id": [
                 1,
@@ -119,14 +118,36 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,340.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "641461712"
+                "100359"
             ],
             "value_id": [
-                7
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:54:01"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -134,7 +155,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "125.00"
+                "3,350.00"
             ],
             "value_id": [
                 6

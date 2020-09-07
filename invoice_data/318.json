@@ -1,138 +1,244 @@
 {
     "text_boxes": [
         {
-            "text": "Enaar",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                296,
-                148,
-                333,
-                163
+                314,
+                147,
+                353,
+                161
             ]
         },
         {
-            "text": "Gift",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                345,
-                148,
-                375,
-                163
+                360,
+                144,
+                420,
+                159
             ]
         },
         {
-            "text": "Card",
+            "text": "MALLETA",
             "id": 3,
             "bbox": [
-                385,
-                146,
-                415,
-                162
+                340,
+                159,
+                376,
+                167
             ]
         },
         {
-            "text": "10/07/2020",
+            "text": "A",
             "id": 4,
             "bbox": [
-                200,
-                374,
-                279,
-                390
+                380,
+                159,
+                393,
+                165
             ]
         },
         {
-            "text": "12:28:25",
+            "text": "MASON",
             "id": 5,
             "bbox": [
-                413,
-                378,
-                475,
-                393
+                328,
+                189,
+                352,
+                194
             ]
         },
         {
-            "text": "Gift",
+            "text": "FONDE",
             "id": 6,
             "bbox": [
-                132,
-                508,
-                163,
-                520
+                354,
+                187,
+                378,
+                194
             ]
         },
         {
-            "text": "Card",
+            "text": "EN",
             "id": 7,
             "bbox": [
-                174,
-                508,
-                205,
-                520
+                380,
+                188,
+                388,
+                193
             ]
         },
         {
-            "text": "Issuance",
+            "text": "S4",
             "id": 8,
             "bbox": [
-                132,
-                546,
-                195,
-                561
+                392,
+                188,
+                404,
+                193
             ]
         },
         {
-            "text": "Fee",
+            "text": "18:40",
             "id": 9,
             "bbox": [
-                206,
-                547,
-                229,
-                561
+                600,
+                368,
+                626,
+                378
+            ]
+        },
+        {
+            "text": "3,200.00",
+            "id": 10,
+            "bbox": [
+                663,
+                581,
+                711,
+                590
+            ]
+        },
+        {
+            "text": "3,200.00",
+            "id": 11,
+            "bbox": [
+                642,
+                432,
+                691,
+                440
+            ]
+        },
+        {
+            "text": "1A64",
+            "id": 12,
+            "bbox": [
+                9,
+                426,
+                28,
+                433
+            ]
+        },
+        {
+            "text": "HO",
+            "id": 13,
+            "bbox": [
+                32,
+                426,
+                42,
+                433
+            ]
+        },
+        {
+            "text": "AILHIDGC02M385",
+            "id": 14,
+            "bbox": [
+                56,
+                423,
+                142,
+                434
+            ]
+        },
+        {
+            "text": "LOCK",
+            "id": 15,
+            "bbox": [
+                149,
+                425,
+                179,
+                437
+            ]
+        },
+        {
+            "text": "IT",
+            "id": 16,
+            "bbox": [
+                184,
+                429,
+                193,
+                435
+            ]
+        },
+        {
+            "text": "MUL",
+            "id": 17,
+            "bbox": [
+                201,
+                429,
+                220,
+                436
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 18,
+            "bbox": [
+                7,
+                436,
+                36,
+                446
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Enaar",
-                "Gift",
-                "Card"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10/07/2020"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Gift",
-                "Card",
-                "Issuance",
-                "Fee"
+                "1A64",
+                "HO",
+                "AILHIDGC02M385",
+                "LOCK",
+                "IT",
+                "MUL",
+                "SHOES"
             ],
             "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MALLETA",
+                "A",
+                "MASON",
+                "FONDE",
+                "EN",
+                "S4"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
                 6,
                 7,
-                8,
-                9
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,200.00"
+            ],
+            "value_id": [
+                10
             ]
         },
         {
@@ -140,10 +246,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:28:25"
+                "18:40"
             ],
             "value_id": [
-                5
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,200.00"
+            ],
+            "value_id": [
+                11
             ]
         }
     ],

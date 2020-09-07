@@ -4,130 +4,130 @@
             "text": "level",
             "id": 1,
             "bbox": [
-                364,
-                273,
-                422,
-                322
+                363,
+                286,
+                447,
+                339
             ]
         },
         {
-            "text": "SHDES",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                368,
-                320,
-                411,
-                331
+                378,
+                349,
+                429,
+                358
             ]
         },
         {
             "text": "Jul,",
             "id": 3,
             "bbox": [
-                472,
-                425,
-                493,
-                433
+                492,
+                459,
+                514,
+                468
             ]
         },
         {
             "text": "2020",
             "id": 4,
             "bbox": [
-                503,
-                424,
-                525,
-                432
+                520,
+                459,
+                548,
+                467
             ]
         },
         {
-            "text": "21:09",
+            "text": "17:25",
             "id": 5,
             "bbox": [
-                533,
-                425,
-                563,
-                432
+                557,
+                458,
+                586,
+                466
             ]
         },
         {
-            "text": "2,",
+            "text": "3,",
             "id": 6,
             "bbox": [
-                576,
-                664,
-                589,
-                674
+                605,
+                673,
+                613,
+                681
             ]
         },
         {
-            "text": "600.00",
+            "text": "200.00",
             "id": 7,
             "bbox": [
-                588,
-                664,
-                623,
-                674
+                618,
+                673,
+                656,
+                680
             ]
         },
         {
-            "text": "2,600.",
+            "text": "3,200.00",
             "id": 8,
             "bbox": [
-                576,
-                583,
-                617,
-                596
+                606,
+                593,
+                656,
+                603
             ]
         },
         {
-            "text": "00",
+            "text": "DIOR",
             "id": 9,
             "bbox": [
-                619,
-                582,
-                629,
-                596
-            ]
-        },
-        {
-            "text": "CHANBL",
-            "id": 10,
-            "bbox": [
-                144,
-                546,
-                181,
-                553
+                152,
+                577,
+                176,
+                583
             ]
         },
         {
             "text": "WOMENS",
-            "id": 11,
+            "id": 10,
             "bbox": [
-                188,
-                545,
-                225,
-                553
+                184,
+                576,
+                222,
+                584
             ]
         },
         {
             "text": "SHOES",
-            "id": 12,
+            "id": 11,
             "bbox": [
                 234,
-                543,
-                264,
-                555
+                576,
+                262,
+                586
             ]
         },
         {
-            "text": "Gi",
+            "text": "J",
+            "id": 12,
+            "bbox": [
+                272,
+                578,
+                295,
+                586
+            ]
+        },
+        {
+            "text": "!",
             "id": 13,
             "bbox": [
-                319,
-                545,
+                317,
+                577,
                 343,
-                551
+                586
             ]
         }
     ],
@@ -137,25 +137,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHANBL",
+                "DIOR",
                 "WOMENS",
                 "SHOES"
             ],
             "value_id": [
+                9,
                 10,
-                11,
-                12
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:09"
+                "J",
+                "!"
             ],
             "value_id": [
-                5
+                12,
+                13
             ]
         },
         {
@@ -172,36 +174,12 @@
             ]
         },
         {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,",
-                "600.00"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Gi"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
                 "level",
-                "SHDES"
+                "SHOES"
             ],
             "value_id": [
                 1,
@@ -209,16 +187,38 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,",
+                "200.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:25"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,600.",
-                "00"
+                "3,200.00"
             ],
             "value_id": [
-                8,
-                9
+                8
             ]
         }
     ],

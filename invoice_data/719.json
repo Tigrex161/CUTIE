@@ -1,143 +1,103 @@
 {
     "text_boxes": [
         {
-            "text": "KINCKUNIYA",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                240,
-                295,
-                312,
-                307
+                520,
+                347,
+                553,
+                360
             ]
         },
         {
-            "text": "BOOKSTORES",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                321,
-                295,
-                393,
-                306
+                568,
+                346,
+                603,
+                359
             ]
         },
         {
-            "text": "(S)",
+            "text": "16:39",
             "id": 3,
             "bbox": [
-                403,
-                296,
-                421,
-                308
+                616,
+                346,
+                659,
+                358
             ]
         },
         {
-            "text": "PTE",
+            "text": "1,395.00",
             "id": 4,
             "bbox": [
-                431,
-                295,
-                451,
-                306
+                699,
+                669,
+                774,
+                683
             ]
         },
         {
-            "text": "LTD",
+            "text": "1,395.00",
             "id": 5,
             "bbox": [
-                461,
-                296,
-                481,
-                307
+                699,
+                549,
+                773,
+                562
             ]
         },
         {
-            "text": "25/07/20",
+            "text": "1.",
             "id": 6,
             "bbox": [
-                295,
-                521,
-                351,
-                535
+                470,
+                555,
+                476,
+                565
             ]
         },
         {
-            "text": "12:57",
+            "text": "FENDI",
             "id": 7,
             "bbox": [
-                361,
-                521,
-                394,
-                533
+                27,
+                531,
+                72,
+                543
             ]
         },
         {
-            "text": "396.90",
+            "text": "WOMENS",
             "id": 8,
             "bbox": [
-                468,
-                704,
-                510,
-                717
+                85,
+                530,
+                141,
+                543
             ]
         },
         {
-            "text": "441.00",
+            "text": "SHOES",
             "id": 9,
             "bbox": [
-                467,
-                613,
-                509,
-                625
+                154,
+                526,
+                200,
+                543
             ]
         },
         {
-            "text": "Marketing",
+            "text": "Lisi",
             "id": 10,
             "bbox": [
-                243,
-                648,
-                309,
-                664
-            ]
-        },
-        {
-            "text": "Management",
-            "id": 11,
-            "bbox": [
-                318,
-                649,
-                385,
-                664
-            ]
-        },
-        {
-            "text": "2241292092627",
-            "id": 12,
-            "bbox": [
-                318,
-                613,
-                408,
-                625
-            ]
-        },
-        {
-            "text": "\u0643\u0644\u0627\u0628",
-            "id": 13,
-            "bbox": [
-                304,
-                631,
-                331,
-                641
-            ]
-        },
-        {
-            "text": "\u0625\u0633\u062d\u0644\u064a\u0631\u06cc",
-            "id": 14,
-            "bbox": [
-                246,
-                629,
-                293,
-                645
+                281,
+                526,
+                320,
+                542
             ]
         }
     ],
@@ -147,45 +107,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Marketing",
-                "Management"
+                "FENDI",
+                "WOMENS",
+                "SHOES"
             ],
             "value_id": [
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:57"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "25/07/20"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "396.90"
-            ],
-            "value_id": [
-                8
+                7,
+                8,
+                9
             ]
         },
         {
@@ -193,42 +122,56 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u0643\u0644\u0627\u0628",
-                "\u0625\u0633\u062d\u0644\u064a\u0631\u06cc"
+                "Lisi"
             ],
             "value_id": [
-                13,
-                14
+                10
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "KINCKUNIYA",
-                "BOOKSTORES",
-                "(S)",
-                "PTE",
-                "LTD"
+                "1."
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5
+                2
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2241292092627"
+                "1,395.00"
             ],
             "value_id": [
-                12
+                4
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:39"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -236,10 +179,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "441.00"
+                "1,395.00"
             ],
             "value_id": [
-                9
+                5
             ]
         }
     ],

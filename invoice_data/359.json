@@ -1,194 +1,142 @@
 {
     "text_boxes": [
         {
-            "text": "CHANEL",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                275,
-                304,
-                452,
-                340
+                291,
+                214,
+                346,
+                226
             ]
         },
         {
-            "text": "July",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                381,
-                391,
-                398,
-                403
+                355,
+                214,
+                416,
+                226
             ]
         },
         {
-            "text": "01,",
+            "text": "09/07/20",
             "id": 3,
             "bbox": [
-                401,
+                261,
                 392,
-                414,
-                400
+                318,
+                402
             ]
         },
         {
-            "text": "2020",
+            "text": "19:38",
             "id": 4,
             "bbox": [
-                418,
-                389,
-                440,
-                399
+                329,
+                392,
+                361,
+                402
             ]
         },
         {
-            "text": "12:36",
+            "text": "3.540.00",
             "id": 5,
             "bbox": [
-                448,
-                388,
-                471,
-                397
+                464,
+                588,
+                520,
+                602
             ]
         },
         {
-            "text": "400.00",
+            "text": "3,540",
             "id": 6,
             "bbox": [
+                461,
+                517,
                 494,
-                691,
-                527,
-                698
+                528
             ]
         },
         {
-            "text": "200.00",
+            "text": "00",
             "id": 7,
             "bbox": [
-                555,
-                532,
-                584,
-                539
+                503,
+                513,
+                516,
+                526
             ]
         },
         {
-            "text": "200.00",
+            "text": "Men's",
             "id": 8,
             "bbox": [
-                554,
-                559,
-                583,
-                567
+                215,
+                505,
+                250,
+                516
             ]
         },
         {
-            "text": "1",
+            "text": "Wear",
             "id": 9,
             "bbox": [
-                360,
-                539,
-                362,
-                544
+                259,
+                503,
+                286,
+                515
             ]
         },
         {
-            "text": "cocO",
+            "text": "MENSWEAR",
             "id": 10,
             "bbox": [
-                146,
-                539,
-                174,
-                548
+                216,
+                522,
+                272,
+                534
             ]
         },
         {
-            "text": "MADEMOISELLE",
+            "text": "CORNELIANI",
             "id": 11,
             "bbox": [
-                171,
-                539,
-                246,
-                547
+                282,
+                519,
+                351,
+                532
             ]
         },
         {
-            "text": "CocO",
+            "text": "900936614",
             "id": 12,
             "bbox": [
-                147,
-                565,
-                175,
-                576
-            ]
-        },
-        {
-            "text": "MADEMOISELLE",
-            "id": 13,
-            "bbox": [
-                177,
-                565,
-                247,
-                576
-            ]
-        },
-        {
-            "text": "116850",
-            "id": 14,
-            "bbox": [
-                143,
-                554,
-                173,
-                561
-            ]
-        },
-        {
-            "text": "116850",
-            "id": 15,
-            "bbox": [
-                142,
-                580,
-                173,
-                588
+                254,
+                539,
+                317,
+                553
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "cocO",
-                "MADEMOISELLE",
-                "CocO",
-                "MADEMOISELLE"
+                "Men's",
+                "Wear",
+                "MENSWEAR",
+                "CORNELIANI"
             ],
             "value_id": [
+                8,
+                9,
                 10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:36"
-            ],
-            "value_id": [
-                5
+                11
             ]
         },
         {
@@ -196,25 +144,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "01,",
-                "2020"
+                "09/07/20"
             ],
             "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "400.00"
-            ],
-            "value_id": [
-                6
+                3
             ]
         },
         {
@@ -222,10 +155,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHANEL"
+                "GALERIES",
+                "LAFAYETTE"
             ],
             "value_id": [
-                1
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3.540.00"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -233,12 +179,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "116850",
-                "116850"
+                "900936614"
             ],
             "value_id": [
-                14,
-                15
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:38"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -246,12 +201,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "200.00",
-                "200.00"
+                "3,540",
+                "00"
             ],
             "value_id": [
-                7,
-                8
+                6,
+                7
             ]
         }
     ],

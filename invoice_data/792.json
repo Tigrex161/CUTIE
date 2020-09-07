@@ -1,186 +1,165 @@
 {
     "text_boxes": [
         {
-            "text": "SEPHORA",
+            "text": "July,",
             "id": 1,
             "bbox": [
-                252,
-                210,
-                331,
-                234
+                548,
+                200,
+                579,
+                212
             ]
         },
         {
-            "text": "DUBAI",
+            "text": "16",
             "id": 2,
             "bbox": [
-                343,
-                212,
-                398,
-                236
+                592,
+                200,
+                604,
+                208
             ]
         },
         {
-            "text": "MALL",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                411,
-                215,
-                455,
-                237
+                612,
+                199,
+                639,
+                209
             ]
         },
         {
-            "text": "28,2020",
+            "text": "17:09",
             "id": 4,
             "bbox": [
-                347,
-                1405,
-                425,
-                1425
+                649,
+                197,
+                682,
+                208
             ]
         },
         {
-            "text": "11:31:50",
+            "text": "\"26.00",
             "id": 5,
             "bbox": [
-                440,
-                1411,
-                525,
-                1429
+                627,
+                546,
+                669,
+                558
             ]
         },
         {
-            "text": "1000.00",
+            "text": "726.00",
             "id": 6,
             "bbox": [
-                396,
-                1134,
-                545,
-                1160
+                627,
+                454,
+                669,
+                466
             ]
         },
         {
-            "text": "1000.00",
+            "text": "MIR-785T-A00952-49:",
             "id": 7,
             "bbox": [
-                483,
-                818,
-                556,
-                840
+                217,
+                437,
+                351,
+                451
             ]
         },
         {
-            "text": "1",
+            "text": "PSM.",
             "id": 8,
             "bbox": [
-                258,
-                811,
-                263,
-                828
+                353,
+                438,
+                377,
+                449
             ]
         },
         {
-            "text": "SEPHORA",
+            "text": "49:XXL:GENTS",
             "id": 9,
             "bbox": [
-                291,
-                732,
-                367,
-                754
+                379,
+                436,
+                459,
+                449
             ]
         },
         {
-            "text": "GIFT",
+            "text": "PULLOVER",
             "id": 10,
             "bbox": [
-                378,
-                735,
-                420,
-                756
+                466,
+                437,
+                520,
+                447
             ]
         },
         {
-            "text": "CARD",
+            "text": "ZIP",
             "id": 11,
             "bbox": [
-                432,
-                737,
-                474,
-                757
+                528,
+                438,
+                548,
+                446
             ]
         },
         {
-            "text": "UAE",
+            "text": "is",
             "id": 12,
             "bbox": [
-                485,
-                739,
-                517,
-                758
+                592,
+                438,
+                620,
+                445
             ]
         },
         {
-            "text": "NEW",
+            "text": "025924865690",
             "id": 13,
             "bbox": [
-                529,
-                742,
-                560,
-                761
-            ]
-        },
-        {
-            "text": "105414256895",
-            "id": 14,
-            "bbox": [
-                107,
-                725,
-                236,
-                749
+                122,
+                440,
+                206,
+                450
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SEPHORA",
-                "GIFT",
-                "CARD",
-                "UAE",
-                "NEW"
+                "MIR-785T-A00952-49:",
+                "PSM.",
+                "49:XXL:GENTS",
+                "PULLOVER",
+                "ZIP"
             ],
             "value_id": [
+                7,
+                8,
                 9,
                 10,
-                11,
-                12,
-                13
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:31:50"
+                "is"
             ],
             "value_id": [
-                5
+                12
             ]
         },
         {
@@ -188,31 +167,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "28,2020"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1000.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SEPHORA",
-                "DUBAI",
-                "MALL"
+                "July,",
+                "16",
+                "2020"
             ],
             "value_id": [
                 1,
@@ -221,14 +178,36 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\"26.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "105414256895"
+                "025924865690"
             ],
             "value_id": [
-                14
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:09"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -236,10 +215,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1000.00"
+                "726.00"
             ],
             "value_id": [
-                7
+                6
             ]
         }
     ],

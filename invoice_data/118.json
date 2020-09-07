@@ -1,160 +1,88 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "02-Jul-2020",
             "id": 1,
             "bbox": [
-                473,
-                221,
-                501,
-                233
+                150,
+                341,
+                257,
+                360
             ]
         },
         {
-            "text": "2020",
+            "text": "6:23:07",
             "id": 2,
             "bbox": [
-                513,
-                217,
-                545,
-                230
+                324,
+                344,
+                388,
+                362
             ]
         },
         {
-            "text": "21:13",
+            "text": "PM",
             "id": 3,
             "bbox": [
-                554,
-                216,
-                596,
-                229
+                399,
+                347,
+                417,
+                362
             ]
         },
         {
-            "text": "700.00",
+            "text": "145.00",
             "id": 4,
             "bbox": [
-                603,
-                497,
-                647,
-                506
+                471,
+                688,
+                524,
+                703
             ]
         },
         {
-            "text": "700.00",
+            "text": "145.00",
             "id": 5,
             "bbox": [
-                621,
-                408,
-                669,
-                416
+                467,
+                536,
+                521,
+                554
             ]
         },
         {
-            "text": "1",
+            "text": "HAT",
             "id": 6,
             "bbox": [
-                415,
-                405,
-                419,
-                413
+                154,
+                541,
+                181,
+                557
             ]
         },
         {
-            "text": "FS215AGDU72HP1VT:DGA.",
+            "text": "BASEBALL",
             "id": 7,
             "bbox": [
-                69,
-                372,
-                228,
-                387
-            ]
-        },
-        {
-            "text": "HP1VT:",
-            "id": 8,
-            "bbox": [
-                232,
-                375,
-                274,
-                386
-            ]
-        },
-        {
-            "text": "009424884111",
-            "id": 9,
-            "bbox": [
-                69,
-                398,
-                159,
-                408
-            ]
-        },
-        {
-            "text": "LA,",
-            "id": 10,
-            "bbox": [
-                361,
-                380,
-                385,
-                391
-            ]
-        },
-        {
-            "text": "hi",
-            "id": 11,
-            "bbox": [
-                396,
-                380,
-                420,
-                392
-            ]
-        },
-        {
-            "text": "i",
-            "id": 12,
-            "bbox": [
-                423,
-                378,
-                429,
-                391
+                193,
+                542,
+                264,
+                559
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FS215AGDU72HP1VT:DGA.",
-                "HP1VT:"
+                "HAT",
+                "BASEBALL"
             ],
             "value_id": [
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21:13"
-            ],
-            "value_id": [
-                3
+                6,
+                7
             ]
         },
         {
@@ -162,12 +90,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "02-Jul-2020"
             ],
             "value_id": [
-                1,
-                2
+                1
             ]
         },
         {
@@ -175,36 +101,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "700.00"
+                "145.00"
             ],
             "value_id": [
                 4
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LA,",
-                "hi",
-                "i"
+                "6:23:07",
+                "PM"
             ],
             "value_id": [
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "009424884111"
-            ],
-            "value_id": [
-                9
+                2,
+                3
             ]
         },
         {
@@ -212,7 +125,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "700.00"
+                "145.00"
             ],
             "value_id": [
                 5

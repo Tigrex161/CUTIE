@@ -1,154 +1,110 @@
 {
     "text_boxes": [
         {
-            "text": "MEDICLINIC",
+            "text": "UTERQ\u00dcE",
             "id": 1,
             "bbox": [
-                473,
-                249,
-                591,
-                261
+                256,
+                52,
+                521,
+                93
             ]
         },
         {
-            "text": "10/07/2020",
+            "text": "11-07-2828",
             "id": 2,
             "bbox": [
-                152,
-                469,
-                190,
-                475
+                153,
+                386,
+                262,
+                404
             ]
         },
         {
-            "text": "03:54:21",
+            "text": "12:57",
             "id": 3,
             "bbox": [
-                193,
-                468,
-                223,
-                475
+                277,
+                391,
+                328,
+                407
             ]
         },
         {
-            "text": "PM",
+            "text": "529",
             "id": 4,
             "bbox": [
-                226,
-                468,
-                235,
-                474
+                521,
+                701,
+                553,
+                716
             ]
         },
         {
-            "text": "265.00",
+            "text": "529",
             "id": 5,
             "bbox": [
-                615,
-                617,
-                641,
-                626
+                521,
+                499,
+                552,
+                511
             ]
         },
         {
-            "text": "265.00",
+            "text": "1533358012939",
             "id": 6,
             "bbox": [
-                618,
-                533,
-                642,
-                539
+                264,
+                527,
+                402,
+                547
             ]
         },
         {
-            "text": "L00",
+            "text": "FLAT",
             "id": 7,
             "bbox": [
-                399,
-                534,
-                413,
+                428,
+                525,
+                471,
                 541
             ]
         },
         {
-            "text": "SARS",
+            "text": "SHOES",
             "id": 8,
             "bbox": [
-                147,
-                534,
-                163,
+                486,
+                526,
+                540,
                 540
             ]
         },
         {
-            "text": "Cov-2",
+            "text": "18801065",
             "id": 9,
             "bbox": [
-                167,
-                534,
-                186,
-                540
-            ]
-        },
-        {
-            "text": "lyG",
-            "id": 10,
-            "bbox": [
-                190,
-                534,
-                201,
+                147,
+                523,
+                237,
                 541
-            ]
-        },
-        {
-            "text": "56760",
-            "id": 11,
-            "bbox": [
-                113,
-                534,
-                133,
-                540
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "L00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SARS",
-                "Cov-2",
-                "lyG"
+                "1533358012939",
+                "FLAT",
+                "SHOES"
             ],
             "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "03:54:21",
-                "PM"
-            ],
-            "value_id": [
-                3,
-                4
+                6,
+                7,
+                8
             ]
         },
         {
@@ -156,21 +112,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10/07/2020"
+                "11-07-2828"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "265.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -178,10 +123,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MEDICLINIC"
+                "UTERQ\u00dcE"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "529"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -189,10 +145,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "56760"
+                "18801065"
             ],
             "value_id": [
-                11
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:57"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -200,10 +167,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "265.00"
+                "529"
             ],
             "value_id": [
-                6
+                5
             ]
         }
     ],

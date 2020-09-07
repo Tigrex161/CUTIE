@@ -1,130 +1,165 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "July,",
             "id": 1,
             "bbox": [
-                318,
-                236,
-                466,
-                279
+                537,
+                208,
+                566,
+                219
             ]
         },
         {
-            "text": "07/07/2020",
+            "text": "11",
             "id": 2,
             "bbox": [
-                103,
-                496,
-                145,
-                505
+                577,
+                211,
+                587,
+                218
             ]
         },
         {
-            "text": "13:54",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                155,
-                498,
-                174,
-                505
+                596,
+                211,
+                620,
+                220
             ]
         },
         {
-            "text": "16.300.00",
+            "text": "14:56",
             "id": 4,
             "bbox": [
-                587,
-                626,
-                623,
-                632
+                629,
+                212,
+                658,
+                221
             ]
         },
         {
-            "text": "15,300,00",
+            "text": "282.00",
             "id": 5,
             "bbox": [
-                610,
-                571,
-                647,
-                579
+                598,
+                530,
+                635,
+                540
             ]
         },
         {
-            "text": "1.",
+            "text": "282.00",
             "id": 6,
             "bbox": [
-                381,
-                575,
-                382,
-                581
+                606,
+                449,
+                643,
+                457
             ]
         },
         {
-            "text": "De",
+            "text": "C97248-440:COE.440:03M:",
             "id": 7,
             "bbox": [
-                240,
-                576,
-                249,
-                581
+                220,
+                420,
+                370,
+                435
             ]
         },
         {
-            "text": "posit",
+            "text": "PYJAMAS",
             "id": 8,
             "bbox": [
-                251,
-                577,
-                268,
-                583
+                372,
+                423,
+                416,
+                436
             ]
         },
         {
-            "text": "AED",
+            "text": "006824865848",
             "id": 9,
             "bbox": [
-                271,
-                575,
-                289,
-                581
+                130,
+                421,
+                209,
+                432
             ]
         },
         {
-            "text": "B09",
+            "text": "e",
             "id": 10,
             "bbox": [
-                104,
-                576,
-                118,
-                581
+                464,
+                427,
+                482,
+                436
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "De",
-                "posit",
-                "AED"
+                "C97248-440:COE.440:03M:",
+                "PYJAMAS"
             ],
             "value_id": [
                 7,
-                8,
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "e"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July,",
+                "11",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "282.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "006824865848"
+            ],
+            "value_id": [
                 9
             ]
         },
@@ -133,54 +168,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13:54"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "07/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16.300.00"
+                "14:56"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DIOR"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "B09"
-            ],
-            "value_id": [
-                10
             ]
         },
         {
@@ -188,10 +179,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15,300,00"
+                "282.00"
             ],
             "value_id": [
-                5
+                6
             ]
         }
     ],

@@ -1,227 +1,176 @@
 {
     "text_boxes": [
         {
-            "text": "MAKE",
+            "text": "Super-Care",
             "id": 1,
             "bbox": [
-                324,
-                186,
-                383,
-                202
+                208,
+                45,
+                461,
+                121
             ]
         },
         {
-            "text": "UP",
+            "text": "PHARMACY",
             "id": 2,
             "bbox": [
-                393,
-                186,
-                417,
-                201
+                274,
+                112,
+                370,
+                132
             ]
         },
         {
-            "text": ":",
+            "text": "25/07/2020",
             "id": 3,
             "bbox": [
-                428,
-                186,
-                432,
-                200
+                191,
+                533,
+                268,
+                552
             ]
         },
         {
-            "text": "FOR",
+            "text": "12:56",
             "id": 4,
             "bbox": [
-                322,
-                204,
-                365,
-                227
+                280,
+                531,
+                317,
+                548
             ]
         },
         {
-            "text": "EVER",
+            "text": "206.50",
             "id": 5,
             "bbox": [
-                371,
-                204,
-                417,
-                227
+                507,
+                1084,
+                576,
+                1100
             ]
         },
         {
-            "text": "PROFESSIONAL",
+            "text": "206.50",
             "id": 6,
             "bbox": [
-                323,
-                236,
-                417,
-                242
+                532,
+                966,
+                582,
+                980
             ]
         },
         {
-            "text": "-",
+            "text": "1.00",
             "id": 7,
             "bbox": [
-                428,
-                239,
-                432,
-                242
+                90,
+                951,
+                117,
+                967
             ]
         },
         {
-            "text": "23-Jul-2020",
+            "text": "1",
             "id": 8,
             "bbox": [
-                331,
-                407,
-                384,
-                416
+                339,
+                1109,
+                348,
+                1125
             ]
         },
         {
-            "text": "14:10",
+            "text": "00",
             "id": 9,
             "bbox": [
-                392,
-                407,
-                415,
-                416
+                350,
+                1109,
+                359,
+                1125
             ]
         },
         {
-            "text": "120.00",
+            "text": "EXFORGE",
             "id": 10,
             "bbox": [
-                469,
-                708,
-                497,
-                717
+                92,
+                921,
+                177,
+                938
             ]
         },
         {
-            "text": "120.00",
+            "text": "5/160MG",
             "id": 11,
             "bbox": [
-                487,
-                609,
-                515,
-                618
+                185,
+                922,
+                256,
+                941
             ]
         },
         {
-            "text": "MO00070618:SUPER",
+            "text": "TAB",
             "id": 12,
             "bbox": [
-                237,
-                576,
-                315,
-                587
+                262,
+                923,
+                299,
+                941
             ]
         },
         {
-            "text": "MAT",
+            "text": "28S",
             "id": 13,
             "bbox": [
-                322,
-                578,
-                335,
-                586
-            ]
-        },
-        {
-            "text": "LOOSE",
-            "id": 14,
-            "bbox": [
-                342,
-                577,
-                365,
-                586
-            ]
-        },
-        {
-            "text": "POWDER",
-            "id": 15,
-            "bbox": [
-                371,
-                576,
-                400,
-                586
-            ]
-        },
-        {
-            "text": "10G",
-            "id": 16,
-            "bbox": [
-                407,
-                577,
-                420,
-                585
-            ]
-        },
-        {
-            "text": "18",
-            "id": 17,
-            "bbox": [
-                427,
-                577,
-                435,
-                585
-            ]
-        },
-        {
-            "text": "021710054173",
-            "id": 18,
-            "bbox": [
-                237,
-                560,
-                295,
-                570
-            ]
-        },
-        {
-            "text": "\u064a\u0648\u062a\u0631\u0629",
-            "id": 19,
-            "bbox": [
-                266,
-                596,
-                286,
-                604
+                307,
+                924,
+                337,
+                942
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "00"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MO00070618:SUPER",
-                "MAT",
-                "LOOSE",
-                "POWDER",
-                "10G",
-                "18"
+                "EXFORGE",
+                "5/160MG",
+                "TAB",
+                "28S"
             ],
             "value_id": [
+                10,
+                11,
                 12,
-                13,
-                14,
-                15,
-                16,
-                17
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14:10"
+                "1.00"
             ],
             "value_id": [
-                9
+                7
             ]
         },
         {
@@ -229,32 +178,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "23-Jul-2020"
+                "25/07/2020"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "120.00"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u064a\u0648\u062a\u0631\u0629"
-            ],
-            "value_id": [
-                19
+                3
             ]
         },
         {
@@ -262,33 +189,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MAKE",
-                "UP",
-                ":",
-                "FOR",
-                "EVER",
-                "PROFESSIONAL",
-                "-"
+                "Super-Care",
+                "PHARMACY"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7
+                2
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "021710054173"
+                "206.50"
             ],
             "value_id": [
-                18
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:56"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -296,10 +224,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "120.00"
+                "206.50"
             ],
             "value_id": [
-                11
+                6
             ]
         }
     ],

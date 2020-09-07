@@ -1,128 +1,63 @@
 {
     "text_boxes": [
         {
-            "text": "14-07-2020",
+            "text": "Apele",
             "id": 1,
             "bbox": [
-                214,
-                397,
-                285,
-                410
+                434,
+                244,
+                560,
+                289
             ]
         },
         {
-            "text": "18:40",
+            "text": "05",
             "id": 2,
             "bbox": [
-                296,
-                402,
-                329,
-                413
+                135,
+                476,
+                143,
+                483
             ]
         },
         {
-            "text": "169",
+            "text": "kuly",
             "id": 3,
             "bbox": [
-                445,
-                531,
-                462,
-                539
+                148,
+                476,
+                160,
+                484
             ]
         },
         {
-            "text": "169",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                449,
-                478,
-                467,
-                486
+                164,
+                477,
+                182,
+                484
             ]
         },
         {
-            "text": "1",
+            "text": "4700.00",
             "id": 5,
             "bbox": [
-                303,
-                474,
-                306,
-                482
-            ]
-        },
-        {
-            "text": "0851415233003",
-            "id": 6,
-            "bbox": [
-                288,
-                490,
-                375,
-                502
-            ]
-        },
-        {
-            "text": "SHIRT",
-            "id": 7,
-            "bbox": [
-                392,
-                494,
-                423,
-                504
-            ]
-        },
-        {
-            "text": "10001039",
-            "id": 8,
-            "bbox": [
-                219,
-                489,
-                271,
-                499
+                668,
+                742,
+                700,
+                748
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "0851415233003",
-                "SHIRT"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18:40"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14-07-2020"
+                "Apele"
             ],
             "value_id": [
                 1
@@ -133,31 +68,24 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "169"
+                "4700.00"
             ],
             "value_id": [
-                3
+                5
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001039"
+                "05",
+                "kuly",
+                "2020"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "169"
-            ],
-            "value_id": [
+                2,
+                3,
                 4
             ]
         }

@@ -1,101 +1,137 @@
 {
     "text_boxes": [
         {
-            "text": "803364643551",
+            "text": "Emax",
             "id": 1,
             "bbox": [
-                198,
-                565,
-                274,
-                581
+                538,
+                245,
+                725,
+                300
             ]
         },
         {
-            "text": "ud",
+            "text": "17-Jul-2020",
             "id": 2,
             "bbox": [
-                455,
-                581,
-                474,
-                592
+                241,
+                386,
+                283,
+                399
             ]
         },
         {
-            "text": "daI",
+            "text": "828.01PM",
             "id": 3,
             "bbox": [
-                483,
-                580,
-                511,
-                590
+                301,
+                392,
+                346,
+                399
             ]
         },
         {
-            "text": "1",
+            "text": "MONMO",
             "id": 4,
             "bbox": [
-                313,
-                626,
-                315,
-                637
+                191,
+                621,
+                213,
+                630
             ]
         },
         {
-            "text": "179.00",
+            "text": "BRAU",
             "id": 5,
             "bbox": [
-                530,
-                791,
-                567,
-                805
+                218,
+                621,
+                234,
+                630
+            ]
+        },
+        {
+            "text": "VEN",
+            "id": 6,
+            "bbox": [
+                268,
+                631,
+                274,
+                640
+            ]
+        },
+        {
+            "text": "O",
+            "id": 7,
+            "bbox": [
+                279,
+                632,
+                288,
+                640
+            ]
+        },
+        {
+            "text": "UN",
+            "id": 8,
+            "bbox": [
+                290,
+                630,
+                302,
+                640
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "179.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "803364643551"
+                "Emax"
             ],
             "value_id": [
                 1
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ud",
-                "daI"
+                "828.01PM"
             ],
             "value_id": [
-                2,
                 3
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "MONMO",
+                "BRAU",
+                "VEN",
+                "O",
+                "UN"
             ],
             "value_id": [
-                4
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17-Jul-2020"
+            ],
+            "value_id": [
+                2
             ]
         }
     ],

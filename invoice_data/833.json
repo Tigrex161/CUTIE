@@ -1,63 +1,163 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                331,
-                360,
-                508,
-                415
+                627,
+                493,
+                665,
+                506
             ]
         },
         {
-            "text": "4200.00",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                653,
-                804,
-                693,
-                814
+                684,
+                493,
+                726,
+                505
             ]
         },
         {
-            "text": "4,000,00",
+            "text": "15:24",
             "id": 3,
             "bbox": [
-                684,
-                743,
-                724,
-                750
+                742,
+                494,
+                793,
+                506
             ]
         },
         {
-            "text": "Women",
+            "text": "5,",
             "id": 4,
             "bbox": [
-                234,
-                737,
-                268,
-                745
+                825,
+                957,
+                841,
+                972
             ]
         },
         {
-            "text": "Shoes",
+            "text": "184.00",
             "id": 5,
             "bbox": [
-                272,
-                737,
-                299,
-                745
+                849,
+                957,
+                919,
+                971
             ]
         },
         {
-            "text": "KCPR38LMS",
+            "text": "2,640.00",
             "id": 6,
             "bbox": [
-                73,
-                734,
-                131,
-                745
+                830,
+                738,
+                920,
+                754
+            ]
+        },
+        {
+            "text": "2,544.00",
+            "id": 7,
+            "bbox": [
+                833,
+                810,
+                925,
+                825
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                550,
+                808,
+                556,
+                820
+            ]
+        },
+        {
+            "text": "CHANEL",
+            "id": 9,
+            "bbox": [
+                19,
+                705,
+                86,
+                717
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 10,
+            "bbox": [
+                99,
+                704,
+                166,
+                717
+            ]
+        },
+        {
+            "text": "CHANEL",
+            "id": 11,
+            "bbox": [
+                12,
+                774,
+                80,
+                785
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 12,
+            "bbox": [
+                93,
+                774,
+                162,
+                786
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 13,
+            "bbox": [
+                176,
+                771,
+                231,
+                789
+            ]
+        },
+        {
+            "text": "Li",
+            "id": 14,
+            "bbox": [
+                295,
+                703,
+                323,
+                720
+            ]
+        },
+        {
+            "text": "i",
+            "id": 15,
+            "bbox": [
+                334,
+                703,
+                377,
+                720
+            ]
+        },
+        {
+            "text": "wUis",
+            "id": 16,
+            "bbox": [
+                293,
+                771,
+                380,
+                789
             ]
         }
     ],
@@ -67,12 +167,57 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Women",
-                "Shoes"
+                "CHANEL",
+                "WOMENS",
+                "CHANEL",
+                "WOMENS",
+                "SHOES"
             ],
             "value_id": [
-                4,
-                5
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Li",
+                "i",
+                "wUis"
+            ],
+            "value_id": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2
             ]
         },
         {
@@ -80,32 +225,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4200.00"
+                "5,",
+                "184.00"
             ],
             "value_id": [
-                2
+                4,
+                5
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR"
+                "15:24"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "KCPR38LMS"
-            ],
-            "value_id": [
-                6
+                3
             ]
         },
         {
@@ -113,10 +249,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4,000,00"
+                "2,640.00",
+                "2,544.00"
             ],
             "value_id": [
-                3
+                6,
+                7
             ]
         }
     ],

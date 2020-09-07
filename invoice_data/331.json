@@ -1,163 +1,163 @@
 {
     "text_boxes": [
         {
-            "text": "Sahvavtre.",
+            "text": "MARIA",
             "id": 1,
             "bbox": [
-                223,
-                231,
-                340,
-                269
+                258,
+                171,
+                376,
+                205
             ]
         },
         {
-            "text": "Ferragamo",
+            "text": "TASH",
             "id": 2,
             "bbox": [
-                342,
-                231,
-                498,
-                283
+                392,
+                164,
+                488,
+                201
             ]
         },
         {
-            "text": "July,",
+            "text": "3",
             "id": 3,
             "bbox": [
-                502,
-                334,
-                529,
-                343
+                580,
+                295,
+                583,
+                302
             ]
         },
         {
-            "text": "11",
+            "text": "34",
             "id": 4,
             "bbox": [
-                541,
-                335,
-                550,
-                342
+                587,
+                294,
+                595,
+                301
             ]
         },
         {
-            "text": "2020",
+            "text": "1,225.00",
             "id": 5,
             "bbox": [
-                559,
-                333,
-                583,
-                341
+                627,
+                522,
+                658,
+                531
             ]
         },
         {
-            "text": "15:01",
+            "text": "1,150",
             "id": 6,
             "bbox": [
-                592,
-                333,
-                620,
-                342
+                628,
+                409,
+                647,
+                419
             ]
         },
         {
-            "text": "830.00",
+            "text": "00",
             "id": 7,
             "bbox": [
-                566,
-                640,
-                602,
-                647
+                650,
+                409,
+                659,
+                417
             ]
         },
         {
-            "text": "830.",
+            "text": "75.00",
             "id": 8,
             "bbox": [
-                568,
-                560,
-                590,
-                567
+                639,
+                478,
+                659,
+                487
             ]
         },
         {
-            "text": "00:",
+            "text": "Diamond",
             "id": 9,
             "bbox": [
-                593,
-                560,
-                607,
-                567
+                193,
+                427,
+                225,
+                435
             ]
         },
         {
-            "text": "120524-716936:",
+            "text": "Baguette",
             "id": 10,
             "bbox": [
-                206,
-                537,
-                292,
-                549
+                229,
+                425,
+                261,
+                435
             ]
         },
         {
-            "text": "SFO.716936:M:",
+            "text": "Threaded",
             "id": 11,
             "bbox": [
-                294,
-                537,
-                368,
-                549
+                264,
+                422,
+                298,
+                431
             ]
         },
         {
-            "text": "SHORT",
+            "text": "Stud",
             "id": 12,
             "bbox": [
-                369,
-                541,
-                398,
-                548
+                302,
+                421,
+                318,
+                430
             ]
         },
         {
-            "text": "SLEEVES",
+            "text": "Earlobe",
             "id": 13,
             "bbox": [
-                406,
-                541,
-                447,
-                548
+                198,
+                498,
+                225,
+                507
             ]
         },
         {
-            "text": "s",
+            "text": "Install",
             "id": 14,
             "bbox": [
-                520,
-                542,
-                529,
-                550
+                229,
+                497,
+                249,
+                505
             ]
         },
         {
-            "text": "i",
+            "text": "XBAD",
             "id": 15,
             "bbox": [
-                574,
-                539,
-                580,
-                550
+                141,
+                430,
+                162,
+                438
             ]
         },
         {
-            "text": "028524623213",
+            "text": "LOBEINSTALL",
             "id": 16,
             "bbox": [
-                122,
-                539,
-                195,
-                546
+                130,
+                499,
+                185,
+                510
             ]
         }
     ],
@@ -167,66 +167,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "120524-716936:",
-                "SFO.716936:M:",
-                "SHORT",
-                "SLEEVES"
+                "Diamond",
+                "Baguette",
+                "Threaded",
+                "Stud",
+                "Earlobe",
+                "Install"
             ],
             "value_id": [
+                9,
                 10,
                 11,
                 12,
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15:01"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "11",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "830.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "s",
-                "i"
-            ],
-            "value_id": [
-                14,
-                15
+                13,
+                14
             ]
         },
         {
@@ -234,8 +188,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Sahvavtre.",
-                "Ferragamo"
+                "MARIA",
+                "TASH"
             ],
             "value_id": [
                 1,
@@ -243,14 +197,40 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,225.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "028524623213"
+                "XBAD",
+                "LOBEINSTALL"
             ],
             "value_id": [
+                15,
                 16
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3",
+                "34"
+            ],
+            "value_id": [
+                3,
+                4
             ]
         },
         {
@@ -258,12 +238,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "830.",
-                "00:"
+                "1,150",
+                "00",
+                "75.00"
             ],
             "value_id": [
-                8,
-                9
+                6,
+                7,
+                8
             ]
         }
     ],

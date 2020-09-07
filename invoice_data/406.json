@@ -1,131 +1,193 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                1374,
-                966,
-                1454,
-                1006
+                311,
+                252,
+                399,
+                277
             ]
         },
         {
-            "text": "2020",
+            "text": "KIDS",
             "id": 2,
             "bbox": [
-                1490,
-                964,
-                1580,
-                1001
+                373,
+                283,
+                399,
+                292
             ]
         },
         {
-            "text": "17153",
+            "text": "6/30",
             "id": 3,
             "bbox": [
-                1608,
-                958,
-                1716,
-                998
+                116,
+                268,
+                138,
+                275
             ]
         },
         {
-            "text": "950.00",
+            "text": "2000",
             "id": 4,
             "bbox": [
-                1780,
-                1737,
-                1905,
-                1770
+                140,
+                268,
+                159,
+                275
             ]
         },
         {
-            "text": "950.00",
+            "text": "327",
             "id": 5,
             "bbox": [
-                1798,
-                1454,
-                1925,
-                1489
+                167,
+                267,
+                183,
+                274
             ]
         },
         {
-            "text": "FENU",
+            "text": "45",
             "id": 6,
             "bbox": [
-                238,
-                1400,
-                336,
-                1440
+                185,
+                268,
+                194,
+                274
             ]
         },
         {
-            "text": "OTHS:",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                352,
-                1399,
-                463,
-                1440
+                197,
+                267,
+                210,
+                273
             ]
         },
         {
-            "text": "FFENDI",
+            "text": "2390.00",
             "id": 8,
             "bbox": [
-                465,
-                1398,
-                576,
-                1439
+                659,
+                662,
+                695,
+                669
             ]
         },
         {
-            "text": "S",
+            "text": "2276",
             "id": 9,
             "bbox": [
-                798,
-                1397,
-                876,
-                1436
+                659,
+                491,
+                681,
+                499
             ]
         },
         {
-            "text": "Llals",
+            "text": "19",
             "id": 10,
             "bbox": [
-                901,
-                1402,
-                1046,
-                1430
+                683,
+                492,
+                692,
+                499
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                504,
+                540,
+                507,
+                546
+            ]
+        },
+        {
+            "text": "736093",
+            "id": 12,
+            "bbox": [
+                18,
+                499,
+                48,
+                506
+            ]
+        },
+        {
+            "text": "GRL",
+            "id": 13,
+            "bbox": [
+                181,
+                494,
+                204,
+                504
+            ]
+        },
+        {
+            "text": "POPELINE",
+            "id": 14,
+            "bbox": [
+                208,
+                492,
+                255,
+                504
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 15,
+            "bbox": [
+                254,
+                493,
+                287,
+                502
+            ]
+        },
+        {
+            "text": "PINK-MULTICOLOR",
+            "id": 16,
+            "bbox": [
+                296,
+                491,
+                382,
+                501
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FENU",
-                "OTHS:",
-                "FFENDI"
+                "GRL",
+                "POPELINE",
+                "DRESS",
+                "PINK-MULTICOLOR"
             ],
             "value_id": [
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17153"
-            ],
-            "value_id": [
-                3
+                13,
+                14,
+                15,
+                16
             ]
         },
         {
@@ -133,8 +195,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "6/30",
+                "2000"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "KIDS"
             ],
             "value_id": [
                 1,
@@ -146,23 +221,36 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "950.00"
+                "2390.00"
             ],
             "value_id": [
-                4
+                8
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "S",
-                "Llals"
+                "736093"
             ],
             "value_id": [
-                9,
-                10
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "327",
+                "45",
+                "PM"
+            ],
+            "value_id": [
+                5,
+                6,
+                7
             ]
         },
         {
@@ -170,10 +258,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "950.00"
+                "2276",
+                "19"
             ],
             "value_id": [
-                5
+                9,
+                10
             ]
         }
     ],

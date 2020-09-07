@@ -1,141 +1,180 @@
 {
     "text_boxes": [
         {
-            "text": "GIVENCHY",
+            "text": "HERMES",
             "id": 1,
             "bbox": [
-                178,
-                16,
-                418,
-                42
+                121,
+                158,
+                252,
+                185
             ]
         },
         {
-            "text": "07/03/2020",
+            "text": "07/10/2020",
             "id": 2,
             "bbox": [
-                292,
-                190,
-                352,
-                199
+                440,
+                214,
+                495,
+                225
             ]
         },
         {
-            "text": "5,500.00",
+            "text": "01:04",
             "id": 3,
             "bbox": [
-                606,
-                859,
-                662,
-                873
+                445,
+                232,
+                468,
+                244
             ]
         },
         {
-            "text": "2,900.00",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                737,
-                426,
-                782,
-                435
+                473,
+                233,
+                486,
+                243
             ]
         },
         {
-            "text": "2,600.00",
+            "text": "Twilly",
             "id": 5,
             "bbox": [
-                733,
-                474,
-                778,
-                483
+                146,
+                414,
+                171,
+                425
             ]
         },
         {
-            "text": "1",
+            "text": "d'Hemes",
             "id": 6,
             "bbox": [
-                680,
-                426,
-                684,
-                433
+                177,
+                415,
+                222,
+                424
             ]
         },
         {
-            "text": "1",
+            "text": "Eau",
             "id": 7,
             "bbox": [
-                678,
-                474,
-                681,
-                481
+                226,
+                416,
+                243,
+                424
             ]
         },
         {
-            "text": "SNEAKERS",
+            "text": "Poivr\u00e9e",
             "id": 8,
             "bbox": [
-                330,
-                404,
-                383,
-                414
+                248,
+                416,
+                282,
+                426
             ]
         },
         {
-            "text": "T-SHIRT/POLO",
+            "text": "Eau",
             "id": 9,
             "bbox": [
-                322,
-                452,
-                391,
-                461
+                287,
+                416,
+                304,
+                425
             ]
         },
         {
-            "text": "BH003MHONJ",
+            "text": "de",
             "id": 10,
             "bbox": [
-                55,
-                422,
-                129,
-                431
+                309,
+                419,
+                319,
+                426
             ]
         },
         {
-            "text": "BM7ORV3Y41",
+            "text": "85ml",
             "id": 11,
             "bbox": [
-                57,
-                470,
-                129,
-                478
+                385,
+                418,
+                406,
+                424
+            ]
+        },
+        {
+            "text": "EL2",
+            "id": 12,
+            "bbox": [
+                411,
+                416,
+                427,
+                423
+            ]
+        },
+        {
+            "text": "V101676VO",
+            "id": 13,
+            "bbox": [
+                72,
+                413,
+                128,
+                423
+            ]
+        },
+        {
+            "text": "610.00",
+            "id": 14,
+            "bbox": [
+                584,
+                408,
+                616,
+                417
+            ]
+        },
+        {
+            "text": "610.00",
+            "id": 15,
+            "bbox": [
+                527,
+                794,
+                565,
+                806
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1",
-                "1"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SNEAKERS",
-                "T-SHIRT/POLO"
+                "Twilly",
+                "d'Hemes",
+                "Eau",
+                "Poivr\u00e9e",
+                "Eau",
+                "de",
+                "85ml",
+                "EL2"
             ],
             "value_id": [
+                5,
+                6,
+                7,
                 8,
-                9
+                9,
+                10,
+                11,
+                12
             ]
         },
         {
@@ -143,21 +182,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07/03/2020"
+                "07/10/2020"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "5,500.00"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -165,10 +193,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GIVENCHY"
+                "HERMES"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "610.00"
+            ],
+            "value_id": [
+                15
             ]
         },
         {
@@ -176,12 +215,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BH003MHONJ",
-                "BM7ORV3Y41"
+                "V101676VO"
             ],
             "value_id": [
-                10,
-                11
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "01:04",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
             ]
         },
         {
@@ -189,12 +239,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,900.00",
-                "2,600.00"
+                "610.00"
             ],
             "value_id": [
-                4,
-                5
+                14
             ]
         }
     ],

@@ -1,128 +1,162 @@
 {
     "text_boxes": [
         {
-            "text": "July",
+            "text": "Apple",
             "id": 1,
             "bbox": [
-                401,
-                367,
-                419,
-                378
+                179,
+                231,
+                202,
+                239
             ]
         },
         {
-            "text": "29,",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                423,
-                365,
-                437,
-                375
+                206,
+                231,
+                229,
+                238
             ]
         },
         {
-            "text": "2020",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                443,
-                361,
-                467,
-                372
+                233,
+                230,
+                250,
+                237
             ]
         },
         {
-            "text": "12:59",
+            "text": "25/06/20",
             "id": 4,
             "bbox": [
-                475,
-                358,
-                504,
-                370
+                179,
+                1193,
+                215,
+                1199
             ]
         },
         {
-            "text": "25,730.00",
+            "text": "16:32",
             "id": 5,
             "bbox": [
-                517,
-                686,
-                574,
-                697
+                225,
+                1193,
+                244,
+                1199
             ]
         },
         {
-            "text": "25,730.00",
+            "text": "AED",
             "id": 6,
             "bbox": [
-                586,
-                517,
-                640,
-                530
+                524,
+                830,
+                540,
+                836
             ]
         },
         {
-            "text": "1",
+            "text": "479.00",
             "id": 7,
             "bbox": [
-                377,
-                533,
-                381,
-                541
+                543,
+                830,
+                570,
+                836
             ]
         },
         {
-            "text": "FLAPBAG",
+            "text": "AED",
             "id": 8,
             "bbox": [
-                123,
-                523,
-                177,
-                533
+                527,
+                752,
+                542,
+                759
             ]
         },
         {
-            "text": "A0111ZY04059N6517",
+            "text": "479.00",
             "id": 9,
             "bbox": [
-                123,
-                554,
-                236,
-                566
+                546,
+                752,
+                570,
+                759
+            ]
+        },
+        {
+            "text": "DJI",
+            "id": 10,
+            "bbox": [
+                179,
+                615,
+                192,
+                621
+            ]
+        },
+        {
+            "text": "OSMO",
+            "id": 11,
+            "bbox": [
+                194,
+                615,
+                219,
+                621
+            ]
+        },
+        {
+            "text": "3",
+            "id": 12,
+            "bbox": [
+                223,
+                615,
+                227,
+                621
+            ]
+        },
+        {
+            "text": "COMBO-ZML",
+            "id": 13,
+            "bbox": [
+                230,
+                615,
+                282,
+                621
+            ]
+        },
+        {
+            "text": "HNFN2ZM/A",
+            "id": 14,
+            "bbox": [
+                234,
+                630,
+                283,
+                638
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FLAPBAG"
+                "DJI",
+                "OSMO",
+                "3",
+                "COMBO-ZML"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:59"
-            ],
-            "value_id": [
-                4
+                10,
+                11,
+                12,
+                13
             ]
         },
         {
@@ -130,9 +164,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "29,",
-                "2020"
+                "25/06/20"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Apple",
+                "Dubai",
+                "Mall"
             ],
             "value_id": [
                 1,
@@ -145,10 +190,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25,730.00"
+                "AED",
+                "479.00"
             ],
             "value_id": [
-                5
+                6,
+                7
             ]
         },
         {
@@ -156,10 +203,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "A0111ZY04059N6517"
+                "HNFN2ZM/A"
             ],
             "value_id": [
-                9
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:32"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -167,10 +225,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25,730.00"
+                "AED",
+                "479.00"
             ],
             "value_id": [
-                6
+                8,
+                9
             ]
         }
     ],

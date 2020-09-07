@@ -1,0 +1,168 @@
+{
+    "text_boxes": [
+        {
+            "text": "DIESEL",
+            "id": 1,
+            "bbox": [
+                287,
+                270,
+                355,
+                291
+            ]
+        },
+        {
+            "text": "07/28/20",
+            "id": 2,
+            "bbox": [
+                173,
+                387,
+                267,
+                409
+            ]
+        },
+        {
+            "text": "6:03",
+            "id": 3,
+            "bbox": [
+                291,
+                389,
+                336,
+                407
+            ]
+        },
+        {
+            "text": "237",
+            "id": 4,
+            "bbox": [
+                534,
+                705,
+                568,
+                724
+            ]
+        },
+        {
+            "text": "237",
+            "id": 5,
+            "bbox": [
+                529,
+                565,
+                562,
+                584
+            ]
+        },
+        {
+            "text": "PANTS",
+            "id": 6,
+            "bbox": [
+                193,
+                576,
+                251,
+                594
+            ]
+        },
+        {
+            "text": "A041186",
+            "id": 7,
+            "bbox": [
+                98,
+                575,
+                180,
+                595
+            ]
+        },
+        {
+            "text": "NSN",
+            "id": 8,
+            "bbox": [
+                98,
+                601,
+                133,
+                619
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PANTS"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/28/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIESEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "237"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A041186",
+                "NSN"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6:03"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "237"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/996.jpg"
+    }
+}

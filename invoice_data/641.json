@@ -1,183 +1,183 @@
 {
     "text_boxes": [
         {
-            "text": "Jumbo",
+            "text": "P'ARFUMS",
             "id": 1,
             "bbox": [
-                285,
-                113,
-                323,
-                131
+                289,
+                235,
+                373,
+                247
             ]
         },
         {
-            "text": "Electronics",
+            "text": "de",
             "id": 2,
             "bbox": [
-                326,
-                113,
-                383,
-                131
+                384,
+                238,
+                400,
+                246
             ]
         },
         {
-            "text": "Co.",
+            "text": "MARLY",
             "id": 3,
             "bbox": [
-                386,
-                113,
-                406,
-                131
+                412,
+                238,
+                473,
+                250
             ]
         },
         {
-            "text": "Ltd.",
+            "text": "ARIS",
             "id": 4,
             "bbox": [
-                408,
-                113,
-                431,
-                131
+                366,
+                251,
+                400,
+                258
             ]
         },
         {
-            "text": "LLC",
+            "text": "05/07/2020",
             "id": 5,
             "bbox": [
-                433,
-                113,
-                453,
-                131
+                316,
+                582,
+                381,
+                595
             ]
         },
         {
-            "text": "17.07.2020",
+            "text": "5:52",
             "id": 6,
             "bbox": [
-                99,
-                335,
-                151,
-                343
+                386,
+                584,
+                409,
+                595
             ]
         },
         {
-            "text": "21:47",
+            "text": "pm",
             "id": 7,
             "bbox": [
-                98,
-                346,
-                124,
-                354
+                415,
+                587,
+                432,
+                596
             ]
         },
         {
-            "text": "735.00",
+            "text": "AED1277.00",
             "id": 8,
             "bbox": [
-                660,
-                667,
-                696,
-                676
+                442,
+                825,
+                527,
+                835
             ]
         },
         {
-            "text": "Beats",
+            "text": "AED1277.00",
             "id": 9,
             "bbox": [
-                168,
-                545,
-                194,
-                556
+                441,
+                716,
+                519,
+                727
             ]
         },
         {
-            "text": "Powerbeats",
+            "text": "AEDO.00",
             "id": 10,
             "bbox": [
-                198,
-                545,
-                253,
-                553
+                465,
+                744,
+                520,
+                756
             ]
         },
         {
-            "text": "Pro",
+            "text": "1",
             "id": 11,
             "bbox": [
-                168,
-                557,
-                183,
-                564
+                422,
+                717,
+                425,
+                726
             ]
         },
         {
-            "text": "Wireless",
+            "text": "DELINA",
             "id": 12,
             "bbox": [
-                188,
-                556,
-                227,
-                564
+                226,
+                705,
+                277,
+                715
             ]
         },
         {
-            "text": "Earphones,",
+            "text": "EXCLUSIF",
             "id": 13,
             "bbox": [
-                164,
-                566,
-                221,
-                578
+                283,
+                704,
+                350,
+                716
             ]
         },
         {
-            "text": "Moss",
+            "text": "75ml",
             "id": 14,
             "bbox": [
-                226,
-                568,
-                250,
-                576
+                357,
+                707,
+                386,
+                717
             ]
         },
         {
-            "text": "Serial",
+            "text": "Parfum",
             "id": 15,
             "bbox": [
-                168,
-                576,
-                195,
-                588
+                225,
+                723,
+                272,
+                733
             ]
         },
         {
-            "text": "Number:",
+            "text": "GWP",
             "id": 16,
             "bbox": [
-                198,
-                578,
-                238,
-                588
+                223,
+                743,
+                255,
+                752
             ]
         },
         {
-            "text": "SCC2ZNC7CLN3N",
+            "text": "passport",
             "id": 17,
             "bbox": [
-                176,
-                586,
-                255,
-                599
+                261,
+                744,
+                321,
+                755
             ]
         },
         {
-            "text": "MV712AE/A",
+            "text": "holder",
             "id": 18,
             "bbox": [
-                103,
-                545,
-                159,
-                553
+                328,
+                742,
+                368,
+                755
             ]
         }
     ],
@@ -187,37 +187,33 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Beats",
-                "Powerbeats",
-                "Pro",
-                "Wireless",
-                "Earphones,",
-                "Moss",
-                "Serial",
-                "Number:",
-                "SCC2ZNC7CLN3N"
+                "DELINA",
+                "EXCLUSIF",
+                "75ml",
+                "Parfum",
+                "GWP",
+                "passport",
+                "holder"
             ],
             "value_id": [
-                9,
-                10,
-                11,
                 12,
                 13,
                 14,
                 15,
                 16,
-                17
+                17,
+                18
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:47"
+                "1"
             ],
             "value_id": [
-                7
+                11
             ]
         },
         {
@@ -225,21 +221,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17.07.2020"
+                "05/07/2020"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "735.00"
-            ],
-            "value_id": [
-                8
+                5
             ]
         },
         {
@@ -247,29 +232,53 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jumbo",
-                "Electronics",
-                "Co.",
-                "Ltd.",
-                "LLC"
+                "P'ARFUMS",
+                "de",
+                "MARLY",
+                "ARIS"
             ],
             "value_id": [
                 1,
                 2,
                 3,
-                4,
-                5
+                4
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MV712AE/A"
+                "AED1277.00"
             ],
             "value_id": [
-                18
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5:52",
+                "pm"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED1277.00",
+                "AEDO.00"
+            ],
+            "value_id": [
+                9,
+                10
             ]
         }
     ],

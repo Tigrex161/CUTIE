@@ -1,113 +1,103 @@
 {
     "text_boxes": [
         {
-            "text": "Cartier",
+            "text": "Dubai",
             "id": 1,
             "bbox": [
-                329,
-                221,
-                455,
-                259
+                343,
+                247,
+                385,
+                265
             ]
         },
         {
-            "text": "14/07/2020",
+            "text": "12:42",
             "id": 2,
             "bbox": [
-                62,
-                756,
-                118,
-                767
+                436,
+                423,
+                476,
+                440
             ]
         },
         {
-            "text": "13:04:01",
+            "text": "539.0",
             "id": 3,
             "bbox": [
-                122,
-                757,
-                164,
-                765
+                548,
+                645,
+                590,
+                659
             ]
         },
         {
-            "text": "29,300.00",
+            "text": "150.0",
             "id": 4,
             "bbox": [
-                687,
-                589,
-                726,
-                596
+                551,
+                578,
+                591,
+                595
             ]
         },
         {
-            "text": "25.900.00",
+            "text": "389.0",
             "id": 5,
             "bbox": [
-                684,
-                542,
-                718,
-                549
+                548,
+                600,
+                591,
+                615
             ]
         },
         {
-            "text": "BRACELET",
+            "text": "COACH",
             "id": 6,
             "bbox": [
-                104,
-                516,
-                139,
-                525
+                219,
+                579,
+                262,
+                594
             ]
         },
         {
-            "text": "LOVE",
+            "text": "ROYD",
             "id": 7,
             "bbox": [
-                142,
-                518,
-                160,
-                524
+                273,
+                579,
+                307,
+                594
             ]
         },
         {
-            "text": "YG",
+            "text": "3",
             "id": 8,
             "bbox": [
-                162,
-                520,
-                171,
-                524
+                318,
+                579,
+                324,
+                594
             ]
         },
         {
-            "text": "10",
+            "text": "General",
             "id": 9,
             "bbox": [
-                174,
-                519,
-                182,
-                524
+                219,
+                600,
+                278,
+                616
             ]
         },
         {
-            "text": "DIASM",
+            "text": "Admi",
             "id": 10,
             "bbox": [
-                185,
-                519,
-                210,
-                526
-            ]
-        },
-        {
-            "text": "B6047817",
-            "id": 11,
-            "bbox": [
-                152,
-                529,
-                195,
-                537
+                292,
+                601,
+                322,
+                617
             ]
         }
     ],
@@ -117,11 +107,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BRACELET",
-                "LOVE",
-                "YG",
-                "10",
-                "DIASM"
+                "COACH",
+                "ROYD",
+                "3",
+                "General",
+                "Admi"
             ],
             "value_id": [
                 6,
@@ -132,25 +122,14 @@
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13:04:01"
+                "Dubai"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14/07/2020"
-            ],
-            "value_id": [
-                2
+                1
             ]
         },
         {
@@ -158,32 +137,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "29,300.00"
+                "539.0"
             ],
             "value_id": [
-                4
+                3
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Cartier"
+                "12:42"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "B6047817"
-            ],
-            "value_id": [
-                11
+                2
             ]
         },
         {
@@ -191,9 +159,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25.900.00"
+                "150.0",
+                "389.0"
             ],
             "value_id": [
+                4,
                 5
             ]
         }

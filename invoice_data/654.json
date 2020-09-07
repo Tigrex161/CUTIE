@@ -1,247 +1,144 @@
 {
     "text_boxes": [
         {
-            "text": "L'OCCITANE",
+            "text": "99.00",
             "id": 1,
             "bbox": [
-                302,
-                105,
-                448,
-                142
+                601,
+                575,
+                645,
+                593
             ]
         },
         {
-            "text": "IN",
+            "text": "87.00",
             "id": 2,
             "bbox": [
-                326,
-                130,
-                352,
-                142
+                602,
+                622,
+                646,
+                639
             ]
         },
         {
-            "text": "PRIVENCE",
+            "text": "30",
             "id": 3,
             "bbox": [
-                352,
-                132,
-                419,
-                150
+                434,
+                578,
+                450,
+                594
             ]
         },
         {
-            "text": "21-Jul-2020",
+            "text": "30",
             "id": 4,
             "bbox": [
-                312,
-                312,
-                375,
-                323
+                436,
+                621,
+                452,
+                639
             ]
         },
         {
-            "text": "16:18",
+            "text": "60",
             "id": 5,
             "bbox": [
-                384,
-                313,
-                410,
-                323
+                636,
+                700,
+                653,
+                717
             ]
         },
         {
-            "text": "139.00",
+            "text": "Columbia",
             "id": 6,
             "bbox": [
-                466,
-                726,
-                500,
-                736
+                231,
+                578,
+                303,
+                594
             ]
         },
         {
-            "text": "139.00",
+            "text": "NO-Origina",
             "id": 7,
             "bbox": [
-                493,
-                586,
-                528,
-                597
+                315,
+                579,
+                405,
+                596
             ]
         },
         {
-            "text": "18PC050TL18ET:TOL",
+            "text": "Lunga",
             "id": 8,
             "bbox": [
-                194,
-                545,
-                292,
-                556
+                306,
+                621,
+                351,
+                641
             ]
         },
         {
-            "text": "LEAU",
+            "text": "6771530",
             "id": 9,
             "bbox": [
-                300,
-                546,
-                322,
-                556
+                135,
+                576,
+                200,
+                594
             ]
         },
         {
-            "text": "PERFUMED",
+            "text": "6762290",
             "id": 10,
             "bbox": [
-                330,
-                546,
-                376,
-                556
-            ]
-        },
-        {
-            "text": "HAIR",
-            "id": 11,
-            "bbox": [
-                383,
-                546,
-                406,
-                556
-            ]
-        },
-        {
-            "text": "MIST",
-            "id": 12,
-            "bbox": [
-                413,
-                546,
-                436,
-                556
-            ]
-        },
-        {
-            "text": "50ML",
-            "id": 13,
-            "bbox": [
-                444,
-                545,
-                466,
-                556
-            ]
-        },
-        {
-            "text": "020414282359",
-            "id": 14,
-            "bbox": [
-                194,
-                525,
-                263,
-                536
-            ]
-        },
-        {
-            "text": "\u0633\u0627\u0626\u0644",
-            "id": 15,
-            "bbox": [
-                251,
-                565,
-                269,
-                575
-            ]
-        },
-        {
-            "text": "\u0645\u0646\u0639\u0645",
-            "id": 16,
-            "bbox": [
-                227,
-                566,
-                245,
-                576
+                132,
+                620,
+                199,
+                638
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18PC050TL18ET:TOL",
-                "LEAU",
-                "PERFUMED",
-                "HAIR",
-                "MIST",
-                "50ML"
-            ],
-            "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:18"
+                "60"
             ],
             "value_id": [
                 5
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21-Jul-2020"
+                "Columbia",
+                "NO-Origina",
+                "Lunga"
             ],
             "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30",
+                "30"
+            ],
+            "value_id": [
+                3,
                 4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "139.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0633\u0627\u0626\u0644",
-                "\u0645\u0646\u0639\u0645"
-            ],
-            "value_id": [
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "L'OCCITANE",
-                "IN",
-                "PRIVENCE"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
             ]
         },
         {
@@ -249,10 +146,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "020414282359"
+                "6771530",
+                "6762290"
             ],
             "value_id": [
-                14
+                9,
+                10
             ]
         },
         {
@@ -260,10 +159,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "139.00"
+                "99.00",
+                "87.00"
             ],
             "value_id": [
-                7
+                1,
+                2
             ]
         }
     ],

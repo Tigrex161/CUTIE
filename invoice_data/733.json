@@ -1,233 +1,122 @@
 {
     "text_boxes": [
         {
-            "text": "FENDI",
+            "text": "BRANDS",
             "id": 1,
             "bbox": [
-                330,
-                72,
-                424,
-                121
+                236,
+                241,
+                326,
+                257
             ]
         },
         {
-            "text": "ROMA",
+            "text": "FOR",
             "id": 2,
             "bbox": [
-                365,
-                109,
-                389,
-                120
+                336,
+                245,
+                379,
+                261
             ]
         },
         {
-            "text": "7/6/2020",
+            "text": "18A07/2020",
             "id": 3,
             "bbox": [
-                149,
-                112,
-                185,
-                120
+                290,
+                397,
+                363,
+                411
             ]
         },
         {
-            "text": "255:37",
+            "text": "17:31:45",
             "id": 4,
             "bbox": [
-                192,
-                112,
-                220,
-                119
+                371,
+                396,
+                428,
+                410
             ]
         },
         {
-            "text": "PM",
+            "text": "111.00",
             "id": 5,
             "bbox": [
-                223,
-                111,
-                235,
-                119
+                473,
+                653,
+                518,
+                668
             ]
         },
         {
-            "text": "9e0.00",
+            "text": "111.00",
             "id": 6,
             "bbox": [
-                682,
-                422,
-                709,
-                429
+                497,
+                485,
+                539,
+                498
             ]
         },
         {
-            "text": "942.86",
+            "text": "MACYS",
             "id": 7,
             "bbox": [
-                681,
-                355,
-                708,
-                363
+                223,
+                517,
+                275,
+                531
             ]
         },
         {
-            "text": "1",
+            "text": "EXCL",
             "id": 8,
             "bbox": [
+                281,
                 520,
-                347,
-                525,
-                358
+                318,
+                534
             ]
         },
         {
-            "text": "1",
+            "text": "BEAR",
             "id": 9,
             "bbox": [
-                519,
-                400,
-                522,
-                405
+                324,
+                521,
+                361,
+                535
             ]
         },
         {
-            "text": "RING/E",
+            "text": "ROBE",
             "id": 10,
             "bbox": [
-                196,
-                335,
-                229,
-                341
-            ]
-        },
-        {
-            "text": "IS",
-            "id": 11,
-            "bbox": [
-                232,
-                336,
-                240,
-                342
-            ]
-        },
-        {
-            "text": "FENDVARASS",
-            "id": 12,
-            "bbox": [
-                243,
-                331,
-                309,
-                344
-            ]
-        },
-        {
-            "text": "METAL",
-            "id": 13,
-            "bbox": [
-                312,
-                334,
-                344,
-                343
-            ]
-        },
-        {
-            "text": "SOFT",
-            "id": 14,
-            "bbox": [
-                354,
-                335,
-                378,
-                345
-            ]
-        },
-        {
-            "text": "GOLD",
-            "id": 15,
-            "bbox": [
-                381,
-                338,
-                407,
-                348
-            ]
-        },
-        {
-            "text": "+PALLADUN",
-            "id": 16,
-            "bbox": [
-                411,
-                341,
-                466,
-                350
-            ]
-        },
-        {
-            "text": "67484",
-            "id": 17,
-            "bbox": [
-                32,
-                336,
-                55,
-                343
+                369,
+                520,
+                406,
+                534
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RING/E",
-                "IS",
-                "FENDVARASS",
-                "METAL",
-                "SOFT",
-                "GOLD",
-                "+PALLADUN"
+                "MACYS",
+                "EXCL",
+                "BEAR",
+                "ROBE"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "255:37",
-                "PM"
-            ],
-            "value_id": [
-                4,
-                5
+                7,
+                8,
+                9,
+                10
             ]
         },
         {
@@ -235,21 +124,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7/6/2020"
+                "18A07/2020"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "9e0.00"
-            ],
-            "value_id": [
-                6
             ]
         },
         {
@@ -257,8 +135,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FENDI",
-                "ROMA"
+                "BRANDS",
+                "FOR"
             ],
             "value_id": [
                 1,
@@ -266,14 +144,25 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "67484"
+                "111.00"
             ],
             "value_id": [
-                17
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:31:45"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -281,10 +170,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "942.86"
+                "111.00"
             ],
             "value_id": [
-                7
+                6
             ]
         }
     ],

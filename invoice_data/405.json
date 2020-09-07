@@ -1,203 +1,223 @@
 {
     "text_boxes": [
         {
-            "text": "SEPHORA",
+            "text": "MICHAEL",
             "id": 1,
             "bbox": [
-                284,
-                206,
-                333,
-                225
+                277,
+                112,
+                399,
+                149
+            ]
+        },
+        {
+            "text": "KORS",
+            "id": 2,
+            "bbox": [
+                404,
+                132,
+                477,
+                158
             ]
         },
         {
             "text": "DUBAI",
-            "id": 2,
-            "bbox": [
-                340,
-                212,
-                373,
-                227
-            ]
-        },
-        {
-            "text": "MALL",
             "id": 3,
             "bbox": [
-                381,
-                215,
-                407,
-                228
+                269,
+                142,
+                294,
+                154
             ]
         },
         {
-            "text": "July",
+            "text": "-",
             "id": 4,
             "bbox": [
-                323,
-                1002,
-                353,
-                1019
+                301,
+                152,
+                303,
+                153
             ]
         },
         {
-            "text": "05,2020",
+            "text": "URE",
             "id": 5,
             "bbox": [
-                362,
-                1002,
-                414,
-                1018
+                309,
+                150,
+                324,
+                161
             ]
         },
         {
-            "text": "12:21:44",
+            "text": "11-Jul-2020",
             "id": 6,
             "bbox": [
-                424,
-                1000,
-                481,
-                1016
+                334,
+                276,
+                391,
+                291
             ]
         },
         {
-            "text": "177.00",
+            "text": "15:29",
             "id": 7,
             "bbox": [
-                442,
-                580,
-                484,
-                593
+                396,
+                282,
+                421,
+                294
             ]
         },
         {
-            "text": "1",
+            "text": "183.00",
             "id": 8,
             "bbox": [
-                280,
-                585,
-                284,
-                597
-            ]
-        },
-        {
-            "text": "YO",
-            "id": 9,
-            "bbox": [
-                309,
-                534,
-                322,
-                545
-            ]
-        },
-        {
-            "text": "GLOW",
-            "id": 10,
-            "bbox": [
-                330,
-                535,
-                357,
-                545
-            ]
-        },
-        {
-            "text": "ENZYME",
-            "id": 11,
-            "bbox": [
-                365,
-                531,
-                404,
-                545
-            ]
-        },
-        {
-            "text": "SCRUB",
-            "id": 12,
-            "bbox": [
-                413,
-                529,
-                447,
-                542
-            ]
-        },
-        {
-            "text": "100M",
-            "id": 13,
-            "bbox": [
-                458,
-                529,
-                484,
-                540
-            ]
-        },
-        {
-            "text": "177.00",
-            "id": 14,
-            "bbox": [
-                400,
+                455,
                 651,
                 482,
-                666
+                660
             ]
         },
         {
-            "text": "1",
+            "text": "183.00",
+            "id": 9,
+            "bbox": [
+                480,
+                534,
+                509,
+                547
+            ]
+        },
+        {
+            "text": "40F90OMPIL-001",
+            "id": 10,
+            "bbox": [
+                230,
+                489,
+                300,
+                502
+            ]
+        },
+        {
+            "text": ":",
+            "id": 11,
+            "bbox": [
+                301,
+                490,
+                305,
+                502
+            ]
+        },
+        {
+            "text": "MKS.001:8.5:0OROTHY",
+            "id": 12,
+            "bbox": [
+                306,
+                490,
+                402,
+                507
+            ]
+        },
+        {
+            "text": "FLEX",
+            "id": 13,
+            "bbox": [
+                408,
+                497,
+                427,
+                509
+            ]
+        },
+        {
+            "text": "PUMP",
+            "id": 14,
+            "bbox": [
+                433,
+                499,
+                451,
+                510
+            ]
+        },
+        {
+            "text": "023324740760",
             "id": 15,
             "bbox": [
-                484,
-                962,
-                488,
-                979
-            ]
-        },
-        {
-            "text": "398414953808",
-            "id": 16,
-            "bbox": [
-                186,
-                528,
-                272,
-                544
+                229,
+                470,
+                292,
+                485
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "40F90OMPIL-001",
+                ":",
+                "MKS.001:8.5:0OROTHY",
+                "FLEX",
+                "PUMP"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11-Jul-2020"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MICHAEL",
+                "KORS",
+                "DUBAI",
+                "-",
+                "URE"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "183.00"
             ],
             "value_id": [
                 8
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "YO",
-                "GLOW",
-                "ENZYME",
-                "SCRUB",
-                "100M"
-            ],
-            "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
+                "023324740760"
             ],
             "value_id": [
                 15
@@ -208,60 +228,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:21:44"
+                "15:29"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July",
-                "05,2020"
-            ],
-            "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "177.00"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SEPHORA",
-                "DUBAI",
-                "MALL"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "398414953808"
-            ],
-            "value_id": [
-                16
+                7
             ]
         },
         {
@@ -269,10 +239,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "177.00"
+                "183.00"
             ],
             "value_id": [
-                7
+                9
             ]
         }
     ],

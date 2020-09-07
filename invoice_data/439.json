@@ -1,155 +1,135 @@
 {
     "text_boxes": [
         {
-            "text": "Dior",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                428,
-                553,
-                636,
-                648
+                281,
+                182,
+                521,
+                220
             ]
         },
         {
-            "text": "BOUTIOUE",
+            "text": "08-Jul",
             "id": 2,
             "bbox": [
-                478,
-                657,
-                582,
-                681
+                255,
+                351,
+                291,
+                363
             ]
         },
         {
-            "text": "30-Jun-2020",
+            "text": "234.00",
             "id": 3,
             "bbox": [
-                1001,
-                867,
-                1094,
-                883
+                487,
+                630,
+                527,
+                641
             ]
         },
         {
-            "text": "21:25",
+            "text": "234.00",
             "id": 4,
             "bbox": [
-                1127,
-                866,
-                1171,
-                889
+                486,
+                524,
+                525,
+                535
             ]
         },
         {
-            "text": "22",
+            "text": "1",
             "id": 5,
             "bbox": [
-                1173,
-                867,
-                1193,
-                888
+                522,
+                564,
+                525,
+                574
             ]
         },
         {
-            "text": "12500.00",
+            "text": "K",
             "id": 6,
             "bbox": [
-                1149,
-                1359,
-                1215,
-                1378
+                254,
+                524,
+                262,
+                536
             ]
         },
         {
-            "text": "12,500.00",
+            "text": "Clearly",
             "id": 7,
             "bbox": [
-                1130,
-                1065,
-                1201,
-                1083
+                272,
+                523,
+                317,
+                537
             ]
         },
         {
-            "text": "LADY",
+            "text": "Dk",
             "id": 8,
             "bbox": [
-                629,
-                1075,
-                683,
-                1091
+                384,
+                525,
+                396,
+                536
             ]
         },
         {
-            "text": "DIOR",
+            "text": "Spot",
             "id": 9,
             "bbox": [
-                691,
-                1073,
-                738,
-                1089
+                404,
+                525,
+                429,
+                535
             ]
         },
         {
-            "text": "Mi",
+            "text": "30m",
             "id": 10,
             "bbox": [
-                745,
-                1074,
-                766,
-                1089
-            ]
-        },
-        {
-            "text": "C",
-            "id": 11,
-            "bbox": [
-                773,
-                1074,
-                785,
-                1088
-            ]
-        },
-        {
-            "text": "M0505OWCB",
-            "id": 12,
-            "bbox": [
-                368,
-                1077,
-                497,
-                1095
+                438,
+                525,
+                457,
+                535
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LADY",
-                "DIOR",
-                "Mi",
-                "C"
+                "K",
+                "Clearly",
+                "Dk",
+                "Spot",
+                "30m"
             ],
             "value_id": [
+                6,
+                7,
                 8,
                 9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21:25",
-                "22"
-            ],
-            "value_id": [
-                4,
-                5
+                10
             ]
         },
         {
@@ -157,21 +137,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "30-Jun-2020"
+                "08-Jul"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12500.00"
-            ],
-            "value_id": [
-                6
+                2
             ]
         },
         {
@@ -179,23 +148,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Dior",
-                "BOUTIOUE"
+                "bloomingdales"
             ],
             "value_id": [
-                1,
-                2
+                1
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "M0505OWCB"
+                "234.00"
             ],
             "value_id": [
-                12
+                3
             ]
         },
         {
@@ -203,10 +170,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12,500.00"
+                "234.00"
             ],
             "value_id": [
-                7
+                4
             ]
         }
     ],

@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "AE",
+            "id": 1,
+            "bbox": [
+                50,
+                31,
+                63,
+                37
+            ]
+        },
+        {
+            "text": "Duhai",
+            "id": 2,
+            "bbox": [
+                68,
+                31,
+                93,
+                39
+            ]
+        },
+        {
+            "text": "Mn",
+            "id": 3,
+            "bbox": [
+                97,
+                32,
+                114,
+                39
+            ]
+        },
+        {
+            "text": "14/072020",
+            "id": 4,
+            "bbox": [
+                48,
+                126,
+                97,
+                136
+            ]
+        },
+        {
+            "text": "1537",
+            "id": 5,
+            "bbox": [
+                109,
+                127,
+                132,
+                137
+            ]
+        },
+        {
+            "text": "3,523.81",
+            "id": 6,
+            "bbox": [
+                638,
+                238,
+                673,
+                247
+            ]
+        },
+        {
+            "text": "Women",
+            "id": 7,
+            "bbox": [
+                206,
+                224,
+                241,
+                233
+            ]
+        },
+        {
+            "text": "Shoes",
+            "id": 8,
+            "bbox": [
+                246,
+                225,
+                272,
+                233
+            ]
+        },
+        {
+            "text": "KCC200TFL",
+            "id": 9,
+            "bbox": [
+                40,
+                216,
+                100,
+                229
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "KCC200TFL"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AE",
+                "Duhai",
+                "Mn"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Women",
+                "Shoes"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1537"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14/072020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,523.81"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/131.jpg"
+    }
+}

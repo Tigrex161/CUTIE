@@ -1,113 +1,93 @@
 {
     "text_boxes": [
         {
-            "text": "FREDPERRY",
+            "text": "VALENTINO",
             "id": 1,
             "bbox": [
-                327,
-                503,
-                421,
-                522
+                246,
+                436,
+                511,
+                483
             ]
         },
         {
-            "text": "08/07/20",
+            "text": "6/21/2020",
             "id": 2,
             "bbox": [
-                246,
-                612,
-                328,
-                630
+                684,
+                538,
+                731,
+                548
             ]
         },
         {
-            "text": "4:07",
+            "text": "6.11.35",
             "id": 3,
             "bbox": [
-                351,
-                611,
-                391,
-                628
+                679,
+                552,
+                714,
+                561
             ]
         },
         {
-            "text": "584.00",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                534,
-                918,
-                596,
-                937
+                718,
+                554,
+                733,
+                562
             ]
         },
         {
-            "text": "245",
+            "text": "1,422.00",
             "id": 5,
             "bbox": [
-                563,
-                775,
-                593,
-                790
+                712,
+                783,
+                755,
+                792
             ]
         },
         {
-            "text": "339",
+            "text": "1,422.00",
             "id": 6,
             "bbox": [
-                564,
-                815,
-                594,
-                831
+                714,
+                720,
+                756,
+                729
             ]
         },
         {
-            "text": "T-SHIRTS",
+            "text": "SLIDE",
             "id": 7,
             "bbox": [
-                260,
-                778,
-                342,
-                797
+                144,
+                716,
+                169,
+                724
             ]
         },
         {
-            "text": "A014656",
+            "text": "J",
             "id": 8,
             "bbox": [
                 176,
-                781,
-                248,
-                799
+                714,
+                195,
+                723
             ]
         },
         {
-            "text": "A036097",
+            "text": "SW2SOC49VOD",
             "id": 9,
             "bbox": [
-                177,
-                823,
-                249,
-                840
-            ]
-        },
-        {
-            "text": "\u062a\u064a",
-            "id": 10,
-            "bbox": [
-                291,
-                805,
-                306,
-                818
-            ]
-        },
-        {
-            "text": "\u0634\u06cc\u0631\u062a",
-            "id": 11,
-            "bbox": [
-                239,
-                805,
-                279,
-                820
+                12,
+                714,
+                90,
+                724
             ]
         }
     ],
@@ -117,43 +97,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "T-SHIRTS"
+                "SLIDE"
             ],
             "value_id": [
                 7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4:07"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "08/07/20"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "584.00"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -161,12 +108,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u062a\u064a",
-                "\u0634\u06cc\u0631\u062a"
+                "J"
             ],
             "value_id": [
-                10,
-                11
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6/21/2020"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -174,10 +130,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FREDPERRY"
+                "VALENTINO"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,422.00"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -185,12 +152,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "A014656",
-                "A036097"
+                "SW2SOC49VOD"
             ],
             "value_id": [
-                8,
                 9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6.11.35",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
             ]
         },
         {
@@ -198,11 +176,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "245",
-                "339"
+                "1,422.00"
             ],
             "value_id": [
-                5,
                 6
             ]
         }

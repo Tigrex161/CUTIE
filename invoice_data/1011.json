@@ -1,0 +1,129 @@
+{
+    "text_boxes": [
+        {
+            "text": "(baby)",
+            "id": 1,
+            "bbox": [
+                110,
+                455,
+                191,
+                493
+            ]
+        },
+        {
+            "text": "71",
+            "id": 2,
+            "bbox": [
+                132,
+                538,
+                140,
+                546
+            ]
+        },
+        {
+            "text": "28/",
+            "id": 3,
+            "bbox": [
+                144,
+                539,
+                158,
+                546
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                162,
+                537,
+                184,
+                545
+            ]
+        },
+        {
+            "text": "504.00",
+            "id": 5,
+            "bbox": [
+                680,
+                899,
+                717,
+                908
+            ]
+        },
+        {
+            "text": "DAMONO",
+            "id": 6,
+            "bbox": [
+                245,
+                624,
+                282,
+                631
+            ]
+        },
+        {
+            "text": "HEANTEARNGS",
+            "id": 7,
+            "bbox": [
+                284,
+                624,
+                352,
+                632
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "(baby)"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "504.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "71",
+                "28/",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DAMONO",
+                "HEANTEARNGS"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1011.jpg"
+    }
+}

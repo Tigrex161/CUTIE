@@ -1,169 +1,197 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "SWAROVSKI",
             "id": 1,
             "bbox": [
-                319,
-                343,
-                348,
-                351
+                262,
+                184,
+                507,
+                247
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "11-Jul-2020",
             "id": 2,
             "bbox": [
-                354,
-                342,
+                339,
+                444,
                 400,
-                352
+                460
             ]
         },
         {
-            "text": "09/07/2020",
+            "text": "18:05.",
             "id": 3,
             "bbox": [
-                475,
-                513,
-                523,
-                520
+                408,
+                445,
+                436,
+                457
             ]
         },
         {
-            "text": "2155",
+            "text": "335.00",
             "id": 4,
             "bbox": [
-                539,
-                514,
-                561,
-                519
+                515,
+                843,
+                550,
+                854
             ]
         },
         {
-            "text": "1,",
+            "text": "335.00",
             "id": 5,
             "bbox": [
-                594,
-                688,
-                604,
-                695
+                533,
+                722,
+                569,
+                733
             ]
         },
         {
-            "text": "000.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                606,
-                688,
-                634,
-                695
+                541,
+                762,
+                543,
+                772
             ]
         },
         {
-            "text": "NE2156",
+            "text": "1",
             "id": 7,
             "bbox": [
-                78,
-                556,
-                106,
-                562
+                356,
+                731,
+                358,
+                741
             ]
         },
         {
-            "text": "Pe.CAPICI.Cp",
+            "text": "030714881882",
             "id": 8,
             "bbox": [
-                118,
-                557,
-                175,
-                563
+                231,
+                673,
+                304,
+                690
             ]
         },
         {
-            "text": "TAU",
+            "text": "5519248:SJC",
             "id": 9,
             "bbox": [
-                182,
-                558,
-                195,
-                563
+                232,
+                694,
+                300,
+                710
             ]
         },
         {
-            "text": "MAGNOLIA",
+            "text": "TROPICAL-PENDANT",
             "id": 10,
             "bbox": [
-                201,
-                558,
-                239,
-                563
+                306,
+                688,
+                399,
+                705
             ]
         },
         {
-            "text": "HALL",
+            "text": "FLOWER",
             "id": 11,
             "bbox": [
-                77,
-                565,
-                101,
-                569
+                406,
+                686,
+                441,
+                699
             ]
         },
         {
-            "text": "LEATRR",
+            "text": "LKUL/RHS",
             "id": 12,
             "bbox": [
-                107,
-                565,
-                140,
-                570
+                447,
+                683,
+                494,
+                698
             ]
         },
         {
-            "text": "doops",
+            "text": "\u0641\u0644\u0627\u062f\u0629",
             "id": 13,
             "bbox": [
-                146,
-                566,
-                169,
-                571
+                273,
+                715,
+                294,
+                726
+            ]
+        },
+        {
+            "text": "\u0644 \u0644\u0631\u0642\u062f\u0629",
+            "id": 14,
+            "bbox": [
+                239,
+                716,
+                270,
+                731
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NE2156",
-                "Pe.CAPICI.Cp",
-                "TAU",
-                "MAGNOLIA",
-                "HALL",
-                "LEATRR",
-                "doops"
+                "5519248:SJC",
+                "TROPICAL-PENDANT",
+                "FLOWER",
+                "LKUL/RHS"
             ],
             "value_id": [
-                7,
-                8,
                 9,
                 10,
                 11,
-                12,
-                13
+                12
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2155"
+                "\u0641\u0644\u0627\u062f\u0629",
+                "\u0644 \u0644\u0631\u0642\u062f\u0629"
             ],
             "value_id": [
-                4
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
             ]
         },
         {
@@ -171,23 +199,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "09/07/2020"
+                "11-Jul-2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,",
-                "000.00"
-            ],
-            "value_id": [
-                5,
-                6
+                2
             ]
         },
         {
@@ -195,12 +210,54 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOUIS",
-                "VUITTON"
+                "SWAROVSKI"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "335.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "030714881882"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:05."
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "335.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

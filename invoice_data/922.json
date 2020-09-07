@@ -1,0 +1,228 @@
+{
+    "text_boxes": [
+        {
+            "text": "PROX",
+            "id": 1,
+            "bbox": [
+                92,
+                115,
+                164,
+                135
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 2,
+            "bbox": [
+                174,
+                109,
+                253,
+                135
+            ]
+        },
+        {
+            "text": "MALL",
+            "id": 3,
+            "bbox": [
+                262,
+                112,
+                334,
+                138
+            ]
+        },
+        {
+            "text": "LG-",
+            "id": 4,
+            "bbox": [
+                344,
+                120,
+                377,
+                138
+            ]
+        },
+        {
+            "text": "16:41",
+            "id": 5,
+            "bbox": [
+                546,
+                352,
+                597,
+                374
+            ]
+        },
+        {
+            "text": "104.99",
+            "id": 6,
+            "bbox": [
+                416,
+                686,
+                490,
+                705
+            ]
+        },
+        {
+            "text": "104.99",
+            "id": 7,
+            "bbox": [
+                551,
+                520,
+                638,
+                542
+            ]
+        },
+        {
+            "text": "3",
+            "id": 8,
+            "bbox": [
+                256,
+                515,
+                268,
+                535
+            ]
+        },
+        {
+            "text": "BAVIN",
+            "id": 9,
+            "bbox": [
+                99,
+                581,
+                147,
+                603
+            ]
+        },
+        {
+            "text": "CHARGING",
+            "id": 10,
+            "bbox": [
+                155,
+                581,
+                244,
+                604
+            ]
+        },
+        {
+            "text": "CABLE",
+            "id": 11,
+            "bbox": [
+                250,
+                583,
+                305,
+                605
+            ]
+        },
+        {
+            "text": "MIX",
+            "id": 12,
+            "bbox": [
+                311,
+                585,
+                339,
+                605
+            ]
+        },
+        {
+            "text": "3",
+            "id": 13,
+            "bbox": [
+                298,
+                685,
+                310,
+                702
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BAVIN",
+                "CHARGING",
+                "CABLE",
+                "MIX"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PROX",
+                "DUBAI",
+                "MALL",
+                "LG-"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "104.99"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:41"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "104.99"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/922.jpg"
+    }
+}

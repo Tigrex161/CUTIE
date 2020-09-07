@@ -1,160 +1,177 @@
 {
     "text_boxes": [
         {
-            "text": "ZILLI",
+            "text": "HOME",
             "id": 1,
             "bbox": [
-                350,
-                89,
-                457,
-                146
+                273,
+                173,
+                372,
+                201
             ]
         },
         {
-            "text": "24/07/2020",
+            "text": "BAKERY",
             "id": 2,
             "bbox": [
-                635,
-                216,
-                706,
-                230
+                401,
+                163,
+                555,
+                195
             ]
         },
         {
-            "text": "3:42:29",
+            "text": "Jun27'20",
             "id": 3,
             "bbox": [
-                711,
-                219,
-                756,
-                230
+                319,
+                457,
+                423,
+                480
             ]
         },
         {
-            "text": "PM",
+            "text": "10:13PM",
             "id": 4,
             "bbox": [
-                761,
-                220,
-                779,
-                230
+                441,
+                455,
+                531,
+                478
             ]
         },
         {
-            "text": "3294.000",
+            "text": "108.00",
             "id": 5,
             "bbox": [
-                712,
-                551,
-                790,
-                567
+                486,
+                655,
+                651,
+                684
             ]
         },
         {
-            "text": "3294.000",
+            "text": "18.00",
             "id": 6,
             "bbox": [
-                725,
-                396,
-                780,
-                408
+                591,
+                552,
+                656,
+                575
             ]
         },
         {
-            "text": "1",
+            "text": "90.00",
             "id": 7,
             "bbox": [
-                527,
-                394,
-                532,
-                403
+                588,
+                585,
+                655,
+                609
             ]
         },
         {
-            "text": "1.000",
+            "text": "2",
             "id": 8,
             "bbox": [
-                241,
-                494,
-                278,
-                505
+                184,
+                556,
+                195,
+                578
             ]
         },
         {
-            "text": "3610348850228",
+            "text": "3",
             "id": 9,
             "bbox": [
-                16,
-                391,
-                116,
-                401
+                185,
+                589,
+                195,
+                611
             ]
         },
         {
-            "text": "\u0627\u0644\u0639\u0627\u0628",
+            "text": "Chewy",
             "id": 10,
             "bbox": [
-                488,
-                417,
-                512,
-                429
+                211,
+                554,
+                274,
+                581
             ]
         },
         {
-            "text": "\u0627\u0644\u0643\u0631\u0629",
+            "text": "Melt",
             "id": 11,
             "bbox": [
-                460,
-                417,
-                483,
-                429
+                290,
+                555,
+                339,
+                578
             ]
         },
         {
-            "text": "\u0648\u0627\u0644\u0635\u0648\u0644\u062c\u0627\u0646",
+            "text": "PC",
             "id": 12,
             "bbox": [
-                399,
-                417,
-                455,
-                429
+                357,
+                555,
+                381,
+                577
+            ]
+        },
+        {
+            "text": "Iced",
+            "id": 13,
+            "bbox": [
+                212,
+                588,
+                261,
+                611
+            ]
+        },
+        {
+            "text": "Espresso",
+            "id": 14,
+            "bbox": [
+                278,
+                589,
+                381,
+                614
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Chewy",
+                "Melt",
+                "PC",
+                "Iced",
+                "Espresso"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
             "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "2",
+                "3"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.000"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3:42:29",
-                "PM"
-            ],
-            "value_id": [
-                3,
-                4
+                8,
+                9
             ]
         },
         {
@@ -162,9 +179,22 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "24/07/2020"
+                "Jun27'20"
             ],
             "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HOME",
+                "BAKERY"
+            ],
+            "value_id": [
+                1,
                 2
             ]
         },
@@ -173,47 +203,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3294.000"
+                "108.00"
             ],
             "value_id": [
                 5
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u0627\u0644\u0639\u0627\u0628",
-                "\u0627\u0644\u0643\u0631\u0629",
-                "\u0648\u0627\u0644\u0635\u0648\u0644\u062c\u0627\u0646"
+                "10:13PM"
             ],
             "value_id": [
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZILLI"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3610348850228"
-            ],
-            "value_id": [
-                9
+                4
             ]
         },
         {
@@ -221,10 +225,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3294.000"
+                "18.00",
+                "90.00"
             ],
             "value_id": [
-                6
+                6,
+                7
             ]
         }
     ],

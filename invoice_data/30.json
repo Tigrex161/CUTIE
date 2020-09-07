@@ -1,131 +1,237 @@
 {
     "text_boxes": [
         {
-            "text": "Dior",
+            "text": "Next",
             "id": 1,
             "bbox": [
-                89,
-                152,
-                260,
-                207
+                247,
+                224,
+                289,
+                243
             ]
         },
         {
-            "text": "BOUTIQUE",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                134,
-                224,
-                211,
-                236
+                297,
+                227,
+                350,
+                245
             ]
         },
         {
-            "text": "25-Jun-2020",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                597,
-                377,
-                688,
-                393
+                359,
+                226,
+                396,
+                242
             ]
         },
         {
-            "text": "16:27:38",
+            "text": "01/07/2020",
             "id": 4,
             "bbox": [
-                724,
-                382,
-                783,
-                399
+                401,
+                678,
+                494,
+                696
             ]
         },
         {
-            "text": "1750.00",
+            "text": "20:14",
             "id": 5,
             "bbox": [
-                738,
-                833,
-                794,
-                848
+                502,
+                673,
+                545,
+                697
             ]
         },
         {
-            "text": "1.750.00",
+            "text": "140.00",
             "id": 6,
             "bbox": [
-                725,
-                562,
-                783,
-                579
+                500,
+                1091,
+                555,
+                1115
             ]
         },
         {
-            "text": "NID",
+            "text": "140.00",
             "id": 7,
             "bbox": [
-                243,
-                558,
-                274,
-                570
+                494,
+                960,
+                548,
+                979
             ]
         },
         {
-            "text": "D",
+            "text": "1.0",
             "id": 8,
             "bbox": [
-                281,
-                558,
-                292,
-                571
+                389,
+                960,
+                411,
+                978
             ]
         },
         {
-            "text": "ANGE",
+            "text": "1.0",
             "id": 9,
             "bbox": [
-                299,
-                558,
-                346,
-                571
+                387,
+                1092,
+                411,
+                1111
             ]
         },
         {
-            "text": "ORBP3INIDA",
+            "text": "WRAP",
             "id": 10,
             "bbox": [
-                32,
-                556,
-                132,
-                572
+                69,
+                874,
+                128,
+                892
+            ]
+        },
+        {
+            "text": "MIDI",
+            "id": 11,
+            "bbox": [
+                135,
+                874,
+                175,
+                892
+            ]
+        },
+        {
+            "text": "PINK",
+            "id": 12,
+            "bbox": [
+                184,
+                873,
+                227,
+                892
+            ]
+        },
+        {
+            "text": "SPOT",
+            "id": 13,
+            "bbox": [
+                236,
+                873,
+                287,
+                892
+            ]
+        },
+        {
+            "text": "X-775996",
+            "id": 14,
+            "bbox": [
+                65,
+                961,
+                149,
+                982
+            ]
+        },
+        {
+            "text": "11",
+            "id": 15,
+            "bbox": [
+                161,
+                963,
+                175,
+                981
+            ]
+        },
+        {
+            "text": "YRS",
+            "id": 16,
+            "bbox": [
+                186,
+                962,
+                224,
+                981
+            ]
+        },
+        {
+            "text": "\u0641\u0633\u062a\u0627\u0646",
+            "id": 17,
+            "bbox": [
+                111,
+                902,
+                154,
+                923
+            ]
+        },
+        {
+            "text": "\u0628\u0646\u0627\u062a",
+            "id": 18,
+            "bbox": [
+                69,
+                904,
+                103,
+                922
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NID",
-                "D",
-                "ANGE"
+                "1.0"
             ],
             "value_id": [
-                7,
-                8,
                 9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:27:38"
+                "WRAP",
+                "MIDI",
+                "PINK",
+                "SPOT"
             ],
             "value_id": [
-                4
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0641\u0633\u062a\u0627\u0646",
+                "\u0628\u0646\u0627\u062a"
+            ],
+            "value_id": [
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.0"
+            ],
+            "value_id": [
+                8
             ]
         },
         {
@@ -133,9 +239,24 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25-Jun-2020"
+                "01/07/2020"
             ],
             "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Next",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
                 3
             ]
         },
@@ -144,23 +265,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1750.00"
+                "140.00"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Dior",
-                "BOUTIQUE"
-            ],
-            "value_id": [
-                1,
-                2
+                6
             ]
         },
         {
@@ -168,10 +276,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ORBP3INIDA"
+                "X-775996",
+                "11",
+                "YRS"
             ],
             "value_id": [
-                10
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:14"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -179,10 +302,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.750.00"
+                "140.00"
             ],
             "value_id": [
-                6
+                7
             ]
         }
     ],

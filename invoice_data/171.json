@@ -1,123 +1,133 @@
 {
     "text_boxes": [
         {
-            "text": "BURBERRY",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                282,
-                7,
-                448,
-                35
+                321,
+                180,
+                390,
+                199
             ]
         },
         {
-            "text": "LONDON",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                312,
-                37,
-                361,
-                48
+                401,
+                180,
+                478,
+                196
             ]
         },
         {
-            "text": "ENGLAND",
+            "text": "20:15",
             "id": 3,
             "bbox": [
-                367,
-                40,
-                422,
-                51
+                352,
+                384,
+                398,
+                400
             ]
         },
         {
-            "text": "12/7/20",
+            "text": "196.00",
             "id": 4,
             "bbox": [
-                262,
-                277,
-                313,
-                293
+                553,
+                625,
+                606,
+                641
             ]
         },
         {
-            "text": "7:26",
+            "text": "196",
             "id": 5,
             "bbox": [
-                262,
-                297,
-                290,
-                310
+                547,
+                536,
+                572,
+                550
             ]
         },
         {
-            "text": "AED830.00",
+            "text": "00",
             "id": 6,
             "bbox": [
-                448,
-                754,
-                514,
-                770
+                582,
+                534,
+                600,
+                547
             ]
         },
         {
-            "text": "830.00",
+            "text": "Men's",
             "id": 7,
             "bbox": [
-                461,
-                608,
-                504,
-                620
+                220,
+                534,
+                265,
+                548
             ]
         },
         {
-            "text": "CN",
+            "text": "Wear",
             "id": 8,
             "bbox": [
-                222,
-                578,
-                238,
-                591
+                274,
+                530,
+                309,
+                545
             ]
         },
         {
-            "text": "\u0637\u0642\u0645",
+            "text": "MENS",
             "id": 9,
             "bbox": [
-                381,
-                591,
-                401,
-                603
+                221,
+                556,
+                256,
+                570
             ]
         },
         {
-            "text": "\u0645\u0644\u0627\u064a\u0633\u0631",
+            "text": "WEAR",
             "id": 10,
             "bbox": [
-                335,
-                591,
-                371,
-                606
+                266,
+                553,
+                302,
+                569
             ]
         },
         {
-            "text": "\u0644\u0644\u0645\u0648\u0644\u0648\u062f",
+            "text": "BOSS",
             "id": 11,
             "bbox": [
-                279,
-                591,
-                328,
-                607
+                312,
+                550,
+                346,
+                566
             ]
         },
         {
-            "text": "\u0627\u0644\u062c\u062f\u064a\u062f",
+            "text": "GREEN",
             "id": 12,
             "bbox": [
-                225,
-                594,
-                265,
-                608
+                356,
+                548,
+                400,
+                563
+            ]
+        },
+        {
+            "text": "900671678",
+            "id": 13,
+            "bbox": [
+                268,
+                573,
+                347,
+                591
             ]
         }
     ],
@@ -127,56 +137,16 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CN"
+                "Men's",
+                "Wear",
+                "MENS",
+                "WEAR",
+                "BOSS",
+                "GREEN"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7:26"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12/7/20"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AED830.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0637\u0642\u0645",
-                "\u0645\u0644\u0627\u064a\u0633\u0631",
-                "\u0644\u0644\u0645\u0648\u0644\u0648\u062f",
-                "\u0627\u0644\u062c\u062f\u064a\u062f"
-            ],
-            "value_id": [
+                7,
+                8,
                 9,
                 10,
                 11,
@@ -188,13 +158,44 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BURBERRY",
-                "LONDON",
-                "ENGLAND"
+                "GALERIES",
+                "LAFAYETTE"
             ],
             "value_id": [
                 1,
-                2,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "196.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900671678"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:15"
+            ],
+            "value_id": [
                 3
             ]
         },
@@ -203,10 +204,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "830.00"
+                "196",
+                "00"
             ],
             "value_id": [
-                7
+                5,
+                6
             ]
         }
     ],

@@ -1,151 +1,185 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                320,
-                241,
-                406,
-                298
+                332,
+                429,
+                421,
+                457
             ]
         },
         {
-            "text": "SHOES",
+            "text": "ROMA",
             "id": 2,
             "bbox": [
-                336,
-                307,
-                389,
-                319
+                365,
+                463,
+                387,
+                468
             ]
         },
         {
-            "text": "4,",
+            "text": "7/4",
             "id": 3,
             "bbox": [
-                567,
-                668,
-                576,
-                677
+                127,
+                438,
+                145,
+                448
             ]
         },
         {
-            "text": "100.00",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                581,
-                667,
-                620,
-                677
+                148,
+                439,
+                167,
+                449
             ]
         },
         {
-            "text": "Jul,",
+            "text": "63129",
             "id": 5,
             "bbox": [
-                449,
-                427,
-                472,
-                436
+                173,
+                441,
+                202,
+                450
             ]
         },
         {
-            "text": "21:29",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                517,
-                425,
-                550,
-                435
+                205,
+                442,
+                218,
+                449
             ]
         },
         {
-            "text": "4,100.00",
+            "text": "1,890.00",
             "id": 7,
             "bbox": [
-                573,
-                580,
-                626,
-                589
+                642,
+                714,
+                671,
+                721
             ]
         },
         {
-            "text": "DIOR",
+            "text": "1,600.52",
             "id": 8,
             "bbox": [
-                97,
-                561,
-                123,
-                569
+                650,
+                662,
+                680,
+                668
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "1",
             "id": 9,
             "bbox": [
-                129,
-                560,
-                171,
-                569
+                498,
+                700,
+                500,
+                705
             ]
         },
         {
-            "text": "SHOES",
+            "text": "CARD",
             "id": 10,
             "bbox": [
-                179,
-                561,
-                212,
-                569
+                206,
+                656,
+                230,
+                663
             ]
         },
         {
-            "text": "L",
+            "text": "CASE/BUGS/CALF",
             "id": 11,
             "bbox": [
-                222,
-                562,
-                252,
-                571
+                234,
+                657,
+                310,
+                665
             ]
         },
         {
-            "text": "ybi",
+            "text": "LEATHER",
             "id": 12,
             "bbox": [
-                270,
-                559,
-                297,
-                570
+                313,
+                658,
+                353,
+                666
+            ]
+        },
+        {
+            "text": "BLACK+YELLOW",
+            "id": 13,
+            "bbox": [
+                362,
+                659,
+                430,
+                667
+            ]
+        },
+        {
+            "text": "+REI",
+            "id": 14,
+            "bbox": [
+                434,
+                661,
+                451,
+                667
+            ]
+        },
+        {
+            "text": "680523",
+            "id": 15,
+            "bbox": [
+                53,
+                653,
+                80,
+                659
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR",
-                "WOMENS",
-                "SHOES"
+                "CARD",
+                "CASE/BUGS/CALF",
+                "LEATHER",
+                "BLACK+YELLOW",
+                "+REI"
             ],
             "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21:29"
-            ],
-            "value_id": [
-                6
+                10,
+                11,
+                12,
+                13,
+                14
             ]
         },
         {
@@ -153,19 +187,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4,",
-                "100.00"
+                "7/4",
+                "2020"
             ],
             "value_id": [
                 3,
@@ -173,25 +196,12 @@
             ]
         },
         {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "L",
-                "ybi"
-            ],
-            "value_id": [
-                11,
-                12
-            ]
-        },
-        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "level",
-                "SHOES"
+                "FENDI",
+                "ROMA"
             ],
             "value_id": [
                 1,
@@ -199,14 +209,49 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,890.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "680523"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "63129",
+                "PM"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4,100.00"
+                "1,600.52"
             ],
             "value_id": [
-                7
+                8
             ]
         }
     ],

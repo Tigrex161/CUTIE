@@ -1,196 +1,137 @@
 {
     "text_boxes": [
         {
-            "text": "Van",
+            "text": "Sstradivarius",
             "id": 1,
             "bbox": [
-                243,
-                147,
-                293,
-                169
+                235,
+                65,
+                430,
+                115
             ]
         },
         {
-            "text": "Cleef",
+            "text": "19-07-2020",
             "id": 2,
             "bbox": [
-                305,
-                146,
-                378,
-                169
+                185,
+                260,
+                255,
+                273
             ]
         },
         {
-            "text": "&",
+            "text": "12:08",
             "id": 3,
             "bbox": [
-                387,
-                151,
-                404,
-                168
+                266,
+                259,
+                299,
+                270
             ]
         },
         {
-            "text": "Arpels",
+            "text": "129",
             "id": 4,
             "bbox": [
-                416,
-                144,
-                501,
-                174
+                434,
+                467,
+                453,
+                477
             ]
         },
         {
-            "text": "26/07/2020",
+            "text": "129",
             "id": 5,
             "bbox": [
-                86,
-                714,
-                132,
-                722
+                431,
+                331,
+                450,
+                340
             ]
         },
         {
-            "text": "17",
+            "text": "1",
             "id": 6,
             "bbox": [
-                136,
-                714,
-                144,
-                721
+                276,
+                337,
+                279,
+                346
             ]
         },
         {
-            "text": "56,500.00",
+            "text": "1.",
             "id": 7,
             "bbox": [
-                650,
-                558,
-                684,
-                565
+                308,
+                394,
+                312,
+                403
             ]
         },
         {
-            "text": "56.500.00",
+            "text": "0133424200402",
             "id": 8,
             "bbox": [
-                651,
-                512,
-                685,
-                520
+                261,
+                353,
+                354,
+                366
             ]
         },
         {
-            "text": "IRE",
+            "text": "SKIRT",
             "id": 9,
             "bbox": [
-                97,
-                503,
-                109,
-                508
+                372,
+                351,
+                406,
+                362
             ]
         },
         {
-            "text": "MAGIC",
+            "text": "10001239",
             "id": 10,
             "bbox": [
-                112,
-                503,
-                133,
-                508
-            ]
-        },
-        {
-            "text": "AL",
-            "id": 11,
-            "bbox": [
-                136,
-                504,
-                143,
-                509
-            ]
-        },
-        {
-            "text": "I",
-            "id": 12,
-            "bbox": [
-                145,
-                503,
-                148,
-                508
-            ]
-        },
-        {
-            "text": "MOPO",
-            "id": 13,
-            "bbox": [
-                151,
-                503,
-                172,
-                508
-            ]
-        },
-        {
-            "text": "GMOP",
-            "id": 14,
-            "bbox": [
-                175,
-                503,
-                195,
-                508
-            ]
-        },
-        {
-            "text": "OPAV",
-            "id": 15,
-            "bbox": [
-                198,
-                503,
-                215,
-                508
-            ]
-        },
-        {
-            "text": "ARP2R200",
-            "id": 16,
-            "bbox": [
-                141,
-                513,
-                180,
-                519
+                189,
+                356,
+                244,
+                369
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1."
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "IRE",
-                "MAGIC",
-                "AL",
-                "I",
-                "MOPO",
-                "GMOP",
-                "OPAV"
+                "0133424200402",
+                "SKIRT"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15
+                8,
+                9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17"
+                "1"
             ],
             "value_id": [
                 6
@@ -201,21 +142,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "26/07/2020"
+                "19-07-2020"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "56,500.00"
-            ],
-            "value_id": [
-                7
+                2
             ]
         },
         {
@@ -223,15 +153,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Van",
-                "Cleef",
-                "&",
-                "Arpels"
+                "Sstradivarius"
             ],
             "value_id": [
-                1,
-                2,
-                3,
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "129"
+            ],
+            "value_id": [
                 4
             ]
         },
@@ -240,10 +175,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ARP2R200"
+                "10001239"
             ],
             "value_id": [
-                16
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:08"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -251,10 +197,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "56.500.00"
+                "129"
             ],
             "value_id": [
-                8
+                5
             ]
         }
     ],

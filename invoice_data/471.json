@@ -1,185 +1,152 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdales",
+            "text": "16/07/20",
             "id": 1,
             "bbox": [
-                167,
-                182,
-                543,
-                249
+                176,
+                410,
+                267,
+                431
             ]
         },
         {
-            "text": "DEII",
+            "text": "1:10",
             "id": 2,
             "bbox": [
-                475,
-                237,
-                542,
-                246
+                293,
+                409,
+                337,
+                429
             ]
         },
         {
-            "text": "25-Jul-2020",
+            "text": "1.",
             "id": 3,
             "bbox": [
-                121,
-                438,
-                238,
-                458
+                331,
+                580,
+                339,
+                598
             ]
         },
         {
-            "text": "12:31:45",
+            "text": "1",
             "id": 4,
             "bbox": [
-                316,
-                442,
-                398,
-                459
+                337,
+                624,
+                349,
+                646
             ]
         },
         {
-            "text": "PM",
+            "text": "PANTS",
             "id": 5,
             "bbox": [
-                410,
-                442,
-                430,
-                458
+                179,
+                579,
+                241,
+                599
             ]
         },
         {
-            "text": "1,640.00",
+            "text": "PANTS",
             "id": 6,
             "bbox": [
-                469,
-                863,
-                554,
-                884
+                178,
+                627,
+                240,
+                647
             ]
         },
         {
-            "text": "1,640.00",
+            "text": "660",
             "id": 7,
             "bbox": [
-                467,
-                671,
-                550,
-                690
+                538,
+                578,
+                574,
+                598
             ]
         },
         {
-            "text": "1",
+            "text": "297",
             "id": 8,
             "bbox": [
-                358,
-                692,
-                365,
-                708
+                542,
+                624,
+                577,
+                643
             ]
         },
         {
-            "text": "OFF",
+            "text": "A058302",
             "id": 9,
             "bbox": [
-                119,
-                670,
-                149,
-                687
+                77,
+                581,
+                165,
+                600
             ]
         },
         {
-            "text": "SHOULDER",
+            "text": "A057888",
             "id": 10,
             "bbox": [
-                162,
-                670,
-                247,
-                687
+                74,
+                629,
+                163,
+                649
             ]
         },
         {
-            "text": "STRETCH",
+            "text": "Juny",
             "id": 11,
             "bbox": [
-                260,
-                670,
-                334,
-                687
-            ]
-        },
-        {
-            "text": "1",
-            "id": 12,
-            "bbox": [
-                544,
-                758,
-                550,
-                773
-            ]
-        },
-        {
-            "text": "213596097",
-            "id": 13,
-            "bbox": [
-                140,
-                692,
-                236,
-                708
+                152,
+                608,
+                195,
+                623
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "OFF",
-                "SHOULDER",
-                "STRETCH"
+                "PANTS",
+                "PANTS"
             ],
             "value_id": [
-                9,
-                10,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Juny"
+            ],
+            "value_id": [
                 11
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
+                "1.",
                 "1"
             ],
             "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:31:45",
-                "PM"
-            ],
-            "value_id": [
-                4,
-                5
+                3,
+                4
             ]
         },
         {
@@ -187,34 +154,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25-Jul-2020"
+                "16/07/20"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,640.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "bloomingdales",
-                "DEII"
-            ],
-            "value_id": [
-                1,
-                2
+                1
             ]
         },
         {
@@ -222,10 +165,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "213596097"
+                "A058302",
+                "A057888"
             ],
             "value_id": [
-                13
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1:10"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -233,10 +189,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,640.00"
+                "660",
+                "297"
             ],
             "value_id": [
-                7
+                7,
+                8
             ]
         }
     ],

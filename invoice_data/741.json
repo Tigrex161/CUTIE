@@ -1,116 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "149",
+            "text": "2107/2020",
             "id": 1,
             "bbox": [
-                472,
-                395,
-                495,
-                407
+                37,
+                555,
+                167,
+                580
             ]
         },
         {
-            "text": "1",
+            "text": "02:46:06",
             "id": 2,
             "bbox": [
-                285,
-                398,
-                290,
-                410
+                178,
+                554,
+                283,
+                578
             ]
         },
         {
-            "text": "0634678667001",
+            "text": "P",
             "id": 3,
             "bbox": [
-                268,
-                420,
-                380,
-                435
+                294,
+                554,
+                305,
+                578
             ]
         },
         {
-            "text": "SCARF",
+            "text": "N",
             "id": 4,
             "bbox": [
-                401,
-                419,
-                442,
-                433
+                313,
+                554,
+                325,
+                578
             ]
         },
         {
             "text": "1",
             "id": 5,
             "bbox": [
-                324,
-                471,
-                329,
-                483
+                296,
+                676,
+                302,
+                699
             ]
         },
         {
-            "text": "149",
+            "text": "00",
             "id": 6,
             "bbox": [
-                474,
-                559,
-                497,
-                571
+                679,
+                667,
+                717,
+                701
             ]
         },
         {
-            "text": "10001738",
+            "text": "1",
             "id": 7,
             "bbox": [
-                180,
-                423,
-                247,
-                436
+                171,
+                796,
+                179,
+                820
             ]
         },
         {
-            "text": "21:04",
+            "text": "MNSPOLO",
             "id": 8,
             "bbox": [
-                273,
-                273,
-                311,
-                287
+                113,
+                714,
+                257,
+                740
             ]
         },
         {
-            "text": "Massimo",
+            "text": "109",
             "id": 9,
             "bbox": [
-                238,
-                71,
-                376,
-                103
+                634,
+                978,
+                686,
+                1013
             ]
         },
         {
-            "text": "Dutti",
+            "text": "00",
             "id": 10,
             "bbox": [
-                389,
-                70,
-                470,
-                99
+                693,
+                976,
+                727,
+                1012
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
                 "1"
             ],
             "value_id": [
-                2
+                7
             ]
         },
         {
@@ -118,16 +118,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0634678667001",
-                "SCARF"
+                "MNSPOLO"
             ],
             "value_id": [
-                3,
-                4
+                8
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
@@ -138,14 +136,14 @@
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:04"
+                "2107/2020"
             ],
             "value_id": [
-                8
+                1
             ]
         },
         {
@@ -153,19 +151,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "149"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Massimo",
-                "Dutti"
+                "109",
+                "00"
             ],
             "value_id": [
                 9,
@@ -173,14 +160,18 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001738"
+                "02:46:06",
+                "P",
+                "N"
             ],
             "value_id": [
-                7
+                2,
+                3,
+                4
             ]
         },
         {
@@ -188,10 +179,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "149"
+                "00"
             ],
             "value_id": [
-                1
+                6
             ]
         }
     ],

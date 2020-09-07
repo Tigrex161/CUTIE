@@ -1,170 +1,209 @@
 {
     "text_boxes": [
         {
-            "text": "SEDDIQI",
+            "text": "NIKE",
             "id": 1,
             "bbox": [
-                533,
-                249,
-                594,
-                267
+                386,
+                218,
+                423,
+                231
             ]
         },
         {
-            "text": "&",
+            "text": "BEACON",
             "id": 2,
             "bbox": [
-                600,
-                252,
-                610,
-                265
+                435,
+                221,
+                514,
+                231
             ]
         },
         {
-            "text": "SONS",
+            "text": "20/07/2020",
             "id": 3,
             "bbox": [
-                616,
-                250,
-                651,
-                267
+                353,
+                320,
+                412,
+                332
             ]
         },
         {
-            "text": "10/07/2020",
+            "text": "20:66",
             "id": 4,
             "bbox": [
-                460,
-                412,
-                507,
-                420
+                353,
+                340,
+                381,
+                352
             ]
         },
         {
-            "text": "2380",
+            "text": "349.00",
             "id": 5,
             "bbox": [
-                198,
-                529,
-                219,
-                537
+                547,
+                820,
+                582,
+                833
             ]
         },
         {
-            "text": "95",
+            "text": "1.00",
             "id": 6,
             "bbox": [
-                222,
-                529,
-                232,
-                536
+                440,
+                698,
+                462,
+                708
             ]
         },
         {
-            "text": "2500.00",
+            "text": "349.00",
             "id": 7,
             "bbox": [
-                200,
+                549,
                 572,
-                233,
-                579
+                586,
+                585
             ]
         },
         {
-            "text": "CS",
+            "text": "JR",
             "id": 8,
             "bbox": [
-                74,
-                615,
-                87,
-                622
+                247,
+                592,
+                257,
+                602
             ]
         },
         {
-            "text": "COMPLETE",
+            "text": "VAPOR",
             "id": 9,
             "bbox": [
-                121,
-                615,
-                179,
-                625
+                266,
+                592,
+                295,
+                602
             ]
         },
         {
-            "text": "SERVICE",
+            "text": "13",
             "id": 10,
             "bbox": [
-                184,
-                616,
-                229,
-                626
+                304,
+                592,
+                313,
+                602
             ]
         },
         {
-            "text": "As",
+            "text": "ACADEMY",
             "id": 11,
             "bbox": [
-                76,
-                637,
-                88,
-                644
+                322,
+                592,
+                363,
+                604
             ]
         },
         {
-            "text": "per",
+            "text": "NJR",
             "id": 12,
             "bbox": [
-                92,
-                639,
-                106,
-                646
+                372,
+                593,
+                389,
+                603
             ]
         },
         {
-            "text": "Service",
+            "text": "TF",
             "id": 13,
             "bbox": [
-                110,
-                637,
-                144,
-                646
+                397,
+                592,
+                406,
+                603
             ]
         },
         {
-            "text": "Report",
+            "text": "NKAT8144-104",
             "id": 14,
             "bbox": [
-                148,
-                638,
-                179,
-                647
+                246,
+                571,
+                319,
+                583
             ]
         },
         {
-            "text": "Attached",
+            "text": "JA",
             "id": 15,
             "bbox": [
-                183,
-                639,
-                223,
-                646
+                247,
+                615,
+                266,
+                624
+            ]
+        },
+        {
+            "text": "la",
+            "id": 16,
+            "bbox": [
+                273,
+                615,
+                293,
+                624
+            ]
+        },
+        {
+            "text": "13",
+            "id": 17,
+            "bbox": [
+                301,
+                613,
+                311,
+                623
+            ]
+        },
+        {
+            "text": "qs",
+            "id": 18,
+            "bbox": [
+                318,
+                612,
+                349,
+                625
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CS",
-                "COMPLETE",
-                "SERVICE",
-                "As",
-                "per",
-                "Service",
-                "Report",
-                "Attached"
+                "JR",
+                "VAPOR",
+                "13",
+                "ACADEMY",
+                "NJR",
+                "TF"
             ],
             "value_id": [
                 8,
@@ -172,9 +211,24 @@
                 10,
                 11,
                 12,
-                13,
-                14,
-                15
+                13
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JA",
+                "la",
+                "13",
+                "qs"
+            ],
+            "value_id": [
+                15,
+                16,
+                17,
+                18
             ]
         },
         {
@@ -182,21 +236,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10/07/2020"
+                "20/07/2020"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2500.00"
-            ],
-            "value_id": [
-                7
+                3
             ]
         },
         {
@@ -204,14 +247,45 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SEDDIQI",
-                "&",
-                "SONS"
+                "NIKE",
+                "BEACON"
             ],
             "value_id": [
                 1,
-                2,
-                3
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "349.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NKAT8144-104"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:66"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -219,12 +293,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2380",
-                "95"
+                "349.00"
             ],
             "value_id": [
-                5,
-                6
+                7
             ]
         }
     ],

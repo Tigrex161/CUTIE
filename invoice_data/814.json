@@ -1,169 +1,109 @@
 {
     "text_boxes": [
         {
-            "text": "Cartier",
+            "text": "Missguided",
             "id": 1,
             "bbox": [
-                301,
-                80,
-                423,
-                116
+                252,
+                199,
+                374,
+                221
             ]
         },
         {
-            "text": "14",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                153,
-                557,
-                160,
-                567
+                387,
+                196,
+                447,
+                213
             ]
         },
         {
-            "text": "45:11",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                162,
-                556,
-                186,
-                567
+                460,
+                196,
+                509,
+                211
             ]
         },
         {
-            "text": "140",
+            "text": "16/07/2020",
             "id": 4,
             "bbox": [
-                648,
-                408,
-                659,
-                413
+                341,
+                1143,
+                437,
+                1159
             ]
         },
         {
-            "text": "00",
+            "text": "8:53:38PM",
             "id": 5,
             "bbox": [
-                662,
-                408,
-                669,
-                413
+                505,
+                1141,
+                592,
+                1155
             ]
         },
         {
-            "text": "CARD",
+            "text": "109.00",
             "id": 6,
             "bbox": [
-                126,
-                381,
-                142,
-                388
+                537,
+                651,
+                595,
+                667
             ]
         },
         {
-            "text": "HOLDER",
+            "text": "109.0",
             "id": 7,
             "bbox": [
-                145,
-                381,
-                169,
-                388
+                552,
+                556,
+                594,
+                570
             ]
         },
         {
-            "text": "MUST",
+            "text": "5059380549857",
             "id": 8,
             "bbox": [
-                171,
-                381,
-                188,
-                387
-            ]
-        },
-        {
-            "text": "4EC",
-            "id": 9,
-            "bbox": [
-                191,
-                381,
-                203,
-                386
-            ]
-        },
-        {
-            "text": "BLKA",
-            "id": 10,
-            "bbox": [
-                205,
-                380,
-                222,
-                386
-            ]
-        },
-        {
-            "text": "O",
-            "id": 11,
-            "bbox": [
-                226,
-                380,
-                237,
-                386
-            ]
-        },
-        {
-            "text": "CALF",
-            "id": 12,
-            "bbox": [
-                239,
-                380,
-                254,
-                386
-            ]
-        },
-        {
-            "text": "L3001370",
-            "id": 13,
-            "bbox": [
-                167,
-                390,
-                203,
-                398
+                174,
+                534,
+                300,
+                549
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CARD",
-                "HOLDER",
-                "MUST",
-                "4EC",
-                "BLKA",
-                "O",
-                "CALF"
+                "16/07/2020"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
+                4
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14",
-                "45:11"
+                "Missguided",
+                "Dubai",
+                "Mall"
             ],
             "value_id": [
+                1,
                 2,
                 3
             ]
@@ -173,23 +113,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "140",
-                "00"
+                "109.00"
             ],
             "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Cartier"
-            ],
-            "value_id": [
-                1
+                6
             ]
         },
         {
@@ -197,10 +124,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L3001370"
+                "5059380549857"
             ],
             "value_id": [
-                13
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8:53:38PM"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "109.0"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

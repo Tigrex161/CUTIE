@@ -1,113 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "Van",
             "id": 1,
             "bbox": [
-                316,
-                134,
-                351,
-                144
+                251,
+                67,
+                300,
+                89
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "Cleef",
             "id": 2,
             "bbox": [
-                357,
-                134,
-                410,
-                145
+                309,
+                66,
+                379,
+                88
             ]
         },
         {
-            "text": "11",
+            "text": "&",
             "id": 3,
             "bbox": [
-                565,
-                335,
-                574,
-                340
+                388,
+                74,
+                405,
+                91
             ]
         },
         {
-            "text": "si",
+            "text": "Arpels",
             "id": 4,
             "bbox": [
-                578,
-                334,
-                591,
-                342
+                412,
+                67,
+                494,
+                99
             ]
         },
         {
-            "text": "1,940.00",
+            "text": "02/07/2020",
             "id": 5,
             "bbox": [
-                613,
-                542,
-                655,
-                550
+                109,
+                595,
+                157,
+                604
             ]
         },
         {
-            "text": "1,940.00",
+            "text": "21:34:30",
             "id": 6,
             "bbox": [
-                613,
-                390,
-                654,
-                398
+                161,
+                595,
+                196,
+                602
             ]
         },
         {
-            "text": "M47542",
+            "text": ".000.00",
             "id": 7,
             "bbox": [
-                47,
-                382,
-                78,
-                390
+                664,
+                448,
+                695,
+                454
             ]
         },
         {
-            "text": "PO.TOILET.26",
+            "text": ",000",
             "id": 8,
             "bbox": [
-                91,
-                379,
-                154,
-                389
+                664,
+                408,
+                681,
+                414
             ]
         },
         {
-            "text": "M",
+            "text": "00",
             "id": 9,
             "bbox": [
-                161,
-                379,
-                177,
-                386
+                683,
+                409,
+                691,
+                413
             ]
         },
         {
-            "text": "TRAVEL",
+            "text": "BRAC",
             "id": 10,
             "bbox": [
-                48,
-                393,
-                80,
-                401
+                128,
+                392,
+                144,
+                397
             ]
         },
         {
-            "text": "ACCESSORIES",
+            "text": "IVOLE",
             "id": 11,
             "bbox": [
-                85,
+                146,
                 391,
-                144,
-                401
+                172,
+                397
+            ]
+        },
+        {
+            "text": "Ya",
+            "id": 12,
+            "bbox": [
+                176,
+                390,
+                186,
+                397
+            ]
+        },
+        {
+            "text": "DIA",
+            "id": 13,
+            "bbox": [
+                184,
+                392,
+                195,
+                397
+            ]
+        },
+        {
+            "text": "MINIM",
+            "id": 14,
+            "bbox": [
+                197,
+                392,
+                218,
+                396
+            ]
+        },
+        {
+            "text": "ARPO1200",
+            "id": 15,
+            "bbox": [
+                170,
+                402,
+                206,
+                407
             ]
         }
     ],
@@ -117,39 +157,26 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "M47542",
-                "PO.TOILET.26",
-                "M",
-                "TRAVEL",
-                "ACCESSORIES"
+                "BRAC",
+                "IVOLE",
+                "Ya",
+                "DIA",
+                "MINIM"
             ],
             "value_id": [
-                7,
-                8,
-                9,
                 10,
-                11
+                11,
+                12,
+                13,
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11",
-                "si"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,940.00"
+                "02/07/2020"
             ],
             "value_id": [
                 5
@@ -160,12 +187,49 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOUIS",
-                "VUITTON"
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
             ],
             "value_id": [
                 1,
-                2
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ".000.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ARPO1200"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:34:30"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -173,10 +237,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,940.00"
+                ",000",
+                "00"
             ],
             "value_id": [
-                6
+                8,
+                9
             ]
         }
     ],

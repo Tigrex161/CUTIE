@@ -1,103 +1,113 @@
 {
     "text_boxes": [
         {
-            "text": "Datei7",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                460,
-                381,
-                491,
-                391
+                369,
+                404,
+                499,
+                468
             ]
         },
         {
-            "text": "Jul,",
+            "text": "01/07/2020",
             "id": 2,
             "bbox": [
-                499,
-                383,
-                518,
-                390
+                84,
+                658,
+                135,
+                667
             ]
         },
         {
-            "text": "2020",
+            "text": "15:45",
             "id": 3,
             "bbox": [
-                527,
-                384,
-                548,
-                392
+                146,
+                658,
+                169,
+                667
             ]
         },
         {
-            "text": "12118",
+            "text": "2,900.00",
             "id": 4,
             "bbox": [
-                556,
-                384,
-                581,
-                393
+                645,
+                792,
+                682,
+                799
             ]
         },
         {
-            "text": "1,775.00",
+            "text": "2,761.90",
             "id": 5,
             "bbox": [
-                592,
-                577,
-                636,
-                587
+                674,
+                735,
+                710,
+                743
             ]
         },
         {
-            "text": "1,775.00",
+            "text": "1.",
             "id": 6,
             "bbox": [
-                596,
-                508,
-                639,
-                516
+                412,
+                742,
+                414,
+                748
             ]
         },
         {
-            "text": "FENDI",
+            "text": "Men",
             "id": 7,
             "bbox": [
-                206,
-                479,
-                231,
-                487
+                246,
+                745,
+                264,
+                752
             ]
         },
         {
-            "text": "MON",
+            "text": "RTW",
             "id": 8,
             "bbox": [
-                239,
-                479,
-                271,
-                489
+                268,
+                744,
+                290,
+                752
             ]
         },
         {
-            "text": "SHOES",
+            "text": "Tee",
             "id": 9,
             "bbox": [
-                279,
-                480,
-                305,
-                492
+                294,
+                743,
+                310,
+                750
             ]
         },
         {
-            "text": "yal",
+            "text": "Shirt",
             "id": 10,
             "bbox": [
-                352,
-                484,
-                375,
-                494
+                315,
+                744,
+                333,
+                750
+            ]
+        },
+        {
+            "text": "0333617A0554",
+            "id": 11,
+            "bbox": [
+                84,
+                746,
+                152,
+                757
             ]
         }
     ],
@@ -107,25 +117,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FENDI",
-                "MON",
-                "SHOES"
+                "Men",
+                "RTW",
+                "Tee",
+                "Shirt"
             ],
             "value_id": [
                 7,
                 8,
-                9
+                9,
+                10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12118"
+                "1."
             ],
             "value_id": [
-                4
+                6
             ]
         },
         {
@@ -133,14 +145,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Datei7",
-                "Jul,",
-                "2020"
+                "01/07/2020"
             ],
             "value_id": [
-                1,
-                2,
-                3
+                2
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
             ]
         },
         {
@@ -148,21 +167,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,775.00"
+                "2,900.00"
             ],
             "value_id": [
-                5
+                4
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "yal"
+                "0333617A0554"
             ],
             "value_id": [
-                10
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:45"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -170,10 +200,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,775.00"
+                "2,761.90"
             ],
             "value_id": [
-                6
+                5
             ]
         }
     ],

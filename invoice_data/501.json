@@ -1,83 +1,83 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                456,
-                322,
-                478,
-                331
+                371,
+                306,
+                543,
+                359
             ]
         },
         {
-            "text": "2020",
+            "text": "11/07/2020",
             "id": 2,
             "bbox": [
-                488,
-                321,
-                512,
-                330
+                123,
+                601,
+                169,
+                610
             ]
         },
         {
-            "text": "19:22",
+            "text": "20.01",
             "id": 3,
             "bbox": [
-                520,
-                322,
-                550,
-                330
+                177,
+                602,
+                201,
+                609
             ]
         },
         {
-            "text": "240.00",
+            "text": "1.450.00",
             "id": 4,
             "bbox": [
-                579,
-                524,
-                619,
-                533
+                664,
+                748,
+                697,
+                754
             ]
         },
         {
-            "text": "240.00",
+            "text": "1.380.95",
             "id": 5,
             "bbox": [
-                582,
-                457,
-                620,
-                462
+                692,
+                690,
+                726,
+                699
             ]
         },
         {
-            "text": "A04775-TFTON:ADS.",
+            "text": "Women",
             "id": 6,
             "bbox": [
-                133,
-                437,
-                243,
-                449
+                275,
+                691,
+                307,
+                697
             ]
         },
         {
-            "text": "rrGE:TAN",
+            "text": "SLG",
             "id": 7,
             "bbox": [
-                263,
-                439,
-                323,
-                450
+                312,
+                691,
+                330,
+                697
             ]
         },
         {
-            "text": "0002229382OR",
+            "text": "S0074CVRI",
             "id": 8,
             "bbox": [
-                128,
-                455,
-                202,
-                463
+                121,
+                688,
+                176,
+                696
             ]
         }
     ],
@@ -87,8 +87,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "A04775-TFTON:ADS.",
-                "rrGE:TAN"
+                "Women",
+                "SLG"
             ],
             "value_id": [
                 6,
@@ -96,27 +96,25 @@
             ]
         },
         {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:22"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "11/07/2020"
             ],
             "value_id": [
-                1,
                 2
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
             ]
         },
         {
@@ -124,7 +122,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "240.00"
+                "1.450.00"
             ],
             "value_id": [
                 4
@@ -135,10 +133,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0002229382OR"
+                "S0074CVRI"
             ],
             "value_id": [
                 8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20.01"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -146,7 +155,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "240.00"
+                "1.380.95"
             ],
             "value_id": [
                 5

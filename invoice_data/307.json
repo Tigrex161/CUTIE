@@ -1,215 +1,149 @@
 {
     "text_boxes": [
         {
-            "text": "Apple",
+            "text": "PEPPERS",
             "id": 1,
             "bbox": [
-                179,
-                48,
-                202,
-                57
+                119,
+                142,
+                601,
+                247
             ]
         },
         {
-            "text": "Dubai",
+            "text": "nashville",
             "id": 2,
             "bbox": [
-                205,
-                48,
-                228,
-                55
+                196,
+                238,
+                339,
+                268
             ]
         },
         {
-            "text": "Mall",
+            "text": "hot",
             "id": 3,
             "bbox": [
-                232,
-                48,
-                248,
-                55
+                352,
+                238,
+                403,
+                267
             ]
         },
         {
-            "text": "Jul.",
+            "text": "chicken",
             "id": 4,
             "bbox": [
-                229,
-                465,
-                240,
-                471
+                412,
+                239,
+                527,
+                267
             ]
         },
         {
-            "text": "10,",
+            "text": "7:33",
             "id": 5,
             "bbox": [
-                245,
-                465,
-                253,
-                472
+                528,
+                420,
+                571,
+                438
             ]
         },
         {
-            "text": "2020",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                257,
-                465,
-                274,
-                472
+                580,
+                418,
+                611,
+                436
             ]
         },
         {
-            "text": "679.00",
+            "text": "4",
             "id": 7,
             "bbox": [
-                535,
-                645,
-                560,
-                651
+                591,
+                664,
+                601,
+                677
             ]
         },
         {
-            "text": "67900",
+            "text": "The",
             "id": 8,
             "bbox": [
-                537,
-                570,
-                560,
-                576
+                158,
+                486,
+                197,
+                505
             ]
         },
         {
-            "text": "AIRPODS",
+            "text": "Sando",
             "id": 9,
             "bbox": [
-                179,
-                423,
-                215,
-                429
-            ]
-        },
-        {
-            "text": "WITH",
-            "id": 10,
-            "bbox": [
-                218,
-                423,
-                238,
-                429
-            ]
-        },
-        {
-            "text": "CHARGING",
-            "id": 11,
-            "bbox": [
-                242,
-                423,
-                285,
-                429
-            ]
-        },
-        {
-            "text": "CASE-ZEE",
-            "id": 12,
-            "bbox": [
-                288,
-                423,
-                326,
-                429
-            ]
-        },
-        {
-            "text": "MV?N2ZE/A",
-            "id": 13,
-            "bbox": [
-                232,
-                438,
-                277,
-                445
+                207,
+                485,
+                273,
+                505
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AIRPODS",
-                "WITH",
-                "CHARGING",
-                "CASE-ZEE"
+                "PEPPERS",
+                "nashville",
+                "hot",
+                "chicken"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12
+                1,
+                2,
+                3,
+                4
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul.",
-                "10,",
-                "2020"
+                "7:33",
+                "PM"
             ],
             "value_id": [
-                4,
                 5,
                 6
             ]
         },
         {
-            "field_name": "total",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "679.00"
+                "4"
             ],
             "value_id": [
                 7
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Apple",
-                "Dubai",
-                "Mall"
+                "The",
+                "Sando"
             ],
             "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MV?N2ZE/A"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "67900"
-            ],
-            "value_id": [
-                8
+                8,
+                9
             ]
         }
     ],

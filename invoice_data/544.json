@@ -1,113 +1,83 @@
 {
     "text_boxes": [
         {
-            "text": "Cartier",
+            "text": "SYMPHONY",
             "id": 1,
             "bbox": [
-                410,
-                292,
-                605,
-                358
+                265,
+                240,
+                461,
+                273
             ]
         },
         {
-            "text": "O9/07/2020",
+            "text": "08:03:00",
             "id": 2,
             "bbox": [
-                119,
-                985,
-                185,
-                994
+                268,
+                385,
+                306,
+                393
             ]
         },
         {
-            "text": "12",
+            "text": "PM",
             "id": 3,
             "bbox": [
-                188,
-                984,
-                208,
-                993
+                310,
+                385,
+                324,
+                393
             ]
         },
         {
-            "text": "20:16",
+            "text": "2100.00",
             "id": 4,
             "bbox": [
-                210,
-                982,
-                238,
-                993
+                597,
+                513,
+                632,
+                520
             ]
         },
         {
-            "text": "11,500.00",
+            "text": "2100.00",
             "id": 5,
             "bbox": [
-                871,
-                823,
-                915,
-                831
+                602,
+                468,
+                633,
+                476
             ]
         },
         {
-            "text": "11500.00",
+            "text": "MOZA",
             "id": 6,
             "bbox": [
-                871,
-                762,
-                920,
-                775
+                107,
+                488,
+                130,
+                495
             ]
         },
         {
-            "text": "EARRINGS",
+            "text": "COLLECTION",
             "id": 7,
             "bbox": [
-                145,
-                762,
-                188,
-                769
+                134,
+                488,
+                187,
+                495
             ]
         },
         {
-            "text": "LOVE",
+            "text": "GREENM",
             "id": 8,
             "bbox": [
                 191,
-                762,
-                211,
-                769
-            ]
-        },
-        {
-            "text": "YG",
-            "id": 9,
-            "bbox": [
-                215,
-                762,
-                225,
-                768
-            ]
-        },
-        {
-            "text": "M1",
-            "id": 10,
-            "bbox": [
-                228,
-                762,
-                246,
-                768
-            ]
-        },
-        {
-            "text": "BB022500",
-            "id": 11,
-            "bbox": [
-                204,
-                774,
-                256,
-                783
+                486,
+                229,
+                497
             ]
         }
     ],
@@ -117,51 +87,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "EARRINGS",
-                "LOVE",
-                "YG",
-                "M1"
+                "MOZA",
+                "COLLECTION",
+                "GREENM"
             ],
             "value_id": [
+                6,
                 7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12",
-                "20:16"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "O9/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11,500.00"
-            ],
-            "value_id": [
-                5
+                8
             ]
         },
         {
@@ -169,21 +102,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Cartier"
+                "SYMPHONY"
             ],
             "value_id": [
                 1
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BB022500"
+                "2100.00"
             ],
             "value_id": [
-                11
+                4
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08:03:00",
+                "PM"
+            ],
+            "value_id": [
+                2,
+                3
             ]
         },
         {
@@ -191,10 +137,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11500.00"
+                "2100.00"
             ],
             "value_id": [
-                6
+                5
             ]
         }
     ],

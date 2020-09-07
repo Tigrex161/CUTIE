@@ -1,103 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "Bumble",
             "id": 1,
             "bbox": [
-                390,
-                246,
-                422,
-                255
+                114,
+                179,
+                201,
+                205
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "Bee",
             "id": 2,
             "bbox": [
-                427,
-                244,
-                475,
-                255
+                215,
+                178,
+                260,
+                198
             ]
         },
         {
-            "text": "25/07/ana0",
+            "text": "22/07/2020",
             "id": 3,
             "bbox": [
-                558,
-                404,
-                610,
-                415
+                405,
+                456,
+                496,
+                474
             ]
         },
         {
-            "text": "2,470.00",
+            "text": "11:36:10",
             "id": 4,
             "bbox": [
-                680,
-                596,
-                721,
-                603
+                398,
+                511,
+                469,
+                525
             ]
         },
         {
-            "text": "2.570.00",
+            "text": "895.00",
             "id": 5,
             "bbox": [
-                675,
-                454,
-                715,
-                461
+                340,
+                895,
+                421,
+                918
             ]
         },
         {
-            "text": "LATT",
+            "text": "895.00",
             "id": 6,
             "bbox": [
-                142,
-                462,
-                171,
-                468
+                482,
+                670,
+                535,
+                683
             ]
         },
         {
-            "text": "Bau1PETRNO90",
+            "text": "leepyhead",
             "id": 7,
             "bbox": [
-                182,
-                460,
-                253,
-                468
+                177,
+                636,
+                271,
+                656
             ]
         },
         {
-            "text": "MATCH-UP",
+            "text": "Deluxet",
             "id": 8,
             "bbox": [
-                259,
-                460,
-                300,
-                468
+                280,
+                635,
+                343,
+                649
             ]
         },
         {
-            "text": "EN",
+            "text": "Pod",
             "id": 9,
             "bbox": [
-                306,
-                461,
-                316,
-                467
+                355,
+                633,
+                382,
+                646
             ]
         },
         {
-            "text": "BHOES",
+            "text": "silver",
             "id": 10,
             "bbox": [
-                141,
-                471,
-                165,
-                477
+                392,
+                629,
+                447,
+                644
+            ]
+        },
+        {
+            "text": "Lining",
+            "id": 11,
+            "bbox": [
+                456,
+                627,
+                511,
+                643
+            ]
+        },
+        {
+            "text": "7394322265678",
+            "id": 12,
+            "bbox": [
+                368,
+                602,
+                486,
+                619
             ]
         }
     ],
@@ -107,18 +127,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LATT",
-                "Bau1PETRNO90",
-                "MATCH-UP",
-                "EN",
-                "BHOES"
+                "leepyhead",
+                "Deluxet",
+                "Pod",
+                "silver",
+                "Lining"
             ],
             "value_id": [
-                6,
                 7,
                 8,
                 9,
-                10
+                10,
+                11
             ]
         },
         {
@@ -126,21 +146,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25/07/ana0"
+                "22/07/2020"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,470.00"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -148,8 +157,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOUIS",
-                "VUITTON"
+                "Bumble",
+                "Bee"
             ],
             "value_id": [
                 1,
@@ -157,14 +166,47 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "895.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7394322265678"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:36:10"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2.570.00"
+                "895.00"
             ],
             "value_id": [
-                5
+                6
             ]
         }
     ],

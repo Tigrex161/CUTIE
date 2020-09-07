@@ -1,113 +1,93 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "HOME",
             "id": 1,
             "bbox": [
-                365,
-                162,
-                439,
-                176
+                296,
+                276,
+                384,
+                297
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "BAKERY",
             "id": 2,
             "bbox": [
-                450,
-                166,
-                532,
-                181
+                411,
+                272,
+                547,
+                294
             ]
         },
         {
-            "text": "12/07/20",
+            "text": "Ju107'20",
             "id": 3,
             "bbox": [
-                315,
-                395,
-                385,
-                408
+                399,
+                532,
+                492,
+                553
             ]
         },
         {
-            "text": "10:57",
+            "text": "07:23P",
             "id": 4,
             "bbox": [
-                398,
-                397,
-                441,
-                407
+                506,
+                531,
+                575,
+                552
             ]
         },
         {
-            "text": "EDE",
+            "text": "158.00",
             "id": 5,
             "bbox": [
-                245,
-                556,
-                268,
-                565
+                499,
+                680,
+                636,
+                699
             ]
         },
         {
-            "text": "SOIR",
+            "text": "158.00",
             "id": 6,
             "bbox": [
-                282,
-                556,
-                316,
-                567
+                568,
+                619,
+                637,
+                641
             ]
         },
         {
-            "text": "ORI",
+            "text": "ChewyMelt",
             "id": 7,
             "bbox": [
-                328,
-                558,
-                351,
-                567
+                243,
+                620,
+                347,
+                643
             ]
         },
         {
-            "text": "ENT",
+            "text": "120",
             "id": 8,
             "bbox": [
-                357,
-                558,
-                378,
-                569
+                365,
+                621,
+                396,
+                640
             ]
         },
         {
-            "text": "10OM",
+            "text": "BX",
             "id": 9,
             "bbox": [
-                395,
-                559,
-                427,
-                571
-            ]
-        },
-        {
-            "text": "1,030.00",
-            "id": 10,
-            "bbox": [
-                562,
-                559,
-                633,
-                573
-            ]
-        },
-        {
-            "text": "875.50",
-            "id": 11,
-            "bbox": [
-                573,
-                721,
-                628,
-                732
+                411,
+                621,
+                432,
+                641
             ]
         }
     ],
@@ -117,29 +97,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "EDE",
-                "SOIR",
-                "ORI",
-                "ENT",
-                "10OM"
+                "ChewyMelt",
+                "120",
+                "BX"
             ],
             "value_id": [
-                5,
-                6,
                 7,
                 8,
                 9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10:57"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -147,21 +112,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12/07/20"
+                "Ju107'20"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "875.50"
-            ],
-            "value_id": [
-                11
             ]
         },
         {
@@ -169,8 +123,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "HOME",
+                "BAKERY"
             ],
             "value_id": [
                 1,
@@ -178,14 +132,36 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "158.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07:23P"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,030.00"
+                "158.00"
             ],
             "value_id": [
-                10
+                6
             ]
         }
     ],

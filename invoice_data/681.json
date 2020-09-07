@@ -1,97 +1,88 @@
 {
     "text_boxes": [
         {
-            "text": "(baby)",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                110,
-                455,
-                191,
-                493
+                383,
+                124,
+                487,
+                162
             ]
         },
         {
-            "text": "71",
+            "text": "23.07-2020",
             "id": 2,
             "bbox": [
-                132,
-                538,
-                140,
-                546
+                307,
+                215,
+                367,
+                223
             ]
         },
         {
-            "text": "28/",
+            "text": "11:08",
             "id": 3,
             "bbox": [
-                144,
-                539,
-                158,
-                546
+                377,
+                215,
+                405,
+                222
             ]
         },
         {
-            "text": "2020",
+            "text": "169",
             "id": 4,
             "bbox": [
-                162,
-                537,
-                184,
-                545
+                515,
+                275,
+                531,
+                283
             ]
         },
         {
-            "text": "504.00",
+            "text": "0430706130701",
             "id": 5,
             "bbox": [
-                680,
-                899,
-                717,
-                908
+                370,
+                286,
+                455,
+                299
             ]
         },
         {
-            "text": "DAMONO",
+            "text": "TROUSERS",
             "id": 6,
             "bbox": [
-                245,
-                624,
-                282,
-                631
+                465,
+                290,
+                512,
+                297
             ]
         },
         {
-            "text": "HEANTEARNGS",
+            "text": "10001105",
             "id": 7,
             "bbox": [
-                284,
-                624,
-                352,
-                632
+                307,
+                287,
+                354,
+                296
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "(baby)"
+                "0430706130701",
+                "TROUSERS"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "504.00"
-            ],
-            "value_id": [
-                5
+                5,
+                6
             ]
         },
         {
@@ -99,27 +90,54 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "71",
-                "28/",
-                "2020"
+                "23.07-2020"
             ],
             "value_id": [
-                2,
-                3,
-                4
+                2
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DAMONO",
-                "HEANTEARNGS"
+                "ZARA"
             ],
             "value_id": [
-                6,
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001105"
+            ],
+            "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:08"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "169"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

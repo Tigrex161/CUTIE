@@ -1,155 +1,165 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "NARS",
             "id": 1,
             "bbox": [
-                333,
-                167,
-                407,
-                187
+                307,
+                191,
+                393,
+                234
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "09-l-2020",
             "id": 2,
             "bbox": [
-                416,
-                162,
-                500,
-                182
+                315,
+                352,
+                355,
+                361
             ]
         },
         {
-            "text": "15/07/20",
+            "text": "11",
             "id": 3,
             "bbox": [
-                280,
-                390,
+                360,
                 353,
-                408
+                365,
+                360
             ]
         },
         {
-            "text": "15:47",
+            "text": "24",
             "id": 4,
             "bbox": [
-                365,
-                386,
-                410,
-                402
+                369,
+                353,
+                377,
+                360
             ]
         },
         {
-            "text": "1,630.00",
+            "text": "113.00",
             "id": 5,
             "bbox": [
-                540,
-                661,
-                617,
-                677
+                414,
+                614,
+                435,
+                620
             ]
         },
         {
-            "text": "Luxurious",
+            "text": "119.00",
             "id": 6,
             "bbox": [
-                204,
-                536,
-                289,
-                550
+                430,
+                528,
+                451,
+                535
             ]
         },
         {
-            "text": "Accessory",
+            "text": "1.",
             "id": 7,
             "bbox": [
-                301,
-                535,
-                388,
-                549
+                433,
+                552,
+                434,
+                558
             ]
         },
         {
-            "text": "MONT",
+            "text": "0140",
             "id": 8,
             "bbox": [
-                203,
-                561,
-                239,
-                574
+                243,
+                500,
+                258,
+                509
             ]
         },
         {
-            "text": "BLANC",
+            "text": "NARS",
             "id": 9,
             "bbox": [
-                252,
-                560,
-                298,
-                574
+                261,
+                500,
+                276,
+                509
             ]
         },
         {
-            "text": "ACC",
+            "text": "POMERCHRONE",
             "id": 10,
             "bbox": [
-                310,
-                560,
-                337,
-                573
+                281,
+                502,
+                321,
+                510
             ]
         },
         {
-            "text": "1,630.00",
+            "text": "EP",
             "id": 11,
             "bbox": [
-                540,
-                556,
-                619,
-                573
+                326,
+                503,
+                332,
+                509
             ]
         },
         {
-            "text": "4992247951",
+            "text": "DOCK'EN",
             "id": 12,
             "bbox": [
-                281,
-                586,
-                374,
-                599
+                337,
+                502,
+                365,
+                510
+            ]
+        },
+        {
+            "text": "024515048030",
+            "id": 13,
+            "bbox": [
+                241,
+                488,
+                290,
+                498
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1."
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Luxurious",
-                "Accessory",
-                "MONT",
-                "BLANC",
-                "ACC"
+                "0140",
+                "NARS",
+                "POMERCHRONE",
+                "EP",
+                "DOCK'EN"
             ],
             "value_id": [
-                6,
-                7,
                 8,
                 9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15:47"
-            ],
-            "value_id": [
-                4
+                10,
+                11,
+                12
             ]
         },
         {
@@ -157,21 +167,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15/07/20"
+                "09-l-2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,630.00"
-            ],
-            "value_id": [
-                5
+                2
             ]
         },
         {
@@ -179,12 +178,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "NARS"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "113.00"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -192,10 +200,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4992247951"
+                "024515048030"
             ],
             "value_id": [
-                12
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11",
+                "24"
+            ],
+            "value_id": [
+                3,
+                4
             ]
         },
         {
@@ -203,10 +224,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,630.00"
+                "119.00"
             ],
             "value_id": [
-                11
+                6
             ]
         }
     ],

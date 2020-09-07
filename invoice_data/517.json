@@ -1,103 +1,113 @@
 {
     "text_boxes": [
         {
-            "text": "Dubai",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                135,
-                173,
-                248,
-                202
+                334,
+                188,
+                714,
+                233
             ]
         },
         {
-            "text": "Aquarium",
+            "text": "09-Jul-2020",
             "id": 2,
             "bbox": [
-                281,
-                179,
-                463,
-                210
+                272,
+                392,
+                395,
+                407
             ]
         },
         {
-            "text": "18/07/20",
+            "text": "800.00",
             "id": 3,
             "bbox": [
-                151,
-                409,
-                243,
-                438
+                655,
+                933,
+                723,
+                950
             ]
         },
         {
-            "text": "149.00",
+            "text": "400.00",
             "id": 4,
             "bbox": [
-                457,
-                818,
-                525,
-                839
+                610,
+                774,
+                677,
+                793
             ]
         },
         {
-            "text": "149.00",
+            "text": "1",
             "id": 5,
             "bbox": [
-                458,
-                616,
-                524,
-                639
+                521,
+                709,
+                527,
+                725
             ]
         },
         {
-            "text": "1",
+            "text": "2",
             "id": 6,
             "bbox": [
-                310,
-                614,
-                330,
-                647
+                713,
+                821,
+                723,
+                838
             ]
         },
         {
-            "text": "MAGNETIC",
+            "text": "213555565",
             "id": 7,
             "bbox": [
-                64,
-                616,
-                157,
-                638
+                292,
+                706,
+                392,
+                723
             ]
         },
         {
-            "text": "BUILDIN",
+            "text": "213555239",
             "id": 8,
             "bbox": [
-                172,
-                617,
-                253,
-                640
+                289,
+                770,
+                391,
+                788
             ]
         },
         {
-            "text": "1",
+            "text": "\u0628\u0644\u0637\u0644\u0648\u0646",
             "id": 9,
             "bbox": [
-                498,
-                1092,
-                502,
-                1113
+                269,
+                662,
+                317,
+                679
+            ]
+        },
+        {
+            "text": "\u0628\u0644\u0637\u0644\u0648\u0646",
+            "id": 10,
+            "bbox": [
+                268,
+                730,
+                315,
+                747
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "2"
             ],
             "value_id": [
                 6
@@ -108,8 +118,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MAGNETIC",
-                "BUILDIN"
+                "213555565",
+                "213555239"
             ],
             "value_id": [
                 7,
@@ -117,14 +127,27 @@
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0628\u0644\u0637\u0644\u0648\u0646",
+                "\u0628\u0644\u0637\u0644\u0648\u0646"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
                 "1"
             ],
             "value_id": [
-                9
+                5
             ]
         },
         {
@@ -132,21 +155,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18/07/20"
+                "09-Jul-2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "149.00"
-            ],
-            "value_id": [
-                4
+                2
             ]
         },
         {
@@ -154,12 +166,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Dubai",
-                "Aquarium"
+                "bloomingdales"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "800.00"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -167,10 +188,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "149.00"
+                "400.00"
             ],
             "value_id": [
-                5
+                4
             ]
         }
     ],

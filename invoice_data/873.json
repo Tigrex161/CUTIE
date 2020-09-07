@@ -1,123 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "NIKE",
+            "text": "MICHAEL",
             "id": 1,
             "bbox": [
-                346,
-                182,
-                384,
-                191
+                200,
+                283,
+                445,
+                325
             ]
         },
         {
-            "text": "BEACON",
+            "text": "KORS",
             "id": 2,
             "bbox": [
-                399,
-                182,
-                459,
-                191
+                466,
+                282,
+                617,
+                324
             ]
         },
         {
-            "text": "30/07/2020",
+            "text": "19-Jul-2020",
             "id": 3,
             "bbox": [
-                321,
-                269,
-                372,
-                280
+                315,
+                638,
+                420,
+                658
             ]
         },
         {
-            "text": "12:45",
+            "text": "20:52",
             "id": 4,
             "bbox": [
-                322,
-                287,
-                346,
-                297
+                432,
+                637,
+                479,
+                656
             ]
         },
         {
-            "text": "549.00",
+            "text": "1,396.50",
             "id": 5,
             "bbox": [
-                501,
-                706,
-                531,
-                715
+                585,
+                1353,
+                664,
+                1379
             ]
         },
         {
-            "text": "549.00",
+            "text": "1,396.50",
             "id": 6,
             "bbox": [
-                491,
-                497,
-                521,
-                506
+                620,
+                1105,
+                699,
+                1131
             ]
         },
         {
             "text": "1",
             "id": 7,
             "bbox": [
-                321,
-                605,
-                322,
-                614
+                331,
+                1115,
+                350,
+                1146
             ]
         },
         {
-            "text": "AIR",
+            "text": "30T9GOEL2B-252:MKS.252:NS:MD",
             "id": 8,
             "bbox": [
-                239,
-                516,
-                253,
-                525
+                118,
+                1042,
+                411,
+                1074
             ]
         },
         {
-            "text": "JORDAN",
+            "text": "CHAIN",
             "id": 9,
             "bbox": [
-                261,
-                516,
-                291,
-                525
+                422,
+                1041,
+                473,
+                1063
             ]
         },
         {
-            "text": "I",
+            "text": "SHLDR",
             "id": 10,
             "bbox": [
-                298,
-                516,
-                300,
-                525
+                484,
+                1039,
+                534,
+                1061
             ]
         },
         {
-            "text": "LON",
+            "text": "023324740050",
             "id": 11,
             "bbox": [
-                308,
-                516,
-                322,
-                525
+                119,
+                1012,
+                244,
+                1037
             ]
         },
         {
-            "text": "NKS53558-606",
+            "text": "\u062f\u0642\u064a\u062f\u0629",
             "id": 12,
             "bbox": [
-                239,
-                498,
-                301,
-                508
+                163,
+                1091,
+                204,
+                1109
             ]
         }
     ],
@@ -127,20 +127,29 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AIR",
-                "JORDAN",
-                "I",
-                "LON"
+                "30T9GOEL2B-252:MKS.252:NS:MD",
+                "CHAIN",
+                "SHLDR"
             ],
             "value_id": [
                 8,
                 9,
-                10,
-                11
+                10
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062f\u0642\u064a\u062f\u0629"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
@@ -151,36 +160,14 @@
             ]
         },
         {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:45"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "30/07/2020"
+                "19-Jul-2020"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "549.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -188,8 +175,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NIKE",
-                "BEACON"
+                "MICHAEL",
+                "KORS"
             ],
             "value_id": [
                 1,
@@ -197,14 +184,36 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,396.50"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NKS53558-606"
+                "023324740050"
             ],
             "value_id": [
-                12
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:52"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -212,7 +221,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "549.00"
+                "1,396.50"
             ],
             "value_id": [
                 6

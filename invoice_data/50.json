@@ -1,193 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "1A",
             "id": 1,
             "bbox": [
-                330,
-                31,
-                368,
-                44
+                258,
+                292,
+                289,
+                306
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "MARTINA",
             "id": 2,
             "bbox": [
-                374,
-                31,
-                431,
-                44
+                296,
+                290,
+                410,
+                306
             ]
         },
         {
-            "text": "MALLETERAM",
+            "text": "05:39",
             "id": 3,
             "bbox": [
-                349,
-                44,
-                407,
-                51
+                251,
+                485,
+                286,
+                495
             ]
         },
         {
-            "text": "MADON",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                343,
-                73,
-                366,
-                77
+                295,
+                486,
+                307,
+                493
             ]
         },
         {
-            "text": "FONDEE",
+            "text": "175.00",
             "id": 5,
             "bbox": [
-                369,
-                72,
-                391,
-                77
+                426,
+                632,
+                467,
+                643
             ]
         },
         {
-            "text": "ENIES",
+            "text": "175.00",
             "id": 6,
             "bbox": [
-                394,
-                73,
-                415,
-                77
+                537,
+                534,
+                579,
+                545
             ]
         },
         {
-            "text": "08/07/2020",
+            "text": "1.",
             "id": 7,
             "bbox": [
-                521,
-                239,
-                583,
-                247
+                333,
+                544,
+                337,
+                551
             ]
         },
         {
-            "text": "10:42",
+            "text": "PMREO1/JS206",
             "id": 8,
             "bbox": [
-                604,
-                239,
-                632,
-                245
+                154,
+                557,
+                231,
+                569
             ]
         },
         {
-            "text": "1,410.00",
+            "text": "00001",
             "id": 9,
             "bbox": [
-                654,
-                462,
-                701,
-                472
+                234,
+                556,
+                280,
+                568
             ]
         },
         {
-            "text": "1,410.00",
+            "text": "H",
             "id": 10,
             "bbox": [
-                659,
+                289,
+                557,
                 295,
-                706,
-                305
+                564
             ]
         },
         {
-            "text": "M65498",
+            "text": "MAN",
             "id": 11,
             "bbox": [
-                29,
-                291,
-                66,
-                298
+                303,
+                555,
+                323,
+                565
             ]
         },
         {
-            "text": "BC.",
+            "text": "T-SHIRT",
             "id": 12,
             "bbox": [
-                78,
-                291,
-                97,
-                301
+                332,
+                554,
+                380,
+                564
             ]
         },
         {
-            "text": "LV",
+            "text": "S/S",
             "id": 13,
             "bbox": [
-                99,
-                291,
-                113,
-                301
+                387,
+                550,
+                419,
+                564
             ]
         },
         {
-            "text": "CIRCLE",
+            "text": "JERSEY",
             "id": 14,
             "bbox": [
-                115,
-                293,
-                150,
-                299
+                416,
+                552,
+                457,
+                561
             ]
         },
         {
-            "text": "MN,",
+            "text": "3097181",
             "id": 15,
             "bbox": [
-                157,
-                294,
-                166,
-                300
-            ]
-        },
-        {
-            "text": "HCLI,",
-            "id": 16,
-            "bbox": [
-                170,
-                294,
-                197,
-                300
-            ]
-        },
-        {
-            "text": "19",
-            "id": 17,
-            "bbox": [
+                154,
+                546,
                 201,
-                294,
-                211,
-                300
-            ]
-        },
-        {
-            "text": "FASHION",
-            "id": 18,
-            "bbox": [
-                30,
-                303,
-                71,
-                309
-            ]
-        },
-        {
-            "text": "JEWRLRY",
-            "id": 19,
-            "bbox": [
-                78,
-                303,
-                119,
-                310
+                556
             ]
         }
     ],
@@ -197,59 +157,33 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "M65498",
-                "BC.",
-                "LV",
-                "CIRCLE",
-                "MN,",
-                "HCLI,",
-                "19",
-                "FASHION",
-                "JEWRLRY"
+                "PMREO1/JS206",
+                "00001",
+                "H",
+                "MAN",
+                "T-SHIRT",
+                "S/S",
+                "JERSEY"
             ],
             "value_id": [
+                8,
+                9,
+                10,
                 11,
                 12,
                 13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10:42"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "08/07/2020"
+                "1."
             ],
             "value_id": [
                 7
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,410.00"
-            ],
-            "value_id": [
-                9
             ]
         },
         {
@@ -257,20 +191,47 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MALLETERAM",
-                "MADON",
-                "FONDEE",
-                "ENIES"
+                "1A",
+                "MARTINA"
             ],
             "value_id": [
                 1,
-                2,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "175.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3097181"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "05:39",
+                "PM"
+            ],
+            "value_id": [
                 3,
-                4,
-                5,
-                6
+                4
             ]
         },
         {
@@ -278,10 +239,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,410.00"
+                "175.00"
             ],
             "value_id": [
-                10
+                6
             ]
         }
     ],

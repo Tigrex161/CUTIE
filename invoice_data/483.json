@@ -1,121 +1,158 @@
 {
     "text_boxes": [
         {
-            "text": "OYSHO",
+            "text": "VALENT\u0399\u039d\u039f",
             "id": 1,
             "bbox": [
-                256,
-                89,
-                400,
-                120
+                596,
+                28,
+                949,
+                90
             ]
         },
         {
-            "text": "11-07-2020",
+            "text": "/",
             "id": 2,
             "bbox": [
-                221,
-                305,
-                273,
-                313
+                780,
+                82,
+                790,
+                95
             ]
         },
         {
-            "text": "13:30",
+            "text": "a",
             "id": 3,
             "bbox": [
-                282,
-                304,
-                306,
-                311
+                817,
+                82,
+                827,
+                95
             ]
         },
         {
-            "text": "240",
+            "text": "7/15/2020",
             "id": 4,
             "bbox": [
-                410,
-                478,
-                424,
-                486
+                1206,
+                135,
+                1270,
+                150
             ]
         },
         {
-            "text": "3021226686503",
+            "text": "9:16:47",
             "id": 5,
             "bbox": [
-                279,
-                374,
-                348,
-                385
+                1200,
+                154,
+                1247,
+                167
             ]
         },
         {
-            "text": "301022",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                281,
-                400,
-                313,
-                411
+                1252,
+                157,
+                1273,
+                167
             ]
         },
         {
-            "text": "TOPS",
+            "text": "2,760.00",
             "id": 7,
             "bbox": [
-                361,
-                373,
-                381,
-                382
+                1271,
+                475,
+                1331,
+                489
             ]
         },
         {
-            "text": "AND",
+            "text": "2,760.00",
             "id": 8,
             "bbox": [
-                388,
-                372,
-                403,
-                381
+                1260,
+                389,
+                1319,
+                404
             ]
         },
         {
-            "text": "SHORTS",
+            "text": "1",
             "id": 9,
             "bbox": [
-                362,
-                400,
-                392,
-                407
+                209,
+                380,
+                221,
+                398
+            ]
+        },
+        {
+            "text": "MULE",
+            "id": 10,
+            "bbox": [
+                433,
+                378,
+                479,
+                395
+            ]
+        },
+        {
+            "text": "Jae",
+            "id": 11,
+            "bbox": [
+                489,
+                385,
+                520,
+                399
+            ]
+        },
+        {
+            "text": "ZW2SOC47VOD",
+            "id": 12,
+            "bbox": [
+                208,
+                347,
+                346,
+                378
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TOPS",
-                "AND",
-                "SHORTS"
+                "1"
             ],
             "value_id": [
-                7,
-                8,
                 9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13:30"
+                "MULE"
             ],
             "value_id": [
-                3
+                10
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jae"
+            ],
+            "value_id": [
+                11
             ]
         },
         {
@@ -123,18 +160,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11-07-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "240"
+                "7/15/2020"
             ],
             "value_id": [
                 4
@@ -145,10 +171,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "OYSHO"
+                "VALENT\u0399\u039d\u039f",
+                "/",
+                "a"
             ],
             "value_id": [
-                1
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,760.00"
+            ],
+            "value_id": [
+                7
             ]
         },
         {
@@ -156,12 +197,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3021226686503",
-                "301022"
+                "ZW2SOC47VOD"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9:16:47",
+                "PM"
             ],
             "value_id": [
                 5,
                 6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,760.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

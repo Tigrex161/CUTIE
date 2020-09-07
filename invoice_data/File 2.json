@@ -1,0 +1,168 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZRA",
+            "id": 1,
+            "bbox": [
+                331,
+                125,
+                449,
+                172
+            ]
+        },
+        {
+            "text": "28-07-2020",
+            "id": 2,
+            "bbox": [
+                249,
+                232,
+                315,
+                242
+            ]
+        },
+        {
+            "text": "18:30",
+            "id": 3,
+            "bbox": [
+                326,
+                233,
+                356,
+                241
+            ]
+        },
+        {
+            "text": "179",
+            "id": 4,
+            "bbox": [
+                475,
+                429,
+                492,
+                437
+            ]
+        },
+        {
+            "text": "179",
+            "id": 5,
+            "bbox": [
+                476,
+                303,
+                494,
+                313
+            ]
+        },
+        {
+            "text": "0265861180014",
+            "id": 6,
+            "bbox": [
+                318,
+                323,
+                404,
+                331
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 7,
+            "bbox": [
+                421,
+                323,
+                452,
+                331
+            ]
+        },
+        {
+            "text": "10001634",
+            "id": 8,
+            "bbox": [
+                250,
+                323,
+                301,
+                330
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:30"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0265861180014",
+                "DRESS"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001634"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "179"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "28-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "179"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZRA"
+            ],
+            "value_id": [
+                1
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1.jpg"
+    }
+}

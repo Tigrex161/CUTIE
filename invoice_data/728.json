@@ -1,192 +1,142 @@
 {
     "text_boxes": [
         {
-            "text": "DOLCE",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                252,
-                260,
-                365,
-                293
+                305,
+                237,
+                367,
+                249
             ]
         },
         {
-            "text": "&",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                374,
-                277,
-                385,
-                290
+                377,
+                234,
+                447,
+                248
             ]
         },
         {
-            "text": "GABBANA",
+            "text": "24/07/20",
             "id": 3,
             "bbox": [
-                394,
-                258,
-                591,
-                295
+                266,
+                441,
+                329,
+                452
             ]
         },
         {
-            "text": "July,",
+            "text": "14:53",
             "id": 4,
             "bbox": [
-                574,
-                421,
-                607,
-                434
+                340,
+                441,
+                377,
+                451
             ]
         },
         {
-            "text": "18",
+            "text": "260.00",
             "id": 5,
             "bbox": [
-                619,
-                422,
-                631,
-                431
+                499,
+                664,
+                544,
+                676
             ]
         },
         {
-            "text": "2020",
+            "text": "260",
             "id": 6,
             "bbox": [
-                640,
-                422,
-                669,
-                433
-            ]
-        },
-        {
-            "text": "21:12",
-            "id": 7,
-            "bbox": [
-                677,
-                422,
-                712,
-                436
-            ]
-        },
-        {
-            "text": "1,",
-            "id": 8,
-            "bbox": [
-                614,
-                725,
-                622,
-                734
-            ]
-        },
-        {
-            "text": "080.",
-            "id": 9,
-            "bbox": [
-                630,
-                722,
-                652,
-                734
+                498,
+                583,
+                520,
+                596
             ]
         },
         {
             "text": "00",
+            "id": 7,
+            "bbox": [
+                529,
+                584,
+                543,
+                595
+            ]
+        },
+        {
+            "text": "Kid's",
+            "id": 8,
+            "bbox": [
+                215,
+                567,
+                253,
+                577
+            ]
+        },
+        {
+            "text": "Wear",
+            "id": 9,
+            "bbox": [
+                263,
+                567,
+                293,
+                578
+            ]
+        },
+        {
+            "text": "OVALL",
             "id": 10,
             "bbox": [
-                656,
-                722,
-                668,
-                733
+                216,
+                587,
+                254,
+                597
             ]
         },
         {
-            "text": "1.",
+            "text": "SKU",
             "id": 11,
             "bbox": [
-                457,
-                641,
-                460,
-                647
+                264,
+                587,
+                285,
+                598
             ]
         },
         {
-            "text": "L52DEGHSSGRHCIAM:",
+            "text": "900981858",
             "id": 12,
             "bbox": [
-                237,
-                613,
-                352,
-                628
-            ]
-        },
-        {
-            "text": "DGA.",
-            "id": 13,
-            "bbox": [
-                354,
-                616,
-                378,
-                628
-            ]
-        },
-        {
-            "text": "HCIAM:2:DRESS",
-            "id": 14,
-            "bbox": [
-                380,
-                616,
-                462,
-                630
-            ]
-        },
-        {
-            "text": "009424842702",
-            "id": 15,
-            "bbox": [
-                148,
-                614,
-                228,
-                624
+                261,
+                604,
+                324,
+                617
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L52DEGHSSGRHCIAM:",
-                "DGA.",
-                "HCIAM:2:DRESS"
+                "Kid's",
+                "Wear",
+                "OVALL",
+                "SKU"
             ],
             "value_id": [
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21:12"
-            ],
-            "value_id": [
-                7
+                8,
+                9,
+                10,
+                11
             ]
         },
         {
@@ -194,29 +144,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July,",
-                "18",
-                "2020"
+                "24/07/20"
             ],
             "value_id": [
-                4,
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,",
-                "080.",
-                "00"
-            ],
-            "value_id": [
-                8,
-                9,
-                10
+                3
             ]
         },
         {
@@ -224,14 +155,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DOLCE",
-                "&",
-                "GABBANA"
+                "GALERIES",
+                "LAFAYETTE"
             ],
             "value_id": [
                 1,
-                2,
-                3
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "260.00"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -239,10 +179,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "009424842702"
+                "900981858"
             ],
             "value_id": [
-                15
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:53"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "260",
+                "00"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         }
     ],

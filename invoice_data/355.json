@@ -1,139 +1,118 @@
 {
     "text_boxes": [
         {
-            "text": "THE",
+            "text": "FREDPERRY",
             "id": 1,
             "bbox": [
-                270,
-                184,
-                357,
-                252
+                303,
+                494,
+                412,
+                518
             ]
         },
         {
-            "text": "MERCHANT",
+            "text": "04/07/20",
             "id": 2,
             "bbox": [
-                355,
-                172,
-                522,
-                246
+                205,
+                623,
+                303,
+                644
             ]
         },
         {
-            "text": "OF",
+            "text": "7:49",
             "id": 3,
             "bbox": [
-                325,
-                229,
-                385,
-                275
+                331,
+                622,
+                378,
+                640
             ]
         },
         {
-            "text": "VENICE",
+            "text": "239.00",
             "id": 4,
             "bbox": [
-                376,
-                231,
-                482,
-                267
+                554,
+                945,
+                631,
+                965
             ]
         },
         {
-            "text": "PM",
+            "text": "239",
             "id": 5,
             "bbox": [
-                532,
-                611,
-                553,
-                622
+                589,
+                814,
+                626,
+                835
             ]
         },
         {
-            "text": "265.00",
+            "text": "POLO",
             "id": 6,
             "bbox": [
-                559,
-                908,
-                625,
-                921
+                220,
+                822,
+                268,
+                843
+            ]
+        },
+        {
+            "text": "FPS",
+            "id": 7,
+            "bbox": [
+                283,
+                821,
+                318,
+                841
+            ]
+        },
+        {
+            "text": "\u0628\u0648\u0644\u0648",
+            "id": 8,
+            "bbox": [
+                195,
+                852,
+                226,
+                870
+            ]
+        },
+        {
+            "text": "A038760",
+            "id": 9,
+            "bbox": [
+                120,
+                823,
+                205,
+                845
             ]
         },
         {
             "text": "1",
-            "id": 7,
-            "bbox": [
-                619,
-                973,
-                627,
-                986
-            ]
-        },
-        {
-            "text": "252.00",
-            "id": 8,
-            "bbox": [
-                557,
-                826,
-                622,
-                839
-            ]
-        },
-        {
-            "text": "1.0",
-            "id": 9,
-            "bbox": [
-                479,
-                825,
-                507,
-                838
-            ]
-        },
-        {
-            "text": "TMOV",
             "id": 10,
             "bbox": [
-                167,
-                823,
-                211,
-                836
-            ]
-        },
-        {
-            "text": "COLLECTI",
-            "id": 11,
-            "bbox": [
-                226,
-                823,
-                313,
-                837
+                586,
+                1101,
+                594,
+                1120
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.0"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TMOV",
-                "COLLECTI"
+                "POLO",
+                "FPS"
             ],
             "value_id": [
-                10,
-                11
+                6,
+                7
             ]
         },
         {
@@ -144,29 +123,29 @@
                 "1"
             ],
             "value_id": [
-                7
+                10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PM"
+                "\u0628\u0648\u0644\u0648"
             ],
             "value_id": [
-                5
+                8
             ]
         },
         {
-            "field_name": "total",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "265.00"
+                "04/07/20"
             ],
             "value_id": [
-                6
+                2
             ]
         },
         {
@@ -174,16 +153,43 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "THE",
-                "MERCHANT",
-                "OF",
-                "VENICE"
+                "FREDPERRY"
             ],
             "value_id": [
-                1,
-                2,
-                3,
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "239.00"
+            ],
+            "value_id": [
                 4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A038760"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7:49"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -191,10 +197,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "252.00"
+                "239"
             ],
             "value_id": [
-                8
+                5
             ]
         }
     ],

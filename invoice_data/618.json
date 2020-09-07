@@ -1,209 +1,150 @@
 {
     "text_boxes": [
         {
-            "text": "Dubni",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                231,
-                373,
-                254,
-                383
+                343,
+                48,
+                432,
+                73
             ]
         },
         {
-            "text": "shoes",
+            "text": "ROMA",
             "id": 2,
             "bbox": [
-                261,
-                376,
-                285,
-                384
+                375,
+                79,
+                397,
+                85
             ]
         },
         {
-            "text": "13/1/20",
+            "text": "718",
             "id": 3,
             "bbox": [
-                238,
-                453,
-                270,
-                465
+                144,
+                62,
+                164,
+                69
             ]
         },
         {
-            "text": "20:35:56",
+            "text": "200",
             "id": 4,
             "bbox": [
-                282,
-                451,
-                318,
-                465
+                167,
+                62,
+                186,
+                69
             ]
         },
         {
-            "text": "2.900",
+            "text": "45720",
             "id": 5,
             "bbox": [
-                354,
-                564,
-                378,
-                575
+                194,
+                59,
+                226,
+                71
             ]
         },
         {
-            "text": "1.",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                192,
-                566,
-                200,
-                576
+                228,
+                59,
+                237,
+                71
             ]
         },
         {
-            "text": "SLIDE",
+            "text": "2,350.00",
             "id": 7,
             "bbox": [
-                109,
-                580,
-                139,
-                592
+                679,
+                456,
+                715,
+                463
             ]
         },
         {
-            "text": "458051DKT00",
+            "text": "228",
             "id": 8,
             "bbox": [
-                151,
-                581,
-                208,
-                594
+                682,
+                293,
+                705,
+                301
             ]
         },
         {
-            "text": "-",
+            "text": "10",
             "id": 9,
             "bbox": [
-                218,
-                582,
-                223,
-                595
+                708,
+                294,
+                716,
+                301
             ]
         },
         {
-            "text": "5702",
+            "text": "WSLDELAMB",
             "id": 10,
             "bbox": [
-                225,
-                584,
-                245,
-                596
+                201,
+                286,
+                263,
+                300
             ]
         },
         {
-            "text": "-",
+            "text": "LEATHER/LEATHERS",
             "id": 11,
             "bbox": [
-                253,
-                583,
-                260,
-                596
+                265,
+                287,
+                372,
+                302
             ]
         },
         {
-            "text": "40",
+            "text": "BLACK",
             "id": 12,
             "bbox": [
-                262,
-                587,
-                271,
-                596
+                379,
+                293,
+                409,
+                302
             ]
         },
         {
-            "text": "2.900",
+            "text": "783401",
             "id": 13,
             "bbox": [
-                358,
-                721,
-                384,
-                730
-            ]
-        },
-        {
-            "text": "1",
-            "id": 14,
-            "bbox": [
-                190,
-                784,
-                191,
-                791
-            ]
-        },
-        {
-            "text": "809411969",
-            "id": 15,
-            "bbox": [
-                113,
-                563,
-                160,
-                575
+                24,
+                289,
+                53,
+                296
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SLIDE",
-                "458051DKT00",
-                "-",
-                "5702",
-                "-",
-                "40"
+                "WSLDELAMB",
+                "LEATHER/LEATHERS",
+                "BLACK"
             ],
             "value_id": [
-                7,
-                8,
-                9,
                 10,
                 11,
                 12
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:35:56"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -211,21 +152,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13/1/20"
+                "718",
+                "200"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2.900"
-            ],
-            "value_id": [
-                13
+                3,
+                4
             ]
         },
         {
@@ -233,8 +165,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Dubni",
-                "shoes"
+                "FENDI",
+                "ROMA"
             ],
             "value_id": [
                 1,
@@ -242,14 +174,38 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,350.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "809411969"
+                "783401"
             ],
             "value_id": [
-                15
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "45720",
+                "PM"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         },
         {
@@ -257,10 +213,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2.900"
+                "228",
+                "10"
             ],
             "value_id": [
-                5
+                8,
+                9
             ]
         }
     ],

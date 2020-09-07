@@ -1,133 +1,113 @@
 {
     "text_boxes": [
         {
-            "text": "BASKET",
+            "text": "ZADIG",
             "id": 1,
             "bbox": [
-                373,
-                149,
-                429,
-                161
+                148,
+                268,
+                327,
+                329
             ]
         },
         {
-            "text": "BOLISTA",
+            "text": "&VOLTAIRE",
             "id": 2,
             "bbox": [
-                443,
-                152,
-                509,
-                164
+                338,
+                268,
+                603,
+                329
             ]
         },
         {
-            "text": "00/07/2020",
+            "text": "July,",
             "id": 3,
             "bbox": [
-                357,
-                233,
-                406,
-                243
+                548,
+                414,
+                580,
+                425
             ]
         },
         {
-            "text": "19:14",
+            "text": "05",
             "id": 4,
             "bbox": [
-                359,
-                249,
-                381,
-                258
+                592,
+                413,
+                605,
+                422
             ]
         },
         {
-            "text": "418.00",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                508,
-                654,
-                535,
-                662
+                614,
+                413,
+                641,
+                422
             ]
         },
         {
-            "text": "419.00",
+            "text": "17:26",
             "id": 6,
             "bbox": [
-                512,
-                458,
-                540,
-                468
+                651,
+                413,
+                686,
+                423
             ]
         },
         {
-            "text": "RIR",
+            "text": "1,530.00",
             "id": 7,
             "bbox": [
-                280,
-                469,
-                293,
-                477
+                598,
+                739,
+                649,
+                747
             ]
         },
         {
-            "text": "JORDAN",
+            "text": "1,530.00",
             "id": 8,
             "bbox": [
-                300,
-                468,
-                327,
-                480
+                603,
+                657,
+                655,
+                671
             ]
         },
         {
-            "text": "1",
+            "text": "PWGAP2003F-NOIR:ZVE.",
             "id": 9,
             "bbox": [
-                334,
-                471,
-                335,
-                479
+                220,
+                638,
+                358,
+                652
             ]
         },
         {
-            "text": "MID",
+            "text": "105824079077",
             "id": 10,
             "bbox": [
-                343,
-                471,
-                356,
-                480
+                125,
+                640,
+                210,
+                652
             ]
         },
         {
-            "text": "SE",
+            "text": "i",
             "id": 11,
             "bbox": [
-                362,
-                470,
-                370,
-                481
-            ]
-        },
-        {
-            "text": "NK852542-005",
-            "id": 12,
-            "bbox": [
-                279,
-                451,
-                337,
-                464
-            ]
-        },
-        {
-            "text": "1.00",
-            "id": 13,
-            "bbox": [
-                428,
-                556,
-                445,
-                565
+                515,
+                639,
+                547,
+                647
             ]
         }
     ],
@@ -137,40 +117,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RIR",
-                "JORDAN",
-                "1",
-                "MID",
-                "SE"
+                "PWGAP2003F-NOIR:ZVE."
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "i"
+            ],
+            "value_id": [
                 11
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:14"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -178,20 +139,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "00/07/2020"
+                "July,",
+                "05",
+                "2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "418.00"
-            ],
-            "value_id": [
+                3,
+                4,
                 5
             ]
         },
@@ -200,8 +154,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BASKET",
-                "BOLISTA"
+                "ZADIG",
+                "&VOLTAIRE"
             ],
             "value_id": [
                 1,
@@ -209,14 +163,36 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,530.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NK852542-005"
+                "105824079077"
             ],
             "value_id": [
-                12
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:26"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -224,10 +200,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "419.00"
+                "1,530.00"
             ],
             "value_id": [
-                6
+                8
             ]
         }
     ],

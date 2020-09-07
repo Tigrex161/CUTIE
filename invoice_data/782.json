@@ -1,160 +1,168 @@
 {
     "text_boxes": [
         {
-            "text": "stradivarius",
+            "text": "19-Jul-2020",
             "id": 1,
             "bbox": [
-                338,
-                87,
-                521,
-                128
+                342,
+                424,
+                390,
+                435
             ]
         },
         {
-            "text": "23.07-2020",
+            "text": "20:11",
             "id": 2,
             "bbox": [
-                280,
-                213,
-                350,
-                237
+                396,
+                425,
+                416,
+                434
             ]
         },
         {
-            "text": "12",
+            "text": "1,392.00",
             "id": 3,
             "bbox": [
-                364,
-                230,
-                374,
-                243
+                461,
+                737,
+                497,
+                747
             ]
         },
         {
-            "text": "30",
+            "text": "1.392.00",
             "id": 4,
             "bbox": [
-                378,
-                237,
-                390,
-                247
+                478,
+                628,
+                515,
+                637
             ]
         },
         {
-            "text": "298",
+            "text": "N3JAO10000:LOVE",
             "id": 5,
             "bbox": [
-                513,
-                453,
-                533,
-                462
+                251,
+                596,
+                321,
+                607
             ]
         },
         {
-            "text": "129",
+            "text": "ROSE",
             "id": 6,
             "bbox": [
-                512,
-                305,
-                529,
-                313
+                327,
+                597,
+                346,
+                606
             ]
         },
         {
-            "text": "169",
+            "text": "&",
             "id": 7,
             "bbox": [
-                512,
-                337,
-                530,
-                345
+                351,
+                598,
+                354,
+                605
             ]
         },
         {
-            "text": "1",
+            "text": "OUO",
             "id": 8,
             "bbox": [
-                363,
-                327,
-                368,
-                335
+                360,
+                598,
+                373,
+                606
             ]
         },
         {
-            "text": "SHIRT",
+            "text": "2020",
             "id": 9,
             "bbox": [
-                454,
-                317,
-                487,
-                332
+                379,
+                599,
+                397,
+                607
             ]
         },
         {
-            "text": "1",
+            "text": "SOML/1:7ELOZ",
             "id": 10,
             "bbox": [
-                363,
-                327,
-                368,
-                335
+                403,
+                598,
+                458,
+                608
             ]
         },
         {
-            "text": "SKIRT",
+            "text": "274615030267",
             "id": 11,
             "bbox": [
-                455,
-                350,
-                487,
-                362
-            ]
-        },
-        {
-            "text": "10001699",
-            "id": 12,
-            "bbox": [
-                278,
-                293,
-                333,
-                312
-            ]
-        },
-        {
-            "text": "10002729",
-            "id": 13,
-            "bbox": [
-                277,
-                326,
-                333,
-                344
+                251,
+                583,
+                307,
+                591
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SHIRT",
-                "1",
-                "SKIRT"
+                "N3JAO10000:LOVE",
+                "ROSE",
+                "&",
+                "OUO",
+                "2020",
+                "SOML/1:7ELOZ"
             ],
             "value_id": [
+                5,
+                6,
+                7,
+                8,
                 9,
-                10,
+                10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19-Jul-2020"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,392.00"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "274615030267"
+            ],
+            "value_id": [
                 11
             ]
         },
@@ -163,58 +171,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12",
-                "30"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "23.07-2020"
+                "20:11"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "298"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "stradivarius"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10001699",
-                "10002729"
-            ],
-            "value_id": [
-                12,
-                13
             ]
         },
         {
@@ -222,12 +182,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "129",
-                "169"
+                "1.392.00"
             ],
             "value_id": [
-                6,
-                7
+                4
             ]
         }
     ],

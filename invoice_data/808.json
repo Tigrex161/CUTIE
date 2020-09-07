@@ -1,96 +1,134 @@
 {
     "text_boxes": [
         {
-            "text": "21/07/2020",
+            "text": "GALENIES",
             "id": 1,
             "bbox": [
-                99,
-                710,
-                144,
-                717
+                402,
+                154,
+                451,
+                165
             ]
         },
         {
-            "text": "16:32:37",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                148,
-                709,
-                181,
-                719
+                459,
+                155,
+                511,
+                164
             ]
         },
         {
-            "text": "6,250.00",
+            "text": "26/07/20",
             "id": 3,
             "bbox": [
-                655,
-                523,
-                684,
-                528
+                376,
+                304,
+                424,
+                316
             ]
         },
         {
-            "text": "LOVEMINI",
+            "text": "19:13",
             "id": 4,
             "bbox": [
-                122,
-                512,
-                152,
-                517
+                432,
+                304,
+                460,
+                315
             ]
         },
         {
-            "text": "ORCLE,",
+            "text": "526.00",
             "id": 5,
             "bbox": [
-                155,
-                512,
-                177,
-                517
+                560,
+                508,
+                597,
+                520
             ]
         },
         {
-            "text": "Pa,",
+            "text": "700.00",
             "id": 6,
             "bbox": [
-                195,
-                512,
-                205,
-                517
+                557,
+                408,
+                591,
+                417
             ]
         },
         {
-            "text": "I",
+            "text": "Shoe",
             "id": 7,
             "bbox": [
-                207,
-                511,
-                209,
-                516
+                335,
+                395,
+                358,
+                407
             ]
         },
         {
-            "text": "DIA",
+            "text": "SHOES",
             "id": 8,
             "bbox": [
-                213,
-                511,
-                223,
-                516
+                335,
+                411,
+                364,
+                422
+            ]
+        },
+        {
+            "text": "HILL",
+            "id": 9,
+            "bbox": [
+                371,
+                412,
+                393,
+                422
+            ]
+        },
+        {
+            "text": "LOW",
+            "id": 10,
+            "bbox": [
+                402,
+                410,
+                419,
+                420
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 11,
+            "bbox": [
+                427,
+                409,
+                443,
+                420
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "time",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:32:37"
+                "Shoe",
+                "SHOES",
+                "HILL",
+                "LOW",
+                "SKU"
             ],
             "value_id": [
-                2
+                7,
+                8,
+                9,
+                10,
+                11
             ]
         },
         {
@@ -98,29 +136,45 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21/07/2020"
+                "26/07/20"
             ],
             "value_id": [
-                1
+                3
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOVEMINI",
-                "ORCLE,",
-                "Pa,",
-                "I",
-                "DIA"
+                "GALENIES",
+                "LAFAYETTE"
             ],
             "value_id": [
-                4,
-                5,
-                6,
-                7,
-                8
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "526.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:13"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -128,10 +182,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6,250.00"
+                "700.00"
             ],
             "value_id": [
-                3
+                6
             ]
         }
     ],

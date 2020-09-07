@@ -1,117 +1,100 @@
 {
     "text_boxes": [
         {
-            "text": "SEAF",
+            "text": "Mamimo",
             "id": 1,
             "bbox": [
-                298,
-                94,
-                387,
-                114
+                351,
+                58,
+                444,
+                80
             ]
         },
         {
-            "text": "OLLY",
+            "text": "Dutti",
             "id": 2,
             "bbox": [
-                424,
-                96,
-                485,
-                116
+                453,
+                57,
+                507,
+                77
             ]
         },
         {
-            "text": "15-07-20",
+            "text": "11-07-2020",
             "id": 3,
             "bbox": [
-                335,
-                418,
-                385,
-                430
+                302,
+                207,
+                361,
+                217
             ]
         },
         {
-            "text": "2:55",
+            "text": "19:18",
             "id": 4,
             "bbox": [
-                479,
-                419,
-                503,
-                429
-            ]
-        },
-        {
-            "text": "199.50",
-            "id": 5,
-            "bbox": [
-                482,
-                560,
-                521,
-                572
-            ]
-        },
-        {
-            "text": "199.50",
-            "id": 6,
-            "bbox": [
-                463,
-                530,
-                500,
-                541
+                370,
+                209,
+                398,
+                218
             ]
         },
         {
             "text": "1",
+            "id": 5,
+            "bbox": [
+                376,
+                285,
+                379,
+                293
+            ]
+        },
+        {
+            "text": "O669165032030",
+            "id": 6,
+            "bbox": [
+                363,
+                300,
+                441,
+                308
+            ]
+        },
+        {
+            "text": "DRESS",
             "id": 7,
             "bbox": [
-                396,
-                532,
-                398,
-                541
+                455,
+                298,
+                484,
+                306
             ]
         },
         {
-            "text": "BAJA",
+            "text": "10001566",
             "id": 8,
             "bbox": [
-                253,
-                515,
-                279,
-                525
-            ]
-        },
-        {
-            "text": "STRIPE",
-            "id": 9,
-            "bbox": [
-                288,
-                515,
-                326,
-                528
-            ]
-        },
-        {
-            "text": "DO",
-            "id": 10,
-            "bbox": [
-                334,
-                515,
-                346,
-                526
-            ]
-        },
-        {
-            "text": "9349623757030-PRLH",
-            "id": 11,
-            "bbox": [
-                253,
-                529,
-                373,
-                542
+                302,
+                299,
+                348,
+                307
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "O669165032030",
+                "DRESS"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
         {
             "field_name": "item_quantity",
             "key_id": [],
@@ -120,33 +103,7 @@
                 "1"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "BAJA",
-                "STRIPE",
-                "DO"
-            ],
-            "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2:55"
-            ],
-            "value_id": [
-                4
+                5
             ]
         },
         {
@@ -154,21 +111,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15-07-20"
+                "11-07-2020"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "199.50"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -176,8 +122,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SEAF",
-                "OLLY"
+                "Mamimo",
+                "Dutti"
             ],
             "value_id": [
                 1,
@@ -189,21 +135,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "9349623757030-PRLH"
+                "10001566"
             ],
             "value_id": [
-                11
+                8
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "199.50"
+                "19:18"
             ],
             "value_id": [
-                6
+                4
             ]
         }
     ],

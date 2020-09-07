@@ -1,123 +1,133 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                273,
-                201,
-                337,
-                213
+                319,
+                343,
+                348,
+                351
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                348,
-                201,
-                420,
-                212
+                354,
+                342,
+                400,
+                352
             ]
         },
         {
-            "text": "28/07/20",
+            "text": "09/07/2020",
             "id": 3,
             "bbox": [
-                226,
-                398,
-                290,
-                411
+                475,
+                513,
+                523,
+                520
             ]
         },
         {
-            "text": "19:29",
+            "text": "2155",
             "id": 4,
             "bbox": [
-                302,
-                397,
-                341,
-                409
+                539,
+                514,
+                561,
+                519
             ]
         },
         {
-            "text": "1,700.00",
+            "text": "1,",
             "id": 5,
             "bbox": [
-                452,
-                626,
-                519,
-                637
+                594,
+                688,
+                604,
+                695
             ]
         },
         {
-            "text": "1,700.00",
+            "text": "000.00",
             "id": 6,
             "bbox": [
-                453,
-                537,
-                520,
-                555
+                606,
+                688,
+                634,
+                695
             ]
         },
         {
-            "text": "Luxurious",
+            "text": "NE2156",
             "id": 7,
             "bbox": [
-                165,
-                525,
-                238,
-                535
+                78,
+                556,
+                106,
+                562
             ]
         },
         {
-            "text": "Accessory",
+            "text": "Pe.CAPICI.Cp",
             "id": 8,
             "bbox": [
-                249,
-                524,
-                322,
-                536
+                118,
+                557,
+                175,
+                563
             ]
         },
         {
-            "text": "SAGS",
+            "text": "TAU",
             "id": 9,
             "bbox": [
-                165,
-                544,
-                196,
-                555
+                182,
+                558,
+                195,
+                563
             ]
         },
         {
-            "text": "DIOR",
+            "text": "MAGNOLIA",
             "id": 10,
             "bbox": [
-                208,
-                545,
-                238,
-                555
+                201,
+                558,
+                239,
+                563
             ]
         },
         {
-            "text": "SKU",
+            "text": "HALL",
             "id": 11,
             "bbox": [
-                249,
-                544,
-                271,
-                555
+                77,
+                565,
+                101,
+                569
             ]
         },
         {
-            "text": "900906601",
+            "text": "LEATRR",
             "id": 12,
             "bbox": [
-                207,
-                564,
-                279,
-                576
+                107,
+                565,
+                140,
+                570
+            ]
+        },
+        {
+            "text": "doops",
+            "id": 13,
+            "bbox": [
+                146,
+                566,
+                169,
+                571
             ]
         }
     ],
@@ -127,29 +137,22 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Luxurious",
-                "Accessory",
-                "SAGS",
-                "DIOR",
-                "SKU"
+                "NE2156",
+                "Pe.CAPICI.Cp",
+                "TAU",
+                "MAGNOLIA",
+                "HALL",
+                "LEATRR",
+                "doops"
             ],
             "value_id": [
                 7,
                 8,
                 9,
                 10,
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:29"
-            ],
-            "value_id": [
-                4
+                11,
+                12,
+                13
             ]
         },
         {
@@ -157,21 +160,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "28/07/20"
+                "09/07/2020"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,700.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -179,8 +171,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "LOUIS",
+                "VUITTON"
             ],
             "value_id": [
                 1,
@@ -188,25 +180,27 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900906601"
+                "1,",
+                "000.00"
             ],
             "value_id": [
-                12
+                5,
+                6
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,700.00"
+                "2155"
             ],
             "value_id": [
-                6
+                4
             ]
         }
     ],

@@ -1,93 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "blomingdales",
+            "text": "Debenhams",
             "id": 1,
             "bbox": [
-                232,
-                252,
-                423,
-                318
+                311,
+                116,
+                407,
+                136
             ]
         },
         {
-            "text": "4:14",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                319,
-                404,
-                340,
-                417
+                413,
+                122,
+                457,
+                138
             ]
         },
         {
-            "text": "2,651.00",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                403,
-                653,
-                446,
-                662
+                464,
+                124,
+                495,
+                139
             ]
         },
         {
-            "text": "2.60)",
+            "text": "22/07/2020",
             "id": 4,
             "bbox": [
-                397,
-                514,
-                423,
-                524
+                469,
+                498,
+                542,
+                514
+            ]
+        },
+        {
+            "text": "14.18",
+            "id": 5,
+            "bbox": [
+                550,
+                499,
+                585,
+                512
+            ]
+        },
+        {
+            "text": "200.00",
+            "id": 6,
+            "bbox": [
+                537,
+                817,
+                581,
+                832
+            ]
+        },
+        {
+            "text": "200",
+            "id": 7,
+            "bbox": [
+                540,
+                719,
+                562,
+                732
             ]
         },
         {
             "text": "00",
-            "id": 5,
-            "bbox": [
-                428,
-                514,
-                441,
-                522
-            ]
-        },
-        {
-            "text": "GIFT",
-            "id": 6,
-            "bbox": [
-                217,
-                517,
-                239,
-                527
-            ]
-        },
-        {
-            "text": "CARD",
-            "id": 7,
-            "bbox": [
-                246,
-                517,
-                267,
-                527
-            ]
-        },
-        {
-            "text": "DETAILS",
             "id": 8,
             "bbox": [
-                273,
-                515,
-                312,
-                525
+                569,
+                720,
+                584,
+                732
             ]
         },
         {
-            "text": "207180010",
+            "text": "1.0",
             "id": 9,
             "bbox": [
-                229,
-                526,
-                279,
-                538
+                454,
+                718,
+                471,
+                730
+            ]
+        },
+        {
+            "text": "MESH",
+            "id": 10,
+            "bbox": [
+                325,
+                627,
+                366,
+                641
+            ]
+        },
+        {
+            "text": "PARTY",
+            "id": 11,
+            "bbox": [
+                373,
+                627,
+                420,
+                643
+            ]
+        },
+        {
+            "text": "1.0",
+            "id": 12,
+            "bbox": [
+                452,
+                815,
+                469,
+                829
             ]
         }
     ],
@@ -97,36 +127,45 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GIFT",
-                "CARD",
-                "DETAILS"
+                "MESH",
+                "PARTY"
             ],
             "value_id": [
-                6,
-                7,
-                8
+                10,
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4:14"
+                "1.0"
             ],
             "value_id": [
-                2
+                12
             ]
         },
         {
-            "field_name": "total",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,651.00"
+                "1.0"
             ],
             "value_id": [
-                3
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22/07/2020"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -134,21 +173,36 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "blomingdales"
+                "Debenhams",
+                "Dubai",
+                "Mall"
             ],
             "value_id": [
-                1
+                1,
+                2,
+                3
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "207180010"
+                "200.00"
             ],
             "value_id": [
-                9
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14.18"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -156,12 +210,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2.60)",
+                "200",
                 "00"
             ],
             "value_id": [
-                4,
-                5
+                7,
+                8
             ]
         }
     ],

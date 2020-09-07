@@ -1,93 +1,83 @@
 {
     "text_boxes": [
         {
-            "text": "MONT",
+            "text": "13.07-2628",
             "id": 1,
             "bbox": [
-                660,
-                295,
-                755,
-                333
+                177,
+                257,
+                245,
+                289
             ]
         },
         {
-            "text": "BLANC",
+            "text": "8713",
             "id": 2,
             "bbox": [
-                661,
-                331,
-                754,
-                356
+                176,
+                276,
+                205,
+                292
             ]
         },
         {
-            "text": "10/07/2020",
+            "text": "149",
             "id": 3,
             "bbox": [
-                167,
-                852,
-                210,
-                859
+                416,
+                479,
+                435,
+                490
             ]
         },
         {
-            "text": "16:15:10",
+            "text": "149",
             "id": 4,
             "bbox": [
-                214,
-                853,
-                246,
-                858
+                410,
+                354,
+                429,
+                363
             ]
         },
         {
-            "text": "35.00",
+            "text": "8003917942036",
             "id": 5,
             "bbox": [
-                709,
-                717,
-                731,
-                724
+                249,
+                364,
+                336,
+                390
             ]
         },
         {
-            "text": "595.00",
+            "text": "TROUSERS",
             "id": 6,
             "bbox": [
-                707,
-                688,
-                728,
-                693
+                352,
+                370,
+                406,
+                386
             ]
         },
         {
-            "text": "M3",
+            "text": "16801575",
             "id": 7,
             "bbox": [
-                182,
-                682,
-                191,
-                686
+                179,
+                344,
+                235,
+                374
             ]
         },
         {
-            "text": "SAATORIAL",
+            "text": "1.",
             "id": 8,
             "bbox": [
-                193,
-                681,
-                225,
-                687
-            ]
-        },
-        {
-            "text": "POCKETSCCBLACE",
-            "id": 9,
-            "bbox": [
-                228,
-                680,
-                286,
-                688
+                287,
+                413,
+                293,
+                422
             ]
         }
     ],
@@ -97,25 +87,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "M3",
-                "SAATORIAL",
-                "POCKETSCCBLACE"
+                "8003917942036",
+                "TROUSERS"
             ],
             "value_id": [
-                7,
-                8,
-                9
+                5,
+                6
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:15:10"
+                "1."
             ],
             "value_id": [
-                4
+                8
             ]
         },
         {
@@ -123,30 +111,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10/07/2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "35.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MONT",
-                "BLANC"
+                "13.07-2628",
+                "8713"
             ],
             "value_id": [
                 1,
@@ -154,14 +120,36 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "149"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16801575"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "595.00"
+                "149"
             ],
             "value_id": [
-                6
+                4
             ]
         }
     ],

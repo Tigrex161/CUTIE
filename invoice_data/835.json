@@ -4,265 +4,145 @@
             "text": "level",
             "id": 1,
             "bbox": [
-                314,
-                387,
-                411,
-                434
+                377,
+                292,
+                442,
+                340
             ]
         },
         {
             "text": "SHOES",
             "id": 2,
             "bbox": [
-                329,
-                438,
-                387,
-                451
+                389,
+                348,
+                429,
+                356
             ]
         },
         {
-            "text": "21",
+            "text": "Jul,",
             "id": 3,
             "bbox": [
-                438,
-                547,
-                451,
-                556
-            ]
-        },
-        {
-            "text": "Ju1,",
-            "id": 4,
-            "bbox": [
-                461,
-                545,
-                489,
-                557
+                502,
+                479,
+                525,
+                488
             ]
         },
         {
             "text": "2020",
+            "id": 4,
+            "bbox": [
+                537,
+                478,
+                562,
+                486
+            ]
+        },
+        {
+            "text": "18:03",
             "id": 5,
             "bbox": [
-                502,
-                544,
-                533,
-                555
+                572,
+                476,
+                605,
+                487
             ]
         },
         {
-            "text": "13:",
+            "text": "1,460.",
             "id": 6,
             "bbox": [
-                544,
-                545,
-                563,
-                554
+                610,
+                714,
+                647,
+                725
             ]
         },
         {
-            "text": "36",
+            "text": "00",
             "id": 7,
             "bbox": [
-                568,
-                545,
-                582,
-                554
+                651,
+                716,
+                663,
+                724
             ]
         },
         {
-            "text": "3,",
+            "text": "1,460.00",
             "id": 8,
             "bbox": [
-                576,
-                825,
-                586,
-                835
+                616,
+                629,
+                668,
+                640
             ]
         },
         {
-            "text": "550.00",
+            "text": "1.",
             "id": 9,
             "bbox": [
-                592,
-                827,
-                637,
-                837
+                452,
+                631,
+                461,
+                640
             ]
         },
         {
-            "text": "3,",
+            "text": "coIV-CLR:",
             "id": 10,
             "bbox": [
-                592,
-                729,
-                602,
-                739
+                165,
+                609,
+                221,
+                620
             ]
         },
         {
-            "text": "550.00",
+            "text": "CGI.CLR:38:ALIA",
             "id": 11,
             "bbox": [
-                608,
-                729,
-                655,
-                740
+                223,
+                609,
+                317,
+                620
             ]
         },
         {
-            "text": "1",
+            "text": "266325049207",
             "id": 12,
             "bbox": [
-                404,
-                726,
-                407,
-                735
+                158,
+                630,
+                234,
+                638
             ]
         },
         {
-            "text": "PCOU",
+            "text": "i",
             "id": 13,
             "bbox": [
-                70,
-                696,
-                95,
-                705
-            ]
-        },
-        {
-            "text": "OTHS:",
-            "id": 14,
-            "bbox": [
-                103,
-                694,
-                137,
-                708
-            ]
-        },
-        {
-            "text": "PRIVATE",
-            "id": 15,
-            "bbox": [
-                139,
-                695,
-                187,
-                709
-            ]
-        },
-        {
-            "text": "COLLECTION",
-            "id": 16,
-            "bbox": [
-                196,
-                697,
-                267,
-                708
-            ]
-        },
-        {
-            "text": "MENS",
-            "id": 17,
-            "bbox": [
-                275,
-                700,
-                304,
-                710
-            ]
-        },
-        {
-            "text": "OTHERSI",
-            "id": 18,
-            "bbox": [
-                313,
-                701,
-                361,
-                711
-            ]
-        },
-        {
-            "text": "s-SLil",
-            "id": 19,
-            "bbox": [
-                382,
-                702,
-                471,
-                715
+                433,
+                609,
+                445,
+                620
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PCOU",
-                "OTHS:",
-                "PRIVATE",
-                "COLLECTION",
-                "MENS",
-                "OTHERSI"
+                "coIV-CLR:",
+                "CGI.CLR:38:ALIA"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:",
-                "36"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21",
-                "Ju1,",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,",
-                "550.00"
-            ],
-            "value_id": [
-                8,
-                9
+                10,
+                11
             ]
         },
         {
@@ -270,10 +150,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "s-SLil"
+                "i"
             ],
             "value_id": [
-                19
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1."
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4
             ]
         },
         {
@@ -290,16 +194,49 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,460.",
+                "00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "266325049207"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:03"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,",
-                "550.00"
+                "1,460.00"
             ],
             "value_id": [
-                10,
-                11
+                8
             ]
         }
     ],

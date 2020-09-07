@@ -1,143 +1,143 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "Debenhams",
             "id": 1,
             "bbox": [
-                296,
                 309,
-                363,
-                321
+                372,
+                426,
+                393
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                374,
-                306,
-                451,
-                319
+                434,
+                377,
+                487,
+                394
             ]
         },
         {
-            "text": "04/07/20",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                261,
-                531,
-                328,
-                545
+                496,
+                378,
+                533,
+                394
             ]
         },
         {
-            "text": "21:14",
+            "text": "13/07/2020",
             "id": 4,
             "bbox": [
-                338,
-                528,
-                379,
-                542
+                495,
+                837,
+                585,
+                858
             ]
         },
         {
-            "text": "1,200.00",
+            "text": "14:35",
             "id": 5,
             "bbox": [
-                501,
-                745,
-                565,
-                761
+                593,
+                840,
+                638,
+                860
             ]
         },
         {
-            "text": "1,200.00",
+            "text": "180.00",
             "id": 6,
             "bbox": [
-                497,
-                661,
-                561,
-                677
+                577,
+                1227,
+                631,
+                1246
             ]
         },
         {
-            "text": "Leather",
+            "text": "180.00",
             "id": 7,
             "bbox": [
-                212,
-                656,
-                269,
-                670
+                574,
+                1105,
+                625,
+                1120
             ]
         },
         {
-            "text": "Accessory",
+            "text": "1.0",
             "id": 8,
             "bbox": [
-                279,
-                651,
-                352,
-                667
+                471,
+                1105,
+                492,
+                1119
             ]
         },
         {
-            "text": "BAG",
+            "text": "JACQUARD",
             "id": 9,
             "bbox": [
-                214,
-                678,
-                237,
-                690
+                170,
+                993,
+                271,
+                1014
             ]
         },
         {
-            "text": "LEATHER",
+            "text": "PARTY",
             "id": 10,
             "bbox": [
-                247,
-                674,
-                303,
-                689
+                280,
+                997,
+                338,
+                1016
             ]
         },
         {
-            "text": "MAYA",
+            "text": "DRESS",
             "id": 11,
             "bbox": [
-                309,
-                669,
-                351,
-                688
+                346,
+                999,
+                406,
+                1018
             ]
         },
         {
-            "text": "H",
+            "text": "1.0",
             "id": 12,
             "bbox": [
-                354,
-                669,
-                365,
-                685
+                471,
+                1226,
+                493,
+                1243
             ]
         },
         {
-            "text": "S",
+            "text": "\u0623\u0635\u0646\u0627\u0641",
             "id": 13,
             "bbox": [
-                372,
-                672,
-                377,
-                682
+                211,
+                1020,
+                263,
+                1037
             ]
         },
         {
-            "text": "900909024",
+            "text": "\u0639\u0627\u0633\u0629",
             "id": 14,
             "bbox": [
-                262,
-                692,
-                330,
-                712
+                169,
+                1020,
+                201,
+                1034
             ]
         }
     ],
@@ -147,33 +147,49 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Leather",
-                "Accessory",
-                "BAG",
-                "LEATHER",
-                "MAYA",
-                "H",
-                "S"
+                "JACQUARD",
+                "PARTY",
+                "DRESS"
             ],
             "value_id": [
-                7,
-                8,
                 9,
                 10,
-                11,
-                12,
-                13
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:14"
+                "1.0"
             ],
             "value_id": [
-                4
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0623\u0635\u0646\u0627\u0641",
+                "\u0639\u0627\u0633\u0629"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.0"
+            ],
+            "value_id": [
+                8
             ]
         },
         {
@@ -181,9 +197,24 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "04/07/20"
+                "13/07/2020"
             ],
             "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Debenhams",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
                 3
             ]
         },
@@ -192,34 +223,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,200.00"
+                "180.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:35"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900909024"
-            ],
-            "value_id": [
-                14
             ]
         },
         {
@@ -227,10 +245,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,200.00"
+                "180.00"
             ],
             "value_id": [
-                6
+                7
             ]
         }
     ],

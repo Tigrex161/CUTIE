@@ -1,149 +1,170 @@
 {
     "text_boxes": [
         {
-            "text": "DUBAI",
+            "text": "Huawei-",
             "id": 1,
             "bbox": [
-                244,
-                251,
-                319,
-                271
+                358,
+                455,
+                401,
+                464
             ]
         },
         {
-            "text": "OPTICAL",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                326,
-                251,
-                433,
-                271
+                405,
+                455,
+                435,
+                466
             ]
         },
         {
-            "text": ":",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                234,
-                519,
-                242,
-                532
+                439,
+                456,
+                460,
+                466
             ]
         },
         {
-            "text": "28/07/2020",
+            "text": "24/07/2020",
             "id": 4,
             "bbox": [
-                244,
-                517,
-                303,
-                532
+                346,
+                561,
+                391,
+                570
             ]
         },
         {
-            "text": "160.00",
+            "text": "399.00",
             "id": 5,
             "bbox": [
-                674,
-                878,
-                709,
-                888
+                487,
+                834,
+                512,
+                842
             ]
         },
         {
-            "text": "160",
+            "text": "399.00",
             "id": 6,
             "bbox": [
+                493,
                 691,
-                680,
-                705,
-                687
+                519,
+                698
             ]
         },
         {
-            "text": ".00",
+            "text": "mm",
             "id": 7,
             "bbox": [
-                708,
-                681,
-                717,
-                687
+                306,
+                688,
+                328,
+                695
             ]
         },
         {
-            "text": "1.00",
+            "text": "mm?",
             "id": 8,
             "bbox": [
-                350,
-                674,
-                367,
-                682
+                333,
+                689,
+                360,
+                696
             ]
         },
         {
-            "text": "CL-BEL-ELI-M-GRYOLIVNO00",
+            "text": "77m7",
             "id": 9,
             "bbox": [
-                185,
-                672,
-                322,
-                682
+                365,
+                690,
+                392,
+                696
             ]
         },
         {
-            "text": "SU-SOL-CLARIITYX-PLUSXKIT",
+            "text": "WAL-CT025",
             "id": 10,
             "bbox": [
-                184,
-                724,
-                325,
-                734
+                397,
+                690,
+                448,
+                699
             ]
         },
         {
-            "text": "200307",
+            "text": "HUAWEI",
             "id": 11,
             "bbox": [
-                189,
-                693,
-                222,
-                701
+                305,
+                710,
+                342,
+                717
             ]
         },
         {
-            "text": "63931",
+            "text": "FREEBUOS",
             "id": 12,
             "bbox": [
-                187,
-                743,
-                215,
-                755
+                346,
+                709,
+                398,
+                720
+            ]
+        },
+        {
+            "text": "3IET025",
+            "id": 13,
+            "bbox": [
+                400,
+                710,
+                434,
+                720
+            ]
+        },
+        {
+            "text": "CARBON",
+            "id": 14,
+            "bbox": [
+                305,
+                720,
+                342,
+                729
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CL-BEL-ELI-M-GRYOLIVNO00",
-                "SU-SOL-CLARIITYX-PLUSXKIT"
+                "mm",
+                "mm?",
+                "77m7",
+                "WAL-CT025",
+                "HUAWEI",
+                "FREEBUOS",
+                "3IET025",
+                "CARBON"
             ],
             "value_id": [
+                7,
+                8,
                 9,
-                10
+                10,
+                11,
+                12,
+                13,
+                14
             ]
         },
         {
@@ -151,23 +172,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                ":",
-                "28/07/2020"
+                "24/07/2020"
             ],
             "value_id": [
-                3,
                 4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "160.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -175,25 +183,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DUBAI",
-                "OPTICAL"
+                "Huawei-",
+                "Dubai",
+                "Mall"
             ],
             "value_id": [
                 1,
-                2
+                2,
+                3
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "200307",
-                "63931"
+                "399.00"
             ],
             "value_id": [
-                11,
-                12
+                5
             ]
         },
         {
@@ -201,12 +209,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "160",
-                ".00"
+                "399.00"
             ],
             "value_id": [
-                6,
-                7
+                6
             ]
         }
     ],

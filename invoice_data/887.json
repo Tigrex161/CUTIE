@@ -1,156 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                300,
-                160,
-                362,
-                169
+                391,
+                164,
+                473,
+                190
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "ROMA",
             "id": 2,
             "bbox": [
-                373,
-                159,
-                442,
-                169
+                419,
+                194,
+                443,
+                202
             ]
         },
         {
-            "text": "26/07/20",
+            "text": "7/10/2020",
             "id": 3,
             "bbox": [
-                258,
-                355,
-                320,
-                365
+                203,
+                177,
+                243,
+                186
             ]
         },
         {
-            "text": "21:45",
+            "text": "95657",
             "id": 4,
             "bbox": [
-                331,
-                354,
-                369,
-                364
+                250,
+                178,
+                277,
+                186
             ]
         },
         {
-            "text": "956.25",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                493,
-                636,
-                541,
-                645
+                280,
+                178,
+                292,
+                185
             ]
         },
         {
-            "text": "1,125.00",
+            "text": "10,400.00",
             "id": 6,
             "bbox": [
-                477,
-                495,
-                539,
-                507
+                681,
+                471,
+                713,
+                480
             ]
         },
         {
-            "text": "Beauty",
+            "text": "15,619.05",
             "id": 7,
             "bbox": [
-                200,
-                473,
-                247,
-                485
-            ]
-        },
-        {
-            "text": "EDP",
-            "id": 8,
-            "bbox": [
-                200,
-                493,
-                223,
-                502
-            ]
-        },
-        {
-            "text": "PRIVE",
-            "id": 9,
-            "bbox": [
-                233,
-                494,
-                272,
-                504
-            ]
-        },
-        {
-            "text": "ROUGE",
-            "id": 10,
-            "bbox": [
-                282,
-                496,
-                321,
-                504
-            ]
-        },
-        {
-            "text": "MALA",
-            "id": 11,
-            "bbox": [
-                330,
-                496,
-                361,
-                505
+                684,
+                408,
+                718,
+                419
             ]
         },
         {
             "text": "1",
-            "id": 12,
+            "id": 8,
             "bbox": [
-                534,
-                557,
-                539,
-                565
+                558,
+                409,
+                559,
+                415
             ]
         },
         {
-            "text": "900670917",
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                556,
+                456,
+                557,
+                462
+            ]
+        },
+        {
+            "text": "HANDLE",
+            "id": 10,
+            "bbox": [
+                267,
+                406,
+                301,
+                413
+            ]
+        },
+        {
+            "text": "BAG/PEEKABOO",
+            "id": 11,
+            "bbox": [
+                303,
+                403,
+                373,
+                416
+            ]
+        },
+        {
+            "text": "CALF",
+            "id": 12,
+            "bbox": [
+                375,
+                404,
+                399,
+                415
+            ]
+        },
+        {
+            "text": "LEATH",
             "id": 13,
             "bbox": [
-                241,
-                514,
-                311,
-                524
+                400,
+                407,
+                427,
+                415
+            ]
+        },
+        {
+            "text": "BRANDY",
+            "id": 14,
+            "bbox": [
+                436,
+                408,
+                471,
+                415
+            ]
+        },
+        {
+            "text": "TOBAC",
+            "id": 15,
+            "bbox": [
+                474,
+                408,
+                507,
+                415
+            ]
+        },
+        {
+            "text": "72897",
+            "id": 16,
+            "bbox": [
+                114,
+                401,
+                141,
+                412
             ]
         }
     ],
     "fields": [
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Beauty",
-                "EDP",
-                "PRIVE",
-                "ROUGE",
-                "MALA"
-            ],
-            "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
         {
             "field_name": "total_items",
             "key_id": [],
@@ -159,18 +170,39 @@
                 "1"
             ],
             "value_id": [
-                12
+                9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:45"
+                "HANDLE",
+                "BAG/PEEKABOO",
+                "CALF",
+                "LEATH",
+                "BRANDY",
+                "TOBAC"
             ],
             "value_id": [
-                4
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
             ]
         },
         {
@@ -178,21 +210,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "26/07/20"
+                "7/10/2020"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "956.25"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -200,8 +221,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "FENDI",
+                "ROMA"
             ],
             "value_id": [
                 1,
@@ -209,14 +230,38 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10,400.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900670917"
+                "72897"
             ],
             "value_id": [
-                13
+                16
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "95657",
+                "PM"
+            ],
+            "value_id": [
+                4,
+                5
             ]
         },
         {
@@ -224,10 +269,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,125.00"
+                "15,619.05"
             ],
             "value_id": [
-                6
+                7
             ]
         }
     ],

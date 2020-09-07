@@ -1,111 +1,147 @@
 {
     "text_boxes": [
         {
-            "text": "07/04/2020",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                163,
-                497,
-                222,
-                509
+                310,
+                190,
+                390,
+                204
             ]
         },
         {
-            "text": "2,485.00",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                536,
-                756,
-                581,
-                765
+                402,
+                188,
+                493,
+                202
             ]
         },
         {
-            "text": "1",
+            "text": "03/07/20",
             "id": 3,
             "bbox": [
-                577,
-                778,
-                580,
-                785
+                237,
+                414,
+                320,
+                430
+            ]
+        },
+        {
+            "text": "13:28",
+            "id": 4,
+            "bbox": [
+                336,
+                413,
+                386,
+                427
+            ]
+        },
+        {
+            "text": "2,500.00",
+            "id": 5,
+            "bbox": [
+                530,
+                686,
+                609,
+                699
+            ]
+        },
+        {
+            "text": "2,",
+            "id": 6,
+            "bbox": [
+                531,
+                586,
+                545,
+                600
+            ]
+        },
+        {
+            "text": "500.00",
+            "id": 7,
+            "bbox": [
+                552,
+                585,
+                614,
+                598
             ]
         },
         {
             "text": "1",
-            "id": 4,
-            "bbox": [
-                473,
-                637,
-                475,
-                644
-            ]
-        },
-        {
-            "text": "OBI",
-            "id": 5,
-            "bbox": [
-                213,
-                628,
-                233,
-                641
-            ]
-        },
-        {
-            "text": "BELT",
-            "id": 6,
-            "bbox": [
-                235,
-                629,
-                255,
-                642
-            ]
-        },
-        {
-            "text": "0010409852",
-            "id": 7,
-            "bbox": [
-                110,
-                629,
-                172,
-                640
-            ]
-        },
-        {
-            "text": "3,380.95",
             "id": 8,
             "bbox": [
-                630,
-                639,
-                675,
-                647
+                604,
+                635,
+                609,
+                646
+            ]
+        },
+        {
+            "text": "Luxurious",
+            "id": 9,
+            "bbox": [
+                185,
+                569,
+                273,
+                580
+            ]
+        },
+        {
+            "text": "Accessory",
+            "id": 10,
+            "bbox": [
+                286,
+                569,
+                375,
+                581
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 11,
+            "bbox": [
+                188,
+                593,
+                235,
+                606
+            ]
+        },
+        {
+            "text": "GUCCI",
+            "id": 12,
+            "bbox": [
+                249,
+                589,
+                303,
+                606
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 13,
+            "bbox": [
+                309,
+                593,
+                335,
+                604
+            ]
+        },
+        {
+            "text": "900906467",
+            "id": 14,
+            "bbox": [
+                239,
+                617,
+                326,
+                630
             ]
         }
     ],
     "fields": [
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "OBI",
-                "BELT"
-            ],
-            "value_id": [
-                5,
-                6
-            ]
-        },
         {
             "field_name": "total_items",
             "key_id": [],
@@ -114,7 +150,26 @@
                 "1"
             ],
             "value_id": [
-                3
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Luxurious",
+                "Accessory",
+                "SHOES",
+                "GUCCI",
+                "SKU"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
             ]
         },
         {
@@ -122,10 +177,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07/04/2020"
+                "03/07/20"
             ],
             "value_id": [
-                1
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
             ]
         },
         {
@@ -133,10 +201,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,485.00"
+                "2,500.00"
             ],
             "value_id": [
-                2
+                5
             ]
         },
         {
@@ -144,10 +212,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0010409852"
+                "900906467"
             ],
             "value_id": [
-                7
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:28"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -155,10 +234,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,380.95"
+                "2,",
+                "500.00"
             ],
             "value_id": [
-                8
+                6,
+                7
             ]
         }
     ],

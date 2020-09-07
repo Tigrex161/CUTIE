@@ -1,0 +1,255 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                351,
+                183,
+                386,
+                195
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                391,
+                185,
+                444,
+                196
+            ]
+        },
+        {
+            "text": "MAE",
+            "id": 3,
+            "bbox": [
+                372,
+                195,
+                392,
+                202
+            ]
+        },
+        {
+            "text": "s",
+            "id": 4,
+            "bbox": [
+                407,
+                197,
+                420,
+                204
+            ]
+        },
+        {
+            "text": "MON",
+            "id": 5,
+            "bbox": [
+                357,
+                219,
+                385,
+                226
+            ]
+        },
+        {
+            "text": "OE",
+            "id": 6,
+            "bbox": [
+                388,
+                220,
+                399,
+                226
+            ]
+        },
+        {
+            "text": "D",
+            "id": 7,
+            "bbox": [
+                412,
+                221,
+                417,
+                227
+            ]
+        },
+        {
+            "text": "15/07/2020",
+            "id": 8,
+            "bbox": [
+                528,
+                382,
+                580,
+                391
+            ]
+        },
+        {
+            "text": "17:01",
+            "id": 9,
+            "bbox": [
+                598,
+                385,
+                623,
+                391
+            ]
+        },
+        {
+            "text": "1,520.00",
+            "id": 10,
+            "bbox": [
+                646,
+                590,
+                689,
+                597
+            ]
+        },
+        {
+            "text": "1,520.00",
+            "id": 11,
+            "bbox": [
+                645,
+                437,
+                687,
+                444
+            ]
+        },
+        {
+            "text": "K61084",
+            "id": 12,
+            "bbox": [
+                78,
+                426,
+                110,
+                434
+            ]
+        },
+        {
+            "text": "BRAC.",
+            "id": 13,
+            "bbox": [
+                123,
+                427,
+                148,
+                434
+            ]
+        },
+        {
+            "text": "ESS.V",
+            "id": 14,
+            "bbox": [
+                151,
+                428,
+                177,
+                434
+            ]
+        },
+        {
+            "text": "FASHION",
+            "id": 15,
+            "bbox": [
+                79,
+                437,
+                116,
+                443
+            ]
+        },
+        {
+            "text": "JEWELRY",
+            "id": 16,
+            "bbox": [
+                123,
+                437,
+                161,
+                445
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "K61084",
+                "BRAC.",
+                "ESS.V",
+                "FASHION",
+                "JEWELRY"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15/07/2020"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MAE",
+                "s",
+                "MON",
+                "OE",
+                "D"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,520.00"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:01"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,520.00"
+            ],
+            "value_id": [
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/905.jpg"
+    }
+}

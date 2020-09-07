@@ -1,85 +1,127 @@
 {
     "text_boxes": [
         {
-            "text": "Enaar",
+            "text": "Project",
             "id": 1,
             "bbox": [
-                323,
-                165,
-                359,
-                180
+                312,
+                522,
+                395,
+                547
             ]
         },
         {
-            "text": "Gift",
+            "text": "X",
             "id": 2,
             "bbox": [
-                369,
-                165,
-                398,
-                179
+                405,
+                524,
+                421,
+                544
             ]
         },
         {
-            "text": "Card",
+            "text": "Paris",
             "id": 3,
             "bbox": [
-                408,
-                163,
-                437,
-                178
+                432,
+                524,
+                489,
+                546
             ]
         },
         {
-            "text": "03/07/2020",
+            "text": "03-Jul-202o",
             "id": 4,
             "bbox": [
-                225,
-                372,
-                302,
-                389
+                267,
+                1071,
+                346,
+                1082
             ]
         },
         {
-            "text": "18:10:34",
+            "text": "9.41",
             "id": 5,
             "bbox": [
-                432,
-                366,
-                493,
-                383
+                373,
+                1073,
+                400,
+                1085
             ]
         },
         {
-            "text": "Gift",
+            "text": "pm",
             "id": 6,
             "bbox": [
-                156,
-                490,
-                186,
-                504
+                407,
+                1076,
+                427,
+                1087
             ]
         },
         {
-            "text": "Card",
+            "text": "255.00",
             "id": 7,
             "bbox": [
-                196,
-                489,
-                227,
-                504
+                494,
+                933,
+                550,
+                948
+            ]
+        },
+        {
+            "text": "300.00",
+            "id": 8,
+            "bbox": [
+                500,
+                789,
+                545,
+                802
+            ]
+        },
+        {
+            "text": "19SB800",
+            "id": 9,
+            "bbox": [
+                301,
+                788,
+                362,
+                799
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19SB800"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "03-Jul-202o"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Enaar",
-                "Gift",
-                "Card"
+                "Project",
+                "X",
+                "Paris"
             ],
             "value_id": [
                 1,
@@ -88,26 +130,13 @@
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "03/07/2020"
+                "255.00"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Gift",
-                "Card"
-            ],
-            "value_id": [
-                6,
                 7
             ]
         },
@@ -116,10 +145,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18:10:34"
+                "9.41",
+                "pm"
             ],
             "value_id": [
-                5
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "300.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

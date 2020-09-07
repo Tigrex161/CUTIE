@@ -1,123 +1,83 @@
 {
     "text_boxes": [
         {
-            "text": "Rana",
+            "text": "4:56",
             "id": 1,
             "bbox": [
-                400,
-                178,
-                489,
-                221
+                335,
+                409,
+                379,
+                436
             ]
         },
         {
-            "text": "16-07-2020",
+            "text": "177.00",
             "id": 2,
             "bbox": [
-                557,
-                309,
-                607,
-                318
+                539,
+                727,
+                615,
+                746
             ]
         },
         {
-            "text": "22:10:55",
+            "text": "177",
             "id": 3,
             "bbox": [
+                576,
+                598,
                 612,
-                311,
-                651,
-                319
+                618
             ]
         },
         {
-            "text": "5,820.00",
+            "text": "T-SHIRTS",
             "id": 4,
             "bbox": [
-                617,
-                470,
-                649,
-                476
+                230,
+                607,
+                323,
+                626
             ]
         },
         {
-            "text": "5,820.00",
+            "text": "A035254",
             "id": 5,
             "bbox": [
-                616,
-                432,
-                648,
-                439
+                126,
+                607,
+                215,
+                626
             ]
         },
         {
-            "text": "SUMMER",
+            "text": "\u062a\u064a",
             "id": 6,
             "bbox": [
-                195,
-                424,
-                231,
-                432
+                265,
+                637,
+                282,
+                653
             ]
         },
         {
-            "text": "CHARMS",
+            "text": "\u0634\u06cc\u0631\u062a",
             "id": 7,
             "bbox": [
-                235,
-                423,
-                271,
-                430
+                204,
+                635,
+                251,
+                654
             ]
         },
         {
-            "text": "SLIPPER",
+            "text": "1",
             "id": 8,
             "bbox": [
-                275,
-                422,
-                311,
-                429
-            ]
-        },
-        {
-            "text": "OST,",
-            "id": 9,
-            "bbox": [
-                315,
-                423,
-                334,
-                430
-            ]
-        },
-        {
-            "text": "K669,",
-            "id": 10,
-            "bbox": [
-                338,
-                424,
-                360,
-                432
-            ]
-        },
-        {
-            "text": "380",
-            "id": 11,
-            "bbox": [
-                363,
-                426,
-                378,
-                432
-            ]
-        },
-        {
-            "text": "1SC11FAIBB861",
-            "id": 12,
-            "bbox": [
-                104,
-                427,
-                160,
-                438
+                570,
+                880,
+                578,
+                898
             ]
         }
     ],
@@ -127,42 +87,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SUMMER",
-                "CHARMS",
-                "SLIPPER",
-                "OST,",
-                "K669,",
-                "380"
+                "T-SHIRTS"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062a\u064a",
+                "\u0634\u06cc\u0631\u062a"
             ],
             "value_id": [
                 6,
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "22:10:55"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16-07-2020"
-            ],
-            "value_id": [
-                2
+                7
             ]
         },
         {
@@ -170,21 +122,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5,820.00"
+                "177.00"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Rana"
-            ],
-            "value_id": [
-                1
+                2
             ]
         },
         {
@@ -192,10 +133,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1SC11FAIBB861"
+                "A035254"
             ],
             "value_id": [
-                12
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4:56"
+            ],
+            "value_id": [
+                1
             ]
         },
         {
@@ -203,10 +155,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5,820.00"
+                "177"
             ],
             "value_id": [
-                5
+                3
             ]
         }
     ],

@@ -1,174 +1,180 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                470,
-                312,
-                494,
-                322
-            ]
-        },
-        {
-            "text": "2020",
-            "id": 2,
-            "bbox": [
-                506,
-                312,
-                533,
-                321
-            ]
-        },
-        {
-            "text": "22:47",
-            "id": 3,
-            "bbox": [
-                542,
-                312,
-                575,
-                322
-            ]
-        },
-        {
-            "text": "3,",
-            "id": 4,
-            "bbox": [
-                591,
-                561,
-                601,
-                571
-            ]
-        },
-        {
-            "text": "100.00",
-            "id": 5,
-            "bbox": [
-                605,
-                561,
-                646,
-                570
-            ]
-        },
-        {
-            "text": "3,",
-            "id": 6,
-            "bbox": [
-                590,
-                475,
-                607,
-                487
-            ]
-        },
-        {
-            "text": "100.00",
-            "id": 7,
-            "bbox": [
-                608,
-                476,
-                647,
-                486
-            ]
-        },
-        {
-            "text": "1.",
-            "id": 8,
-            "bbox": [
-                425,
-                477,
-                430,
-                485
-            ]
-        },
-        {
-            "text": "LOUIS",
-            "id": 9,
-            "bbox": [
-                104,
-                452,
-                138,
-                461
+                393,
+                284,
+                424,
+                295
             ]
         },
         {
             "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                426,
+                287,
+                475,
+                299
+            ]
+        },
+        {
+            "text": "30/06/2030",
+            "id": 3,
+            "bbox": [
+                555,
+                447,
+                603,
+                460
+            ]
+        },
+        {
+            "text": "4.54",
+            "id": 4,
+            "bbox": [
+                618,
+                453,
+                639,
+                460
+            ]
+        },
+        {
+            "text": "4:350.00",
+            "id": 5,
+            "bbox": [
+                671,
+                626,
+                709,
+                632
+            ]
+        },
+        {
+            "text": "2,310.00",
+            "id": 6,
+            "bbox": [
+                660,
+                502,
+                696,
+                510
+            ]
+        },
+        {
+            "text": "3,30.00",
+            "id": 7,
+            "bbox": [
+                659,
+                530,
+                696,
+                537
+            ]
+        },
+        {
+            "text": "LATHN",
+            "id": 8,
+            "bbox": [
+                144,
+                478,
+                173,
+                484
+            ]
+        },
+        {
+            "text": "NMHIPAGO2NOS0",
+            "id": 9,
+            "bbox": [
+                185,
+                479,
+                256,
+                490
+            ]
+        },
+        {
+            "text": "MATERPRONT",
             "id": 10,
             "bbox": [
-                146,
-                450,
-                194,
-                462
+                263,
+                484,
+                314,
+                492
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "SHORS",
             "id": 11,
             "bbox": [
-                202,
-                453,
-                243,
-                463
+                142,
+                487,
+                167,
+                494
             ]
         },
         {
-            "text": "SHOES",
+            "text": "MOIL",
             "id": 12,
             "bbox": [
-                252,
-                454,
-                285,
-                462
+                143,
+                507,
+                173,
+                514
             ]
         },
         {
-            "text": "LLI",
+            "text": "BOLIMDMGRMO9S",
             "id": 13,
             "bbox": [
-                350,
-                453,
-                380,
-                464
+                185,
+                509,
+                256,
+                518
+            ]
+        },
+        {
+            "text": "HOCKENEIM",
+            "id": 14,
+            "bbox": [
+                263,
+                512,
+                314,
+                520
+            ]
+        },
+        {
+            "text": "SHORS",
+            "id": 15,
+            "bbox": [
+                141,
+                516,
+                167,
+                524
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "WOMENS",
-                "SHOES"
+                "LATHN",
+                "NMHIPAGO2NOS0",
+                "MATERPRONT",
+                "SHORS",
+                "MOIL",
+                "BOLIMDMGRMO9S",
+                "HOCKENEIM",
+                "SHORS"
             ],
             "value_id": [
+                8,
                 9,
                 10,
                 11,
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "22:47"
-            ],
-            "value_id": [
-                3
+                12,
+                13,
+                14,
+                15
             ]
         },
         {
@@ -176,8 +182,19 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "30/06/2030"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
             ],
             "value_id": [
                 1,
@@ -189,23 +206,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,",
-                "100.00"
+                "4:350.00"
             ],
             "value_id": [
-                4,
                 5
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LLI"
+                "4.54"
             ],
             "value_id": [
-                13
+                4
             ]
         },
         {
@@ -213,8 +228,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,",
-                "100.00"
+                "2,310.00",
+                "3,30.00"
             ],
             "value_id": [
                 6,

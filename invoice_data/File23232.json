@@ -1,0 +1,294 @@
+{
+    "text_boxes": [
+        {
+            "text": "FENDI",
+            "id": 1,
+            "bbox": [
+                341,
+                108,
+                482,
+                146
+            ]
+        },
+        {
+            "text": "ROMA",
+            "id": 2,
+            "bbox": [
+                394,
+                155,
+                429,
+                164
+            ]
+        },
+        {
+            "text": "22/07/2020",
+            "id": 3,
+            "bbox": [
+                155,
+                193,
+                208,
+                203
+            ]
+        },
+        {
+            "text": "17:15:43",
+            "id": 4,
+            "bbox": [
+                214,
+                194,
+                254,
+                202
+            ]
+        },
+        {
+            "text": "14,680.00",
+            "id": 5,
+            "bbox": [
+                547,
+                617,
+                594,
+                625
+            ]
+        },
+        {
+            "text": "13,990.00",
+            "id": 6,
+            "bbox": [
+                715,
+                446,
+                761,
+                457
+            ]
+        },
+        {
+            "text": "690.00",
+            "id": 7,
+            "bbox": [
+                729,
+                463,
+                761,
+                471
+            ]
+        },
+        {
+            "text": "1.",
+            "id": 8,
+            "bbox": [
+                525,
+                446,
+                534,
+                456
+            ]
+        },
+        {
+            "text": "1.",
+            "id": 9,
+            "bbox": [
+                526,
+                464,
+                529,
+                471
+            ]
+        },
+        {
+            "text": "2",
+            "id": 10,
+            "bbox": [
+                490,
+                493,
+                495,
+                500
+            ]
+        },
+        {
+            "text": "HANDLE",
+            "id": 11,
+            "bbox": [
+                251,
+                447,
+                293,
+                454
+            ]
+        },
+        {
+            "text": "BAG/PEEKABOO/CALF",
+            "id": 12,
+            "bbox": [
+                298,
+                447,
+                415,
+                454
+            ]
+        },
+        {
+            "text": "LEATH",
+            "id": 13,
+            "bbox": [
+                420,
+                447,
+                454,
+                454
+            ]
+        },
+        {
+            "text": "W.WRAPPY/WOVEN",
+            "id": 14,
+            "bbox": [
+                306,
+                463,
+                410,
+                471
+            ]
+        },
+        {
+            "text": "FABRIC",
+            "id": 15,
+            "bbox": [
+                416,
+                463,
+                454,
+                471
+            ]
+        },
+        {
+            "text": "748872",
+            "id": 16,
+            "bbox": [
+                87,
+                445,
+                122,
+                455
+            ]
+        },
+        {
+            "text": "750148",
+            "id": 17,
+            "bbox": [
+                87,
+                463,
+                122,
+                471
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "748872",
+                "750148"
+            ],
+            "value_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.",
+                "1."
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14,680.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "ROMA"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HANDLE",
+                "BAG/PEEKABOO/CALF",
+                "LEATH",
+                "W.WRAPPY/WOVEN",
+                "FABRIC"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:15:43"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22/07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13,990.00",
+                "690.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/31.jpg"
+    }
+}

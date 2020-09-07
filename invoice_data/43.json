@@ -1,73 +1,103 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "Dior",
             "id": 1,
             "bbox": [
-                354,
-                425,
-                502,
-                467
+                89,
+                152,
+                260,
+                207
             ]
         },
         {
-            "text": "137/2020",
+            "text": "BOUTIQUE",
             "id": 2,
             "bbox": [
-                129,
-                675,
-                170,
-                682
+                134,
+                224,
+                211,
+                236
             ]
         },
         {
-            "text": "1731",
+            "text": "25-Jun-2020",
             "id": 3,
             "bbox": [
-                180,
-                674,
-                198,
-                681
+                597,
+                377,
+                688,
+                393
             ]
         },
         {
-            "text": "1,000.00",
+            "text": "16:27:38",
             "id": 4,
             "bbox": [
-                639,
-                808,
-                672,
-                817
+                724,
+                382,
+                783,
+                399
             ]
         },
         {
-            "text": "AED",
+            "text": "1750.00",
             "id": 5,
             "bbox": [
-                688,
-                810,
-                706,
-                817
+                738,
+                833,
+                794,
+                848
             ]
         },
         {
-            "text": "952.38",
+            "text": "1.750.00",
             "id": 6,
             "bbox": [
-                668,
-                754,
-                695,
-                761
+                725,
+                562,
+                783,
+                579
             ]
         },
         {
-            "text": "Pragrane/Makrup/Ski",
+            "text": "NID",
             "id": 7,
             "bbox": [
-                265,
-                752,
-                355,
-                763
+                243,
+                558,
+                274,
+                570
+            ]
+        },
+        {
+            "text": "D",
+            "id": 8,
+            "bbox": [
+                281,
+                558,
+                292,
+                571
+            ]
+        },
+        {
+            "text": "ANGE",
+            "id": 9,
+            "bbox": [
+                299,
+                558,
+                346,
+                571
+            ]
+        },
+        {
+            "text": "ORBP3INIDA",
+            "id": 10,
+            "bbox": [
+                32,
+                556,
+                132,
+                572
             ]
         }
     ],
@@ -77,21 +107,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Pragrane/Makrup/Ski"
+                "NID",
+                "D",
+                "ANGE"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1731"
-            ],
-            "value_id": [
-                3
+                7,
+                8,
+                9
             ]
         },
         {
@@ -99,9 +122,22 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "137/2020"
+                "25-Jun-2020"
             ],
             "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Dior",
+                "BOUTIQUE"
+            ],
+            "value_id": [
+                1,
                 2
             ]
         },
@@ -110,23 +146,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,000.00",
-                "AED"
+                "1750.00"
             ],
             "value_id": [
-                4,
                 5
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR"
+                "ORBP3INIDA"
             ],
             "value_id": [
-                1
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:27:38"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -134,7 +179,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "952.38"
+                "1.750.00"
             ],
             "value_id": [
                 6

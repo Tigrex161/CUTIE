@@ -1,137 +1,121 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "07/03/20",
             "id": 1,
             "bbox": [
-                314,
-                53,
-                392,
-                73
+                348,
+                718,
+                434,
+                737
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "5:31",
             "id": 2,
             "bbox": [
-                404,
-                48,
-                492,
-                68
+                503,
+                720,
+                545,
+                738
             ]
         },
         {
-            "text": "03/07/20",
+            "text": "380.00",
             "id": 3,
             "bbox": [
-                267,
-                307,
-                345,
-                323
+                478,
+                1056,
+                543,
+                1075
             ]
         },
         {
-            "text": "16:00",
+            "text": "765.00",
             "id": 4,
             "bbox": [
-                358,
-                307,
-                405,
-                322
-            ]
-        },
-        {
-            "text": "Women's",
-            "id": 5,
-            "bbox": [
-                200,
-                466,
-                268,
-                480
-            ]
-        },
-        {
-            "text": "Wear",
-            "id": 6,
-            "bbox": [
-                280,
-                466,
-                317,
-                480
-            ]
-        },
-        {
-            "text": "WOMEN",
-            "id": 7,
-            "bbox": [
-                200,
-                491,
-                247,
-                505
-            ]
-        },
-        {
-            "text": "WEAR",
-            "id": 8,
-            "bbox": [
-                260,
-                491,
-                297,
-                504
-            ]
-        },
-        {
-            "text": "BCBG",
-            "id": 9,
-            "bbox": [
-                310,
-                491,
-                347,
-                504
-            ]
-        },
-        {
-            "text": "1,820.00",
-            "id": 10,
-            "bbox": [
-                535,
-                483,
-                609,
-                507
+                468,
+                971,
+                531,
+                990
             ]
         },
         {
             "text": "1",
-            "id": 11,
+            "id": 5,
             "bbox": [
-                200,
-                514,
-                227,
-                532
+                308,
+                969,
+                316,
+                985
             ]
         },
         {
-            "text": "900588772",
-            "id": 12,
+            "text": "Hawai",
+            "id": 6,
             "bbox": [
-                255,
-                512,
-                338,
-                532
+                210,
+                970,
+                259,
+                986
             ]
         },
         {
-            "text": "1,820.00",
-            "id": 13,
+            "text": "i",
+            "id": 7,
             "bbox": [
-                532,
-                587,
-                609,
-                605
+                267,
+                970,
+                269,
+                985
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                534,
+                1134,
+                541,
+                1149
+            ]
+        },
+        {
+            "text": "8056862079564",
+            "id": 9,
+            "bbox": [
+                315,
+                944,
+                451,
+                967
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Hawai",
+                "i"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
         {
             "field_name": "item_quantity",
             "key_id": [],
@@ -140,25 +124,39 @@
                 "1"
             ],
             "value_id": [
-                11
+                5
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Women's",
-                "Wear",
-                "WOMEN",
-                "WEAR",
-                "BCBG"
+                "07/03/20"
             ],
             "value_id": [
-                5,
-                6,
-                7,
-                8,
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "380.00"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8056862079564"
+            ],
+            "value_id": [
                 9
             ]
         },
@@ -167,56 +165,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:00"
+                "5:31"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "03/07/20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,820.00"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900588772"
-            ],
-            "value_id": [
-                12
             ]
         },
         {
@@ -224,10 +176,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,820.00"
+                "765.00"
             ],
             "value_id": [
-                10
+                4
             ]
         }
     ],

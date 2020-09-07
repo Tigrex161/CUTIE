@@ -1,0 +1,147 @@
+{
+    "text_boxes": [
+        {
+            "text": "19Jul'20",
+            "id": 1,
+            "bbox": [
+                450,
+                386,
+                613,
+                423
+            ]
+        },
+        {
+            "text": "Coffee",
+            "id": 2,
+            "bbox": [
+                598,
+                268,
+                721,
+                299
+            ]
+        },
+        {
+            "text": "11:38",
+            "id": 3,
+            "bbox": [
+                644,
+                390,
+                743,
+                424
+            ]
+        },
+        {
+            "text": "500.00",
+            "id": 4,
+            "bbox": [
+                261,
+                922,
+                389,
+                960
+            ]
+        },
+        {
+            "text": "500.00",
+            "id": 5,
+            "bbox": [
+                270,
+                515,
+                395,
+                551
+            ]
+        },
+        {
+            "text": "SBX",
+            "id": 6,
+            "bbox": [
+                682,
+                518,
+                743,
+                554
+            ]
+        },
+        {
+            "text": "TY19",
+            "id": 7,
+            "bbox": [
+                770,
+                519,
+                851,
+                555
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19Jul'20"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Coffee"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "500.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SBX",
+                "TY19"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:38"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "500.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/964.jpg"
+    }
+}

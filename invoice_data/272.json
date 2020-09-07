@@ -1,163 +1,103 @@
 {
     "text_boxes": [
         {
-            "text": "FENDI",
+            "text": "SCOTCH&SODA",
             "id": 1,
             "bbox": [
-                311,
-                252,
-                399,
-                277
+                273,
+                262,
+                446,
+                285
             ]
         },
         {
-            "text": "KIDS",
+            "text": "04/07/20",
             "id": 2,
             "bbox": [
-                373,
-                283,
-                399,
-                292
+                148,
+                389,
+                279,
+                414
             ]
         },
         {
-            "text": "6/30",
+            "text": "8:56",
             "id": 3,
             "bbox": [
-                116,
-                268,
-                138,
-                275
+                315,
+                391,
+                379,
+                416
             ]
         },
         {
-            "text": "2000",
+            "text": "385",
             "id": 4,
             "bbox": [
-                140,
-                268,
-                159,
-                275
+                649,
+                829,
+                697,
+                854
             ]
         },
         {
-            "text": "327",
+            "text": "385",
             "id": 5,
             "bbox": [
-                167,
-                267,
-                183,
-                274
-            ]
-        },
-        {
-            "text": "45",
-            "id": 6,
-            "bbox": [
-                185,
-                268,
-                194,
-                274
-            ]
-        },
-        {
-            "text": "PM",
-            "id": 7,
-            "bbox": [
-                197,
-                267,
-                210,
-                273
-            ]
-        },
-        {
-            "text": "2390.00",
-            "id": 8,
-            "bbox": [
+                651,
                 659,
-                662,
-                695,
-                669
-            ]
-        },
-        {
-            "text": "2276",
-            "id": 9,
-            "bbox": [
-                659,
-                491,
-                681,
-                499
-            ]
-        },
-        {
-            "text": "19",
-            "id": 10,
-            "bbox": [
-                683,
-                492,
-                692,
-                499
+                700,
+                685
             ]
         },
         {
             "text": "1",
-            "id": 11,
+            "id": 6,
             "bbox": [
-                504,
-                540,
-                507,
-                546
+                364,
+                655,
+                375,
+                680
             ]
         },
         {
-            "text": "736093",
-            "id": 12,
+            "text": "SHIRTS",
+            "id": 7,
             "bbox": [
-                18,
-                499,
-                48,
-                506
+                161,
+                652,
+                259,
+                680
             ]
         },
         {
-            "text": "GRL",
-            "id": 13,
+            "text": "L/S",
+            "id": 8,
             "bbox": [
-                181,
-                494,
-                204,
-                504
+                279,
+                653,
+                326,
+                680
             ]
         },
         {
-            "text": "POPELINE",
-            "id": 14,
+            "text": "A057424",
+            "id": 9,
             "bbox": [
-                208,
-                492,
-                255,
-                504
+                28,
+                650,
+                141,
+                677
             ]
         },
         {
-            "text": "DRESS",
-            "id": 15,
+            "text": "\u0642\u0645\u064a\u0635",
+            "id": 10,
             "bbox": [
-                254,
-                493,
-                287,
-                502
-            ]
-        },
-        {
-            "text": "PINK-MULTICOLOR",
-            "id": 16,
-            "bbox": [
-                296,
-                491,
-                382,
-                501
+                126,
+                688,
+                185,
+                715
             ]
         }
     ],
@@ -167,42 +107,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GRL",
-                "POPELINE",
-                "DRESS",
-                "PINK-MULTICOLOR"
+                "SHIRTS",
+                "L/S"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16
+                7,
+                8
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0642\u0645\u064a\u0635"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
                 "1"
             ],
             "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "327",
-                "45",
-                "PM"
-            ],
-            "value_id": [
-                5,
-                6,
-                7
+                6
             ]
         },
         {
@@ -210,23 +142,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6/30",
-                "2000"
+                "04/07/20"
             ],
             "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2390.00"
-            ],
-            "value_id": [
-                8
+                2
             ]
         },
         {
@@ -234,12 +153,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FENDI",
-                "KIDS"
+                "SCOTCH&SODA"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "385"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -247,10 +175,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "736093"
+                "A057424"
             ],
             "value_id": [
-                12
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8:56"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -258,12 +197,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2276",
-                "19"
+                "385"
             ],
             "value_id": [
-                9,
-                10
+                5
             ]
         }
     ],

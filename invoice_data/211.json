@@ -1,153 +1,213 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "RALPH",
             "id": 1,
             "bbox": [
-                393,
-                284,
-                424,
-                295
+                362,
+                246,
+                411,
+                257
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "LAUREN",
             "id": 2,
             "bbox": [
-                426,
-                287,
-                475,
-                299
+                425,
+                243,
+                485,
+                256
             ]
         },
         {
-            "text": "30/06/2030",
+            "text": "12",
             "id": 3,
             "bbox": [
-                555,
-                447,
-                603,
-                460
+                505,
+                547,
+                511,
+                556
             ]
         },
         {
-            "text": "4.54",
+            "text": "July",
             "id": 4,
             "bbox": [
-                618,
-                453,
-                639,
-                460
+                516,
+                547,
+                530,
+                557
             ]
         },
         {
-            "text": "4:350.00",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                671,
-                626,
-                709,
-                632
+                533,
+                546,
+                551,
+                555
             ]
         },
         {
-            "text": "2,310.00",
+            "text": "25304",
             "id": 6,
             "bbox": [
-                660,
-                502,
-                696,
-                510
+                556,
+                545,
+                582,
+                554
             ]
         },
         {
-            "text": "3,30.00",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                659,
-                530,
-                696,
-                537
+                586,
+                545,
+                597,
+                551
             ]
         },
         {
-            "text": "LATHN",
+            "text": "660.00",
             "id": 8,
             "bbox": [
-                144,
-                478,
-                173,
-                484
+                694,
+                749,
+                721,
+                758
             ]
         },
         {
-            "text": "NMHIPAGO2NOS0",
+            "text": "33000",
             "id": 9,
             "bbox": [
-                185,
-                479,
-                256,
-                490
+                693,
+                600,
+                717,
+                607
             ]
         },
         {
-            "text": "MATERPRONT",
+            "text": "330.00",
             "id": 10,
             "bbox": [
-                263,
-                484,
-                314,
-                492
+                695,
+                646,
+                719,
+                655
             ]
         },
         {
-            "text": "SHORS",
+            "text": "SSFBBOM1-SHORT",
             "id": 11,
             "bbox": [
-                142,
-                487,
-                167,
-                494
+                386,
+                607,
+                456,
+                620
             ]
         },
         {
-            "text": "MOIL",
+            "text": "SLEEVE-KNIT",
             "id": 12,
             "bbox": [
-                143,
-                507,
-                173,
-                514
+                459,
+                605,
+                505,
+                618
             ]
         },
         {
-            "text": "BOLIMDMGRMO9S",
+            "text": "SSFBBDM2-SHORT",
             "id": 13,
             "bbox": [
-                185,
-                509,
-                256,
-                518
+                386,
+                655,
+                455,
+                665
             ]
         },
         {
-            "text": "HOCKENEIM",
+            "text": "SLEEVE",
             "id": 14,
             "bbox": [
-                263,
-                512,
-                314,
-                520
+                461,
+                654,
+                485,
+                663
             ]
         },
         {
-            "text": "SHORS",
+            "text": "KNIT",
             "id": 15,
             "bbox": [
-                141,
-                516,
-                167,
-                524
+                488,
+                653,
+                508,
+                661
+            ]
+        },
+        {
+            "text": "plasl",
+            "id": 16,
+            "bbox": [
+                405,
+                625,
+                434,
+                637
+            ]
+        },
+        {
+            "text": "l",
+            "id": 17,
+            "bbox": [
+                437,
+                626,
+                452,
+                634
+            ]
+        },
+        {
+            "text": "na",
+            "id": 18,
+            "bbox": [
+                387,
+                674,
+                409,
+                683
+            ]
+        },
+        {
+            "text": "plasi",
+            "id": 19,
+            "bbox": [
+                412,
+                670,
+                434,
+                682
+            ]
+        },
+        {
+            "text": "ajsi",
+            "id": 20,
+            "bbox": [
+                438,
+                671,
+                455,
+                681
+            ]
+        },
+        {
+            "text": "710792415",
+            "id": 21,
+            "bbox": [
+                170,
+                664,
+                209,
+                671
             ]
         }
     ],
@@ -157,19 +217,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LATHN",
-                "NMHIPAGO2NOS0",
-                "MATERPRONT",
-                "SHORS",
-                "MOIL",
-                "BOLIMDMGRMO9S",
-                "HOCKENEIM",
-                "SHORS"
+                "SSFBBOM1-SHORT",
+                "SLEEVE-KNIT",
+                "SSFBBDM2-SHORT",
+                "SLEEVE",
+                "KNIT"
             ],
             "value_id": [
-                8,
-                9,
-                10,
                 11,
                 12,
                 13,
@@ -178,14 +232,22 @@
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4.54"
+                "plasl",
+                "l",
+                "na",
+                "plasi",
+                "ajsi"
             ],
             "value_id": [
-                4
+                16,
+                17,
+                18,
+                19,
+                20
             ]
         },
         {
@@ -193,20 +255,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "30/06/2030"
+                "12",
+                "July",
+                "2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4:350.00"
-            ],
-            "value_id": [
+                3,
+                4,
                 5
             ]
         },
@@ -215,8 +270,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOUIS",
-                "VUITTON"
+                "RALPH",
+                "LAUREN"
             ],
             "value_id": [
                 1,
@@ -224,16 +279,51 @@
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,310.00",
-                "3,30.00"
+                "660.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "710792415"
+            ],
+            "value_id": [
+                21
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25304",
+                "PM"
             ],
             "value_id": [
                 6,
                 7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "33000",
+                "330.00"
+            ],
+            "value_id": [
+                9,
+                10
             ]
         }
     ],

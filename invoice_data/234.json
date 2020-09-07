@@ -1,120 +1,154 @@
 {
     "text_boxes": [
         {
-            "text": "MIZEN",
+            "text": "Porletto",
             "id": 1,
             "bbox": [
-                479,
-                263,
-                630,
-                291
+                148,
+                200,
+                351,
+                293
             ]
         },
         {
-            "text": "OMO72020",
+            "text": "87.00",
             "id": 2,
             "bbox": [
-                470,
-                418,
-                510,
-                427
+                546,
+                621,
+                587,
+                637
             ]
         },
         {
-            "text": "905.00",
+            "text": "54.00",
             "id": 3,
             "bbox": [
-                625,
-                570,
-                650,
-                576
+                548,
+                674,
+                588,
+                689
             ]
         },
         {
-            "text": "905",
+            "text": "50",
             "id": 4,
             "bbox": [
-                624,
-                531,
-                637,
-                537
+                574,
+                733,
+                590,
+                748
             ]
         },
         {
-            "text": "00",
+            "text": "30",
             "id": 5,
             "bbox": [
-                640,
-                531,
-                648,
-                537
+                403,
+                624,
+                417,
+                638
             ]
         },
         {
-            "text": "GENTLE",
+            "text": "20",
             "id": 6,
             "bbox": [
-                128,
-                519,
-                160,
-                525
+                402,
+                675,
+                417,
+                690
             ]
         },
         {
-            "text": "MONSTER",
+            "text": "Vivalto",
             "id": 7,
             "bbox": [
-                164,
-                519,
-                204,
-                526
+                227,
+                623,
+                283,
+                639
             ]
         },
         {
-            "text": "BB09639021859",
+            "text": "Lungo",
             "id": 8,
             "bbox": [
-                127,
-                530,
-                187,
-                538
+                292,
+                624,
+                331,
+                639
+            ]
+        },
+        {
+            "text": "Firenze",
+            "id": 9,
+            "bbox": [
+                228,
+                676,
+                283,
+                691
+            ]
+        },
+        {
+            "text": "6781030",
+            "id": 10,
+            "bbox": [
+                145,
+                623,
+                202,
+                638
+            ]
+        },
+        {
+            "text": "6757030",
+            "id": 11,
+            "bbox": [
+                145,
+                676,
+                202,
+                691
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "50"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GENTLE",
-                "MONSTER"
+                "Vivalto",
+                "Lungo",
+                "Firenze"
             ],
             "value_id": [
-                6,
-                7
+                7,
+                8,
+                9
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "OMO72020"
+                "30",
+                "20"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "905.00"
-            ],
-            "value_id": [
-                3
+                5,
+                6
             ]
         },
         {
@@ -122,7 +156,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MIZEN"
+                "Porletto"
             ],
             "value_id": [
                 1
@@ -133,10 +167,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BB09639021859"
+                "6781030",
+                "6757030"
             ],
             "value_id": [
-                8
+                10,
+                11
             ]
         },
         {
@@ -144,12 +180,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "905",
-                "00"
+                "87.00",
+                "54.00"
             ],
             "value_id": [
-                4,
-                5
+                2,
+                3
             ]
         }
     ],

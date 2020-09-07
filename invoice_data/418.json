@@ -1,141 +1,90 @@
 {
     "text_boxes": [
         {
-            "text": "MAGIC",
+            "text": "Enaar",
             "id": 1,
             "bbox": [
-                366,
-                107,
-                403,
-                118
+                323,
+                165,
+                359,
+                180
             ]
         },
         {
-            "text": "FYOR",
+            "text": "Gift",
             "id": 2,
             "bbox": [
-                360,
-                121,
-                432,
-                140
+                369,
+                165,
+                398,
+                179
             ]
         },
         {
-            "text": "7152020",
+            "text": "Card",
             "id": 3,
             "bbox": [
-                441,
-                379,
-                496,
-                391
+                408,
+                163,
+                437,
+                178
             ]
         },
         {
-            "text": "9:38:63",
+            "text": "03/07/2020",
             "id": 4,
             "bbox": [
-                486,
-                399,
-                530,
-                406
+                225,
+                372,
+                302,
+                389
             ]
         },
         {
-            "text": "295.00",
+            "text": "18:10:34",
             "id": 5,
             "bbox": [
-                545,
-                645,
-                594,
-                659
+                432,
+                366,
+                493,
+                383
             ]
         },
         {
-            "text": "295.00",
+            "text": "Gift",
             "id": 6,
             "bbox": [
-                542,
-                521,
-                590,
-                536
+                156,
+                490,
+                186,
+                504
             ]
         },
         {
-            "text": "FOHF",
+            "text": "Card",
             "id": 7,
             "bbox": [
-                215,
-                525,
-                258,
-                540
-            ]
-        },
-        {
-            "text": "YK",
-            "id": 8,
-            "bbox": [
-                214,
-                544,
-                232,
-                555
-            ]
-        },
-        {
-            "text": "12",
-            "id": 9,
-            "bbox": [
-                240,
-                544,
-                253,
-                555
-            ]
-        },
-        {
-            "text": "1",
-            "id": 10,
-            "bbox": [
-                315,
-                588,
-                324,
-                606
-            ]
-        },
-        {
-            "text": "55768",
-            "id": 11,
-            "bbox": [
-                299,
-                525,
-                345,
-                539
+                196,
+                489,
+                227,
+                504
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FOHF",
-                "YK",
-                "12"
+                "Enaar",
+                "Gift",
+                "Card"
             ],
             "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                10
+                1,
+                2,
+                3
             ]
         },
         {
@@ -143,10 +92,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "9:38:63"
+                "18:10:34"
             ],
             "value_id": [
-                4
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Gift",
+                "Card"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         },
         {
@@ -154,56 +116,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7152020"
+                "03/07/2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "295.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MAGIC",
-                "FYOR"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "55768"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "295.00"
-            ],
-            "value_id": [
-                6
+                4
             ]
         }
     ],

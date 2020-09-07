@@ -1,188 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "HOME",
+            "text": "SE",
             "id": 1,
             "bbox": [
-                273,
-                173,
-                372,
-                201
+                267,
+                62,
+                326,
+                91
             ]
         },
         {
-            "text": "BAKERY",
+            "text": "AFOLLY",
             "id": 2,
             "bbox": [
-                401,
-                163,
-                555,
-                195
+                324,
+                66,
+                492,
+                84
             ]
         },
         {
-            "text": "Jun27'20",
+            "text": "16-07-20",
             "id": 3,
             "bbox": [
-                319,
-                457,
-                423,
-                480
+                314,
+                470,
+                372,
+                483
             ]
         },
         {
-            "text": "10:13PM",
+            "text": ":",
             "id": 4,
             "bbox": [
-                441,
-                455,
-                531,
-                478
+                474,
+                466,
+                481,
+                483
             ]
         },
         {
-            "text": "108.00",
+            "text": "2:48",
             "id": 5,
             "bbox": [
-                486,
-                655,
-                651,
-                684
+                482,
+                465,
+                511,
+                479
             ]
         },
         {
-            "text": "18.00",
+            "text": "169.15",
             "id": 6,
             "bbox": [
-                591,
-                552,
-                656,
-                575
+                485,
+                674,
+                528,
+                687
             ]
         },
         {
-            "text": "90.00",
+            "text": "169.15",
             "id": 7,
             "bbox": [
-                588,
-                585,
-                655,
-                609
+                462,
+                599,
+                505,
+                612
             ]
         },
         {
-            "text": "2",
+            "text": "1",
             "id": 8,
             "bbox": [
-                184,
-                556,
-                195,
-                578
+                385,
+                599,
+                387,
+                611
             ]
         },
         {
-            "text": "3",
+            "text": "SEAFOLLY",
             "id": 9,
             "bbox": [
-                185,
-                589,
-                195,
-                611
+                217,
+                576,
+                279,
+                591
             ]
         },
         {
-            "text": "Chewy",
+            "text": "TWIST",
             "id": 10,
             "bbox": [
-                211,
-                554,
-                274,
-                581
+                289,
+                577,
+                327,
+                592
             ]
         },
         {
-            "text": "Melt",
+            "text": "BAND",
             "id": 11,
             "bbox": [
-                290,
-                555,
-                339,
-                578
+                337,
+                578,
+                366,
+                592
             ]
         },
         {
-            "text": "PC",
+            "text": "HIPSTER",
             "id": 12,
             "bbox": [
-                357,
-                555,
-                381,
-                577
+                376,
+                578,
+                428,
+                593
             ]
         },
         {
-            "text": "Iced",
+            "text": "PA",
             "id": 13,
             "bbox": [
-                212,
-                588,
-                261,
-                611
+                438,
+                579,
+                451,
+                592
             ]
         },
         {
-            "text": "Espresso",
+            "text": "1",
             "id": 14,
             "bbox": [
-                278,
-                589,
-                381,
-                614
+                501,
+                770,
+                503,
+                782
+            ]
+        },
+        {
+            "text": "9337611041674-BLK1",
+            "id": 15,
+            "bbox": [
+                217,
+                596,
+                357,
+                612
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2",
-                "3"
-            ],
-            "value_id": [
-                8,
-                9
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Chewy",
-                "Melt",
-                "PC",
-                "Iced",
-                "Espresso"
+                "SEAFOLLY",
+                "TWIST",
+                "BAND",
+                "HIPSTER",
+                "PA"
             ],
             "value_id": [
+                9,
                 10,
                 11,
                 12,
-                13,
+                13
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
                 14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10:13PM"
+                "1"
             ],
             "value_id": [
-                4
+                8
             ]
         },
         {
@@ -190,21 +198,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jun27'20"
+                "16-07-20"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "108.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -212,8 +209,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "HOME",
-                "BAKERY"
+                "SE",
+                "AFOLLY"
             ],
             "value_id": [
                 1,
@@ -221,15 +218,48 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "169.15"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9337611041674-BLK1"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ":",
+                "2:48"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18.00",
-                "90.00"
+                "169.15"
             ],
             "value_id": [
-                6,
                 7
             ]
         }

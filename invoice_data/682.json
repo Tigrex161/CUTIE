@@ -1,234 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "SEPHORA",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                307,
-                148,
-                365,
-                163
+                352,
+                137,
+                492,
+                192
             ]
         },
         {
-            "text": "DUBAI",
+            "text": "23-07-2020",
             "id": 2,
             "bbox": [
-                376,
-                146,
-                417,
-                161
+                252,
+                249,
+                330,
+                263
             ]
         },
         {
-            "text": "MALL",
+            "text": "11:11",
             "id": 3,
             "bbox": [
-                429,
-                146,
-                461,
-                161
+                343,
+                254,
+                379,
+                264
             ]
         },
         {
-            "text": "July",
+            "text": "289",
             "id": 4,
             "bbox": [
-                373,
-                990,
-                407,
-                1007
+                513,
+                486,
+                535,
+                496
             ]
         },
         {
-            "text": "28,2020",
+            "text": "289",
             "id": 5,
             "bbox": [
-                418,
-                988,
-                479,
-                1005
+                517,
+                344,
+                539,
+                353
             ]
         },
         {
-            "text": "20:41:57",
+            "text": "1",
             "id": 6,
             "bbox": [
-                490,
-                988,
-                561,
-                1005
+                347,
+                333,
+                351,
+                343
             ]
         },
         {
-            "text": "1",
+            "text": "0182104150003",
             "id": 7,
             "bbox": [
-                571,
-                945,
-                574,
-                964
+                328,
+                352,
+                433,
+                369
             ]
         },
         {
-            "text": "1093.00",
+            "text": "DRESS",
             "id": 8,
             "bbox": [
-                461,
-                681,
-                567,
-                696
+                451,
+                360,
+                489,
+                372
             ]
         },
         {
-            "text": "1093.00",
+            "text": "10001303",
             "id": 9,
             "bbox": [
-                507,
-                614,
-                567,
-                631
-            ]
-        },
-        {
-            "text": "1",
-            "id": 10,
-            "bbox": [
-                321,
-                618,
-                324,
-                631
-            ]
-        },
-        {
-            "text": "GALOP",
-            "id": 11,
-            "bbox": [
-                346,
-                552,
-                388,
-                566
-            ]
-        },
-        {
-            "text": "EDP",
-            "id": 12,
-            "bbox": [
-                400,
-                552,
-                423,
-                566
-            ]
-        },
-        {
-            "text": "SPRAY",
-            "id": 13,
-            "bbox": [
-                434,
-                552,
-                476,
-                566
-            ]
-        },
-        {
-            "text": "125ML",
-            "id": 14,
-            "bbox": [
-                489,
-                551,
-                530,
-                565
-            ]
-        },
-        {
-            "text": "REF",
-            "id": 15,
-            "bbox": [
-                542,
-                549,
-                566,
-                563
-            ]
-        },
-        {
-            "text": "014513096237",
-            "id": 16,
-            "bbox": [
-                194,
-                551,
-                299,
-                566
-            ]
-        },
-        {
-            "text": "\u0628\u0627\u0631\u0641\u0627\u0646",
-            "id": 17,
-            "bbox": [
-                231,
-                596,
-                283,
-                611
-            ]
-        },
-        {
-            "text": "\u0639\u0637\u0631",
-            "id": 18,
-            "bbox": [
-                197,
-                595,
-                219,
-                610
+                247,
+                348,
+                309,
+                361
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0182104150003",
+                "DRESS"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
         {
             "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
                 "1"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALOP",
-                "EDP",
-                "SPRAY",
-                "125ML",
-                "REF"
-            ],
-            "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:41:57"
             ],
             "value_id": [
                 6
@@ -239,36 +121,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "28,2020"
+                "23-07-2020"
             ],
             "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1093.00"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0628\u0627\u0631\u0641\u0627\u0646",
-                "\u0639\u0637\u0631"
-            ],
-            "value_id": [
-                17,
-                18
+                2
             ]
         },
         {
@@ -276,14 +132,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SEPHORA",
-                "DUBAI",
-                "MALL"
+                "ZARA"
             ],
             "value_id": [
-                1,
-                2,
-                3
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "289"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -291,10 +154,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "014513096237"
+                "10001303"
             ],
             "value_id": [
-                16
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:11"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -302,10 +176,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1093.00"
+                "289"
             ],
             "value_id": [
-                9
+                5
             ]
         }
     ],

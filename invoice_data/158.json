@@ -1,143 +1,133 @@
 {
     "text_boxes": [
         {
-            "text": "CHANEL",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                257,
-                304,
-                462,
-                340
+                455,
+                366,
+                478,
+                375
             ]
         },
         {
-            "text": "Juy",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                388,
-                394,
-                405,
-                402
+                489,
+                367,
+                515,
+                375
             ]
         },
         {
-            "text": "1200",
+            "text": "18:33",
             "id": 3,
             "bbox": [
-                411,
-                392,
-                452,
-                402
+                524,
+                366,
+                556,
+                375
             ]
         },
         {
-            "text": "21:31",
+            "text": "890.00",
             "id": 4,
             "bbox": [
-                459,
-                391,
-                487,
-                400
+                586,
+                608,
+                627,
+                618
             ]
         },
         {
-            "text": "460.00",
+            "text": "890.00",
             "id": 5,
             "bbox": [
-                516,
-                707,
-                559,
-                720
+                594,
+                519,
+                634,
+                528
             ]
         },
         {
-            "text": "255.00",
+            "text": "1.",
             "id": 6,
             "bbox": [
-                578,
-                541,
-                611,
-                550
+                410,
+                517,
+                422,
+                529
             ]
         },
         {
-            "text": "205.00",
+            "text": "67A126-720665:SFO.",
             "id": 7,
             "bbox": [
-                575,
-                570,
-                614,
-                581
+                94,
+                493,
+                223,
+                506
             ]
         },
         {
-            "text": "LES",
+            "text": "720665:105:DOUBLE",
             "id": 8,
             "bbox": [
-                124,
-                550,
-                142,
-                557
+                225,
+                493,
+                340,
+                507
             ]
         },
         {
-            "text": "EAUX",
+            "text": "ADJUS",
             "id": 9,
             "bbox": [
-                147,
-                549,
-                175,
-                557
+                345,
+                496,
+                379,
+                504
             ]
         },
         {
-            "text": "FRAICHES",
+            "text": "MEN",
             "id": 10,
             "bbox": [
-                179,
-                548,
-                233,
-                556
+                387,
+                496,
+                406,
+                505
             ]
         },
         {
-            "text": "EYES",
+            "text": "'S",
             "id": 11,
             "bbox": [
-                124,
-                578,
-                151,
-                587
+                408,
+                495,
+                431,
+                507
             ]
         },
         {
-            "text": "MAKE-UP",
+            "text": "028524683676",
             "id": 12,
             "bbox": [
-                155,
-                578,
-                204,
-                587
+                95,
+                518,
+                179,
+                528
             ]
         },
         {
-            "text": "195208",
+            "text": "LJ1/A/",
             "id": 13,
             "bbox": [
-                125,
-                593,
-                160,
-                602
-            ]
-        },
-        {
-            "text": "202910",
-            "id": 14,
-            "bbox": [
-                124,
-                562,
-                160,
-                572
+                468,
+                495,
+                539,
+                507
             ]
         }
     ],
@@ -147,17 +137,74 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LES",
-                "EAUX",
-                "FRAICHES",
-                "EYES",
-                "MAKE-UP"
+                "67A126-720665:SFO.",
+                "720665:105:DOUBLE",
+                "ADJUS",
+                "MEN",
+                "'S"
             ],
             "value_id": [
+                7,
                 8,
                 9,
                 10,
-                11,
+                11
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LJ1/A/"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1."
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "890.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "028524683676"
+            ],
+            "value_id": [
                 12
             ]
         },
@@ -166,58 +213,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:31"
+                "18:33"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Juy",
-                "1200"
-            ],
-            "value_id": [
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "460.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CHANEL"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "195208",
-                "202910"
-            ],
-            "value_id": [
-                13,
-                14
             ]
         },
         {
@@ -225,12 +224,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "255.00",
-                "205.00"
+                "890.00"
             ],
             "value_id": [
-                6,
-                7
+                5
             ]
         }
     ],

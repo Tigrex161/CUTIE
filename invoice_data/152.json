@@ -1,172 +1,159 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "apm",
             "id": 1,
             "bbox": [
-                454,
-                361,
-                476,
+                294,
+                335,
+                378,
                 371
             ]
         },
         {
-            "text": "2020",
+            "text": "MONACO",
             "id": 2,
             "bbox": [
-                487,
+                312,
+                373,
                 360,
-                511,
-                369
+                381
             ]
         },
         {
-            "text": "12:55",
+            "text": "3-Jul-2020",
             "id": 3,
             "bbox": [
-                520,
-                359,
-                550,
-                369
+                437,
+                485,
+                483,
+                494
             ]
         },
         {
-            "text": "1,",
+            "text": "43155",
             "id": 4,
             "bbox": [
-                565,
-                585,
-                574,
-                593
+                492,
+                486,
+                522,
+                493
             ]
         },
         {
-            "text": "806.00",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                578,
-                583,
-                617,
-                592
+                526,
+                487,
+                540,
+                493
             ]
         },
         {
-            "text": "1,",
+            "text": "360.00",
             "id": 6,
             "bbox": [
-                570,
-                503,
-                584,
-                514
+                336,
+                678,
+                371,
+                688
             ]
         },
         {
-            "text": "806.00",
+            "text": "342",
             "id": 7,
             "bbox": [
-                584,
-                502,
-                622,
-                512
+                320,
+                599,
+                339,
+                612
             ]
         },
         {
-            "text": "1.",
+            "text": "86",
             "id": 8,
             "bbox": [
-                414,
-                505,
-                423,
-                515
+                341,
+                599,
+                356,
+                612
             ]
         },
         {
-            "text": "CHANEL",
+            "text": "1",
             "id": 9,
             "bbox": [
-                131,
-                488,
-                167,
-                495
+                295,
+                592,
+                298,
+                599
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "A19395XKBY",
             "id": 10,
             "bbox": [
-                174,
-                488,
-                210,
-                495
+                325,
+                568,
+                389,
+                576
             ]
         },
         {
-            "text": "SHOES",
+            "text": "056",
             "id": 11,
             "bbox": [
-                221,
-                487,
-                247,
-                498
+                398,
+                568,
+                415,
+                576
             ]
         },
         {
-            "text": "IL",
+            "text": "ETE",
             "id": 12,
             "bbox": [
-                256,
-                488,
-                291,
-                497
+                249,
+                557,
+                270,
+                565
             ]
         },
         {
-            "text": "yin",
+            "text": "I",
             "id": 13,
             "bbox": [
-                305,
-                487,
-                323,
-                498
+                273,
+                557,
+                278,
+                564
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHANEL",
-                "WOMENS",
-                "SHOES"
+                "ETE",
+                "I"
             ],
             "value_id": [
-                9,
-                10,
-                11
+                12,
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:55"
+                "1"
             ],
             "value_id": [
-                3
+                9
             ]
         },
         {
@@ -174,8 +161,19 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "3-Jul-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "apm",
+                "MONACO"
             ],
             "value_id": [
                 1,
@@ -187,8 +185,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "806.00"
+                "360.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A19395XKBY",
+                "056"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "43155",
+                "PM"
             ],
             "value_id": [
                 4,
@@ -196,29 +218,16 @@
             ]
         },
         {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "IL",
-                "yin"
-            ],
-            "value_id": [
-                12,
-                13
-            ]
-        },
-        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "806.00"
+                "342",
+                "86"
             ],
             "value_id": [
-                6,
-                7
+                7,
+                8
             ]
         }
     ],

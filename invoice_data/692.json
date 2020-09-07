@@ -1,163 +1,133 @@
 {
     "text_boxes": [
         {
-            "text": "KENZO",
+            "text": "19/07/2020",
             "id": 1,
             "bbox": [
-                312,
-                203,
-                541,
-                247
+                473,
+                396,
+                527,
+                408
             ]
         },
         {
-            "text": "July.",
+            "text": "07",
             "id": 2,
             "bbox": [
-                558,
-                321,
-                585,
-                330
+                532,
+                395,
+                544,
+                404
             ]
         },
         {
-            "text": "19",
+            "text": "23",
             "id": 3,
             "bbox": [
-                595,
-                322,
-                605,
-                329
+                547,
+                394,
+                560,
+                404
             ]
         },
         {
-            "text": "2020",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                612,
-                322,
-                634,
-                329
+                563,
+                393,
+                578,
+                402
             ]
         },
         {
-            "text": "20:15",
+            "text": "870.00",
             "id": 5,
             "bbox": [
-                642,
-                321,
-                670,
-                328
+                639,
+                601,
+                672,
+                609
             ]
         },
         {
-            "text": "250,00",
+            "text": "870.00",
             "id": 6,
             "bbox": [
-                625,
-                613,
-                660,
-                621
+                637,
+                576,
+                671,
+                586
             ]
         },
         {
-            "text": "250.",
+            "text": "1.",
             "id": 7,
             "bbox": [
-                626,
-                534,
-                646,
-                543
+                237,
+                592,
+                240,
+                599
             ]
         },
         {
-            "text": "00",
+            "text": "GILES",
             "id": 8,
             "bbox": [
-                650,
-                534,
-                660,
-                541
+                27,
+                597,
+                56,
+                607
             ]
         },
         {
-            "text": "KR10238-01P:",
+            "text": "LINEN",
             "id": 9,
             "bbox": [
-                269,
-                510,
-                342,
-                521
+                60,
+                595,
+                90,
+                606
             ]
         },
         {
-            "text": "K2o.01P:",
+            "text": "CLS",
             "id": 10,
             "bbox": [
-                344,
-                511,
-                388,
-                522
+                93,
+                595,
+                112,
+                604
             ]
         },
         {
-            "text": "3A:TIGER",
+            "text": "PALE",
             "id": 11,
             "bbox": [
-                390,
-                511,
-                438,
-                523
+                116,
+                594,
+                141,
+                603
             ]
         },
         {
-            "text": "JG",
+            "text": "BLUEWHITE",
             "id": 12,
             "bbox": [
-                444,
-                514,
-                455,
-                520
+                146,
+                593,
+                209,
+                603
             ]
         },
         {
-            "text": "B1",
+            "text": "L",
             "id": 13,
             "bbox": [
-                465,
-                512,
-                478,
-                522
-            ]
-        },
-        {
-            "text": "017925068847",
-            "id": 14,
-            "bbox": [
-                190,
-                511,
-                261,
-                520
-            ]
-        },
-        {
-            "text": "U",
-            "id": 15,
-            "bbox": [
-                582,
-                514,
-                590,
-                524
-            ]
-        },
-        {
-            "text": "O",
-            "id": 16,
-            "bbox": [
-                607,
-                515,
-                630,
-                523
+                214,
+                594,
+                218,
+                600
             ]
         }
     ],
@@ -167,13 +137,15 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "KR10238-01P:",
-                "K2o.01P:",
-                "3A:TIGER",
-                "JG",
-                "B1"
+                "GILES",
+                "LINEN",
+                "CLS",
+                "PALE",
+                "BLUEWHITE",
+                "L"
             ],
             "value_id": [
+                8,
                 9,
                 10,
                 11,
@@ -182,14 +154,14 @@
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:15"
+                "1."
             ],
             "value_id": [
-                5
+                7
             ]
         },
         {
@@ -197,9 +169,31 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July.",
-                "19",
-                "2020"
+                "19/07/2020"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "870.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07",
+                "23",
+                "PM"
             ],
             "value_id": [
                 2,
@@ -208,62 +202,14 @@
             ]
         },
         {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "250,00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "U",
-                "O"
-            ],
-            "value_id": [
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "KENZO"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "017925068847"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "250.",
-                "00"
+                "870.00"
             ],
             "value_id": [
-                7,
-                8
+                6
             ]
         }
     ],

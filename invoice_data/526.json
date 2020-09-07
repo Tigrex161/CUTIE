@@ -1,190 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "Jut,",
+            "text": "THE",
             "id": 1,
             "bbox": [
-                444,
-                421,
-                472,
-                433
+                270,
+                184,
+                357,
+                252
             ]
         },
         {
-            "text": "2020",
+            "text": "MERCHANT",
             "id": 2,
             "bbox": [
-                482,
-                421,
-                509,
-                431
+                355,
+                172,
+                522,
+                246
             ]
         },
         {
-            "text": "14:38",
+            "text": "OF",
             "id": 3,
             "bbox": [
-                520,
-                418,
-                553,
-                429
+                325,
+                229,
+                385,
+                275
             ]
         },
         {
-            "text": "1,",
+            "text": "VENICE",
             "id": 4,
             "bbox": [
-                572,
-                673,
-                581,
-                682
+                376,
+                231,
+                482,
+                267
             ]
         },
         {
-            "text": "615.00",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                586,
-                672,
-                629,
-                682
+                532,
+                611,
+                553,
+                622
             ]
         },
         {
-            "text": "1,",
+            "text": "265.00",
             "id": 6,
             "bbox": [
-                577,
-                579,
-                593,
-                593
+                559,
+                908,
+                625,
+                921
             ]
         },
         {
-            "text": "615.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                593,
-                578,
-                635,
-                590
+                619,
+                973,
+                627,
+                986
             ]
         },
         {
-            "text": "CLNWN",
+            "text": "252.00",
             "id": 8,
             "bbox": [
-                87,
-                561,
-                120,
-                575
+                557,
+                826,
+                622,
+                839
             ]
         },
         {
-            "text": "SHOE:",
+            "text": "1.0",
             "id": 9,
             "bbox": [
-                130,
-                561,
-                165,
-                575
+                479,
+                825,
+                507,
+                838
             ]
         },
         {
-            "text": "CHRISTIAN",
+            "text": "TMOV",
             "id": 10,
             "bbox": [
-                165,
-                561,
-                230,
-                575
+                167,
+                823,
+                211,
+                836
             ]
         },
         {
-            "text": "LOUBeUeIN",
+            "text": "COLLECTI",
             "id": 11,
             "bbox": [
-                237,
-                561,
-                298,
-                575
-            ]
-        },
-        {
-            "text": "WOHNS",
-            "id": 12,
-            "bbox": [
-                306,
-                561,
-                347,
-                575
-            ]
-        },
-        {
-            "text": "SOES",
-            "id": 13,
-            "bbox": [
-                352,
-                561,
-                388,
-                575
-            ]
-        },
-        {
-            "text": "a",
-            "id": 14,
-            "bbox": [
-                417,
-                561,
-                433,
-                575
+                226,
+                823,
+                313,
+                837
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CLNWN",
-                "SHOE:",
-                "CHRISTIAN",
-                "LOUBeUeIN",
-                "WOHNS",
-                "SOES"
+                "TMOV",
+                "COLLECTI"
             ],
             "value_id": [
-                8,
-                9,
                 10,
-                11,
-                12,
-                13
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14:38"
+                "1.0"
             ],
             "value_id": [
-                3
+                9
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jut,",
-                "2020"
+                "THE",
+                "MERCHANT",
+                "OF",
+                "VENICE"
             ],
             "value_id": [
                 1,
-                2
+                2,
+                3,
+                4
             ]
         },
         {
@@ -192,23 +169,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "615.00"
+                "265.00"
             ],
             "value_id": [
-                4,
-                5
+                6
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "a"
+                "PM"
             ],
             "value_id": [
-                14
+                5
             ]
         },
         {
@@ -216,12 +191,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "615.00"
+                "252.00"
             ],
             "value_id": [
-                6,
-                7
+                8
             ]
         }
     ],

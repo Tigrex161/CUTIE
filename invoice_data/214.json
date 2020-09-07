@@ -1,131 +1,66 @@
 {
     "text_boxes": [
         {
-            "text": "July",
+            "text": "blomingdales",
             "id": 1,
             "bbox": [
-                427,
-                428,
-                446,
-                437
+                348,
+                169,
+                579,
+                216
             ]
         },
         {
-            "text": "11,",
+            "text": "560.00",
             "id": 2,
             "bbox": [
-                453,
-                428,
-                466,
-                436
+                533,
+                617,
+                570,
+                627
             ]
         },
         {
-            "text": "2020",
+            "text": "560.00",
             "id": 3,
             "bbox": [
-                472,
-                427,
-                497,
-                435
+                535,
+                503,
+                572,
+                514
             ]
         },
         {
-            "text": "20:56",
+            "text": "213463662",
             "id": 4,
             "bbox": [
-                506,
-                427,
-                535,
-                435
-            ]
-        },
-        {
-            "text": "3,084.00",
-            "id": 5,
-            "bbox": [
-                560,
-                751,
-                611,
-                762
-            ]
-        },
-        {
-            "text": "3,084.00",
-            "id": 6,
-            "bbox": [
-                629,
-                591,
-                677,
-                604
-            ]
-        },
-        {
-            "text": "SANDALS",
-            "id": 7,
-            "bbox": [
-                128,
-                600,
-                184,
-                609
-            ]
-        },
-        {
-            "text": "G34696X529670H559",
-            "id": 8,
-            "bbox": [
-                128,
-                615,
-                248,
-                625
-            ]
-        },
-        {
-            "text": "80C",
-            "id": 9,
-            "bbox": [
-                254,
-                616,
-                274,
-                624
+                337,
+                515,
+                393,
+                528
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SANDALS"
+                "blomingdales"
             ],
             "value_id": [
-                7
+                1
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:56"
+                "560.00"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July",
-                "11,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2,
                 3
             ]
         },
@@ -134,34 +69,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,084.00"
+                "560.00"
             ],
             "value_id": [
-                5
+                2
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "G34696X529670H559",
-                "80C"
+                "213463662"
             ],
             "value_id": [
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,084.00"
-            ],
-            "value_id": [
-                6
+                4
             ]
         }
     ],

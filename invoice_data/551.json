@@ -1,73 +1,83 @@
 {
     "text_boxes": [
         {
-            "text": "MIZEN",
+            "text": "JIMMY",
             "id": 1,
             "bbox": [
-                457,
-                196,
-                614,
-                225
+                262,
+                230,
+                364,
+                261
             ]
         },
         {
-            "text": "17/07/2020",
+            "text": "CHOO",
             "id": 2,
             "bbox": [
-                451,
-                359,
-                492,
-                366
+                375,
+                228,
+                496,
+                259
             ]
         },
         {
-            "text": "870.00",
+            "text": "13:06",
             "id": 3,
             "bbox": [
-                621,
-                513,
-                646,
-                519
+                370,
+                592,
+                410,
+                607
             ]
         },
         {
-            "text": "870.00",
+            "text": "2020-07-12",
             "id": 4,
             "bbox": [
-                617,
-                471,
-                643,
-                478
+                418,
+                592,
+                509,
+                607
             ]
         },
         {
-            "text": "GENTLE",
+            "text": "1,710.00",
             "id": 5,
             "bbox": [
-                85,
-                475,
-                121,
-                484
+                488,
+                821,
+                554,
+                836
             ]
         },
         {
-            "text": "MONSTER",
+            "text": "1,710.00",
             "id": 6,
             "bbox": [
-                125,
-                475,
-                169,
-                483
+                491,
+                658,
+                557,
+                676
             ]
         },
         {
-            "text": "8809639022900",
+            "text": "ARI",
             "id": 7,
             "bbox": [
-                83,
-                487,
-                153,
-                497
+                180,
+                657,
+                213,
+                671
+            ]
+        },
+        {
+            "text": "85/JC,KID,Black,38",
+            "id": 8,
+            "bbox": [
+                221,
+                656,
+                386,
+                676
             ]
         }
     ],
@@ -77,12 +87,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GENTLE",
-                "MONSTER"
+                "ARI",
+                "85/JC,KID,Black,38"
             ],
             "value_id": [
-                5,
-                6
+                7,
+                8
             ]
         },
         {
@@ -90,9 +100,22 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17/07/2020"
+                "2020-07-12"
             ],
             "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JIMMY",
+                "CHOO"
+            ],
+            "value_id": [
+                1,
                 2
             ]
         },
@@ -101,32 +124,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "870.00"
+                "1,710.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:06"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MIZEN"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "8809639022900"
-            ],
-            "value_id": [
-                7
             ]
         },
         {
@@ -134,10 +146,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "870.00"
+                "1,710.00"
             ],
             "value_id": [
-                4
+                6
             ]
         }
     ],

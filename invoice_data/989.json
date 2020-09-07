@@ -1,0 +1,240 @@
+{
+    "text_boxes": [
+        {
+            "text": "Massimo",
+            "id": 1,
+            "bbox": [
+                268,
+                120,
+                394,
+                149
+            ]
+        },
+        {
+            "text": "Dutti",
+            "id": 2,
+            "bbox": [
+                406,
+                121,
+                479,
+                151
+            ]
+        },
+        {
+            "text": "21-07-2020",
+            "id": 3,
+            "bbox": [
+                198,
+                323,
+                278,
+                336
+            ]
+        },
+        {
+            "text": "20:47",
+            "id": 4,
+            "bbox": [
+                290,
+                324,
+                329,
+                335
+            ]
+        },
+        {
+            "text": "349",
+            "id": 5,
+            "bbox": [
+                475,
+                431,
+                497,
+                442
+            ]
+        },
+        {
+            "text": "259",
+            "id": 6,
+            "bbox": [
+                475,
+                473,
+                497,
+                485
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                299,
+                431,
+                304,
+                441
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                299,
+                474,
+                304,
+                485
+            ]
+        },
+        {
+            "text": "0517257380003",
+            "id": 9,
+            "bbox": [
+                282,
+                453,
+                388,
+                463
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 10,
+            "bbox": [
+                408,
+                453,
+                446,
+                463
+            ]
+        },
+        {
+            "text": "0513251242040",
+            "id": 11,
+            "bbox": [
+                282,
+                496,
+                388,
+                506
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 12,
+            "bbox": [
+                408,
+                496,
+                447,
+                506
+            ]
+        },
+        {
+            "text": "10001083",
+            "id": 13,
+            "bbox": [
+                197,
+                451,
+                261,
+                463
+            ]
+        },
+        {
+            "text": "10002113",
+            "id": 14,
+            "bbox": [
+                197,
+                495,
+                262,
+                506
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0517257380003",
+                "SHIRT",
+                "0513251242040",
+                "SHIRT"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21-07-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Massimo",
+                "Dutti"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001083",
+                "10002113"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:47"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "349",
+                "259"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/989.jpg"
+    }
+}

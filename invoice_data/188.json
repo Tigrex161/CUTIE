@@ -1,93 +1,113 @@
 {
     "text_boxes": [
         {
-            "text": "Project",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                272,
-                337,
-                336,
-                355
+                312,
+                168,
+                400,
+                182
             ]
         },
         {
-            "text": "X",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                343,
-                337,
-                355,
-                352
+                414,
+                168,
+                514,
+                181
             ]
         },
         {
-            "text": "Paris",
+            "text": "10/07/20",
             "id": 3,
             "bbox": [
-                364,
-                337,
-                408,
-                353
+                259,
+                455,
+                348,
+                479
             ]
         },
         {
-            "text": "03-Jul-2020",
+            "text": "20:51",
             "id": 4,
             "bbox": [
-                232,
-                792,
-                297,
-                806
+                362,
+                454,
+                413,
+                477
             ]
         },
         {
-            "text": "11:08",
+            "text": "134.00",
             "id": 5,
             "bbox": [
-                316,
-                795,
-                346,
-                807
+                585,
+                769,
+                649,
+                788
             ]
         },
         {
-            "text": "pm",
+            "text": "134.00",
             "id": 6,
             "bbox": [
-                351,
-                799,
-                367,
-                810
+                586,
+                657,
+                648,
+                674
             ]
         },
         {
-            "text": "117.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                414,
+                190,
+                688,
+                216,
+                707
+            ]
+        },
+        {
+            "text": "SWAROVSKI",
+            "id": 8,
+            "bbox": [
+                189,
                 661,
-                458,
+                284,
+                677
+            ]
+        },
+        {
+            "text": "JEWELLERY",
+            "id": 9,
+            "bbox": [
+                299,
+                660,
+                394,
                 676
             ]
         },
         {
-            "text": "195.00",
-            "id": 8,
+            "text": "1",
+            "id": 10,
             "bbox": [
-                421,
-                547,
-                456,
-                556
+                641,
+                714,
+                645,
+                729
             ]
         },
         {
-            "text": "2010108-BK-M",
-            "id": 9,
+            "text": "900050784",
+            "id": 11,
             "bbox": [
-                263,
-                545,
-                342,
-                556
+                245,
+                688,
+                340,
+                705
             ]
         }
     ],
@@ -97,23 +117,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2010108-BK-M"
+                "SWAROVSKI",
+                "JEWELLERY"
             ],
             "value_id": [
+                8,
                 9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:08",
-                "pm"
+                "1"
             ],
             "value_id": [
-                5,
-                6
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
             ]
         },
         {
@@ -121,21 +152,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "03-Jul-2020"
+                "10/07/20"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "117.00"
-            ],
-            "value_id": [
-                7
+                3
             ]
         },
         {
@@ -143,14 +163,45 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Project",
-                "X",
-                "Paris"
+                "GALERIES",
+                "LAFAYETTE"
             ],
             "value_id": [
                 1,
-                2,
-                3
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "134.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900050784"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:51"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -158,10 +209,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "195.00"
+                "134.00"
             ],
             "value_id": [
-                8
+                6
             ]
         }
     ],

@@ -1,103 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "tevragaumo",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                392,
-                294,
-                559,
-                345
+                351,
+                19,
+                394,
+                34
             ]
         },
         {
-            "text": "July,",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                568,
-                397,
-                599,
-                408
+                400,
+                22,
+                466,
+                38
             ]
         },
         {
-            "text": "08",
+            "text": "MALLETERA",
             "id": 3,
             "bbox": [
-                610,
-                399,
-                622,
-                405
+                380,
+                37,
+                419,
+                44
             ]
         },
         {
-            "text": "2020",
+            "text": "PARIS",
             "id": 4,
             "bbox": [
-                632,
-                397,
-                657,
-                406
+                422,
+                39,
+                437,
+                45
             ]
         },
         {
-            "text": "20:15",
+            "text": "M41938",
             "id": 5,
             "bbox": [
-                666,
-                396,
-                699,
-                405
+                23,
+                330,
+                62,
+                337
             ]
         },
         {
-            "text": "ZERI10",
+            "text": "PF.",
             "id": 6,
             "bbox": [
-                434,
-                611,
-                473,
-                622
+                76,
+                324,
+                99,
+                338
             ]
         },
         {
-            "text": "1,490.00",
+            "text": "VICTORINE",
             "id": 7,
             "bbox": [
-                631,
-                626,
-                684,
-                638
+                101,
+                324,
+                159,
+                338
             ]
         },
         {
-            "text": "724136:",
+            "text": "MNG",
             "id": 8,
             "bbox": [
-                368,
-                613,
-                411,
-                623
+                166,
+                330,
+                185,
+                336
             ]
         },
         {
-            "text": "\u00fas",
+            "text": "FUCHSIA",
             "id": 9,
             "bbox": [
-                542,
-                612,
-                569,
-                620
+                194,
+                329,
+                240,
+                336
             ]
         },
         {
-            "text": "1,490.00",
+            "text": "SMALL",
             "id": 10,
             "bbox": [
-                629,
-                711,
-                680,
-                721
+                24,
+                343,
+                57,
+                350
+            ]
+        },
+        {
+            "text": "LEATHER",
+            "id": 11,
+            "bbox": [
+                65,
+                343,
+                111,
+                350
+            ]
+        },
+        {
+            "text": "GOODS",
+            "id": 12,
+            "bbox": [
+                118,
+                342,
+                151,
+                350
+            ]
+        },
+        {
+            "text": "2,170.00",
+            "id": 13,
+            "bbox": [
+                713,
+                329,
+                762,
+                337
+            ]
+        },
+        {
+            "text": "2,170.00",
+            "id": 14,
+            "bbox": [
+                713,
+                513,
+                763,
+                522
+            ]
+        },
+        {
+            "text": "10142",
+            "id": 15,
+            "bbox": [
+                654,
+                265,
+                683,
+                271
             ]
         }
     ],
@@ -107,33 +157,38 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ZERI10"
+                "M41938",
+                "PF.",
+                "VICTORINE",
+                "MNG",
+                "FUCHSIA",
+                "SMALL",
+                "LEATHER",
+                "GOODS"
             ],
             "value_id": [
-                6
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:15"
+                "LOUIS",
+                "VUITTON",
+                "MALLETERA",
+                "PARIS"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "08",
-                "2020"
-            ],
-            "value_id": [
+                1,
                 2,
                 3,
                 4
@@ -144,43 +199,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,490.00"
+                "2,170.00"
             ],
             "value_id": [
-                10
+                14
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u00fas"
+                "10142"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "tevragaumo"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "724136:"
-            ],
-            "value_id": [
-                8
+                15
             ]
         },
         {
@@ -188,10 +221,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,490.00"
+                "2,170.00"
             ],
             "value_id": [
-                7
+                13
             ]
         }
     ],

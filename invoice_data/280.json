@@ -1,83 +1,113 @@
 {
     "text_boxes": [
         {
-            "text": "DIAI",
+            "text": "GIVENCHY",
             "id": 1,
             "bbox": [
-                584,
-                210,
-                688,
-                223
+                178,
+                16,
+                418,
+                42
             ]
         },
         {
-            "text": "03-Jul-2020",
+            "text": "07/03/2020",
             "id": 2,
             "bbox": [
-                46,
-                544,
-                221,
-                571
+                292,
+                190,
+                352,
+                199
             ]
         },
         {
-            "text": "3,150.00",
+            "text": "5,500.00",
             "id": 3,
             "bbox": [
-                568,
-                1290,
-                697,
-                1322
+                606,
+                859,
+                662,
+                873
             ]
         },
         {
-            "text": "2",
+            "text": "2,900.00",
             "id": 4,
             "bbox": [
-                680,
-                1141,
-                693,
-                1161
+                737,
+                426,
+                782,
+                435
             ]
         },
         {
-            "text": "MOON",
+            "text": "2,600.00",
             "id": 5,
             "bbox": [
-                210,
-                1053,
-                273,
-                1079
+                733,
+                474,
+                778,
+                483
             ]
         },
         {
-            "text": "DUST",
+            "text": "1",
             "id": 6,
             "bbox": [
-                291,
-                1055,
-                351,
-                1083
+                680,
+                426,
+                684,
+                433
             ]
         },
         {
-            "text": "213422814",
+            "text": "1",
             "id": 7,
             "bbox": [
-                80,
-                982,
-                224,
-                1013
+                678,
+                474,
+                681,
+                481
             ]
         },
         {
-            "text": "213422995",
+            "text": "SNEAKERS",
             "id": 8,
             "bbox": [
-                81,
-                1080,
-                225,
-                1106
+                330,
+                404,
+                383,
+                414
+            ]
+        },
+        {
+            "text": "T-SHIRT/POLO",
+            "id": 9,
+            "bbox": [
+                322,
+                452,
+                391,
+                461
+            ]
+        },
+        {
+            "text": "BH003MHONJ",
+            "id": 10,
+            "bbox": [
+                55,
+                422,
+                129,
+                431
+            ]
+        },
+        {
+            "text": "BM7ORV3Y41",
+            "id": 11,
+            "bbox": [
+                57,
+                470,
+                129,
+                478
             ]
         }
     ],
@@ -87,23 +117,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MOON",
-                "DUST"
+                "SNEAKERS",
+                "T-SHIRT/POLO"
             ],
             "value_id": [
-                5,
-                6
+                8,
+                9
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2"
+                "1",
+                "1"
             ],
             "value_id": [
-                4
+                6,
+                7
             ]
         },
         {
@@ -111,21 +143,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "03-Jul-2020"
+                "07/03/2020"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,150.00"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -133,10 +154,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIAI"
+                "GIVENCHY"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5,500.00"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -144,12 +176,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "213422814",
-                "213422995"
+                "BH003MHONJ",
+                "BM7ORV3Y41"
             ],
             "value_id": [
-                7,
-                8
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,900.00",
+                "2,600.00"
+            ],
+            "value_id": [
+                4,
+                5
             ]
         }
     ],

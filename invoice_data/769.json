@@ -1,198 +1,213 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                319,
-                232,
-                379,
-                246
+                147,
+                278,
+                428,
+                325
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "PM",
             "id": 2,
             "bbox": [
-                389,
-                229,
-                458,
-                244
+                332,
+                452,
+                349,
+                464
             ]
         },
         {
-            "text": "20/07/20",
+            "text": "440.00",
             "id": 3,
             "bbox": [
-                281,
-                435,
-                342,
-                445
+                427,
+                781,
+                477,
+                796
             ]
         },
         {
-            "text": "19:09",
+            "text": "2",
             "id": 4,
             "bbox": [
-                352,
-                435,
-                389,
-                445
+                466,
+                693,
+                472,
+                705
             ]
         },
         {
-            "text": "350.00",
+            "text": "220.00",
             "id": 5,
             "bbox": [
-                509,
-                713,
-                555,
-                726
+                414,
+                610,
+                465,
+                626
             ]
         },
         {
-            "text": "500.00",
+            "text": "220.00",
             "id": 6,
             "bbox": [
-                507,
-                574,
-                552,
-                585
+                417,
+                641,
+                469,
+                658
             ]
         },
         {
-            "text": "Kid's",
+            "text": "CW",
             "id": 7,
             "bbox": [
-                226,
-                554,
-                264,
-                565
+                117,
+                633,
+                135,
+                647
             ]
         },
         {
-            "text": "Wear",
+            "text": "Root",
             "id": 8,
             "bbox": [
-                273,
-                554,
-                303,
-                566
+                144,
+                631,
+                179,
+                646
             ]
         },
         {
-            "text": "TS",
+            "text": "Cover",
             "id": 9,
             "bbox": [
-                227,
-                574,
-                240,
-                585
-            ]
-        },
-        {
-            "text": "MAGLIA",
-            "id": 10,
-            "bbox": [
-                250,
-                574,
-                295,
-                585
-            ]
-        },
-        {
-            "text": "SKU",
-            "id": 11,
-            "bbox": [
-                305,
-                574,
-                326,
-                584
-            ]
-        },
-        {
-            "text": "1",
-            "id": 12,
-            "bbox": [
-                548,
-                634,
-                550,
+                189,
+                629,
+                232,
                 643
             ]
         },
         {
-            "text": "900989650",
+            "text": "Up",
+            "id": 10,
+            "bbox": [
+                242,
+                627,
+                259,
+                642
+            ]
+        },
+        {
+            "text": "CW",
+            "id": 11,
+            "bbox": [
+                118,
+                668,
+                136,
+                681
+            ]
+        },
+        {
+            "text": "Root",
+            "id": 12,
+            "bbox": [
+                145,
+                665,
+                180,
+                679
+            ]
+        },
+        {
+            "text": "Cover",
             "id": 13,
             "bbox": [
-                265,
-                594,
-                333,
-                604
+                190,
+                661,
+                234,
+                677
+            ]
+        },
+        {
+            "text": "Up",
+            "id": 14,
+            "bbox": [
+                243,
+                659,
+                263,
+                675
+            ]
+        },
+        {
+            "text": "Dar",
+            "id": 15,
+            "bbox": [
+                269,
+                655,
+                295,
+                672
+            ]
+        },
+        {
+            "text": "210094589",
+            "id": 16,
+            "bbox": [
+                136,
+                645,
+                216,
+                664
+            ]
+        },
+        {
+            "text": "210094589",
+            "id": 17,
+            "bbox": [
+                136,
+                678,
+                217,
+                697
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Kid's",
-                "Wear",
-                "TS",
-                "MAGLIA",
-                "SKU"
-            ],
-            "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
             "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:09"
+                "2"
             ],
             "value_id": [
                 4
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20/07/20"
+                "CW",
+                "Root",
+                "Cover",
+                "Up",
+                "CW",
+                "Root",
+                "Cover",
+                "Up",
+                "Dar"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "350.00"
-            ],
-            "value_id": [
-                5
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
             ]
         },
         {
@@ -200,12 +215,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "bloomingdales"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "440.00"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -213,10 +237,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900989650"
+                "210094589",
+                "210094589"
             ],
             "value_id": [
-                13
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PM"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -224,9 +261,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "500.00"
+                "220.00",
+                "220.00"
             ],
             "value_id": [
+                5,
                 6
             ]
         }

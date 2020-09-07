@@ -1,0 +1,354 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                326,
+                26,
+                364,
+                39
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                370,
+                27,
+                427,
+                41
+            ]
+        },
+        {
+            "text": "MAILETELA",
+            "id": 3,
+            "bbox": [
+                351,
+                41,
+                385,
+                48
+            ]
+        },
+        {
+            "text": "M",
+            "id": 4,
+            "bbox": [
+                388,
+                42,
+                401,
+                47
+            ]
+        },
+        {
+            "text": "MASON",
+            "id": 5,
+            "bbox": [
+                339,
+                66,
+                362,
+                72
+            ]
+        },
+        {
+            "text": "FONDt",
+            "id": 6,
+            "bbox": [
+                365,
+                67,
+                386,
+                73
+            ]
+        },
+        {
+            "text": "tN",
+            "id": 7,
+            "bbox": [
+                389,
+                68,
+                397,
+                73
+            ]
+        },
+        {
+            "text": "4",
+            "id": 8,
+            "bbox": [
+                400,
+                69,
+                412,
+                74
+            ]
+        },
+        {
+            "text": "17:01",
+            "id": 9,
+            "bbox": [
+                606,
+                232,
+                629,
+                242
+            ]
+        },
+        {
+            "text": "4,380.00",
+            "id": 10,
+            "bbox": [
+                658,
+                459,
+                705,
+                467
+            ]
+        },
+        {
+            "text": "3,650,00",
+            "id": 11,
+            "bbox": [
+                657,
+                291,
+                703,
+                299
+            ]
+        },
+        {
+            "text": "730.00",
+            "id": 12,
+            "bbox": [
+                672,
+                323,
+                705,
+                330
+            ]
+        },
+        {
+            "text": "1ASZIN",
+            "id": 13,
+            "bbox": [
+                28,
+                285,
+                63,
+                292
+            ]
+        },
+        {
+            "text": "BIMS2PLVO2N100",
+            "id": 14,
+            "bbox": [
+                77,
+                285,
+                160,
+                295
+            ]
+        },
+        {
+            "text": "MIRAHEAU",
+            "id": 15,
+            "bbox": [
+                168,
+                286,
+                217,
+                294
+            ]
+        },
+        {
+            "text": "SA",
+            "id": 16,
+            "bbox": [
+                224,
+                288,
+                236,
+                294
+            ]
+        },
+        {
+            "text": "SHORS",
+            "id": 17,
+            "bbox": [
+                26,
+                297,
+                56,
+                304
+            ]
+        },
+        {
+            "text": "LPO039",
+            "id": 18,
+            "bbox": [
+                25,
+                318,
+                60,
+                324
+            ]
+        },
+        {
+            "text": "MATIERE",
+            "id": 19,
+            "bbox": [
+                74,
+                318,
+                116,
+                326
+            ]
+        },
+        {
+            "text": "REFILL",
+            "id": 20,
+            "bbox": [
+                123,
+                318,
+                160,
+                324
+            ]
+        },
+        {
+            "text": "100ML",
+            "id": 21,
+            "bbox": [
+                168,
+                320,
+                197,
+                325
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 22,
+            "bbox": [
+                204,
+                320,
+                223,
+                326
+            ]
+        },
+        {
+            "text": "PERFUME",
+            "id": 23,
+            "bbox": [
+                24,
+                328,
+                66,
+                336
+            ]
+        },
+        {
+            "text": "(NO",
+            "id": 24,
+            "bbox": [
+                76,
+                328,
+                91,
+                335
+            ]
+        },
+        {
+            "text": "STOCK)",
+            "id": 25,
+            "bbox": [
+                98,
+                328,
+                131,
+                336
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,380.00"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MAILETELA",
+                "M",
+                "MASON",
+                "FONDt",
+                "tN",
+                "4"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1ASZIN",
+                "BIMS2PLVO2N100",
+                "MIRAHEAU",
+                "SA",
+                "SHORS",
+                "LPO039",
+                "MATIERE",
+                "REFILL",
+                "100ML",
+                "EDP",
+                "PERFUME",
+                "(NO",
+                "STOCK)"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:01"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,650,00",
+                "730.00"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/95.jpg"
+    }
+}

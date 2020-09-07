@@ -1,0 +1,174 @@
+{
+    "text_boxes": [
+        {
+            "text": "GALERINN",
+            "id": 1,
+            "bbox": [
+                289,
+                111,
+                362,
+                125
+            ]
+        },
+        {
+            "text": "LAFAYETTE",
+            "id": 2,
+            "bbox": [
+                374,
+                105,
+                455,
+                120
+            ]
+        },
+        {
+            "text": "1317",
+            "id": 3,
+            "bbox": [
+                328,
+                294,
+                373,
+                305
+            ]
+        },
+        {
+            "text": "1,350.0O",
+            "id": 4,
+            "bbox": [
+                522,
+                528,
+                603,
+                541
+            ]
+        },
+        {
+            "text": "1,350.00",
+            "id": 5,
+            "bbox": [
+                517,
+                429,
+                599,
+                449
+            ]
+        },
+        {
+            "text": "Luxurious",
+            "id": 6,
+            "bbox": [
+                160,
+                426,
+                250,
+                442
+            ]
+        },
+        {
+            "text": "Accesuory",
+            "id": 7,
+            "bbox": [
+                263,
+                421,
+                356,
+                438
+            ]
+        },
+        {
+            "text": "BAGS",
+            "id": 8,
+            "bbox": [
+                160,
+                449,
+                200,
+                468
+            ]
+        },
+        {
+            "text": "GUOC",
+            "id": 9,
+            "bbox": [
+                213,
+                447,
+                255,
+                465
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 10,
+            "bbox": [
+                274,
+                448,
+                304,
+                460
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Luxurious",
+                "Accesuory",
+                "BAGS",
+                "GUOC",
+                "SKU"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERINN",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,350.0O"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1317"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,350.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/999.jpg"
+    }
+}

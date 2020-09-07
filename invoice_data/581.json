@@ -1,162 +1,108 @@
 {
     "text_boxes": [
         {
-            "text": "MICHAEL",
+            "text": "July",
             "id": 1,
             "bbox": [
-                200,
-                283,
-                445,
-                325
+                420,
+                371,
+                437,
+                379
             ]
         },
         {
-            "text": "KORS",
+            "text": "13,",
             "id": 2,
             "bbox": [
-                466,
-                282,
-                617,
-                324
+                443,
+                371,
+                455,
+                380
             ]
         },
         {
-            "text": "19-Jul-2020",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                315,
-                638,
-                420,
-                658
+                461,
+                372,
+                484,
+                379
             ]
         },
         {
-            "text": "20:52",
+            "text": "18:45",
             "id": 4,
             "bbox": [
-                432,
-                637,
-                479,
-                656
+                494,
+                372,
+                519,
+                379
             ]
         },
         {
-            "text": "1,396.50",
+            "text": "205.00",
             "id": 5,
             "bbox": [
-                585,
-                1353,
-                664,
-                1379
+                536,
+                671,
+                571,
+                677
             ]
         },
         {
-            "text": "1,396.50",
+            "text": "205.00",
             "id": 6,
             "bbox": [
-                620,
-                1105,
-                699,
-                1131
+                603,
+                536,
+                635,
+                543
             ]
         },
         {
-            "text": "1",
+            "text": "EYES",
             "id": 7,
             "bbox": [
-                331,
-                1115,
-                350,
-                1146
+                142,
+                521,
+                168,
+                531
             ]
         },
         {
-            "text": "30T9GOEL2B-252:MKS.252:NS:MD",
+            "text": "MAKE-UP",
             "id": 8,
             "bbox": [
-                118,
-                1042,
-                411,
-                1074
+                173,
+                523,
+                223,
+                532
             ]
         },
         {
-            "text": "CHAIN",
+            "text": "195204",
             "id": 9,
             "bbox": [
-                422,
-                1041,
-                473,
-                1063
-            ]
-        },
-        {
-            "text": "SHLDR",
-            "id": 10,
-            "bbox": [
-                484,
-                1039,
-                534,
-                1061
-            ]
-        },
-        {
-            "text": "023324740050",
-            "id": 11,
-            "bbox": [
-                119,
-                1012,
-                244,
-                1037
-            ]
-        },
-        {
-            "text": "\u062f\u0642\u064a\u062f\u0629",
-            "id": 12,
-            "bbox": [
-                163,
-                1091,
-                204,
-                1109
+                142,
+                537,
+                177,
+                545
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "30T9GOEL2B-252:MKS.252:NS:MD",
-                "CHAIN",
-                "SHLDR"
+                "EYES",
+                "MAKE-UP"
             ],
             "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:52"
-            ],
-            "value_id": [
-                4
+                7,
+                8
             ]
         },
         {
@@ -164,9 +110,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19-Jul-2020"
+                "July",
+                "13,",
+                "2020"
             ],
             "value_id": [
+                1,
+                2,
                 3
             ]
         },
@@ -175,34 +125,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,396.50"
+                "205.00"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u062f\u0642\u064a\u062f\u0629"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MICHAEL",
-                "KORS"
-            ],
-            "value_id": [
-                1,
-                2
             ]
         },
         {
@@ -210,10 +136,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "023324740050"
+                "195204"
             ],
             "value_id": [
-                11
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:45"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -221,7 +158,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,396.50"
+                "205.00"
             ],
             "value_id": [
                 6

@@ -1,117 +1,142 @@
 {
     "text_boxes": [
         {
-            "text": "-",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                418,
                 310,
-                425,
-                321
+                95,
+                475,
+                142
             ]
         },
         {
-            "text": "July",
+            "text": "0/07/2020",
             "id": 2,
             "bbox": [
-                367,
-                365,
-                385,
-                376
+                69,
+                372,
+                115,
+                380
             ]
         },
         {
-            "text": "06,",
+            "text": "21:30",
             "id": 3,
             "bbox": [
-                388,
-                361,
-                402,
-                370
+                125,
+                373,
+                147,
+                380
             ]
         },
         {
-            "text": "2020",
+            "text": "13,340.00",
             "id": 4,
             "bbox": [
-                407,
-                355,
-                431,
-                367
+                604,
+                524,
+                643,
+                533
             ]
         },
         {
-            "text": "17:26",
+            "text": "800,00",
             "id": 5,
             "bbox": [
-                439,
-                348,
-                468,
-                362
+                643,
+                456,
+                670,
+                462
             ]
         },
         {
-            "text": "770.00",
+            "text": "11.904.76",
             "id": 6,
             "bbox": [
-                498,
-                652,
-                540,
-                664
-            ]
-        },
-        {
-            "text": "770.00",
-            "id": 7,
-            "bbox": [
-                569,
-                491,
-                609,
-                506
+                631,
+                469,
+                670,
+                476
             ]
         },
         {
             "text": "1.",
+            "id": 7,
+            "bbox": [
+                381,
+                472,
+                382,
+                478
+            ]
+        },
+        {
+            "text": "Searves",
             "id": 8,
             "bbox": [
-                336,
-                516,
-                340,
-                524
+                224,
+                458,
+                255,
+                466
             ]
         },
         {
-            "text": "LES",
+            "text": "Women",
             "id": 9,
             "bbox": [
-                66,
-                486,
-                88,
-                496
+                224,
+                472,
+                255,
+                478
             ]
         },
         {
-            "text": "EXCLUSIFS",
+            "text": "bags",
             "id": 10,
             "bbox": [
-                92,
-                489,
-                159,
-                504
+                260,
+                471,
+                278,
+                480
             ]
         },
         {
-            "text": "122160",
+            "text": "81ABC106N600",
             "id": 11,
             "bbox": [
-                64,
-                502,
-                106,
-                515
+                73,
+                456,
+                141,
+                465
+            ]
+        },
+        {
+            "text": "MI50GOWEC",
+            "id": 12,
+            "bbox": [
+                77,
+                472,
+                132,
+                479
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Searves",
+                "Women",
+                "bags"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
         {
             "field_name": "item_quantity",
             "key_id": [],
@@ -120,31 +145,7 @@
                 "1."
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LES",
-                "EXCLUSIFS"
-            ],
-            "value_id": [
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:26"
-            ],
-            "value_id": [
-                5
+                7
             ]
         },
         {
@@ -152,25 +153,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "06,",
-                "2020"
+                "0/07/2020"
             ],
             "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "770.00"
-            ],
-            "value_id": [
-                6
+                2
             ]
         },
         {
@@ -178,10 +164,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "-"
+                "DIOR"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13,340.00"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -189,10 +186,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "122160"
+                "81ABC106N600",
+                "MI50GOWEC"
             ],
             "value_id": [
-                11
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:30"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -200,10 +210,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "770.00"
+                "800,00",
+                "11.904.76"
             ],
             "value_id": [
-                7
+                5,
+                6
             ]
         }
     ],

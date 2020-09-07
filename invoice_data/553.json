@@ -1,165 +1,328 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "AHMED",
             "id": 1,
             "bbox": [
-                339,
-                217,
-                396,
-                252
+                506,
+                185,
+                559,
+                198
             ]
         },
         {
-            "text": "SHOES",
+            "text": "SEDDIO!",
             "id": 2,
             "bbox": [
-                350,
-                255,
-                385,
-                263
+                566,
+                185,
+                622,
+                198
             ]
         },
         {
-            "text": "Jul,",
+            "text": "&",
             "id": 3,
             "bbox": [
-                451,
-                350,
-                472,
-                358
+                628,
+                187,
+                639,
+                199
             ]
         },
         {
-            "text": "2020",
+            "text": "JONS",
             "id": 4,
             "bbox": [
-                482,
-                350,
-                505,
-                357
+                643,
+                184,
+                676,
+                199
             ]
         },
         {
-            "text": "22:",
+            "text": "05-07-2020",
             "id": 5,
             "bbox": [
-                512,
-                349,
+                488,
+                324,
                 530,
-                359
+                329
             ]
         },
         {
-            "text": "03",
+            "text": "0.00",
             "id": 6,
             "bbox": [
-                532,
-                348,
-                543,
-                359
+                609,
+                421,
+                624,
+                426
             ]
         },
         {
-            "text": "1,850.00",
+            "text": "1,700.00",
             "id": 7,
             "bbox": [
-                545,
-                561,
-                596,
-                573
+                598,
+                461,
+                628,
+                469
             ]
         },
         {
-            "text": "1,850.00",
+            "text": "2.",
             "id": 8,
             "bbox": [
-                558,
-                485,
-                607,
-                495
+                338,
+                512,
+                341,
+                517
             ]
         },
         {
-            "text": "PRIVATE",
+            "text": "35,700.00",
             "id": 9,
             "bbox": [
-                117,
-                470,
-                160,
-                476
+                236,
+                648,
+                275,
+                654
             ]
         },
         {
-            "text": "COLLECTION",
+            "text": "-",
             "id": 10,
             "bbox": [
-                168,
-                469,
-                230,
-                476
+                163,
+                470,
+                176,
+                477
             ]
         },
         {
-            "text": "MENS",
+            "text": "ROLEX",
             "id": 11,
             "bbox": [
-                237,
-                469,
-                262,
-                476
+                108,
+                472,
+                134,
+                477
             ]
         },
         {
-            "text": "OTHERS",
+            "text": "u",
             "id": 12,
             "bbox": [
-                273,
-                468,
-                305,
-                479
+                147,
+                429,
+                152,
+                436
             ]
         },
         {
-            "text": "SI-aLi",
+            "text": "y-la",
             "id": 13,
             "bbox": [
-                328,
-                469,
-                400,
-                478
+                171,
+                429,
+                190,
+                436
+            ]
+        },
+        {
+            "text": "ROLEX",
+            "id": 14,
+            "bbox": [
+                110,
+                430,
+                135,
+                435
+            ]
+        },
+        {
+            "text": "OYSTER",
+            "id": 15,
+            "bbox": [
+                110,
+                439,
+                139,
+                444
+            ]
+        },
+        {
+            "text": "RL",
+            "id": 16,
+            "bbox": [
+                108,
+                489,
+                116,
+                493
+            ]
+        },
+        {
+            "text": "ST/vO",
+            "id": 17,
+            "bbox": [
+                143,
+                489,
+                170,
+                493
+            ]
+        },
+        {
+            "text": "OYSTER",
+            "id": 18,
+            "bbox": [
+                173,
+                488,
+                194,
+                492
+            ]
+        },
+        {
+            "text": "LADY-DATEJUST",
+            "id": 19,
+            "bbox": [
+                198,
+                488,
+                256,
+                492
+            ]
+        },
+        {
+            "text": "WHITE",
+            "id": 20,
+            "bbox": [
+                270,
+                487,
+                291,
+                492
+            ]
+        },
+        {
+            "text": "ROM",
+            "id": 21,
+            "bbox": [
+                296,
+                487,
+                312,
+                491
+            ]
+        },
+        {
+            "text": "Y",
+            "id": 22,
+            "bbox": [
+                315,
+                487,
+                317,
+                491
+            ]
+        },
+        {
+            "text": "DIAL",
+            "id": 23,
+            "bbox": [
+                108,
+                496,
+                122,
+                501
+            ]
+        },
+        {
+            "text": "JURIL",
+            "id": 24,
+            "bbox": [
+                127,
+                496,
+                146,
+                501
+            ]
+        },
+        {
+            "text": "Seriale",
+            "id": 25,
+            "bbox": [
+                108,
+                502,
+                131,
+                509
+            ]
+        },
+        {
+            "text": "3ZKS4740",
+            "id": 26,
+            "bbox": [
+                133,
+                501,
+                168,
+                509
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2."
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PRIVATE",
-                "COLLECTION",
-                "MENS",
-                "OTHERS"
+                "ROLEX",
+                "ROLEX",
+                "OYSTER",
+                "RL",
+                "ST/vO",
+                "OYSTER",
+                "LADY-DATEJUST",
+                "WHITE",
+                "ROM",
+                "Y",
+                "DIAL",
+                "JURIL",
+                "Seriale",
+                "3ZKS4740"
             ],
             "value_id": [
-                9,
-                10,
                 11,
-                12
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "22:",
-                "03"
+                "-",
+                "u",
+                "y-la"
             ],
             "value_id": [
-                5,
-                6
+                10,
+                12,
+                13
             ]
         },
         {
@@ -167,10 +330,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "05-07-2020"
             ],
             "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AHMED",
+                "SEDDIO!",
+                "&",
+                "JONS"
+            ],
+            "value_id": [
+                1,
+                2,
                 3,
                 4
             ]
@@ -180,34 +358,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,850.00"
+                "35,700.00"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SI-aLi"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "level",
-                "SHOES"
-            ],
-            "value_id": [
-                1,
-                2
+                9
             ]
         },
         {
@@ -215,10 +369,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,850.00"
+                "0.00",
+                "1,700.00"
             ],
             "value_id": [
-                8
+                6,
+                7
             ]
         }
     ],

@@ -1,173 +1,109 @@
 {
     "text_boxes": [
         {
-            "text": "Apple",
+            "text": "DIAI",
             "id": 1,
             "bbox": [
-                179,
-                231,
-                202,
-                239
+                584,
+                210,
+                688,
+                223
             ]
         },
         {
-            "text": "Dubai",
+            "text": "03-Jul-2020",
             "id": 2,
             "bbox": [
-                206,
-                231,
-                229,
-                238
+                46,
+                544,
+                221,
+                571
             ]
         },
         {
-            "text": "Mall",
+            "text": "3,150.00",
             "id": 3,
             "bbox": [
-                233,
-                230,
-                250,
-                237
+                568,
+                1290,
+                697,
+                1322
             ]
         },
         {
-            "text": "25/06/20",
+            "text": "2",
             "id": 4,
             "bbox": [
-                179,
-                1193,
-                215,
-                1199
+                680,
+                1141,
+                693,
+                1161
             ]
         },
         {
-            "text": "16:32",
+            "text": "MOON",
             "id": 5,
             "bbox": [
-                225,
-                1193,
-                244,
-                1199
+                210,
+                1053,
+                273,
+                1079
             ]
         },
         {
-            "text": "AED",
+            "text": "DUST",
             "id": 6,
             "bbox": [
-                524,
-                830,
-                540,
-                836
+                291,
+                1055,
+                351,
+                1083
             ]
         },
         {
-            "text": "479.00",
+            "text": "213422814",
             "id": 7,
             "bbox": [
-                543,
-                830,
-                570,
-                836
+                80,
+                982,
+                224,
+                1013
             ]
         },
         {
-            "text": "AED",
+            "text": "213422995",
             "id": 8,
             "bbox": [
-                527,
-                752,
-                542,
-                759
-            ]
-        },
-        {
-            "text": "479.00",
-            "id": 9,
-            "bbox": [
-                546,
-                752,
-                570,
-                759
-            ]
-        },
-        {
-            "text": "DJI",
-            "id": 10,
-            "bbox": [
-                179,
-                615,
-                192,
-                621
-            ]
-        },
-        {
-            "text": "OSMO",
-            "id": 11,
-            "bbox": [
-                194,
-                615,
-                219,
-                621
-            ]
-        },
-        {
-            "text": "3",
-            "id": 12,
-            "bbox": [
-                223,
-                615,
-                227,
-                621
-            ]
-        },
-        {
-            "text": "COMBO-ZML",
-            "id": 13,
-            "bbox": [
-                230,
-                615,
-                282,
-                621
-            ]
-        },
-        {
-            "text": "HNFN2ZM/A",
-            "id": 14,
-            "bbox": [
-                234,
-                630,
-                283,
-                638
+                81,
+                1080,
+                225,
+                1106
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DJI",
-                "OSMO",
-                "3",
-                "COMBO-ZML"
+                "MOON",
+                "DUST"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:32"
-            ],
-            "value_id": [
-                5
+                5,
+                6
             ]
         },
         {
@@ -175,23 +111,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25/06/20"
+                "03-Jul-2020"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AED",
-                "479.00"
-            ],
-            "value_id": [
-                6,
-                7
+                2
             ]
         },
         {
@@ -199,13 +122,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Apple",
-                "Dubai",
-                "Mall"
+                "DIAI"
             ],
             "value_id": [
-                1,
-                2,
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,150.00"
+            ],
+            "value_id": [
                 3
             ]
         },
@@ -214,23 +144,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "HNFN2ZM/A"
+                "213422814",
+                "213422995"
             ],
             "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AED",
-                "479.00"
-            ],
-            "value_id": [
-                8,
-                9
+                7,
+                8
             ]
         }
     ],

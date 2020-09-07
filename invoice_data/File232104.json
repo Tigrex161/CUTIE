@@ -1,0 +1,240 @@
+{
+    "text_boxes": [
+        {
+            "text": "JASHANMAL",
+            "id": 1,
+            "bbox": [
+                288,
+                262,
+                362,
+                276
+            ]
+        },
+        {
+            "text": "DEPARTMENT",
+            "id": 2,
+            "bbox": [
+                367,
+                264,
+                452,
+                274
+            ]
+        },
+        {
+            "text": "STORE",
+            "id": 3,
+            "bbox": [
+                457,
+                264,
+                499,
+                274
+            ]
+        },
+        {
+            "text": "8:38",
+            "id": 4,
+            "bbox": [
+                435,
+                383,
+                459,
+                393
+            ]
+        },
+        {
+            "text": "29",
+            "id": 5,
+            "bbox": [
+                461,
+                382,
+                476,
+                393
+            ]
+        },
+        {
+            "text": "a",
+            "id": 6,
+            "bbox": [
+                485,
+                382,
+                503,
+                393
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                513,
+                381,
+                530,
+                391
+            ]
+        },
+        {
+            "text": "545.00",
+            "id": 8,
+            "bbox": [
+                513,
+                452,
+                551,
+                465
+            ]
+        },
+        {
+            "text": "165441",
+            "id": 9,
+            "bbox": [
+                252,
+                461,
+                291,
+                474
+            ]
+        },
+        {
+            "text": "MENS",
+            "id": 10,
+            "bbox": [
+                362,
+                473,
+                396,
+                484
+            ]
+        },
+        {
+            "text": "BAGS",
+            "id": 11,
+            "bbox": [
+                401,
+                473,
+                437,
+                484
+            ]
+        },
+        {
+            "text": "BRIEFCASE",
+            "id": 12,
+            "bbox": [
+                363,
+                488,
+                434,
+                498
+            ]
+        },
+        {
+            "text": "327.00",
+            "id": 13,
+            "bbox": [
+                518,
+                584,
+                558,
+                597
+            ]
+        },
+        {
+            "text": "1",
+            "id": 14,
+            "bbox": [
+                553,
+                601,
+                557,
+                610
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "165441"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "327.00"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JASHANMAL",
+                "DEPARTMENT",
+                "STORE"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MENS",
+                "BAGS",
+                "BRIEFCASE"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8:38",
+                "29",
+                "a",
+                "PM"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "545.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/103.jpg"
+    }
+}

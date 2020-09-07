@@ -1,165 +1,140 @@
 {
     "text_boxes": [
         {
-            "text": "Rink",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                308,
-                365,
-                340,
-                379
+                252,
+                161,
+                351,
+                178
             ]
         },
         {
-            "text": "Arcade",
+            "text": "HOME",
             "id": 2,
             "bbox": [
-                351,
-                363,
-                401,
-                378
+                377,
+                160,
+                484,
+                177
             ]
         },
         {
-            "text": "12:09",
+            "text": "08-07-2020",
             "id": 3,
             "bbox": [
-                387,
-                529,
-                429,
-                549
+                168,
+                351,
+                260,
+                364
             ]
         },
         {
-            "text": "160.0",
+            "text": "18:39",
             "id": 4,
             "bbox": [
-                501,
-                746,
-                539,
-                762
+                273,
+                353,
+                316,
+                366
             ]
         },
         {
-            "text": "140.0",
+            "text": "459",
             "id": 5,
             "bbox": [
-                497,
-                667,
-                534,
-                681
+                485,
+                612,
+                511,
+                624
             ]
         },
         {
-            "text": "20.0",
+            "text": "459",
             "id": 6,
             "bbox": [
-                506,
-                707,
-                537,
-                721
+                480,
+                446,
+                505,
+                457
             ]
         },
         {
-            "text": "4",
+            "text": "1",
             "id": 7,
             "bbox": [
-                312,
-                686,
-                314,
-                688
+                281,
+                446,
+                287,
+                457
             ]
         },
         {
-            "text": "Public",
+            "text": "4010608862112",
             "id": 8,
             "bbox": [
-                192,
-                673,
-                251,
-                694
+                261,
+                468,
+                382,
+                482
             ]
         },
         {
-            "text": "Entertainer",
+            "text": "SHEET",
             "id": 9,
             "bbox": [
-                197,
-                695,
-                285,
-                712
+                404,
+                469,
+                448,
+                481
             ]
         },
         {
-            "text": "Locker",
+            "text": "10001565",
             "id": 10,
             "bbox": [
-                197,
-                714,
-                246,
-                733
-            ]
-        },
-        {
-            "text": "Depos",
-            "id": 11,
-            "bbox": [
-                255,
-                715,
-                294,
-                731
+                164,
+                466,
+                238,
+                479
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4010608862112",
+                "SHEET"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
             "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4"
+                "1"
             ],
             "value_id": [
                 7
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Public",
-                "Entertainer",
-                "Locker",
-                "Depos"
-            ],
-            "value_id": [
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:09"
+                "08-07-2020"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "160.0"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -167,8 +142,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Rink",
-                "Arcade"
+                "ZARA",
+                "HOME"
             ],
             "value_id": [
                 1,
@@ -176,15 +151,46 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "459"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001565"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:39"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "140.0",
-                "20.0"
+                "459"
             ],
             "value_id": [
-                5,
                 6
             ]
         }

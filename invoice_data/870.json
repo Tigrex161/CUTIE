@@ -1,154 +1,185 @@
 {
     "text_boxes": [
         {
-            "text": "RAMASAT",
+            "text": "level",
             "id": 1,
             "bbox": [
-                353,
-                188,
-                421,
-                201
+                475,
+                168,
+                623,
+                269
             ]
         },
         {
-            "text": "27/07/2020",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                327,
-                263,
-                383,
-                276
+                503,
+                285,
+                593,
+                300
             ]
         },
         {
-            "text": "6.43:06PM",
+            "text": "Jul,",
             "id": 3,
             "bbox": [
-                480,
-                263,
-                531,
-                277
+                693,
+                488,
+                732,
+                503
             ]
         },
         {
-            "text": "695.69",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                428,
-                886,
-                468,
-                897
+                752,
+                488,
+                795,
+                501
             ]
         },
         {
-            "text": "370.00",
+            "text": "12:",
             "id": 5,
             "bbox": [
+                811,
                 488,
-                611,
-                521,
-                619
+                838,
+                501
             ]
         },
         {
-            "text": "549.99",
+            "text": "44",
             "id": 6,
             "bbox": [
+                846,
                 488,
-                635,
-                521,
-                645
+                864,
+                501
             ]
         },
         {
-            "text": "1,00",
+            "text": "1,500.00",
             "id": 7,
             "bbox": [
-                327,
-                610,
-                346,
-                618
+                872,
+                903,
+                960,
+                918
             ]
         },
         {
-            "text": "1.00",
+            "text": "1,500.00",
             "id": 8,
             "bbox": [
-                326,
-                635,
-                345,
-                643
+                886,
+                754,
+                975,
+                770
             ]
         },
         {
-            "text": "DUKHOUN",
+            "text": "A4138XLHDGR-OSS:",
             "id": 9,
             "bbox": [
-                218,
-                604,
-                272,
-                615
+                84,
+                710,
+                271,
+                731
             ]
         },
         {
-            "text": "HAMDA",
+            "text": "ZEG.OSS:11:TIZIANO",
             "id": 10,
             "bbox": [
-                277,
-                605,
-                312,
-                617
+                273,
+                711,
+                474,
+                732
             ]
         },
         {
-            "text": "DALIDA",
+            "text": "-ZEGNA",
             "id": 11,
             "bbox": [
-                217,
-                630,
-                255,
-                641
+                486,
+                717,
+                551,
+                730
+            ]
+        },
+        {
+            "text": "COUTURE",
+            "id": 12,
+            "bbox": [
+                564,
+                717,
+                641,
+                731
+            ]
+        },
+        {
+            "text": "034924872073",
+            "id": 13,
+            "bbox": [
+                86,
+                748,
+                220,
+                763
+            ]
+        },
+        {
+            "text": "s",
+            "id": 14,
+            "bbox": [
+                777,
+                716,
+                806,
+                734
+            ]
+        },
+        {
+            "text": "lis",
+            "id": 15,
+            "bbox": [
+                808,
+                718,
+                849,
+                729
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,00",
-                "1.00"
-            ],
-            "value_id": [
-                7,
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DUKHOUN",
-                "HAMDA",
-                "DALIDA"
+                "A4138XLHDGR-OSS:",
+                "ZEG.OSS:11:TIZIANO",
+                "-ZEGNA",
+                "COUTURE"
             ],
             "value_id": [
                 9,
                 10,
-                11
+                11,
+                12
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6.43:06PM"
+                "s",
+                "lis"
             ],
             "value_id": [
-                3
+                14,
+                15
             ]
         },
         {
@@ -156,20 +187,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "27/07/2020"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "695.69"
-            ],
-            "value_id": [
+                3,
                 4
             ]
         },
@@ -178,10 +200,47 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RAMASAT"
+                "level",
+                "SHOES"
             ],
             "value_id": [
-                1
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,500.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "034924872073"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:",
+                "44"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         },
         {
@@ -189,12 +248,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "370.00",
-                "549.99"
+                "1,500.00"
             ],
             "value_id": [
-                5,
-                6
+                8
             ]
         }
     ],

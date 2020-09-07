@@ -1,83 +1,63 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "SERGIO",
             "id": 1,
             "bbox": [
-                499,
-                268,
-                525,
-                278
+                226,
+                134,
+                294,
+                151
             ]
         },
         {
-            "text": "2020",
+            "text": "17.10:03",
             "id": 2,
             "bbox": [
-                538,
-                268,
-                567,
-                279
+                312,
+                490,
+                375,
+                503
             ]
         },
         {
-            "text": "17:19",
+            "text": "3,230.00",
             "id": 3,
             "bbox": [
-                578,
-                269,
-                614,
-                278
+                418,
+                700,
+                485,
+                717
             ]
         },
         {
-            "text": "5,950.00",
+            "text": "3,590.00",
             "id": 4,
             "bbox": [
-                625,
-                545,
-                686,
-                556
+                442,
+                612,
+                509,
+                630
             ]
         },
         {
-            "text": "5,950.00",
+            "text": "A817902000008810",
             "id": 5,
             "bbox": [
-                634,
-                440,
-                695,
-                453
+                159,
+                618,
+                313,
+                632
             ]
         },
         {
-            "text": "BERLUTI",
+            "text": "A81790",
             "id": 6,
             "bbox": [
-                87,
-                417,
-                138,
-                427
-            ]
-        },
-        {
-            "text": "MENS",
-            "id": 7,
-            "bbox": [
-                148,
-                417,
-                178,
-                427
-            ]
-        },
-        {
-            "text": "4bl",
-            "id": 8,
-            "bbox": [
-                298,
-                415,
-                330,
-                431
+                267,
+                595,
+                324,
+                610
             ]
         }
     ],
@@ -87,36 +67,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BERLUTI",
-                "MENS"
+                "A817902000008810"
             ],
             "value_id": [
-                6,
-                7
+                5
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:19"
+                "SERGIO"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
+                1
             ]
         },
         {
@@ -124,21 +89,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5,950.00"
+                "3,230.00"
             ],
             "value_id": [
-                4
+                3
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4bl"
+                "A81790"
             ],
             "value_id": [
-                8
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17.10:03"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -146,10 +122,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5,950.00"
+                "3,590.00"
             ],
             "value_id": [
-                5
+                4
             ]
         }
     ],

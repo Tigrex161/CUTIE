@@ -1,0 +1,180 @@
+{
+    "text_boxes": [
+        {
+            "text": "PANERAI",
+            "id": 1,
+            "bbox": [
+                282,
+                225,
+                597,
+                279
+            ]
+        },
+        {
+            "text": "22/07/2020",
+            "id": 2,
+            "bbox": [
+                176,
+                779,
+                218,
+                787
+            ]
+        },
+        {
+            "text": "16:53:00",
+            "id": 3,
+            "bbox": [
+                221,
+                779,
+                252,
+                786
+            ]
+        },
+        {
+            "text": "42,300.00",
+            "id": 4,
+            "bbox": [
+                701,
+                633,
+                739,
+                639
+            ]
+        },
+        {
+            "text": "42.800.00",
+            "id": 5,
+            "bbox": [
+                703,
+                592,
+                735,
+                598
+            ]
+        },
+        {
+            "text": "LUM44",
+            "id": 6,
+            "bbox": [
+                191,
+                584,
+                211,
+                591
+            ]
+        },
+        {
+            "text": "MARINAPSOIOCAR",
+            "id": 7,
+            "bbox": [
+                215,
+                583,
+                272,
+                592
+            ]
+        },
+        {
+            "text": "SPORTDE",
+            "id": 8,
+            "bbox": [
+                276,
+                583,
+                301,
+                591
+            ]
+        },
+        {
+            "text": "PAM01661",
+            "id": 9,
+            "bbox": [
+                228,
+                595,
+                265,
+                601
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:53:00"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LUM44",
+                "MARINAPSOIOCAR",
+                "SPORTDE"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PAM01661"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "42.800.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22/07/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "42,300.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PANERAI"
+            ],
+            "value_id": [
+                1
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/20.jpg"
+    }
+}

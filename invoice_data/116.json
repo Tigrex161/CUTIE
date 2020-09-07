@@ -1,163 +1,83 @@
 {
     "text_boxes": [
         {
-            "text": "Atelie",
+            "text": "July",
             "id": 1,
             "bbox": [
-                256,
-                147,
-                319,
-                177
+                400,
+                230,
+                421,
+                242
             ]
         },
         {
-            "text": "Colegne",
+            "text": "11,",
             "id": 2,
             "bbox": [
-                319,
-                143,
-                399,
-                175
+                427,
+                230,
+                442,
+                240
             ]
         },
         {
-            "text": "PARIS",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                314,
-                172,
-                344,
-                179
+                448,
+                229,
+                475,
+                238
             ]
         },
         {
-            "text": "04-Jul-2020",
+            "text": "23:42",
             "id": 4,
             "bbox": [
-                282,
-                332,
-                338,
-                345
+                484,
+                227,
+                516,
+                237
             ]
         },
         {
-            "text": "11:41",
+            "text": "3,790.00",
             "id": 5,
             "bbox": [
-                345,
-                332,
-                368,
-                343
+                550,
+                562,
+                606,
+                575
             ]
         },
         {
-            "text": "1,230.00",
+            "text": "3,790.00",
             "id": 6,
             "bbox": [
-                422,
-                619,
-                462,
-                629
+                621,
+                392,
+                672,
+                405
             ]
         },
         {
-            "text": "1.230.00",
+            "text": "O-CASE",
             "id": 7,
             "bbox": [
-                437,
-                535,
-                475,
-                543
+                77,
+                394,
+                128,
+                407
             ]
         },
         {
-            "text": "L7619900:",
+            "text": "A82725B02396C0229",
             "id": 8,
             "bbox": [
-                192,
-                506,
-                235,
-                514
-            ]
-        },
-        {
-            "text": "CAN",
-            "id": 9,
-            "bbox": [
-                238,
-                506,
-                252,
-                515
-            ]
-        },
-        {
-            "text": "SANTAL",
-            "id": 10,
-            "bbox": [
-                259,
-                506,
-                287,
-                514
-            ]
-        },
-        {
-            "text": "CARMIN",
-            "id": 11,
-            "bbox": [
-                294,
-                506,
-                323,
-                514
-            ]
-        },
-        {
-            "text": "COLOGNE",
-            "id": 12,
-            "bbox": [
-                329,
-                506,
-                363,
-                514
-            ]
-        },
-        {
-            "text": "ABSOLUE",
-            "id": 13,
-            "bbox": [
-                369,
-                505,
-                402,
-                514
-            ]
-        },
-        {
-            "text": "VAPORIS",
-            "id": 14,
-            "bbox": [
-                409,
-                504,
-                443,
-                513
-            ]
-        },
-        {
-            "text": "122612332585",
-            "id": 15,
-            "bbox": [
-                193,
-                489,
-                252,
-                500
-            ]
-        },
-        {
-            "text": "\u0628\u0627\u0631\u0641\u0627\u0646",
-            "id": 16,
-            "bbox": [
-                213,
-                522,
-                237,
-                530
+                77,
+                411,
+                208,
+                429
             ]
         }
     ],
@@ -167,33 +87,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L7619900:",
-                "CAN",
-                "SANTAL",
-                "CARMIN",
-                "COLOGNE",
-                "ABSOLUE",
-                "VAPORIS"
+                "O-CASE"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:41"
-            ],
-            "value_id": [
-                5
+                7
             ]
         },
         {
@@ -201,42 +98,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "04-Jul-2020"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,230.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0628\u0627\u0631\u0641\u0627\u0646"
-            ],
-            "value_id": [
-                16
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Atelie",
-                "Colegne",
-                "PARIS"
+                "July",
+                "11,",
+                "2020"
             ],
             "value_id": [
                 1,
@@ -245,14 +109,36 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,790.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "122612332585"
+                "A82725B02396C0229"
             ],
             "value_id": [
-                15
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23:42"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -260,10 +146,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.230.00"
+                "3,790.00"
             ],
             "value_id": [
-                7
+                6
             ]
         }
     ],

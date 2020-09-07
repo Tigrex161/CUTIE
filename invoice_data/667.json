@@ -1,83 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "DIESEL",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                287,
-                270,
-                355,
-                291
+                251,
+                127,
+                324,
+                139
             ]
         },
         {
-            "text": "07/28/20",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                173,
-                387,
-                267,
-                409
+                336,
+                128,
+                417,
+                140
             ]
         },
         {
-            "text": "6:03",
+            "text": "14/07/20",
             "id": 3,
             "bbox": [
-                291,
-                389,
-                336,
-                407
+                215,
+                363,
+                286,
+                379
             ]
         },
         {
-            "text": "237",
+            "text": "19:33",
             "id": 4,
             "bbox": [
-                534,
-                705,
-                568,
-                724
+                299,
+                364,
+                342,
+                377
             ]
         },
         {
-            "text": "237",
+            "text": "960.00",
             "id": 5,
             "bbox": [
-                529,
-                565,
-                562,
-                584
+                489,
+                605,
+                543,
+                619
             ]
         },
         {
-            "text": "PANTS",
+            "text": "960.00",
             "id": 6,
             "bbox": [
-                193,
-                576,
-                251,
-                594
+                482,
+                522,
+                533,
+                535
             ]
         },
         {
-            "text": "A041186",
+            "text": "2sku",
             "id": 7,
             "bbox": [
-                98,
-                575,
-                180,
-                595
+                168,
+                554,
+                203,
+                566
             ]
         },
         {
-            "text": "NSN",
+            "text": "Leather",
             "id": 8,
             "bbox": [
-                98,
-                601,
-                133,
-                619
+                159,
+                510,
+                220,
+                523
+            ]
+        },
+        {
+            "text": "Accessory",
+            "id": 9,
+            "bbox": [
+                232,
+                507,
+                311,
+                522
+            ]
+        },
+        {
+            "text": "ACC",
+            "id": 10,
+            "bbox": [
+                158,
+                531,
+                183,
+                544
+            ]
+        },
+        {
+            "text": "KENZO",
+            "id": 11,
+            "bbox": [
+                195,
+                531,
+                239,
+                543
+            ]
+        },
+        {
+            "text": "900634020",
+            "id": 12,
+            "bbox": [
+                233,
+                549,
+                312,
+                565
             ]
         }
     ],
@@ -87,21 +127,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PANTS"
+                "Leather",
+                "Accessory",
+                "ACC",
+                "KENZO"
             ],
             "value_id": [
-                6
+                8,
+                9,
+                10,
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6:03"
+                "2sku"
             ],
             "value_id": [
-                3
+                7
             ]
         },
         {
@@ -109,9 +155,22 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07/28/20"
+                "14/07/20"
             ],
             "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
                 2
             ]
         },
@@ -120,21 +179,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "237"
+                "960.00"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DIESEL"
-            ],
-            "value_id": [
-                1
+                5
             ]
         },
         {
@@ -142,12 +190,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "A041186",
-                "NSN"
+                "900634020"
             ],
             "value_id": [
-                7,
-                8
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:33"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -155,10 +212,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "237"
+                "960.00"
             ],
             "value_id": [
-                5
+                6
             ]
         }
     ],

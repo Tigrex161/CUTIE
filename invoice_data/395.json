@@ -1,197 +1,77 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "135.00",
             "id": 1,
             "bbox": [
-                652,
-                518,
-                689,
-                535
+                629,
+                916,
+                675,
+                932
             ]
         },
         {
-            "text": "2020",
+            "text": "135.00",
             "id": 2,
             "bbox": [
-                705,
-                515,
-                747,
-                530
+                628,
+                806,
+                674,
+                821
             ]
         },
         {
-            "text": "15:59",
+            "text": "50",
             "id": 3,
             "bbox": [
-                760,
-                512,
-                814,
-                529
+                492,
+                806,
+                505,
+                820
             ]
         },
         {
-            "text": "2,",
+            "text": "6754530",
             "id": 4,
             "bbox": [
-                824,
-                898,
-                838,
-                911
+                241,
+                812,
+                296,
+                830
             ]
         },
         {
-            "text": "695.00",
+            "text": "50",
             "id": 5,
             "bbox": [
-                846,
-                898,
-                910,
-                910
-            ]
-        },
-        {
-            "text": "2,695.00",
-            "id": 6,
-            "bbox": [
-                835,
-                756,
-                922,
-                773
-            ]
-        },
-        {
-            "text": "1",
-            "id": 7,
-            "bbox": [
-                583,
-                766,
-                588,
-                777
-            ]
-        },
-        {
-            "text": "CLNWN_BAG:CHRISTIAN",
-            "id": 8,
-            "bbox": [
-                100,
-                731,
-                304,
-                749
-            ]
-        },
-        {
-            "text": "LOUBOUTIN",
-            "id": 9,
-            "bbox": [
-                316,
-                734,
-                407,
-                745
-            ]
-        },
-        {
-            "text": "WOMENS",
-            "id": 10,
-            "bbox": [
-                420,
-                735,
-                478,
-                746
-            ]
-        },
-        {
-            "text": "BAGS",
-            "id": 11,
-            "bbox": [
-                491,
-                734,
-                527,
-                745
-            ]
-        },
-        {
-            "text": "L",
-            "id": 12,
-            "bbox": [
-                574,
-                730,
-                582,
-                749
-            ]
-        },
-        {
-            "text": "y",
-            "id": 13,
-            "bbox": [
-                613,
-                736,
-                631,
-                746
-            ]
-        },
-        {
-            "text": "wi",
-            "id": 14,
-            "bbox": [
-                645,
-                731,
-                692,
-                745
+                661,
+                865,
+                675,
+                879
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "50"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CLNWN_BAG:CHRISTIAN",
-                "LOUBOUTIN",
-                "WOMENS",
-                "BAGS"
-            ],
-            "value_id": [
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15:59"
+                "50"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
             ]
         },
         {
@@ -199,27 +79,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,",
-                "695.00"
+                "135.00"
             ],
             "value_id": [
-                4,
-                5
+                1
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L",
-                "y",
-                "wi"
+                "6754530"
             ],
             "value_id": [
-                12,
-                13,
-                14
+                4
             ]
         },
         {
@@ -227,10 +101,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,695.00"
+                "135.00"
             ],
             "value_id": [
-                6
+                2
             ]
         }
     ],

@@ -1,127 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "ZILLI",
             "id": 1,
             "bbox": [
-                326,
-                367,
-                515,
-                424
+                350,
+                89,
+                457,
+                146
             ]
         },
         {
-            "text": "28/07/2020",
+            "text": "24/07/2020",
             "id": 2,
             "bbox": [
-                54,
-                697,
-                107,
-                707
+                635,
+                216,
+                706,
+                230
             ]
         },
         {
-            "text": "15:49",
+            "text": "3:42:29",
             "id": 3,
             "bbox": [
-                120,
-                697,
-                144,
-                704
+                711,
+                219,
+                756,
+                230
             ]
         },
         {
-            "text": "13,809.52",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                707,
-                787,
-                755,
-                797
+                761,
+                220,
+                779,
+                230
             ]
         },
         {
-            "text": "800.00",
+            "text": "3294.000",
             "id": 5,
             "bbox": [
-                721,
-                804,
-                755,
-                813
+                712,
+                551,
+                790,
+                567
+            ]
+        },
+        {
+            "text": "3294.000",
+            "id": 6,
+            "bbox": [
+                725,
+                396,
+                780,
+                408
             ]
         },
         {
             "text": "1",
-            "id": 6,
-            "bbox": [
-                411,
-                792,
-                413,
-                799
-            ]
-        },
-        {
-            "text": "Women",
             "id": 7,
             "bbox": [
-                226,
-                794,
-                264,
-                802
+                527,
+                394,
+                532,
+                403
             ]
         },
         {
-            "text": "bags",
+            "text": "1.000",
             "id": 8,
             "bbox": [
-                269,
-                794,
-                290,
-                804
+                241,
+                494,
+                278,
+                505
             ]
         },
         {
-            "text": "Searves",
+            "text": "3610348850228",
             "id": 9,
             "bbox": [
-                228,
-                811,
-                265,
-                818
+                16,
+                391,
+                116,
+                401
             ]
         },
         {
-            "text": "MD505OWEC",
+            "text": "\u0627\u0644\u0639\u0627\u0628",
             "id": 10,
             "bbox": [
-                56,
-                793,
-                121,
-                803
+                488,
+                417,
+                512,
+                429
             ]
         },
         {
-            "text": "85CDO1061624",
+            "text": "\u0627\u0644\u0643\u0631\u0629",
             "id": 11,
             "bbox": [
-                56,
-                811,
-                129,
-                819
+                460,
+                417,
+                483,
+                429
             ]
         },
         {
-            "text": "15,340.00",
+            "text": "\u0648\u0627\u0644\u0635\u0648\u0644\u062c\u0627\u0646",
             "id": 12,
             "bbox": [
-                680,
-                874,
-                726,
-                882
+                399,
+                417,
+                455,
+                429
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.000"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0644\u0639\u0627\u0628",
+                "\u0627\u0644\u0643\u0631\u0629",
+                "\u0648\u0627\u0644\u0635\u0648\u0644\u062c\u0627\u0646"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
         {
             "field_name": "item_quantity",
             "key_id": [],
@@ -130,21 +156,50 @@
                 "1"
             ],
             "value_id": [
-                6
+                7
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Women",
-                "bags",
-                "Searves"
+                "24/07/2020"
             ],
             "value_id": [
-                7,
-                8,
+                2
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZILLI"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3294.000"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3610348850228"
+            ],
+            "value_id": [
                 9
             ]
         },
@@ -153,56 +208,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15:49"
+                "3:42:29",
+                "PM"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "28/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15,340.00"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DIOR"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MD505OWEC",
-                "85CDO1061624"
-            ],
-            "value_id": [
-                10,
-                11
+                3,
+                4
             ]
         },
         {
@@ -210,12 +221,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13,809.52",
-                "800.00"
+                "3294.000"
             ],
             "value_id": [
-                4,
-                5
+                6
             ]
         }
     ],

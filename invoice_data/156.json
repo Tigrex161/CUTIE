@@ -1,113 +1,183 @@
 {
     "text_boxes": [
         {
-            "text": "TOD'S",
+            "text": "\u041dERMES",
             "id": 1,
             "bbox": [
-                320,
-                35,
-                392,
-                62
+                126,
+                297,
+                266,
+                323
             ]
         },
         {
-            "text": "10.",
+            "text": "07",
             "id": 2,
             "bbox": [
-                432,
-                331,
-                444,
-                340
+                465,
+                373,
+                476,
+                382
             ]
         },
         {
-            "text": "July",
+            "text": "01",
             "id": 3,
             "bbox": [
-                445,
-                331,
-                457,
-                339
+                480,
+                373,
+                490,
+                381
             ]
         },
         {
-            "text": "2020",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                461,
-                330,
-                477,
-                338
+                496,
+                371,
+                511,
+                380
             ]
         },
         {
-            "text": "93440",
+            "text": "17.790.00",
             "id": 5,
             "bbox": [
-                482,
-                330,
-                508,
-                339
+                518,
+                941,
+                567,
+                951
             ]
         },
         {
-            "text": "1,353.00",
+            "text": "17.790.00",
             "id": 6,
             "bbox": [
-                602,
-                482,
-                633,
-                488
+                592,
+                566,
+                639,
+                575
             ]
         },
         {
-            "text": "1,353.00",
+            "text": "1.",
             "id": 7,
             "bbox": [
-                608,
-                385,
-                636,
-                391
+                542,
+                569,
+                543,
+                576
             ]
         },
         {
-            "text": "TD",
+            "text": "WALLET",
             "id": 8,
             "bbox": [
-                318,
-                386,
-                327,
-                392
+                161,
+                568,
+                207,
+                582
             ]
         },
         {
-            "text": "MEN",
+            "text": "BAG",
             "id": 9,
             "bbox": [
-                330,
-                386,
-                346,
-                392
+                211,
+                568,
+                234,
+                582
             ]
         },
         {
-            "text": "SHOES",
+            "text": "KELLY",
             "id": 10,
             "bbox": [
-                350,
-                386,
-                374,
-                392
+                239,
+                568,
+                274,
+                582
             ]
         },
         {
-            "text": "XRMOEOOCO90038",
+            "text": "CLASSIQUE",
             "id": 11,
             "bbox": [
-                112,
-                385,
-                181,
-                392
+                276,
+                568,
+                337,
+                582
+            ]
+        },
+        {
+            "text": "TO",
+            "id": 12,
+            "bbox": [
+                340,
+                573,
+                351,
+                580
+            ]
+        },
+        {
+            "text": "GO",
+            "id": 13,
+            "bbox": [
+                356,
+                573,
+                378,
+                580
+            ]
+        },
+        {
+            "text": "E",
+            "id": 14,
+            "bbox": [
+                380,
+                568,
+                384,
+                582
+            ]
+        },
+        {
+            "text": "SO",
+            "id": 15,
+            "bbox": [
+                389,
+                568,
+                407,
+                582
+            ]
+        },
+        {
+            "text": "A",
+            "id": 16,
+            "bbox": [
+                409,
+                568,
+                414,
+                582
+            ]
+        },
+        {
+            "text": "GALIS",
+            "id": 17,
+            "bbox": [
+                418,
+                571,
+                443,
+                580
+            ]
+        },
+        {
+            "text": "HOB0253CC",
+            "id": 18,
+            "bbox": [
+                85,
+                568,
+                149,
+                582
             ]
         }
     ],
@@ -117,14 +187,72 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TD",
-                "MEN",
-                "SHOES"
+                "WALLET",
+                "BAG",
+                "KELLY",
+                "CLASSIQUE",
+                "TO",
+                "GO",
+                "E",
+                "SO",
+                "A",
+                "GALIS"
             ],
             "value_id": [
                 8,
                 9,
-                10
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1."
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u041dERMES"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17.790.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HOB0253CC"
+            ],
+            "value_id": [
+                18
             ]
         },
         {
@@ -132,20 +260,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "93440"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10.",
-                "July",
-                "2020"
+                "07",
+                "01",
+                "PM"
             ],
             "value_id": [
                 2,
@@ -154,47 +271,14 @@
             ]
         },
         {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,353.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "TOD'S"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "XRMOEOOCO90038"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,353.00"
+                "17.790.00"
             ],
             "value_id": [
-                7
+                6
             ]
         }
     ],

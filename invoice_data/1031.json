@@ -1,0 +1,183 @@
+{
+    "text_boxes": [
+        {
+            "text": "July",
+            "id": 1,
+            "bbox": [
+                386,
+                328,
+                403,
+                337
+            ]
+        },
+        {
+            "text": "28,",
+            "id": 2,
+            "bbox": [
+                408,
+                328,
+                421,
+                336
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                426,
+                326,
+                448,
+                335
+            ]
+        },
+        {
+            "text": "19:31",
+            "id": 4,
+            "bbox": [
+                457,
+                326,
+                481,
+                334
+            ]
+        },
+        {
+            "text": "11,490.00",
+            "id": 5,
+            "bbox": [
+                489,
+                630,
+                540,
+                638
+            ]
+        },
+        {
+            "text": "11,490.00",
+            "id": 6,
+            "bbox": [
+                555,
+                477,
+                602,
+                486
+            ]
+        },
+        {
+            "text": "LARGE",
+            "id": 7,
+            "bbox": [
+                126,
+                477,
+                158,
+                486
+            ]
+        },
+        {
+            "text": "SHOPPING",
+            "id": 8,
+            "bbox": [
+                163,
+                477,
+                219,
+                485
+            ]
+        },
+        {
+            "text": ">30CM",
+            "id": 9,
+            "bbox": [
+                224,
+                479,
+                258,
+                487
+            ]
+        },
+        {
+            "text": "A66941B0233694305",
+            "id": 10,
+            "bbox": [
+                125,
+                504,
+                226,
+                513
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LARGE",
+                "SHOPPING",
+                ">30CM"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "28,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11,490.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A66941B0233694305"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:31"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11,490.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1031.jpg"
+    }
+}

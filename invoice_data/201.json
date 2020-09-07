@@ -1,243 +1,172 @@
 {
     "text_boxes": [
         {
-            "text": "EROS",
+            "text": "level",
             "id": 1,
             "bbox": [
-                189,
-                354,
-                225,
-                366
+                330,
+                106,
+                421,
+                161
             ]
         },
         {
-            "text": "ELECTRICALS",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                230,
-                349,
-                320,
-                365
+                348,
+                164,
+                401,
+                176
             ]
         },
         {
-            "text": "06.30",
+            "text": "Jul,",
             "id": 3,
             "bbox": [
-                349,
-                487,
-                381,
-                498
+                469,
+                279,
+                493,
+                290
             ]
         },
         {
             "text": "2020",
             "id": 4,
             "bbox": [
-                387,
-                485,
-                415,
-                496
+                503,
+                281,
+                528,
+                292
             ]
         },
         {
-            "text": "GH82-20771A",
+            "text": "19:03",
             "id": 5,
             "bbox": [
-                148,
-                616,
-                234,
-                628
+                536,
+                284,
+                567,
+                295
             ]
         },
         {
-            "text": "SVC",
+            "text": "2,",
             "id": 6,
             "bbox": [
-                157,
-                627,
-                190,
-                641
+                593,
+                521,
+                602,
+                531
             ]
         },
         {
-            "text": "ASSY",
+            "text": "700.00",
             "id": 7,
             "bbox": [
-                183,
-                629,
-                218,
-                640
+                607,
+                521,
+                645,
+                529
             ]
         },
         {
-            "text": "SMT-OCTA",
+            "text": "2,700.00",
             "id": 8,
             "bbox": [
-                144,
-                642,
-                218,
-                655
+                595,
+                433,
+                646,
+                442
             ]
         },
         {
-            "text": "(EIZK)SM-",
+            "text": "1.",
             "id": 9,
             "bbox": [
-                144,
-                654,
-                211,
-                668
+                433,
+                430,
+                436,
+                438
             ]
         },
         {
-            "text": "T660N",
+            "text": "DIOR",
             "id": 10,
             "bbox": [
-                148,
-                670,
-                187,
-                681
+                110,
+                417,
+                136,
+                426
             ]
         },
         {
-            "text": "DBT,",
+            "text": "WOMENS",
             "id": 11,
             "bbox": [
-                193,
-                668,
-                221,
-                679
+                143,
+                411,
+                198,
+                426
             ]
         },
         {
-            "text": "sVC.",
+            "text": "SHOES",
             "id": 12,
             "bbox": [
-                225,
-                668,
-                254,
-                678
+                199,
+                409,
+                226,
+                423
             ]
         },
         {
-            "text": "1,008",
+            "text": "isi",
             "id": 13,
             "bbox": [
-                857,
-                606,
-                888,
-                618
-            ]
-        },
-        {
-            "text": "50",
-            "id": 14,
-            "bbox": [
-                891,
-                603,
-                906,
-                617
-            ]
-        },
-        {
-            "text": "157",
-            "id": 15,
-            "bbox": [
-                875,
-                652,
-                895,
-                662
-            ]
-        },
-        {
-            "text": "50",
-            "id": 16,
-            "bbox": [
-                900,
-                650,
-                915,
-                661
-            ]
-        },
-        {
-            "text": "1",
-            "id": 17,
-            "bbox": [
-                307,
-                640,
-                310,
-                647
-            ]
-        },
-        {
-            "text": "1,166.00",
-            "id": 18,
-            "bbox": [
-                902,
-                1261,
-                953,
-                1274
-            ]
-        },
-        {
-            "text": "charges",
-            "id": 19,
-            "bbox": [
-                186,
-                688,
-                234,
-                699
-            ]
-        },
-        {
-            "text": "391006059249",
-            "id": 20,
-            "bbox": [
-                590,
-                470,
-                677,
-                485
+                283,
+                404,
+                315,
+                417
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                17
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GH82-20771A",
-                "SVC",
-                "ASSY",
-                "SMT-OCTA",
-                "(EIZK)SM-",
-                "T660N",
-                "DBT,",
-                "sVC.",
-                "charges"
+                "DIOR",
+                "WOMENS",
+                "SHOES"
             ],
             "value_id": [
-                5,
-                6,
-                7,
-                8,
-                9,
                 10,
                 11,
-                12,
-                19
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "isi"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1."
+            ],
+            "value_id": [
+                9
             ]
         },
         {
@@ -245,7 +174,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "06.30",
+                "Jul,",
                 "2020"
             ],
             "value_id": [
@@ -254,23 +183,12 @@
             ]
         },
         {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,166.00"
-            ],
-            "value_id": [
-                18
-            ]
-        },
-        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "EROS",
-                "ELECTRICALS"
+                "level",
+                "SHOES"
             ],
             "value_id": [
                 1,
@@ -278,14 +196,27 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "391006059249"
+                "2,",
+                "700.00"
             ],
             "value_id": [
-                20
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:03"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -293,16 +224,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,008",
-                "50",
-                "157",
-                "50"
+                "2,700.00"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16
+                8
             ]
         }
     ],

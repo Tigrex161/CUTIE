@@ -1,97 +1,212 @@
 {
     "text_boxes": [
         {
-            "text": "Patch",
+            "text": "HERM\u00c9S",
             "id": 1,
             "bbox": [
-                408,
-                138,
-                449,
-                147
+                121,
+                39,
+                282,
+                90
+            ]
+        },
+        {
+            "text": "07/15/2020",
+            "id": 2,
+            "bbox": [
+                486,
+                137,
+                543,
+                149
+            ]
+        },
+        {
+            "text": "08:57",
+            "id": 3,
+            "bbox": [
+                485,
+                160,
+                513,
+                170
             ]
         },
         {
             "text": "PM",
-            "id": 2,
-            "bbox": [
-                491,
-                580,
-                507,
-                589
-            ]
-        },
-        {
-            "text": "241.00",
-            "id": 3,
-            "bbox": [
-                553,
-                736,
-                590,
-                746
-            ]
-        },
-        {
-            "text": "1.00",
             "id": 4,
             "bbox": [
-                423,
-                734,
-                444,
-                743
+                518,
+                161,
+                534,
+                171
             ]
         },
         {
-            "text": "DELUXE",
+            "text": "2,740.00",
             "id": 5,
             "bbox": [
-                257,
-                753,
-                303,
-                763
+                524,
+                807,
+                577,
+                820
             ]
         },
         {
-            "text": "CHOCOLATE",
+            "text": "2,740.00",
             "id": 6,
             "bbox": [
-                308,
-                753,
-                383,
-                765
+                621,
+                371,
+                665,
+                382
+            ]
+        },
+        {
+            "text": "WOMEN",
+            "id": 7,
+            "bbox": [
+                132,
+                343,
+                182,
+                358
+            ]
+        },
+        {
+            "text": "SHOES-",
+            "id": 8,
+            "bbox": [
+                187,
+                348,
+                238,
+                362
+            ]
+        },
+        {
+            "text": "SANDALS",
+            "id": 9,
+            "bbox": [
+                246,
+                351,
+                306,
+                369
+            ]
+        },
+        {
+            "text": "415",
+            "id": 10,
+            "bbox": [
+                307,
+                356,
+                319,
+                369
+            ]
+        },
+        {
+            "text": "D4",
+            "id": 11,
+            "bbox": [
+                325,
+                361,
+                338,
+                371
+            ]
+        },
+        {
+            "text": "ROUGE",
+            "id": 12,
+            "bbox": [
+                343,
+                362,
+                382,
+                374
+            ]
+        },
+        {
+            "text": "TOMETTE",
+            "id": 13,
+            "bbox": [
+                386,
+                362,
+                441,
+                377
+            ]
+        },
+        {
+            "text": "H202230Z",
+            "id": 14,
+            "bbox": [
+                127,
+                354,
+                183,
+                369
+            ]
+        },
+        {
+            "text": "D4415",
+            "id": 15,
+            "bbox": [
+                187,
+                361,
+                218,
+                372
+            ]
+        },
+        {
+            "text": "WLZXK",
+            "id": 16,
+            "bbox": [
+                272,
+                366,
+                309,
+                379
+            ]
+        },
+        {
+            "text": "02230Z",
+            "id": 17,
+            "bbox": [
+                61,
+                337,
+                104,
+                350
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DELUXE",
-                "CHOCOLATE"
+                "WOMEN",
+                "SHOES-",
+                "SANDALS",
+                "415",
+                "D4",
+                "ROUGE",
+                "TOMETTE",
+                "H202230Z",
+                "D4415",
+                "WLZXK"
             ],
             "value_id": [
-                5,
-                6
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PM"
+                "07/15/2020"
             ],
             "value_id": [
                 2
@@ -102,10 +217,45 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Patch"
+                "HERM\u00c9S"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,740.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "02230Z"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08:57",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
             ]
         },
         {
@@ -113,10 +263,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "241.00"
+                "2,740.00"
             ],
             "value_id": [
-                3
+                6
             ]
         }
     ],

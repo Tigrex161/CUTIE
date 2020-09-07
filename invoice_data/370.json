@@ -1,111 +1,183 @@
 {
     "text_boxes": [
         {
-            "text": "SYMPHONY",
+            "text": "July",
             "id": 1,
             "bbox": [
-                265,
-                240,
+                385,
                 461,
-                273
+                404,
+                473
             ]
         },
         {
-            "text": "08:03:00",
+            "text": "05,",
             "id": 2,
             "bbox": [
-                268,
-                385,
-                306,
-                393
+                407,
+                460,
+                422,
+                470
             ]
         },
         {
-            "text": "PM",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                310,
-                385,
-                324,
-                393
+                426,
+                458,
+                450,
+                467
             ]
         },
         {
-            "text": "2100.00",
+            "text": "14:54",
             "id": 4,
             "bbox": [
-                597,
-                513,
-                632,
-                520
+                458,
+                455,
+                486,
+                465
             ]
         },
         {
-            "text": "2100.00",
+            "text": "2,050.00",
             "id": 5,
             "bbox": [
-                602,
-                468,
-                633,
-                476
+                575,
+                612,
+                623,
+                625
             ]
         },
         {
-            "text": "MOZA",
+            "text": "5,870.00",
             "id": 6,
             "bbox": [
-                107,
-                488,
-                130,
-                495
+                576,
+                645,
+                623,
+                657
             ]
         },
         {
-            "text": "COLLECTION",
+            "text": "1",
             "id": 7,
             "bbox": [
-                134,
-                488,
-                187,
-                495
+                361,
+                655,
+                364,
+                662
             ]
         },
         {
-            "text": "GREENM",
+            "text": "7,920.00",
             "id": 8,
             "bbox": [
-                191,
-                486,
-                229,
-                497
+                509,
+                801,
+                558,
+                811
+            ]
+        },
+        {
+            "text": "2",
+            "id": 9,
+            "bbox": [
+                360,
+                689,
+                366,
+                696
+            ]
+        },
+        {
+            "text": "VISOR",
+            "id": 10,
+            "bbox": [
+                104,
+                617,
+                141,
+                627
+            ]
+        },
+        {
+            "text": "AA6650B02485N6109",
+            "id": 11,
+            "bbox": [
+                103,
+                634,
+                219,
+                645
+            ]
+        },
+        {
+            "text": "TOP",
+            "id": 12,
+            "bbox": [
+                103,
+                651,
+                126,
+                659
+            ]
+        },
+        {
+            "text": "P64474V46620N6944",
+            "id": 13,
+            "bbox": [
+                103,
+                666,
+                217,
+                676
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MOZA",
-                "COLLECTION",
-                "GREENM"
+                "VISOR",
+                "TOP"
             ],
             "value_id": [
-                6,
-                7,
-                8
+                10,
+                12
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "08:03:00",
-                "PM"
+                "1"
             ],
             "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "05,",
+                "2020"
+            ],
+            "value_id": [
+                1,
                 2,
                 3
             ]
@@ -115,21 +187,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2100.00"
+                "7,920.00"
             ],
             "value_id": [
-                4
+                8
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SYMPHONY"
+                "AA6650B02485N6109",
+                "P64474V46620N6944"
             ],
             "value_id": [
-                1
+                11,
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:54"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -137,10 +222,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2100.00"
+                "2,050.00",
+                "5,870.00"
             ],
             "value_id": [
-                5
+                5,
+                6
             ]
         }
     ],

@@ -1,170 +1,177 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "MAGNOLIA",
             "id": 1,
             "bbox": [
-                377,
-                292,
-                442,
-                340
+                290,
+                226,
+                420,
+                248
             ]
         },
         {
-            "text": "SHOES",
+            "text": "BAKERY",
             "id": 2,
             "bbox": [
-                389,
-                348,
-                429,
-                356
+                439,
+                230,
+                533,
+                251
             ]
         },
         {
-            "text": "Jul,",
+            "text": "Jul11'20",
             "id": 3,
             "bbox": [
-                502,
-                479,
-                525,
-                488
+                392,
+                383,
+                456,
+                399
             ]
         },
         {
-            "text": "2020",
+            "text": "07:20P",
             "id": 4,
             "bbox": [
-                537,
-                478,
-                562,
-                486
+                466,
+                384,
+                514,
+                399
             ]
         },
         {
-            "text": "18:03",
+            "text": "54.00",
             "id": 5,
             "bbox": [
-                572,
-                476,
-                605,
-                487
+                514,
+                436,
+                555,
+                453
             ]
         },
         {
-            "text": "1,460.",
+            "text": "54.00",
             "id": 6,
             "bbox": [
-                610,
-                714,
-                647,
-                725
+                513,
+                454,
+                555,
+                472
             ]
         },
         {
-            "text": "00",
+            "text": "3",
             "id": 7,
             "bbox": [
-                651,
-                716,
-                663,
-                724
+                264,
+                437,
+                273,
+                455
             ]
         },
         {
-            "text": "1,460.00",
+            "text": "3",
             "id": 8,
             "bbox": [
-                616,
-                629,
-                668,
-                640
+                264,
+                458,
+                271,
+                472
             ]
         },
         {
-            "text": "1.",
+            "text": "Devil's",
             "id": 9,
             "bbox": [
-                452,
-                631,
-                461,
-                640
+                281,
+                440,
+                339,
+                459
             ]
         },
         {
-            "text": "coIV-CLR:",
+            "text": "CC",
             "id": 10,
             "bbox": [
-                165,
-                609,
-                221,
-                620
+                348,
+                442,
+                364,
+                458
             ]
         },
         {
-            "text": "CGI.CLR:38:ALIA",
+            "text": "Red",
             "id": 11,
             "bbox": [
-                223,
-                609,
-                317,
-                620
+                281,
+                460,
+                305,
+                474
             ]
         },
         {
-            "text": "266325049207",
+            "text": "Velvet",
             "id": 12,
             "bbox": [
-                158,
-                630,
-                234,
-                638
+                315,
+                461,
+                361,
+                476
             ]
         },
         {
-            "text": "i",
+            "text": "CC",
             "id": 13,
             "bbox": [
-                433,
-                609,
-                445,
-                620
+                371,
+                459,
+                386,
+                473
+            ]
+        },
+        {
+            "text": "108.00",
+            "id": 14,
+            "bbox": [
+                505,
+                557,
+                553,
+                571
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "coIV-CLR:",
-                "CGI.CLR:38:ALIA"
+                "Devil's",
+                "CC",
+                "Red",
+                "Velvet",
+                "CC"
             ],
             "value_id": [
+                9,
                 10,
-                11
+                11,
+                12,
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18:03"
+                "3",
+                "3"
             ],
             "value_id": [
-                5
+                7,
+                8
             ]
         },
         {
@@ -172,36 +179,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "Jul11'20"
             ],
             "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,460.",
-                "00"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "i"
-            ],
-            "value_id": [
-                13
+                3
             ]
         },
         {
@@ -209,8 +190,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "level",
-                "SHOES"
+                "MAGNOLIA",
+                "BAKERY"
             ],
             "value_id": [
                 1,
@@ -218,14 +199,25 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "266325049207"
+                "108.00"
             ],
             "value_id": [
-                12
+                14
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07:20P"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -233,10 +225,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,460.00"
+                "54.00",
+                "54.00"
             ],
             "value_id": [
-                8
+                5,
+                6
             ]
         }
     ],

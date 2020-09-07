@@ -1,0 +1,264 @@
+{
+    "text_boxes": [
+        {
+            "text": "Van",
+            "id": 1,
+            "bbox": [
+                243,
+                147,
+                293,
+                169
+            ]
+        },
+        {
+            "text": "Cleef",
+            "id": 2,
+            "bbox": [
+                305,
+                146,
+                378,
+                169
+            ]
+        },
+        {
+            "text": "&",
+            "id": 3,
+            "bbox": [
+                387,
+                151,
+                404,
+                168
+            ]
+        },
+        {
+            "text": "Arpels",
+            "id": 4,
+            "bbox": [
+                416,
+                144,
+                501,
+                174
+            ]
+        },
+        {
+            "text": "26/07/2020",
+            "id": 5,
+            "bbox": [
+                86,
+                714,
+                132,
+                722
+            ]
+        },
+        {
+            "text": "17",
+            "id": 6,
+            "bbox": [
+                136,
+                714,
+                144,
+                721
+            ]
+        },
+        {
+            "text": "56,500.00",
+            "id": 7,
+            "bbox": [
+                650,
+                558,
+                684,
+                565
+            ]
+        },
+        {
+            "text": "56.500.00",
+            "id": 8,
+            "bbox": [
+                651,
+                512,
+                685,
+                520
+            ]
+        },
+        {
+            "text": "IRE",
+            "id": 9,
+            "bbox": [
+                97,
+                503,
+                109,
+                508
+            ]
+        },
+        {
+            "text": "MAGIC",
+            "id": 10,
+            "bbox": [
+                112,
+                503,
+                133,
+                508
+            ]
+        },
+        {
+            "text": "AL",
+            "id": 11,
+            "bbox": [
+                136,
+                504,
+                143,
+                509
+            ]
+        },
+        {
+            "text": "I",
+            "id": 12,
+            "bbox": [
+                145,
+                503,
+                148,
+                508
+            ]
+        },
+        {
+            "text": "MOPO",
+            "id": 13,
+            "bbox": [
+                151,
+                503,
+                172,
+                508
+            ]
+        },
+        {
+            "text": "GMOP",
+            "id": 14,
+            "bbox": [
+                175,
+                503,
+                195,
+                508
+            ]
+        },
+        {
+            "text": "OPAV",
+            "id": 15,
+            "bbox": [
+                198,
+                503,
+                215,
+                508
+            ]
+        },
+        {
+            "text": "ARP2R200",
+            "id": 16,
+            "bbox": [
+                141,
+                513,
+                180,
+                519
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "IRE",
+                "MAGIC",
+                "AL",
+                "I",
+                "MOPO",
+                "GMOP",
+                "OPAV"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "26/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "56,500.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ARP2R200"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "56.500.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1029.jpg"
+    }
+}

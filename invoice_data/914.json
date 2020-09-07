@@ -1,0 +1,180 @@
+{
+    "text_boxes": [
+        {
+            "text": "July",
+            "id": 1,
+            "bbox": [
+                401,
+                367,
+                419,
+                378
+            ]
+        },
+        {
+            "text": "29,",
+            "id": 2,
+            "bbox": [
+                423,
+                365,
+                437,
+                375
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                443,
+                361,
+                467,
+                372
+            ]
+        },
+        {
+            "text": "12:59",
+            "id": 4,
+            "bbox": [
+                475,
+                358,
+                504,
+                370
+            ]
+        },
+        {
+            "text": "25,730.00",
+            "id": 5,
+            "bbox": [
+                517,
+                686,
+                574,
+                697
+            ]
+        },
+        {
+            "text": "25,730.00",
+            "id": 6,
+            "bbox": [
+                586,
+                517,
+                640,
+                530
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                377,
+                533,
+                381,
+                541
+            ]
+        },
+        {
+            "text": "FLAPBAG",
+            "id": 8,
+            "bbox": [
+                123,
+                523,
+                177,
+                533
+            ]
+        },
+        {
+            "text": "A0111ZY04059N6517",
+            "id": 9,
+            "bbox": [
+                123,
+                554,
+                236,
+                566
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FLAPBAG"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "29,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25,730.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A0111ZY04059N6517"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:59"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25,730.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/914.jpg"
+    }
+}

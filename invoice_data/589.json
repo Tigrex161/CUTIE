@@ -1,133 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                363,
-                286,
-                447,
-                339
+                340,
+                208,
+                426,
+                237
             ]
         },
         {
-            "text": "SHOES",
+            "text": "ROMA",
             "id": 2,
             "bbox": [
-                378,
-                349,
-                429,
-                358
+                372,
+                241,
+                393,
+                247
             ]
         },
         {
-            "text": "Jul,",
+            "text": "7/5/2020",
             "id": 3,
             "bbox": [
-                492,
-                459,
-                514,
-                468
+                139,
+                226,
+                178,
+                233
             ]
         },
         {
-            "text": "2020",
+            "text": "727",
             "id": 4,
             "bbox": [
-                520,
-                459,
-                548,
-                467
+                184,
+                223,
+                202,
+                235
             ]
         },
         {
-            "text": "17:25",
+            "text": "55",
             "id": 5,
             "bbox": [
-                557,
-                458,
-                586,
-                466
+                204,
+                223,
+                215,
+                235
             ]
         },
         {
-            "text": "3,",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                605,
-                673,
-                613,
-                681
+                217,
+                226,
+                231,
+                233
             ]
         },
         {
-            "text": "200.00",
+            "text": "8,650.00",
             "id": 7,
             "bbox": [
-                618,
-                673,
-                656,
-                680
+                644,
+                586,
+                675,
+                592
             ]
         },
         {
-            "text": "3,200.00",
+            "text": "8.238",
             "id": 8,
             "bbox": [
-                606,
-                593,
-                656,
-                603
+                639,
+                443,
+                657,
+                448
             ]
         },
         {
-            "text": "DIOR",
+            "text": "10",
             "id": 9,
             "bbox": [
-                152,
-                577,
-                176,
-                583
+                661,
+                443,
+                668,
+                448
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "1",
             "id": 10,
             "bbox": [
-                184,
-                576,
-                222,
-                584
+                501,
+                444,
+                502,
+                448
             ]
         },
         {
-            "text": "SHOES",
+            "text": "WEVENING",
             "id": 11,
             "bbox": [
-                234,
-                576,
-                262,
-                586
+                222,
+                440,
+                270,
+                446
             ]
         },
         {
-            "text": "J",
+            "text": "DRESS/WOVEN",
             "id": 12,
             "bbox": [
                 272,
-                578,
-                295,
-                586
+                439,
+                335,
+                447
             ]
         },
         {
-            "text": "!",
+            "text": "FABRIC",
             "id": 13,
             "bbox": [
-                317,
-                577,
-                343,
-                586
+                338,
+                438,
+                366,
+                444
+            ]
+        },
+        {
+            "text": "ROCOC\u01a1",
+            "id": 14,
+            "bbox": [
+                374,
+                439,
+                410,
+                446
+            ]
+        },
+        {
+            "text": "726022",
+            "id": 15,
+            "bbox": [
+                73,
+                439,
+                99,
+                445
             ]
         }
     ],
@@ -137,25 +157,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR",
-                "WOMENS",
-                "SHOES"
+                "WEVENING",
+                "DRESS/WOVEN",
+                "FABRIC",
+                "ROCOC\u01a1"
             ],
             "value_id": [
-                9,
-                10,
-                11
+                11,
+                12,
+                13,
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:25"
+                "1"
             ],
             "value_id": [
-                5
+                10
             ]
         },
         {
@@ -163,38 +185,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "7/5/2020"
             ],
             "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,",
-                "200.00"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "J",
-                "!"
-            ],
-            "value_id": [
-                12,
-                13
+                3
             ]
         },
         {
@@ -202,8 +196,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "level",
-                "SHOES"
+                "FENDI",
+                "ROMA"
             ],
             "value_id": [
                 1,
@@ -211,14 +205,53 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8,650.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "726022"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "727",
+                "55",
+                "PM"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,200.00"
+                "8.238",
+                "10"
             ],
             "value_id": [
-                8
+                8,
+                9
             ]
         }
     ],

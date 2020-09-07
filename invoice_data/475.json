@@ -1,142 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "Jun,",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                426,
-                395,
-                452,
-                405
+                302,
+                242,
+                508,
+                283
+            ]
+        },
+        {
+            "text": "July",
+            "id": 2,
+            "bbox": [
+                427,
+                335,
+                445,
+                345
+            ]
+        },
+        {
+            "text": "09,",
+            "id": 3,
+            "bbox": [
+                450,
+                336,
+                465,
+                344
             ]
         },
         {
             "text": "2020",
-            "id": 2,
-            "bbox": [
-                463,
-                396,
-                493,
-                407
-            ]
-        },
-        {
-            "text": "17:32",
-            "id": 3,
-            "bbox": [
-                501,
-                397,
-                537,
-                409
-            ]
-        },
-        {
-            "text": "1,760.00",
             "id": 4,
             "bbox": [
-                563,
-                658,
-                621,
-                670
+                471,
+                334,
+                494,
+                344
             ]
         },
         {
-            "text": "1,760.00",
+            "text": "18:36",
             "id": 5,
             "bbox": [
-                563,
-                561,
-                620,
-                571
+                504,
+                333,
+                532,
+                343
             ]
         },
         {
-            "text": "1.",
+            "text": "3,710.00",
             "id": 6,
             "bbox": [
-                379,
-                558,
-                383,
-                566
+                545,
+                655,
+                593,
+                663
             ]
         },
         {
-            "text": "EDBOBOFGO00009XV-FOADY:CHR.",
+            "text": "3,710.00",
             "id": 7,
             "bbox": [
-                3,
-                524,
-                222,
-                540
+                615,
+                503,
+                659,
+                512
             ]
         },
         {
-            "text": "FOADY:7:CLATFORD",
+            "text": "SNEAKERS",
             "id": 8,
             "bbox": [
-                227,
-                529,
-                352,
-                542
+                146,
+                504,
+                203,
+                514
             ]
         },
         {
-            "text": "POLISH",
+            "text": "G35617YS364694305",
             "id": 9,
             "bbox": [
-                361,
-                533,
-                407,
-                543
+                145,
+                519,
+                254,
+                530
             ]
         },
         {
-            "text": "125424799606",
+            "text": "10B",
             "id": 10,
             "bbox": [
-                3,
-                551,
-                103,
-                561
+                260,
+                520,
+                277,
+                528
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "EDBOBOFGO00009XV-FOADY:CHR.",
-                "FOADY:7:CLATFORD",
-                "POLISH"
+                "SNEAKERS"
             ],
             "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:32"
-            ],
-            "value_id": [
-                3
+                8
             ]
         },
         {
@@ -144,12 +118,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jun,",
+                "July",
+                "09,",
                 "2020"
             ],
             "value_id": [
-                1,
-                2
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
             ]
         },
         {
@@ -157,10 +144,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,760.00"
+                "3,710.00"
             ],
             "value_id": [
-                4
+                6
             ]
         },
         {
@@ -168,10 +155,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "125424799606"
+                "G35617YS364694305",
+                "10B"
             ],
             "value_id": [
+                9,
                 10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:36"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -179,10 +179,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,760.00"
+                "3,710.00"
             ],
             "value_id": [
-                5
+                7
             ]
         }
     ],

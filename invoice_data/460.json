@@ -1,133 +1,173 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "Charlotte",
             "id": 1,
             "bbox": [
-                503,
-                285,
-                529,
-                295
+                277,
+                220,
+                323,
+                231
             ]
         },
         {
-            "text": "2020",
+            "text": "Tilbury",
             "id": 2,
             "bbox": [
-                542,
-                285,
-                569,
-                294
+                328,
+                222,
+                362,
+                232
             ]
         },
         {
-            "text": "14:19",
+            "text": "1632",
             "id": 3,
             "bbox": [
-                580,
-                284,
-                615,
-                295
+                489,
+                469,
+                510,
+                478
             ]
         },
         {
-            "text": "11,600.00",
+            "text": "1.0",
             "id": 4,
             "bbox": [
-                634,
-                547,
-                698,
-                559
+                433,
+                610,
+                443,
+                620
             ]
         },
         {
-            "text": "11,600.00",
+            "text": "160.00",
             "id": 5,
             "bbox": [
-                636,
-                449,
-                700,
-                460
+                486,
+                606,
+                513,
+                618
             ]
         },
         {
-            "text": "1",
+            "text": "1.0",
             "id": 6,
             "bbox": [
-                458,
-                454,
-                461,
-                462
+                435,
+                672,
+                445,
+                680
             ]
         },
         {
-            "text": "BOTTEGA",
+            "text": "160.00",
             "id": 7,
             "bbox": [
-                98,
-                436,
-                150,
-                447
+                488,
+                667,
+                513,
+                678
             ]
         },
         {
-            "text": "VENETA",
+            "text": "MAGIC",
             "id": 8,
             "bbox": [
-                160,
-                434,
-                206,
-                444
+                275,
+                576,
+                305,
+                586
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "AWAY",
             "id": 9,
             "bbox": [
-                214,
-                433,
-                260,
-                443
+                310,
+                574,
+                335,
+                585
             ]
         },
         {
-            "text": "BAGS",
+            "text": "LIQUID",
             "id": 10,
             "bbox": [
-                269,
-                430,
-                300,
-                445
+                339,
+                572,
+                370,
+                584
             ]
         },
         {
-            "text": "L",
+            "text": "CONCEALER",
             "id": 11,
             "bbox": [
-                311,
-                432,
-                342,
-                444
+                374,
+                570,
+                431,
+                582
             ]
         },
         {
-            "text": "i",
+            "text": "-",
             "id": 12,
             "bbox": [
-                388,
-                431,
-                423,
-                442
+                438,
+                569,
+                442,
+                581
+            ]
+        },
+        {
+            "text": "55",
+            "id": 13,
+            "bbox": [
+                441,
+                569,
+                453,
+                578
+            ]
+        },
+        {
+            "text": "Lle",
+            "id": 14,
+            "bbox": [
+                276,
+                589,
+                297,
+                601
+            ]
+        },
+        {
+            "text": "CHAS0B0542724913",
+            "id": 15,
+            "bbox": [
+                278,
+                614,
+                366,
+                628
+            ]
+        },
+        {
+            "text": "06/07/2020",
+            "id": 16,
+            "bbox": [
+                437,
+                470,
+                484,
+                481
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "1.0"
             ],
             "value_id": [
                 6
@@ -138,27 +178,42 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BOTTEGA",
-                "VENETA",
-                "WOMENS",
-                "BAGS"
+                "MAGIC",
+                "AWAY",
+                "LIQUID",
+                "CONCEALER",
+                "-",
+                "55"
             ],
             "value_id": [
-                7,
                 8,
                 9,
-                10
+                10,
+                11,
+                12,
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14:19"
+                "Lle"
             ],
             "value_id": [
-                3
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.0"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -166,8 +221,19 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "06/07/2020"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Charlotte",
+                "Tilbury"
             ],
             "value_id": [
                 1,
@@ -179,23 +245,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11,600.00"
+                "160.00"
             ],
             "value_id": [
-                4
+                7
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L",
-                "i"
+                "CHAS0B0542724913"
             ],
             "value_id": [
-                11,
-                12
+                15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1632"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -203,7 +278,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11,600.00"
+                "160.00"
             ],
             "value_id": [
                 5

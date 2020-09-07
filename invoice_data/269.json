@@ -1,109 +1,131 @@
 {
     "text_boxes": [
         {
-            "text": "ZRA",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                310,
-                104,
-                431,
-                155
+                416,
+                495,
+                669,
+                555
             ]
         },
         {
-            "text": "01-07-2020",
+            "text": "08/07/2020",
             "id": 2,
             "bbox": [
-                234,
-                334,
-                294,
-                341
+                27,
+                914,
+                103,
+                925
             ]
         },
         {
-            "text": "11:49",
+            "text": "12:05",
             "id": 3,
             "bbox": [
-                304,
-                335,
-                332,
-                341
+                120,
+                914,
+                154,
+                924
             ]
         },
         {
-            "text": "289",
+            "text": "1,590.00",
             "id": 4,
             "bbox": [
-                445,
-                494,
-                462,
-                501
+                904,
+                1132,
+                960,
+                1145
             ]
         },
         {
-            "text": "289",
+            "text": "1,514.29",
             "id": 5,
             "bbox": [
-                443,
-                389,
-                459,
-                396
+                944,
+                1039,
+                1001,
+                1051
             ]
         },
         {
-            "text": "0503905225102",
+            "text": "1",
             "id": 6,
             "bbox": [
-                295,
-                404,
-                376,
-                412
+                527,
+                1092,
+                529,
+                1102
             ]
         },
         {
-            "text": "DRESS",
+            "text": "Eye",
             "id": 7,
             "bbox": [
-                391,
-                403,
-                421,
-                411
+                272,
+                1048,
+                294,
+                1062
             ]
         },
         {
-            "text": "10001122",
+            "text": "we",
             "id": 8,
             "bbox": [
-                232,
-                405,
-                280,
-                413
+                297,
+                1052,
+                313,
+                1058
+            ]
+        },
+        {
+            "text": "ar",
+            "id": 9,
+            "bbox": [
+                316,
+                1052,
+                331,
+                1057
+            ]
+        },
+        {
+            "text": "LINK2",
+            "id": 10,
+            "bbox": [
+                28,
+                1048,
+                68,
+                1063
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0503905225102",
-                "DRESS"
+                "Eye",
+                "we",
+                "ar"
             ],
             "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:49"
-            ],
-            "value_id": [
-                3
+                7,
+                8,
+                9
             ]
         },
         {
@@ -111,21 +133,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "01-07-2020"
+                "08/07/2020"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "289"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -133,10 +144,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ZRA"
+                "DIOR"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,590.00"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -144,10 +166,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001122"
+                "LINK2"
             ],
             "value_id": [
-                8
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:05"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -155,7 +188,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "289"
+                "1,514.29"
             ],
             "value_id": [
                 5

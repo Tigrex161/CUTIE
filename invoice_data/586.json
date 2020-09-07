@@ -1,173 +1,173 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "LIWA",
             "id": 1,
             "bbox": [
-                309,
-                13,
-                349,
-                26
+                283,
+                206,
+                382,
+                228
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "TRADING",
             "id": 2,
             "bbox": [
-                355,
-                12,
-                415,
-                26
+                413,
+                206,
+                594,
+                230
             ]
         },
         {
-            "text": "MAETERAMS",
+            "text": "29/06/20",
             "id": 3,
             "bbox": [
-                336,
-                28,
-                389,
-                35
+                321,
+                577,
+                432,
+                604
             ]
         },
         {
-            "text": "MAONFONDEE",
+            "text": "4:34",
             "id": 4,
             "bbox": [
-                324,
-                60,
-                375,
-                68
+                634,
+                575,
+                691,
+                599
             ]
         },
         {
-            "text": "EN",
+            "text": "209.00",
             "id": 5,
             "bbox": [
-                377,
-                61,
-                384,
-                68
+                604,
+                1308,
+                685,
+                1335
             ]
         },
         {
-            "text": "4",
+            "text": "209.00",
             "id": 6,
             "bbox": [
-                387,
-                62,
-                400,
-                67
+                562,
+                817,
+                645,
+                841
             ]
         },
         {
-            "text": "22/07/2020",
+            "text": "199.00",
             "id": 7,
             "bbox": [
-                509,
-                233,
-                566,
-                245
+                565,
+                887,
+                646,
+                911
             ]
         },
         {
-            "text": "10:19",
+            "text": "ROBE",
             "id": 8,
             "bbox": [
-                586,
-                234,
-                613,
-                243
+                125,
+                818,
+                179,
+                842
             ]
         },
         {
-            "text": "1,180.00",
+            "text": "SATIN",
             "id": 9,
             "bbox": [
-                634,
-                445,
-                677,
-                452
+                197,
+                817,
+                264,
+                841
             ]
         },
         {
-            "text": "1,180.00",
+            "text": "&",
             "id": 10,
             "bbox": [
-                632,
-                295,
-                674,
-                301
+                281,
+                818,
+                292,
+                840
             ]
         },
         {
-            "text": "LPO05)",
+            "text": "LACE",
             "id": 11,
             "bbox": [
-                53,
-                301,
-                84,
-                307
+                310,
+                817,
+                362,
+                841
             ]
         },
         {
-            "text": "NOUVEAU",
+            "text": "KIMONO",
             "id": 12,
             "bbox": [
-                97,
-                298,
-                134,
-                306
+                140,
+                886,
+                222,
+                911
             ]
         },
         {
-            "text": "MONDR",
+            "text": "SATIN",
             "id": 13,
             "bbox": [
-                140,
-                300,
-                167,
-                306
+                239,
+                885,
+                306,
+                910
             ]
         },
         {
-            "text": "100ML.",
+            "text": "&",
             "id": 14,
             "bbox": [
-                174,
-                299,
-                201,
-                306
+                323,
+                887,
+                334,
+                909
             ]
         },
         {
-            "text": "EDP",
+            "text": "LACE",
             "id": 15,
             "bbox": [
-                208,
-                299,
-                223,
-                305
+                352,
+                885,
+                404,
+                910
             ]
         },
         {
-            "text": "PERFUME",
+            "text": "1210000001318",
             "id": 16,
             "bbox": [
-                56,
-                310,
-                92,
-                317
+                128,
+                850,
+                306,
+                876
             ]
         },
         {
-            "text": "(STOCK)",
+            "text": "1210000001373",
             "id": 17,
             "bbox": [
-                98,
-                308,
-                133,
-                318
+                128,
+                782,
+                306,
+                808
             ]
         }
     ],
@@ -177,20 +177,70 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LPO05)",
-                "NOUVEAU",
-                "MONDR",
-                "100ML.",
-                "EDP",
-                "PERFUME",
-                "(STOCK)"
+                "ROBE",
+                "SATIN",
+                "&",
+                "LACE",
+                "KIMONO",
+                "SATIN",
+                "&",
+                "LACE"
             ],
             "value_id": [
+                8,
+                9,
+                10,
                 11,
                 12,
                 13,
                 14,
-                15,
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "29/06/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LIWA",
+                "TRADING"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "209.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1210000001318",
+                "1210000001373"
+            ],
+            "value_id": [
                 16,
                 17
             ]
@@ -200,53 +250,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10:19"
+                "4:34"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "22/07/2020"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,180.00"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MAETERAMS",
-                "MAONFONDEE",
-                "EN",
-                "4"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6
+                4
             ]
         },
         {
@@ -254,10 +261,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,180.00"
+                "209.00",
+                "199.00"
             ],
             "value_id": [
-                10
+                6,
+                7
             ]
         }
     ],

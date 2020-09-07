@@ -1,123 +1,83 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "07/21/20",
             "id": 1,
             "bbox": [
-                319,
-                366,
-                403,
-                422
+                216,
+                428,
+                312,
+                446
             ]
         },
         {
-            "text": "5HOES",
+            "text": "5:16",
             "id": 2,
             "bbox": [
-                336,
+                339,
                 428,
-                387,
-                441
+                386,
+                445
             ]
         },
         {
-            "text": "Jul,",
+            "text": "255",
             "id": 3,
             "bbox": [
-                452,
-                548,
-                475,
-                557
+                590,
+                739,
+                627,
+                757
             ]
         },
         {
-            "text": "2020",
+            "text": "255",
             "id": 4,
             "bbox": [
-                485,
-                549,
-                510,
-                557
+                587,
+                621,
+                623,
+                638
             ]
         },
         {
-            "text": "11:00",
+            "text": "T-SHIRTS",
             "id": 5,
             "bbox": [
-                518,
-                549,
-                549,
-                559
+                230,
+                620,
+                324,
+                639
             ]
         },
         {
-            "text": "1,530.00",
+            "text": "A046234",
             "id": 6,
             "bbox": [
-                566,
-                771,
-                619,
-                782
+                132,
+                620,
+                215,
+                637
             ]
         },
         {
-            "text": "1,530,",
+            "text": "\u062a\u064a",
             "id": 7,
             "bbox": [
-                566,
-                689,
-                610,
-                700
+                264,
+                649,
+                281,
+                664
             ]
         },
         {
-            "text": "00",
+            "text": "\u0634\u06cc\u0631\u062a",
             "id": 8,
             "bbox": [
-                612,
-                690,
-                618,
-                701
-            ]
-        },
-        {
-            "text": "JIMMY",
-            "id": 9,
-            "bbox": [
-                100,
-                668,
-                131,
-                678
-            ]
-        },
-        {
-            "text": "CHOO",
-            "id": 10,
-            "bbox": [
-                140,
-                668,
-                177,
-                679
-            ]
-        },
-        {
-            "text": "WOMENS",
-            "id": 11,
-            "bbox": [
-                172,
-                669,
-                211,
-                677
-            ]
-        },
-        {
-            "text": "L",
-            "id": 12,
-            "bbox": [
-                285,
-                670,
-                291,
-                680
+                204,
+                648,
+                251,
+                666
             ]
         }
     ],
@@ -127,49 +87,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "JIMMY",
-                "CHOO",
-                "WOMENS"
-            ],
-            "value_id": [
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:00"
+                "T-SHIRTS"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,530.00"
-            ],
-            "value_id": [
-                6
             ]
         },
         {
@@ -177,22 +98,55 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L"
+                "\u062a\u064a",
+                "\u0634\u06cc\u0631\u062a"
             ],
             "value_id": [
-                12
+                7,
+                8
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "level",
-                "5HOES"
+                "07/21/20"
             ],
             "value_id": [
-                1,
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "255"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A046234"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5:16"
+            ],
+            "value_id": [
                 2
             ]
         },
@@ -201,12 +155,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,530,",
-                "00"
+                "255"
             ],
             "value_id": [
-                7,
-                8
+                4
             ]
         }
     ],

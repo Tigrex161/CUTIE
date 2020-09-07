@@ -1,133 +1,133 @@
 {
     "text_boxes": [
         {
-            "text": "SJP",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                243,
-                124,
-                276,
-                134
+                488,
+                398,
+                513,
+                408
             ]
         },
         {
-            "text": "by",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                284,
-                125,
-                302,
-                135
+                525,
+                395,
+                552,
+                406
             ]
         },
         {
-            "text": "Sarah",
+            "text": "18:04",
             "id": 3,
             "bbox": [
-                310,
-                123,
-                357,
-                133
+                562,
+                393,
+                596,
+                404
             ]
         },
         {
-            "text": "Jessica",
+            "text": "1,",
             "id": 4,
             "bbox": [
-                365,
-                122,
-                429,
-                132
+                611,
+                557,
+                625,
+                570
             ]
         },
         {
-            "text": "Parker",
+            "text": "800.00",
             "id": 5,
             "bbox": [
-                436,
-                120,
-                492,
-                130
+                626,
+                557,
+                667,
+                568
             ]
         },
         {
-            "text": "24-07-20",
+            "text": "PCOU_OTHS:",
             "id": 6,
             "bbox": [
-                346,
-                514,
-                424,
-                530
+                118,
+                549,
+                183,
+                561
             ]
         },
         {
-            "text": "12:24:49",
+            "text": "PRIVATE",
             "id": 7,
             "bbox": [
-                348,
-                539,
-                423,
-                556
+                188,
+                548,
+                235,
+                557
             ]
         },
         {
-            "text": "PM",
+            "text": "COLLECTION",
             "id": 8,
             "bbox": [
-                430,
-                539,
-                457,
+                244,
+                544,
+                313,
                 555
             ]
         },
         {
-            "text": "1,603.00",
+            "text": "MENS",
             "id": 9,
             "bbox": [
-                473,
-                782,
-                547,
-                799
+                321,
+                543,
+                348,
+                553
             ]
         },
         {
-            "text": "2,290.00",
+            "text": "SI-GLial",
             "id": 10,
             "bbox": [
-                499,
-                689,
-                574,
-                706
+                421,
+                540,
+                503,
+                554
             ]
         },
         {
-            "text": "1",
+            "text": "1,",
             "id": 11,
             "bbox": [
-                544,
-                885,
-                548,
-                899
+                602,
+                649,
+                610,
+                657
             ]
         },
         {
-            "text": "2000002000033419",
+            "text": "800.",
             "id": 12,
             "bbox": [
-                181,
-                691,
-                351,
-                708
+                617,
+                645,
+                640,
+                658
             ]
         },
         {
-            "text": "200000",
+            "text": "00",
             "id": 13,
             "bbox": [
-                300,
-                667,
-                363,
-                682
+                643,
+                645,
+                655,
+                657
             ]
         }
     ],
@@ -137,34 +137,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2000002000033419"
+                "PCOU_OTHS:",
+                "PRIVATE",
+                "COLLECTION",
+                "MENS"
             ],
             "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:24:49",
-                "PM"
-            ],
-            "value_id": [
+                6,
                 7,
-                8
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SI-GLial"
+            ],
+            "value_id": [
+                10
             ]
         },
         {
@@ -172,10 +165,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "24-07-20"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
-                6
+                1,
+                2
             ]
         },
         {
@@ -183,40 +178,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,603.00"
+                "1,",
+                "800.",
+                "00"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SJP",
-                "by",
-                "Sarah",
-                "Jessica",
-                "Parker"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "200000"
-            ],
-            "value_id": [
+                11,
+                12,
                 13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:04"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -224,10 +204,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,290.00"
+                "1,",
+                "800.00"
             ],
             "value_id": [
-                10
+                4,
+                5
             ]
         }
     ],

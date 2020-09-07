@@ -1,133 +1,141 @@
 {
     "text_boxes": [
         {
-            "text": "118.00",
+            "text": "FREDPERRY",
             "id": 1,
             "bbox": [
-                543,
-                824,
-                585,
-                838
+                964,
+                1372,
+                1213,
+                1413
             ]
         },
         {
-            "text": "54.00",
+            "text": "9:30",
             "id": 2,
             "bbox": [
-                546,
-                671,
-                582,
-                685
+                1030,
+                1635,
+                1131,
+                1698
             ]
         },
         {
-            "text": "64.00",
+            "text": "171.00",
             "id": 3,
             "bbox": [
-                547,
-                720,
-                582,
-                733
+                1533,
+                2375,
+                1713,
+                2424
             ]
         },
         {
-            "text": "20",
+            "text": "171",
             "id": 4,
             "bbox": [
-                412,
-                670,
-                424,
-                684
+                1614,
+                2078,
+                1698,
+                2127
             ]
         },
         {
-            "text": "Uolluto",
+            "text": "T-SHIRTS",
             "id": 5,
             "bbox": [
-                244,
-                670,
-                295,
-                684
+                753,
+                2090,
+                987,
+                2142
             ]
         },
         {
-            "text": "Freddo",
+            "text": "A038561",
             "id": 6,
             "bbox": [
-                244,
-                720,
-                287,
-                733
+                507,
+                2082,
+                717,
+                2135
             ]
         },
         {
-            "text": "Delicato",
+            "text": "\u062a\u064a",
             "id": 7,
             "bbox": [
-                297,
-                719,
-                356,
-                733
+                837,
+                2165,
+                881,
+                2206
             ]
         },
         {
-            "text": "I",
+            "text": "\u0634\u06cc\u0631\u062a",
             "id": 8,
             "bbox": [
-                382,
-                719,
-                386,
-                732
+                689,
+                2158,
+                805,
+                2204
             ]
         },
         {
-            "text": "6743530",
+            "text": "1",
             "id": 9,
             "bbox": [
-                167,
-                670,
-                219,
-                684
-            ]
-        },
-        {
-            "text": "6758230",
-            "id": 10,
-            "bbox": [
-                166,
-                720,
-                218,
-                734
+                1608,
+                2688,
+                1629,
+                2737
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Uolluto",
-                "Freddo",
-                "Delicato",
-                "I"
+                "T-SHIRTS"
             ],
             "value_id": [
-                5,
-                6,
+                5
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062a\u064a",
+                "\u0634\u06cc\u0631\u062a"
+            ],
+            "value_id": [
                 7,
                 8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FREDPERRY"
+            ],
+            "value_id": [
+                1
             ]
         },
         {
@@ -135,10 +143,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "118.00"
+                "171.00"
             ],
             "value_id": [
-                1
+                3
             ]
         },
         {
@@ -146,12 +154,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6743530",
-                "6758230"
+                "A038561"
             ],
             "value_id": [
-                9,
-                10
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9:30"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -159,12 +176,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "54.00",
-                "64.00"
+                "171"
             ],
             "value_id": [
-                2,
-                3
+                4
             ]
         }
     ],

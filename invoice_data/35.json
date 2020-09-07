@@ -1,86 +1,200 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdales",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                245,
-                90,
-                459,
-                133
+                472,
+                353,
+                497,
+                362
             ]
         },
         {
-            "text": "8:12:42",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                329,
-                238,
-                371,
-                249
+                508,
+                352,
+                535,
+                361
             ]
         },
         {
-            "text": "270.00",
+            "text": "17:39",
             "id": 3,
             "bbox": [
-                427,
-                479,
-                462,
-                488
+                545,
+                351,
+                578,
+                361
             ]
         },
         {
-            "text": "270.00",
+            "text": "4,",
             "id": 4,
             "bbox": [
-                427,
-                382,
-                462,
-                393
+                593,
+                603,
+                603,
+                612
+            ]
+        },
+        {
+            "text": "350.00",
+            "id": 5,
+            "bbox": [
+                608,
+                601,
+                650,
+                612
+            ]
+        },
+        {
+            "text": "4,350.00",
+            "id": 6,
+            "bbox": [
+                598,
+                510,
+                655,
+                519
             ]
         },
         {
             "text": "1.",
-            "id": 5,
+            "id": 7,
             "bbox": [
-                457,
-                420,
-                461,
-                428
+                425,
+                515,
+                428,
+                523
             ]
         },
         {
-            "text": "212258538",
-            "id": 6,
+            "text": "PDAWN",
+            "id": 8,
             "bbox": [
-                236,
-                393,
-                290,
-                408
+                101,
+                497,
+                133,
+                505
+            ]
+        },
+        {
+            "text": "BAG:",
+            "id": 9,
+            "bbox": [
+                142,
+                493,
+                170,
+                505
+            ]
+        },
+        {
+            "text": "PRADA",
+            "id": 10,
+            "bbox": [
+                172,
+                493,
+                203,
+                505
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 11,
+            "bbox": [
+                211,
+                494,
+                253,
+                503
+            ]
+        },
+        {
+            "text": "BAGS",
+            "id": 12,
+            "bbox": [
+                266,
+                492,
+                287,
+                504
+            ]
+        },
+        {
+            "text": "IJ",
+            "id": 13,
+            "bbox": [
+                298,
+                493,
+                338,
+                503
+            ]
+        },
+        {
+            "text": "ui",
+            "id": 14,
+            "bbox": [
+                369,
+                493,
+                401,
+                502
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PDAWN",
+                "BAG:",
+                "PRADA",
+                "WOMENS",
+                "BAGS"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "IJ",
+                "ui"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
                 "1."
             ],
             "value_id": [
-                5
+                7
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "8:12:42"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
+                1,
                 2
             ]
         },
@@ -89,32 +203,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "270.00"
+                "4,",
+                "350.00"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:39"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "bloomingdales"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "212258538"
-            ],
-            "value_id": [
-                6
             ]
         },
         {
@@ -122,10 +227,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "270.00"
+                "4,350.00"
             ],
             "value_id": [
-                4
+                6
             ]
         }
     ],

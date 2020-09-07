@@ -1,0 +1,222 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZARA",
+            "id": 1,
+            "bbox": [
+                300,
+                438,
+                471,
+                502
+            ]
+        },
+        {
+            "text": "27-07-2020",
+            "id": 2,
+            "bbox": [
+                177,
+                587,
+                271,
+                603
+            ]
+        },
+        {
+            "text": "17:50",
+            "id": 3,
+            "bbox": [
+                287,
+                589,
+                334,
+                601
+            ]
+        },
+        {
+            "text": "199",
+            "id": 4,
+            "bbox": [
+                515,
+                885,
+                543,
+                897
+            ]
+        },
+        {
+            "text": "199",
+            "id": 5,
+            "bbox": [
+                514,
+                694,
+                542,
+                708
+            ]
+        },
+        {
+            "text": "1",
+            "id": 6,
+            "bbox": [
+                294,
+                693,
+                299,
+                705
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                335,
+                776,
+                341,
+                788
+            ]
+        },
+        {
+            "text": "1687351009003",
+            "id": 8,
+            "bbox": [
+                274,
+                719,
+                403,
+                733
+            ]
+        },
+        {
+            "text": "HAND",
+            "id": 9,
+            "bbox": [
+                428,
+                719,
+                467,
+                733
+            ]
+        },
+        {
+            "text": "BAG-RUCK",
+            "id": 10,
+            "bbox": [
+                482,
+                720,
+                563,
+                734
+            ]
+        },
+        {
+            "text": "10001789",
+            "id": 11,
+            "bbox": [
+                182,
+                720,
+                249,
+                733
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:50"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1687351009003",
+                "HAND",
+                "BAG-RUCK"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001789"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "199"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "27-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "199"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/0.jpg"
+    }
+}

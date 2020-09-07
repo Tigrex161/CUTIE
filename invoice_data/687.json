@@ -1,177 +1,154 @@
 {
     "text_boxes": [
         {
-            "text": "MICHAEL",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                514,
                 343,
-                674,
-                380
+                304,
+                451,
+                351
             ]
         },
         {
-            "text": "KORS",
+            "text": "NG",
             "id": 2,
             "bbox": [
-                686,
-                352,
-                784,
-                384
+                148,
+                616,
+                163,
+                621
             ]
         },
         {
-            "text": "17-3u1-2020",
+            "text": "ISISTEUN",
             "id": 3,
             "bbox": [
-                568,
-                577,
-                642,
-                594
+                165,
+                616,
+                192,
+                621
             ]
         },
         {
-            "text": "11:21",
+            "text": "CLOU",
             "id": 4,
             "bbox": [
-                649,
-                580,
-                682,
-                595
+                196,
+                613,
+                215,
+                621
             ]
         },
         {
-            "text": "535.00",
+            "text": "SM",
             "id": 5,
             "bbox": [
-                728,
-                1044,
-                772,
-                1056
+                213,
+                617,
+                223,
+                621
             ]
         },
         {
-            "text": "535.00",
+            "text": "YE",
             "id": 6,
             "bbox": [
-                762,
-                888,
-                806,
-                905
+                225,
+                617,
+                232,
+                621
             ]
         },
         {
-            "text": "1",
+            "text": "4150.00",
             "id": 7,
             "bbox": [
-                550,
-                884,
-                554,
-                895
+                671,
+                631,
+                699,
+                636
             ]
         },
         {
-            "text": "1",
+            "text": "4,150.00",
             "id": 8,
             "bbox": [
-                768,
-                934,
-                772,
-                945
+                665,
+                756,
+                699,
+                763
             ]
         },
         {
-            "text": "023324819323",
+            "text": "OE/07/2020",
             "id": 9,
             "bbox": [
-                416,
-                812,
-                500,
-                830
+                132,
+                815,
+                177,
+                822
             ]
         },
         {
-            "text": "40ROEMFRIB-292:MKS.292:8.5:EMERY",
+            "text": "13:58-24",
             "id": 10,
             "bbox": [
-                414,
-                835,
-                638,
-                857
-            ]
-        },
-        {
-            "text": "MOC",
-            "id": 11,
-            "bbox": [
-                645,
-                844,
-                665,
-                857
-            ]
-        },
-        {
-            "text": "\u0645\u0630\u0627\u0648",
-            "id": 12,
-            "bbox": [
-                502,
-                860,
-                525,
-                875
-            ]
-        },
-        {
-            "text": "\u062f\u0646\u0648\u0646",
-            "id": 13,
-            "bbox": [
-                473,
-                862,
-                497,
-                874
-            ]
-        },
-        {
-            "text": "\u06a9\u0639\u0647",
-            "id": 14,
-            "bbox": [
-                451,
-                859,
-                469,
-                871
+                180,
+                815,
+                214,
+                822
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "40ROEMFRIB-292:MKS.292:8.5:EMERY",
-                "MOC"
+                "NG",
+                "ISISTEUN",
+                "CLOU",
+                "SM",
+                "YE"
             ],
             "value_id": [
-                10,
-                11
+                2,
+                3,
+                4,
+                5,
+                6
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "OE/07/2020"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Cartier"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,150.00"
             ],
             "value_id": [
                 8
@@ -182,71 +159,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:21"
+                "13:58-24"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17-3u1-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "535.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0645\u0630\u0627\u0648",
-                "\u062f\u0646\u0648\u0646",
-                "\u06a9\u0639\u0647"
-            ],
-            "value_id": [
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MICHAEL",
-                "KORS"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "023324819323"
-            ],
-            "value_id": [
-                9
+                10
             ]
         },
         {
@@ -254,10 +170,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "535.00"
+                "4150.00"
             ],
             "value_id": [
-                6
+                7
             ]
         }
     ],

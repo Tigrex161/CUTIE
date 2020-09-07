@@ -1,226 +1,133 @@
 {
     "text_boxes": [
         {
-            "text": "HERM\u00c9S",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                190,
-                310,
-                319,
-                333
+                1374,
+                966,
+                1454,
+                1006
             ]
         },
         {
-            "text": "07/22/2020",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                508,
-                354,
-                560,
-                362
+                1490,
+                964,
+                1580,
+                1001
             ]
         },
         {
-            "text": "04:55",
+            "text": "17153",
             "id": 3,
             "bbox": [
-                509,
-                373,
-                534,
-                383
+                1608,
+                958,
+                1716,
+                998
             ]
         },
         {
-            "text": "PM",
+            "text": "950.00",
             "id": 4,
             "bbox": [
-                538,
-                374,
-                552,
-                382
+                1780,
+                1737,
+                1905,
+                1770
             ]
         },
         {
-            "text": "615.00",
+            "text": "950.00",
             "id": 5,
             "bbox": [
-                557,
-                896,
-                590,
-                906
+                1798,
+                1454,
+                1925,
+                1489
             ]
         },
         {
-            "text": "615.00",
+            "text": "FENU",
             "id": 6,
             "bbox": [
-                645,
-                553,
-                677,
-                562
+                238,
+                1400,
+                336,
+                1440
             ]
         },
         {
-            "text": "1.",
+            "text": "OTHS:",
             "id": 7,
             "bbox": [
-                580,
-                557,
-                589,
-                566
+                352,
+                1399,
+                463,
+                1440
             ]
         },
         {
-            "text": "Eau",
+            "text": "FFENDI",
             "id": 8,
             "bbox": [
-                213,
-                559,
-                230,
-                567
+                465,
+                1398,
+                576,
+                1439
             ]
         },
         {
-            "text": "des",
+            "text": "S",
             "id": 9,
             "bbox": [
-                234,
-                560,
-                250,
-                567
+                798,
+                1397,
+                876,
+                1436
             ]
         },
         {
-            "text": "Merveilles",
+            "text": "Llals",
             "id": 10,
             "bbox": [
-                254,
-                559,
-                300,
-                569
-            ]
-        },
-        {
-            "text": "Eau",
-            "id": 11,
-            "bbox": [
-                305,
-                561,
-                322,
-                569
-            ]
-        },
-        {
-            "text": "de",
-            "id": 12,
-            "bbox": [
-                326,
-                562,
-                336,
-                569
-            ]
-        },
-        {
-            "text": "Toilette",
-            "id": 13,
-            "bbox": [
-                340,
-                561,
-                373,
-                569
-            ]
-        },
-        {
-            "text": "Coff",
-            "id": 14,
-            "bbox": [
-                377,
-                562,
-                395,
-                569
-            ]
-        },
-        {
-            "text": "100ml+Laitc",
-            "id": 15,
-            "bbox": [
-                400,
-                560,
-                455,
-                570
-            ]
-        },
-        {
-            "text": "80mlt",
-            "id": 16,
-            "bbox": [
-                459,
-                561,
-                480,
-                569
-            ]
-        },
-        {
-            "text": "V101947VO",
-            "id": 17,
-            "bbox": [
-                142,
-                557,
-                196,
-                565
+                901,
+                1402,
+                1046,
+                1430
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Eau",
-                "des",
-                "Merveilles",
-                "Eau",
-                "de",
-                "Toilette",
-                "Coff",
-                "100ml+Laitc",
-                "80mlt"
+                "FENU",
+                "OTHS:",
+                "FFENDI"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                6,
+                7,
+                8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "04:55",
-                "PM"
+                "S",
+                "Llals"
             ],
             "value_id": [
-                3,
-                4
+                9,
+                10
             ]
         },
         {
@@ -228,9 +135,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07/22/2020"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
+                1,
                 2
             ]
         },
@@ -239,32 +148,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "615.00"
+                "950.00"
             ],
             "value_id": [
-                5
+                4
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "HERM\u00c9S"
+                "17153"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "V101947VO"
-            ],
-            "value_id": [
-                17
+                3
             ]
         },
         {
@@ -272,10 +170,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "615.00"
+                "950.00"
             ],
             "value_id": [
-                6
+                5
             ]
         }
     ],

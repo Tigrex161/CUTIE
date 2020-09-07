@@ -1,97 +1,147 @@
 {
     "text_boxes": [
         {
-            "text": "ZARA",
+            "text": "LADUREE",
             "id": 1,
             "bbox": [
-                352,
-                137,
-                492,
-                192
+                285,
+                169,
+                514,
+                204
             ]
         },
         {
-            "text": "23-07-2020",
+            "text": "08:39pm",
             "id": 2,
             "bbox": [
-                252,
-                249,
-                330,
-                263
+                17,
+                654,
+                145,
+                693
             ]
         },
         {
-            "text": "11:11",
+            "text": "104.00",
             "id": 3,
             "bbox": [
-                343,
-                254,
-                379,
-                264
+                585,
+                999,
+                759,
+                1029
             ]
         },
         {
-            "text": "289",
+            "text": "104.00",
             "id": 4,
             "bbox": [
-                513,
-                486,
-                535,
-                496
-            ]
-        },
-        {
-            "text": "289",
-            "id": 5,
-            "bbox": [
-                517,
-                344,
-                539,
-                353
+                682,
+                788,
+                785,
+                823
             ]
         },
         {
             "text": "1",
+            "id": 5,
+            "bbox": [
+                60,
+                791,
+                68,
+                820
+            ]
+        },
+        {
+            "text": "box",
             "id": 6,
             "bbox": [
-                347,
-                333,
-                351,
-                343
+                131,
+                789,
+                183,
+                820
             ]
         },
         {
-            "text": "0182104150003",
+            "text": "8",
             "id": 7,
             "bbox": [
-                328,
-                352,
-                433,
-                369
+                205,
+                789,
+                220,
+                820
             ]
         },
         {
-            "text": "DRESS",
+            "text": "Mac",
             "id": 8,
             "bbox": [
-                451,
-                360,
-                489,
-                372
+                242,
+                790,
+                293,
+                820
             ]
         },
         {
-            "text": "10001303",
+            "text": "\u0639\u0644\u0628\u0629",
             "id": 9,
             "bbox": [
-                247,
-                348,
-                309,
-                361
+                239,
+                836,
+                303,
+                864
+            ]
+        },
+        {
+            "text": "\u06f8",
+            "id": 10,
+            "bbox": [
+                201,
+                840,
+                213,
+                858
+            ]
+        },
+        {
+            "text": "\u0645\u0643\u0631\u0648\u0646",
+            "id": 11,
+            "bbox": [
+                87,
+                840,
+                176,
+                867
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "box",
+                "8",
+                "Mac"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0639\u0644\u0628\u0629",
+                "\u06f8",
+                "\u0645\u0643\u0631\u0648\u0646"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
         {
             "field_name": "item_quantity",
             "key_id": [],
@@ -100,53 +150,7 @@
                 "1"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "0182104150003",
-                "DRESS"
-            ],
-            "value_id": [
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:11"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "23-07-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "289"
-            ],
-            "value_id": [
-                4
+                5
             ]
         },
         {
@@ -154,21 +158,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ZARA"
+                "LADUREE"
             ],
             "value_id": [
                 1
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001303"
+                "104.00"
             ],
             "value_id": [
-                9
+                3
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08:39pm"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -176,10 +191,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "289"
+                "104.00"
             ],
             "value_id": [
-                5
+                4
             ]
         }
     ],

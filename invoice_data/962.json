@@ -1,0 +1,204 @@
+{
+    "text_boxes": [
+        {
+            "text": "Louzan",
+            "id": 1,
+            "bbox": [
+                279,
+                369,
+                346,
+                393
+            ]
+        },
+        {
+            "text": "Dubai",
+            "id": 2,
+            "bbox": [
+                353,
+                362,
+                408,
+                385
+            ]
+        },
+        {
+            "text": "Mall",
+            "id": 3,
+            "bbox": [
+                414,
+                358,
+                455,
+                379
+            ]
+        },
+        {
+            "text": "7/9/2020",
+            "id": 4,
+            "bbox": [
+                459,
+                485,
+                528,
+                507
+            ]
+        },
+        {
+            "text": "10:47:38",
+            "id": 5,
+            "bbox": [
+                535,
+                480,
+                610,
+                502
+            ]
+        },
+        {
+            "text": "AM",
+            "id": 6,
+            "bbox": [
+                616,
+                477,
+                646,
+                496
+            ]
+        },
+        {
+            "text": "1000.00",
+            "id": 7,
+            "bbox": [
+                567,
+                879,
+                659,
+                899
+            ]
+        },
+        {
+            "text": "952.38",
+            "id": 8,
+            "bbox": [
+                580,
+                695,
+                647,
+                715
+            ]
+        },
+        {
+            "text": "NORMAL",
+            "id": 9,
+            "bbox": [
+                121,
+                709,
+                203,
+                728
+            ]
+        },
+        {
+            "text": "ABAYA",
+            "id": 10,
+            "bbox": [
+                210,
+                707,
+                275,
+                725
+            ]
+        },
+        {
+            "text": "1.000",
+            "id": 11,
+            "bbox": [
+                605,
+                1043,
+                660,
+                1062
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NORMAL",
+                "ABAYA"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.000"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/9/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Louzan",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1000.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10:47:38",
+                "AM"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "952.38"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/962.jpg"
+    }
+}

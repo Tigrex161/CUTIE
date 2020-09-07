@@ -1,103 +1,103 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "AL",
             "id": 1,
             "bbox": [
-                327,
-                170,
-                359,
-                181
+                98,
+                391,
+                111,
+                398
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "ANWAAR",
             "id": 2,
             "bbox": [
-                365,
-                168,
-                414,
-                180
+                116,
+                391,
+                162,
+                400
             ]
         },
         {
-            "text": "M",
+            "text": "GOLDEN",
             "id": 3,
             "bbox": [
-                345,
-                181,
-                356,
-                189
+                167,
+                391,
+                212,
+                400
             ]
         },
         {
-            "text": "As",
+            "text": "JEWELLERS",
             "id": 4,
             "bbox": [
-                372,
-                179,
+                216,
                 392,
-                188
+                282,
+                401
             ]
         },
         {
-            "text": "28/07/2030",
+            "text": "22/07/2020,",
             "id": 5,
             "bbox": [
-                496,
-                347,
-                546,
-                355
+                123,
+                440,
+                168,
+                449
             ]
         },
         {
-            "text": "16:15",
+            "text": "7,000.00",
             "id": 6,
             "bbox": [
-                564,
-                347,
-                587,
-                353
+                660,
+                574,
+                693,
+                581
             ]
         },
         {
-            "text": "10,",
+            "text": "1.00",
             "id": 7,
             "bbox": [
-                598,
-                427,
-                610,
-                435
+                546,
+                573,
+                565,
+                581
             ]
         },
         {
-            "text": "000.00",
+            "text": "DIAMOND",
             "id": 8,
             "bbox": [
-                613,
-                426,
-                642,
-                435
+                170,
+                568,
+                214,
+                578
             ]
         },
         {
-            "text": "DAILY",
+            "text": "RING",
             "id": 9,
             "bbox": [
-                95,
-                439,
-                121,
-                447
+                219,
+                569,
+                239,
+                576
             ]
         },
         {
-            "text": "BAG",
+            "text": "7,000.00",
             "id": 10,
             "bbox": [
-                126,
-                439,
-                140,
-                447
+                660,
+                1140,
+                700,
+                1151
             ]
         }
     ],
@@ -107,23 +107,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DAILY",
-                "BAG"
+                "DIAMOND",
+                "RING"
             ],
             "value_id": [
-                9,
-                10
+                8,
+                9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:15"
+                "1.00"
             ],
             "value_id": [
-                6
+                7
             ]
         },
         {
@@ -131,7 +131,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "28/07/2030"
+                "22/07/2020,"
             ],
             "value_id": [
                 5
@@ -142,10 +142,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "M",
-                "As"
+                "AL",
+                "ANWAAR",
+                "GOLDEN",
+                "JEWELLERS"
             ],
             "value_id": [
                 1,
@@ -155,16 +155,25 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7,000.00"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10,",
-                "000.00"
+                "7,000.00"
             ],
             "value_id": [
-                7,
-                8
+                6
             ]
         }
     ],

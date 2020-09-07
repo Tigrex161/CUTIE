@@ -1,164 +1,129 @@
 {
     "text_boxes": [
         {
-            "text": "MOSCHINO.",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                299,
-                143,
-                600,
-                219
+                467,
+                232,
+                491,
+                241
             ]
         },
         {
-            "text": "02-Jul-2020",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                193,
-                423,
-                321,
-                444
+                503,
+                232,
+                529,
+                242
             ]
         },
         {
-            "text": "860.00",
+            "text": "19:51",
             "id": 3,
             "bbox": [
-                587,
-                914,
-                654,
-                931
+                539,
+                233,
+                571,
+                242
             ]
         },
         {
-            "text": "1",
+            "text": "3,",
             "id": 4,
             "bbox": [
-                646,
-                803,
-                653,
-                819
+                588,
+                482,
+                599,
+                493
             ]
         },
         {
-            "text": "860.00",
+            "text": "450.00",
             "id": 5,
             "bbox": [
-                588,
-                734,
-                655,
-                751
+                604,
+                480,
+                648,
+                493
             ]
         },
         {
-            "text": "1",
+            "text": "3,",
             "id": 6,
             "bbox": [
-                439,
-                753,
-                471,
-                776
+                593,
+                392,
+                602,
+                400
             ]
         },
         {
-            "text": "213411910",
+            "text": "450.00",
             "id": 7,
             "bbox": [
-                220,
-                752,
-                323,
-                772
+                608,
+                390,
+                650,
+                400
             ]
         },
         {
-            "text": "LOGO",
+            "text": "CHANEL",
             "id": 8,
             "bbox": [
-                196,
-                729,
-                241,
-                746
+                81,
+                361,
+                125,
+                373
             ]
         },
         {
-            "text": "COUTURE",
+            "text": "WOMENS",
             "id": 9,
             "bbox": [
-                255,
-                730,
-                334,
-                749
+                134,
+                364,
+                177,
+                376
             ]
         },
         {
-            "text": "CTN",
+            "text": "LI",
             "id": 10,
             "bbox": [
-                348,
-                732,
-                381,
-                750
-            ]
-        },
-        {
-            "text": "FLE",
-            "id": 11,
-            "bbox": [
-                394,
-                733,
-                426,
-                750
-            ]
-        },
-        {
-            "text": "\u0633\u062a\u0631\u0629",
-            "id": 12,
-            "bbox": [
-                195,
-                712,
-                230,
-                725
+                283,
+                367,
+                313,
+                380
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOGO",
-                "COUTURE",
-                "CTN",
-                "FLE"
+                "CHANEL",
+                "WOMENS"
             ],
             "value_id": [
                 8,
-                9,
-                10,
-                11
+                9
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "LI"
             ],
             "value_id": [
-                4
+                10
             ]
         },
         {
@@ -166,9 +131,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02-Jul-2020"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
+                1,
                 2
             ]
         },
@@ -177,43 +144,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "860.00"
+                "3,",
+                "450.00"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:51"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0633\u062a\u0631\u0629"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MOSCHINO."
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "213411910"
-            ],
-            "value_id": [
-                7
             ]
         },
         {
@@ -221,10 +168,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "860.00"
+                "3,",
+                "450.00"
             ],
             "value_id": [
-                5
+                6,
+                7
             ]
         }
     ],

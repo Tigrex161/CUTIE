@@ -1,46 +1,187 @@
 {
     "text_boxes": [
         {
-            "text": "Cartier",
+            "text": "DHAMANI",
             "id": 1,
             "bbox": [
-                357,
-                335,
-                462,
-                365
+                326,
+                274,
+                478,
+                293
             ]
         },
         {
-            "text": "170721",
+            "text": "1969",
             "id": 2,
             "bbox": [
-                230,
-                748,
-                258,
-                754
+                387,
+                305,
+                417,
+                314
             ]
         },
         {
-            "text": "VA50",
+            "text": "29/06/2020",
             "id": 3,
             "bbox": [
-                235,
-                603,
-                262,
-                608
+                209,
+                365,
+                267,
+                376
+            ]
+        },
+        {
+            "text": "9,530.00",
+            "id": 4,
+            "bbox": [
+                662,
+                778,
+                698,
+                788
+            ]
+        },
+        {
+            "text": "1.00",
+            "id": 5,
+            "bbox": [
+                500,
+                780,
+                516,
+                787
+            ]
+        },
+        {
+            "text": "9,530.00",
+            "id": 6,
+            "bbox": [
+                658,
+                444,
+                695,
+                453
+            ]
+        },
+        {
+            "text": "1.00000",
+            "id": 7,
+            "bbox": [
+                484,
+                447,
+                516,
+                455
+            ]
+        },
+        {
+            "text": "DIAMOND",
+            "id": 8,
+            "bbox": [
+                253,
+                449,
+                296,
+                456
+            ]
+        },
+        {
+            "text": "GOLD",
+            "id": 9,
+            "bbox": [
+                299,
+                449,
+                325,
+                456
+            ]
+        },
+        {
+            "text": "RING",
+            "id": 10,
+            "bbox": [
+                329,
+                449,
+                350,
+                455
+            ]
+        },
+        {
+            "text": "DSRC6511",
+            "id": 11,
+            "bbox": [
+                142,
+                449,
+                187,
+                456
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIAMOND",
+                "GOLD",
+                "RING"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00000"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "29/06/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Cartier"
+                "DHAMANI",
+                "1969"
             ],
             "value_id": [
-                1
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9,530.00"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -48,21 +189,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VA50"
+                "DSRC6511"
             ],
             "value_id": [
-                3
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "170721"
+                "9,530.00"
             ],
             "value_id": [
-                2
+                6
             ]
         }
     ],

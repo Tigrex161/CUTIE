@@ -1,0 +1,216 @@
+{
+    "text_boxes": [
+        {
+            "text": "DUBAI",
+            "id": 1,
+            "bbox": [
+                244,
+                251,
+                319,
+                271
+            ]
+        },
+        {
+            "text": "OPTICAL",
+            "id": 2,
+            "bbox": [
+                326,
+                251,
+                433,
+                271
+            ]
+        },
+        {
+            "text": ":",
+            "id": 3,
+            "bbox": [
+                234,
+                519,
+                242,
+                532
+            ]
+        },
+        {
+            "text": "28/07/2020",
+            "id": 4,
+            "bbox": [
+                244,
+                517,
+                303,
+                532
+            ]
+        },
+        {
+            "text": "160.00",
+            "id": 5,
+            "bbox": [
+                674,
+                878,
+                709,
+                888
+            ]
+        },
+        {
+            "text": "160",
+            "id": 6,
+            "bbox": [
+                691,
+                680,
+                705,
+                687
+            ]
+        },
+        {
+            "text": ".00",
+            "id": 7,
+            "bbox": [
+                708,
+                681,
+                717,
+                687
+            ]
+        },
+        {
+            "text": "1.00",
+            "id": 8,
+            "bbox": [
+                350,
+                674,
+                367,
+                682
+            ]
+        },
+        {
+            "text": "CL-BEL-ELI-M-GRYOLIVNO00",
+            "id": 9,
+            "bbox": [
+                185,
+                672,
+                322,
+                682
+            ]
+        },
+        {
+            "text": "SU-SOL-CLARIITYX-PLUSXKIT",
+            "id": 10,
+            "bbox": [
+                184,
+                724,
+                325,
+                734
+            ]
+        },
+        {
+            "text": "200307",
+            "id": 11,
+            "bbox": [
+                189,
+                693,
+                222,
+                701
+            ]
+        },
+        {
+            "text": "63931",
+            "id": 12,
+            "bbox": [
+                187,
+                743,
+                215,
+                755
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CL-BEL-ELI-M-GRYOLIVNO00",
+                "SU-SOL-CLARIITYX-PLUSXKIT"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "200307",
+                "63931"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "160",
+                ".00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ":",
+                "28/07/2020"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "160.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DUBAI",
+                "OPTICAL"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/38.jpg"
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "text_boxes": [
+        {
+            "text": "level",
+            "id": 1,
+            "bbox": [
+                332,
+                314,
+                386,
+                342
+            ]
+        },
+        {
+            "text": "Jul,",
+            "id": 2,
+            "bbox": [
+                429,
+                437,
+                450,
+                445
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                460,
+                437,
+                483,
+                444
+            ]
+        },
+        {
+            "text": "14:12",
+            "id": 4,
+            "bbox": [
+                492,
+                437,
+                519,
+                444
+            ]
+        },
+        {
+            "text": "1,",
+            "id": 5,
+            "bbox": [
+                510,
+                624,
+                517,
+                631
+            ]
+        },
+        {
+            "text": "P00.a0",
+            "id": 6,
+            "bbox": [
+                521,
+                623,
+                553,
+                631
+            ]
+        },
+        {
+            "text": "20d.00",
+            "id": 7,
+            "bbox": [
+                535,
+                562,
+                567,
+                568
+            ]
+        },
+        {
+            "text": "POOU",
+            "id": 8,
+            "bbox": [
+                119,
+                545,
+                146,
+                555
+            ]
+        },
+        {
+            "text": "OTIS:RIVATE",
+            "id": 9,
+            "bbox": [
+                148,
+                545,
+                219,
+                556
+            ]
+        },
+        {
+            "text": "COLLRCTION",
+            "id": 10,
+            "bbox": [
+                224,
+                547,
+                282,
+                555
+            ]
+        },
+        {
+            "text": "HEMS",
+            "id": 11,
+            "bbox": [
+                288,
+                547,
+                310,
+                554
+            ]
+        },
+        {
+            "text": "OTHERS",
+            "id": 12,
+            "bbox": [
+                317,
+                547,
+                350,
+                556
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,",
+                "P00.a0"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "POOU",
+                "OTIS:RIVATE",
+                "COLLRCTION",
+                "HEMS",
+                "OTHERS"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:12"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20d.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/120.jpg"
+    }
+}

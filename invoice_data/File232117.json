@@ -1,0 +1,147 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZRA",
+            "id": 1,
+            "bbox": [
+                323,
+                66,
+                429,
+                113
+            ]
+        },
+        {
+            "text": "12-07-2020",
+            "id": 2,
+            "bbox": [
+                242,
+                293,
+                304,
+                305
+            ]
+        },
+        {
+            "text": "13:36",
+            "id": 3,
+            "bbox": [
+                318,
+                295,
+                344,
+                306
+            ]
+        },
+        {
+            "text": "199",
+            "id": 4,
+            "bbox": [
+                454,
+                471,
+                470,
+                480
+            ]
+        },
+        {
+            "text": "10001426",
+            "id": 5,
+            "bbox": [
+                241,
+                375,
+                289,
+                382
+            ]
+        },
+        {
+            "text": "0684005340001",
+            "id": 6,
+            "bbox": [
+                305,
+                376,
+                385,
+                383
+            ]
+        },
+        {
+            "text": "SKIRT",
+            "id": 7,
+            "bbox": [
+                401,
+                375,
+                431,
+                384
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001426"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "199"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZRA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0684005340001",
+                "SKIRT"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:36"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/116.jpg"
+    }
+}

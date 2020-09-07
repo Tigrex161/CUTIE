@@ -1,158 +1,142 @@
 {
     "text_boxes": [
         {
-            "text": "AHMED",
+            "text": "LOEWE",
             "id": 1,
             "bbox": [
-                530,
-                143,
-                590,
-                159
+                434,
+                485,
+                1899,
+                959
             ]
         },
         {
-            "text": "SEDDIOI",
+            "text": "07/13/2020",
             "id": 2,
             "bbox": [
-                594,
-                141,
-                669,
-                161
+                509,
+                1077,
+                659,
+                1113
             ]
         },
         {
-            "text": "&",
+            "text": "1,200.00",
             "id": 3,
             "bbox": [
-                667,
-                144,
-                678,
-                160
+                1491,
+                1670,
+                1614,
+                1700
             ]
         },
         {
-            "text": "SONS",
+            "text": "1,142.86",
             "id": 4,
             "bbox": [
-                684,
-                143,
-                720,
-                160
+                1739,
+                1405,
+                1854,
+                1436
             ]
         },
         {
-            "text": "03-07-2020",
+            "text": "1",
             "id": 5,
             "bbox": [
-                500,
-                317,
-                546,
-                324
+                1307,
+                1387,
+                1316,
+                1408
             ]
         },
         {
-            "text": "32,800.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                680,
-                434,
-                717,
-                440
+                1601,
+                1732,
+                1609,
+                1753
             ]
         },
         {
-            "text": "0.00",
+            "text": "Paula's",
             "id": 7,
             "bbox": [
-                703,
-                480,
-                718,
-                486
+                590,
+                1394,
+                696,
+                1423
             ]
         },
         {
-            "text": "32.800.00",
+            "text": "Small",
             "id": 8,
             "bbox": [
-                236,
-                674,
-                274,
-                681
+                704,
+                1389,
+                785,
+                1414
             ]
         },
         {
-            "text": "ROLEX",
+            "text": "Sunglas",
             "id": 9,
             "bbox": [
-                107,
-                436,
-                133,
-                442
+                795,
+                1383,
+                914,
+                1416
             ]
         },
         {
-            "text": "-",
+            "text": "0010446490",
             "id": 10,
             "bbox": [
-                169,
-                438,
-                171,
-                439
-            ]
-        },
-        {
-            "text": "lal",
-            "id": 11,
-            "bbox": [
-                175,
-                435,
-                191,
-                441
-            ]
-        },
-        {
-            "text": "350030",
-            "id": 12,
-            "bbox": [
-                162,
-                446,
-                188,
-                451
-            ]
-        },
-        {
-            "text": "ROLEX",
-            "id": 13,
-            "bbox": [
-                107,
-                483,
-                133,
-                489
-            ]
-        },
-        {
-            "text": "-L",
-            "id": 14,
-            "bbox": [
-                167,
-                481,
-                183,
-                491
+                350,
+                1411,
+                504,
+                1445
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ROLEX",
-                "ROLEX"
+                "Paula's",
+                "Small",
+                "Sunglas"
             ],
             "value_id": [
-                9,
-                13
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -160,36 +144,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "03-07-2020"
+                "07/13/2020"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "32.800.00"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "-",
-                "lal",
-                "-L"
-            ],
-            "value_id": [
-                10,
-                11,
-                14
+                2
             ]
         },
         {
@@ -197,16 +155,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AHMED",
-                "SEDDIOI",
-                "&",
-                "SONS"
+                "LOEWE"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,200.00"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -214,10 +177,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "350030"
+                "0010446490"
             ],
             "value_id": [
-                12
+                10
             ]
         },
         {
@@ -225,12 +188,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "32,800.00",
-                "0.00"
+                "1,142.86"
             ],
             "value_id": [
-                6,
-                7
+                4
             ]
         }
     ],

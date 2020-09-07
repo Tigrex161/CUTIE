@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "COA",
+            "id": 1,
+            "bbox": [
+                259,
+                171,
+                424,
+                200
+            ]
+        },
+        {
+            "text": "CH",
+            "id": 2,
+            "bbox": [
+                431,
+                167,
+                473,
+                189
+            ]
+        },
+        {
+            "text": "16-Jul-2020",
+            "id": 3,
+            "bbox": [
+                208,
+                355,
+                289,
+                372
+            ]
+        },
+        {
+            "text": "1",
+            "id": 4,
+            "bbox": [
+                490,
+                862,
+                494,
+                872
+            ]
+        },
+        {
+            "text": "1,275.00",
+            "id": 5,
+            "bbox": [
+                430,
+                1061,
+                486,
+                1076
+            ]
+        },
+        {
+            "text": "1,275.00",
+            "id": 6,
+            "bbox": [
+                439,
+                596,
+                493,
+                608
+            ]
+        },
+        {
+            "text": "Chrl",
+            "id": 7,
+            "bbox": [
+                241,
+                596,
+                266,
+                607
+            ]
+        },
+        {
+            "text": "28",
+            "id": 8,
+            "bbox": [
+                277,
+                597,
+                290,
+                607
+            ]
+        },
+        {
+            "text": "Cal",
+            "id": 9,
+            "bbox": [
+                298,
+                597,
+                315,
+                607
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,275.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "COA",
+                "CH"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Chrl",
+                "28",
+                "Cal"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16-Jul-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,275.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/2.jpg"
+    }
+}

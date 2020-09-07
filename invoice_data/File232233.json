@@ -1,0 +1,186 @@
+{
+    "text_boxes": [
+        {
+            "text": "RALPH",
+            "id": 1,
+            "bbox": [
+                312,
+                150,
+                363,
+                163
+            ]
+        },
+        {
+            "text": "LAUREN",
+            "id": 2,
+            "bbox": [
+                378,
+                141,
+                441,
+                156
+            ]
+        },
+        {
+            "text": "30",
+            "id": 3,
+            "bbox": [
+                456,
+                461,
+                465,
+                468
+            ]
+        },
+        {
+            "text": "July",
+            "id": 4,
+            "bbox": [
+                470,
+                461,
+                485,
+                469
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 5,
+            "bbox": [
+                488,
+                460,
+                508,
+                469
+            ]
+        },
+        {
+            "text": "20121",
+            "id": 6,
+            "bbox": [
+                514,
+                461,
+                541,
+                470
+            ]
+        },
+        {
+            "text": "550.00",
+            "id": 7,
+            "bbox": [
+                648,
+                633,
+                670,
+                640
+            ]
+        },
+        {
+            "text": "NATURAL",
+            "id": 8,
+            "bbox": [
+                324,
+                528,
+                363,
+                537
+            ]
+        },
+        {
+            "text": "STRTCH",
+            "id": 9,
+            "bbox": [
+                366,
+                526,
+                398,
+                536
+            ]
+        },
+        {
+            "text": "PPLN",
+            "id": 10,
+            "bbox": [
+                402,
+                525,
+                423,
+                534
+            ]
+        },
+        {
+            "text": "CUBDPPCS",
+            "id": 11,
+            "bbox": [
+                323,
+                541,
+                367,
+                551
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "550.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RALPH",
+                "LAUREN"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NATURAL",
+                "STRTCH",
+                "PPLN",
+                "CUBDPPCS"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20121"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30",
+                "July",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4,
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/232.jpg"
+    }
+}

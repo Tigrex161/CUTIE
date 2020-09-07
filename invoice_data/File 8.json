@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "July",
+            "id": 1,
+            "bbox": [
+                431,
+                480,
+                448,
+                490
+            ]
+        },
+        {
+            "text": "23,",
+            "id": 2,
+            "bbox": [
+                451,
+                479,
+                466,
+                488
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                470,
+                476,
+                494,
+                487
+            ]
+        },
+        {
+            "text": "15:12",
+            "id": 4,
+            "bbox": [
+                502,
+                474,
+                532,
+                485
+            ]
+        },
+        {
+            "text": "770.00",
+            "id": 5,
+            "bbox": [
+                555,
+                805,
+                593,
+                812
+            ]
+        },
+        {
+            "text": "770.00",
+            "id": 6,
+            "bbox": [
+                625,
+                636,
+                661,
+                648
+            ]
+        },
+        {
+            "text": "LES",
+            "id": 7,
+            "bbox": [
+                144,
+                625,
+                166,
+                634
+            ]
+        },
+        {
+            "text": "EXCLUSIFS",
+            "id": 8,
+            "bbox": [
+                170,
+                627,
+                236,
+                639
+            ]
+        },
+        {
+            "text": "122100",
+            "id": 9,
+            "bbox": [
+                145,
+                656,
+                184,
+                666
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:12"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LES",
+                "EXCLUSIFS"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "122100"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "770.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "23,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "770.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/7.jpg"
+    }
+}

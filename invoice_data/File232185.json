@@ -1,0 +1,336 @@
+{
+    "text_boxes": [
+        {
+            "text": "Cartier",
+            "id": 1,
+            "bbox": [
+                324,
+                261,
+                450,
+                297
+            ]
+        },
+        {
+            "text": "27/07/2020",
+            "id": 2,
+            "bbox": [
+                88,
+                799,
+                134,
+                813
+            ]
+        },
+        {
+            "text": "13:33:52",
+            "id": 3,
+            "bbox": [
+                136,
+                796,
+                172,
+                807
+            ]
+        },
+        {
+            "text": "4,290.00",
+            "id": 4,
+            "bbox": [
+                683,
+                645,
+                713,
+                650
+            ]
+        },
+        {
+            "text": "0.00",
+            "id": 5,
+            "bbox": [
+                681,
+                565,
+                703,
+                570
+            ]
+        },
+        {
+            "text": "1.300.00",
+            "id": 6,
+            "bbox": [
+                676,
+                600,
+                710,
+                609
+            ]
+        },
+        {
+            "text": "PORTE",
+            "id": 7,
+            "bbox": [
+                122,
+                550,
+                142,
+                558
+            ]
+        },
+        {
+            "text": "CARTE",
+            "id": 8,
+            "bbox": [
+                144,
+                549,
+                163,
+                555
+            ]
+        },
+        {
+            "text": "MUST4CC",
+            "id": 9,
+            "bbox": [
+                166,
+                546,
+                199,
+                554
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 10,
+            "bbox": [
+                202,
+                544,
+                223,
+                552
+            ]
+        },
+        {
+            "text": "BLUEALF",
+            "id": 11,
+            "bbox": [
+                225,
+                544,
+                255,
+                552
+            ]
+        },
+        {
+            "text": "PEN",
+            "id": 12,
+            "bbox": [
+                120,
+                580,
+                132,
+                587
+            ]
+        },
+        {
+            "text": "P",
+            "id": 13,
+            "bbox": [
+                135,
+                580,
+                142,
+                585
+            ]
+        },
+        {
+            "text": "MEA",
+            "id": 14,
+            "bbox": [
+                145,
+                578,
+                159,
+                585
+            ]
+        },
+        {
+            "text": "RDC",
+            "id": 15,
+            "bbox": [
+                161,
+                577,
+                174,
+                584
+            ]
+        },
+        {
+            "text": "OLUE",
+            "id": 16,
+            "bbox": [
+                176,
+                576,
+                193,
+                583
+            ]
+        },
+        {
+            "text": "STAN",
+            "id": 17,
+            "bbox": [
+                195,
+                575,
+                211,
+                582
+            ]
+        },
+        {
+            "text": "METAL",
+            "id": 18,
+            "bbox": [
+                214,
+                574,
+                235,
+                581
+            ]
+        },
+        {
+            "text": "LO",
+            "id": 19,
+            "bbox": [
+                238,
+                574,
+                252,
+                580
+            ]
+        },
+        {
+            "text": "PAF",
+            "id": 20,
+            "bbox": [
+                254,
+                574,
+                261,
+                579
+            ]
+        },
+        {
+            "text": "300168S",
+            "id": 21,
+            "bbox": [
+                164,
+                556,
+                202,
+                565
+            ]
+        },
+        {
+            "text": "OPO0135",
+            "id": 22,
+            "bbox": [
+                162,
+                586,
+                204,
+                595
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "300168S",
+                "OPO0135"
+            ],
+            "value_id": [
+                21,
+                22
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,290.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Cartier"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PORTE",
+                "CARTE",
+                "MUST4CC",
+                "DUBAI",
+                "BLUEALF",
+                "PEN",
+                "P",
+                "MEA",
+                "RDC",
+                "OLUE",
+                "STAN",
+                "METAL",
+                "LO",
+                "PAF"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:33:52"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "27/07/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0.00",
+                "1.300.00"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/184.jpg"
+    }
+}

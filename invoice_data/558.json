@@ -1,206 +1,168 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                627,
-                493,
-                665,
-                506
+                357,
+                13,
+                399,
+                23
             ]
         },
         {
-            "text": "2020",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                684,
-                493,
-                726,
-                505
+                406,
+                13,
+                470,
+                23
             ]
         },
         {
-            "text": "15:24",
+            "text": "AINA",
             "id": 3,
             "bbox": [
-                742,
-                494,
-                793,
-                506
+                380,
+                24,
+                425,
+                33
             ]
         },
         {
-            "text": "5,",
+            "text": "2020/07/08",
             "id": 4,
             "bbox": [
-                825,
-                957,
-                841,
-                972
+                579,
+                263,
+                636,
+                272
             ]
         },
         {
-            "text": "184.00",
+            "text": "19:32",
             "id": 5,
             "bbox": [
-                849,
-                957,
-                919,
-                971
+                668,
+                249,
+                699,
+                257
             ]
         },
         {
-            "text": "2,640.00",
+            "text": "1,180.00",
             "id": 6,
             "bbox": [
-                830,
-                738,
-                920,
-                754
+                732,
+                499,
+                784,
+                508
             ]
         },
         {
-            "text": "2,544.00",
+            "text": "1,180.00",
             "id": 7,
             "bbox": [
-                833,
-                810,
-                925,
-                825
+                728,
+                318,
+                779,
+                327
             ]
         },
         {
-            "text": "1",
+            "text": "LPO0S3",
             "id": 8,
             "bbox": [
-                550,
-                808,
-                556,
-                820
+                34,
+                301,
+                72,
+                309
             ]
         },
         {
-            "text": "CHANEL",
+            "text": "NOUVEAU",
             "id": 9,
             "bbox": [
-                19,
-                705,
-                86,
-                717
+                88,
+                303,
+                133,
+                311
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "MONDE",
             "id": 10,
             "bbox": [
-                99,
-                704,
-                166,
-                717
+                141,
+                304,
+                173,
+                312
             ]
         },
         {
-            "text": "CHANEL",
+            "text": "100MI.",
             "id": 11,
             "bbox": [
-                12,
-                774,
-                80,
-                785
+                182,
+                305,
+                213,
+                314
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "EDP",
             "id": 12,
             "bbox": [
-                93,
-                774,
-                162,
-                786
+                221,
+                307,
+                240,
+                314
             ]
         },
         {
-            "text": "SHOES",
+            "text": "PERFUME",
             "id": 13,
             "bbox": [
-                176,
-                771,
-                231,
-                789
+                35,
+                314,
+                80,
+                322
             ]
         },
         {
-            "text": "Li",
+            "text": "(STOCK)",
             "id": 14,
             "bbox": [
-                295,
-                703,
-                323,
-                720
-            ]
-        },
-        {
-            "text": "i",
-            "id": 15,
-            "bbox": [
-                334,
-                703,
-                377,
-                720
-            ]
-        },
-        {
-            "text": "wUis",
-            "id": 16,
-            "bbox": [
-                293,
-                771,
-                380,
-                789
+                91,
+                315,
+                131,
+                324
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHANEL",
-                "WOMENS",
-                "CHANEL",
-                "WOMENS",
-                "SHOES"
+                "LPO0S3",
+                "NOUVEAU",
+                "MONDE",
+                "100MI.",
+                "EDP",
+                "PERFUME",
+                "(STOCK)"
             ],
             "value_id": [
+                8,
                 9,
                 10,
                 11,
                 12,
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15:24"
-            ],
-            "value_id": [
-                3
+                13,
+                14
             ]
         },
         {
@@ -208,12 +170,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "2020/07/08"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "AINA"
             ],
             "value_id": [
                 1,
-                2
+                2,
+                3
             ]
         },
         {
@@ -221,27 +196,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5,",
-                "184.00"
+                "1,180.00"
             ],
             "value_id": [
-                4,
-                5
+                6
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Li",
-                "i",
-                "wUis"
+                "19:32"
             ],
             "value_id": [
-                14,
-                15,
-                16
+                5
             ]
         },
         {
@@ -249,11 +218,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,640.00",
-                "2,544.00"
+                "1,180.00"
             ],
             "value_id": [
-                6,
                 7
             ]
         }

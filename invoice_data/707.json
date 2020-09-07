@@ -1,262 +1,173 @@
 {
     "text_boxes": [
         {
-            "text": "NIKE",
+            "text": "MICHAEL",
             "id": 1,
             "bbox": [
-                328,
-                185,
-                363,
-                195
+                173,
+                242,
+                352,
+                276
             ]
         },
         {
-            "text": "BEACON",
+            "text": "KORS",
             "id": 2,
             "bbox": [
-                376,
-                186,
-                432,
-                197
+                369,
+                239,
+                479,
+                271
             ]
         },
         {
-            "text": "18/07/2020",
+            "text": "13-Jul-2020",
             "id": 3,
             "bbox": [
-                305,
-                266,
-                351,
-                275
+                251,
+                505,
+                333,
+                521
             ]
         },
         {
-            "text": "14:09",
+            "text": "21:07",
             "id": 4,
             "bbox": [
-                305,
-                282,
-                327,
-                292
+                343,
+                505,
+                380,
+                519
             ]
         },
         {
-            "text": "138.00",
+            "text": "1,015.00",
             "id": 5,
             "bbox": [
-                462,
-                731,
-                488,
-                741
+                450,
+                1060,
+                511,
+                1076
             ]
         },
         {
-            "text": "69.00",
+            "text": "1,015.00",
             "id": 6,
             "bbox": [
-                459,
-                479,
-                483,
-                490
+                481,
+                874,
+                542,
+                889
             ]
         },
         {
-            "text": "89.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                460,
-                543,
-                482,
-                551
+                504,
+                928,
+                507,
+                942
             ]
         },
         {
-            "text": "3PPK",
+            "text": "32SOGOECOV-407:",
             "id": 8,
             "bbox": [
-                227,
-                492,
-                250,
-                503
+                99,
+                818,
+                218,
+                836
             ]
         },
         {
-            "text": "OMEN'S",
+            "text": "MKS.407:NS:XS",
             "id": 9,
             "bbox": [
-                252,
-                492,
-                288,
-                504
+                220,
+                817,
+                320,
+                836
             ]
         },
         {
-            "text": "LIGHTUEIGHT",
+            "text": "CHAIN",
             "id": 10,
             "bbox": [
-                291,
-                496,
-                341,
-                504
+                328,
+                820,
+                366,
+                834
             ]
         },
         {
-            "text": "TRAIN",
+            "text": "XBODY",
             "id": 11,
             "bbox": [
-                349,
-                495,
-                370,
-                504
+                376,
+                820,
+                413,
+                834
             ]
         },
         {
-            "text": "OMEN'S",
+            "text": "023324982649",
             "id": 12,
             "bbox": [
-                253,
-                558,
-                285,
-                567
+                103,
+                795,
+                194,
+                809
             ]
         },
         {
-            "text": "LIGHTWETGHT",
+            "text": "\u062f\u0642\u064a\u062f\u0629",
             "id": 13,
             "bbox": [
-                292,
-                559,
-                341,
-                567
+                185,
+                849,
+                215,
+                862
             ]
         },
         {
-            "text": "FOOTI",
+            "text": "\u0633\u0627\u0639",
             "id": 14,
             "bbox": [
-                348,
-                559,
-                369,
-                567
-            ]
-        },
-        {
-            "text": "2",
-            "id": 15,
-            "bbox": [
-                301,
-                639,
-                305,
-                647
-            ]
-        },
-        {
-            "text": "NKSX5277-010",
-            "id": 16,
-            "bbox": [
-                229,
-                479,
-                285,
-                487
-            ]
-        },
-        {
-            "text": "NKEX4363-101",
-            "id": 17,
-            "bbox": [
-                227,
-                542,
-                284,
-                552
-            ]
-        },
-        {
-            "text": "l",
-            "id": 18,
-            "bbox": [
-                235,
-                575,
-                241,
-                585
-            ]
-        },
-        {
-            "text": "vula",
-            "id": 19,
-            "bbox": [
-                251,
-                576,
-                269,
-                584
+                155,
+                849,
+                178,
+                863
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3PPK",
-                "OMEN'S",
-                "LIGHTUEIGHT",
-                "TRAIN",
-                "OMEN'S",
-                "LIGHTWETGHT",
-                "FOOTI"
+                "32SOGOECOV-407:",
+                "MKS.407:NS:XS",
+                "CHAIN",
+                "XBODY"
             ],
             "value_id": [
                 8,
                 9,
                 10,
-                11,
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2"
-            ],
-            "value_id": [
-                15
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:09"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18/07/2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "138.00"
-            ],
-            "value_id": [
-                5
+                11
             ]
         },
         {
@@ -264,12 +175,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "l",
-                "vula"
+                "\u062f\u0642\u064a\u062f\u0629",
+                "\u0633\u0627\u0639"
             ],
             "value_id": [
-                18,
-                19
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13-Jul-2020"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -277,8 +199,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NIKE",
-                "BEACON"
+                "MICHAEL",
+                "KORS"
             ],
             "value_id": [
                 1,
@@ -286,16 +208,36 @@
             ]
         },
         {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,015.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NKSX5277-010",
-                "NKEX4363-101"
+                "023324982649"
             ],
             "value_id": [
-                16,
-                17
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:07"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -303,12 +245,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "69.00",
-                "89.00"
+                "1,015.00"
             ],
             "value_id": [
-                6,
-                7
+                6
             ]
         }
     ],

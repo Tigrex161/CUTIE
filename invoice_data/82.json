@@ -1,226 +1,142 @@
 {
     "text_boxes": [
         {
-            "text": "SEPHORA",
+            "text": "Off-WhiteM",
             "id": 1,
             "bbox": [
-                310,
-                245,
-                368,
-                261
+                313,
+                140,
+                506,
+                171
             ]
         },
         {
-            "text": "DUBAI",
+            "text": "7:28:56",
             "id": 2,
             "bbox": [
-                379,
-                245,
-                418,
-                262
+                455,
+                345,
+                541,
+                366
             ]
         },
         {
-            "text": "MALL",
+            "text": "PM",
             "id": 3,
             "bbox": [
-                430,
-                247,
-                461,
-                262
+                554,
+                344,
+                578,
+                362
             ]
         },
         {
-            "text": "July",
+            "text": "335.00",
             "id": 4,
             "bbox": [
-                376,
-                1154,
-                406,
-                1168
+                539,
+                835,
+                654,
+                869
             ]
         },
         {
-            "text": "08,2020",
+            "text": "335.80",
             "id": 5,
             "bbox": [
-                414,
-                1151,
-                466,
-                1167
+                637,
+                554,
+                714,
+                575
             ]
         },
         {
-            "text": "19:26:32",
+            "text": "1.",
             "id": 6,
             "bbox": [
-                476,
-                1147,
-                533,
-                1163
+                389,
+                582,
+                392,
+                598
             ]
         },
         {
-            "text": "165.00",
+            "text": "CARRYOV",
             "id": 7,
             "bbox": [
-                457,
-                772,
-                545,
-                789
+                462,
+                474,
+                554,
+                495
             ]
         },
         {
-            "text": "165.00",
+            "text": "MINI",
             "id": 8,
             "bbox": [
-                505,
-                698,
-                548,
-                713
+                570,
+                472,
+                619,
+                491
             ]
         },
         {
-            "text": "1",
+            "text": "INDUSTRIAL",
             "id": 9,
             "bbox": [
-                322,
-                702,
-                324,
-                715
+                467,
+                500,
+                594,
+                525
             ]
         },
         {
-            "text": "RADIANT",
+            "text": "BELT",
             "id": 10,
             "bbox": [
-                352,
-                642,
-                406,
-                656
+                465,
+                533,
+                518,
+                553
             ]
         },
         {
-            "text": "CREAMY",
+            "text": "OMRB021F196470036000",
             "id": 11,
             "bbox": [
-                416,
-                641,
-                462,
-                656
+                154,
+                508,
+                427,
+                535
             ]
         },
         {
-            "text": "CONCEALER",
+            "text": "jal",
             "id": 12,
             "bbox": [
-                472,
-                641,
-                541,
-                656
-            ]
-        },
-        {
-            "text": "024512272699",
-            "id": 13,
-            "bbox": [
-                214,
-                643,
-                310,
-                658
-            ]
-        },
-        {
-            "text": "\u0642\u0644\u0645",
-            "id": 14,
-            "bbox": [
-                330,
-                683,
-                351,
-                697
-            ]
-        },
-        {
-            "text": "\u062a\u0635\u062d\u064a\u062d",
-            "id": 15,
-            "bbox": [
-                281,
-                685,
-                319,
-                698
-            ]
-        },
-        {
-            "text": "\u0627\u0644\u062a\u062c\u0627\u0646\u0633\u0631",
-            "id": 16,
-            "bbox": [
-                215,
-                682,
-                268,
-                698
+                668,
+                489,
+                715,
+                521
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RADIANT",
-                "CREAMY",
-                "CONCEALER"
+                "CARRYOV",
+                "MINI",
+                "INDUSTRIAL",
+                "BELT"
             ],
             "value_id": [
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:26:32"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July",
-                "08,2020"
-            ],
-            "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "165.00"
-            ],
-            "value_id": [
-                7
+                7,
+                8,
+                9,
+                10
             ]
         },
         {
@@ -228,14 +144,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u0642\u0644\u0645",
-                "\u062a\u0635\u062d\u064a\u062d",
-                "\u0627\u0644\u062a\u062c\u0627\u0646\u0633\u0631"
+                "jal"
             ],
             "value_id": [
-                14,
-                15,
-                16
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1."
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -243,14 +166,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SEPHORA",
-                "DUBAI",
-                "MALL"
+                "Off-WhiteM"
             ],
             "value_id": [
-                1,
-                2,
-                3
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "335.00"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -258,10 +188,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "024512272699"
+                "OMRB021F196470036000"
             ],
             "value_id": [
-                13
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7:28:56",
+                "PM"
+            ],
+            "value_id": [
+                2,
+                3
             ]
         },
         {
@@ -269,10 +212,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "165.00"
+                "335.80"
             ],
             "value_id": [
-                8
+                5
             ]
         }
     ],

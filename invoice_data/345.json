@@ -1,118 +1,132 @@
 {
     "text_boxes": [
         {
-            "text": "GIVENCHY",
+            "text": "ZRN",
             "id": 1,
             "bbox": [
-                180,
-                227,
-                363,
-                246
+                396,
+                64,
+                557,
+                159
             ]
         },
         {
-            "text": "07/04/2020",
+            "text": "10-07-2020",
             "id": 2,
             "bbox": [
-                264,
-                367,
-                310,
-                374
+                274,
+                390,
+                362,
+                410
             ]
         },
         {
-            "text": "1.",
+            "text": "15:50",
             "id": 3,
             "bbox": [
-                511,
-                796,
-                513,
-                803
+                375,
+                398,
+                418,
+                413
             ]
         },
         {
-            "text": "1,850.00",
+            "text": "188",
             "id": 4,
             "bbox": [
-                493,
-                881,
-                529,
-                889
+                560,
+                712,
+                584,
+                725
             ]
         },
         {
-            "text": "1,850.00",
+            "text": "129",
             "id": 5,
             "bbox": [
-                618,
-                531,
-                654,
-                541
+                566,
+                510,
+                589,
+                522
             ]
         },
         {
-            "text": "1",
+            "text": "0466140280003",
             "id": 6,
             "bbox": [
-                571,
-                535,
-                573,
-                541
+                358,
+                515,
+                473,
+                535
             ]
         },
         {
-            "text": "T-HIRTPOLO",
+            "text": "BLAZER",
             "id": 7,
             "bbox": [
-                288,
-                525,
-                341,
-                532
+                493,
+                527,
+                544,
+                543
             ]
         },
         {
-            "text": "BM70YL3002",
+            "text": "0625401780002",
             "id": 8,
             "bbox": [
-                76,
-                541,
-                132,
-                551
+                355,
+                562,
+                470,
+                583
+            ]
+        },
+        {
+            "text": "NAISTCOAT",
+            "id": 9,
+            "bbox": [
+                490,
+                574,
+                567,
+                589
+            ]
+        },
+        {
+            "text": "10001033",
+            "id": 10,
+            "bbox": [
+                267,
+                507,
+                338,
+                525
+            ]
+        },
+        {
+            "text": "10002063",
+            "id": 11,
+            "bbox": [
+                264,
+                555,
+                334,
+                571
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "T-HIRTPOLO"
+                "0466140280003",
+                "BLAZER",
+                "0625401780002",
+                "NAISTCOAT"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                3
+                6,
+                7,
+                8,
+                9
             ]
         },
         {
@@ -120,21 +134,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07/04/2020"
+                "10-07-2020"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,850.00"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -142,10 +145,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GIVENCHY"
+                "ZRN"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "188"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -153,10 +167,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BM70YL3002"
+                "10001033",
+                "10002063"
             ],
             "value_id": [
-                8
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:50"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -164,7 +191,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,850.00"
+                "129"
             ],
             "value_id": [
                 5

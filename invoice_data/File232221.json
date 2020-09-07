@@ -1,0 +1,204 @@
+{
+    "text_boxes": [
+        {
+            "text": "Lifestyle",
+            "id": 1,
+            "bbox": [
+                217,
+                156,
+                362,
+                182
+            ]
+        },
+        {
+            "text": "Nutrition",
+            "id": 2,
+            "bbox": [
+                382,
+                156,
+                529,
+                180
+            ]
+        },
+        {
+            "text": "10:08",
+            "id": 3,
+            "bbox": [
+                432,
+                375,
+                473,
+                389
+            ]
+        },
+        {
+            "text": "345.00",
+            "id": 4,
+            "bbox": [
+                513,
+                1028,
+                575,
+                1049
+            ]
+        },
+        {
+            "text": "2",
+            "id": 5,
+            "bbox": [
+                346,
+                617,
+                353,
+                632
+            ]
+        },
+        {
+            "text": "1",
+            "id": 6,
+            "bbox": [
+                350,
+                534,
+                353,
+                547
+            ]
+        },
+        {
+            "text": "Melatonin",
+            "id": 7,
+            "bbox": [
+                194,
+                531,
+                275,
+                546
+            ]
+        },
+        {
+            "text": "5Mg",
+            "id": 8,
+            "bbox": [
+                285,
+                532,
+                310,
+                549
+            ]
+        },
+        {
+            "text": "5Mg",
+            "id": 9,
+            "bbox": [
+                282,
+                617,
+                308,
+                633
+            ]
+        },
+        {
+            "text": "033984019362",
+            "id": 10,
+            "bbox": [
+                303,
+                513,
+                409,
+                529
+            ]
+        },
+        {
+            "text": "3.",
+            "id": 11,
+            "bbox": [
+                548,
+                848,
+                557,
+                865
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "033984019362"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "1"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "345.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3."
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Lifestyle",
+                "Nutrition"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Melatonin",
+                "5Mg",
+                "5Mg"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10:08"
+            ],
+            "value_id": [
+                3
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/220.jpg"
+    }
+}

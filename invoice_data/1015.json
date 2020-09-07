@@ -1,0 +1,159 @@
+{
+    "text_boxes": [
+        {
+            "text": "CHANEL",
+            "id": 1,
+            "bbox": [
+                324,
+                296,
+                529,
+                333
+            ]
+        },
+        {
+            "text": "July",
+            "id": 2,
+            "bbox": [
+                445,
+                392,
+                462,
+                400
+            ]
+        },
+        {
+            "text": "17,",
+            "id": 3,
+            "bbox": [
+                468,
+                392,
+                481,
+                400
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                488,
+                392,
+                510,
+                399
+            ]
+        },
+        {
+            "text": "15:03",
+            "id": 5,
+            "bbox": [
+                520,
+                392,
+                547,
+                400
+            ]
+        },
+        {
+            "text": "14,890.00",
+            "id": 6,
+            "bbox": [
+                620,
+                558,
+                669,
+                567
+            ]
+        },
+        {
+            "text": "FLAPBAG",
+            "id": 7,
+            "bbox": [
+                168,
+                554,
+                216,
+                562
+            ]
+        },
+        {
+            "text": "AS0874Y0463494305",
+            "id": 8,
+            "bbox": [
+                168,
+                583,
+                274,
+                592
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FLAPBAG"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "17,",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AS0874Y0463494305"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:03"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14,890.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1015.jpg"
+    }
+}

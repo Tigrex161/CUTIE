@@ -1,142 +1,98 @@
 {
     "text_boxes": [
         {
-            "text": "LOEWE",
+            "text": "Glig",
             "id": 1,
             "bbox": [
-                434,
-                485,
-                1899,
-                959
+                134,
+                349,
+                173,
+                371
             ]
         },
         {
-            "text": "07/13/2020",
+            "text": "o",
             "id": 2,
             "bbox": [
-                509,
-                1077,
-                659,
-                1113
+                173,
+                355,
+                193,
+                365
             ]
         },
         {
-            "text": "1,200.00",
+            "text": "Mauzan",
             "id": 3,
             "bbox": [
-                1491,
-                1670,
-                1614,
-                1700
+                133,
+                364,
+                194,
+                383
             ]
         },
         {
-            "text": "1,142.86",
+            "text": "2708/2020",
             "id": 4,
             "bbox": [
-                1739,
-                1405,
-                1854,
-                1436
+                550,
+                448,
+                611,
+                461
             ]
         },
         {
-            "text": "1",
+            "text": "2,000.00",
             "id": 5,
             "bbox": [
-                1307,
-                1387,
-                1316,
-                1408
+                635,
+                946,
+                684,
+                958
             ]
         },
         {
-            "text": "1",
+            "text": "2,000.00",
             "id": 6,
             "bbox": [
-                1601,
-                1732,
-                1609,
-                1753
+                641,
+                618,
+                692,
+                631
             ]
         },
         {
-            "text": "Paula's",
+            "text": "MAUZAN",
             "id": 7,
             "bbox": [
-                590,
-                1394,
-                696,
-                1423
+                186,
+                632,
+                241,
+                645
             ]
         },
         {
-            "text": "Small",
+            "text": "ABAYA",
             "id": 8,
             "bbox": [
-                704,
-                1389,
-                785,
-                1414
-            ]
-        },
-        {
-            "text": "Sunglas",
-            "id": 9,
-            "bbox": [
-                795,
-                1383,
-                914,
-                1416
-            ]
-        },
-        {
-            "text": "0010446490",
-            "id": 10,
-            "bbox": [
-                350,
-                1411,
-                504,
-                1445
+                246,
+                633,
+                290,
+                646
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Paula's",
-                "Small",
-                "Sunglas"
+                "MAUZAN",
+                "ABAYA"
             ],
             "value_id": [
                 7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
+                8
             ]
         },
         {
@@ -144,21 +100,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07/13/2020"
+                "2708/2020"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,200.00"
-            ],
-            "value_id": [
-                3
+                4
             ]
         },
         {
@@ -166,21 +111,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOEWE"
+                "Glig",
+                "o",
+                "Mauzan"
             ],
             "value_id": [
-                1
+                1,
+                2,
+                3
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0010446490"
+                "2,000.00"
             ],
             "value_id": [
-                10
+                5
             ]
         },
         {
@@ -188,10 +137,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,142.86"
+                "2,000.00"
             ],
             "value_id": [
-                4
+                6
             ]
         }
     ],

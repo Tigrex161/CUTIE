@@ -1,133 +1,113 @@
 {
     "text_boxes": [
         {
-            "text": "Emax",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                530,
-                219,
-                709,
-                271
+                354,
+                159,
+                465,
+                207
             ]
         },
         {
-            "text": "21-Jul-2020",
+            "text": "23/07/2020",
             "id": 2,
             "bbox": [
-                271,
-                406,
-                312,
-                414
+                125,
+                684,
+                169,
+                694
             ]
         },
         {
-            "text": "12:40",
+            "text": "19:08:42",
             "id": 3,
             "bbox": [
-                325,
-                405,
-                343,
-                413
+                173,
+                686,
+                206,
+                694
             ]
         },
         {
-            "text": "21PM",
+            "text": "14,700.00",
             "id": 4,
             "bbox": [
-                347,
-                405,
-                367,
-                412
+                672,
+                559,
+                704,
+                564
             ]
         },
         {
-            "text": "104",
+            "text": "14.200.00",
             "id": 5,
             "bbox": [
-                663,
-                609,
-                679,
-                619
+                674,
+                514,
+                706,
+                521
             ]
         },
         {
-            "text": "00",
+            "text": "WAT",
             "id": 6,
             "bbox": [
-                681,
-                608,
-                690,
-                618
+                145,
+                481,
+                159,
+                490
             ]
         },
         {
-            "text": "PHILIPS",
+            "text": "NEW",
             "id": 7,
             "bbox": [
-                237,
-                535,
-                259,
-                542
+                161,
+                482,
+                174,
+                491
             ]
         },
         {
-            "text": "WRELESS",
+            "text": "PANTHENESM",
             "id": 8,
             "bbox": [
-                262,
-                533,
-                294,
-                542
+                177,
+                484,
+                219,
+                489
             ]
         },
         {
-            "text": "MOUSE",
+            "text": "SIERSTEL",
             "id": 9,
             "bbox": [
-                296,
-                533,
-                314,
-                541
+                222,
+                485,
+                258,
+                492
             ]
         },
         {
-            "text": "SPK41PHILPS",
+            "text": "arn",
             "id": 10,
             "bbox": [
-                317,
-                532,
-                364,
-                541
+                261,
+                486,
+                271,
+                492
             ]
         },
         {
-            "text": "240",
+            "text": "WSPNO00",
             "id": 11,
             "bbox": [
-                236,
-                542,
-                251,
-                549
-            ]
-        },
-        {
-            "text": "WRELESS",
-            "id": 12,
-            "bbox": [
-                253,
-                541,
-                280,
-                549
-            ]
-        },
-        {
-            "text": "MOUSEDP",
-            "id": 13,
-            "bbox": [
-                282,
-                540,
-                313,
-                549
+                185,
+                493,
+                225,
+                501
             ]
         }
     ],
@@ -137,35 +117,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PHILIPS",
-                "WRELESS",
-                "MOUSE",
-                "SPK41PHILPS",
-                "240",
-                "WRELESS",
-                "MOUSEDP"
+                "WAT",
+                "NEW",
+                "PANTHENESM",
+                "SIERSTEL",
+                "arn"
             ],
             "value_id": [
+                6,
                 7,
                 8,
                 9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:40",
-                "21PM"
-            ],
-            "value_id": [
-                3,
-                4
+                10
             ]
         },
         {
@@ -173,23 +136,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21-Jul-2020"
+                "23/07/2020"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "104",
-                "00"
-            ],
-            "value_id": [
-                5,
-                6
             ]
         },
         {
@@ -197,10 +147,54 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Emax"
+                "Cartier"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14,700.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WSPNO00"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:08:42"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14.200.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

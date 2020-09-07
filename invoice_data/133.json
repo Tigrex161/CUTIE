@@ -1,172 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "GRAN",
             "id": 1,
             "bbox": [
-                330,
-                106,
-                421,
-                161
+                156,
+                456,
+                395,
+                523
             ]
         },
         {
-            "text": "SHOES",
+            "text": "CAFT\u00c8",
             "id": 2,
             "bbox": [
-                348,
-                164,
-                401,
-                176
+                420,
+                444,
+                679,
+                527
             ]
         },
         {
-            "text": "Jul,",
+            "text": "7/3/2020",
             "id": 3,
             "bbox": [
-                469,
-                279,
-                493,
-                290
+                153,
+                762,
+                253,
+                788
             ]
         },
         {
-            "text": "2020",
+            "text": "6:54",
             "id": 4,
             "bbox": [
-                503,
-                281,
-                528,
-                292
+                268,
+                764,
+                315,
+                785
             ]
         },
         {
-            "text": "19:03",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                536,
-                284,
-                567,
-                295
+                329,
+                763,
+                351,
+                785
             ]
         },
         {
-            "text": "2,",
+            "text": "AED54.00",
             "id": 6,
             "bbox": [
-                593,
-                521,
-                602,
-                531
+                550,
+                884,
+                647,
+                910
             ]
         },
         {
-            "text": "700.00",
+            "text": "AED64.00",
             "id": 7,
             "bbox": [
-                607,
-                521,
-                645,
-                529
+                550,
+                915,
+                648,
+                942
             ]
         },
         {
-            "text": "2,700.00",
+            "text": "2",
             "id": 8,
             "bbox": [
-                595,
-                433,
-                646,
-                442
+                189,
+                887,
+                201,
+                909
             ]
         },
         {
-            "text": "1.",
+            "text": "Dolce",
             "id": 9,
             "bbox": [
-                433,
-                430,
-                436,
-                438
+                215,
+                883,
+                277,
+                908
             ]
         },
         {
-            "text": "DIOR",
+            "text": "latte",
             "id": 10,
             "bbox": [
-                110,
-                417,
-                136,
-                426
+                294,
+                881,
+                351,
+                906
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "FRENCH",
             "id": 11,
             "bbox": [
-                143,
-                411,
-                198,
-                426
+                216,
+                915,
+                290,
+                938
             ]
         },
         {
-            "text": "SHOES",
+            "text": "TOAST",
             "id": 12,
             "bbox": [
-                199,
-                409,
-                226,
-                423
-            ]
-        },
-        {
-            "text": "isi",
-            "id": 13,
-            "bbox": [
-                283,
-                404,
-                315,
-                417
+                305,
+                912,
+                363,
+                936
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR",
-                "WOMENS",
-                "SHOES"
+                "Dolce",
+                "latte",
+                "FRENCH",
+                "TOAST"
             ],
             "value_id": [
+                9,
                 10,
                 11,
                 12
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19:03"
+                "2"
             ],
             "value_id": [
-                5
+                8
             ]
         },
         {
@@ -174,36 +155,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "7/3/2020"
             ],
             "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,",
-                "700.00"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "isi"
-            ],
-            "value_id": [
-                13
+                3
             ]
         },
         {
@@ -211,8 +166,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "level",
-                "SHOES"
+                "GRAN",
+                "CAFT\u00c8"
             ],
             "value_id": [
                 1,
@@ -220,14 +175,29 @@
             ]
         },
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6:54",
+                "PM"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
             "field_name": "item_price",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,700.00"
+                "AED54.00",
+                "AED64.00"
             ],
             "value_id": [
-                8
+                6,
+                7
             ]
         }
     ],

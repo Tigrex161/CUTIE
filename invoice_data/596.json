@@ -1,113 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "CHANEL",
+            "text": "09/07/2020",
             "id": 1,
             "bbox": [
-                246,
-                267,
-                485,
-                311
+                394,
+                2549,
+                521,
+                2576
             ]
         },
         {
-            "text": "JOAILLERIE",
+            "text": "18:45:51",
             "id": 2,
             "bbox": [
-                299,
-                322,
-                434,
-                348
+                527,
+                2549,
+                622,
+                2569
             ]
         },
         {
-            "text": "July",
+            "text": "3,800.00",
             "id": 3,
             "bbox": [
-                389,
-                374,
-                412,
-                388
+                1875,
+                2133,
+                1954,
+                2149
             ]
         },
         {
-            "text": "17,",
+            "text": "3,800.00",
             "id": 4,
             "bbox": [
-                417,
-                374,
-                434,
-                387
+                1862,
+                2016,
+                1950,
+                2039
             ]
         },
         {
-            "text": "2020",
+            "text": "1",
             "id": 5,
             "bbox": [
-                439,
-                372,
-                469,
-                385
+                1036,
+                2039,
+                1044,
+                2052
             ]
         },
         {
-            "text": "11:55",
+            "text": "DIAMANTS",
             "id": 6,
             "bbox": [
-                478,
-                371,
-                511,
-                383
+                455,
+                2009,
+                543,
+                2024
             ]
         },
         {
-            "text": "WATCHES",
+            "text": "LEGERS",
             "id": 7,
             "bbox": [
-                63,
-                567,
-                123,
-                582
+                547,
+                2009,
+                608,
+                2024
             ]
         },
         {
-            "text": "REPAIRS",
+            "text": "NECKLACE",
             "id": 8,
             "bbox": [
-                129,
-                567,
-                186,
-                581
+                613,
+                2006,
+                697,
+                2021
             ]
         },
         {
-            "text": "ole",
+            "text": "PG",
             "id": 9,
             "bbox": [
-                53,
-                585,
-                74,
-                601
+                702,
+                2006,
+                724,
+                2018
             ]
         },
         {
-            "text": "450.00",
+            "text": "PINK",
             "id": 10,
             "bbox": [
-                631,
-                554,
-                674,
-                566
+                730,
+                2005,
+                768,
+                2017
             ]
         },
         {
-            "text": "450,00",
+            "text": "SAPHIRE",
             "id": 11,
             "bbox": [
-                550,
-                639,
-                596,
-                649
+                774,
+                2004,
+                844,
+                2018
+            ]
+        },
+        {
+            "text": "87218400",
+            "id": 12,
+            "bbox": [
+                564,
+                2032,
+                666,
+                2049
             ]
         }
     ],
@@ -117,23 +127,31 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WATCHES",
-                "REPAIRS"
+                "DIAMANTS",
+                "LEGERS",
+                "NECKLACE",
+                "PG",
+                "PINK",
+                "SAPHIRE"
             ],
             "value_id": [
+                6,
                 7,
-                8
+                8,
+                9,
+                10,
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:55"
+                "1"
             ],
             "value_id": [
-                6
+                5
             ]
         },
         {
@@ -141,14 +159,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "17,",
-                "2020"
+                "09/07/2020"
             ],
             "value_id": [
-                3,
-                4,
-                5
+                1
             ]
         },
         {
@@ -156,33 +170,31 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "450,00"
+                "3,800.00"
             ],
             "value_id": [
-                11
+                3
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ole"
+                "87218400"
             ],
             "value_id": [
-                9
+                12
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHANEL",
-                "JOAILLERIE"
+                "18:45:51"
             ],
             "value_id": [
-                1,
                 2
             ]
         },
@@ -191,10 +203,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "450.00"
+                "3,800.00"
             ],
             "value_id": [
-                10
+                4
             ]
         }
     ],

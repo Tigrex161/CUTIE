@@ -1,114 +1,264 @@
 {
     "text_boxes": [
         {
-            "text": "July",
+            "text": "Entrec\u00f4te",
             "id": 1,
             "bbox": [
-                430,
-                411,
-                448,
-                422
+                208,
+                261,
+                364,
+                284
             ]
         },
         {
-            "text": "19,",
+            "text": "Caf\u00e9",
             "id": 2,
             "bbox": [
-                454,
-                411,
-                467,
-                421
+                378,
+                261,
+                448,
+                281
             ]
         },
         {
-            "text": "2020",
+            "text": "de",
             "id": 3,
             "bbox": [
-                473,
-                411,
-                496,
-                420
+                462,
+                260,
+                498,
+                279
             ]
         },
         {
-            "text": "20:59",
+            "text": "Paris",
             "id": 4,
             "bbox": [
-                505,
-                409,
-                533,
-                419
+                512,
+                259,
+                591,
+                281
             ]
         },
         {
-            "text": "11,700.00",
+            "text": "21-Jul-2020",
             "id": 5,
             "bbox": [
-                540,
-                737,
-                595,
-                746
+                108,
+                575,
+                243,
+                594
             ]
         },
         {
-            "text": "11,700.00",
+            "text": "07:57",
             "id": 6,
             "bbox": [
-                612,
-                572,
-                662,
-                583
+                600,
+                570,
+                657,
+                588
             ]
         },
         {
-            "text": "1.",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                403,
-                578,
-                407,
-                586
+                667,
+                568,
+                699,
+                588
             ]
         },
         {
-            "text": "O-MISCELLANEOUS",
+            "text": "297.50",
             "id": 8,
             "bbox": [
-                149,
-                573,
-                259,
-                585
+                588,
+                842,
+                693,
+                873
             ]
         },
         {
-            "text": "AP119380279410601",
+            "text": "175.00",
             "id": 9,
             "bbox": [
-                149,
-                604,
-                259,
-                614
+                630,
+                666,
+                705,
+                688
+            ]
+        },
+        {
+            "text": "175.00",
+            "id": 10,
+            "bbox": [
+                630,
+                698,
+                704,
+                720
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                108,
+                713,
+                115,
+                731
+            ]
+        },
+        {
+            "text": "Beef",
+            "id": 12,
+            "bbox": [
+                166,
+                676,
+                222,
+                695
+            ]
+        },
+        {
+            "text": "New",
+            "id": 13,
+            "bbox": [
+                233,
+                674,
+                286,
+                694
+            ]
+        },
+        {
+            "text": "Zealand",
+            "id": 14,
+            "bbox": [
+                296,
+                672,
+                391,
+                693
+            ]
+        },
+        {
+            "text": "Beef",
+            "id": 15,
+            "bbox": [
+                167,
+                709,
+                223,
+                730
+            ]
+        },
+        {
+            "text": "New",
+            "id": 16,
+            "bbox": [
+                233,
+                709,
+                287,
+                728
+            ]
+        },
+        {
+            "text": "Zealand",
+            "id": 17,
+            "bbox": [
+                296,
+                707,
+                391,
+                728
+            ]
+        },
+        {
+            "text": "a",
+            "id": 18,
+            "bbox": [
+                486,
+                704,
+                513,
+                726
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "O-MISCELLANEOUS"
+                "Beef",
+                "New",
+                "Zealand",
+                "Beef",
+                "New",
+                "Zealand"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "a"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21-Jul-2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Entrec\u00f4te",
+                "Caf\u00e9",
+                "de",
+                "Paris"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "297.50"
             ],
             "value_id": [
                 8
@@ -119,47 +269,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:59"
+                "07:57",
+                "PM"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July",
-                "19,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11,700.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AP119380279410601"
-            ],
-            "value_id": [
-                9
+                6,
+                7
             ]
         },
         {
@@ -167,10 +282,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11,700.00"
+                "175.00",
+                "175.00"
             ],
             "value_id": [
-                6
+                9,
+                10
             ]
         }
     ],

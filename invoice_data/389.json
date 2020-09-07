@@ -1,113 +1,103 @@
 {
     "text_boxes": [
         {
-            "text": "Cartier",
+            "text": "PHARMAGY",
             "id": 1,
             "bbox": [
-                338,
-                209,
-                468,
-                247
+                368,
+                223,
+                414,
+                230
             ]
         },
         {
-            "text": "JOAILLIERS",
+            "text": "16otrc20",
             "id": 2,
             "bbox": [
-                366,
-                255,
-                443,
-                262
+                330,
+                418,
+                365,
+                427
             ]
         },
         {
-            "text": "05/07/2020",
+            "text": "1452",
             "id": 3,
             "bbox": [
-                126,
-                727,
-                171,
-                735
+                372,
+                418,
+                388,
+                426
             ]
         },
         {
-            "text": "12:09.24",
+            "text": "113.40",
             "id": 4,
             "bbox": [
-                175,
-                727,
-                208,
-                733
+                480,
+                784,
+                511,
+                790
             ]
         },
         {
-            "text": "L3001661",
+            "text": "113.40",
             "id": 5,
             "bbox": [
-                196,
-                550,
-                231,
-                558
+                488,
+                613,
+                510,
+                621
             ]
         },
         {
-            "text": "Leather",
+            "text": "1.00",
             "id": 6,
             "bbox": [
-                96,
-                544,
-                119,
-                548
+                280,
+                618,
+                292,
+                625
             ]
         },
         {
-            "text": "Goods",
+            "text": "DOCTORS",
             "id": 7,
             "bbox": [
-                123,
-                542,
-                141,
-                548
+                283,
+                600,
+                325,
+                608
             ]
         },
         {
-            "text": "CARD",
+            "text": "NIGHT",
             "id": 8,
             "bbox": [
-                154,
-                541,
-                170,
-                546
+                329,
+                598,
+                353,
+                606
             ]
         },
         {
-            "text": "MUST",
+            "text": "GUARD",
             "id": 9,
             "bbox": [
-                200,
-                541,
-                217,
-                546
+                359,
+                597,
+                389,
+                607
             ]
         },
         {
-            "text": "NOK",
+            "text": "100",
             "id": 10,
             "bbox": [
-                235,
-                541,
-                248,
-                546
-            ]
-        },
-        {
-            "text": "830.00",
-            "id": 11,
-            "bbox": [
-                689,
-                661,
-                716,
-                669
+                395,
+                695,
+                407,
+                703
             ]
         }
     ],
@@ -117,29 +107,36 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Leather",
-                "Goods",
-                "CARD",
-                "MUST",
-                "NOK"
+                "DOCTORS",
+                "NIGHT",
+                "GUARD"
             ],
             "value_id": [
-                6,
                 7,
                 8,
-                9,
+                9
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100"
+            ],
+            "value_id": [
                 10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:09.24"
+                "1.00"
             ],
             "value_id": [
-                4
+                6
             ]
         },
         {
@@ -147,21 +144,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "05/07/2020"
+                "16otrc20"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "830.00"
-            ],
-            "value_id": [
-                11
+                2
             ]
         },
         {
@@ -169,20 +155,40 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Cartier",
-                "JOAILLIERS"
+                "PHARMAGY"
             ],
             "value_id": [
-                1,
-                2
+                1
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L3001661"
+                "113.40"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1452"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "113.40"
             ],
             "value_id": [
                 5

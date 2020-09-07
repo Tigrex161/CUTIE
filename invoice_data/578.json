@@ -1,123 +1,143 @@
 {
     "text_boxes": [
         {
-            "text": "Jardin",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                288,
-                115,
-                413,
-                170
+                652,
+                518,
+                689,
+                535
             ]
         },
         {
-            "text": "de",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                420,
-                140,
-                450,
-                170
+                705,
+                515,
+                747,
+                530
             ]
         },
         {
-            "text": "Parfums",
+            "text": "15:59",
             "id": 3,
             "bbox": [
-                269,
-                159,
-                490,
-                224
+                760,
+                512,
+                814,
+                529
             ]
         },
         {
-            "text": "18/07/20",
+            "text": "2,",
             "id": 4,
             "bbox": [
-                389,
-                430,
-                442,
-                444
+                824,
+                898,
+                838,
+                911
             ]
         },
         {
-            "text": "08:27",
+            "text": "695.00",
             "id": 5,
             "bbox": [
-                478,
-                426,
-                512,
-                440
+                846,
+                898,
+                910,
+                910
             ]
         },
         {
-            "text": "625.00",
+            "text": "2,695.00",
             "id": 6,
             "bbox": [
-                438,
-                532,
-                478,
-                544
-            ]
-        },
-        {
-            "text": "WHITE",
-            "id": 7,
-            "bbox": [
-                221,
-                536,
-                255,
-                548
-            ]
-        },
-        {
-            "text": "SUGAR",
-            "id": 8,
-            "bbox": [
-                263,
-                535,
-                296,
-                547
-            ]
-        },
-        {
-            "text": "FLOWER",
-            "id": 9,
-            "bbox": [
-                306,
-                535,
-                345,
-                547
-            ]
-        },
-        {
-            "text": "100ml",
-            "id": 10,
-            "bbox": [
-                355,
-                533,
-                386,
-                548
+                835,
+                756,
+                922,
+                773
             ]
         },
         {
             "text": "1",
-            "id": 11,
+            "id": 7,
             "bbox": [
-                480,
-                660,
-                481,
-                671
+                583,
+                766,
+                588,
+                777
             ]
         },
         {
-            "text": "562.50",
+            "text": "CLNWN_BAG:CHRISTIAN",
+            "id": 8,
+            "bbox": [
+                100,
+                731,
+                304,
+                749
+            ]
+        },
+        {
+            "text": "LOUBOUTIN",
+            "id": 9,
+            "bbox": [
+                316,
+                734,
+                407,
+                745
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 10,
+            "bbox": [
+                420,
+                735,
+                478,
+                746
+            ]
+        },
+        {
+            "text": "BAGS",
+            "id": 11,
+            "bbox": [
+                491,
+                734,
+                527,
+                745
+            ]
+        },
+        {
+            "text": "L",
             "id": 12,
             "bbox": [
-                463,
-                712,
-                505,
-                726
+                574,
+                730,
+                582,
+                749
+            ]
+        },
+        {
+            "text": "y",
+            "id": 13,
+            "bbox": [
+                613,
+                736,
+                631,
+                746
+            ]
+        },
+        {
+            "text": "wi",
+            "id": 14,
+            "bbox": [
+                645,
+                731,
+                692,
+                745
             ]
         }
     ],
@@ -127,38 +147,42 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WHITE",
-                "SUGAR",
-                "FLOWER",
-                "100ml"
+                "CLNWN_BAG:CHRISTIAN",
+                "LOUBOUTIN",
+                "WOMENS",
+                "BAGS"
             ],
             "value_id": [
-                7,
                 8,
                 9,
-                10
+                10,
+                11
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L",
+                "y",
+                "wi"
+            ],
+            "value_id": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
                 "1"
             ],
             "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "08:27"
-            ],
-            "value_id": [
-                5
+                7
             ]
         },
         {
@@ -166,10 +190,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18/07/20"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
-                4
+                1,
+                2
             ]
         },
         {
@@ -177,24 +203,22 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "562.50"
+                "2,",
+                "695.00"
             ],
             "value_id": [
-                12
+                4,
+                5
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jardin",
-                "de",
-                "Parfums"
+                "15:59"
             ],
             "value_id": [
-                1,
-                2,
                 3
             ]
         },
@@ -203,7 +227,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "625.00"
+                "2,695.00"
             ],
             "value_id": [
                 6

@@ -1,0 +1,294 @@
+{
+    "text_boxes": [
+        {
+            "text": "NIKE",
+            "id": 1,
+            "bbox": [
+                313,
+                146,
+                367,
+                156
+            ]
+        },
+        {
+            "text": "BEACON",
+            "id": 2,
+            "bbox": [
+                376,
+                145,
+                448,
+                156
+            ]
+        },
+        {
+            "text": "18/07/2020",
+            "id": 3,
+            "bbox": [
+                279,
+                237,
+                340,
+                250
+            ]
+        },
+        {
+            "text": "14:10",
+            "id": 4,
+            "bbox": [
+                278,
+                257,
+                308,
+                269
+            ]
+        },
+        {
+            "text": "408.00",
+            "id": 5,
+            "bbox": [
+                485,
+                880,
+                525,
+                893
+            ]
+        },
+        {
+            "text": "279.00",
+            "id": 6,
+            "bbox": [
+                477,
+                517,
+                516,
+                532
+            ]
+        },
+        {
+            "text": "129.00",
+            "id": 7,
+            "bbox": [
+                480,
+                602,
+                515,
+                615
+            ]
+        },
+        {
+            "text": "8",
+            "id": 8,
+            "bbox": [
+                167,
+                621,
+                178,
+                637
+            ]
+        },
+        {
+            "text": "NSW",
+            "id": 9,
+            "bbox": [
+                179,
+                621,
+                195,
+                633
+            ]
+        },
+        {
+            "text": "TEE",
+            "id": 10,
+            "bbox": [
+                205,
+                621,
+                221,
+                633
+            ]
+        },
+        {
+            "text": "WR",
+            "id": 11,
+            "bbox": [
+                230,
+                621,
+                242,
+                633
+            ]
+        },
+        {
+            "text": "CHEVRON",
+            "id": 12,
+            "bbox": [
+                250,
+                618,
+                293,
+                633
+            ]
+        },
+        {
+            "text": "NKCV2167-100",
+            "id": 13,
+            "bbox": [
+                168,
+                599,
+                242,
+                614
+            ]
+        },
+        {
+            "text": "\u062a\u064a\u0634\u0631\u0646\u0647",
+            "id": 14,
+            "bbox": [
+                234,
+                643,
+                260,
+                657
+            ]
+        },
+        {
+            "text": "\u0646\u0627\u067e\u06cc\u06a9\u064a",
+            "id": 15,
+            "bbox": [
+                201,
+                644,
+                227,
+                656
+            ]
+        },
+        {
+            "text": "\u062a\u0627\u064a\u0641\u0631\u0648\u0646",
+            "id": 16,
+            "bbox": [
+                166,
+                644,
+                194,
+                659
+            ]
+        },
+        {
+            "text": "2",
+            "id": 17,
+            "bbox": [
+                258,
+                735,
+                262,
+                747
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062a\u064a\u0634\u0631\u0646\u0647",
+                "\u0646\u0627\u067e\u06cc\u06a9\u064a",
+                "\u062a\u0627\u064a\u0641\u0631\u0648\u0646"
+            ],
+            "value_id": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:10"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8",
+                "NSW",
+                "TEE",
+                "WR",
+                "CHEVRON"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NKCV2167-100"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "279.00",
+                "129.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18/07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "408.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NIKE",
+                "BEACON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/21.jpg"
+    }
+}

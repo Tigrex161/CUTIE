@@ -1,246 +1,86 @@
 {
     "text_boxes": [
         {
-            "text": "FENDI",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                352,
-                276,
-                434,
-                304
+                248,
+                176,
+                521,
+                220
             ]
         },
         {
-            "text": "ROMA",
+            "text": "02-Jul-2020",
             "id": 2,
             "bbox": [
-                382,
-                307,
-                403,
-                314
+                216,
+                363,
+                297,
+                379
             ]
         },
         {
-            "text": "71y",
+            "text": "4:45:46",
             "id": 3,
             "bbox": [
-                172,
-                296,
-                193,
-                307
-            ]
-        },
-        {
-            "text": "2020",
-            "id": 4,
-            "bbox": [
-                195,
-                296,
-                210,
-                306
-            ]
-        },
-        {
-            "text": "84728",
-            "id": 5,
-            "bbox": [
-                217,
-                296,
-                242,
-                305
+                350,
+                368,
+                401,
+                381
             ]
         },
         {
             "text": "PM",
+            "id": 4,
+            "bbox": [
+                410,
+                366,
+                423,
+                381
+            ]
+        },
+        {
+            "text": "2,500.00",
+            "id": 5,
+            "bbox": [
+                454,
+                752,
+                510,
+                764
+            ]
+        },
+        {
+            "text": "213585871",
             "id": 6,
             "bbox": [
-                245,
-                297,
-                257,
-                304
+                241,
+                766,
+                302,
+                778
             ]
         },
         {
-            "text": "1,51429",
+            "text": "2,500.00",
             "id": 7,
             "bbox": [
-                669,
-                501,
-                700,
-                511
-            ]
-        },
-        {
-            "text": "1",
-            "id": 8,
-            "bbox": [
-                525,
-                503,
-                529,
-                515
-            ]
-        },
-        {
-            "text": "1",
-            "id": 9,
-            "bbox": [
-                523,
-                553,
-                524,
-                559
-            ]
-        },
-        {
-            "text": "CARD",
-            "id": 10,
-            "bbox": [
-                235,
-                512,
-                258,
-                519
-            ]
-        },
-        {
-            "text": "CASE/LOGO/",
-            "id": 11,
-            "bbox": [
-                263,
-                509,
-                319,
-                521
-            ]
-        },
-        {
-            "text": "CALF",
-            "id": 12,
-            "bbox": [
-                315,
-                511,
-                335,
-                518
-            ]
-        },
-        {
-            "text": "LEATHER",
-            "id": 13,
-            "bbox": [
-                338,
-                510,
-                376,
-                517
-            ]
-        },
-        {
-            "text": "ASPARAGO",
-            "id": 14,
-            "bbox": [
-                385,
-                508,
-                432,
-                517
-            ]
-        },
-        {
-            "text": "SOFT",
-            "id": 15,
-            "bbox": [
-                435,
-                508,
-                461,
-                515
-            ]
-        },
-        {
-            "text": "GC",
-            "id": 16,
-            "bbox": [
-                464,
-                508,
-                473,
-                515
-            ]
-        },
-        {
-            "text": "680847",
-            "id": 17,
-            "bbox": [
-                88,
-                512,
-                114,
-                520
+                457,
+                869,
+                514,
+                882
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CARD",
-                "CASE/LOGO/",
-                "CALF",
-                "LEATHER",
-                "ASPARAGO",
-                "SOFT",
-                "GC"
-            ],
-            "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "84728",
-                "PM"
-            ],
-            "value_id": [
-                5,
-                6
-            ]
-        },
-        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "71y",
-                "2020"
+                "02-Jul-2020"
             ],
             "value_id": [
-                3,
-                4
+                2
             ]
         },
         {
@@ -248,12 +88,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FENDI",
-                "ROMA"
+                "bloomingdales"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,500.00"
+            ],
+            "value_id": [
+                7
             ]
         },
         {
@@ -261,10 +110,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "680847"
+                "213585871"
             ],
             "value_id": [
-                17
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4:45:46",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
             ]
         },
         {
@@ -272,10 +134,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,51429"
+                "2,500.00"
             ],
             "value_id": [
-                7
+                5
             ]
         }
     ],

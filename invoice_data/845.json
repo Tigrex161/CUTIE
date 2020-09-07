@@ -1,174 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "MEGASTORE",
             "id": 1,
             "bbox": [
-                388,
-                99,
-                460,
-                140
+                227,
+                193,
+                325,
+                215
             ]
         },
         {
-            "text": "SHOES",
+            "text": "18/07/20",
             "id": 2,
             "bbox": [
-                400,
-                148,
-                445,
-                156
+                217,
+                713,
+                294,
+                730
             ]
         },
         {
-            "text": "Jul,",
+            "text": "21:37",
             "id": 3,
             "bbox": [
-                550,
-                292,
-                578,
-                303
+                307,
+                711,
+                355,
+                725
             ]
         },
         {
-            "text": "2020",
+            "text": "118.00",
             "id": 4,
             "bbox": [
-                591,
-                293,
-                621,
-                304
+                509,
+                418,
+                566,
+                436
             ]
         },
         {
-            "text": "18:",
+            "text": "59.00",
             "id": 5,
             "bbox": [
-                632,
-                296,
-                651,
-                305
+                515,
+                353,
+                563,
+                368
             ]
         },
         {
-            "text": "40",
+            "text": "ORLY",
             "id": 6,
             "bbox": [
-                656,
-                297,
-                669,
-                306
+                285,
+                367,
+                322,
+                381
             ]
         },
         {
-            "text": "PRIVATE",
+            "text": "BREATHABLE",
             "id": 7,
             "bbox": [
-                135,
-                425,
-                187,
-                438
+                336,
+                360,
+                432,
+                378
             ]
         },
         {
-            "text": "COLLECTION",
+            "text": "RE",
             "id": 8,
             "bbox": [
-                196,
-                429,
-                271,
-                442
+                445,
+                358,
+                462,
+                371
             ]
         },
         {
-            "text": "MENS",
+            "text": "ORLY",
             "id": 9,
             "bbox": [
-                279,
-                433,
-                309,
-                443
+                288,
+                410,
+                325,
+                425
             ]
         },
         {
-            "text": "SI-SLi",
+            "text": "BREATHABLE",
             "id": 10,
             "bbox": [
-                389,
-                439,
-                477,
-                453
+                338,
+                403,
+                434,
+                423
             ]
         },
         {
-            "text": "1.",
+            "text": "HA",
             "id": 11,
             "bbox": [
-                486,
-                467,
-                491,
-                475
+                447,
+                403,
+                464,
+                416
             ]
         },
         {
-            "text": "2,850.00",
+            "text": "59.00",
             "id": 12,
             "bbox": [
-                680,
-                476,
-                743,
-                488
-            ]
-        },
-        {
-            "text": "2,850.00",
-            "id": 13,
-            "bbox": [
-                669,
-                577,
-                736,
-                592
+                516,
+                397,
+                564,
+                412
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PRIVATE",
-                "COLLECTION",
-                "MENS"
+                "ORLY",
+                "BREATHABLE",
+                "RE",
+                "ORLY",
+                "BREATHABLE",
+                "HA"
             ],
             "value_id": [
+                6,
                 7,
                 8,
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18:",
-                "40"
-            ],
-            "value_id": [
-                5,
-                6
+                9,
+                10,
+                11
             ]
         },
         {
@@ -176,34 +148,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "18/07/20"
             ],
             "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,850.00"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SI-SLi"
-            ],
-            "value_id": [
-                10
+                2
             ]
         },
         {
@@ -211,12 +159,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "level",
-                "SHOES"
+                "MEGASTORE"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "118.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:37"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -224,9 +192,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,850.00"
+                "59.00",
+                "59.00"
             ],
             "value_id": [
+                5,
                 12
             ]
         }

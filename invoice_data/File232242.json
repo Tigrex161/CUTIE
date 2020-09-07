@@ -1,0 +1,183 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                325,
+                236,
+                354,
+                246
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                360,
+                235,
+                405,
+                245
+            ]
+        },
+        {
+            "text": "a7/07/2020",
+            "id": 3,
+            "bbox": [
+                483,
+                387,
+                530,
+                399
+            ]
+        },
+        {
+            "text": "1618",
+            "id": 4,
+            "bbox": [
+                545,
+                387,
+                567,
+                395
+            ]
+        },
+        {
+            "text": "1420.00",
+            "id": 5,
+            "bbox": [
+                592,
+                565,
+                629,
+                572
+            ]
+        },
+        {
+            "text": "A.420.00",
+            "id": 6,
+            "bbox": [
+                589,
+                435,
+                626,
+                442
+            ]
+        },
+        {
+            "text": "ME0503",
+            "id": 7,
+            "bbox": [
+                101,
+                448,
+                127,
+                454
+            ]
+        },
+        {
+            "text": "o.DE",
+            "id": 8,
+            "bbox": [
+                137,
+                447,
+                158,
+                453
+            ]
+        },
+        {
+            "text": "POCHE",
+            "id": 9,
+            "bbox": [
+                160,
+                446,
+                182,
+                453
+            ]
+        },
+        {
+            "text": "MNO",
+            "id": 10,
+            "bbox": [
+                203,
+                447,
+                215,
+                452
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1420.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ME0503",
+                "o.DE",
+                "POCHE",
+                "MNO"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1618"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "a7/07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A.420.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/241.jpg"
+    }
+}

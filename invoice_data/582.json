@@ -1,172 +1,179 @@
 {
     "text_boxes": [
         {
-            "text": "Van",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                256,
-                260,
-                317,
-                289
+                333,
+                302,
+                418,
+                326
             ]
         },
         {
-            "text": "Cleef",
+            "text": "KIDS",
             "id": 2,
             "bbox": [
-                332,
-                254,
+                394,
+                333,
                 419,
-                286
+                341
             ]
         },
         {
-            "text": "&",
+            "text": "7/",
             "id": 3,
             "bbox": [
-                430,
-                261,
-                449,
-                284
+                136,
+                312,
+                146,
+                322
             ]
         },
         {
-            "text": "Arpels",
+            "text": "12/",
             "id": 4,
             "bbox": [
-                462,
-                253,
-                564,
-                290
+                147,
+                315,
+                157,
+                322
             ]
         },
         {
-            "text": "20/07/2020",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                102,
-                942,
-                157,
-                956
+                160,
+                316,
+                179,
+                322
             ]
         },
         {
-            "text": "11:06:35",
+            "text": "1224:45",
             "id": 6,
             "bbox": [
-                162,
-                942,
-                202,
-                952
+                187,
+                315,
+                219,
+                324
             ]
         },
         {
-            "text": "5,200.00",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                770,
-                745,
-                805,
-                753
+                222,
+                316,
+                235,
+                323
             ]
         },
         {
-            "text": "5,200.00",
+            "text": "1290.00",
             "id": 8,
             "bbox": [
-                768,
-                690,
-                805,
-                700
+                670,
+                605,
+                702,
+                612
             ]
         },
         {
-            "text": "PEND",
+            "text": "1228.57",
             "id": 9,
             "bbox": [
-                114,
-                699,
-                134,
-                705
+                667,
+                540,
+                698,
+                548
             ]
         },
         {
-            "text": "SWEET",
+            "text": "1",
             "id": 10,
             "bbox": [
-                137,
-                697,
-                162,
-                704
+                515,
+                591,
+                518,
+                596
             ]
         },
         {
-            "text": "ALHA",
+            "text": "BSNEAKER/CALF",
             "id": 11,
             "bbox": [
-                165,
-                698,
-                184,
-                704
+                202,
+                543,
+                282,
+                551
             ]
         },
         {
-            "text": "YG",
+            "text": "LEATHER+INS.CAL",
             "id": 12,
             "bbox": [
-                186,
-                696,
-                195,
-                703
+                286,
+                543,
+                367,
+                551
             ]
         },
         {
-            "text": "CLOV",
+            "text": "BLACK+BLACK",
             "id": 13,
             "bbox": [
-                198,
-                696,
-                218,
-                702
+                377,
+                542,
+                440,
+                552
             ]
         },
         {
-            "text": "WMOP",
+            "text": "TOBA",
             "id": 14,
             "bbox": [
-                221,
-                694,
-                246,
-                702
+                442,
+                542,
+                462,
+                552
             ]
         },
         {
-            "text": "ARF69100",
+            "text": "751067",
             "id": 15,
             "bbox": [
-                165,
-                708,
-                210,
-                717
+                34,
+                543,
+                62,
+                550
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PEND",
-                "SWEET",
-                "ALHA",
-                "YG",
-                "CLOV",
-                "WMOP"
+                "BSNEAKER/CALF",
+                "LEATHER+INS.CAL",
+                "BLACK+BLACK",
+                "TOBA"
             ],
             "value_id": [
-                9,
-                10,
                 11,
                 12,
                 13,
@@ -174,36 +181,18 @@
             ]
         },
         {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:06:35"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20/07/2020"
+                "7/",
+                "12/",
+                "2020"
             ],
             "value_id": [
+                3,
+                4,
                 5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "5,200.00"
-            ],
-            "value_id": [
-                7
             ]
         },
         {
@@ -211,16 +200,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Van",
-                "Cleef",
-                "&",
-                "Arpels"
+                "FENDI",
+                "KIDS"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1290.00"
+            ],
+            "value_id": [
+                8
             ]
         },
         {
@@ -228,10 +224,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ARF69100"
+                "751067"
             ],
             "value_id": [
                 15
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1224:45",
+                "PM"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         },
         {
@@ -239,10 +248,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5,200.00"
+                "1228.57"
             ],
             "value_id": [
-                8
+                9
             ]
         }
     ],

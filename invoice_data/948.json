@@ -1,0 +1,276 @@
+{
+    "text_boxes": [
+        {
+            "text": "firingle",
+            "id": 1,
+            "bbox": [
+                331,
+                136,
+                491,
+                223
+            ]
+        },
+        {
+            "text": "01:03",
+            "id": 2,
+            "bbox": [
+                352,
+                635,
+                388,
+                650
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 3,
+            "bbox": [
+                396,
+                636,
+                410,
+                647
+            ]
+        },
+        {
+            "text": "152.00",
+            "id": 4,
+            "bbox": [
+                530,
+                968,
+                575,
+                981
+            ]
+        },
+        {
+            "text": "130.00",
+            "id": 5,
+            "bbox": [
+                533,
+                796,
+                575,
+                811
+            ]
+        },
+        {
+            "text": "22.00",
+            "id": 6,
+            "bbox": [
+                542,
+                888,
+                579,
+                904
+            ]
+        },
+        {
+            "text": "2",
+            "id": 7,
+            "bbox": [
+                337,
+                892,
+                343,
+                905
+            ]
+        },
+        {
+            "text": "5",
+            "id": 8,
+            "bbox": [
+                338,
+                800,
+                344,
+                812
+            ]
+        },
+        {
+            "text": "Cappuccino",
+            "id": 9,
+            "bbox": [
+                271,
+                763,
+                344,
+                777
+            ]
+        },
+        {
+            "text": "Aqua",
+            "id": 10,
+            "bbox": [
+                270,
+                856,
+                299,
+                869
+            ]
+        },
+        {
+            "text": "Morelli",
+            "id": 11,
+            "bbox": [
+                308,
+                852,
+                357,
+                868
+            ]
+        },
+        {
+            "text": "small",
+            "id": 12,
+            "bbox": [
+                368,
+                852,
+                402,
+                867
+            ]
+        },
+        {
+            "text": "\u0644\u0627",
+            "id": 13,
+            "bbox": [
+                332,
+                782,
+                338,
+                790
+            ]
+        },
+        {
+            "text": "\u0627\u0628\u0648",
+            "id": 14,
+            "bbox": [
+                311,
+                782,
+                327,
+                794
+            ]
+        },
+        {
+            "text": "\u062a\u0634\u06cc\u0646\u062f",
+            "id": 15,
+            "bbox": [
+                273,
+                783,
+                308,
+                794
+            ]
+        },
+        {
+            "text": "\u0645\u0627\u0621",
+            "id": 16,
+            "bbox": [
+                378,
+                872,
+                397,
+                886
+            ]
+        },
+        {
+            "text": "\u0635\u0641\u064a\u0631",
+            "id": 17,
+            "bbox": [
+                273,
+                874,
+                300,
+                888
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Cappuccino",
+                "Aqua",
+                "Morelli",
+                "small"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0644\u0627",
+                "\u0627\u0628\u0648",
+                "\u062a\u0634\u06cc\u0646\u062f",
+                "\u0645\u0627\u0621",
+                "\u0635\u0641\u064a\u0631"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "5"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "firingle"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "152.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "01:03",
+                "PM"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "130.00",
+                "22.00"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/948.jpg"
+    }
+}

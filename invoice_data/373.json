@@ -1,234 +1,148 @@
 {
     "text_boxes": [
         {
-            "text": "AL",
+            "text": "MOYNAT",
             "id": 1,
             "bbox": [
-                76,
-                195,
-                88,
-                202
+                501,
+                119,
+                648,
+                139
             ]
         },
         {
-            "text": "ANWAAR",
+            "text": "ARIS",
             "id": 2,
             "bbox": [
-                93,
-                194,
-                141,
-                204
+                560,
+                145,
+                589,
+                151
             ]
         },
         {
-            "text": "GOLDEN",
+            "text": "07/04/2020",
             "id": 3,
             "bbox": [
-                146,
-                197,
-                193,
-                207
+                788,
+                249,
+                876,
+                266
             ]
         },
         {
-            "text": "JEWELLERS",
+            "text": "10,850.00",
             "id": 4,
             "bbox": [
-                196,
-                201,
-                263,
-                214
+                777,
+                1041,
+                856,
+                1055
             ]
         },
         {
-            "text": "BR.DUBAI",
+            "text": "10,850.00",
             "id": 5,
             "bbox": [
-                267,
-                207,
-                320,
-                219
+                880,
+                706,
+                946,
+                718
             ]
         },
         {
-            "text": "as",
+            "text": "GABRIELLE",
             "id": 6,
             "bbox": [
-                73,
-                202,
-                93,
-                212
+                325,
+                699,
+                407,
+                717
             ]
         },
         {
-            "text": "oo",
+            "text": "BAG",
             "id": 7,
             "bbox": [
-                89,
-                206,
-                105,
-                212
+                412,
+                704,
+                444,
+                715
             ]
         },
         {
-            "text": "DUBAI",
+            "text": "BB.CARAT",
             "id": 8,
             "bbox": [
-                110,
-                207,
-                137,
-                213
+                450,
+                704,
+                526,
+                717
             ]
         },
         {
-            "text": "MALL",
+            "text": "PAL-C",
             "id": 9,
             "bbox": [
-                140,
-                208,
-                164,
-                216
+                532,
+                705,
+                572,
+                717
             ]
         },
         {
-            "text": "oco",
+            "text": "\u062d\u0642\u064a\u0628\u0629",
             "id": 10,
             "bbox": [
-                638,
-                283,
-                659,
-                295
+                442,
+                730,
+                471,
+                743
             ]
         },
         {
-            "text": "1,000.00",
+            "text": "\u062a\u0633\u0648\u062a\u062d\u0642\u064a\u0628\u0629",
             "id": 11,
             "bbox": [
-                642,
-                837,
-                675,
-                844
+                381,
+                728,
+                436,
+                743
             ]
         },
         {
-            "text": "3,000.00",
+            "text": "\u064a\u062f",
             "id": 12,
             "bbox": [
-                656,
-                371,
-                691,
-                378
+                366,
+                732,
+                375,
+                740
             ]
         },
         {
-            "text": "1.00",
+            "text": "C10525-0897",
             "id": 13,
             "bbox": [
-                538,
-                369,
-                555,
-                376
-            ]
-        },
-        {
-            "text": "DIAMOND",
-            "id": 14,
-            "bbox": [
-                143,
-                357,
-                190,
-                369
-            ]
-        },
-        {
-            "text": "RING",
-            "id": 15,
-            "bbox": [
-                193,
-                360,
-                216,
-                367
-            ]
-        },
-        {
-            "text": "1210383",
-            "id": 16,
-            "bbox": [
-                86,
-                353,
-                123,
-                364
+                139,
+                701,
+                233,
+                713
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIAMOND",
-                "RING"
+                "GABRIELLE",
+                "BAG",
+                "BB.CARAT",
+                "PAL-C"
             ],
             "value_id": [
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "oco"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,000.00"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AL",
-                "ANWAAR",
-                "GOLDEN",
-                "JEWELLERS",
-                "BR.DUBAI",
-                "as",
-                "oo",
-                "DUBAI",
-                "MALL"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
                 6,
                 7,
                 8,
@@ -236,14 +150,64 @@
             ]
         },
         {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062d\u0642\u064a\u0628\u0629",
+                "\u062a\u0633\u0648\u062a\u062d\u0642\u064a\u0628\u0629",
+                "\u064a\u062f"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/04/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MOYNAT",
+                "ARIS"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1210383"
+                "C10525-0897"
             ],
             "value_id": [
-                16
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10,850.00"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -251,10 +215,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,000.00"
+                "10,850.00"
             ],
             "value_id": [
-                12
+                5
             ]
         }
     ],

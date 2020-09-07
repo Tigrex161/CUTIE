@@ -1,147 +1,117 @@
 {
     "text_boxes": [
         {
-            "text": "FREDPERRY",
+            "text": "02Jul'20",
             "id": 1,
             "bbox": [
-                331,
-                357,
-                436,
-                374
+                329,
+                492,
+                391,
+                509
             ]
         },
         {
-            "text": "3:46",
+            "text": "39.00",
             "id": 2,
             "bbox": [
-                350,
-                474,
-                397,
-                493
+                289,
+                551,
+                326,
+                564
             ]
         },
         {
-            "text": "478.00",
+            "text": "78.00",
             "id": 3,
             "bbox": [
-                554,
-                848,
-                630,
-                870
-            ]
-        },
-        {
-            "text": "239",
-            "id": 4,
-            "bbox": [
-                596,
-                670,
-                632,
-                688
-            ]
-        },
-        {
-            "text": "239",
-            "id": 5,
-            "bbox": [
-                595,
-                720,
-                632,
-                739
+                288,
+                589,
+                324,
+                603
             ]
         },
         {
             "text": "1",
+            "id": 4,
+            "bbox": [
+                515,
+                561,
+                517,
+                573
+            ]
+        },
+        {
+            "text": "JASMINE",
+            "id": 5,
+            "bbox": [
+                373,
+                554,
+                425,
+                570
+            ]
+        },
+        {
+            "text": "PASSION",
             "id": 6,
             "bbox": [
-                384,
-                715,
-                396,
-                739
+                434,
+                557,
+                488,
+                572
             ]
         },
         {
-            "text": "POLO",
+            "text": "SPANISH",
             "id": 7,
             "bbox": [
-                233,
-                665,
-                280,
-                685
+                386,
+                594,
+                439,
+                611
             ]
         },
         {
-            "text": "FPS",
+            "text": "LATTE",
             "id": 8,
             "bbox": [
-                295,
-                666,
-                329,
-                686
-            ]
-        },
-        {
-            "text": "POL0",
-            "id": 9,
-            "bbox": [
-                231,
-                713,
-                278,
-                734
-            ]
-        },
-        {
-            "text": "FPS",
-            "id": 10,
-            "bbox": [
-                292,
-                715,
-                327,
-                735
-            ]
-        },
-        {
-            "text": "A014772",
-            "id": 11,
-            "bbox": [
-                136,
-                663,
-                219,
-                684
-            ]
-        },
-        {
-            "text": "A035652",
-            "id": 12,
-            "bbox": [
-                132,
-                712,
-                217,
-                732
-            ]
-        },
-        {
-            "text": "\u0628\u0648\u0644\u0648",
-            "id": 13,
-            "bbox": [
-                207,
-                693,
-                238,
-                710
-            ]
-        },
-        {
-            "text": "\u0628\u0648\u0644\u0648",
-            "id": 14,
-            "bbox": [
-                203,
-                742,
-                235,
-                759
+                448,
+                597,
+                485,
+                612
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JASMINE",
+                "PASSION",
+                "SPANISH",
+                "LATTE"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "39.00",
+                "78.00"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
         {
             "field_name": "item_quantity",
             "key_id": [],
@@ -150,96 +120,18 @@
                 "1"
             ],
             "value_id": [
-                6
+                4
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "POLO",
-                "FPS",
-                "POL0",
-                "FPS"
-            ],
-            "value_id": [
-                7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3:46"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "478.00"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0628\u0648\u0644\u0648",
-                "\u0628\u0648\u0644\u0648"
-            ],
-            "value_id": [
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FREDPERRY"
+                "02Jul'20"
             ],
             "value_id": [
                 1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "A014772",
-                "A035652"
-            ],
-            "value_id": [
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "239",
-                "239"
-            ],
-            "value_id": [
-                4,
-                5
             ]
         }
     ],

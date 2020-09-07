@@ -1,93 +1,93 @@
 {
     "text_boxes": [
         {
-            "text": "CHANEL",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                222,
-                73,
-                456,
-                117
-            ]
-        },
-        {
-            "text": "July",
-            "id": 2,
-            "bbox": [
-                357,
-                179,
-                378,
-                191
-            ]
-        },
-        {
-            "text": "26,",
-            "id": 3,
-            "bbox": [
-                384,
-                179,
-                400,
-                190
+                499,
+                389,
+                525,
+                402
             ]
         },
         {
             "text": "2020",
+            "id": 2,
+            "bbox": [
+                536,
+                384,
+                564,
+                397
+            ]
+        },
+        {
+            "text": "15:27",
+            "id": 3,
+            "bbox": [
+                574,
+                379,
+                610,
+                393
+            ]
+        },
+        {
+            "text": "3,710.00",
             "id": 4,
             "bbox": [
-                406,
-                178,
-                433,
-                188
+                625,
+                649,
+                686,
+                662
             ]
         },
         {
-            "text": "15:39",
+            "text": "3,710.00",
             "id": 5,
             "bbox": [
-                444,
-                176,
-                476,
-                187
+                631,
+                550,
+                693,
+                565
             ]
         },
         {
-            "text": "33,730.00",
+            "text": "CHANEL",
             "id": 6,
             "bbox": [
-                489,
-                553,
-                552,
-                564
+                115,
+                538,
+                161,
+                547
             ]
         },
         {
-            "text": "33,730.00",
+            "text": "WOMENS",
             "id": 7,
             "bbox": [
-                568,
-                363,
-                626,
-                375
+                170,
+                538,
+                215,
+                549
             ]
         },
         {
-            "text": "DRESS",
+            "text": "SHOES",
             "id": 8,
             "bbox": [
-                45,
-                374,
-                84,
-                385
+                225,
+                540,
+                261,
+                551
             ]
         },
         {
-            "text": "P64620V02919AN127",
+            "text": "LI",
             "id": 9,
             "bbox": [
-                45,
-                406,
-                166,
-                418
+                324,
+                541,
+                353,
+                555
             ]
         }
     ],
@@ -97,21 +97,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DRESS"
+                "CHANEL",
+                "WOMENS",
+                "SHOES"
             ],
             "value_id": [
+                6,
+                7,
                 8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15:39"
+                "LI"
             ],
             "value_id": [
-                5
+                9
             ]
         },
         {
@@ -119,14 +123,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "26,",
+                "Jul,",
                 "2020"
             ],
             "value_id": [
-                2,
-                3,
-                4
+                1,
+                2
             ]
         },
         {
@@ -134,32 +136,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "33,730.00"
+                "3,710.00"
             ],
             "value_id": [
-                6
+                4
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHANEL"
+                "15:27"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "P64620V02919AN127"
-            ],
-            "value_id": [
-                9
+                3
             ]
         },
         {
@@ -167,10 +158,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "33,730.00"
+                "3,710.00"
             ],
             "value_id": [
-                7
+                5
             ]
         }
     ],

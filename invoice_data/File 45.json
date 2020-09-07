@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "16:04",
+            "id": 1,
+            "bbox": [
+                305,
+                443,
+                345,
+                457
+            ]
+        },
+        {
+            "text": "145.00",
+            "id": 2,
+            "bbox": [
+                275,
+                605,
+                324,
+                620
+            ]
+        },
+        {
+            "text": "145.00",
+            "id": 3,
+            "bbox": [
+                411,
+                559,
+                460,
+                574
+            ]
+        },
+        {
+            "text": "BG",
+            "id": 4,
+            "bbox": [
+                144,
+                546,
+                161,
+                559
+            ]
+        },
+        {
+            "text": "TREFOIL",
+            "id": 5,
+            "bbox": [
+                171,
+                546,
+                232,
+                564
+            ]
+        },
+        {
+            "text": "STS",
+            "id": 6,
+            "bbox": [
+                241,
+                551,
+                267,
+                566
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                304,
+                742,
+                308,
+                754
+            ]
+        },
+        {
+            "text": "FM5617",
+            "id": 8,
+            "bbox": [
+                251,
+                535,
+                301,
+                551
+            ]
+        },
+        {
+            "text": "122",
+            "id": 9,
+            "bbox": [
+                312,
+                540,
+                335,
+                554
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:04"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BG",
+                "TREFOIL",
+                "STS"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FM5617",
+                "122"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "145.00"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "145.00"
+            ],
+            "value_id": [
+                2
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/44.jpg"
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "text_boxes": [
+        {
+            "text": "1-Ju-20",
+            "id": 1,
+            "bbox": [
+                571,
+                459,
+                601,
+                467
+            ]
+        },
+        {
+            "text": "6:02:33",
+            "id": 2,
+            "bbox": [
+                604,
+                458,
+                629,
+                468
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 3,
+            "bbox": [
+                633,
+                459,
+                644,
+                468
+            ]
+        },
+        {
+            "text": "AED520.00",
+            "id": 4,
+            "bbox": [
+                601,
+                587,
+                651,
+                601
+            ]
+        },
+        {
+            "text": "AED495.24",
+            "id": 5,
+            "bbox": [
+                604,
+                531,
+                650,
+                542
+            ]
+        },
+        {
+            "text": "NeroUno",
+            "id": 6,
+            "bbox": [
+                233,
+                514,
+                273,
+                524
+            ]
+        },
+        {
+            "text": "Eau",
+            "id": 7,
+            "bbox": [
+                277,
+                515,
+                293,
+                525
+            ]
+        },
+        {
+            "text": "de",
+            "id": 8,
+            "bbox": [
+                297,
+                516,
+                308,
+                525
+            ]
+        },
+        {
+            "text": "Toilet",
+            "id": 9,
+            "bbox": [
+                311,
+                516,
+                337,
+                527
+            ]
+        },
+        {
+            "text": "50ml",
+            "id": 10,
+            "bbox": [
+                341,
+                517,
+                363,
+                528
+            ]
+        },
+        {
+            "text": "MG10001",
+            "id": 11,
+            "bbox": [
+                141,
+                511,
+                188,
+                524
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MG10001"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED520.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NeroUno",
+                "Eau",
+                "de",
+                "Toilet",
+                "50ml"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6:02:33",
+                "PM"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1-Ju-20"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED495.24"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/18.jpg"
+    }
+}

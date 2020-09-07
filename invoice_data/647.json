@@ -1,133 +1,133 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                714,
-                545,
-                751,
-                562
+                298,
+                155,
+                356,
+                168
             ]
         },
         {
-            "text": "2020",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                765,
-                546,
-                806,
-                563
+                365,
+                156,
+                426,
+                169
             ]
         },
         {
-            "text": "22:20",
+            "text": "20:51",
             "id": 3,
             "bbox": [
-                816,
-                550,
-                868,
-                568
+                326,
+                321,
+                359,
+                334
             ]
         },
         {
-            "text": "4,",
+            "text": "490.00",
             "id": 4,
             "bbox": [
-                834,
-                904,
-                854,
-                920
+                472,
+                510,
+                518,
+                525
             ]
         },
         {
-            "text": "750.00",
+            "text": "00",
             "id": 5,
             "bbox": [
-                855,
-                905,
-                913,
-                925
+                502,
+                434,
+                518,
+                452
             ]
         },
         {
-            "text": "4,750.00",
+            "text": "Men's",
             "id": 6,
             "bbox": [
-                859,
-                785,
-                938,
-                802
+                206,
+                422,
+                242,
+                434
             ]
         },
         {
-            "text": "SAINT",
+            "text": "Wear",
             "id": 7,
             "bbox": [
-                172,
-                711,
-                222,
-                727
+                251,
+                425,
+                279,
+                437
             ]
         },
         {
-            "text": "LAURENT",
+            "text": "MENS",
             "id": 8,
             "bbox": [
-                233,
-                716,
-                302,
-                733
+                205,
+                440,
+                234,
+                452
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "WEAR",
             "id": 9,
             "bbox": [
-                313,
-                722,
-                373,
-                738
+                243,
+                442,
+                271,
+                453
             ]
         },
         {
-            "text": "i",
+            "text": "HUGO",
             "id": 10,
             "bbox": [
-                469,
-                730,
-                502,
-                748
+                280,
+                442,
+                312,
+                456
             ]
         },
         {
-            "text": "ouis",
+            "text": "BOSS",
             "id": 11,
             "bbox": [
-                506,
-                739,
-                551,
-                752
+                317,
+                444,
+                346,
+                457
             ]
         },
         {
-            "text": "l>",
+            "text": "900671677",
             "id": 12,
             "bbox": [
-                563,
-                740,
-                605,
-                755
+                242,
+                460,
+                308,
+                474
             ]
         },
         {
-            "text": "Slaiis",
+            "text": "atM",
             "id": 13,
             "bbox": [
-                615,
-                740,
-                673,
-                754
+                502,
+                470,
+                525,
+                488
             ]
         }
     ],
@@ -137,34 +137,40 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SAINT",
-                "LAURENT",
-                "WOMENS"
+                "Men's",
+                "Wear",
+                "MENS",
+                "WEAR",
+                "HUGO",
+                "BOSS"
             ],
             "value_id": [
+                6,
                 7,
                 8,
-                9
+                9,
+                10,
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "22:20"
+                "atM"
             ],
             "value_id": [
-                3
+                13
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "GALERIES",
+                "LAFAYETTE"
             ],
             "value_id": [
                 1,
@@ -176,29 +182,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4,",
-                "750.00"
+                "490.00"
             ],
             "value_id": [
-                4,
-                5
+                4
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "i",
-                "ouis",
-                "l>",
-                "Slaiis"
+                "900671677"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:51"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -206,10 +215,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4,750.00"
+                "00"
             ],
             "value_id": [
-                6
+                5
             ]
         }
     ],

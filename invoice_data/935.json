@@ -1,0 +1,240 @@
+{
+    "text_boxes": [
+        {
+            "text": "HOME",
+            "id": 1,
+            "bbox": [
+                294,
+                146,
+                392,
+                168
+            ]
+        },
+        {
+            "text": "BAKERY",
+            "id": 2,
+            "bbox": [
+                422,
+                145,
+                573,
+                167
+            ]
+        },
+        {
+            "text": "Ju126'20",
+            "id": 3,
+            "bbox": [
+                406,
+                430,
+                508,
+                452
+            ]
+        },
+        {
+            "text": "03:17P",
+            "id": 4,
+            "bbox": [
+                524,
+                431,
+                599,
+                451
+            ]
+        },
+        {
+            "text": "200.00",
+            "id": 5,
+            "bbox": [
+                508,
+                621,
+                662,
+                645
+            ]
+        },
+        {
+            "text": "158.00",
+            "id": 6,
+            "bbox": [
+                591,
+                525,
+                666,
+                546
+            ]
+        },
+        {
+            "text": "42.00",
+            "id": 7,
+            "bbox": [
+                602,
+                555,
+                666,
+                579
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                209,
+                557,
+                214,
+                577
+            ]
+        },
+        {
+            "text": "ChewyMelt",
+            "id": 9,
+            "bbox": [
+                234,
+                524,
+                348,
+                550
+            ]
+        },
+        {
+            "text": "120",
+            "id": 10,
+            "bbox": [
+                368,
+                527,
+                402,
+                548
+            ]
+        },
+        {
+            "text": "BX",
+            "id": 11,
+            "bbox": [
+                418,
+                527,
+                441,
+                548
+            ]
+        },
+        {
+            "text": "Rose",
+            "id": 12,
+            "bbox": [
+                233,
+                557,
+                283,
+                578
+            ]
+        },
+        {
+            "text": "MC",
+            "id": 13,
+            "bbox": [
+                299,
+                558,
+                323,
+                578
+            ]
+        },
+        {
+            "text": "SL",
+            "id": 14,
+            "bbox": [
+                339,
+                558,
+                362,
+                579
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ChewyMelt",
+                "120",
+                "BX",
+                "Rose",
+                "MC",
+                "SL"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Ju126'20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HOME",
+                "BAKERY"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "200.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "03:17P"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "158.00",
+                "42.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/935.jpg"
+    }
+}

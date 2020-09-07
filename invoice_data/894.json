@@ -1,74 +1,84 @@
 {
     "text_boxes": [
         {
-            "text": "ZABA",
+            "text": "ALA\u00cfA",
             "id": 1,
             "bbox": [
-                330,
-                100,
-                436,
-                135
+                296,
+                270,
+                430,
+                317
             ]
         },
         {
-            "text": "26.07",
+            "text": "PARIS",
             "id": 2,
             "bbox": [
-                256,
-                163,
-                286,
-                172
+                346,
+                311,
+                385,
+                322
             ]
         },
         {
-            "text": "199",
+            "text": "1707/2020",
             "id": 3,
             "bbox": [
-                479,
-                303,
-                497,
-                313
+                526,
+                382,
+                566,
+                396
             ]
         },
         {
-            "text": "199",
+            "text": "6,510.00",
             "id": 4,
             "bbox": [
-                471,
-                218,
-                487,
-                224
+                508,
+                748,
+                541,
+                759
             ]
         },
         {
-            "text": "10001953",
+            "text": "6,510.00",
             "id": 5,
             "bbox": [
-                256,
-                222,
-                305,
-                232
+                588,
+                495,
+                621,
+                508
+            ]
+        },
+        {
+            "text": "VISCOSE",
+            "id": 6,
+            "bbox": [
+                261,
+                525,
+                294,
+                535
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "VISCOSE"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "26.07"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "199"
+                "1707/2020"
             ],
             "value_id": [
                 3
@@ -79,21 +89,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ZABA"
+                "ALA\u00cfA",
+                "PARIS"
             ],
             "value_id": [
-                1
+                1,
+                2
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001953"
+                "6,510.00"
             ],
             "value_id": [
-                5
+                4
             ]
         },
         {
@@ -101,10 +113,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "199"
+                "6,510.00"
             ],
             "value_id": [
-                4
+                5
             ]
         }
     ],

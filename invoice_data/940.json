@@ -1,0 +1,177 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                372,
+                180,
+                406,
+                189
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                412,
+                179,
+                464,
+                189
+            ]
+        },
+        {
+            "text": "730.00",
+            "id": 3,
+            "bbox": [
+                680,
+                566,
+                711,
+                572
+            ]
+        },
+        {
+            "text": "730.00",
+            "id": 4,
+            "bbox": [
+                678,
+                419,
+                709,
+                425
+            ]
+        },
+        {
+            "text": "LPG05S",
+            "id": 5,
+            "bbox": [
+                121,
+                424,
+                150,
+                430
+            ]
+        },
+        {
+            "text": "ORA.RSFILL",
+            "id": 6,
+            "bbox": [
+                162,
+                422,
+                213,
+                431
+            ]
+        },
+        {
+            "text": "10OML",
+            "id": 7,
+            "bbox": [
+                219,
+                423,
+                244,
+                430
+            ]
+        },
+        {
+            "text": "SUP",
+            "id": 8,
+            "bbox": [
+                250,
+                423,
+                265,
+                429
+            ]
+        },
+        {
+            "text": "PERFUE",
+            "id": 9,
+            "bbox": [
+                120,
+                431,
+                158,
+                441
+            ]
+        },
+        {
+            "text": "NO",
+            "id": 10,
+            "bbox": [
+                163,
+                431,
+                178,
+                441
+            ]
+        },
+        {
+            "text": "STOCKI",
+            "id": 11,
+            "bbox": [
+                183,
+                433,
+                212,
+                439
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "730.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "730.00"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LPG05S",
+                "ORA.RSFILL",
+                "10OML",
+                "SUP",
+                "PERFUE",
+                "NO",
+                "STOCKI"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/940.jpg"
+    }
+}

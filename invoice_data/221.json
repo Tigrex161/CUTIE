@@ -1,163 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "SE",
+            "text": "02/07/20",
             "id": 1,
             "bbox": [
-                267,
-                62,
-                326,
-                91
+                568,
+                339,
+                613,
+                354
             ]
         },
         {
-            "text": "AFOLLY",
+            "text": "5:31:38",
             "id": 2,
             "bbox": [
-                324,
-                66,
-                492,
-                84
+                622,
+                339,
+                661,
+                351
             ]
         },
         {
-            "text": "16-07-20",
+            "text": "PM",
             "id": 3,
             "bbox": [
-                314,
-                470,
-                372,
-                483
+                666,
+                339,
+                683,
+                348
             ]
         },
         {
-            "text": ":",
+            "text": "1,610.00",
             "id": 4,
             "bbox": [
-                474,
-                466,
-                481,
-                483
+                691,
+                819,
+                738,
+                829
             ]
         },
         {
-            "text": "2:48",
+            "text": "900.00",
             "id": 5,
             "bbox": [
-                482,
-                465,
-                511,
-                479
+                680,
+                486,
+                716,
+                498
             ]
         },
         {
-            "text": "169.15",
+            "text": "710.00",
             "id": 6,
             "bbox": [
-                485,
-                674,
-                528,
-                687
+                679,
+                424,
+                714,
+                434
             ]
         },
         {
-            "text": "169.15",
+            "text": "1.",
             "id": 7,
             "bbox": [
-                462,
-                599,
-                505,
-                612
+                366,
+                438,
+                375,
+                448
             ]
         },
         {
-            "text": "1",
+            "text": "2",
             "id": 8,
             "bbox": [
-                385,
-                599,
-                387,
-                611
+                377,
+                600,
+                381,
+                607
             ]
         },
         {
-            "text": "SEAFOLLY",
+            "text": "MB0004S-00148",
             "id": 9,
             "bbox": [
-                217,
-                576,
-                279,
-                591
+                122,
+                440,
+                210,
+                452
             ]
         },
         {
-            "text": "TWIST",
+            "text": "FT052701W61",
             "id": 10,
             "bbox": [
-                289,
-                577,
-                327,
-                592
+                125,
+                503,
+                202,
+                514
             ]
         },
         {
-            "text": "BAND",
+            "text": "MONTBLANC",
             "id": 11,
             "bbox": [
-                337,
-                578,
-                366,
-                592
+                123,
+                462,
+                197,
+                473
             ]
         },
         {
-            "text": "HIPSTER",
+            "text": "SUNGLASSES",
             "id": 12,
             "bbox": [
-                376,
-                578,
-                428,
-                593
+                203,
+                459,
+                284,
+                472
             ]
         },
         {
-            "text": "PA",
+            "text": "TOMFORD",
             "id": 13,
             "bbox": [
-                438,
-                579,
-                451,
-                592
+                125,
+                525,
+                186,
+                535
             ]
         },
         {
-            "text": "1",
+            "text": "SUNGLASSES",
             "id": 14,
             "bbox": [
-                501,
-                770,
-                503,
-                782
-            ]
-        },
-        {
-            "text": "9337611041674-BLK1",
-            "id": 15,
-            "bbox": [
-                217,
-                596,
-                357,
-                612
+                191,
+                521,
+                272,
+                533
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "2"
             ],
             "value_id": [
                 8
@@ -168,42 +158,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SEAFOLLY",
-                "TWIST",
-                "BAND",
-                "HIPSTER",
-                "PA"
+                "MONTBLANC",
+                "SUNGLASSES",
+                "TOMFORD",
+                "SUNGLASSES"
             ],
             "value_id": [
-                9,
-                10,
                 11,
                 12,
-                13
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
+                13,
                 14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                ":",
-                "2:48"
+                "1."
             ],
             "value_id": [
-                4,
-                5
+                7
             ]
         },
         {
@@ -211,10 +186,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16-07-20"
+                "02/07/20"
             ],
             "value_id": [
-                3
+                1
             ]
         },
         {
@@ -222,23 +197,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "169.15"
+                "1,610.00"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SE",
-                "AFOLLY"
-            ],
-            "value_id": [
-                1,
-                2
+                4
             ]
         },
         {
@@ -246,10 +208,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "9337611041674-BLK1"
+                "MB0004S-00148",
+                "FT052701W61"
             ],
             "value_id": [
-                15
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5:31:38",
+                "PM"
+            ],
+            "value_id": [
+                2,
+                3
             ]
         },
         {
@@ -257,10 +234,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "169.15"
+                "900.00",
+                "710.00"
             ],
             "value_id": [
-                7
+                5,
+                6
             ]
         }
     ],

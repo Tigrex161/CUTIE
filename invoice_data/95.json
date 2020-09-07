@@ -1,120 +1,109 @@
 {
     "text_boxes": [
         {
-            "text": "Jun,",
+            "text": "KENZO",
             "id": 1,
             "bbox": [
-                494,
-                272,
-                518,
-                284
+                290,
+                103,
+                532,
+                165
+            ]
+        },
+        {
+            "text": "PARIS",
+            "id": 2,
+            "bbox": [
+                484,
+                126,
+                514,
+                138
+            ]
+        },
+        {
+            "text": "June,",
+            "id": 3,
+            "bbox": [
+                567,
+                261,
+                599,
+                270
+            ]
+        },
+        {
+            "text": "29",
+            "id": 4,
+            "bbox": [
+                611,
+                261,
+                623,
+                270
             ]
         },
         {
             "text": "2020",
-            "id": 2,
-            "bbox": [
-                528,
-                270,
-                555,
-                282
-            ]
-        },
-        {
-            "text": "12:14",
-            "id": 3,
-            "bbox": [
-                564,
-                269,
-                595,
-                280
-            ]
-        },
-        {
-            "text": "1,950.00",
-            "id": 4,
-            "bbox": [
-                602,
-                505,
-                653,
-                518
-            ]
-        },
-        {
-            "text": "1,950.00",
             "id": 5,
             "bbox": [
-                603,
-                420,
-                652,
-                431
+                632,
+                261,
+                659,
+                272
             ]
         },
         {
-            "text": "VALENTINO",
+            "text": "19:32",
             "id": 6,
             "bbox": [
-                125,
-                408,
-                187,
-                420
+                668,
+                262,
+                703,
+                274
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "150.00",
             "id": 7,
             "bbox": [
-                202,
-                409,
-                237,
-                419
+                623,
+                593,
+                663,
+                605
             ]
         },
         {
-            "text": "SHOES",
+            "text": "450,00",
             "id": 8,
             "bbox": [
-                248,
-                408,
-                281,
-                419
+                621,
+                513,
+                660,
+                522
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "VALENTINO",
-                "WOMENS",
-                "SHOES"
-            ],
-            "value_id": [
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:14"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jun,",
+                "June,",
+                "29",
                 "2020"
+            ],
+            "value_id": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "KENZO",
+                "PARIS"
             ],
             "value_id": [
                 1,
@@ -126,10 +115,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,950.00"
+                "150.00"
             ],
             "value_id": [
-                4
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:32"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -137,10 +137,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,950.00"
+                "450,00"
             ],
             "value_id": [
-                5
+                8
             ]
         }
     ],

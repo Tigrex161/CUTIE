@@ -1,167 +1,197 @@
 {
     "text_boxes": [
         {
-            "text": "FENDI",
+            "text": "SEPHORA",
             "id": 1,
             "bbox": [
-                391,
-                164,
-                473,
-                190
+                284,
+                206,
+                333,
+                225
             ]
         },
         {
-            "text": "ROMA",
+            "text": "DUBAI",
             "id": 2,
             "bbox": [
-                419,
-                194,
-                443,
-                202
+                340,
+                212,
+                373,
+                227
             ]
         },
         {
-            "text": "7/10/2020",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                203,
-                177,
-                243,
-                186
+                381,
+                215,
+                407,
+                228
             ]
         },
         {
-            "text": "95657",
+            "text": "July",
             "id": 4,
             "bbox": [
-                250,
-                178,
-                277,
-                186
+                323,
+                1002,
+                353,
+                1019
             ]
         },
         {
-            "text": "PM",
+            "text": "05,2020",
             "id": 5,
             "bbox": [
-                280,
-                178,
-                292,
-                185
+                362,
+                1002,
+                414,
+                1018
             ]
         },
         {
-            "text": "10,400.00",
+            "text": "12:21:44",
             "id": 6,
             "bbox": [
-                681,
-                471,
-                713,
-                480
+                424,
+                1000,
+                481,
+                1016
             ]
         },
         {
-            "text": "15,619.05",
+            "text": "177.00",
             "id": 7,
             "bbox": [
-                684,
-                408,
-                718,
-                419
+                442,
+                580,
+                484,
+                593
             ]
         },
         {
             "text": "1",
             "id": 8,
             "bbox": [
-                558,
-                409,
-                559,
-                415
+                280,
+                585,
+                284,
+                597
+            ]
+        },
+        {
+            "text": "YO",
+            "id": 9,
+            "bbox": [
+                309,
+                534,
+                322,
+                545
+            ]
+        },
+        {
+            "text": "GLOW",
+            "id": 10,
+            "bbox": [
+                330,
+                535,
+                357,
+                545
+            ]
+        },
+        {
+            "text": "ENZYME",
+            "id": 11,
+            "bbox": [
+                365,
+                531,
+                404,
+                545
+            ]
+        },
+        {
+            "text": "SCRUB",
+            "id": 12,
+            "bbox": [
+                413,
+                529,
+                447,
+                542
+            ]
+        },
+        {
+            "text": "100M",
+            "id": 13,
+            "bbox": [
+                458,
+                529,
+                484,
+                540
+            ]
+        },
+        {
+            "text": "177.00",
+            "id": 14,
+            "bbox": [
+                400,
+                651,
+                482,
+                666
             ]
         },
         {
             "text": "1",
-            "id": 9,
-            "bbox": [
-                556,
-                456,
-                557,
-                462
-            ]
-        },
-        {
-            "text": "HANDLE",
-            "id": 10,
-            "bbox": [
-                267,
-                406,
-                301,
-                413
-            ]
-        },
-        {
-            "text": "BAG/PEEKABOO",
-            "id": 11,
-            "bbox": [
-                303,
-                403,
-                373,
-                416
-            ]
-        },
-        {
-            "text": "CALF",
-            "id": 12,
-            "bbox": [
-                375,
-                404,
-                399,
-                415
-            ]
-        },
-        {
-            "text": "LEATH",
-            "id": 13,
-            "bbox": [
-                400,
-                407,
-                427,
-                415
-            ]
-        },
-        {
-            "text": "BRANDY",
-            "id": 14,
-            "bbox": [
-                436,
-                408,
-                471,
-                415
-            ]
-        },
-        {
-            "text": "TOBAC",
             "id": 15,
             "bbox": [
-                474,
-                408,
-                507,
-                415
+                484,
+                962,
+                488,
+                979
             ]
         },
         {
-            "text": "72897",
+            "text": "398414953808",
             "id": 16,
             "bbox": [
-                114,
-                401,
-                141,
-                412
+                186,
+                528,
+                272,
+                544
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "YO",
+                "GLOW",
+                "ENZYME",
+                "SCRUB",
+                "100M"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                15
+            ]
+        },
         {
             "field_name": "item_quantity",
             "key_id": [],
@@ -174,44 +204,12 @@
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "HANDLE",
-                "BAG/PEEKABOO",
-                "CALF",
-                "LEATH",
-                "BRANDY",
-                "TOBAC"
-            ],
-            "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "95657",
-                "PM"
+                "July",
+                "05,2020"
             ],
             "value_id": [
                 4,
@@ -219,13 +217,17 @@
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7/10/2020"
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
             ],
             "value_id": [
+                1,
+                2,
                 3
             ]
         },
@@ -234,23 +236,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10,400.00"
+                "177.00"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FENDI",
-                "ROMA"
-            ],
-            "value_id": [
-                1,
-                2
+                14
             ]
         },
         {
@@ -258,10 +247,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "72897"
+                "398414953808"
             ],
             "value_id": [
                 16
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:21:44"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -269,7 +269,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15,619.05"
+                "177.00"
             ],
             "value_id": [
                 7

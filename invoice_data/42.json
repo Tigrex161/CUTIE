@@ -1,103 +1,93 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                467,
-                232,
-                491,
-                241
+                300,
+                100,
+                389,
+                138
             ]
         },
         {
-            "text": "2020",
+            "text": "01-07-2020",
             "id": 2,
             "bbox": [
-                503,
-                232,
-                529,
-                242
+                234,
+                286,
+                285,
+                294
             ]
         },
         {
-            "text": "19:51",
+            "text": "1e:27",
             "id": 3,
             "bbox": [
-                539,
-                233,
-                571,
-                242
+                293,
+                287,
+                316,
+                295
             ]
         },
         {
-            "text": "3,",
+            "text": "129",
             "id": 4,
             "bbox": [
-                588,
-                482,
-                599,
-                493
+                405,
+                436,
+                419,
+                443
             ]
         },
         {
-            "text": "450.00",
+            "text": "129",
             "id": 5,
             "bbox": [
-                604,
-                480,
-                648,
-                493
+                408,
+                343,
+                420,
+                348
             ]
         },
         {
-            "text": "3,",
+            "text": "1.",
             "id": 6,
             "bbox": [
-                593,
-                392,
-                602,
-                400
+                293,
+                337,
+                302,
+                346
             ]
         },
         {
-            "text": "450.00",
+            "text": "08741044ND004",
             "id": 7,
             "bbox": [
-                608,
-                390,
-                650,
-                400
+                285,
+                349,
+                352,
+                360
             ]
         },
         {
-            "text": "CHANEL",
+            "text": "TROUSERS",
             "id": 8,
             "bbox": [
-                81,
-                361,
-                125,
-                373
+                366,
+                354,
+                405,
+                364
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "10001013",
             "id": 9,
             "bbox": [
-                134,
-                364,
-                177,
-                376
-            ]
-        },
-        {
-            "text": "LI",
-            "id": 10,
-            "bbox": [
-                283,
-                367,
-                313,
-                380
+                231,
+                345,
+                273,
+                358
             ]
         }
     ],
@@ -107,11 +97,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHANEL",
-                "WOMENS"
+                "08741044ND004",
+                "TROUSERS"
             ],
             "value_id": [
-                8,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1."
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "01-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "129"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001013"
+            ],
+            "value_id": [
                 9
             ]
         },
@@ -120,47 +165,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19:51"
+                "1e:27"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,",
-                "450.00"
-            ],
-            "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LI"
-            ],
-            "value_id": [
-                10
             ]
         },
         {
@@ -168,12 +176,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,",
-                "450.00"
+                "129"
             ],
             "value_id": [
-                6,
-                7
+                5
             ]
         }
     ],

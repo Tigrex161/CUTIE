@@ -1,294 +1,173 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "Project",
             "id": 1,
             "bbox": [
-                318,
-                142,
-                410,
-                203
+                284,
+                303,
+                350,
+                323
             ]
         },
         {
-            "text": "SHOES",
+            "text": "X",
             "id": 2,
             "bbox": [
-                335,
-                209,
-                392,
-                223
+                357,
+                304,
+                370,
+                320
             ]
         },
         {
-            "text": "Jul,",
+            "text": "Paris",
             "id": 3,
             "bbox": [
-                469,
-                334,
-                495,
-                344
+                379,
+                302,
+                425,
+                320
             ]
         },
         {
-            "text": "2020",
+            "text": "03-Jul-2020",
             "id": 4,
             "bbox": [
-                507,
-                332,
-                535,
-                342
+                237,
+                780,
+                305,
+                794
             ]
         },
         {
-            "text": "11:32",
+            "text": "11:08",
             "id": 5,
             "bbox": [
-                546,
-                329,
-                581,
-                340
+                325,
+                783,
+                356,
+                795
             ]
         },
         {
-            "text": "765.00",
+            "text": "pm",
             "id": 6,
             "bbox": [
-                613,
-                649,
-                658,
-                660
+                361,
+                787,
+                378,
+                798
             ]
         },
         {
-            "text": "637.50",
+            "text": "144.00",
             "id": 7,
             "bbox": [
-                618,
-                499,
-                662,
-                511
+                427,
+                654,
+                472,
+                667
             ]
         },
         {
-            "text": "127.50",
+            "text": "165.00",
             "id": 8,
             "bbox": [
-                619,
-                550,
-                663,
-                559
+                436,
+                523,
+                473,
+                535
             ]
         },
         {
-            "text": "1.",
+            "text": "195.00",
             "id": 9,
             "bbox": [
-                420,
-                556,
-                425,
-                565
+                436,
+                541,
+                473,
+                551
             ]
         },
         {
-            "text": "TSLDFTW:",
+            "text": "1",
             "id": 10,
             "bbox": [
-                80,
-                490,
-                134,
-                500
+                243,
+                521,
+                246,
+                530
             ]
         },
         {
-            "text": "THE",
+            "text": "1910046-BK",
             "id": 11,
             "bbox": [
-                138,
-                490,
-                159,
-                498
+                273,
+                521,
+                340,
+                533
             ]
         },
         {
-            "text": "SOLE",
+            "text": "(T-shirt)-L",
             "id": 12,
             "bbox": [
-                168,
-                489,
-                196,
-                499
+                345,
+                522,
+                396,
+                537
             ]
         },
         {
-            "text": "LOUNGE",
+            "text": "1910045-W",
             "id": 13,
             "bbox": [
-                204,
-                488,
-                247,
-                498
-            ]
-        },
-        {
-            "text": "PROFESSIONAL",
-            "id": 14,
-            "bbox": [
-                257,
-                486,
-                343,
-                496
-            ]
-        },
-        {
-            "text": "FOOT",
-            "id": 15,
-            "bbox": [
-                352,
-                484,
-                380,
-                494
-            ]
-        },
-        {
-            "text": "THERAPIE",
-            "id": 16,
-            "bbox": [
-                388,
-                482,
-                447,
-                493
-            ]
-        },
-        {
-            "text": "TSLLMW:",
-            "id": 17,
-            "bbox": [
-                80,
+                272,
                 537,
-                130,
+                335,
                 550
             ]
         },
         {
-            "text": "THE",
-            "id": 18,
+            "text": "(T-shirt]-L",
+            "id": 14,
             "bbox": [
-                132,
-                536,
-                166,
-                549
-            ]
-        },
-        {
-            "text": "SOLE",
-            "id": 19,
-            "bbox": [
-                170,
-                537,
-                190,
-                548
-            ]
-        },
-        {
-            "text": "LOUNGE",
-            "id": 20,
-            "bbox": [
-                199,
-                536,
-                241,
-                546
-            ]
-        },
-        {
-            "text": "NAIL",
-            "id": 21,
-            "bbox": [
-                250,
-                535,
-                278,
-                544
-            ]
-        },
-        {
-            "text": "TREATMENTS:",
-            "id": 22,
-            "bbox": [
-                286,
-                533,
-                363,
-                545
-            ]
-        },
-        {
-            "text": "FEMALE",
-            "id": 23,
-            "bbox": [
-                376,
-                532,
-                417,
-                542
+                341,
+                538,
+                391,
+                554
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TSLDFTW:",
-                "THE",
-                "SOLE",
-                "LOUNGE",
-                "PROFESSIONAL",
-                "FOOT",
-                "THERAPIE",
-                "TSLLMW:",
-                "THE",
-                "SOLE",
-                "LOUNGE",
-                "NAIL",
-                "TREATMENTS:",
-                "FEMALE"
+                "1910046-BK",
+                "(T-shirt)-L",
+                "1910045-W",
+                "(T-shirt]-L"
             ],
             "value_id": [
-                10,
                 11,
                 12,
                 13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21,
-                22,
-                23
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:32"
+                "1"
             ],
             "value_id": [
-                5
+                10
             ]
         },
         {
@@ -296,23 +175,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "03-Jul-2020"
             ],
             "value_id": [
-                3,
                 4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "765.00"
-            ],
-            "value_id": [
-                6
             ]
         },
         {
@@ -320,12 +186,38 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "level",
-                "SHOES"
+                "Project",
+                "X",
+                "Paris"
             ],
             "value_id": [
                 1,
-                2
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "144.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:08",
+                "pm"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         },
         {
@@ -333,12 +225,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "637.50",
-                "127.50"
+                "165.00",
+                "195.00"
             ],
             "value_id": [
-                7,
-                8
+                8,
+                9
             ]
         }
     ],

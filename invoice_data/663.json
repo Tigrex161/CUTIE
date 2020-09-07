@@ -1,125 +1,114 @@
 {
     "text_boxes": [
         {
-            "text": "OYSHO",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                257,
-                147,
-                472,
-                200
+                226,
+                114,
+                324,
+                134
             ]
         },
         {
-            "text": "19-07-2020",
+            "text": "H",
             "id": 2,
             "bbox": [
-                190,
-                456,
-                269,
-                470
+                347,
+                112,
+                362,
+                128
             ]
         },
         {
-            "text": "23:01",
+            "text": "OME",
             "id": 3,
             "bbox": [
-                280,
-                458,
-                319,
-                470
+                376,
+                106,
+                455,
+                127
             ]
         },
         {
-            "text": "199",
+            "text": "29-06-2020",
             "id": 4,
             "bbox": [
-                455,
-                696,
-                474,
-                705
+                183,
+                332,
+                258,
+                344
             ]
         },
         {
-            "text": "199",
+            "text": "21:49",
             "id": 5,
             "bbox": [
-                458,
-                548,
-                478,
-                558
+                269,
+                332,
+                305,
+                342
             ]
         },
         {
-            "text": "1",
+            "text": "129",
             "id": 6,
             "bbox": [
-                289,
-                544,
-                294,
-                554
+                457,
+                529,
+                478,
+                540
             ]
         },
         {
-            "text": "1",
+            "text": "129",
             "id": 7,
             "bbox": [
-                321,
-                609,
-                326,
-                620
+                448,
+                399,
+                468,
+                410
             ]
         },
         {
-            "text": "3075911554103",
+            "text": "4034108930716",
             "id": 8,
             "bbox": [
-                272,
-                565,
-                375,
-                578
+                270,
+                420,
+                368,
+                434
             ]
         },
         {
-            "text": "DRESS",
+            "text": "SHEET",
             "id": 9,
             "bbox": [
-                394,
-                567,
-                431,
-                578
+                386,
+                420,
+                422,
+                429
             ]
         },
         {
-            "text": "10001719",
+            "text": "10001413",
             "id": 10,
             "bbox": [
-                189,
-                564,
+                194,
+                426,
                 252,
-                574
+                439
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3075911554103",
-                "DRESS"
+                "4034108930716",
+                "SHEET"
             ],
             "value_id": [
                 8,
@@ -127,44 +116,11 @@
             ]
         },
         {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "23:01"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19-07-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "199"
+                "29-06-2020"
             ],
             "value_id": [
                 4
@@ -175,10 +131,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "OYSHO"
+                "ZARA",
+                "H",
+                "OME"
             ],
             "value_id": [
-                1
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "129"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -186,10 +157,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001719"
+                "10001413"
             ],
             "value_id": [
                 10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:49"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -197,10 +179,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "199"
+                "129"
             ],
             "value_id": [
-                5
+                7
             ]
         }
     ],

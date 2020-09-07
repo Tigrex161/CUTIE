@@ -1,0 +1,186 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                316,
+                134,
+                351,
+                144
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                357,
+                134,
+                410,
+                145
+            ]
+        },
+        {
+            "text": "11",
+            "id": 3,
+            "bbox": [
+                565,
+                335,
+                574,
+                340
+            ]
+        },
+        {
+            "text": "si",
+            "id": 4,
+            "bbox": [
+                578,
+                334,
+                591,
+                342
+            ]
+        },
+        {
+            "text": "1,940.00",
+            "id": 5,
+            "bbox": [
+                613,
+                542,
+                655,
+                550
+            ]
+        },
+        {
+            "text": "1,940.00",
+            "id": 6,
+            "bbox": [
+                613,
+                390,
+                654,
+                398
+            ]
+        },
+        {
+            "text": "M47542",
+            "id": 7,
+            "bbox": [
+                47,
+                382,
+                78,
+                390
+            ]
+        },
+        {
+            "text": "PO.TOILET.26",
+            "id": 8,
+            "bbox": [
+                91,
+                379,
+                154,
+                389
+            ]
+        },
+        {
+            "text": "M",
+            "id": 9,
+            "bbox": [
+                161,
+                379,
+                177,
+                386
+            ]
+        },
+        {
+            "text": "TRAVEL",
+            "id": 10,
+            "bbox": [
+                48,
+                393,
+                80,
+                401
+            ]
+        },
+        {
+            "text": "ACCESSORIES",
+            "id": 11,
+            "bbox": [
+                85,
+                391,
+                144,
+                401
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "M47542",
+                "PO.TOILET.26",
+                "M",
+                "TRAVEL",
+                "ACCESSORIES"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,940.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11",
+                "si"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,940.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/967.jpg"
+    }
+}

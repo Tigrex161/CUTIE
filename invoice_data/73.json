@@ -1,83 +1,374 @@
 {
     "text_boxes": [
         {
-            "text": "FENDI",
+            "text": "Dior",
             "id": 1,
             "bbox": [
-                355,
-                409,
-                423,
-                430
+                278,
+                64,
+                469,
+                141
             ]
         },
         {
-            "text": "MOMA",
+            "text": "04-Jul-2020",
             "id": 2,
             "bbox": [
+                318,
+                328,
                 380,
-                432,
-                398,
-                438
+                339
             ]
         },
         {
-            "text": "RINOVFFIMETAL",
+            "text": "21:08",
             "id": 3,
             "bbox": [
-                246,
-                591,
-                300,
-                599
+                388,
+                327,
+                415,
+                339
             ]
         },
         {
-            "text": "SOFT",
+            "text": "953.00",
             "id": 4,
             "bbox": [
-                307,
-                592,
-                325,
-                598
+                463,
+                757,
+                497,
+                773
             ]
         },
         {
-            "text": "GOLD",
+            "text": "448.00",
             "id": 5,
             "bbox": [
-                328,
-                591,
-                346,
-                597
+                490,
+                564,
+                525,
+                576
+            ]
+        },
+        {
+            "text": "505.00",
+            "id": 6,
+            "bbox": [
+                489,
+                640,
+                525,
+                654
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                323,
+                557,
+                325,
+                567
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                321,
+                632,
+                322,
+                642
+            ]
+        },
+        {
+            "text": "CO99600415:C/TOT",
+            "id": 9,
+            "bbox": [
+                207,
+                517,
+                298,
+                530
+            ]
+        },
+        {
+            "text": "CR",
+            "id": 10,
+            "bbox": [
+                306,
+                520,
+                315,
+                529
+            ]
+        },
+        {
+            "text": "JAR",
+            "id": 11,
+            "bbox": [
+                323,
+                520,
+                338,
+                529
+            ]
+        },
+        {
+            "text": "50ML",
+            "id": 12,
+            "bbox": [
+                345,
+                520,
+                366,
+                529
+            ]
+        },
+        {
+            "text": "INT20",
+            "id": 13,
+            "bbox": [
+                375,
+                520,
+                399,
+                530
+            ]
+        },
+        {
+            "text": "CO99600425:C/TOT",
+            "id": 14,
+            "bbox": [
+                205,
+                593,
+                298,
+                605
+            ]
+        },
+        {
+            "text": "SER",
+            "id": 15,
+            "bbox": [
+                304,
+                594,
+                320,
+                604
+            ]
+        },
+        {
+            "text": "P/BTL.",
+            "id": 16,
+            "bbox": [
+                327,
+                594,
+                353,
+                604
+            ]
+        },
+        {
+            "text": "50ML",
+            "id": 17,
+            "bbox": [
+                361,
+                595,
+                381,
+                605
+            ]
+        },
+        {
+            "text": "INT20",
+            "id": 18,
+            "bbox": [
+                390,
+                596,
+                414,
+                606
+            ]
+        },
+        {
+            "text": "009114750820",
+            "id": 19,
+            "bbox": [
+                207,
+                499,
+                276,
+                510
+            ]
+        },
+        {
+            "text": "009114765606",
+            "id": 20,
+            "bbox": [
+                205,
+                576,
+                274,
+                586
+            ]
+        },
+        {
+            "text": "L",
+            "id": 21,
+            "bbox": [
+                211,
+                612,
+                229,
+                620
+            ]
+        },
+        {
+            "text": "Jas",
+            "id": 22,
+            "bbox": [
+                234,
+                612,
+                248,
+                622
+            ]
+        },
+        {
+            "text": "/",
+            "id": 23,
+            "bbox": [
+                254,
+                612,
+                259,
+                622
+            ]
+        },
+        {
+            "text": "lall",
+            "id": 24,
+            "bbox": [
+                266,
+                612,
+                297,
+                622
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FENDI",
-                "MOMA"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RINOVFFIMETAL",
-                "SOFT",
-                "GOLD"
+                "CO99600415:C/TOT",
+                "CR",
+                "JAR",
+                "50ML",
+                "INT20",
+                "CO99600425:C/TOT",
+                "SER",
+                "P/BTL.",
+                "50ML",
+                "INT20"
             ],
             "value_id": [
-                3,
-                4,
-                5
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L",
+                "Jas",
+                "/",
+                "lall"
+            ],
+            "value_id": [
+                21,
+                22,
+                23,
+                24
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "04-Jul-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Dior"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "953.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "009114750820",
+                "009114765606"
+            ],
+            "value_id": [
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:08"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "448.00",
+                "505.00"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

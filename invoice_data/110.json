@@ -1,106 +1,68 @@
 {
     "text_boxes": [
         {
-            "text": "Bonpoint",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                272,
-                280,
-                455,
-                348
+                355,
+                409,
+                423,
+                430
             ]
         },
         {
-            "text": "AM",
+            "text": "MOMA",
             "id": 2,
             "bbox": [
-                420,
-                411,
-                434,
-                424
+                380,
+                432,
+                398,
+                438
             ]
         },
         {
-            "text": "337.00",
+            "text": "RINOVFFIMETAL",
             "id": 3,
             "bbox": [
-                359,
-                559,
-                442,
-                574
+                246,
+                591,
+                300,
+                599
             ]
         },
         {
-            "text": "AED",
+            "text": "SOFT",
             "id": 4,
             "bbox": [
-                460,
-                562,
-                501,
-                575
+                307,
+                592,
+                325,
+                598
             ]
         },
         {
-            "text": "337.00",
+            "text": "GOLD",
             "id": 5,
             "bbox": [
-                433,
-                472,
-                476,
-                486
-            ]
-        },
-        {
-            "text": "1",
-            "id": 6,
-            "bbox": [
-                334,
-                471,
-                336,
-                480
-            ]
-        },
-        {
-            "text": "PAJAMAS,",
-            "id": 7,
-            "bbox": [
-                203,
-                453,
-                257,
-                467
-            ]
-        },
-        {
-            "text": "SKY",
-            "id": 8,
-            "bbox": [
-                261,
-                455,
-                281,
-                465
-            ]
-        },
-        {
-            "text": "IPY\\13",
-            "id": 9,
-            "bbox": [
-                269,
-                468,
-                308,
-                482
+                328,
+                591,
+                346,
+                597
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "FENDI",
+                "MOMA"
             ],
             "value_id": [
-                6
+                1,
+                2
             ]
         },
         {
@@ -108,68 +70,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PAJAMAS,",
-                "SKY"
-            ],
-            "value_id": [
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AM"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "337.00",
-                "AED"
+                "RINOVFFIMETAL",
+                "SOFT",
+                "GOLD"
             ],
             "value_id": [
                 3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Bonpoint"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "IPY\\13"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "337.00"
-            ],
-            "value_id": [
+                4,
                 5
             ]
         }

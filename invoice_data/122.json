@@ -1,117 +1,197 @@
 {
     "text_boxes": [
         {
-            "text": "MICHAEL",
+            "text": "SEPHORA",
             "id": 1,
             "bbox": [
-                280,
-                163,
-                403,
-                182
+                310,
+                245,
+                368,
+                261
             ]
         },
         {
-            "text": "KORS",
+            "text": "DUBAI",
             "id": 2,
             "bbox": [
-                415,
-                161,
-                490,
-                180
+                379,
+                245,
+                418,
+                262
             ]
         },
         {
-            "text": "13-Jul-2020",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                334,
-                329,
-                392,
-                341
+                430,
+                247,
+                461,
+                262
             ]
         },
         {
-            "text": "17:45",
+            "text": "July",
             "id": 4,
             "bbox": [
-                400,
-                330,
-                425,
-                340
+                376,
+                1154,
+                406,
+                1168
             ]
         },
         {
-            "text": "897.00",
+            "text": "08,2020",
             "id": 5,
             "bbox": [
-                499,
-                688,
-                535,
-                695
+                414,
+                1151,
+                466,
+                1167
             ]
         },
         {
-            "text": "897.00",
+            "text": "19:26:32",
             "id": 6,
             "bbox": [
-                516,
-                559,
-                550,
-                570
+                476,
+                1147,
+                533,
+                1163
+            ]
+        },
+        {
+            "text": "165.00",
+            "id": 7,
+            "bbox": [
+                457,
+                772,
+                545,
+                789
+            ]
+        },
+        {
+            "text": "165.00",
+            "id": 8,
+            "bbox": [
+                505,
+                698,
+                548,
+                713
             ]
         },
         {
             "text": "1",
-            "id": 7,
-            "bbox": [
-                340,
-                562,
-                341,
-                571
-            ]
-        },
-        {
-            "text": "CNTR",
-            "id": 8,
-            "bbox": [
-                391,
-                524,
-                413,
-                534
-            ]
-        },
-        {
-            "text": "ZIP",
             "id": 9,
             "bbox": [
-                420,
-                523,
-                436,
-                534
+                322,
+                702,
+                324,
+                715
             ]
         },
         {
-            "text": "SATCHEL",
+            "text": "RADIANT",
             "id": 10,
             "bbox": [
-                444,
-                523,
-                483,
-                533
+                352,
+                642,
+                406,
+                656
             ]
         },
         {
-            "text": "023324535470",
+            "text": "CREAMY",
             "id": 11,
             "bbox": [
-                222,
-                507,
-                291,
-                517
+                416,
+                641,
+                462,
+                656
+            ]
+        },
+        {
+            "text": "CONCEALER",
+            "id": 12,
+            "bbox": [
+                472,
+                641,
+                541,
+                656
+            ]
+        },
+        {
+            "text": "024512272699",
+            "id": 13,
+            "bbox": [
+                214,
+                643,
+                310,
+                658
+            ]
+        },
+        {
+            "text": "\u0642\u0644\u0645",
+            "id": 14,
+            "bbox": [
+                330,
+                683,
+                351,
+                697
+            ]
+        },
+        {
+            "text": "\u062a\u0635\u062d\u064a\u062d",
+            "id": 15,
+            "bbox": [
+                281,
+                685,
+                319,
+                698
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062a\u062c\u0627\u0646\u0633\u0631",
+            "id": 16,
+            "bbox": [
+                215,
+                682,
+                268,
+                698
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RADIANT",
+                "CREAMY",
+                "CONCEALER"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0642\u0644\u0645",
+                "\u062a\u0635\u062d\u064a\u062d",
+                "\u0627\u0644\u062a\u062c\u0627\u0646\u0633\u0631"
+            ],
+            "value_id": [
+                14,
+                15,
+                16
+            ]
+        },
         {
             "field_name": "item_quantity",
             "key_id": [],
@@ -120,33 +200,7 @@
                 "1"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CNTR",
-                "ZIP",
-                "SATCHEL"
-            ],
-            "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:45"
-            ],
-            "value_id": [
-                4
+                9
             ]
         },
         {
@@ -154,20 +208,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13-Jul-2020"
+                "July",
+                "08,2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "897.00"
-            ],
-            "value_id": [
+                4,
                 5
             ]
         },
@@ -176,12 +221,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MICHAEL",
-                "KORS"
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
             ],
             "value_id": [
                 1,
-                2
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "165.00"
+            ],
+            "value_id": [
+                7
             ]
         },
         {
@@ -189,10 +247,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "023324535470"
+                "024512272699"
             ],
             "value_id": [
-                11
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:26:32"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -200,10 +269,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "897.00"
+                "165.00"
             ],
             "value_id": [
-                6
+                8
             ]
         }
     ],

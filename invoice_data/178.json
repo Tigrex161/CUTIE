@@ -1,99 +1,170 @@
 {
     "text_boxes": [
         {
-            "text": "ZRA",
+            "text": "Ismart",
             "id": 1,
             "bbox": [
-                311,
-                73,
-                434,
-                126
+                176,
+                243,
+                239,
+                263
             ]
         },
         {
-            "text": "30-06-2020",
+            "text": "Super",
             "id": 2,
             "bbox": [
-                223,
-                329,
-                296,
-                346
+                245,
+                239,
+                306,
+                260
             ]
         },
         {
-            "text": "11:53",
+            "text": "Hero",
             "id": 3,
             "bbox": [
-                307,
-                334,
-                340,
-                344
+                313,
+                236,
+                362,
+                255
             ]
         },
         {
-            "text": "199",
+            "text": "Dubai",
             "id": 4,
             "bbox": [
-                471,
-                408,
-                490,
-                416
+                371,
+                234,
+                431,
+                254
             ]
         },
         {
-            "text": "0738530040603",
+            "text": "Mall",
             "id": 5,
             "bbox": [
-                298,
-                427,
-                393,
-                438
+                440,
+                233,
+                483,
+                252
             ]
         },
         {
-            "text": "DRESS",
+            "text": "10-7-2020",
             "id": 6,
             "bbox": [
-                411,
-                427,
-                446,
-                436
+                180,
+                485,
+                249,
+                502
             ]
         },
         {
-            "text": "10001411",
+            "text": "18:35",
             "id": 7,
             "bbox": [
-                218,
-                427,
-                279,
-                438
+                481,
+                453,
+                516,
+                471
+            ]
+        },
+        {
+            "text": "224.00",
+            "id": 8,
+            "bbox": [
+                386,
+                714,
+                444,
+                728
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                314,
+                714,
+                319,
+                728
+            ]
+        },
+        {
+            "text": "299.00",
+            "id": 10,
+            "bbox": [
+                475,
+                589,
+                544,
+                606
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                284,
+                592,
+                289,
+                607
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0639\u0628",
+            "id": 12,
+            "bbox": [
+                184,
+                615,
+                202,
+                633
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0633\u0648\u06cc\u0631",
+            "id": 13,
+            "bbox": [
+                156,
+                616,
+                181,
+                636
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0738530040603",
-                "DRESS"
+                "1"
             ],
             "value_id": [
-                5,
-                6
+                9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:53"
+                "\u0627\u0644\u0639\u0628",
+                "\u0627\u0644\u0633\u0648\u06cc\u0631"
             ],
             "value_id": [
-                3
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
             ]
         },
         {
@@ -101,10 +172,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "30-06-2020"
+                "10-7-2020"
             ],
             "value_id": [
-                2
+                6
             ]
         },
         {
@@ -112,18 +183,37 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ZRA"
+                "Ismart",
+                "Super",
+                "Hero",
+                "Dubai",
+                "Mall"
             ],
             "value_id": [
-                1
+                1,
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001411"
+                "224.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:35"
             ],
             "value_id": [
                 7
@@ -134,10 +224,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "199"
+                "299.00"
             ],
             "value_id": [
-                4
+                10
             ]
         }
     ],

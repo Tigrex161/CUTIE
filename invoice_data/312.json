@@ -1,113 +1,93 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "HOME",
             "id": 1,
             "bbox": [
-                343,
-                217,
-                397,
-                228
+                275,
+                240,
+                337,
+                252
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "BAKERY",
             "id": 2,
             "bbox": [
-                406,
-                218,
-                467,
-                228
+                358,
+                238,
+                453,
+                251
             ]
         },
         {
-            "text": "10/07/20",
+            "text": "Ju104'20",
             "id": 3,
             "bbox": [
-                307,
-                373,
-                363,
-                385
+                356,
+                412,
+                422,
+                428
             ]
         },
         {
-            "text": "13:10",
+            "text": "04:51P",
             "id": 4,
             "bbox": [
-                373,
-                374,
-                407,
-                384
+                432,
+                411,
+                481,
+                427
             ]
         },
         {
-            "text": "259.00",
+            "text": "474.00",
             "id": 5,
             "bbox": [
-                533,
-                612,
-                577,
-                626
+                429,
+                512,
+                527,
+                529
             ]
         },
         {
-            "text": "370.00",
+            "text": "474.00",
             "id": 6,
             "bbox": [
-                525,
-                490,
-                569,
-                502
+                478,
+                472,
+                527,
+                486
             ]
         },
         {
-            "text": "900976389",
+            "text": "3",
             "id": 7,
             "bbox": [
-                294,
-                497,
-                354,
-                511
+                229,
+                478,
+                236,
+                492
             ]
         },
         {
-            "text": "Kid's",
+            "text": "120",
             "id": 8,
             "bbox": [
-                251,
-                467,
-                287,
-                477
+                334,
+                475,
+                357,
+                491
             ]
         },
         {
-            "text": "Wear",
+            "text": "BX",
             "id": 9,
             "bbox": [
-                297,
-                467,
-                325,
-                476
-            ]
-        },
-        {
-            "text": "TS",
-            "id": 10,
-            "bbox": [
-                251,
-                484,
-                264,
-                493
-            ]
-        },
-        {
-            "text": "SKU",
-            "id": 11,
-            "bbox": [
-                273,
-                483,
-                295,
-                492
+                367,
+                476,
+                382,
+                489
             ]
         }
     ],
@@ -117,27 +97,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Kid's",
-                "Wear",
-                "TS",
-                "SKU"
+                "120",
+                "BX"
             ],
             "value_id": [
                 8,
-                9,
-                10,
-                11
+                9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13:10"
+                "3"
             ],
             "value_id": [
-                4
+                7
             ]
         },
         {
@@ -145,21 +121,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10/07/20"
+                "Ju104'20"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "259.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -167,8 +132,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "HOME",
+                "BAKERY"
             ],
             "value_id": [
                 1,
@@ -176,14 +141,25 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900976389"
+                "474.00"
             ],
             "value_id": [
-                7
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "04:51P"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -191,7 +167,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "370.00"
+                "474.00"
             ],
             "value_id": [
                 6

@@ -1,133 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "FENDI",
+            "text": "Jun,",
             "id": 1,
             "bbox": [
-                345,
-                295,
-                421,
-                318
-            ]
-        },
-        {
-            "text": "ROMA",
-            "id": 2,
-            "bbox": [
-                373,
-                324,
-                392,
-                329
-            ]
-        },
-        {
-            "text": "72",
-            "id": 3,
-            "bbox": [
-                174,
-                313,
-                190,
-                319
+                530,
+                185,
+                561,
+                197
             ]
         },
         {
             "text": "2020",
+            "id": 2,
+            "bbox": [
+                575,
+                185,
+                608,
+                197
+            ]
+        },
+        {
+            "text": "16:55",
+            "id": 3,
+            "bbox": [
+                620,
+                188,
+                662,
+                199
+            ]
+        },
+        {
+            "text": "3,",
             "id": 4,
             "bbox": [
-                193,
-                312,
-                207,
-                320
+                654,
+                505,
+                665,
+                515
             ]
         },
         {
-            "text": "23213",
+            "text": "350.",
             "id": 5,
             "bbox": [
-                213,
-                312,
-                236,
-                319
+                670,
+                505,
+                698,
+                516
             ]
         },
         {
-            "text": "PM",
+            "text": "00",
             "id": 6,
             "bbox": [
-                238,
-                312,
-                249,
-                319
+                703,
+                506,
+                717,
+                515
             ]
         },
         {
-            "text": "3300.00",
+            "text": "3,",
             "id": 7,
             "bbox": [
-                603,
-                548,
-                628,
-                553
+                674,
+                393,
+                685,
+                404
             ]
         },
         {
-            "text": "11200",
+            "text": "350.00",
             "id": 8,
             "bbox": [
-                608,
-                499,
-                633,
-                505
+                692,
+                393,
+                739,
+                405
             ]
         },
         {
-            "text": "LWALLETIFIS",
+            "text": "FENDI",
             "id": 9,
             "bbox": [
-                237,
-                502,
-                288,
-                512
+                59,
+                353,
+                97,
+                362
             ]
         },
         {
-            "text": "FENDVCALFLEATH",
+            "text": "WOMENS",
             "id": 10,
             "bbox": [
-                290,
-                501,
-                356,
-                512
+                109,
+                352,
+                158,
+                362
             ]
         },
         {
-            "text": "MAYA",
+            "text": "SHOES",
             "id": 11,
             "bbox": [
-                367,
-                501,
-                384,
-                510
+                172,
+                349,
+                210,
+                365
             ]
         },
         {
-            "text": "BLACKsOFT",
+            "text": "Li",
             "id": 12,
             "bbox": [
-                391,
-                501,
-                436,
-                509
-            ]
-        },
-        {
-            "text": "720",
-            "id": 13,
-            "bbox": [
-                111,
-                504,
-                133,
-                510
+                287,
+                352,
+                325,
+                365
             ]
         }
     ],
@@ -137,29 +127,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LWALLETIFIS",
-                "FENDVCALFLEATH",
-                "MAYA",
-                "BLACKsOFT"
+                "FENDI",
+                "WOMENS",
+                "SHOES"
             ],
             "value_id": [
                 9,
                 10,
-                11,
-                12
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "23213",
-                "PM"
+                "Li"
             ],
             "value_id": [
-                5,
-                6
+                12
             ]
         },
         {
@@ -167,32 +153,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "72",
+                "Jun,",
                 "2020"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3300.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FENDI",
-                "ROMA"
             ],
             "value_id": [
                 1,
@@ -200,14 +162,29 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "720"
+                "3,",
+                "350.",
+                "00"
             ],
             "value_id": [
-                13
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:55"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -215,9 +192,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11200"
+                "3,",
+                "350.00"
             ],
             "value_id": [
+                7,
                 8
             ]
         }

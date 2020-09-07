@@ -1,0 +1,195 @@
+{
+    "text_boxes": [
+        {
+            "text": "Reana",
+            "id": 1,
+            "bbox": [
+                266,
+                78,
+                409,
+                159
+            ]
+        },
+        {
+            "text": "Peama",
+            "id": 2,
+            "bbox": [
+                257,
+                80,
+                409,
+                157
+            ]
+        },
+        {
+            "text": "13-07-2020",
+            "id": 3,
+            "bbox": [
+                508,
+                299,
+                585,
+                313
+            ]
+        },
+        {
+            "text": "16:05:51",
+            "id": 4,
+            "bbox": [
+                591,
+                299,
+                650,
+                312
+            ]
+        },
+        {
+            "text": "3,310.00",
+            "id": 5,
+            "bbox": [
+                597,
+                494,
+                644,
+                501
+            ]
+        },
+        {
+            "text": "10.00",
+            "id": 6,
+            "bbox": [
+                602,
+                458,
+                634,
+                465
+            ]
+        },
+        {
+            "text": "BUCKLE",
+            "id": 7,
+            "bbox": [
+                16,
+                471,
+                61,
+                477
+            ]
+        },
+        {
+            "text": "SANDAL",
+            "id": 8,
+            "bbox": [
+                65,
+                469,
+                111,
+                476
+            ]
+        },
+        {
+            "text": "CALF,",
+            "id": 9,
+            "bbox": [
+                115,
+                469,
+                146,
+                475
+            ]
+        },
+        {
+            "text": "1000,",
+            "id": 10,
+            "bbox": [
+                154,
+                468,
+                179,
+                476
+            ]
+        },
+        {
+            "text": "44,5",
+            "id": 11,
+            "bbox": [
+                184,
+                468,
+                205,
+                475
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:05:51"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BUCKLE",
+                "SANDAL",
+                "CALF,",
+                "1000,",
+                "44,5"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13-07-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,310.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Reana",
+                "Peama"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/15.jpg"
+    }
+}

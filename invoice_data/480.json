@@ -1,142 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "15/07/20",
             "id": 1,
             "bbox": [
-                520,
-                347,
-                553,
-                360
+                317,
+                315,
+                360,
+                325
             ]
         },
         {
-            "text": "2020",
+            "text": "12:34",
             "id": 2,
             "bbox": [
-                568,
-                346,
-                603,
-                359
+                368,
+                315,
+                393,
+                326
             ]
         },
         {
-            "text": "16:39",
+            "text": "8000000908964",
             "id": 3,
             "bbox": [
-                616,
-                346,
-                659,
-                358
+                343,
+                417,
+                412,
+                427
             ]
         },
         {
-            "text": "1,395.00",
+            "text": "Dress",
             "id": 4,
             "bbox": [
-                699,
-                669,
-                774,
-                683
+                278,
+                430,
+                304,
+                441
             ]
         },
         {
-            "text": "1,395.00",
+            "text": "Orange",
             "id": 5,
             "bbox": [
-                699,
-                549,
-                773,
-                562
+                310,
+                430,
+                342,
+                442
             ]
         },
         {
-            "text": "1.",
+            "text": "pcs",
             "id": 6,
             "bbox": [
-                470,
-                555,
-                476,
-                565
+                349,
+                434,
+                364,
+                443
             ]
         },
         {
-            "text": "FENDI",
+            "text": "8000000913708",
             "id": 7,
             "bbox": [
-                27,
-                531,
-                72,
-                543
+                343,
+                473,
+                412,
+                483
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "Dress",
             "id": 8,
             "bbox": [
-                85,
-                530,
-                141,
-                543
+                278,
+                486,
+                304,
+                495
             ]
         },
         {
-            "text": "SHOES",
+            "text": "mixed",
             "id": 9,
             "bbox": [
-                154,
-                526,
-                200,
-                543
+                359,
+                487,
+                385,
+                497
             ]
         },
         {
-            "text": "Lisi",
+            "text": "pcs",
             "id": 10,
             "bbox": [
-                281,
-                526,
-                320,
-                542
+                391,
+                490,
+                406,
+                498
+            ]
+        },
+        {
+            "text": "259.",
+            "id": 11,
+            "bbox": [
+                444,
+                542,
+                460,
+                551
+            ]
+        },
+        {
+            "text": "00",
+            "id": 12,
+            "bbox": [
+                465,
+                543,
+                474,
+                551
+            ]
+        },
+        {
+            "text": "2",
+            "id": 13,
+            "bbox": [
+                469,
+                596,
+                473,
+                607
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FENDI",
-                "WOMENS",
-                "SHOES"
+                "Dress",
+                "Orange",
+                "pcs",
+                "Dress",
+                "mixed",
+                "pcs"
             ],
             "value_id": [
-                7,
+                4,
+                5,
+                6,
                 8,
-                9
+                9,
+                10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:39"
+                "2"
             ],
             "value_id": [
-                3
+                13
             ]
         },
         {
@@ -144,12 +169,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "15/07/20"
             ],
             "value_id": [
-                1,
-                2
+                1
             ]
         },
         {
@@ -157,32 +180,36 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,395.00"
+                "259.",
+                "00"
             ],
             "value_id": [
-                4
+                11,
+                12
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Lisi"
+                "8000000908964",
+                "8000000913708"
             ],
             "value_id": [
-                10
+                3,
+                7
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,395.00"
+                "12:34"
             ],
             "value_id": [
-                5
+                2
             ]
         }
     ],

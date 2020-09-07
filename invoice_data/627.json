@@ -1,53 +1,147 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdaleS",
+            "text": "GEOX",
             "id": 1,
             "bbox": [
-                267,
-                158,
-                510,
-                198
+                361,
+                239,
+                400,
+                253
             ]
         },
         {
-            "text": "560.00",
+            "text": "07/02/20",
             "id": 2,
             "bbox": [
-                438,
-                504,
-                479,
-                515
+                237,
+                375,
+                325,
+                396
             ]
         },
         {
-            "text": "1",
+            "text": "11:05",
             "id": 3,
             "bbox": [
-                503,
-                533,
-                506,
-                542
+                338,
+                382,
+                387,
+                397
             ]
         },
         {
-            "text": "560.00",
+            "text": "692.00",
             "id": 4,
             "bbox": [
-                465,
-                599,
-                507,
-                611
+                524,
+                787,
+                588,
+                803
+            ]
+        },
+        {
+            "text": "346",
+            "id": 5,
+            "bbox": [
+                551,
+                615,
+                593,
+                632
+            ]
+        },
+        {
+            "text": "346",
+            "id": 6,
+            "bbox": [
+                556,
+                652,
+                587,
+                666
+            ]
+        },
+        {
+            "text": "1.",
+            "id": 7,
+            "bbox": [
+                378,
+                618,
+                383,
+                630
+            ]
+        },
+        {
+            "text": "SANDALS",
+            "id": 8,
+            "bbox": [
+                252,
+                618,
+                323,
+                630
+            ]
+        },
+        {
+            "text": "SANDALS",
+            "id": 9,
+            "bbox": [
+                252,
+                651,
+                322,
+                663
+            ]
+        },
+        {
+            "text": "A063080",
+            "id": 10,
+            "bbox": [
+                167,
+                617,
+                238,
+                630
+            ]
+        },
+        {
+            "text": "A063065",
+            "id": 11,
+            "bbox": [
+                168,
+                651,
+                239,
+                663
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_price",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "560.00"
+                "SANDALS",
+                "SANDALS"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1."
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/02/20"
             ],
             "value_id": [
                 2
@@ -58,7 +152,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "bloomingdaleS"
+                "GEOX"
             ],
             "value_id": [
                 1
@@ -69,21 +163,47 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "560.00"
+                "692.00"
             ],
             "value_id": [
                 4
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "A063080",
+                "A063065"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:05"
             ],
             "value_id": [
                 3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "346",
+                "346"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

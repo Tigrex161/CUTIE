@@ -1,212 +1,187 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "level",
             "id": 1,
             "bbox": [
-                257,
-                178,
-                351,
-                198
+                346,
+                19,
+                443,
+                85
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                365,
-                179,
-                466,
-                196
+                364,
+                97,
+                423,
+                107
             ]
         },
         {
-            "text": "08/07/20",
+            "text": "Jun,",
             "id": 3,
             "bbox": [
-                208,
-                465,
-                298,
-                487
+                521,
+                233,
+                547,
+                243
             ]
         },
         {
-            "text": "14:45",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                312,
-                463,
-                368,
-                483
+                560,
+                233,
+                589,
+                243
             ]
         },
         {
-            "text": "636.65",
+            "text": "18:50",
             "id": 5,
             "bbox": [
-                555,
-                875,
-                624,
-                894
+                599,
+                234,
+                635,
+                245
             ]
         },
         {
-            "text": "749.00",
+            "text": "1,750.",
             "id": 6,
             "bbox": [
-                547,
-                667,
-                613,
-                685
+                650,
+                511,
+                694,
+                523
             ]
         },
         {
-            "text": "1",
+            "text": "00",
             "id": 7,
             "bbox": [
-                132,
-                703,
-                158,
-                723
+                699,
+                510,
+                712,
+                519
             ]
         },
         {
-            "text": "Beauty",
+            "text": "1,750.00",
             "id": 8,
             "bbox": [
-                130,
-                646,
-                199,
-                664
+                658,
+                407,
+                719,
+                419
             ]
         },
         {
-            "text": "to",
+            "text": "PCOU",
             "id": 9,
             "bbox": [
-                230,
-                651,
-                252,
-                672
+                109,
+                385,
+                139,
+                394
             ]
         },
         {
-            "text": "enple",
+            "text": "OTHS:",
             "id": 10,
             "bbox": [
-                257,
-                651,
-                299,
-                673
+                149,
+                381,
+                190,
+                395
             ]
         },
         {
-            "text": "n",
+            "text": "PRIVATE",
             "id": 11,
             "bbox": [
-                301,
-                652,
-                310,
-                673
+                192,
+                381,
+                240,
+                395
             ]
         },
         {
-            "text": "EDP",
+            "text": "COLLECTION",
             "id": 12,
             "bbox": [
-                130,
-                677,
-                163,
-                693
+                249,
+                385,
+                326,
+                394
             ]
         },
         {
-            "text": "TENUE",
+            "text": "MENS",
             "id": 13,
             "bbox": [
-                179,
-                675,
-                233,
-                692
+                333,
+                386,
+                363,
+                394
             ]
         },
         {
-            "text": "DE",
+            "text": "OTHERS",
             "id": 14,
             "bbox": [
-                248,
-                675,
-                268,
-                691
+                373,
+                385,
+                417,
+                394
             ]
         },
         {
-            "text": "SOIREE",
+            "text": "S1-SLial",
             "id": 15,
             "bbox": [
-                283,
-                673,
-                349,
-                692
-            ]
-        },
-        {
-            "text": "900752719",
-            "id": 16,
-            "bbox": [
-                190,
-                702,
-                291,
-                722
+                443,
+                384,
+                535,
+                395
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Beauty",
-                "to",
-                "enple",
-                "n",
-                "EDP",
-                "TENUE",
-                "DE",
-                "SOIREE"
+                "PCOU",
+                "OTHS:",
+                "PRIVATE",
+                "COLLECTION",
+                "MENS",
+                "OTHERS"
             ],
             "value_id": [
-                8,
                 9,
                 10,
                 11,
                 12,
                 13,
-                14,
-                15
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14:45"
+                "S1-SLial"
             ],
             "value_id": [
-                4
+                15
             ]
         },
         {
@@ -214,21 +189,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "08/07/20"
+                "Jun,",
+                "2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "636.65"
-            ],
-            "value_id": [
-                5
+                3,
+                4
             ]
         },
         {
@@ -236,8 +202,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "level",
+                "SHOES"
             ],
             "value_id": [
                 1,
@@ -245,14 +211,27 @@
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900752719"
+                "1,750.",
+                "00"
             ],
             "value_id": [
-                16
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:50"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -260,10 +239,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "749.00"
+                "1,750.00"
             ],
             "value_id": [
-                6
+                8
             ]
         }
     ],

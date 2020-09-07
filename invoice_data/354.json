@@ -1,138 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "CHANEL",
+            "text": "7/11/2020",
             "id": 1,
             "bbox": [
-                321,
-                250,
-                558,
-                306
+                860,
+                709,
+                911,
+                720
             ]
         },
         {
-            "text": "July",
+            "text": "7",
             "id": 2,
             "bbox": [
-                448,
-                375,
-                472,
-                389
+                858,
+                723,
+                864,
+                735
             ]
         },
         {
-            "text": "08,",
+            "text": "15",
             "id": 3,
             "bbox": [
-                476,
-                374,
-                495,
-                386
+                866,
+                723,
+                875,
+                735
             ]
         },
         {
-            "text": "2020",
+            "text": "45",
             "id": 4,
             "bbox": [
-                501,
-                371,
-                532,
-                384
+                877,
+                726,
+                889,
+                734
             ]
         },
         {
-            "text": "19:49",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                542,
-                369,
-                579,
-                381
+                894,
+                726,
+                910,
+                734
             ]
         },
         {
-            "text": "23,390.00",
+            "text": "1,575.00",
             "id": 6,
             "bbox": [
-                582,
-                765,
-                653,
-                776
+                867,
+                980,
+                912,
+                992
             ]
         },
         {
-            "text": "23,390.00",
+            "text": "1,575",
             "id": 7,
             "bbox": [
-                675,
-                575,
-                742,
-                591
+                872,
+                903,
+                898,
+                915
             ]
         },
         {
-            "text": "1",
+            "text": "00",
             "id": 8,
             "bbox": [
-                412,
-                584,
-                416,
-                592
+                903,
+                904,
+                913,
+                916
             ]
         },
         {
-            "text": "FLAPBAG",
+            "text": "DRESS",
             "id": 9,
             "bbox": [
-                95,
-                578,
-                159,
-                588
+                301,
+                897,
+                341,
+                906
             ]
         },
         {
-            "text": "A01113Y04059N6515",
+            "text": "TROVAMSOLLIN",
             "id": 10,
             "bbox": [
-                95,
-                596,
-                234,
-                610
+                154,
+                891,
+                246,
+                902
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FLAPBAG"
+                "DRESS"
             ],
             "value_id": [
                 9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:49"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -140,14 +118,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "08,",
-                "2020"
+                "7/11/2020"
             ],
             "value_id": [
-                2,
-                3,
-                4
+                1
             ]
         },
         {
@@ -155,21 +129,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "23,390.00"
+                "1,575.00"
             ],
             "value_id": [
                 6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CHANEL"
-            ],
-            "value_id": [
-                1
             ]
         },
         {
@@ -177,10 +140,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "A01113Y04059N6515"
+                "TROVAMSOLLIN"
             ],
             "value_id": [
                 10
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7",
+                "15",
+                "45",
+                "PM"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -188,10 +168,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "23,390.00"
+                "1,575",
+                "00"
             ],
             "value_id": [
-                7
+                7,
+                8
             ]
         }
     ],

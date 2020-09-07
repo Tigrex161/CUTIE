@@ -1,106 +1,108 @@
 {
     "text_boxes": [
         {
-            "text": "KENZO",
+            "text": "Massimo",
             "id": 1,
             "bbox": [
-                258,
-                160,
-                478,
-                209
+                264,
+                130,
+                388,
+                157
             ]
         },
         {
-            "text": "July,",
+            "text": "Dutti",
             "id": 2,
             "bbox": [
-                492,
-                275,
-                517,
-                284
+                400,
+                128,
+                472,
+                156
             ]
         },
         {
-            "text": "24",
+            "text": "23.07-2020",
             "id": 3,
             "bbox": [
-                526,
+                194,
+                322,
                 275,
-                535,
-                282
+                335
             ]
         },
         {
-            "text": "2020",
+            "text": "11:33",
             "id": 4,
             "bbox": [
-                544,
-                273,
-                564,
-                282
+                287,
+                324,
+                325,
+                337
             ]
         },
         {
-            "text": "as3",
+            "text": "469",
             "id": 5,
             "bbox": [
-                572,
-                272,
-                598,
-                281
+                466,
+                583,
+                488,
+                594
             ]
         },
         {
-            "text": "210.00",
+            "text": "469",
             "id": 6,
             "bbox": [
-                561,
-                545,
-                595,
-                555
+                467,
+                434,
+                489,
+                443
             ]
         },
         {
-            "text": "210.00",
+            "text": "0510065051440",
             "id": 7,
             "bbox": [
-                558,
-                475,
-                591,
-                483
+                278,
+                455,
+                381,
+                465
             ]
         },
         {
-            "text": "D17924674153",
+            "text": "TROUSERS",
             "id": 8,
             "bbox": [
-                153,
-                465,
-                219,
-                473
+                401,
+                454,
+                464,
+                463
             ]
         },
         {
-            "text": "U",
+            "text": "10001125",
             "id": 9,
             "bbox": [
-                441,
-                461,
-                450,
-                471
+                196,
+                453,
+                259,
+                463
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "time",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "as3"
+                "0510065051440",
+                "TROUSERS"
             ],
             "value_id": [
-                5
+                7,
+                8
             ]
         },
         {
@@ -108,36 +110,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July,",
-                "24",
-                "2020"
+                "23.07-2020"
             ],
             "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "210.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "U"
-            ],
-            "value_id": [
-                9
+                3
             ]
         },
         {
@@ -145,10 +121,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "KENZO"
+                "Massimo",
+                "Dutti"
             ],
             "value_id": [
-                1
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "469"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -156,10 +145,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "D17924674153"
+                "10001125"
             ],
             "value_id": [
-                8
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:33"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -167,10 +167,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "210.00"
+                "469"
             ],
             "value_id": [
-                7
+                6
             ]
         }
     ],

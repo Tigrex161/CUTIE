@@ -1,173 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdales",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                147,
-                278,
-                428,
-                325
+                473,
+                313,
+                496,
+                321
             ]
         },
         {
-            "text": "PM",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                332,
-                452,
-                349,
-                464
+                507,
+                312,
+                533,
+                320
             ]
         },
         {
-            "text": "440.00",
+            "text": "18:56",
             "id": 3,
             "bbox": [
-                427,
-                781,
-                477,
-                796
+                542,
+                312,
+                574,
+                320
             ]
         },
         {
-            "text": "2",
+            "text": "2,",
             "id": 4,
             "bbox": [
-                466,
-                693,
-                472,
-                705
+                588,
+                551,
+                598,
+                560
             ]
         },
         {
-            "text": "220.00",
+            "text": "200.00",
             "id": 5,
             "bbox": [
-                414,
-                610,
-                465,
-                626
+                602,
+                550,
+                643,
+                560
             ]
         },
         {
-            "text": "220.00",
+            "text": "2,",
             "id": 6,
             "bbox": [
-                417,
-                641,
-                469,
-                658
+                593,
+                463,
+                603,
+                471
             ]
         },
         {
-            "text": "CW",
+            "text": "200.00",
             "id": 7,
             "bbox": [
-                117,
-                633,
-                135,
-                647
+                607,
+                463,
+                647,
+                471
             ]
         },
         {
-            "text": "Root",
+            "text": "1.",
             "id": 8,
             "bbox": [
-                144,
-                631,
-                179,
-                646
+                425,
+                463,
+                434,
+                473
             ]
         },
         {
-            "text": "Cover",
+            "text": "GVENCH",
             "id": 9,
             "bbox": [
-                189,
-                629,
-                232,
-                643
+                107,
+                440,
+                148,
+                447
             ]
         },
         {
-            "text": "Up",
+            "text": "WN",
             "id": 10,
             "bbox": [
-                242,
-                627,
-                259,
-                642
+                156,
+                440,
+                169,
+                447
             ]
         },
         {
-            "text": "CW",
+            "text": "SHOE:",
             "id": 11,
             "bbox": [
-                118,
-                668,
-                136,
-                681
+                175,
+                439,
+                215,
+                450
             ]
         },
         {
-            "text": "Root",
+            "text": "GIVENCHY",
             "id": 12,
             "bbox": [
-                145,
-                665,
-                180,
-                679
+                217,
+                439,
+                267,
+                450
             ]
         },
         {
-            "text": "Cover",
+            "text": "WOMENS",
             "id": 13,
             "bbox": [
-                190,
-                661,
-                234,
-                677
+                275,
+                441,
+                315,
+                449
             ]
         },
         {
-            "text": "Up",
+            "text": "L",
             "id": 14,
             "bbox": [
-                243,
-                659,
-                263,
-                675
+                367,
+                443,
+                397,
+                451
             ]
         },
         {
-            "text": "Dar",
+            "text": "I",
             "id": 15,
             "bbox": [
-                269,
-                655,
-                295,
-                672
-            ]
-        },
-        {
-            "text": "210094589",
-            "id": 16,
-            "bbox": [
-                136,
-                645,
-                216,
-                664
-            ]
-        },
-        {
-            "text": "210094589",
-            "id": 17,
-            "bbox": [
-                136,
-                678,
-                217,
-                697
+                414,
+                440,
+                443,
+                451
             ]
         }
     ],
@@ -177,47 +157,54 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CW",
-                "Root",
-                "Cover",
-                "Up",
-                "CW",
-                "Root",
-                "Cover",
-                "Up",
-                "Dar"
+                "GVENCH",
+                "WN",
+                "SHOE:",
+                "GIVENCHY",
+                "WOMENS"
             ],
             "value_id": [
-                7,
-                8,
                 9,
                 10,
                 11,
                 12,
-                13,
+                13
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L",
+                "I"
+            ],
+            "value_id": [
                 14,
                 15
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2"
+                "1."
             ],
             "value_id": [
-                4
+                8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PM"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
+                1,
                 2
             ]
         },
@@ -226,34 +213,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "440.00"
+                "2,",
+                "200.00"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:56"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "bloomingdales"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "210094589",
-                "210094589"
-            ],
-            "value_id": [
-                16,
-                17
             ]
         },
         {
@@ -261,12 +237,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "220.00",
-                "220.00"
+                "2,",
+                "200.00"
             ],
             "value_id": [
-                5,
-                6
+                6,
+                7
             ]
         }
     ],

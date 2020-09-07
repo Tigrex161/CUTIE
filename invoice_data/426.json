@@ -1,63 +1,63 @@
 {
     "text_boxes": [
         {
-            "text": "ZARA",
+            "text": "270.00",
             "id": 1,
             "bbox": [
-                311,
-                79,
-                401,
-                118
+                567,
+                759,
+                614,
+                777
             ]
         },
         {
-            "text": "12-07-2020",
+            "text": "270.00",
             "id": 2,
             "bbox": [
-                249,
-                266,
-                300,
-                274
+                569,
+                643,
+                616,
+                660
             ]
         },
         {
-            "text": "20:01",
+            "text": "100",
             "id": 3,
             "bbox": [
-                308,
-                267,
-                332,
-                273
+                422,
+                641,
+                443,
+                656
             ]
         },
         {
-            "text": "0038715350103",
+            "text": "Firenze",
             "id": 4,
             "bbox": [
-                303,
-                331,
-                371,
-                341
+                240,
+                636,
+                300,
+                655
             ]
         },
         {
-            "text": "DRESS",
+            "text": "100",
             "id": 5,
             "bbox": [
-                384,
-                328,
-                409,
-                337
+                594,
+                705,
+                615,
+                721
             ]
         },
         {
-            "text": "10001083",
+            "text": "6757030",
             "id": 6,
             "bbox": [
-                249,
-                332,
-                290,
-                341
+                155,
+                634,
+                213,
+                651
             ]
         }
     ],
@@ -67,42 +67,40 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0038715350103",
-                "DRESS"
+                "Firenze"
             ],
             "value_id": [
-                4,
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100"
+            ],
+            "value_id": [
                 5
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:01"
+                "100"
             ],
             "value_id": [
                 3
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12-07-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZARA"
+                "270.00"
             ],
             "value_id": [
                 1
@@ -113,10 +111,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001083"
+                "6757030"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "270.00"
+            ],
+            "value_id": [
+                2
             ]
         }
     ],

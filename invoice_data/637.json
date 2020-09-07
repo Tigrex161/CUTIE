@@ -1,83 +1,193 @@
 {
     "text_boxes": [
         {
-            "text": "CLARKS",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                305,
-                276,
-                381,
-                292
+                355,
+                227,
+                399,
+                241
             ]
         },
         {
-            "text": "357.00",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                528,
-                697,
-                586,
-                713
+                406,
+                228,
+                474,
+                243
             ]
         },
         {
-            "text": "595.00",
+            "text": "MALTEAS",
             "id": 3,
             "bbox": [
-                524,
-                562,
-                582,
-                578
+                384,
+                245,
+                444,
+                253
             ]
         },
         {
-            "text": "1",
+            "text": "MASON",
             "id": 4,
             "bbox": [
-                579,
-                720,
-                585,
-                735
+                369,
+                278,
+                398,
+                287
             ]
         },
         {
-            "text": "MARITSA",
+            "text": "FONCE",
             "id": 5,
             "bbox": [
-                299,
-                569,
-                383,
-                587
+                401,
+                278,
+                426,
+                288
             ]
         },
         {
-            "text": "LARA",
+            "text": "N",
             "id": 6,
             "bbox": [
-                391,
-                568,
-                443,
-                584
+                430,
+                280,
+                445,
+                287
             ]
         },
         {
-            "text": "261479294",
+            "text": "13/07/2020",
             "id": 7,
             "bbox": [
-                294,
-                591,
-                389,
-                610
+                583,
+                486,
+                649,
+                495
             ]
         },
         {
-            "text": "261479294050",
+            "text": "12154",
             "id": 8,
             "bbox": [
+                676,
+                484,
+                704,
+                496
+            ]
+        },
+        {
+            "text": "1,180.00",
+            "id": 9,
+            "bbox": [
+                726,
+                749,
+                776,
+                757
+            ]
+        },
+        {
+            "text": "1,",
+            "id": 10,
+            "bbox": [
+                729,
+                555,
+                745,
+                566
+            ]
+        },
+        {
+            "text": "180.00",
+            "id": 11,
+            "bbox": [
+                745,
+                557,
+                783,
+                566
+            ]
+        },
+        {
+            "text": "1.",
+            "id": 12,
+            "bbox": [
+                301,
+                552,
+                304,
+                559
+            ]
+        },
+        {
+            "text": "LPOO",
+            "id": 13,
+            "bbox": [
+                23,
+                545,
+                57,
+                557
+            ]
+        },
+        {
+            "text": "ATTIAPE",
+            "id": 14,
+            "bbox": [
+                80,
+                549,
+                127,
+                557
+            ]
+        },
+        {
+            "text": "REVES",
+            "id": 15,
+            "bbox": [
+                134,
+                549,
+                168,
+                559
+            ]
+        },
+        {
+            "text": "100ML",
+            "id": 16,
+            "bbox": [
+                177,
+                549,
+                210,
+                559
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 17,
+            "bbox": [
+                217,
+                551,
+                237,
+                559
+            ]
+        },
+        {
+            "text": "PERFUME",
+            "id": 18,
+            "bbox": [
+                26,
+                560,
+                73,
+                569
+            ]
+        },
+        {
+            "text": "(STOCK)",
+            "id": 19,
+            "bbox": [
+                83,
+                562,
                 125,
-                574,
-                255,
-                593
+                571
             ]
         }
     ],
@@ -87,36 +197,44 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MARITSA",
-                "LARA",
-                "261479294"
+                "LPOO",
+                "ATTIAPE",
+                "REVES",
+                "100ML",
+                "EDP",
+                "PERFUME",
+                "(STOCK)"
             ],
             "value_id": [
-                5,
-                6,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1."
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13/07/2020"
+            ],
+            "value_id": [
                 7
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "357.00"
-            ],
-            "value_id": [
-                2
             ]
         },
         {
@@ -124,18 +242,39 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CLARKS"
+                "LOUIS",
+                "VUITTON",
+                "MALTEAS",
+                "MASON",
+                "FONCE",
+                "N"
             ],
             "value_id": [
-                1
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "261479294050"
+                "1,180.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12154"
             ],
             "value_id": [
                 8
@@ -146,10 +285,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "595.00"
+                "1,",
+                "180.00"
             ],
             "value_id": [
-                3
+                10,
+                11
             ]
         }
     ],

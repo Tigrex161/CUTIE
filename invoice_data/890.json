@@ -1,186 +1,138 @@
 {
     "text_boxes": [
         {
-            "text": "Apple",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                118,
-                135,
-                150,
-                147
+                325,
+                210,
+                540,
+                246
             ]
         },
         {
-            "text": "Dubai",
+            "text": "July",
             "id": 2,
             "bbox": [
-                155,
-                135,
-                187,
-                145
+                451,
+                305,
+                470,
+                314
             ]
         },
         {
-            "text": "Mall",
+            "text": "26,",
             "id": 3,
             "bbox": [
-                192,
-                135,
-                215,
-                144
+                476,
+                305,
+                490,
+                314
             ]
         },
         {
-            "text": "28/07/20",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                119,
-                1451,
-                168,
-                1460
+                497,
+                304,
+                521,
+                312
             ]
         },
         {
-            "text": "19:29",
+            "text": "12:37",
             "id": 5,
             "bbox": [
-                181,
-                1452,
-                208,
-                1460
+                531,
+                304,
+                559,
+                312
             ]
         },
         {
-            "text": "339.00",
+            "text": "2,810.00",
             "id": 6,
             "bbox": [
-                618,
-                954,
-                653,
-                963
+                655,
+                520,
+                702,
+                529
             ]
         },
         {
-            "text": "339.00",
+            "text": "2,600.00",
             "id": 7,
             "bbox": [
-                621,
-                848,
-                653,
-                857
+                652,
+                471,
+                699,
+                482
             ]
         },
         {
-            "text": "1",
+            "text": "5,410.00",
             "id": 8,
             "bbox": [
-                649,
-                784,
-                651,
-                793
+                581,
+                693,
+                632,
+                704
             ]
         },
         {
-            "text": "IPAD",
+            "text": "RING",
             "id": 9,
             "bbox": [
-                119,
-                661,
-                144,
-                670
+                153,
+                477,
+                183,
+                484
             ]
         },
         {
-            "text": "SMART",
+            "text": "NECKLACE",
             "id": 10,
             "bbox": [
-                149,
-                661,
-                188,
-                670
+                151,
+                521,
+                213,
+                532
             ]
         },
         {
-            "text": "FOLIO",
+            "text": "AB4280B03543N7886",
             "id": 11,
             "bbox": [
-                192,
-                661,
-                226,
-                670
+                150,
+                551,
+                269,
+                561
             ]
         },
         {
-            "text": "11",
+            "text": "AB4042B03185N7300",
             "id": 12,
             "bbox": [
-                231,
-                661,
-                239,
-                669
-            ]
-        },
-        {
-            "text": "BLACK-ZEE",
-            "id": 13,
-            "bbox": [
-                245,
-                661,
-                306,
-                670
-            ]
-        },
-        {
-            "text": "MXT42ZE/A",
-            "id": 14,
-            "bbox": [
-                194,
-                683,
-                255,
-                692
+                152,
+                506,
+                270,
+                515
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "IPAD",
-                "SMART",
-                "FOLIO",
-                "11",
-                "BLACK-ZEE"
+                "RING",
+                "NECKLACE"
             ],
             "value_id": [
                 9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:29"
-            ],
-            "value_id": [
-                5
+                10
             ]
         },
         {
@@ -188,21 +140,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "28/07/20"
+                "July",
+                "26,",
+                "2020"
             ],
             "value_id": [
+                2,
+                3,
                 4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "339.00"
-            ],
-            "value_id": [
-                6
             ]
         },
         {
@@ -210,14 +155,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Apple",
-                "Dubai",
-                "Mall"
+                "CHANEL"
             ],
             "value_id": [
-                1,
-                2,
-                3
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5,410.00"
+            ],
+            "value_id": [
+                8
             ]
         },
         {
@@ -225,10 +177,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MXT42ZE/A"
+                "AB4280B03543N7886",
+                "AB4042B03185N7300"
             ],
             "value_id": [
-                14
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:37"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -236,9 +201,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "339.00"
+                "2,810.00",
+                "2,600.00"
             ],
             "value_id": [
+                6,
                 7
             ]
         }

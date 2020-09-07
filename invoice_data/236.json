@@ -1,33 +1,33 @@
 {
     "text_boxes": [
         {
-            "text": "AQUAZZURA",
+            "text": "TOD'S",
             "id": 1,
             "bbox": [
-                314,
-                235,
-                422,
-                253
+                320,
+                35,
+                392,
+                62
             ]
         },
         {
-            "text": "15.",
+            "text": "10.",
             "id": 2,
             "bbox": [
-                435,
-                522,
-                443,
-                527
+                432,
+                331,
+                444,
+                340
             ]
         },
         {
             "text": "July",
             "id": 3,
             "bbox": [
-                446,
-                521,
-                458,
-                529
+                445,
+                331,
+                457,
+                339
             ]
         },
         {
@@ -35,79 +35,79 @@
             "id": 4,
             "bbox": [
                 461,
-                521,
-                476,
-                527
+                330,
+                477,
+                338
             ]
         },
         {
-            "text": "5231",
+            "text": "93440",
             "id": 5,
             "bbox": [
-                479,
-                518,
-                506,
-                529
+                482,
+                330,
+                508,
+                339
             ]
         },
         {
-            "text": "1,479.00",
+            "text": "1,353.00",
             "id": 6,
             "bbox": [
-                596,
-                669,
-                624,
-                677
+                602,
+                482,
+                633,
+                488
             ]
         },
         {
-            "text": "1479.00",
+            "text": "1,353.00",
             "id": 7,
             "bbox": [
-                596,
-                564,
-                623,
-                574
+                608,
+                385,
+                636,
+                391
             ]
         },
         {
-            "text": "AQZ",
+            "text": "TD",
             "id": 8,
             "bbox": [
-                329,
-                573,
-                344,
-                578
+                318,
+                386,
+                327,
+                392
             ]
         },
         {
-            "text": "WOMEN",
+            "text": "MEN",
             "id": 9,
             "bbox": [
+                330,
+                386,
                 346,
-                572,
-                374,
-                578
+                392
             ]
         },
         {
             "text": "SHOES",
             "id": 10,
             "bbox": [
-                378,
-                572,
-                399,
-                578
+                350,
+                386,
+                374,
+                392
             ]
         },
         {
-            "text": "PSHMIDMO-MTS",
+            "text": "XRMOEOOCO90038",
             "id": 11,
             "bbox": [
-                129,
-                573,
-                194,
-                583
+                112,
+                385,
+                181,
+                392
             ]
         }
     ],
@@ -117,8 +117,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AQZ",
-                "WOMEN",
+                "TD",
+                "MEN",
                 "SHOES"
             ],
             "value_id": [
@@ -128,22 +128,11 @@
             ]
         },
         {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "5231"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15.",
+                "10.",
                 "July",
                 "2020"
             ],
@@ -154,25 +143,25 @@
             ]
         },
         {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,479.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AQUAZZURA"
+                "TOD'S"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,353.00"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -180,10 +169,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PSHMIDMO-MTS"
+                "XRMOEOOCO90038"
             ],
             "value_id": [
                 11
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "93440"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -191,7 +191,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1479.00"
+                "1,353.00"
             ],
             "value_id": [
                 7

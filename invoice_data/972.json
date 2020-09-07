@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "Jul,",
+            "id": 1,
+            "bbox": [
+                507,
+                490,
+                534,
+                503
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 2,
+            "bbox": [
+                547,
+                486,
+                577,
+                499
+            ]
+        },
+        {
+            "text": "18:19",
+            "id": 3,
+            "bbox": [
+                587,
+                483,
+                624,
+                495
+            ]
+        },
+        {
+            "text": "1,440.00",
+            "id": 4,
+            "bbox": [
+                653,
+                749,
+                719,
+                762
+            ]
+        },
+        {
+            "text": "1,440.00",
+            "id": 5,
+            "bbox": [
+                653,
+                652,
+                715,
+                664
+            ]
+        },
+        {
+            "text": "02c226-725287:SFO.",
+            "id": 6,
+            "bbox": [
+                126,
+                660,
+                253,
+                677
+            ]
+        },
+        {
+            "text": "725287:90:",
+            "id": 7,
+            "bbox": [
+                258,
+                656,
+                326,
+                668
+            ]
+        },
+        {
+            "text": "SWAN",
+            "id": 8,
+            "bbox": [
+                330,
+                654,
+                358,
+                663
+            ]
+        },
+        {
+            "text": "028524788597",
+            "id": 9,
+            "bbox": [
+                122,
+                683,
+                208,
+                697
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "02c226-725287:SFO.",
+                "725287:90:",
+                "SWAN"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul,",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,440.00"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "028524788597"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:19"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,440.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/972.jpg"
+    }
+}

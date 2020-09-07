@@ -1,221 +1,218 @@
 {
     "text_boxes": [
         {
-            "text": "Dior",
+            "text": "SYMPHONY",
             "id": 1,
             "bbox": [
-                182,
-                24,
-                479,
-                145
+                244,
+                328,
+                431,
+                360
             ]
         },
         {
-            "text": "25-Jun-2020",
+            "text": "01:34:47",
             "id": 2,
             "bbox": [
-                242,
-                417,
-                341,
-                438
+                233,
+                471,
+                268,
+                479
             ]
         },
         {
-            "text": "19:52",
+            "text": "PM",
             "id": 3,
             "bbox": [
-                353,
-                416,
-                396,
-                435
+                272,
+                471,
+                284,
+                479
             ]
         },
         {
-            "text": "1,425.00",
+            "text": "6874.00",
             "id": 4,
             "bbox": [
-                474,
-                965,
-                545,
-                986
+                565,
+                629,
+                599,
+                636
             ]
         },
         {
-            "text": "1,425.00",
+            "text": "259.00",
             "id": 5,
             "bbox": [
-                510,
-                787,
-                582,
-                804
+                576,
+                546,
+                601,
+                553
             ]
         },
         {
-            "text": "1",
+            "text": "6615.00",
             "id": 6,
             "bbox": [
-                258,
-                783,
-                262,
-                799
+                570,
+                588,
+                600,
+                595
             ]
         },
         {
-            "text": "1",
+            "text": "RAMI",
             "id": 7,
             "bbox": [
-                535,
-                848,
-                540,
-                864
+                106,
+                564,
+                125,
+                570
             ]
         },
         {
-            "text": "F090928009:CPCD",
+            "text": "AL",
             "id": 8,
             "bbox": [
-                75,
-                724,
-                210,
-                742
+                128,
+                564,
+                137,
+                570
             ]
         },
         {
-            "text": "OUD",
+            "text": "ALI",
             "id": 9,
             "bbox": [
-                221,
-                723,
-                246,
-                739
+                140,
+                564,
+                152,
+                570
             ]
         },
         {
-            "text": "ISPAHAN",
+            "text": "SUMMER",
             "id": 10,
             "bbox": [
-                259,
-                722,
-                318,
-                739
+                154,
+                564,
+                190,
+                571
             ]
         },
         {
-            "text": "SPR",
+            "text": "BRZ",
             "id": 11,
             "bbox": [
-                328,
-                723,
-                352,
-                739
+                193,
+                564,
+                220,
+                571
             ]
         },
         {
-            "text": "250ML",
+            "text": "Beits",
             "id": 12,
             "bbox": [
-                363,
-                723,
-                406,
-                740
+                104,
+                573,
+                124,
+                580
             ]
         },
         {
-            "text": "INT12",
+            "text": "RAMI",
             "id": 13,
             "bbox": [
-                419,
-                724,
-                460,
-                741
+                110,
+                601,
+                133,
+                608
             ]
         },
         {
-            "text": "009111680226",
+            "text": "AL",
             "id": 14,
             "bbox": [
-                75,
-                693,
-                182,
-                711
+                135,
+                601,
+                140,
+                608
+            ]
+        },
+        {
+            "text": "ALI",
+            "id": 15,
+            "bbox": [
+                144,
+                601,
+                154,
+                609
+            ]
+        },
+        {
+            "text": "SUMMER",
+            "id": 16,
+            "bbox": [
+                160,
+                602,
+                193,
+                609
+            ]
+        },
+        {
+            "text": "BRZA",
+            "id": 17,
+            "bbox": [
+                197,
+                602,
+                221,
+                609
+            ]
+        },
+        {
+            "text": "Diesses",
+            "id": 18,
+            "bbox": [
+                111,
+                611,
+                139,
+                617
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "F090928009:CPCD",
-                "OUD",
-                "ISPAHAN",
-                "SPR",
-                "250ML",
-                "INT12"
+                "RAMI",
+                "AL",
+                "ALI",
+                "SUMMER",
+                "BRZ",
+                "Beits",
+                "RAMI",
+                "AL",
+                "ALI",
+                "SUMMER",
+                "BRZA",
+                "Diesses"
             ],
             "value_id": [
+                7,
                 8,
                 9,
                 10,
                 11,
                 12,
-                13
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:52"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "25-Jun-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,425.00"
-            ],
-            "value_id": [
-                4
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
             ]
         },
         {
@@ -223,21 +220,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Dior"
+                "SYMPHONY"
             ],
             "value_id": [
                 1
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "009111680226"
+                "6874.00"
             ],
             "value_id": [
-                14
+                4
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "01:34:47",
+                "PM"
+            ],
+            "value_id": [
+                2,
+                3
             ]
         },
         {
@@ -245,10 +255,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,425.00"
+                "259.00",
+                "6615.00"
             ],
             "value_id": [
-                5
+                5,
+                6
             ]
         }
     ],

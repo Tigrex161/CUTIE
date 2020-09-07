@@ -1,152 +1,142 @@
 {
     "text_boxes": [
         {
-            "text": "DHAMANI",
+            "text": "ZRA",
             "id": 1,
             "bbox": [
-                326,
-                274,
-                478,
-                293
+                347,
+                109,
+                446,
+                157
             ]
         },
         {
-            "text": "1969",
+            "text": "2:07-2020",
             "id": 2,
             "bbox": [
-                387,
-                305,
-                417,
-                314
+                276,
+                319,
+                333,
+                329
             ]
         },
         {
-            "text": "29/06/2020",
+            "text": "2127",
             "id": 3,
             "bbox": [
-                209,
-                365,
-                267,
-                376
+                342,
+                321,
+                368,
+                329
             ]
         },
         {
-            "text": "9,530.00",
+            "text": "198",
             "id": 4,
             "bbox": [
-                662,
-                778,
-                698,
-                788
+                474,
+                515,
+                488,
+                522
             ]
         },
         {
-            "text": "1.00",
+            "text": "79",
             "id": 5,
             "bbox": [
-                500,
-                780,
-                516,
-                787
+                478,
+                379,
+                487,
+                386
             ]
         },
         {
-            "text": "9,530.00",
+            "text": "11",
             "id": 6,
             "bbox": [
-                658,
-                444,
-                695,
-                453
+                472,
+                408,
+                487,
+                415
             ]
         },
         {
-            "text": "1.00000",
+            "text": "SHIRT",
             "id": 7,
             "bbox": [
-                484,
-                447,
-                516,
-                455
+                424,
+                393,
+                451,
+                401
             ]
         },
         {
-            "text": "DIAMOND",
+            "text": "12215100013s",
             "id": 8,
             "bbox": [
-                253,
-                449,
-                296,
-                456
+                336,
+                421,
+                424,
+                434
             ]
         },
         {
-            "text": "GOLD",
+            "text": "HEELED",
             "id": 9,
             "bbox": [
-                299,
-                449,
-                325,
-                456
+                424,
+                423,
+                458,
+                433
             ]
         },
         {
-            "text": "RING",
+            "text": "SIOES",
             "id": 10,
             "bbox": [
-                329,
-                449,
-                350,
-                455
+                466,
+                424,
+                493,
+                432
             ]
         },
         {
-            "text": "DSRC6511",
+            "text": "1000136",
             "id": 11,
             "bbox": [
-                142,
-                449,
-                187,
-                456
+                277,
+                393,
+                322,
+                402
+            ]
+        },
+        {
+            "text": "10002398",
+            "id": 12,
+            "bbox": [
+                278,
+                420,
+                322,
+                428
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00000"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIAMOND",
-                "GOLD",
-                "RING"
+                "SHIRT",
+                "12215100013s",
+                "HEELED",
+                "SIOES"
             ],
             "value_id": [
+                7,
                 8,
                 9,
                 10
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -154,21 +144,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "29/06/2020"
+                "2:07-2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "9,530.00"
-            ],
-            "value_id": [
-                4
+                2
             ]
         },
         {
@@ -176,12 +155,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DHAMANI",
-                "1969"
+                "ZRA"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "198"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -189,10 +177,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DSRC6511"
+                "1000136",
+                "10002398"
             ],
             "value_id": [
-                11
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2127"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -200,9 +201,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "9,530.00"
+                "79",
+                "11"
             ],
             "value_id": [
+                5,
                 6
             ]
         }

@@ -1,148 +1,159 @@
 {
     "text_boxes": [
         {
-            "text": "CHANEL",
+            "text": "DOLCE",
             "id": 1,
             "bbox": [
-                308,
-                212,
-                511,
-                265
+                200,
+                243,
+                305,
+                274
             ]
         },
         {
-            "text": "July",
+            "text": "&",
             "id": 2,
             "bbox": [
-                424,
-                324,
-                444,
-                337
+                312,
+                256,
+                323,
+                270
             ]
         },
         {
-            "text": "13,",
+            "text": "GABBANA",
             "id": 3,
             "bbox": [
-                449,
-                321,
-                463,
-                333
+                330,
+                238,
+                501,
+                272
+            ]
+        },
+        {
+            "text": "July,",
+            "id": 4,
+            "bbox": [
+                494,
+                330,
+                522,
+                340
+            ]
+        },
+        {
+            "text": "07",
+            "id": 5,
+            "bbox": [
+                531,
+                331,
+                542,
+                339
             ]
         },
         {
             "text": "2020",
-            "id": 4,
-            "bbox": [
-                468,
-                318,
-                494,
-                329
-            ]
-        },
-        {
-            "text": "11:20",
-            "id": 5,
-            "bbox": [
-                504,
-                312,
-                533,
-                325
-            ]
-        },
-        {
-            "text": "1,806.00",
             "id": 6,
             "bbox": [
-                552,
-                658,
-                604,
-                670
+                549,
+                331,
+                572,
+                339
             ]
         },
         {
-            "text": "1,806.00",
+            "text": "18:03",
             "id": 7,
             "bbox": [
-                629,
-                488,
-                679,
-                502
+                580,
+                332,
+                607,
+                341
             ]
         },
         {
-            "text": "1",
+            "text": "840.00",
             "id": 8,
             "bbox": [
-                396,
-                505,
-                399,
-                511
+                563,
+                632,
+                597,
+                641
             ]
         },
         {
-            "text": "SNEAKERS",
+            "text": "840.00",
             "id": 9,
             "bbox": [
-                120,
-                496,
-                184,
-                507
+                563,
+                553,
+                597,
+                561
             ]
         },
         {
-            "text": "G34086Y515260F639",
+            "text": "GBKCOTG7VNYND000:",
             "id": 10,
             "bbox": [
-                120,
-                514,
-                239,
-                526
+                201,
+                535,
+                307,
+                548
             ]
         },
         {
-            "text": "15B",
+            "text": "DGA.",
             "id": 11,
             "bbox": [
-                246,
-                517,
-                265,
-                525
+                309,
+                535,
+                329,
+                547
+            ]
+        },
+        {
+            "text": "Uy",
+            "id": 12,
+            "bbox": [
+                474,
+                535,
+                496,
+                543
+            ]
+        },
+        {
+            "text": "009424836839",
+            "id": 13,
+            "bbox": [
+                117,
+                538,
+                192,
+                547
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SNEAKERS"
+                "GBKCOTG7VNYND000:",
+                "DGA."
             ],
             "value_id": [
-                9
+                10,
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "arabic_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:20"
+                "Uy"
             ],
             "value_id": [
-                5
+                12
             ]
         },
         {
@@ -150,24 +161,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "13,",
+                "July,",
+                "07",
                 "2020"
             ],
             "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,806.00"
-            ],
-            "value_id": [
+                4,
+                5,
                 6
             ]
         },
@@ -176,10 +176,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHANEL"
+                "DOLCE",
+                "&",
+                "GABBANA"
             ],
             "value_id": [
-                1
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "840.00"
+            ],
+            "value_id": [
+                8
             ]
         },
         {
@@ -187,12 +202,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "G34086Y515260F639",
-                "15B"
+                "009424836839"
             ],
             "value_id": [
-                10,
-                11
+                13
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:03"
+            ],
+            "value_id": [
+                7
             ]
         },
         {
@@ -200,10 +224,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,806.00"
+                "840.00"
             ],
             "value_id": [
-                7
+                9
             ]
         }
     ],

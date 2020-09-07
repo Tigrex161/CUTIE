@@ -1,116 +1,119 @@
 {
     "text_boxes": [
         {
-            "text": "MARII",
+            "text": "Jul,",
             "id": 1,
             "bbox": [
-                289,
-                165,
-                407,
-                190
+                444,
+                320,
+                469,
+                329
             ]
         },
         {
-            "text": "2007/2020",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                506,
-                310,
-                568,
-                324
+                481,
+                318,
+                508,
+                327
             ]
         },
         {
-            "text": "18",
+            "text": "12:34",
             "id": 3,
             "bbox": [
-                205,
-                468,
-                223,
-                479
+                517,
+                316,
+                551,
+                327
             ]
         },
         {
-            "text": "Karet",
+            "text": "3,",
             "id": 4,
             "bbox": [
-                225,
-                468,
-                247,
-                479
+                563,
+                576,
+                572,
+                584
             ]
         },
         {
-            "text": "Vallw",
+            "text": "400.00",
             "id": 5,
             "bbox": [
-                247,
-                471,
-                277,
-                480
+                577,
+                575,
+                618,
+                583
             ]
         },
         {
-            "text": "CI",
+            "text": "3,400.00",
             "id": 6,
             "bbox": [
-                280,
-                472,
-                301,
-                479
+                571,
+                483,
+                627,
+                493
             ]
         },
         {
-            "text": "Fu",
+            "text": "PRADA",
             "id": 7,
             "bbox": [
-                304,
-                472,
-                319,
-                479
+                85,
+                464,
+                120,
+                471
             ]
         },
         {
-            "text": "Oamo",
+            "text": "WOMENS",
             "id": 8,
             "bbox": [
-                323,
-                471,
-                362,
-                480
+                126,
+                464,
+                167,
+                471
             ]
         },
         {
-            "text": "Hug",
+            "text": "Li",
             "id": 9,
             "bbox": [
-                207,
-                483,
-                238,
-                493
-            ]
-        },
-        {
-            "text": "Eanings",
-            "id": 10,
-            "bbox": [
-                242,
-                482,
-                278,
-                493
+                267,
+                462,
+                295,
+                473
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MARII"
+                "PRADA",
+                "WOMENS"
             ],
             "value_id": [
-                1
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Li"
+            ],
+            "value_id": [
+                9
             ]
         },
         {
@@ -118,35 +121,47 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2007/2020"
+                "Jul,",
+                "2020"
             ],
             "value_id": [
+                1,
                 2
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18",
-                "Karet",
-                "Vallw",
-                "CI",
-                "Fu",
-                "Oamo",
-                "Hug",
-                "Eanings"
+                "3,",
+                "400.00"
             ],
             "value_id": [
-                3,
                 4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10
+                5
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:34"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,400.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],
