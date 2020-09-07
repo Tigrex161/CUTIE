@@ -14,7 +14,7 @@ from utils import *
 
 # from model_cutie_aspp import CUTIERes as CUTIEv1
 
-from model_cutie_res_bert import CUTIERes as CUTIEv1
+from model_cutie_aspp import CUTIERes as CUTIEv1
 from model_cutie2_aspp import CUTIE2 as CUTIEv2
 
 parser = argparse.ArgumentParser(description='CUTIE parameters')
