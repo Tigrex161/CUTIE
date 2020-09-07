@@ -235,6 +235,8 @@ if __name__ == '__main__':
             
             data = data_loader.next_batch()
             feeds = [network.data_grid, network.gt_classes, network.data_image, network.ps_1d_indices, network.ghm_weights]
+            # feeds = [network.data, network.gt_classes, network.ghm_weights]
+
             fetches = [model_loss, regularization_loss, total_loss, summary_op, train_dummy, model_logits, model_output]
             h = sess.partial_run_setup(fetches, feeds)
             
