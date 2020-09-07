@@ -29,7 +29,7 @@ parser.add_argument('--restore_ckpt', type=bool, default=False)
 parser.add_argument('--meta_file', type=str, default='gdrive/My Drive/checkpoints/graph/INVOICE/CUTIE_atrousSPP_d20000c4(r80c80)_iter_501.ckpt.meta')
 parser.add_argument('--restore_bertembedding_only', type=bool, default=False) # effective when restore_ckpt is True
 parser.add_argument('--bert_meta_file', type=str, default='gdrive/My Drive/checkpoints/BERT/bert_model.ckpt.meta')
-parser.add_argument('--embedding_file', type=str, default='gdrive/My Drive/checkpoints/BERT/') 
+parser.add_argument('--embedding_file', type=str, default='gdrive/My Drive/checkpoints/BERT/bert_model.ckpt') 
 parser.add_argument('--ckpt_path', type=str, default='./gdrive/My Drive/checkpoints/cutie3/')
 parser.add_argument('--ckpt_file', type=str, default='')  
 
@@ -205,7 +205,7 @@ if __name__ == '__main__':
                     ckpt_path = params.embedding_file
                     ckpt = tf.train.get_checkpoint_state(ckpt_path)
                     print('Restoring from {}...'.format(ckpt_path))
-                    ckpt_saver.restore(sess, tf.train.latest_checkpoint(ckpt_path))
+                    ckpt_saver.restore(sess, ckpt_path)
                     print('Restored from {}'.format(ckpt_path))
                 except:
                     raise Exception('Check your path {:s}'.format(ckpt_path))
