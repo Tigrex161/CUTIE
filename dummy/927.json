@@ -1,0 +1,219 @@
+{
+    "text_boxes": [
+        {
+            "text": "DKNY",
+            "id": 1,
+            "bbox": [
+                322,
+                53,
+                353,
+                65
+            ]
+        },
+        {
+            "text": "DUBA!",
+            "id": 2,
+            "bbox": [
+                364,
+                54,
+                400,
+                66
+            ]
+        },
+        {
+            "text": "MALL-",
+            "id": 3,
+            "bbox": [
+                413,
+                55,
+                458,
+                67
+            ]
+        },
+        {
+            "text": "Ma",
+            "id": 4,
+            "bbox": [
+                469,
+                54,
+                483,
+                68
+            ]
+        },
+        {
+            "text": "in",
+            "id": 5,
+            "bbox": [
+                485,
+                55,
+                502,
+                68
+            ]
+        },
+        {
+            "text": "7/25/2020",
+            "id": 6,
+            "bbox": [
+                318,
+                202,
+                390,
+                211
+            ]
+        },
+        {
+            "text": "18:24",
+            "id": 7,
+            "bbox": [
+                410,
+                202,
+                448,
+                212
+            ]
+        },
+        {
+            "text": "575.00",
+            "id": 8,
+            "bbox": [
+                488,
+                396,
+                537,
+                407
+            ]
+        },
+        {
+            "text": "JAX",
+            "id": 9,
+            "bbox": [
+                177,
+                392,
+                202,
+                405
+            ]
+        },
+        {
+            "text": "K1080337",
+            "id": 10,
+            "bbox": [
+                178,
+                408,
+                246,
+                420
+            ]
+        },
+        {
+            "text": "795730992649",
+            "id": 11,
+            "bbox": [
+                180,
+                423,
+                283,
+                435
+            ]
+        },
+        {
+            "text": "DKNY",
+            "id": 12,
+            "bbox": [
+                181,
+                439,
+                214,
+                450
+            ]
+        },
+        {
+            "text": "460.00",
+            "id": 13,
+            "bbox": [
+                477,
+                615,
+                524,
+                629
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JAX",
+                "K1080337",
+                "795730992649",
+                "DKNY"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:24"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/25/2020"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "460.00"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DKNY",
+                "DUBA!",
+                "MALL-",
+                "Ma",
+                "in"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "575.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/927.jpg"
+    }
+}
