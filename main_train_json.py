@@ -6,6 +6,7 @@ import numpy as np
 import argparse, os
 import timeit
 from pprint import pprint
+#Set to 0 to fix CUDA not found errors
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 from data_loader_json import DataLoader

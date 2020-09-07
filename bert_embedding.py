@@ -5,7 +5,7 @@ import tensorflow as tf
 import numpy as np
 import argparse
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 from model_cutie import CUTIE
 from model_cutie_res import CUTIERes
