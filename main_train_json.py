@@ -201,8 +201,9 @@ if __name__ == '__main__':
                 try:
                     # load_variable = {"bert/embeddings/word_embeddings": network.embedding_table}
                     # ckpt_saver = tf.train.Saver(load_variable, max_to_keep=50)
-                    ckpt_saver = tf.train.import_meta_graph(params.bert_meta_file) 
-                    ckpt_path = params.embedding_file
+                    ckpt_saver = tf.train.import_meta_graph('gdrive/My Drive/checkpoints/BERT/bert_model.ckpt.meta') 
+                    # ckpt_path = params.embedding_file
+                    ckpt_path = 'gdrive/My Drive/checkpoints/BERT/bert_model.ckpt'
                     ckpt = tf.train.get_checkpoint_state(ckpt_path)
                     print('Restoring from {}...'.format(ckpt_path))
                     ckpt_saver.restore(sess, ckpt_path)
