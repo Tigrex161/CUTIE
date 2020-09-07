@@ -25,7 +25,8 @@ parser.add_argument('--test_path', type=str, default='') # leave empty if no tes
 parser.add_argument('--restore_ckpt', type=bool, default=False) 
 parser.add_argument('--meta_file', type=str, default='gdrive/My Drive/checkpoints/graph/INVOICE/CUTIE_atrousSPP_d20000c4(r80c80)_iter_501.ckpt.meta')
 parser.add_argument('--restore_bertembedding_only', type=bool, default=False) # effective when restore_ckpt is True
-parser.add_argument('--embedding_file', type=str, default='../graph/bert/multi_cased_L-12_H-768_A-12/bert_model.ckpt') 
+parser.add_argument('--bert_meta_file', type=str, default='gdrive/My Drive/checkpoints/BERT/bert_model.ckpt.index')
+parser.add_argument('--embedding_file', type=str, default='gdrive/My Drive/checkpoints/BERT/bert_model.ckpt.data-00000-of-00001') 
 parser.add_argument('--ckpt_path', type=str, default='./gdrive/My Drive/checkpoints/cutie3/')
 parser.add_argument('--ckpt_file', type=str, default='')  
 
@@ -195,8 +196,9 @@ if __name__ == '__main__':
                     raise Exception('no bert embedding was designed in the built model, \
                         switch restore_bertembedding_only off or built a related model')
                 try:
-                    load_variable = {"bert/embeddings/word_embeddings": network.embedding_table}
-                    ckpt_saver = tf.train.Saver(load_variable, max_to_keep=50)
+                    # load_variable = {"bert/embeddings/word_embeddings": network.embedding_table}
+                    # ckpt_saver = tf.train.Saver(load_variable, max_to_keep=50)
+                    ckpt_saver = tf.train.import_meta_graph(params.bert_meta_file) 
                     ckpt_path = params.embedding_file
                     ckpt = tf.train.get_checkpoint_state(ckpt_path)
                     print('Restoring from {}...'.format(ckpt_path))
@@ -335,7 +337,7 @@ if __name__ == '__main__':
                     save_ckpt(sess, params.ckpt_path, params.save_prefix, data_loader, network, num_words, num_classes, iter+1)
                     print('\nBest up-to-date performance validation checkpoint saved.\n')
                 
-            # calculate validation accuracy and display results
+            # calculate testing accuracy and display results
             if params.test_path!='' and iter%params.test_step == 0 and len(data_loader.test_docs):
                 
                 recalls, accs_strict, accs_soft = [], [], []
