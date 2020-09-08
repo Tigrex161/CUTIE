@@ -250,6 +250,8 @@ def vis_bbox(data_loader, file_prefix, grid_table, gt_classes, model_output_val,
                     cv2.rectangle(overlay_line, (x+bbox_pad,y+bbox_pad), \
                                   (x+bbox_pad+w,y+bbox_pad+h), inf_color[inf_id], max_len//768*2)
                 
+                print('Bounding box in vis_bbox')
+                print((x+bbox_pad, y+bbox_pad, x+bbox_pad+w,y+bbox_pad+h))
             #text = data_loader.classes[gt_id] + '|' + data_loader.classes[inf_id]
             #cv2.putText(img, text, (x,y), font, font_size, ft_color)  
         
@@ -273,7 +275,6 @@ def vis_bbox(data_loader, file_prefix, grid_table, gt_classes, model_output_val,
         
         alpha = 0.4
         # cv2.addWeighted(overlay_box, alpha, img, 1-alpha, 0, img)
-        print(overlay_line)
         cv2.addWeighted(overlay_line, 1-alpha, img, 1, 0, img)
         cv2.imwrite('results/' + file_name[:-4]+'.png', img)        
 #         cv2.imshow("test", img)
