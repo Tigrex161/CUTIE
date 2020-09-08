@@ -1,125 +1,178 @@
 {
     "text_boxes": [
         {
-            "text": "AQUAZZURA",
+            "text": "RIVOLI",
             "id": 1,
             "bbox": [
-                314,
-                235,
-                422,
-                253
+                339,
+                239,
+                484,
+                273
             ]
         },
         {
-            "text": "15.",
+            "text": "11/07/20",
             "id": 2,
             "bbox": [
-                435,
-                522,
-                443,
-                527
+                557,
+                341,
+                601,
+                356
             ]
         },
         {
-            "text": "July",
+            "text": "PM",
             "id": 3,
             "bbox": [
-                446,
-                521,
-                458,
-                529
+                652,
+                341,
+                664,
+                354
             ]
         },
         {
-            "text": "2020",
+            "text": "12:49:19",
             "id": 4,
             "bbox": [
-                461,
-                521,
-                476,
-                527
+                606,
+                340,
+                646,
+                355
             ]
         },
         {
-            "text": "5231",
+            "text": "8400.00",
             "id": 5,
             "bbox": [
-                479,
-                518,
-                506,
-                529
+                676,
+                763,
+                719,
+                776
             ]
         },
         {
-            "text": "1,479.00",
+            "text": "11,025.00",
             "id": 6,
             "bbox": [
-                596,
-                669,
-                624,
-                677
+                648,
+                423,
+                695,
+                436
             ]
         },
         {
-            "text": "1479.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                596,
-                564,
-                623,
-                574
+                367,
+                429,
+                370,
+                437
             ]
         },
         {
-            "text": "AQZ",
+            "text": "SOLO",
             "id": 8,
             "bbox": [
-                329,
-                573,
-                344,
-                578
+                131,
+                434,
+                158,
+                447
             ]
         },
         {
-            "text": "WOMEN",
+            "text": "/",
             "id": 9,
             "bbox": [
-                346,
-                572,
-                374,
-                578
+                165,
+                434,
+                167,
+                447
             ]
         },
         {
-            "text": "SHOES",
+            "text": "CR",
             "id": 10,
             "bbox": [
-                378,
-                572,
-                399,
-                578
+                167,
+                434,
+                183,
+                447
             ]
         },
         {
-            "text": "PSHMIDMO-MTS",
+            "text": "BREMONT",
             "id": 11,
             "bbox": [
-                129,
-                573,
+                131,
+                452,
+                188,
+                466
+            ]
+        },
+        {
+            "text": "WATCHES",
+            "id": 12,
+            "bbox": [
+                193,
+                449,
+                251,
+                464
+            ]
+        },
+        {
+            "text": "\u0627\u0628\u0648",
+            "id": 13,
+            "bbox": [
+                185,
+                475,
                 194,
-                583
+                484
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0641\u0648\u0646",
+            "id": 14,
+            "bbox": [
+                165,
+                475,
+                183,
+                485
+            ]
+        },
+        {
+            "text": "\u0645\u0627\u0639\u0627\u062a",
+            "id": 15,
+            "bbox": [
+                131,
+                474,
+                158,
+                484
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AQZ",
-                "WOMEN",
-                "SHOES"
+                "PM",
+                "12:49:19"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SOLO",
+                "/",
+                "CR"
             ],
             "value_id": [
                 8,
@@ -132,58 +185,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15.",
-                "July",
-                "2020"
+                "11/07/20"
             ],
             "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AQUAZZURA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,479.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "PSHMIDMO-MTS"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "5231"
-            ],
-            "value_id": [
-                5
+                2
             ]
         },
         {
@@ -191,10 +196,71 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1479.00"
+                "11,025.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0628\u0648",
+                "\u0627\u0644\u0641\u0648\u0646",
+                "\u0645\u0627\u0639\u0627\u062a"
+            ],
+            "value_id": [
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BREMONT",
+                "WATCHES"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RIVOLI"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8400.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

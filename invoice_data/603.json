@@ -1,98 +1,218 @@
 {
     "text_boxes": [
         {
-            "text": "14/07/2020",
+            "text": "LADUREE",
             "id": 1,
             "bbox": [
-                126,
-                273,
-                201,
-                292
+                281,
+                213,
+                429,
+                245
             ]
         },
         {
-            "text": "19.56",
+            "text": "06/29/20",
             "id": 2,
             "bbox": [
-                464,
-                257,
-                498,
-                270
+                469,
+                457,
+                550,
+                482
             ]
         },
         {
-            "text": "PM",
+            "text": "06:23",
             "id": 3,
             "bbox": [
-                505,
-                255,
-                523,
-                266
+                126,
+                524,
+                180,
+                551
             ]
         },
         {
-            "text": "1,050.00",
+            "text": "pm",
             "id": 4,
             "bbox": [
-                474,
-                365,
-                530,
-                382
+                181,
+                526,
+                202,
+                552
             ]
         },
         {
-            "text": "1050.00",
+            "text": "123.00",
             "id": 5,
             "bbox": [
-                475,
-                311,
-                527,
-                325
+                448,
+                834,
+                574,
+                861
             ]
         },
         {
-            "text": "SMALL",
+            "text": "118.00",
             "id": 6,
             "bbox": [
-                286,
-                320,
-                328,
-                333
+                515,
+                607,
+                574,
+                632
             ]
         },
         {
-            "text": "LEATHER",
+            "text": "5.00",
             "id": 7,
             "bbox": [
-                336,
-                317,
-                392,
-                331
+                538,
+                707,
+                580,
+                729
             ]
         },
         {
-            "text": "19R2300CC030R",
+            "text": "2",
             "id": 8,
             "bbox": [
-                144,
-                324,
-                249,
-                344
+                147,
+                604,
+                156,
+                624
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                147,
+                704,
+                151,
+                726
+            ]
+        },
+        {
+            "text": "0.00",
+            "id": 10,
+            "bbox": [
+                536,
+                680,
+                579,
+                703
+            ]
+        },
+        {
+            "text": "Pain",
+            "id": 11,
+            "bbox": [
+                170,
+                604,
+                211,
+                626
+            ]
+        },
+        {
+            "text": "Perdu",
+            "id": 12,
+            "bbox": [
+                225,
+                605,
+                277,
+                627
+            ]
+        },
+        {
+            "text": "Maple",
+            "id": 13,
+            "bbox": [
+                178,
+                675,
+                233,
+                704
+            ]
+        },
+        {
+            "text": "Syrup",
+            "id": 14,
+            "bbox": [
+                245,
+                678,
+                298,
+                706
+            ]
+        },
+        {
+            "text": "CARML",
+            "id": 15,
+            "bbox": [
+                167,
+                704,
+                220,
+                726
+            ]
+        },
+        {
+            "text": "HAZELNUT",
+            "id": 16,
+            "bbox": [
+                234,
+                704,
+                319,
+                728
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062a\u0648\u0633\u062a",
+            "id": 17,
+            "bbox": [
+                250,
+                634,
+                310,
+                658
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u063a\u0631\u062a\u0646\u064a",
+            "id": 18,
+            "bbox": [
+                162,
+                633,
+                234,
+                657
+            ]
+        },
+        {
+            "text": "\u0628\u0646\u062f\u0642\u064a",
+            "id": 19,
+            "bbox": [
+                215,
+                734,
+                257,
+                755
+            ]
+        },
+        {
+            "text": "\u0645\u062d\u0645\u0631",
+            "id": 20,
+            "bbox": [
+                159,
+                736,
+                201,
+                756
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SMALL",
-                "LEATHER"
+                "06:23",
+                "pm"
             ],
             "value_id": [
-                6,
-                7
+                3,
+                4
             ]
         },
         {
@@ -100,45 +220,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14/07/2020"
+                "06/29/20"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,050.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19R2300CC030R"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19.56",
-                "PM"
-            ],
-            "value_id": [
-                2,
-                3
+                2
             ]
         },
         {
@@ -146,7 +231,84 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1050.00"
+                "118.00",
+                "5.00",
+                "0.00"
+            ],
+            "value_id": [
+                6,
+                7,
+                10
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0644\u062a\u0648\u0633\u062a",
+                "\u0627\u0644\u063a\u0631\u062a\u0646\u064a",
+                "\u0628\u0646\u062f\u0642\u064a",
+                "\u0645\u062d\u0645\u0631"
+            ],
+            "value_id": [
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Pain",
+                "Perdu",
+                "Maple",
+                "Syrup",
+                "CARML",
+                "HAZELNUT"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LADUREE"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "1"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "123.00"
             ],
             "value_id": [
                 5

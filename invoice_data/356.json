@@ -1,292 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "SEPHORA",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                260,
-                71,
-                304,
-                84
+                333,
+                405,
+                492,
+                463
             ]
         },
         {
-            "text": "DUBAI",
+            "text": "01/07/2020",
             "id": 2,
             "bbox": [
-                313,
-                70,
-                343,
-                82
+                83,
+                656,
+                134,
+                669
             ]
         },
         {
-            "text": "MALL",
+            "text": "15:45",
             "id": 3,
             "bbox": [
-                353,
-                69,
-                378,
-                80
+                145,
+                654,
+                168,
+                667
             ]
         },
         {
-            "text": "July",
+            "text": "2",
             "id": 4,
             "bbox": [
-                321,
-                913,
-                347,
-                927
+                645,
+                789,
+                651,
+                799
             ]
         },
         {
-            "text": "05,2020",
+            "text": "900.00",
             "id": 5,
             "bbox": [
-                356,
-                913,
-                404,
-                926
+                654,
+                789,
+                682,
+                799
             ]
         },
         {
-            "text": "21:30:04",
+            "text": "2.761.90",
             "id": 6,
             "bbox": [
-                413,
-                911,
-                467,
-                925
+                673,
+                733,
+                709,
+                743
             ]
         },
         {
-            "text": "340.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                385,
-                554,
-                463,
-                566
+                411,
+                740,
+                413,
+                747
             ]
         },
         {
-            "text": "170.00",
+            "text": "1",
             "id": 8,
             "bbox": [
-                427,
-                486,
-                465,
-                499
+                410,
+                770,
+                413,
+                777
             ]
         },
         {
-            "text": "170.00",
+            "text": "Men",
             "id": 9,
             "bbox": [
-                427,
-                420,
-                465,
-                431
+                243,
+                742,
+                263,
+                751
             ]
         },
         {
-            "text": "1",
+            "text": "RTW",
             "id": 10,
             "bbox": [
-                268,
-                421,
-                270,
-                431
+                267,
+                742,
+                285,
+                751
             ]
         },
         {
-            "text": "1",
+            "text": "Tee",
             "id": 11,
             "bbox": [
-                270,
-                489,
-                271,
-                501
+                294,
+                742,
+                308,
+                751
             ]
         },
         {
-            "text": "NARS",
+            "text": "Shirt",
             "id": 12,
             "bbox": [
-                295,
-                374,
-                320,
-                384
+                314,
+                742,
+                332,
+                751
             ]
         },
         {
-            "text": "LIQUID",
+            "text": "0333517A0554",
             "id": 13,
             "bbox": [
-                329,
-                373,
-                368,
-                383
-            ]
-        },
-        {
-            "text": "DROP",
-            "id": 14,
-            "bbox": [
-                376,
-                373,
-                402,
-                383
-            ]
-        },
-        {
-            "text": "HIGHLIGH",
-            "id": 15,
-            "bbox": [
-                411,
-                371,
-                464,
-                383
-            ]
-        },
-        {
-            "text": "NARS",
-            "id": 16,
-            "bbox": [
-                295,
-                438,
-                320,
-                449
-            ]
-        },
-        {
-            "text": "LIQUID",
-            "id": 17,
-            "bbox": [
-                328,
-                435,
-                366,
-                450
-            ]
-        },
-        {
-            "text": "DROP",
-            "id": 18,
-            "bbox": [
-                377,
-                437,
-                403,
-                448
-            ]
-        },
-        {
-            "text": "HIGHLIGH",
-            "id": 19,
-            "bbox": [
-                412,
-                436,
-                465,
-                447
-            ]
-        },
-        {
-            "text": "024514692424",
-            "id": 20,
-            "bbox": [
-                177,
-                373,
-                258,
-                384
-            ]
-        },
-        {
-            "text": "024514692424",
-            "id": 21,
-            "bbox": [
-                176,
-                437,
-                258,
-                449
+                83,
+                744,
+                151,
+                757
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NARS",
-                "LIQUID",
-                "DROP",
-                "HIGHLIGH",
-                "NARS",
-                "LIQUID",
-                "DROP",
-                "HIGHLIGH"
+                "15:45"
             ],
             "value_id": [
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1",
-                "1"
-            ],
-            "value_id": [
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July",
-                "05,2020"
-            ],
-            "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SEPHORA",
-                "DUBAI",
-                "MALL"
-            ],
-            "value_id": [
-                1,
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "340.00"
-            ],
-            "value_id": [
-                7
             ]
         },
         {
@@ -294,23 +148,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "024514692424",
-                "024514692424"
+                "0333517A0554"
             ],
             "value_id": [
-                20,
-                21
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:30:04"
+                "01/07/2020"
             ],
             "value_id": [
-                6
+                2
             ]
         },
         {
@@ -318,12 +170,73 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "170.00",
-                "170.00"
+                "2.761.90"
             ],
             "value_id": [
-                8,
-                9
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Men",
+                "RTW",
+                "Tee",
+                "Shirt"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "900.00"
+            ],
+            "value_id": [
+                4,
+                5
             ]
         }
     ],

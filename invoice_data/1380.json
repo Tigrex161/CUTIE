@@ -1,0 +1,261 @@
+{
+    "text_boxes": [
+        {
+            "text": "2020",
+            "id": 1,
+            "bbox": [
+                504,
+                332,
+                527,
+                347
+            ]
+        },
+        {
+            "text": ",",
+            "id": 2,
+            "bbox": [
+                489,
+                334,
+                492,
+                347
+            ]
+        },
+        {
+            "text": "\u0644\u0627\u0644",
+            "id": 3,
+            "bbox": [
+                471,
+                334,
+                487,
+                348
+            ]
+        },
+        {
+            "text": "2",
+            "id": 4,
+            "bbox": [
+                448,
+                335,
+                451,
+                348
+            ]
+        },
+        {
+            "text": "|",
+            "id": 5,
+            "bbox": [
+                443,
+                336,
+                446,
+                349
+            ]
+        },
+        {
+            "text": "16:51",
+            "id": 6,
+            "bbox": [
+                538,
+                332,
+                570,
+                346
+            ]
+        },
+        {
+            "text": "700.0",
+            "id": 7,
+            "bbox": [
+                594,
+                577,
+                635,
+                590
+            ]
+        },
+        {
+            "text": "700.00",
+            "id": 8,
+            "bbox": [
+                599,
+                489,
+                639,
+                500
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                424,
+                494,
+                426,
+                504
+            ]
+        },
+        {
+            "text": "PDAWN_SIGS",
+            "id": 10,
+            "bbox": [
+                110,
+                472,
+                178,
+                486
+            ]
+        },
+        {
+            "text": ":",
+            "id": 11,
+            "bbox": [
+                179,
+                472,
+                182,
+                486
+            ]
+        },
+        {
+            "text": "PRADA",
+            "id": 12,
+            "bbox": [
+                186,
+                472,
+                218,
+                486
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 13,
+            "bbox": [
+                227,
+                472,
+                266,
+                486
+            ]
+        },
+        {
+            "text": "02701110067618056F720008316",
+            "id": 14,
+            "bbox": [
+                110,
+                493,
+                287,
+                508
+            ]
+        },
+        {
+            "text": "SIGSIL",
+            "id": 15,
+            "bbox": [
+                275,
+                472,
+                373,
+                486
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:51"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "02701110067618056F720008316"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                ",",
+                "\u0644\u0627\u0644",
+                "2",
+                "|"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "700.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SIGSIL"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PDAWN_SIGS",
+                ":",
+                "PRADA",
+                "WOMENS"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "700.0"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1380.jpg"
+    }
+}

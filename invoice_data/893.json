@@ -1,139 +1,227 @@
 {
     "text_boxes": [
         {
-            "text": "CHANEL",
+            "text": "2020",
             "id": 1,
             "bbox": [
-                246,
-                267,
-                485,
-                311
+                524,
+                392,
+                551,
+                407
             ]
         },
         {
-            "text": "JOAILLERIE",
+            "text": ",",
             "id": 2,
             "bbox": [
-                299,
-                322,
-                434,
-                348
+                510,
+                394,
+                514,
+                407
             ]
         },
         {
-            "text": "July",
+            "text": "1",
             "id": 3,
             "bbox": [
-                389,
-                374,
-                412,
-                388
+                504,
+                395,
+                508,
+                408
             ]
         },
         {
-            "text": "17,",
+            "text": "\u062f\u0627",
             "id": 4,
             "bbox": [
-                417,
-                374,
-                434,
-                387
+                496,
+                395,
+                502,
+                408
             ]
         },
         {
-            "text": "2020",
+            "text": "22",
             "id": 5,
             "bbox": [
-                439,
-                372,
-                469,
-                385
+                465,
+                395,
+                480,
+                409
             ]
         },
         {
-            "text": "11:55",
+            "text": "18:04",
             "id": 6,
             "bbox": [
-                478,
-                371,
-                511,
-                383
+                562,
+                389,
+                598,
+                405
             ]
         },
         {
-            "text": "WATCHES",
+            "text": "1,800.00",
             "id": 7,
             "bbox": [
-                63,
-                567,
-                123,
-                582
+                610,
+                554,
+                667,
+                571
             ]
         },
         {
-            "text": "REPAIRS",
+            "text": "1",
             "id": 8,
             "bbox": [
-                129,
-                567,
-                186,
-                581
+                440,
+                563,
+                444,
+                572
             ]
         },
         {
-            "text": "ole",
+            "text": "PCOt_THS",
             "id": 9,
             "bbox": [
-                53,
-                585,
-                74,
-                601
+                117,
+                545,
+                179,
+                562
             ]
         },
         {
-            "text": "450.00",
+            "text": ";",
             "id": 10,
             "bbox": [
-                631,
-                554,
-                674,
-                566
+                181,
+                546,
+                184,
+                560
             ]
         },
         {
-            "text": "450,00",
+            "text": "PRIVATE",
             "id": 11,
             "bbox": [
-                550,
-                639,
-                596,
-                649
+                188,
+                544,
+                234,
+                560
+            ]
+        },
+        {
+            "text": "COLLECTION",
+            "id": 12,
+            "bbox": [
+                244,
+                542,
+                312,
+                559
+            ]
+        },
+        {
+            "text": "MENS",
+            "id": 13,
+            "bbox": [
+                320,
+                541,
+                349,
+                557
+            ]
+        },
+        {
+            "text": "GOTHERSI",
+            "id": 14,
+            "bbox": [
+                358,
+                540,
+                403,
+                556
+            ]
+        },
+        {
+            "text": ":",
+            "id": 15,
+            "bbox": [
+                182,
+                546,
+                185,
+                560
+            ]
+        },
+        {
+            "text": "OTHERST",
+            "id": 16,
+            "bbox": [
+                356,
+                540,
+                405,
+                556
+            ]
+        },
+        {
+            "text": "063013586329",
+            "id": 17,
+            "bbox": [
+                117,
+                568,
+                200,
+                583
+            ]
+        },
+        {
+            "text": "\u0645\u0644\u062d\u0642\u0627\u062a",
+            "id": 18,
+            "bbox": [
+                462,
+                537,
+                505,
+                553
+            ]
+        },
+        {
+            "text": "\u0627\u0643\u0633\u0633\u0648\u0627\u0631",
+            "id": 19,
+            "bbox": [
+                406,
+                538,
+                452,
+                554
+            ]
+        },
+        {
+            "text": "1,800.00",
+            "id": 20,
+            "bbox": [
+                601,
+                643,
+                655,
+                660
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WATCHES",
-                "REPAIRS"
+                "18:04"
             ],
             "value_id": [
-                7,
-                8
+                6
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ole"
+                "063013586329"
             ],
             "value_id": [
-                9
+                17
             ]
         },
         {
@@ -141,49 +229,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "17,",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CHANEL",
-                "JOAILLERIE"
+                "2020",
+                ",",
+                "1",
+                "\u062f\u0627",
+                "22"
             ],
             "value_id": [
                 1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "450,00"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:55"
-            ],
-            "value_id": [
-                6
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -191,10 +248,70 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "450.00"
+                "1,800.00"
             ],
             "value_id": [
-                10
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0644\u062d\u0642\u0627\u062a",
+                "\u0627\u0643\u0633\u0633\u0648\u0627\u0631"
+            ],
+            "value_id": [
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PCOt_THS",
+                ";",
+                "PRIVATE",
+                "COLLECTION",
+                "MENS",
+                "GOTHERSI",
+                ":",
+                "OTHERST"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,800.00"
+            ],
+            "value_id": [
+                20
             ]
         }
     ],

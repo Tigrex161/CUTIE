@@ -1,185 +1,97 @@
 {
     "text_boxes": [
         {
-            "text": "KARL",
+            "text": "abercrombie",
             "id": 1,
             "bbox": [
-                331,
-                125,
-                368,
-                142
+                347,
+                129,
+                680,
+                196
             ]
         },
         {
-            "text": "LAGERFELD",
+            "text": "KIDS",
             "id": 2,
             "bbox": [
-                373,
-                121,
-                461,
-                139
+                486,
+                210,
+                539,
+                232
             ]
         },
         {
-            "text": "July,",
+            "text": "2020-07-25",
             "id": 3,
             "bbox": [
-                543,
-                200,
-                572,
-                212
+                437,
+                600,
+                553,
+                625
             ]
         },
         {
-            "text": "24",
+            "text": "17:09",
             "id": 4,
             "bbox": [
-                582,
-                201,
-                593,
-                210
+                571,
+                598,
+                626,
+                623
             ]
         },
         {
-            "text": "2020",
+            "text": "125,00",
             "id": 5,
             "bbox": [
-                601,
-                199,
-                625,
-                211
+                655,
+                858,
+                724,
+                880
             ]
         },
         {
-            "text": "17:06",
+            "text": "12500",
             "id": 6,
             "bbox": [
-                632,
-                200,
-                660,
-                214
+                575,
+                685,
+                644,
+                710
             ]
         },
         {
-            "text": "895.00",
+            "text": "641461712",
             "id": 7,
             "bbox": [
-                616,
-                519,
-                651,
-                528
-            ]
-        },
-        {
-            "text": "895.00",
-            "id": 8,
-            "bbox": [
-                616,
-                435,
-                650,
-                444
-            ]
-        },
-        {
-            "text": "201W3105-290:",
-            "id": 9,
-            "bbox": [
-                232,
-                419,
-                312,
-                429
-            ]
-        },
-        {
-            "text": "KLD.290:0s:",
-            "id": 10,
-            "bbox": [
-                318,
-                415,
-                385,
-                429
-            ]
-        },
-        {
-            "text": "K/SIGNATURE",
-            "id": 11,
-            "bbox": [
-                387,
-                414,
-                459,
-                428
-            ]
-        },
-        {
-            "text": "METALLIC",
-            "id": 12,
-            "bbox": [
-                466,
-                415,
-                518,
-                425
-            ]
-        },
-        {
-            "text": "BELT-I",
-            "id": 13,
-            "bbox": [
-                525,
-                415,
-                557,
-                424
-            ]
-        },
-        {
-            "text": "104224774993",
-            "id": 14,
-            "bbox": [
-                152,
-                417,
-                223,
-                431
-            ]
-        },
-        {
-            "text": "i",
-            "id": 15,
-            "bbox": [
-                647,
-                412,
-                660,
-                424
+                268,
+                685,
+                373,
+                710
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "201W3105-290:",
-                "KLD.290:0s:",
-                "K/SIGNATURE",
-                "METALLIC",
-                "BELT-I"
+                "17:09"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13
+                4
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "i"
+                "641461712"
             ],
             "value_id": [
-                15
+                7
             ]
         },
         {
@@ -187,14 +99,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July,",
-                "24",
-                "2020"
+                "2020-07-25"
             ],
             "value_id": [
-                3,
-                4,
-                5
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12500"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -202,8 +121,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "KARL",
-                "LAGERFELD"
+                "abercrombie",
+                "KIDS"
             ],
             "value_id": [
                 1,
@@ -215,43 +134,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "895.00"
+                "125,00"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "104224774993"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:06"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "895.00"
-            ],
-            "value_id": [
-                8
+                5
             ]
         }
     ],

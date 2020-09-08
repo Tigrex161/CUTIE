@@ -1,0 +1,282 @@
+{
+    "text_boxes": [
+        {
+            "text": "//",
+            "id": 1,
+            "bbox": [
+                131,
+                154,
+                362,
+                274
+            ]
+        },
+        {
+            "text": "7/10/2020",
+            "id": 2,
+            "bbox": [
+                399,
+                469,
+                482,
+                495
+            ]
+        },
+        {
+            "text": ":",
+            "id": 3,
+            "bbox": [
+                390,
+                472,
+                397,
+                495
+            ]
+        },
+        {
+            "text": "12:02",
+            "id": 4,
+            "bbox": [
+                397,
+                493,
+                448,
+                517
+            ]
+        },
+        {
+            "text": "144.00",
+            "id": 5,
+            "bbox": [
+                626,
+                818,
+                684,
+                842
+            ]
+        },
+        {
+            "text": "80.00",
+            "id": 6,
+            "bbox": [
+                629,
+                630,
+                678,
+                653
+            ]
+        },
+        {
+            "text": "64.00",
+            "id": 7,
+            "bbox": [
+                630,
+                681,
+                679,
+                703
+            ]
+        },
+        {
+            "text": "20",
+            "id": 8,
+            "bbox": [
+                451,
+                639,
+                468,
+                658
+            ]
+        },
+        {
+            "text": "20",
+            "id": 9,
+            "bbox": [
+                453,
+                689,
+                468,
+                707
+            ]
+        },
+        {
+            "text": "Bianco",
+            "id": 10,
+            "bbox": [
+                235,
+                639,
+                292,
+                664
+            ]
+        },
+        {
+            "text": "Leggero",
+            "id": 11,
+            "bbox": [
+                305,
+                638,
+                372,
+                663
+            ]
+        },
+        {
+            "text": "Voltesso",
+            "id": 12,
+            "bbox": [
+                236,
+                686,
+                315,
+                717
+            ]
+        },
+        {
+            "text": "Espresso",
+            "id": 13,
+            "bbox": [
+                326,
+                684,
+                403,
+                715
+            ]
+        },
+        {
+            "text": "40",
+            "id": 14,
+            "bbox": [
+                663,
+                756,
+                680,
+                773
+            ]
+        },
+        {
+            "text": "6738220",
+            "id": 15,
+            "bbox": [
+                137,
+                689,
+                205,
+                719
+            ]
+        },
+        {
+            "text": "6739520",
+            "id": 16,
+            "bbox": [
+                135,
+                641,
+                202,
+                664
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:02"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6738220",
+                "6739520"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/10/2020",
+                ":"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "80.00",
+                "64.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Bianco",
+                "Leggero",
+                "Voltesso",
+                "Espresso"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "//"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "40"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20",
+                "20"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "144.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1061.jpg"
+    }
+}

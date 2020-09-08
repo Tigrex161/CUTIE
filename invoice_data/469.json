@@ -1,167 +1,166 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "Salsa",
             "id": 1,
             "bbox": [
-                343,
-                217,
-                397,
-                228
+                260,
+                308,
+                308,
+                321
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "Jeans",
             "id": 2,
             "bbox": [
-                406,
-                218,
-                467,
-                228
+                320,
+                308,
+                366,
+                321
             ]
         },
         {
-            "text": "10/07/20",
+            "text": "Dubai",
             "id": 3,
             "bbox": [
+                377,
                 307,
-                373,
-                363,
-                385
+                423,
+                321
             ]
         },
         {
-            "text": "13:10",
+            "text": "Mall",
             "id": 4,
             "bbox": [
-                373,
-                374,
-                407,
-                384
+                435,
+                307,
+                471,
+                320
             ]
         },
         {
-            "text": "259.00",
+            "text": "3/67/2020",
             "id": 5,
             "bbox": [
-                533,
-                612,
-                577,
-                626
+                333,
+                1031,
+                417,
+                1047
             ]
         },
         {
-            "text": "370.00",
+            "text": "21:49",
             "id": 6,
             "bbox": [
-                525,
-                490,
-                569,
-                502
+                463,
+                1030,
+                517,
+                1044
             ]
         },
         {
-            "text": "900976389",
+            "text": "608.00",
             "id": 7,
             "bbox": [
-                294,
-                497,
-                354,
-                511
+                489,
+                778,
+                533,
+                791
             ]
         },
         {
-            "text": "Kid's",
+            "text": "2990",
             "id": 8,
             "bbox": [
-                251,
-                467,
-                287,
-                477
+                502,
+                647,
+                533,
+                658
             ]
         },
         {
-            "text": "Wear",
+            "text": "379.0",
             "id": 9,
             "bbox": [
-                297,
-                467,
-                325,
-                476
+                500,
+                590,
+                532,
+                601
             ]
         },
         {
-            "text": "TS",
+            "text": "Dante",
             "id": 10,
             "bbox": [
-                251,
-                484,
-                264,
-                493
+                337,
+                575,
+                374,
+                589
             ]
         },
         {
-            "text": "SKU",
+            "text": "ails",
             "id": 11,
             "bbox": [
-                273,
-                483,
-                295,
-                492
+                339,
+                629,
+                374,
+                645
+            ]
+        },
+        {
+            "text": "\u062f\u0631",
+            "id": 12,
+            "bbox": [
+                408,
+                631,
+                418,
+                645
+            ]
+        },
+        {
+            "text": "\u0648\u0627\u0644",
+            "id": 13,
+            "bbox": [
+                387,
+                630,
+                407,
+                645
+            ]
+        },
+        {
+            "text": "56098073633",
+            "id": 14,
+            "bbox": [
+                213,
+                575,
+                301,
+                590
+            ]
+        },
+        {
+            "text": "564980733153",
+            "id": 15,
+            "bbox": [
+                216,
+                629,
+                303,
+                644
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Kid's",
-                "Wear",
-                "TS",
-                "SKU"
+                "21:49"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10/07/20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "259.00"
-            ],
-            "value_id": [
-                5
+                6
             ]
         },
         {
@@ -169,21 +168,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900976389"
+                "56098073633",
+                "564980733153"
             ],
             "value_id": [
-                7
+                14,
+                15
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13:10"
+                "3/67/2020"
             ],
             "value_id": [
-                4
+                5
             ]
         },
         {
@@ -191,10 +192,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "370.00"
+                "2990",
+                "379.0"
             ],
             "value_id": [
-                6
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062f\u0631",
+                "\u0648\u0627\u0644"
+            ],
+            "value_id": [
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Dante",
+                "ails"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Salsa",
+                "Jeans",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "608.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

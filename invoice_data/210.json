@@ -1,171 +1,227 @@
 {
     "text_boxes": [
         {
-            "text": "FREDPERRY",
+            "text": "HERM\u00c8S",
             "id": 1,
             "bbox": [
-                327,
-                503,
-                421,
-                522
+                165,
+                290,
+                319,
+                334
             ]
         },
         {
-            "text": "08/07/20",
+            "text": "07/12/2020",
             "id": 2,
             "bbox": [
-                246,
-                612,
-                328,
-                630
+                525,
+                367,
+                586,
+                384
             ]
         },
         {
-            "text": "4:07",
+            "text": "09:51",
             "id": 3,
             "bbox": [
-                351,
-                611,
-                391,
-                628
+                525,
+                394,
+                553,
+                410
             ]
         },
         {
-            "text": "584.00",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                534,
-                918,
-                596,
-                937
+                559,
+                392,
+                577,
+                407
             ]
         },
         {
-            "text": "245",
+            "text": "1",
             "id": 5,
             "bbox": [
-                563,
-                775,
-                593,
-                790
+                638,
+                968,
+                639,
+                976
             ]
         },
         {
-            "text": "339",
+            "text": "1,550.00",
             "id": 6,
             "bbox": [
-                564,
-                815,
-                594,
-                831
+                590,
+                1043,
+                642,
+                1058
             ]
         },
         {
-            "text": "T-SHIRTS",
+            "text": "1,550,00",
             "id": 7,
             "bbox": [
-                260,
-                778,
-                342,
-                797
+                671,
+                603,
+                716,
+                618
             ]
         },
         {
-            "text": "A014656",
+            "text": "1",
             "id": 8,
             "bbox": [
-                176,
-                781,
-                248,
-                799
+                608,
+                608,
+                610,
+                617
             ]
         },
         {
-            "text": "A036097",
+            "text": "T",
             "id": 9,
             "bbox": [
-                177,
-                823,
-                249,
-                840
+                185,
+                611,
+                191,
+                624
             ]
         },
         {
-            "text": "\u062a\u064a",
+            "text": "-",
             "id": 10,
             "bbox": [
-                291,
-                805,
-                306,
-                818
+                193,
+                611,
+                195,
+                624
             ]
         },
         {
-            "text": "\u0634\u06cc\u0631\u062a",
+            "text": "SHIRT",
             "id": 11,
             "bbox": [
-                239,
-                805,
-                279,
-                820
+                197,
+                611,
+                232,
+                624
+            ]
+        },
+        {
+            "text": "IMPRIME",
+            "id": 12,
+            "bbox": [
+                237,
+                611,
+                286,
+                624
+            ]
+        },
+        {
+            "text": "HERMES",
+            "id": 13,
+            "bbox": [
+                291,
+                611,
+                340,
+                624
+            ]
+        },
+        {
+            "text": "ODYSEE",
+            "id": 14,
+            "bbox": [
+                345,
+                610,
+                393,
+                623
+            ]
+        },
+        {
+            "text": "1T",
+            "id": 15,
+            "bbox": [
+                398,
+                610,
+                409,
+                623
+            ]
+        },
+        {
+            "text": "AQUA",
+            "id": 16,
+            "bbox": [
+                414,
+                610,
+                446,
+                623
+            ]
+        },
+        {
+            "text": "SM",
+            "id": 17,
+            "bbox": [
+                451,
+                610,
+                466,
+                623
+            ]
+        },
+        {
+            "text": "SM",
+            "id": 18,
+            "bbox": [
+                471,
+                610,
+                487,
+                623
+            ]
+        },
+        {
+            "text": "1",
+            "id": 19,
+            "bbox": [
+                495,
+                610,
+                498,
+                623
+            ]
+        },
+        {
+            "text": "WLFK",
+            "id": 20,
+            "bbox": [
+                321,
+                623,
+                349,
+                634
+            ]
+        },
+        {
+            "text": "HG37730HA",
+            "id": 21,
+            "bbox": [
+                103,
+                611,
+                168,
+                624
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "T-SHIRTS"
+                "09:51",
+                "PM"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u062a\u064a",
-                "\u0634\u06cc\u0631\u062a"
-            ],
-            "value_id": [
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "08/07/20"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FREDPERRY"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "584.00"
-            ],
-            "value_id": [
+                3,
                 4
             ]
         },
@@ -174,23 +230,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "A014656",
-                "A036097"
+                "HG37730HA"
             ],
             "value_id": [
-                8,
-                9
+                21
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4:07"
+                "07/12/2020"
             ],
             "value_id": [
-                3
+                2
             ]
         },
         {
@@ -198,11 +252,86 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "245",
-                "339"
+                "1,550,00"
             ],
             "value_id": [
-                5,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "T",
+                "-",
+                "SHIRT",
+                "IMPRIME",
+                "HERMES",
+                "ODYSEE",
+                "1T",
+                "AQUA",
+                "SM",
+                "SM",
+                "1",
+                "WLFK"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HERM\u00c8S"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,550.00"
+            ],
+            "value_id": [
                 6
             ]
         }

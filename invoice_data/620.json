@@ -1,157 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "Dubai",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                343,
-                247,
-                385,
-                265
+                379,
+                183,
+                417,
+                200
             ]
         },
         {
-            "text": "12:42",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                436,
-                423,
-                476,
-                440
+                424,
+                183,
+                482,
+                201
             ]
         },
         {
-            "text": "539.0",
+            "text": "WORTOR",
             "id": 3,
             "bbox": [
-                548,
-                645,
-                590,
-                659
+                399,
+                230,
+                430,
+                239
             ]
         },
         {
-            "text": "150.0",
+            "text": "30/06/2020",
             "id": 4,
             "bbox": [
-                551,
-                578,
-                591,
-                595
+                567,
+                398,
+                622,
+                408
             ]
         },
         {
-            "text": "389.0",
+            "text": "1,370.00",
             "id": 5,
             "bbox": [
-                548,
-                600,
-                591,
-                615
-            ]
-        },
-        {
-            "text": "COACH",
-            "id": 6,
-            "bbox": [
-                219,
-                579,
-                262,
-                594
-            ]
-        },
-        {
-            "text": "ROYD",
-            "id": 7,
-            "bbox": [
-                273,
-                579,
-                307,
-                594
-            ]
-        },
-        {
-            "text": "3",
-            "id": 8,
-            "bbox": [
-                318,
-                579,
-                324,
-                594
-            ]
-        },
-        {
-            "text": "General",
-            "id": 9,
-            "bbox": [
-                219,
-                600,
-                278,
+                684,
+                606,
+                725,
                 616
             ]
         },
         {
-            "text": "Admi",
+            "text": "1.390.00",
+            "id": 6,
+            "bbox": [
+                686,
+                457,
+                729,
+                468
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                336,
+                458,
+                339,
+                466
+            ]
+        },
+        {
+            "text": "116611",
+            "id": 8,
+            "bbox": [
+                110,
+                458,
+                142,
+                468
+            ]
+        },
+        {
+            "text": "OU",
+            "id": 9,
+            "bbox": [
+                161,
+                458,
+                171,
+                468
+            ]
+        },
+        {
+            "text": "M",
             "id": 10,
             "bbox": [
-                292,
-                601,
-                322,
-                617
+                217,
+                458,
+                219,
+                468
+            ]
+        },
+        {
+            "text": "D",
+            "id": 11,
+            "bbox": [
+                228,
+                458,
+                230,
+                468
+            ]
+        },
+        {
+            "text": "CRAP",
+            "id": 12,
+            "bbox": [
+                236,
+                458,
+                260,
+                468
+            ]
+        },
+        {
+            "text": "LANTICOS",
+            "id": 13,
+            "bbox": [
+                145,
+                467,
+                216,
+                478
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "COACH",
-                "ROYD",
-                "3",
-                "General",
-                "Admi"
+                "30/06/2020"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Dubai"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "539.0"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:42"
-            ],
-            "value_id": [
-                2
+                4
             ]
         },
         {
@@ -159,11 +148,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "150.0",
-                "389.0"
+                "1.390.00"
             ],
             "value_id": [
-                4,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "116611",
+                "OU",
+                "M",
+                "D",
+                "CRAP",
+                "LANTICOS"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "WORTOR"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,370.00"
+            ],
+            "value_id": [
                 5
             ]
         }

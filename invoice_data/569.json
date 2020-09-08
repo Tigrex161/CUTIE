@@ -1,169 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "Cartier",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                338,
-                209,
-                468,
-                247
+                304,
+                248,
+                557,
+                304
             ]
         },
         {
-            "text": "JOAILLIERS",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                366,
-                255,
-                443,
-                262
+                500,
+                369,
+                531,
+                386
             ]
         },
         {
-            "text": "05/07/2020",
+            "text": ",",
             "id": 3,
             "bbox": [
-                126,
-                727,
-                171,
-                735
+                492,
+                372,
+                496,
+                387
             ]
         },
         {
-            "text": "12:09.24",
+            "text": "08",
             "id": 4,
             "bbox": [
-                175,
-                727,
-                208,
-                733
+                475,
+                371,
+                491,
+                388
             ]
         },
         {
-            "text": "L3001661",
+            "text": "y",
             "id": 5,
             "bbox": [
-                196,
-                550,
-                231,
-                558
+                464,
+                373,
+                468,
+                388
             ]
         },
         {
-            "text": "Leather",
+            "text": "\u0627\u0646\u0627\u0644",
             "id": 6,
             "bbox": [
-                96,
-                544,
-                119,
-                548
+                448,
+                372,
+                464,
+                389
             ]
         },
         {
-            "text": "Goods",
+            "text": "19:49",
             "id": 7,
             "bbox": [
-                123,
                 542,
-                141,
-                548
+                366,
+                578,
+                384
             ]
         },
         {
-            "text": "CARD",
+            "text": "23,390.00",
             "id": 8,
             "bbox": [
-                154,
-                541,
-                170,
-                546
+                582,
+                762,
+                653,
+                777
             ]
         },
         {
-            "text": "MUST",
+            "text": "23,390.00",
             "id": 9,
             "bbox": [
-                200,
-                541,
-                217,
-                546
+                674,
+                573,
+                742,
+                591
             ]
         },
         {
-            "text": "NOK",
+            "text": "1",
             "id": 10,
             "bbox": [
-                235,
-                541,
-                248,
-                546
+                412,
+                581,
+                416,
+                593
             ]
         },
         {
-            "text": "830.00",
+            "text": "1",
             "id": 11,
             "bbox": [
-                689,
-                661,
-                716,
-                669
+                410,
+                624,
+                414,
+                637
+            ]
+        },
+        {
+            "text": "FLAPBAG",
+            "id": 12,
+            "bbox": [
+                95,
+                576,
+                159,
+                589
+            ]
+        },
+        {
+            "text": "A01113704059N6515",
+            "id": 13,
+            "bbox": [
+                95,
+                593,
+                234,
+                613
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Leather",
-                "Goods",
-                "CARD",
-                "MUST",
-                "NOK"
+                "19:49"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "05/07/2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Cartier",
-                "JOAILLIERS"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "830.00"
-            ],
-            "value_id": [
-                11
+                7
             ]
         },
         {
@@ -171,21 +148,95 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L3001661"
+                "A01113704059N6515"
             ],
             "value_id": [
-                5
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:09.24"
+                "2020",
+                ",",
+                "08",
+                "y",
+                "\u0627\u0646\u0627\u0644"
             ],
             "value_id": [
-                4
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23,390.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FLAPBAG"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23,390.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

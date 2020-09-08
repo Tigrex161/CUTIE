@@ -1,245 +1,178 @@
 {
     "text_boxes": [
         {
-            "text": "LADUREE",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                281,
-                217,
-                429,
-                243
+                301,
+                134,
+                363,
+                153
             ]
         },
         {
-            "text": "06:23pm",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                126,
-                527,
-                202,
-                549
+                348,
+                136,
+                438,
+                156
             ]
         },
         {
-            "text": "123.00",
+            "text": "THE",
             "id": 3,
             "bbox": [
-                448,
-                837,
-                574,
-                856
+                318,
+                149,
+                341,
+                167
             ]
         },
         {
-            "text": "118.00",
+            "text": "08/07/20",
             "id": 4,
             "bbox": [
-                516,
-                611,
-                576,
-                630
+                266,
+                321,
+                328,
+                340
             ]
         },
         {
-            "text": "5.00",
+            "text": "18:20",
             "id": 5,
             "bbox": [
-                538,
-                710,
-                580,
-                727
+                337,
+                324,
+                374,
+                342
             ]
         },
         {
-            "text": "2",
+            "text": "906.50",
             "id": 6,
             "bbox": [
-                147,
-                606,
-                156,
-                624
+                490,
+                601,
+                535,
+                618
             ]
         },
         {
-            "text": "0.00",
+            "text": "1,295.00",
             "id": 7,
             "bbox": [
-                537,
-                683,
-                579,
-                702
+                474,
+                466,
+                532,
+                483
             ]
         },
         {
-            "text": "Pain",
+            "text": "1",
             "id": 8,
             "bbox": [
-                169,
-                607,
-                212,
-                626
+                223,
+                484,
+                226,
+                499
             ]
         },
         {
-            "text": "Perdu",
+            "text": "1",
             "id": 9,
             "bbox": [
-                225,
-                607,
-                277,
-                626
+                528,
+                525,
+                530,
+                540
             ]
         },
         {
-            "text": "Maple",
+            "text": "Kid's",
             "id": 10,
             "bbox": [
-                178,
-                678,
-                233,
-                703
+                213,
+                443,
+                252,
+                460
             ]
         },
         {
-            "text": "CARML",
+            "text": "Wear",
             "id": 11,
             "bbox": [
-                167,
-                707,
-                220,
-                726
+                261,
+                444,
+                290,
+                461
             ]
         },
         {
-            "text": "HAZELNUT",
+            "text": "DRESS",
             "id": 12,
             "bbox": [
-                235,
-                707,
-                319,
-                727
+                214,
+                464,
+                251,
+                480
             ]
         },
         {
-            "text": "\u0627\u0644\u062a\u0648\u0633\u062a",
+            "text": "SKU",
             "id": 13,
             "bbox": [
-                250,
-                638,
-                310,
-                654
+                261,
+                466,
+                282,
+                480
             ]
         },
         {
-            "text": "\u0627\u0644\u0641\u0631\u062a\u0644\u0633\u064a",
+            "text": "900975999",
             "id": 14,
             "bbox": [
-                162,
-                636,
-                234,
-                655
-            ]
-        },
-        {
-            "text": "\u0628\u0646\u062f\u0642",
-            "id": 15,
-            "bbox": [
-                216,
-                738,
-                258,
-                754
-            ]
-        },
-        {
-            "text": "\u0645\u062d\u0645\u0632",
-            "id": 16,
-            "bbox": [
-                160,
-                742,
-                202,
-                753
+                253,
+                484,
+                321,
+                502
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Pain",
-                "Perdu",
-                "Maple",
-                "CARML",
-                "HAZELNUT"
-            ],
-            "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0627\u0644\u062a\u0648\u0633\u062a",
-                "\u0627\u0644\u0641\u0631\u062a\u0644\u0633\u064a",
-                "\u0628\u0646\u062f\u0642",
-                "\u0645\u062d\u0645\u0632"
-            ],
-            "value_id": [
-                13,
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LADUREE"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "123.00"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
             "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "06:23pm"
+                "18:20"
             ],
             "value_id": [
-                2
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900975999"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08/07/20"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -247,14 +180,75 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "118.00",
-                "5.00",
-                "0.00"
+                "1,295.00"
             ],
             "value_id": [
-                4,
-                5,
                 7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Kid's",
+                "Wear",
+                "DRESS",
+                "SKU"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE",
+                "THE"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "906.50"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

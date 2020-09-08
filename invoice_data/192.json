@@ -1,210 +1,93 @@
 {
     "text_boxes": [
         {
-            "text": "Rana",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                384,
-                121,
-                480,
-                170
+                390,
+                24,
+                429,
+                40
             ]
         },
         {
-            "text": "14-07-2020",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                544,
-                274,
-                596,
-                282
+                435,
+                25,
+                495,
+                41
             ]
         },
         {
-            "text": "20:04:05",
+            "text": "13/07/2020",
             "id": 3,
             "bbox": [
-                600,
-                274,
-                642,
-                282
+                588,
+                241,
+                649,
+                257
             ]
         },
         {
-            "text": "2,930.00",
+            "text": "1.110.00",
             "id": 4,
             "bbox": [
-                598,
-                428,
-                631,
-                434
+                718,
+                514,
+                768,
+                529
             ]
         },
         {
-            "text": "2030.00",
+            "text": "1.180.00",
             "id": 5,
             "bbox": [
-                596,
-                395,
-                628,
-                400
+                723,
+                309,
+                773,
+                324
             ]
         },
         {
-            "text": "SUMMER",
+            "text": "LOVE",
             "id": 6,
             "bbox": [
-                188,
-                391,
-                224,
-                399
+                72,
+                284,
+                151,
+                296
             ]
         },
         {
-            "text": "CHAMS",
+            "text": "HOME",
             "id": 7,
             "bbox": [
-                227,
-                391,
-                262,
-                399
+                168,
+                284,
+                199,
+                296
             ]
         },
         {
-            "text": "WALK",
+            "text": "LOGLED",
             "id": 8,
             "bbox": [
-                266,
-                392,
-                288,
-                399
-            ]
-        },
-        {
-            "text": "13",
-            "id": 9,
-            "bbox": [
-                293,
-                393,
-                300,
-                398
-            ]
-        },
-        {
-            "text": "SUE,",
-            "id": 10,
-            "bbox": [
-                303,
-                392,
-                321,
-                399
-            ]
-        },
-        {
-            "text": "0044,",
-            "id": 11,
-            "bbox": [
-                325,
-                393,
-                345,
-                398
-            ]
-        },
-        {
-            "text": "37.5",
-            "id": 12,
-            "bbox": [
-                350,
-                393,
-                365,
-                399
-            ]
-        },
-        {
-            "text": "1SCrIFAES4441",
-            "id": 13,
-            "bbox": [
-                96,
-                390,
-                157,
-                397
+                206,
+                284,
+                262,
+                296
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SUMMER",
-                "CHAMS",
-                "WALK",
-                "13",
-                "SUE,",
-                "0044,",
-                "37.5"
-            ],
-            "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14-07-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Rana"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,930.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1SCrIFAES4441"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:04:05"
+                "13/07/2020"
             ],
             "value_id": [
                 3
@@ -215,10 +98,49 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2030.00"
+                "1.180.00"
             ],
             "value_id": [
                 5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOVE",
+                "HOME",
+                "LOGLED"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.110.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

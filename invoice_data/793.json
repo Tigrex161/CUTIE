@@ -1,178 +1,170 @@
 {
     "text_boxes": [
         {
-            "text": "Rink",
+            "text": "OYSHO",
             "id": 1,
             "bbox": [
-                308,
-                365,
-                340,
-                379
+                255,
+                86,
+                399,
+                121
             ]
         },
         {
-            "text": "Arcade",
+            "text": "11-07-2020",
             "id": 2,
             "bbox": [
-                351,
-                363,
-                401,
-                378
+                220,
+                302,
+                272,
+                315
             ]
         },
         {
-            "text": "12:09",
+            "text": "13130",
             "id": 3,
             "bbox": [
-                387,
-                529,
-                429,
-                549
+                281,
+                300,
+                305,
+                313
             ]
         },
         {
-            "text": "160.0",
+            "text": "141",
             "id": 4,
             "bbox": [
-                501,
-                746,
-                539,
-                762
+                403,
+                352,
+                417,
+                365
             ]
         },
         {
-            "text": "140.0",
+            "text": "3",
             "id": 5,
             "bbox": [
-                497,
-                667,
-                534,
-                681
+                289,
+                359,
+                291,
+                368
             ]
         },
         {
-            "text": "20.0",
+            "text": "1",
             "id": 6,
             "bbox": [
-                506,
-                707,
-                537,
-                721
+                290,
+                389,
+                292,
+                397
             ]
         },
         {
-            "text": "4",
+            "text": "240",
             "id": 7,
             "bbox": [
-                312,
-                686,
-                314,
-                688
+                409,
+                476,
+                423,
+                487
             ]
         },
         {
-            "text": "Public",
+            "text": "3021226686503",
             "id": 8,
             "bbox": [
-                192,
-                673,
-                251,
-                694
+                278,
+                371,
+                347,
+                385
             ]
         },
         {
-            "text": "Entertainer",
+            "text": "301021638504",
             "id": 9,
             "bbox": [
-                197,
-                695,
-                285,
-                712
+                279,
+                397,
+                348,
+                409
             ]
         },
         {
-            "text": "Locker",
+            "text": "TOPS",
             "id": 10,
             "bbox": [
-                197,
-                714,
-                246,
-                733
+                360,
+                370,
+                379,
+                382
             ]
         },
         {
-            "text": "Depos",
+            "text": "AND",
             "id": 11,
             "bbox": [
-                255,
-                715,
-                294,
-                731
+                387,
+                370,
+                401,
+                381
+            ]
+        },
+        {
+            "text": "OTHE",
+            "id": 12,
+            "bbox": [
+                409,
+                368,
+                428,
+                381
+            ]
+        },
+        {
+            "text": "SHORTS",
+            "id": 13,
+            "bbox": [
+                361,
+                395,
+                391,
+                406
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Public",
-                "Entertainer",
-                "Locker",
-                "Depos"
-            ],
-            "value_id": [
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Rink",
-                "Arcade"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "160.0"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
             "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:09"
+                "13130"
             ],
             "value_id": [
                 3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3021226686503",
+                "301021638504"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11-07-2020"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -180,12 +172,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "140.0",
-                "20.0"
+                "141"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TOPS",
+                "AND",
+                "OTHE",
+                "SHORTS"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "OYSHO"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3",
+                "1"
             ],
             "value_id": [
                 5,
                 6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "240"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

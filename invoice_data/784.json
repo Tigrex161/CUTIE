@@ -1,142 +1,139 @@
 {
     "text_boxes": [
         {
-            "text": "DENASTER",
+            "text": "adidas",
             "id": 1,
             "bbox": [
-                265,
-                226,
-                483,
-                257
+                402,
+                319,
+                601,
+                360
             ]
         },
         {
-            "text": "GENERAL",
+            "text": "07/17/20",
             "id": 2,
             "bbox": [
-                266,
-                256,
-                337,
-                268
+                319,
+                622,
+                425,
+                655
             ]
         },
         {
-            "text": "TRADINGLLO",
+            "text": "22:05",
             "id": 3,
             "bbox": [
-                354,
-                249,
-                477,
-                265
+                443,
+                624,
+                508,
+                657
             ]
         },
         {
-            "text": "24/Jul/20",
+            "text": "1",
             "id": 4,
             "bbox": [
-                263,
-                470,
-                324,
-                487
+                445,
+                1147,
+                453,
+                1175
             ]
         },
         {
-            "text": "12:15",
+            "text": "679.20",
             "id": 5,
             "bbox": [
-                332,
-                472,
-                367,
-                484
+                660,
+                1091,
+                745,
+                1121
             ]
         },
         {
-            "text": "PM",
+            "text": "849.00",
             "id": 6,
             "bbox": [
-                374,
-                472,
-                390,
-                484
+                618,
+                815,
+                699,
+                844
             ]
         },
         {
-            "text": "549.00",
+            "text": "EG0694",
             "id": 7,
             "bbox": [
-                496,
-                966,
-                549,
-                979
+                356,
+                780,
+                436,
+                816
             ]
         },
         {
-            "text": "549.00",
+            "text": "9",
             "id": 8,
             "bbox": [
-                489,
-                699,
-                534,
-                711
+                456,
+                782,
+                480,
+                816
             ]
         },
         {
-            "text": "RING",
+            "text": "ULTRABOOST",
             "id": 9,
             "bbox": [
-                233,
-                701,
-                265,
-                712
+                188,
+                807,
+                324,
+                838
             ]
         },
         {
-            "text": "DOOR",
+            "text": "20",
             "id": 10,
             "bbox": [
-                272,
-                700,
-                310,
-                712
+                343,
+                811,
+                367,
+                839
             ]
         },
         {
-            "text": "VIEW",
+            "text": "\u0627\u062d\u062f\u064a\u0629",
             "id": 11,
             "bbox": [
-                317,
-                700,
-                352,
-                712
-            ]
-        },
-        {
-            "text": "CAMERA",
-            "id": 12,
-            "bbox": [
-                232,
-                719,
-                287,
-                731
+                187,
+                837,
+                228,
+                864
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RING",
-                "DOOR",
-                "VIEW",
-                "CAMERA"
+                "22:05"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "EG0694",
+                "9"
+            ],
+            "value_id": [
+                7,
+                8
             ]
         },
         {
@@ -144,49 +141,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "24/Jul/20"
+                "07/17/20"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DENASTER",
-                "GENERAL",
-                "TRADINGLLO"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "549.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:15",
-                "PM"
-            ],
-            "value_id": [
-                5,
-                6
+                2
             ]
         },
         {
@@ -194,10 +152,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "549.00"
+                "849.00"
             ],
             "value_id": [
-                8
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u062d\u062f\u064a\u0629"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ULTRABOOST",
+                "20"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "adidas"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "679.20"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

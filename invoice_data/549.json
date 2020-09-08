@@ -1,156 +1,139 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                328,
-                111,
-                398,
-                121
+                324,
+                113,
+                382,
+                128
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "HOME",
             "id": 2,
             "bbox": [
-                409,
+                397,
                 111,
-                487,
-                122
+                460,
+                126
             ]
         },
         {
-            "text": "28/06/20",
+            "text": "2.",
             "id": 3,
             "bbox": [
-                278,
-                306,
-                351,
-                320
+                281,
+                233,
+                294,
+                243
             ]
         },
         {
-            "text": "18:56",
+            "text": "97-2030",
             "id": 4,
             "bbox": [
-                365,
-                306,
-                408,
-                319
+                297,
+                232,
+                332,
+                243
             ]
         },
         {
-            "text": "1,000.00",
+            "text": "13:44",
             "id": 5,
             "bbox": [
-                541,
-                561,
-                616,
-                576
+                340,
+                230,
+                363,
+                242
             ]
         },
         {
-            "text": "1,000.00",
+            "text": "\u0645\u0648\u0648",
             "id": 6,
             "bbox": [
-                538,
-                467,
-                611,
-                483
+                457,
+                281,
+                482,
+                291
             ]
         },
         {
-            "text": "Women's",
+            "text": "407104954211",
             "id": 7,
             "bbox": [
-                207,
-                443,
-                274,
-                457
+                335,
+                297,
+                402,
+                312
             ]
         },
         {
-            "text": "Wear",
+            "text": "ISIFTS",
             "id": 8,
             "bbox": [
-                286,
-                445,
-                323,
-                458
+                415,
+                295,
+                450,
+                310
             ]
         },
         {
-            "text": "WOMAN",
+            "text": "11",
             "id": 9,
             "bbox": [
-                206,
-                465,
-                253,
-                478
+                459,
+                377,
+                473,
+                386
             ]
         },
         {
-            "text": "WEAR",
+            "text": "1605",
             "id": 10,
             "bbox": [
-                266,
-                466,
-                302,
-                480
+                284,
+                301,
+                303,
+                311
             ]
         },
         {
-            "text": "JESSICA",
+            "text": "155",
             "id": 11,
             "bbox": [
-                315,
-                467,
-                380,
-                481
-            ]
-        },
-        {
-            "text": "S",
-            "id": 12,
-            "bbox": [
-                392,
-                469,
-                399,
-                481
-            ]
-        },
-        {
-            "text": "900851589",
-            "id": 13,
-            "bbox": [
-                255,
-                487,
-                341,
-                503
+                305,
+                301,
+                318,
+                311
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Women's",
-                "Wear",
-                "WOMAN",
-                "WEAR",
-                "JESSICA",
-                "S"
+                "13:44"
             ],
             "value_id": [
-                7,
-                8,
-                9,
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1605",
+                "155"
+            ],
+            "value_id": [
                 10,
-                11,
-                12
+                11
             ]
         },
         {
@@ -158,10 +141,36 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "28/06/20"
+                "2.",
+                "97-2030"
             ],
             "value_id": [
-                3
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0648\u0648"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "407104954211",
+                "ISIFTS"
+            ],
+            "value_id": [
+                7,
+                8
             ]
         },
         {
@@ -169,8 +178,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "ZARA",
+                "HOME"
             ],
             "value_id": [
                 1,
@@ -182,43 +191,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,000.00"
+                "11"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900851589"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18:56"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,000.00"
-            ],
-            "value_id": [
-                6
+                9
             ]
         }
     ],

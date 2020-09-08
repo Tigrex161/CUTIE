@@ -1,0 +1,288 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                316,
+                10,
+                354,
+                27
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                361,
+                11,
+                420,
+                28
+            ]
+        },
+        {
+            "text": "MALLERAAR",
+            "id": 3,
+            "bbox": [
+                342,
+                27,
+                394,
+                36
+            ]
+        },
+        {
+            "text": "MOLTEN",
+            "id": 4,
+            "bbox": [
+                325,
+                56,
+                388,
+                65
+            ]
+        },
+        {
+            "text": "11/07/2020",
+            "id": 5,
+            "bbox": [
+                522,
+                240,
+                581,
+                252
+            ]
+        },
+        {
+            "text": "16:12",
+            "id": 6,
+            "bbox": [
+                603,
+                240,
+                631,
+                252
+            ]
+        },
+        {
+            "text": "730.00",
+            "id": 7,
+            "bbox": [
+                673,
+                465,
+                708,
+                474
+            ]
+        },
+        {
+            "text": "730.00",
+            "id": 8,
+            "bbox": [
+                668,
+                306,
+                702,
+                315
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                275,
+                305,
+                276,
+                313
+            ]
+        },
+        {
+            "text": "1.POOBS",
+            "id": 10,
+            "bbox": [
+                32,
+                295,
+                67,
+                311
+            ]
+        },
+        {
+            "text": "ATTRAPS",
+            "id": 11,
+            "bbox": [
+                81,
+                296,
+                121,
+                312
+            ]
+        },
+        {
+            "text": "REFILE",
+            "id": 12,
+            "bbox": [
+                129,
+                297,
+                164,
+                313
+            ]
+        },
+        {
+            "text": "100ML",
+            "id": 13,
+            "bbox": [
+                171,
+                298,
+                200,
+                312
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 14,
+            "bbox": [
+                207,
+                298,
+                224,
+                313
+            ]
+        },
+        {
+            "text": "PERPUNE",
+            "id": 15,
+            "bbox": [
+                33,
+                310,
+                74,
+                322
+            ]
+        },
+        {
+            "text": "INO",
+            "id": 16,
+            "bbox": [
+                83,
+                312,
+                98,
+                322
+            ]
+        },
+        {
+            "text": "STOCK",
+            "id": 17,
+            "bbox": [
+                105,
+                312,
+                132,
+                324
+            ]
+        },
+        {
+            "text": ")",
+            "id": 18,
+            "bbox": [
+                137,
+                313,
+                138,
+                323
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:12"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "730.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.POOBS",
+                "ATTRAPS",
+                "REFILE",
+                "100ML",
+                "EDP",
+                "PERPUNE",
+                "INO",
+                "STOCK",
+                ")"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MALLERAAR",
+                "MOLTEN"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "730.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1310.jpg"
+    }
+}

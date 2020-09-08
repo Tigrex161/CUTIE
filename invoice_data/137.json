@@ -1,177 +1,136 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "AFT",
             "id": 1,
             "bbox": [
-                329,
-                202,
-                391,
-                213
+                620,
+                630,
+                640,
+                643
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "750.00",
             "id": 2,
             "bbox": [
-                400,
-                202,
-                470,
-                214
+                648,
+                628,
+                688,
+                642
             ]
         },
         {
-            "text": "28/06/20",
+            "text": "750.00",
             "id": 3,
             "bbox": [
-                292,
-                404,
-                353,
-                418
-            ]
-        },
-        {
-            "text": "16:43",
-            "id": 4,
-            "bbox": [
-                363,
-                406,
-                400,
-                419
-            ]
-        },
-        {
-            "text": "210.00",
-            "id": 5,
-            "bbox": [
-                518,
-                627,
-                562,
-                638
-            ]
-        },
-        {
-            "text": "210.00",
-            "id": 6,
-            "bbox": [
-                518,
-                548,
-                562,
-                558
-            ]
-        },
-        {
-            "text": "Kid's",
-            "id": 7,
-            "bbox": [
-                238,
-                527,
-                276,
-                539
-            ]
-        },
-        {
-            "text": "Wear",
-            "id": 8,
-            "bbox": [
-                285,
-                528,
-                315,
-                539
-            ]
-        },
-        {
-            "text": "KIDS",
-            "id": 9,
-            "bbox": [
-                238,
-                547,
-                267,
-                558
-            ]
-        },
-        {
-            "text": "WEAR",
-            "id": 10,
-            "bbox": [
-                278,
-                547,
-                307,
-                558
-            ]
-        },
-        {
-            "text": "EMPORIO",
-            "id": 11,
-            "bbox": [
-                317,
-                548,
-                370,
-                559
-            ]
-        },
-        {
-            "text": "AR",
-            "id": 12,
-            "bbox": [
-                379,
-                548,
-                393,
-                558
-            ]
-        },
-        {
-            "text": "900887756",
-            "id": 13,
-            "bbox": [
-                280,
-                564,
-                347,
-                579
+                648,
+                542,
+                689,
+                556
             ]
         },
         {
             "text": "1",
-            "id": 14,
+            "id": 4,
             "bbox": [
-                558,
-                588,
-                559,
-                596
+                468,
+                552,
+                472,
+                561
+            ]
+        },
+        {
+            "text": "\u062d\u0627\u0644\u0642\u0629",
+            "id": 5,
+            "bbox": [
+                621,
+                518,
+                654,
+                536
+            ]
+        },
+        {
+            "text": "\u0628\u0637\u0627\u0642\u0627\u062a",
+            "id": 6,
+            "bbox": [
+                569,
+                519,
+                612,
+                538
+            ]
+        },
+        {
+            "text": "\u0645\u0635\u0631\u0641\u064a\u0629",
+            "id": 7,
+            "bbox": [
+                523,
+                521,
+                563,
+                540
+            ]
+        },
+        {
+            "text": "July",
+            "id": 8,
+            "bbox": [
+                563,
+                293,
+                589,
+                310
+            ]
+        },
+        {
+            "text": ",",
+            "id": 9,
+            "bbox": [
+                593,
+                293,
+                596,
+                307
+            ]
+        },
+        {
+            "text": "10",
+            "id": 10,
+            "bbox": [
+                606,
+                290,
+                620,
+                306
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 11,
+            "bbox": [
+                627,
+                287,
+                656,
+                304
+            ]
+        },
+        {
+            "text": "22:55",
+            "id": 12,
+            "bbox": [
+                663,
+                283,
+                699,
+                301
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Kid's",
-                "Wear",
-                "KIDS",
-                "WEAR",
-                "EMPORIO",
-                "AR"
+                "22:55"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11,
                 12
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                14
             ]
         },
         {
@@ -179,56 +138,16 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "28/06/20"
+                "July",
+                ",",
+                "10",
+                "2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "210.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900887756"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:43"
-            ],
-            "value_id": [
-                4
+                8,
+                9,
+                10,
+                11
             ]
         },
         {
@@ -236,10 +155,49 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "210.00"
+                "750.00"
             ],
             "value_id": [
-                6
+                3
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062d\u0627\u0644\u0642\u0629",
+                "\u0628\u0637\u0627\u0642\u0627\u062a",
+                "\u0645\u0635\u0631\u0641\u064a\u0629"
+            ],
+            "value_id": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AFT",
+                "750.00"
+            ],
+            "value_id": [
+                1,
+                2
             ]
         }
     ],

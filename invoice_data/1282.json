@@ -1,0 +1,318 @@
+{
+    "text_boxes": [
+        {
+            "text": "SEPHORA",
+            "id": 1,
+            "bbox": [
+                252,
+                201,
+                331,
+                238
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 2,
+            "bbox": [
+                343,
+                204,
+                398,
+                239
+            ]
+        },
+        {
+            "text": "MALL",
+            "id": 3,
+            "bbox": [
+                411,
+                205,
+                455,
+                241
+            ]
+        },
+        {
+            "text": "July",
+            "id": 4,
+            "bbox": [
+                291,
+                1397,
+                334,
+                1420
+            ]
+        },
+        {
+            "text": "28",
+            "id": 5,
+            "bbox": [
+                350,
+                1401,
+                366,
+                1423
+            ]
+        },
+        {
+            "text": ",",
+            "id": 6,
+            "bbox": [
+                372,
+                1402,
+                378,
+                1422
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 7,
+            "bbox": [
+                385,
+                1403,
+                422,
+                1425
+            ]
+        },
+        {
+            "text": "11:31:50",
+            "id": 8,
+            "bbox": [
+                438,
+                1405,
+                525,
+                1431
+            ]
+        },
+        {
+            "text": ":",
+            "id": 9,
+            "bbox": [
+                526,
+                1366,
+                534,
+                1393
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                536,
+                1367,
+                543,
+                1394
+            ]
+        },
+        {
+            "text": "1000.00",
+            "id": 11,
+            "bbox": [
+                396,
+                1127,
+                545,
+                1163
+            ]
+        },
+        {
+            "text": "1000.00",
+            "id": 12,
+            "bbox": [
+                482,
+                817,
+                556,
+                841
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                258,
+                805,
+                264,
+                831
+            ]
+        },
+        {
+            "text": "SEPHORA",
+            "id": 14,
+            "bbox": [
+                291,
+                728,
+                367,
+                758
+            ]
+        },
+        {
+            "text": "GIFT",
+            "id": 15,
+            "bbox": [
+                378,
+                732,
+                420,
+                761
+            ]
+        },
+        {
+            "text": "CARD",
+            "id": 16,
+            "bbox": [
+                432,
+                734,
+                474,
+                763
+            ]
+        },
+        {
+            "text": "UAE",
+            "id": 17,
+            "bbox": [
+                485,
+                736,
+                517,
+                764
+            ]
+        },
+        {
+            "text": "NEW",
+            "id": 18,
+            "bbox": [
+                529,
+                738,
+                560,
+                765
+            ]
+        },
+        {
+            "text": "105414256895",
+            "id": 19,
+            "bbox": [
+                107,
+                721,
+                236,
+                753
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:31:50"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105414256895"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "28",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1000.00"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "GIFT",
+                "CARD",
+                "UAE",
+                "NEW"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ":",
+                "1"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1000.00"
+            ],
+            "value_id": [
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1282.jpg"
+    }
+}

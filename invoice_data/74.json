@@ -4,107 +4,144 @@
             "text": "DIOR",
             "id": 1,
             "bbox": [
-                306,
-                293,
-                468,
-                341
+                353,
+                420,
+                501,
+                469
             ]
         },
         {
-            "text": "07/07/2020",
+            "text": "13/07/2020",
             "id": 2,
             "bbox": [
-                68,
-                574,
-                114,
-                581
+                128,
+                672,
+                169,
+                684
             ]
         },
         {
-            "text": "15:04",
+            "text": "17:31",
             "id": 3,
             "bbox": [
-                125,
-                574,
-                146,
-                581
+                179,
+                672,
+                197,
+                682
             ]
         },
         {
-            "text": "16,500.00",
+            "text": "1.000.00",
             "id": 4,
             "bbox": [
-                614,
-                717,
-                657,
-                727
+                639,
+                808,
+                672,
+                817
             ]
         },
         {
-            "text": "16,500.00",
+            "text": "AHD",
             "id": 5,
             "bbox": [
-                638,
-                657,
-                681,
-                665
+                687,
+                808,
+                705,
+                816
             ]
         },
         {
-            "text": "De",
+            "text": "95258",
             "id": 6,
             "bbox": [
-                215,
-                658,
-                232,
-                670
+                667,
+                752,
+                694,
+                760
             ]
         },
         {
-            "text": "posit",
+            "text": "1",
             "id": 7,
             "bbox": [
-                233,
-                656,
-                252,
-                669
+                415,
+                752,
+                416,
+                760
             ]
         },
         {
-            "text": "AED",
+            "text": "Frase",
             "id": 8,
             "bbox": [
-                252,
-                656,
-                272,
-                666
+                264,
+                750,
+                299,
+                763
             ]
         },
         {
-            "text": "B09",
+            "text": "/",
             "id": 9,
             "bbox": [
-                67,
-                659,
-                82,
-                666
+                301,
+                750,
+                303,
+                763
+            ]
+        },
+        {
+            "text": "Mikroplam",
+            "id": 10,
+            "bbox": [
+                303,
+                750,
+                354,
+                763
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                415,
+                781,
+                416,
+                790
+            ]
+        },
+        {
+            "text": "CC099600261",
+            "id": 12,
+            "bbox": [
+                124,
+                752,
+                177,
+                764
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "De",
-                "posit",
-                "AED"
+                "17:31"
             ],
             "value_id": [
-                6,
-                7,
-                8
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CC099600261"
+            ],
+            "value_id": [
+                12
             ]
         },
         {
@@ -112,10 +149,36 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07/07/2020"
+                "13/07/2020"
             ],
             "value_id": [
                 2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "95258"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Frase",
+                "/",
+                "Mikroplam"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
             ]
         },
         {
@@ -130,46 +193,37 @@
             ]
         },
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16,500.00"
+                "1.000.00",
+                "AHD"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "B09"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15:04"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16,500.00"
-            ],
-            "value_id": [
+                4,
                 5
             ]
         }

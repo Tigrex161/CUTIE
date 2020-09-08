@@ -1,138 +1,249 @@
 {
     "text_boxes": [
         {
-            "text": "2107/2020",
+            "text": "apm",
             "id": 1,
             "bbox": [
-                37,
-                555,
-                167,
-                580
+                375,
+                107,
+                516,
+                173
             ]
         },
         {
-            "text": "02:46:06",
+            "text": "MONACO",
             "id": 2,
             "bbox": [
-                178,
-                554,
-                283,
-                578
+                406,
+                175,
+                487,
+                194
             ]
         },
         {
-            "text": "P",
+            "text": "17",
             "id": 3,
             "bbox": [
-                294,
-                554,
-                305,
-                578
+                635,
+                396,
+                647,
+                411
             ]
         },
         {
-            "text": "N",
+            "text": "-",
             "id": 4,
             "bbox": [
-                313,
-                554,
-                325,
-                578
+                651,
+                396,
+                654,
+                411
             ]
         },
         {
-            "text": "1",
+            "text": "July",
             "id": 5,
             "bbox": [
-                296,
+                655,
+                396,
                 676,
-                302,
-                699
+                411
             ]
         },
         {
-            "text": "00",
+            "text": "-",
             "id": 6,
             "bbox": [
-                679,
-                667,
-                717,
-                701
+                680,
+                396,
+                683,
+                411
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 7,
+            "bbox": [
+                685,
+                396,
+                715,
+                411
+            ]
+        },
+        {
+            "text": "12:30:45",
+            "id": 8,
+            "bbox": [
+                722,
+                394,
+                775,
+                411
+            ]
+        },
+        {
+            "text": "485.71",
+            "id": 9,
+            "bbox": [
+                537,
+                569,
+                577,
+                584
+            ]
+        },
+        {
+            "text": "333.33",
+            "id": 10,
+            "bbox": [
+                536,
+                664,
+                576,
+                677
+            ]
+        },
+        {
+            "text": "SILVER",
+            "id": 11,
+            "bbox": [
+                446,
+                537,
+                491,
+                550
+            ]
+        },
+        {
+            "text": "EARRING",
+            "id": 12,
+            "bbox": [
+                497,
+                537,
+                557,
+                550
+            ]
+        },
+        {
+            "text": "OX",
+            "id": 13,
+            "bbox": [
+                562,
+                537,
+                580,
+                550
+            ]
+        },
+        {
+            "text": "PLW",
+            "id": 14,
+            "bbox": [
+                585,
+                536,
+                612,
+                550
             ]
         },
         {
             "text": "1",
-            "id": 7,
+            "id": 15,
             "bbox": [
-                171,
-                796,
-                179,
-                820
+                509,
+                553,
+                512,
+                568
             ]
         },
         {
-            "text": "MNSPOLO",
-            "id": 8,
+            "text": "1",
+            "id": 16,
             "bbox": [
-                113,
-                714,
-                257,
-                740
+                508,
+                649,
+                511,
+                661
             ]
         },
         {
-            "text": "109",
-            "id": 9,
+            "text": "SILVER",
+            "id": 17,
             "bbox": [
+                446,
                 634,
-                978,
-                686,
-                1013
+                490,
+                647
             ]
         },
         {
-            "text": "00",
-            "id": 10,
+            "text": "RING",
+            "id": 18,
             "bbox": [
-                693,
-                976,
-                727,
-                1012
+                496,
+                634,
+                528,
+                647
+            ]
+        },
+        {
+            "text": "OX",
+            "id": 19,
+            "bbox": [
+                534,
+                634,
+                551,
+                647
+            ]
+        },
+        {
+            "text": "AE12373XPL",
+            "id": 20,
+            "bbox": [
+                543,
+                519,
+                626,
+                535
+            ]
+        },
+        {
+            "text": "A19411OXY",
+            "id": 21,
+            "bbox": [
+                540,
+                619,
+                613,
+                631
+            ]
+        },
+        {
+            "text": "860.00",
+            "id": 22,
+            "bbox": [
+                445,
+                763,
+                485,
+                775
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MNSPOLO"
+                "12:30:45"
             ],
             "value_id": [
                 8
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "AE12373XPL",
+                "A19411OXY"
             ],
             "value_id": [
-                5
+                20,
+                21
             ]
         },
         {
@@ -140,38 +251,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2107/2020"
+                "17",
+                "-",
+                "July",
+                "-",
+                "2020"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "109",
-                "00"
-            ],
-            "value_id": [
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "02:46:06",
-                "P",
-                "N"
-            ],
-            "value_id": [
-                2,
                 3,
-                4
+                4,
+                5,
+                6,
+                7
             ]
         },
         {
@@ -179,10 +270,72 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "00"
+                "485.71",
+                "333.33"
             ],
             "value_id": [
-                6
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SILVER",
+                "EARRING",
+                "OX",
+                "PLW",
+                "SILVER",
+                "RING",
+                "OX"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "apm",
+                "MONACO"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "860.00"
+            ],
+            "value_id": [
+                22
             ]
         }
     ],

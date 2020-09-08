@@ -1,143 +1,246 @@
 {
     "text_boxes": [
         {
-            "text": "UTERQ\u00dcE",
+            "text": "NIKE",
             "id": 1,
             "bbox": [
-                256,
-                52,
-                521,
-                93
+                313,
+                156,
+                354,
+                170
             ]
         },
         {
-            "text": "11-07-2828",
+            "text": "BEACON",
             "id": 2,
             "bbox": [
-                153,
-                386,
-                262,
-                404
+                367,
+                155,
+                425,
+                169
             ]
         },
         {
-            "text": "12:57",
+            "text": "11,137",
             "id": 3,
             "bbox": [
-                277,
-                391,
-                328,
-                407
+                292,
+                237,
+                315,
+                250
             ]
         },
         {
-            "text": "529",
+            "text": "/",
             "id": 4,
             "bbox": [
-                521,
-                701,
-                553,
-                716
+                319,
+                237,
+                322,
+                250
             ]
         },
         {
-            "text": "529",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                521,
-                499,
-                552,
-                511
+                323,
+                237,
+                341,
+                250
             ]
         },
         {
-            "text": "1533358012939",
+            "text": "2013",
             "id": 6,
             "bbox": [
-                264,
-                527,
-                402,
-                547
+                291,
+                253,
+                316,
+                267
             ]
         },
         {
-            "text": "FLAT",
+            "text": "1",
             "id": 7,
             "bbox": [
-                428,
-                525,
-                471,
-                541
+                382,
+                454,
+                384,
+                465
             ]
         },
         {
-            "text": "SHOES",
+            "text": "320",
             "id": 8,
             "bbox": [
-                486,
-                526,
-                540,
-                540
+                466,
+                450,
+                496,
+                464
             ]
         },
         {
-            "text": "18801065",
+            "text": "33",
             "id": 9,
             "bbox": [
-                147,
-                523,
-                237,
-                541
+                481,
+                664,
+                490,
+                677
+            ]
+        },
+        {
+            "text": "\u060c",
+            "id": 10,
+            "bbox": [
+                498,
+                664,
+                500,
+                677
+            ]
+        },
+        {
+            "text": "00",
+            "id": 11,
+            "bbox": [
+                501,
+                664,
+                511,
+                677
+            ]
+        },
+        {
+            "text": "1.00",
+            "id": 12,
+            "bbox": [
+                378,
+                558,
+                398,
+                572
+            ]
+        },
+        {
+            "text": "AK08328",
+            "id": 13,
+            "bbox": [
+                208,
+                455,
+                250,
+                470
+            ]
+        },
+        {
+            "text": "-2012",
+            "id": 14,
+            "bbox": [
+                253,
+                455,
+                272,
+                469
+            ]
+        },
+        {
+            "text": "WMNS",
+            "id": 15,
+            "bbox": [
+                208,
+                473,
+                228,
+                486
+            ]
+        },
+        {
+            "text": "NIKE",
+            "id": 16,
+            "bbox": [
+                236,
+                473,
+                255,
+                486
+            ]
+        },
+        {
+            "text": "FREE",
+            "id": 17,
+            "bbox": [
+                263,
+                472,
+                282,
+                485
+            ]
+        },
+        {
+            "text": "MEICON",
+            "id": 18,
+            "bbox": [
+                289,
+                471,
+                320,
+                485
+            ]
+        },
+        {
+            "text": "2",
+            "id": 19,
+            "bbox": [
+                328,
+                471,
+                331,
+                484
+            ]
+        },
+        {
+            "text": "\u0645\u0627",
+            "id": 20,
+            "bbox": [
+                286,
+                490,
+                303,
+                503
+            ]
+        },
+        {
+            "text": "\u0646\u0627\u0643\u0647",
+            "id": 21,
+            "bbox": [
+                258,
+                490,
+                280,
+                504
+            ]
+        },
+        {
+            "text": "\u0646\u0642\u0644",
+            "id": 22,
+            "bbox": [
+                240,
+                492,
+                252,
+                504
+            ]
+        },
+        {
+            "text": "\u0627\u062a\u0627\u0646\u0648\u0644",
+            "id": 23,
+            "bbox": [
+                208,
+                491,
+                234,
+                505
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1533358012939",
-                "FLAT",
-                "SHOES"
+                "2013"
             ],
             "value_id": [
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11-07-2828"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "UTERQ\u00dcE"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "529"
-            ],
-            "value_id": [
-                4
+                6
             ]
         },
         {
@@ -145,21 +248,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18801065"
+                "AK08328",
+                "-2012"
             ],
             "value_id": [
-                9
+                13,
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:57"
+                "11,137",
+                "/",
+                "2020"
             ],
             "value_id": [
-                3
+                3,
+                4,
+                5
             ]
         },
         {
@@ -167,10 +276,96 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "529"
+                "320"
             ],
             "value_id": [
-                5
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0627",
+                "\u0646\u0627\u0643\u0647",
+                "\u0646\u0642\u0644",
+                "\u0627\u062a\u0627\u0646\u0648\u0644"
+            ],
+            "value_id": [
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WMNS",
+                "NIKE",
+                "FREE",
+                "MEICON",
+                "2"
+            ],
+            "value_id": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NIKE",
+                "BEACON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "33",
+                "\u060c",
+                "00"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
             ]
         }
     ],

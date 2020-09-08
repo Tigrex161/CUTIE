@@ -1,0 +1,267 @@
+{
+    "text_boxes": [
+        {
+            "text": "Guylian",
+            "id": 1,
+            "bbox": [
+                201,
+                300,
+                276,
+                334
+            ]
+        },
+        {
+            "text": "Belgian",
+            "id": 2,
+            "bbox": [
+                285,
+                295,
+                358,
+                330
+            ]
+        },
+        {
+            "text": "Chocolate",
+            "id": 3,
+            "bbox": [
+                370,
+                288,
+                466,
+                324
+            ]
+        },
+        {
+            "text": "Cafe",
+            "id": 4,
+            "bbox": [
+                478,
+                285,
+                521,
+                318
+            ]
+        },
+        {
+            "text": ".",
+            "id": 5,
+            "bbox": [
+                385,
+                324,
+                387,
+                350
+            ]
+        },
+        {
+            "text": "7/17/2020",
+            "id": 6,
+            "bbox": [
+                213,
+                541,
+                305,
+                567
+            ]
+        },
+        {
+            "text": "5:42",
+            "id": 7,
+            "bbox": [
+                316,
+                539,
+                356,
+                563
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 8,
+            "bbox": [
+                367,
+                537,
+                387,
+                560
+            ]
+        },
+        {
+            "text": "AED98.00",
+            "id": 9,
+            "bbox": [
+                493,
+                632,
+                575,
+                658
+            ]
+        },
+        {
+            "text": "AED115.00",
+            "id": 10,
+            "bbox": [
+                483,
+                659,
+                574,
+                682
+            ]
+        },
+        {
+            "text": "2",
+            "id": 11,
+            "bbox": [
+                196,
+                644,
+                204,
+                666
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                199,
+                667,
+                203,
+                689
+            ]
+        },
+        {
+            "text": "Crazy",
+            "id": 13,
+            "bbox": [
+                216,
+                641,
+                266,
+                666
+            ]
+        },
+        {
+            "text": "Waffle",
+            "id": 14,
+            "bbox": [
+                277,
+                639,
+                337,
+                663
+            ]
+        },
+        {
+            "text": "Guylian",
+            "id": 15,
+            "bbox": [
+                217,
+                664,
+                288,
+                689
+            ]
+        },
+        {
+            "text": "High",
+            "id": 16,
+            "bbox": [
+                299,
+                664,
+                337,
+                687
+            ]
+        },
+        {
+            "text": "Tea",
+            "id": 17,
+            "bbox": [
+                350,
+                662,
+                379,
+                686
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5:42",
+                "PM"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/17/2020"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED98.00",
+                "AED115.00"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Crazy",
+                "Waffle",
+                "Guylian",
+                "High",
+                "Tea"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Guylian",
+                "Belgian",
+                "Chocolate",
+                "Cafe",
+                "."
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "1"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1294.jpg"
+    }
+}

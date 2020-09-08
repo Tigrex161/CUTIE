@@ -1,153 +1,247 @@
 {
     "text_boxes": [
         {
-            "text": "GRAN",
+            "text": "SEPHORA",
             "id": 1,
             "bbox": [
-                156,
-                456,
-                395,
-                523
+                310,
+                243,
+                368,
+                263
             ]
         },
         {
-            "text": "CAFT\u00c8",
+            "text": "DUBAI",
             "id": 2,
             "bbox": [
-                420,
-                444,
-                679,
-                527
+                379,
+                243,
+                418,
+                263
             ]
         },
         {
-            "text": "7/3/2020",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                153,
-                762,
-                253,
-                788
+                430,
+                243,
+                461,
+                263
             ]
         },
         {
-            "text": "6:54",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                268,
-                764,
-                315,
-                785
+                437,
+                1148,
+                465,
+                1166
             ]
         },
         {
-            "text": "PM",
+            "text": ",",
             "id": 5,
             "bbox": [
-                329,
-                763,
-                351,
-                785
+                431,
+                1150,
+                436,
+                1166
             ]
         },
         {
-            "text": "AED54.00",
+            "text": "08",
             "id": 6,
             "bbox": [
-                550,
-                884,
-                647,
-                910
+                415,
+                1150,
+                427,
+                1167
             ]
         },
         {
-            "text": "AED64.00",
+            "text": "y",
             "id": 7,
             "bbox": [
-                550,
-                915,
-                648,
-                942
+                398,
+                1151,
+                403,
+                1167
             ]
         },
         {
-            "text": "2",
+            "text": "[",
             "id": 8,
             "bbox": [
-                189,
-                887,
-                201,
-                909
+                394,
+                1152,
+                399,
+                1168
             ]
         },
         {
-            "text": "Dolce",
+            "text": "\u0628\u0627\u0644",
             "id": 9,
             "bbox": [
-                215,
-                883,
-                277,
-                908
+                378,
+                1151,
+                391,
+                1168
             ]
         },
         {
-            "text": "latte",
+            "text": "19:26:32",
             "id": 10,
             "bbox": [
-                294,
-                881,
-                351,
-                906
+                475,
+                1145,
+                533,
+                1164
             ]
         },
         {
-            "text": "FRENCH",
+            "text": "165.00",
             "id": 11,
             "bbox": [
-                216,
-                915,
-                290,
-                938
+                457,
+                769,
+                545,
+                791
             ]
         },
         {
-            "text": "TOAST",
+            "text": "165.00",
             "id": 12,
             "bbox": [
-                305,
-                912,
-                363,
-                936
+                504,
+                696,
+                548,
+                714
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                321,
+                700,
+                323,
+                716
+            ]
+        },
+        {
+            "text": "RADIANT",
+            "id": 14,
+            "bbox": [
+                351,
+                638,
+                405,
+                657
+            ]
+        },
+        {
+            "text": "CREAMY",
+            "id": 15,
+            "bbox": [
+                415,
+                638,
+                461,
+                656
+            ]
+        },
+        {
+            "text": "CONCEALER",
+            "id": 16,
+            "bbox": [
+                471,
+                637,
+                540,
+                656
+            ]
+        },
+        {
+            "text": "1",
+            "id": 17,
+            "bbox": [
+                537,
+                1110,
+                541,
+                1128
+            ]
+        },
+        {
+            "text": ":",
+            "id": 18,
+            "bbox": [
+                529,
+                1111,
+                534,
+                1129
+            ]
+        },
+        {
+            "text": "024512272699",
+            "id": 19,
+            "bbox": [
+                213,
+                640,
+                309,
+                659
+            ]
+        },
+        {
+            "text": "\u0642\u0644\u0645",
+            "id": 20,
+            "bbox": [
+                329,
+                679,
+                350,
+                697
+            ]
+        },
+        {
+            "text": "\u062a\u0635\u062d\u064a\u062d",
+            "id": 21,
+            "bbox": [
+                280,
+                679,
+                318,
+                698
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062a\u062c\u0627\u0646\u0633",
+            "id": 22,
+            "bbox": [
+                214,
+                679,
+                267,
+                698
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Dolce",
-                "latte",
-                "FRENCH",
-                "TOAST"
+                "19:26:32"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12
+                10
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2"
+                "024512272699"
             ],
             "value_id": [
-                8
+                19
             ]
         },
         {
@@ -155,36 +249,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7/3/2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GRAN",
-                "CAFT\u00c8"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "6:54",
-                "PM"
+                "2020",
+                ",",
+                "08",
+                "y",
+                "[",
+                "\u0628\u0627\u0644"
             ],
             "value_id": [
                 4,
-                5
+                5,
+                6,
+                7,
+                8,
+                9
             ]
         },
         {
@@ -192,12 +270,90 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AED54.00",
-                "AED64.00"
+                "165.00"
             ],
             "value_id": [
-                6,
-                7
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0642\u0644\u0645",
+                "\u062a\u0635\u062d\u064a\u062d",
+                "\u0627\u0644\u062a\u062c\u0627\u0646\u0633"
+            ],
+            "value_id": [
+                20,
+                21,
+                22
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RADIANT",
+                "CREAMY",
+                "CONCEALER"
+            ],
+            "value_id": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                ":"
+            ],
+            "value_id": [
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "165.00"
+            ],
+            "value_id": [
+                11
             ]
         }
     ],

@@ -1,0 +1,282 @@
+{
+    "text_boxes": [
+        {
+            "text": "VIVEL",
+            "id": 1,
+            "bbox": [
+                336,
+                247,
+                382,
+                268
+            ]
+        },
+        {
+            "text": "PATISSERIE",
+            "id": 2,
+            "bbox": [
+                394,
+                248,
+                487,
+                269
+            ]
+        },
+        {
+            "text": "24Jul",
+            "id": 3,
+            "bbox": [
+                371,
+                465,
+                415,
+                487
+            ]
+        },
+        {
+            "text": "20",
+            "id": 4,
+            "bbox": [
+                422,
+                466,
+                445,
+                486
+            ]
+        },
+        {
+            "text": "12:02",
+            "id": 5,
+            "bbox": [
+                458,
+                467,
+                502,
+                488
+            ]
+        },
+        {
+            "text": "2",
+            "id": 6,
+            "bbox": [
+                580,
+                517,
+                584,
+                533
+            ]
+        },
+        {
+            "text": ".",
+            "id": 7,
+            "bbox": [
+                588,
+                517,
+                590,
+                533
+            ]
+        },
+        {
+            "text": "280.00",
+            "id": 8,
+            "bbox": [
+                290,
+                680,
+                346,
+                700
+            ]
+        },
+        {
+            "text": "280.00",
+            "id": 9,
+            "bbox": [
+                294,
+                512,
+                350,
+                535
+            ]
+        },
+        {
+            "text": "X",
+            "id": 10,
+            "bbox": [
+                399,
+                516,
+                407,
+                536
+            ]
+        },
+        {
+            "text": "Lrg",
+            "id": 11,
+            "bbox": [
+                418,
+                516,
+                444,
+                536
+            ]
+        },
+        {
+            "text": "Slim",
+            "id": 12,
+            "bbox": [
+                456,
+                516,
+                492,
+                536
+            ]
+        },
+        {
+            "text": "sweet",
+            "id": 13,
+            "bbox": [
+                503,
+                516,
+                548,
+                536
+            ]
+        },
+        {
+            "text": "\u0639\u0644\u0628\u0629",
+            "id": 14,
+            "bbox": [
+                516,
+                540,
+                547,
+                558
+            ]
+        },
+        {
+            "text": "\u062d\u0644\u0648\u064a\u0627\u062a",
+            "id": 15,
+            "bbox": [
+                446,
+                540,
+                501,
+                558
+            ]
+        },
+        {
+            "text": "101111111644",
+            "id": 16,
+            "bbox": [
+                438,
+                564,
+                548,
+                584
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:02"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "101111111644"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24Jul",
+                "20"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "280.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0639\u0644\u0628\u0629",
+                "\u062d\u0644\u0648\u064a\u0627\u062a"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "X",
+                "Lrg",
+                "Slim",
+                "sweet"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "VIVEL",
+                "PATISSERIE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "."
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "280.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1036.jpg"
+    }
+}

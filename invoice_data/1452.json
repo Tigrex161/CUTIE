@@ -1,0 +1,282 @@
+{
+    "text_boxes": [
+        {
+            "text": "LIWA",
+            "id": 1,
+            "bbox": [
+                255,
+                84,
+                321,
+                106
+            ]
+        },
+        {
+            "text": "TRADING",
+            "id": 2,
+            "bbox": [
+                341,
+                86,
+                459,
+                109
+            ]
+        },
+        {
+            "text": "07/25/20",
+            "id": 3,
+            "bbox": [
+                282,
+                340,
+                350,
+                363
+            ]
+        },
+        {
+            "text": "6:14",
+            "id": 4,
+            "bbox": [
+                474,
+                338,
+                506,
+                359
+            ]
+        },
+        {
+            "text": "1",
+            "id": 5,
+            "bbox": [
+                478,
+                641,
+                481,
+                658
+            ]
+        },
+        {
+            "text": "109.00",
+            "id": 6,
+            "bbox": [
+                434,
+                552,
+                482,
+                573
+            ]
+        },
+        {
+            "text": "109.00",
+            "id": 7,
+            "bbox": [
+                433,
+                510,
+                482,
+                530
+            ]
+        },
+        {
+            "text": "YGP",
+            "id": 8,
+            "bbox": [
+                161,
+                511,
+                185,
+                530
+            ]
+        },
+        {
+            "text": "ST",
+            "id": 9,
+            "bbox": [
+                197,
+                511,
+                213,
+                530
+            ]
+        },
+        {
+            "text": "SG",
+            "id": 10,
+            "bbox": [
+                224,
+                512,
+                240,
+                531
+            ]
+        },
+        {
+            "text": "FX",
+            "id": 11,
+            "bbox": [
+                251,
+                512,
+                266,
+                531
+            ]
+        },
+        {
+            "text": "SHLL",
+            "id": 12,
+            "bbox": [
+                277,
+                512,
+                310,
+                533
+            ]
+        },
+        {
+            "text": "HP",
+            "id": 13,
+            "bbox": [
+                320,
+                514,
+                336,
+                533
+            ]
+        },
+        {
+            "text": "9354593126609",
+            "id": 14,
+            "bbox": [
+                160,
+                465,
+                275,
+                490
+            ]
+        },
+        {
+            "text": "\u0627\u0642\u0631\u0627\u0637",
+            "id": 15,
+            "bbox": [
+                213,
+                490,
+                255,
+                511
+            ]
+        },
+        {
+            "text": "\u0644\u0644\u0627\u0630\u0646",
+            "id": 16,
+            "bbox": [
+                161,
+                487,
+                206,
+                508
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6:14"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9354593126609"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/25/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "109.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0642\u0631\u0627\u0637",
+                "\u0644\u0644\u0627\u0630\u0646"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "YGP",
+                "ST",
+                "SG",
+                "FX",
+                "SHLL",
+                "HP"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LIWA",
+                "TRADING"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "109.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1452.jpg"
+    }
+}

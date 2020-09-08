@@ -1,161 +1,113 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "Massimo",
             "id": 1,
             "bbox": [
-                416,
-                495,
-                669,
-                555
+                325,
+                103,
+                409,
+                134
             ]
         },
         {
-            "text": "08/07/2020",
+            "text": "Dutti",
             "id": 2,
             "bbox": [
-                27,
-                914,
-                103,
-                925
+                428,
+                105,
+                475,
+                136
             ]
         },
         {
-            "text": "12:05",
+            "text": "03-07-2010",
             "id": 3,
             "bbox": [
-                120,
-                914,
-                154,
-                924
+                269,
+                265,
+                329,
+                282
             ]
         },
         {
-            "text": "1,590.00",
+            "text": "11:15",
             "id": 4,
             "bbox": [
-                904,
-                1132,
-                960,
-                1145
+                338,
+                265,
+                366,
+                282
             ]
         },
         {
-            "text": "1,514.29",
+            "text": "\u0645\u0648\u0631\u062f",
             "id": 5,
             "bbox": [
-                944,
-                1039,
-                1001,
-                1051
+                475,
+                335,
+                504,
+                353
             ]
         },
         {
             "text": "1",
             "id": 6,
             "bbox": [
-                527,
-                1092,
-                529,
-                1102
+                345,
+                343,
+                347,
+                353
             ]
         },
         {
-            "text": "Eye",
+            "text": "00744951\u060c2003",
             "id": 7,
             "bbox": [
-                272,
-                1048,
-                294,
-                1062
+                332,
+                354,
+                410,
+                374
             ]
         },
         {
-            "text": "we",
+            "text": "PoLo",
             "id": 8,
             "bbox": [
-                297,
-                1052,
-                313,
-                1058
+                425,
+                353,
+                447,
+                371
             ]
         },
         {
-            "text": "ar",
+            "text": "SHIRT",
             "id": 9,
             "bbox": [
-                316,
-                1052,
-                331,
-                1057
+                457,
+                352,
+                485,
+                371
             ]
         },
         {
-            "text": "LINK2",
+            "text": "10001101",
             "id": 10,
             "bbox": [
-                28,
-                1048,
-                68,
-                1063
+                270,
+                357,
+                317,
+                376
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Eye",
-                "we",
-                "ar"
-            ],
-            "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "08/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DIOR"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,590.00"
+                "11:15"
             ],
             "value_id": [
                 4
@@ -166,18 +118,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LINK2"
+                "10001101"
             ],
             "value_id": [
                 10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:05"
+                "03-07-2010"
             ],
             "value_id": [
                 3
@@ -188,10 +140,49 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,514.29"
+                "\u0645\u0648\u0631\u062f"
             ],
             "value_id": [
                 5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "00744951\u060c2003",
+                "PoLo",
+                "SHIRT"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Massimo",
+                "Dutti"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

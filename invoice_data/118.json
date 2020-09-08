@@ -1,88 +1,221 @@
 {
     "text_boxes": [
         {
-            "text": "02-Jul-2020",
+            "text": "HERMES",
             "id": 1,
             "bbox": [
-                150,
-                341,
-                257,
-                360
+                175,
+                298,
+                290,
+                333
             ]
         },
         {
-            "text": "6:23:07",
+            "text": "07/06/02",
             "id": 2,
             "bbox": [
-                324,
-                344,
-                388,
-                362
+                449,
+                358,
+                494,
+                369
+            ]
+        },
+        {
+            "text": "2011",
+            "id": 3,
+            "bbox": [
+                450,
+                377,
+                470,
+                386
             ]
         },
         {
             "text": "PM",
-            "id": 3,
-            "bbox": [
-                399,
-                347,
-                417,
-                362
-            ]
-        },
-        {
-            "text": "145.00",
             "id": 4,
             "bbox": [
-                471,
-                688,
-                524,
-                703
+                476,
+                377,
+                488,
+                386
             ]
         },
         {
-            "text": "145.00",
+            "text": "2,740.00",
             "id": 5,
             "bbox": [
-                467,
-                536,
-                521,
-                554
+                498,
+                870,
+                541,
+                885
             ]
         },
         {
-            "text": "HAT",
+            "text": "4",
             "id": 6,
             "bbox": [
-                154,
-                541,
-                181,
-                557
+                538,
+                810,
+                540,
+                818
             ]
         },
         {
-            "text": "BASEBALL",
+            "text": "1",
             "id": 7,
             "bbox": [
-                193,
-                542,
-                264,
-                559
+                538,
+                808,
+                539,
+                817
+            ]
+        },
+        {
+            "text": "2740",
+            "id": 8,
+            "bbox": [
+                568,
+                522,
+                591,
+                531
+            ]
+        },
+        {
+            "text": "60",
+            "id": 9,
+            "bbox": [
+                595,
+                522,
+                605,
+                531
+            ]
+        },
+        {
+            "text": "11",
+            "id": 10,
+            "bbox": [
+                115,
+                528,
+                120,
+                537
+            ]
+        },
+        {
+            "text": "2010",
+            "id": 11,
+            "bbox": [
+                124,
+                528,
+                146,
+                537
+            ]
+        },
+        {
+            "text": "ORAN",
+            "id": 12,
+            "bbox": [
+                180,
+                529,
+                207,
+                542
+            ]
+        },
+        {
+            "text": "CALFSKIN",
+            "id": 13,
+            "bbox": [
+                211,
+                528,
+                256,
+                542
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 14,
+            "bbox": [
+                261,
+                527,
+                304,
+                541
+            ]
+        },
+        {
+            "text": "SANDAL",
+            "id": 15,
+            "bbox": [
+                306,
+                526,
+                346,
+                540
+            ]
+        },
+        {
+            "text": "385",
+            "id": 16,
+            "bbox": [
+                349,
+                526,
+                363,
+                539
+            ]
+        },
+        {
+            "text": "90",
+            "id": 17,
+            "bbox": [
+                367,
+                526,
+                376,
+                538
+            ]
+        },
+        {
+            "text": "BLANC",
+            "id": 18,
+            "bbox": [
+                380,
+                525,
+                411,
+                538
+            ]
+        },
+        {
+            "text": "WLSN",
+            "id": 19,
+            "bbox": [
+                285,
+                536,
+                312,
+                547
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "HAT",
-                "BASEBALL"
+                "2011",
+                "PM"
             ],
             "value_id": [
-                6,
-                7
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11",
+                "2010"
+            ],
+            "value_id": [
+                10,
+                11
             ]
         },
         {
@@ -90,34 +223,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02-Jul-2020"
+                "07/06/02"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "145.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "6:23:07",
-                "PM"
-            ],
-            "value_id": [
-                2,
-                3
+                2
             ]
         },
         {
@@ -125,7 +234,69 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "145.00"
+                "2740",
+                "60"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ORAN",
+                "CALFSKIN",
+                "WOMENS",
+                "SANDAL",
+                "385",
+                "90",
+                "BLANC",
+                "WLSN"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HERMES"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4",
+                "1"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,740.00"
             ],
             "value_id": [
                 5

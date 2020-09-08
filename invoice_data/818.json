@@ -1,138 +1,210 @@
 {
     "text_boxes": [
         {
-            "text": "1/07/2020",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                125,
-                711,
-                165,
-                720
+                821,
+                79,
+                939,
+                121
             ]
         },
         {
-            "text": "21:15:33",
+            "text": "KIDS",
             "id": 2,
             "bbox": [
-                167,
-                709,
-                199,
-                720
+                906,
+                124,
+                941,
+                140
             ]
         },
         {
-            "text": "BRALOVE",
+            "text": "7/17/2020",
             "id": 3,
             "bbox": [
-                139,
-                532,
-                164,
-                537
+                552,
+                111,
+                609,
+                127
             ]
         },
         {
-            "text": "BABv",
+            "text": "707",
             "id": 4,
             "bbox": [
-                167,
-                532,
-                180,
-                537
+                620,
+                109,
+                642,
+                125
             ]
         },
         {
-            "text": "wis",
+            "text": "54",
             "id": 5,
             "bbox": [
-                182,
-                532,
-                191,
-                536
+                648,
+                110,
+                658,
+                124
             ]
         },
         {
-            "text": "ON",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                193,
-                532,
-                201,
-                536
+                662,
+                109,
+                679,
+                124
             ]
         },
         {
-            "text": "BLAC",
+            "text": "1.790.00",
             "id": 7,
             "bbox": [
-                204,
-                532,
-                220,
-                536
+                1293,
+                507,
+                1337,
+                521
             ]
         },
         {
-            "text": "CORD",
+            "text": "1704.76",
             "id": 8,
             "bbox": [
-                223,
-                531,
-                238,
-                536
+                1292,
+                416,
+                1335,
+                432
             ]
         },
         {
-            "text": "BOS3000",
+            "text": "1",
             "id": 9,
             "bbox": [
-                176,
-                540,
-                209,
-                545
+                1080,
+                488,
+                1083,
+                503
+            ]
+        },
+        {
+            "text": "SLINGBACK",
+            "id": 10,
+            "bbox": [
+                645,
+                425,
+                719,
+                443
+            ]
+        },
+        {
+            "text": "FABRIC",
+            "id": 11,
+            "bbox": [
+                723,
+                424,
+                765,
+                442
+            ]
+        },
+        {
+            "text": "+",
+            "id": 12,
+            "bbox": [
+                772,
+                425,
+                774,
+                441
+            ]
+        },
+        {
+            "text": "INSIDE",
+            "id": 13,
+            "bbox": [
+                776,
+                423,
+                817,
+                441
+            ]
+        },
+        {
+            "text": ":",
+            "id": 14,
+            "bbox": [
+                818,
+                424,
+                820,
+                440
+            ]
+        },
+        {
+            "text": "GOAT",
+            "id": 15,
+            "bbox": [
+                824,
+                424,
+                858,
+                440
+            ]
+        },
+        {
+            "text": "QUARTZ",
+            "id": 16,
+            "bbox": [
+                872,
+                422,
+                922,
+                440
+            ]
+        },
+        {
+            "text": "-",
+            "id": 17,
+            "bbox": [
+                928,
+                423,
+                930,
+                439
+            ]
+        },
+        {
+            "text": "NUDE",
+            "id": 18,
+            "bbox": [
+                931,
+                422,
+                966,
+                439
+            ]
+        },
+        {
+            "text": "851336",
+            "id": 19,
+            "bbox": [
+                417,
+                430,
+                458,
+                446
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "BRALOVE",
-                "BABv",
-                "wis",
-                "ON",
-                "BLAC",
-                "CORD"
-            ],
-            "value_id": [
-                3,
-                4,
-                5,
-                6,
-                7,
-                8
-            ]
-        },
-        {
             "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:15:33"
+                "707",
+                "54",
+                "PM"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1/07/2020"
-            ],
-            "value_id": [
-                1
+                4,
+                5,
+                6
             ]
         },
         {
@@ -140,10 +212,94 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BOS3000"
+                "851336"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/17/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1704.76"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SLINGBACK",
+                "FABRIC",
+                "+",
+                "INSIDE",
+                ":",
+                "GOAT",
+                "QUARTZ",
+                "-",
+                "NUDE"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "KIDS"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.790.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

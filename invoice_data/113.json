@@ -1,104 +1,154 @@
 {
     "text_boxes": [
         {
-            "text": "Mamimo",
+            "text": "RIV",
             "id": 1,
             "bbox": [
-                290,
-                200,
-                398,
-                226
+                399,
+                109,
+                475,
+                139
             ]
         },
         {
-            "text": "Dutti",
+            "text": "03",
             "id": 2,
             "bbox": [
-                409,
-                202,
-                471,
-                226
+                258,
+                431,
+                279,
+                451
             ]
         },
         {
-            "text": "30-06-2020",
+            "text": "-",
             "id": 3,
             "bbox": [
-                233,
-                376,
-                302,
-                388
+                281,
+                431,
+                287,
+                451
             ]
         },
         {
-            "text": "17:35",
+            "text": "Jul",
             "id": 4,
             "bbox": [
+                289,
+                431,
                 313,
-                375,
-                345,
-                385
+                451
             ]
         },
         {
-            "text": "659",
+            "text": "-",
             "id": 5,
             "bbox": [
-                479,
-                587,
-                498,
-                596
+                316,
+                431,
+                321,
+                451
             ]
         },
         {
-            "text": "659",
+            "text": "20",
             "id": 6,
             "bbox": [
-                473,
-                460,
-                492,
-                469
+                324,
+                431,
+                345,
+                451
             ]
         },
         {
-            "text": "0602351125036",
+            "text": "05:09",
             "id": 7,
             "bbox": [
-                307,
-                477,
-                398,
-                491
+                562,
+                413,
+                622,
+                443
             ]
         },
         {
-            "text": "BLAZER",
+            "text": "PM",
             "id": 8,
             "bbox": [
-                415,
-                472,
-                459,
-                488
+                630,
+                412,
+                650,
+                440
             ]
         },
         {
-            "text": "10001443",
+            "text": "195.00",
             "id": 9,
             "bbox": [
-                236,
-                481,
-                291,
-                495
+                566,
+                980,
+                625,
+                1001
+            ]
+        },
+        {
+            "text": "185.71",
+            "id": 10,
+            "bbox": [
+                628,
+                719,
+                686,
+                741
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                533,
+                729,
+                538,
+                745
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                527,
+                768,
+                531,
+                784
+            ]
+        },
+        {
+            "text": "101101-20111502XXL",
+            "id": 13,
+            "bbox": [
+                199,
+                712,
+                413,
+                735
+            ]
+        },
+        {
+            "text": "\u0641\u0633\u062a\u0627\u0646",
+            "id": 14,
+            "bbox": [
+                200,
+                739,
+                243,
+                760
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0602351125036",
-                "BLAZER"
+                "05:09",
+                "PM"
             ],
             "value_id": [
                 7,
@@ -110,56 +160,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "30-06-2020"
+                "03",
+                "-",
+                "Jul",
+                "-",
+                "20"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Mamimo",
-                "Dutti"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "659"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10001443"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:35"
-            ],
-            "value_id": [
-                4
+                2,
+                3,
+                4,
+                5,
+                6
             ]
         },
         {
@@ -167,10 +179,76 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "659"
+                "185.71"
             ],
             "value_id": [
-                6
+                10
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0641\u0633\u062a\u0627\u0646"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "101101-20111502XXL"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RIV"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "195.00"
+            ],
+            "value_id": [
+                9
             ]
         }
     ],

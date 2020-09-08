@@ -1,148 +1,248 @@
 {
     "text_boxes": [
         {
-            "text": "Cartier",
+            "text": "GNC",
             "id": 1,
             "bbox": [
-                352,
-                358,
-                469,
-                391
+                326,
+                112,
+                371,
+                133
             ]
         },
         {
-            "text": "13/07/2020",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                152,
-                841,
-                195,
-                849
+                380,
+                112,
+                433,
+                133
             ]
         },
         {
-            "text": "12:41:01",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                199,
-                842,
-                231,
-                847
+                441,
+                112,
+                478,
+                133
             ]
         },
         {
-            "text": "SANTOS",
+            "text": "7/7/2020",
             "id": 4,
             "bbox": [
-                170,
-                644,
-                193,
-                648
+                278,
+                317,
+                360,
+                346
             ]
         },
         {
-            "text": "DE",
+            "text": "12:20:29",
             "id": 5,
             "bbox": [
-                196,
-                642,
-                205,
-                649
+                514,
+                317,
+                595,
+                346
             ]
         },
         {
-            "text": "CATER",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                207,
-                642,
-                232,
-                649
+                597,
+                317,
+                626,
+                346
             ]
         },
         {
-            "text": "PSTEEL",
+            "text": "258.83",
             "id": 7,
             "bbox": [
-                232,
-                644,
-                257,
-                648
+                406,
+                871,
+                471,
+                907
             ]
         },
         {
-            "text": "GOLD",
+            "text": "12941",
             "id": 8,
             "bbox": [
-                260,
-                644,
-                277,
-                648
+                581,
+                716,
+                639,
+                738
             ]
         },
         {
-            "text": "FIN",
+            "text": "129.41",
             "id": 9,
             "bbox": [
-                280,
-                645,
-                288,
-                649
+                580,
+                611,
+                640,
+                635
             ]
         },
         {
-            "text": "STIS0192",
+            "text": "1",
             "id": 10,
             "bbox": [
-                211,
-                654,
-                246,
-                659
+                370,
+                616,
+                374,
+                635
+            ]
+        },
+        {
+            "text": "2",
+            "id": 11,
+            "bbox": [
+                386,
+                773,
+                396,
+                793
+            ]
+        },
+        {
+            "text": "GNC",
+            "id": 12,
+            "bbox": [
+                318,
+                642,
+                363,
+                677
+            ]
+        },
+        {
+            "text": "TOTAL",
+            "id": 13,
+            "bbox": [
+                371,
+                640,
+                443,
+                675
+            ]
+        },
+        {
+            "text": "LEAN",
+            "id": 14,
+            "bbox": [
+                449,
+                638,
+                504,
+                673
+            ]
+        },
+        {
+            "text": "BURN",
+            "id": 15,
+            "bbox": [
+                511,
+                636,
+                568,
+                671
+            ]
+        },
+        {
+            "text": "80",
+            "id": 16,
+            "bbox": [
+                576,
+                635,
+                598,
+                669
+            ]
+        },
+        {
+            "text": "GNC",
+            "id": 17,
+            "bbox": [
+                318,
+                542,
+                363,
+                573
+            ]
+        },
+        {
+            "text": "TOTAL",
+            "id": 18,
+            "bbox": [
+                370,
+                540,
+                442,
+                572
+            ]
+        },
+        {
+            "text": "LEAN",
+            "id": 19,
+            "bbox": [
+                449,
+                538,
+                503,
+                569
+            ]
+        },
+        {
+            "text": "BURN",
+            "id": 20,
+            "bbox": [
+                511,
+                536,
+                567,
+                567
+            ]
+        },
+        {
+            "text": "80",
+            "id": 21,
+            "bbox": [
+                576,
+                535,
+                598,
+                565
+            ]
+        },
+        {
+            "text": "04917103065",
+            "id": 22,
+            "bbox": [
+                161,
+                544,
+                302,
+                578
+            ]
+        },
+        {
+            "text": "048107193085",
+            "id": 23,
+            "bbox": [
+                161,
+                644,
+                302,
+                682
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SANTOS",
-                "DE",
-                "CATER",
-                "PSTEEL",
-                "GOLD",
-                "FIN"
+                "12:20:29",
+                "PM"
             ],
             "value_id": [
-                4,
                 5,
-                6,
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Cartier"
-            ],
-            "value_id": [
-                1
+                6
             ]
         },
         {
@@ -150,21 +250,113 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "STIS0192"
+                "04917103065",
+                "048107193085"
+            ],
+            "value_id": [
+                22,
+                23
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/7/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12941",
+                "129.41"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GNC",
+                "TOTAL",
+                "LEAN",
+                "BURN",
+                "80",
+                "GNC",
+                "TOTAL",
+                "LEAN",
+                "BURN",
+                "80"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GNC",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:41:01"
+                "258.83"
             ],
             "value_id": [
-                3
+                7
             ]
         }
     ],

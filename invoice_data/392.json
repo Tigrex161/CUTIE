@@ -1,108 +1,246 @@
 {
     "text_boxes": [
         {
-            "text": "tOY",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                316,
-                186,
-                387,
-                220
+                327,
+                199,
+                358,
+                213
             ]
         },
         {
-            "text": "store",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                389,
-                189,
-                491,
-                218
+                362,
+                196,
+                410,
+                211
             ]
         },
         {
-            "text": "01/07/20",
+            "text": "10/09/2010",
             "id": 3,
             "bbox": [
-                246,
-                452,
-                304,
-                472
+                491,
+                356,
+                539,
+                368
             ]
         },
         {
-            "text": "218.00",
+            "text": "IT",
             "id": 4,
             "bbox": [
-                526,
-                730,
-                570,
-                741
+                556,
+                355,
+                579,
+                365
             ]
         },
         {
-            "text": "218.00",
+            "text": "FIE",
             "id": 5,
             "bbox": [
-                530,
-                554,
-                575,
-                566
+                132,
+                417,
+                144,
+                425
             ]
         },
         {
-            "text": "0.00",
+            "text": "CAR",
             "id": 6,
             "bbox": [
-                545,
-                628,
-                574,
-                643
+                154,
+                416,
+                164,
+                425
             ]
         },
         {
-            "text": "AND",
+            "text": ",",
             "id": 7,
             "bbox": [
-                316,
-                568,
-                344,
-                579
+                167,
+                416,
+                168,
+                424
             ]
         },
         {
-            "text": "PRE-S",
+            "text": "NO",
             "id": 8,
             "bbox": [
-                351,
-                568,
-                393,
-                580
+                199,
+                415,
+                209,
+                423
             ]
         },
         {
-            "text": "0650528002514",
+            "text": "UCHSIA",
             "id": 9,
             "bbox": [
-                155,
-                627,
-                261,
-                641
+                215,
+                413,
+                247,
+                423
+            ]
+        },
+        {
+            "text": "SMALL",
+            "id": 10,
+            "bbox": [
+                92,
+                425,
+                115,
+                436
+            ]
+        },
+        {
+            "text": "LEATHER",
+            "id": 11,
+            "bbox": [
+                122,
+                424,
+                154,
+                435
+            ]
+        },
+        {
+            "text": "1133",
+            "id": 12,
+            "bbox": [
+                91,
+                442,
+                119,
+                453
+            ]
+        },
+        {
+            "text": "PE",
+            "id": 13,
+            "bbox": [
+                130,
+                442,
+                143,
+                451
+            ]
+        },
+        {
+            "text": "CARS",
+            "id": 14,
+            "bbox": [
+                152,
+                440,
+                176,
+                451
+            ]
+        },
+        {
+            "text": "ERALL",
+            "id": 15,
+            "bbox": [
+                93,
+                451,
+                117,
+                463
+            ]
+        },
+        {
+            "text": "LEATHER",
+            "id": 16,
+            "bbox": [
+                122,
+                450,
+                153,
+                462
+            ]
+        },
+        {
+            "text": "Goos",
+            "id": 17,
+            "bbox": [
+                162,
+                449,
+                186,
+                460
+            ]
+        },
+        {
+            "text": "1",
+            "id": 18,
+            "bbox": [
+                289,
+                413,
+                292,
+                420
+            ]
+        },
+        {
+            "text": "1",
+            "id": 19,
+            "bbox": [
+                290,
+                439,
+                290,
+                447
+            ]
+        },
+        {
+            "text": "1",
+            "id": 20,
+            "bbox": [
+                290,
+                439,
+                292,
+                445
+            ]
+        },
+        {
+            "text": ".",
+            "id": 21,
+            "bbox": [
+                623,
+                401,
+                626,
+                410
+            ]
+        },
+        {
+            "text": "40.00",
+            "id": 22,
+            "bbox": [
+                614,
+                428,
+                642,
+                438
+            ]
+        },
+        {
+            "text": "1.800.00",
+            "id": 23,
+            "bbox": [
+                605,
+                541,
+                644,
+                552
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AND",
-                "PRE-S"
+                "IT"
             ],
             "value_id": [
-                7,
-                8
+                4
             ]
         },
         {
@@ -110,45 +248,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "01/07/20"
+                "10/09/2010"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "tOY",
-                "store"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "218.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "0650528002514"
-            ],
-            "value_id": [
-                9
             ]
         },
         {
@@ -156,12 +259,86 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "218.00",
-                "0.00"
+                ".",
+                "40.00"
+            ],
+            "value_id": [
+                21,
+                22
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FIE",
+                "CAR",
+                ",",
+                "NO",
+                "UCHSIA",
+                "SMALL",
+                "LEATHER",
+                "1133",
+                "PE",
+                "CARS",
+                "ERALL",
+                "LEATHER",
+                "Goos"
             ],
             "value_id": [
                 5,
-                6
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1",
+                "1"
+            ],
+            "value_id": [
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.800.00"
+            ],
+            "value_id": [
+                23
             ]
         }
     ],

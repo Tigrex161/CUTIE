@@ -1,0 +1,186 @@
+{
+    "text_boxes": [
+        {
+            "text": "(",
+            "id": 1,
+            "bbox": [
+                110,
+                456,
+                122,
+                491
+            ]
+        },
+        {
+            "text": "baby",
+            "id": 2,
+            "bbox": [
+                125,
+                456,
+                174,
+                491
+            ]
+        },
+        {
+            "text": ")",
+            "id": 3,
+            "bbox": [
+                183,
+                456,
+                191,
+                491
+            ]
+        },
+        {
+            "text": "3",
+            "id": 4,
+            "bbox": [
+                131,
+                536,
+                139,
+                547
+            ]
+        },
+        {
+            "text": "24",
+            "id": 5,
+            "bbox": [
+                143,
+                536,
+                157,
+                547
+            ]
+        },
+        {
+            "text": "2",
+            "id": 6,
+            "bbox": [
+                162,
+                536,
+                164,
+                547
+            ]
+        },
+        {
+            "text": "0",
+            "id": 7,
+            "bbox": [
+                682,
+                897,
+                700,
+                909
+            ]
+        },
+        {
+            "text": "20",
+            "id": 8,
+            "bbox": [
+                702,
+                897,
+                716,
+                909
+            ]
+        },
+        {
+            "text": "DONCHANTERING",
+            "id": 9,
+            "bbox": [
+                245,
+                623,
+                352,
+                634
+            ]
+        },
+        {
+            "text": "\u062f",
+            "id": 10,
+            "bbox": [
+                156,
+                624,
+                158,
+                633
+            ]
+        },
+        {
+            "text": "24",
+            "id": 11,
+            "bbox": [
+                137,
+                624,
+                151,
+                633
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062f",
+                "24"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3",
+                "24",
+                "2"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DONCHANTERING"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "(",
+                "baby",
+                ")"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0",
+                "20"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1105.jpg"
+    }
+}

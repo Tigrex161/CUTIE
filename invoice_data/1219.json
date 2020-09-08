@@ -1,0 +1,240 @@
+{
+    "text_boxes": [
+        {
+            "text": "16",
+            "id": 1,
+            "bbox": [
+                439,
+                232,
+                451,
+                247
+            ]
+        },
+        {
+            "text": "1",
+            "id": 2,
+            "bbox": [
+                477,
+                231,
+                481,
+                245
+            ]
+        },
+        {
+            "text": ",",
+            "id": 3,
+            "bbox": [
+                484,
+                231,
+                488,
+                245
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                497,
+                229,
+                527,
+                244
+            ]
+        },
+        {
+            "text": "11:35",
+            "id": 5,
+            "bbox": [
+                536,
+                226,
+                573,
+                243
+            ]
+        },
+        {
+            "text": "300.00",
+            "id": 6,
+            "bbox": [
+                600,
+                495,
+                645,
+                509
+            ]
+        },
+        {
+            "text": "3",
+            "id": 7,
+            "bbox": [
+                587,
+                495,
+                590,
+                509
+            ]
+        },
+        {
+            "text": "3,300.00",
+            "id": 8,
+            "bbox": [
+                592,
+                396,
+                654,
+                412
+            ]
+        },
+        {
+            "text": "l",
+            "id": 9,
+            "bbox": [
+                409,
+                404,
+                412,
+                413
+            ]
+        },
+        {
+            "text": "VALENTINO",
+            "id": 10,
+            "bbox": [
+                51,
+                357,
+                127,
+                378
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 11,
+            "bbox": [
+                134,
+                362,
+                186,
+                382
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 12,
+            "bbox": [
+                197,
+                366,
+                236,
+                385
+            ]
+        },
+        {
+            "text": "\u0627\u062d\u0630\u064a\u0629",
+            "id": 13,
+            "bbox": [
+                295,
+                372,
+                329,
+                391
+            ]
+        },
+        {
+            "text": "\u0646\u0633\u0627\u0626\u064a\u0629",
+            "id": 14,
+            "bbox": [
+                242,
+                368,
+                291,
+                388
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:35"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16",
+                "1",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,300.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u062d\u0630\u064a\u0629",
+                "\u0646\u0633\u0627\u0626\u064a\u0629"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "VALENTINO",
+                "WOMENS",
+                "SHOES"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "l"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "300.00",
+                "3"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1219.jpg"
+    }
+}

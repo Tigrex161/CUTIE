@@ -1,0 +1,231 @@
+{
+    "text_boxes": [
+        {
+            "text": "DIESEL",
+            "id": 1,
+            "bbox": [
+                287,
+                271,
+                355,
+                292
+            ]
+        },
+        {
+            "text": "07/28/20",
+            "id": 2,
+            "bbox": [
+                172,
+                380,
+                267,
+                413
+            ]
+        },
+        {
+            "text": "6:03",
+            "id": 3,
+            "bbox": [
+                290,
+                379,
+                336,
+                411
+            ]
+        },
+        {
+            "text": "237",
+            "id": 4,
+            "bbox": [
+                533,
+                703,
+                567,
+                725
+            ]
+        },
+        {
+            "text": "237",
+            "id": 5,
+            "bbox": [
+                528,
+                563,
+                562,
+                586
+            ]
+        },
+        {
+            "text": "1",
+            "id": 6,
+            "bbox": [
+                333,
+                572,
+                341,
+                591
+            ]
+        },
+        {
+            "text": "PANTS",
+            "id": 7,
+            "bbox": [
+                192,
+                572,
+                250,
+                595
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                528,
+                846,
+                536,
+                866
+            ]
+        },
+        {
+            "text": "A041186",
+            "id": 9,
+            "bbox": [
+                97,
+                573,
+                179,
+                597
+            ]
+        },
+        {
+            "text": "NSN",
+            "id": 10,
+            "bbox": [
+                98,
+                600,
+                133,
+                621
+            ]
+        },
+        {
+            "text": "\u0628\u0646\u0637\u0627\u0644",
+            "id": 11,
+            "bbox": [
+                169,
+                622,
+                211,
+                640
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6:03"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A041186",
+                "NSN"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/28/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "237"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0628\u0646\u0637\u0627\u0644"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PANTS"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIESEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "237"
+            ],
+            "value_id": [
+                4
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1090.jpg"
+    }
+}

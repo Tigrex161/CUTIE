@@ -1,177 +1,180 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "Massimo",
             "id": 1,
             "bbox": [
-                305,
-                237,
-                367,
-                249
+                350,
+                55,
+                443,
+                80
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "Dutti",
             "id": 2,
             "bbox": [
-                377,
-                234,
-                447,
-                248
+                452,
+                55,
+                506,
+                80
             ]
         },
         {
-            "text": "24/07/20",
+            "text": "11",
             "id": 3,
             "bbox": [
-                266,
-                441,
-                329,
-                452
+                302,
+                204,
+                311,
+                217
             ]
         },
         {
-            "text": "14:53",
+            "text": "-",
             "id": 4,
             "bbox": [
-                340,
-                441,
-                377,
-                451
+                315,
+                204,
+                316,
+                217
             ]
         },
         {
-            "text": "260.00",
+            "text": "07:30",
             "id": 5,
             "bbox": [
-                499,
-                664,
-                544,
-                676
+                321,
+                204,
+                348,
+                219
             ]
         },
         {
-            "text": "260",
+            "text": "20",
             "id": 6,
             "bbox": [
-                498,
-                583,
-                520,
-                596
+                350,
+                205,
+                362,
+                218
             ]
         },
         {
-            "text": "00",
+            "text": "10",
             "id": 7,
             "bbox": [
-                529,
-                584,
-                543,
-                595
+                370,
+                206,
+                379,
+                219
             ]
         },
         {
-            "text": "Kid's",
+            "text": ":",
             "id": 8,
             "bbox": [
-                215,
-                567,
-                253,
-                577
+                383,
+                206,
+                384,
+                219
             ]
         },
         {
-            "text": "Wear",
+            "text": "11",
             "id": 9,
             "bbox": [
-                263,
-                567,
-                293,
-                578
+                388,
+                206,
+                398,
+                219
             ]
         },
         {
-            "text": "OVALL",
+            "text": "131",
             "id": 10,
             "bbox": [
-                216,
-                587,
-                254,
-                597
+                506,
+                390,
+                522,
+                403
             ]
         },
         {
-            "text": "SKU",
+            "text": "\u0627",
             "id": 11,
             "bbox": [
-                264,
-                587,
-                285,
-                598
+                377,
+                279,
+                380,
+                294
             ]
         },
         {
-            "text": "900981858",
+            "text": "06",
             "id": 12,
             "bbox": [
-                261,
-                604,
-                324,
-                617
+                363,
+                295,
+                373,
+                311
+            ]
+        },
+        {
+            "text": ":",
+            "id": 13,
+            "bbox": [
+                375,
+                295,
+                379,
+                311
+            ]
+        },
+        {
+            "text": "1165032030",
+            "id": 14,
+            "bbox": [
+                382,
+                295,
+                441,
+                311
+            ]
+        },
+        {
+            "text": "DRIES4",
+            "id": 15,
+            "bbox": [
+                455,
+                295,
+                484,
+                311
+            ]
+        },
+        {
+            "text": "10001566",
+            "id": 16,
+            "bbox": [
+                302,
+                295,
+                348,
+                311
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Kid's",
-                "Wear",
-                "OVALL",
-                "SKU"
+                "10",
+                ":",
+                "11"
             ],
             "value_id": [
+                7,
                 8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "24/07/20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "260.00"
-            ],
-            "value_id": [
-                5
+                9
             ]
         },
         {
@@ -179,34 +182,79 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900981858"
+                "10001566"
             ],
             "value_id": [
-                12
+                16
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14:53"
+                "11",
+                "-",
+                "07:30",
+                "20"
             ],
             "value_id": [
-                4
+                3,
+                4,
+                5,
+                6
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "260",
-                "00"
+                "06",
+                ":",
+                "1165032030",
+                "DRIES4"
             ],
             "value_id": [
-                6,
-                7
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Massimo",
+                "Dutti"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "131"
+            ],
+            "value_id": [
+                10
             ]
         }
     ],

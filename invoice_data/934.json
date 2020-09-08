@@ -1,64 +1,229 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdaleS",
+            "text": "NIKE",
             "id": 1,
             "bbox": [
-                267,
-                158,
-                510,
-                198
+                315,
+                133,
+                356,
+                148
             ]
         },
         {
-            "text": "560.00",
+            "text": "BEACON",
             "id": 2,
             "bbox": [
-                438,
-                504,
-                479,
-                515
+                370,
+                133,
+                434,
+                148
+            ]
+        },
+        {
+            "text": "15/7/2020",
+            "id": 3,
+            "bbox": [
+                286,
+                223,
+                340,
+                236
+            ]
+        },
+        {
+            "text": "13:27",
+            "id": 4,
+            "bbox": [
+                286,
+                239,
+                311,
+                254
+            ]
+        },
+        {
+            "text": "119.00",
+            "id": 5,
+            "bbox": [
+                464,
+                687,
+                496,
+                700
+            ]
+        },
+        {
+            "text": "118.00",
+            "id": 6,
+            "bbox": [
+                460,
+                464,
+                492,
+                477
             ]
         },
         {
             "text": "1",
-            "id": 3,
+            "id": 7,
             "bbox": [
-                503,
-                533,
-                506,
-                542
+                371,
+                464,
+                373,
+                475
             ]
         },
         {
-            "text": "560.00",
-            "id": 4,
+            "text": "NS",
+            "id": 8,
             "bbox": [
-                465,
-                599,
-                507,
-                611
+                192,
+                480,
+                207,
+                493
+            ]
+        },
+        {
+            "text": "NIKE",
+            "id": 9,
+            "bbox": [
+                215,
+                480,
+                234,
+                493
+            ]
+        },
+        {
+            "text": "AIR",
+            "id": 10,
+            "bbox": [
+                242,
+                480,
+                257,
+                493
+            ]
+        },
+        {
+            "text": "BL85.E",
+            "id": 11,
+            "bbox": [
+                264,
+                480,
+                296,
+                494
+            ]
+        },
+        {
+            "text": "ROMPER",
+            "id": 12,
+            "bbox": [
+                303,
+                481,
+                335,
+                494
+            ]
+        },
+        {
+            "text": "366424",
+            "id": 13,
+            "bbox": [
+                192,
+                461,
+                236,
+                476
+            ]
+        },
+        {
+            "text": "-",
+            "id": 14,
+            "bbox": [
+                238,
+                461,
+                240,
+                476
+            ]
+        },
+        {
+            "text": "ABF",
+            "id": 15,
+            "bbox": [
+                244,
+                461,
+                258,
+                476
+            ]
+        },
+        {
+            "text": "\u0645\u0627\u0645\u0646\u0639\u0648\u062a",
+            "id": 16,
+            "bbox": [
+                238,
+                499,
+                271,
+                512
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0644\u0647",
+            "id": 17,
+            "bbox": [
+                210,
+                499,
+                233,
+                512
+            ]
+        },
+        {
+            "text": "\u0627\u0628\u0646",
+            "id": 18,
+            "bbox": [
+                192,
+                499,
+                203,
+                512
+            ]
+        },
+        {
+            "text": "1.00",
+            "id": 19,
+            "bbox": [
+                364,
+                572,
+                384,
+                587
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "bloomingdaleS"
+                "13:27"
             ],
             "value_id": [
-                1
+                4
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "366424",
+                "-",
+                "ABF"
+            ],
+            "value_id": [
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15/7/2020"
             ],
             "value_id": [
                 3
@@ -69,10 +234,79 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "560.00"
+                "118.00"
             ],
             "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0627\u0645\u0646\u0639\u0648\u062a",
+                "\u0627\u0644\u0644\u0647",
+                "\u0627\u0628\u0646"
+            ],
+            "value_id": [
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NS",
+                "NIKE",
+                "AIR",
+                "BL85.E",
+                "ROMPER"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NIKE",
+                "BEACON"
+            ],
+            "value_id": [
+                1,
                 2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
             ]
         },
         {
@@ -80,10 +314,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "560.00"
+                "119.00"
             ],
             "value_id": [
-                4
+                5
             ]
         }
     ],

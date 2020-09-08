@@ -1,203 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "UTERQ\u00dcE",
             "id": 1,
             "bbox": [
-                452,
-                390,
-                476,
-                401
+                255,
+                49,
+                520,
+                95
             ]
         },
         {
-            "text": "2020",
+            "text": "11-07-2828",
             "id": 2,
             "bbox": [
-                487,
-                389,
-                513,
-                398
+                153,
+                383,
+                262,
+                406
             ]
         },
         {
-            "text": "17:46",
+            "text": "12:57",
             "id": 3,
             "bbox": [
-                522,
-                387,
-                555,
-                396
+                277,
+                388,
+                328,
+                409
             ]
         },
         {
-            "text": "1,",
+            "text": "529",
             "id": 4,
             "bbox": [
-                568,
-                628,
-                576,
-                637
+                521,
+                698,
+                553,
+                717
             ]
         },
         {
-            "text": "120.00",
+            "text": "529",
             "id": 5,
             "bbox": [
-                582,
-                627,
-                621,
-                636
+                520,
+                496,
+                551,
+                512
             ]
         },
         {
-            "text": "1,120.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                576,
-                535,
-                631,
+                287,
+                502,
+                293,
+                516
+            ]
+        },
+        {
+            "text": "1533358012939",
+            "id": 7,
+            "bbox": [
+                263,
+                520,
+                402,
+                552
+            ]
+        },
+        {
+            "text": "FLAT",
+            "id": 8,
+            "bbox": [
+                427,
+                518,
+                470,
+                548
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 9,
+            "bbox": [
+                485,
+                517,
+                540,
                 547
             ]
         },
         {
-            "text": "RIS590-200:",
-            "id": 7,
-            "bbox": [
-                82,
-                519,
-                164,
-                532
-            ]
-        },
-        {
-            "text": "FRO,",
-            "id": 8,
-            "bbox": [
-                163,
-                521,
-                188,
-                529
-            ]
-        },
-        {
-            "text": "200:36:105MM",
-            "id": 9,
-            "bbox": [
-                192,
-                518,
-                276,
-                529
-            ]
-        },
-        {
-            "text": "KID",
+            "text": "10881865",
             "id": 10,
             "bbox": [
-                284,
-                520,
-                304,
-                528
-            ]
-        },
-        {
-            "text": "LEATHER",
-            "id": 11,
-            "bbox": [
-                312,
-                518,
-                359,
-                527
-            ]
-        },
-        {
-            "text": "PATENT",
-            "id": 12,
-            "bbox": [
-                368,
-                518,
-                408,
-                527
-            ]
-        },
-        {
-            "text": "123624745787",
-            "id": 13,
-            "bbox": [
-                85,
-                542,
-                169,
-                555
-            ]
-        },
-        {
-            "text": "Jis",
-            "id": 14,
-            "bbox": [
-                479,
-                517,
-                505,
-                526
+                147,
+                519,
+                237,
+                542
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RIS590-200:",
-                "FRO,",
-                "200:36:105MM",
-                "KID",
-                "LEATHER",
-                "PATENT"
+                "12:57"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jis"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,",
-                "120.00"
-            ],
-            "value_id": [
-                4,
-                5
+                3
             ]
         },
         {
@@ -205,21 +118,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "123624745787"
+                "10881865"
             ],
             "value_id": [
-                13
+                10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:46"
+                "11-07-2828"
             ],
             "value_id": [
-                3
+                2
             ]
         },
         {
@@ -227,10 +140,58 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,120.00"
+                "529"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1533358012939",
+                "FLAT",
+                "SHOES"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "UTERQ\u00dcE"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "529"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

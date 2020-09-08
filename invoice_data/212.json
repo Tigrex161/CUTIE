@@ -1,156 +1,199 @@
 {
     "text_boxes": [
         {
-            "text": "NIKE",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                380,
-                178,
-                424,
-                193
+                323,
+                134,
+                372,
+                153
             ]
         },
         {
-            "text": "BEACON",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                439,
-                169,
-                507,
-                187
+                378,
+                130,
+                434,
+                149
             ]
         },
         {
-            "text": "13/07/2020",
+            "text": "28/06/20",
             "id": 3,
             "bbox": [
-                354,
-                271,
-                411,
-                287
+                302,
+                295,
+                349,
+                313
             ]
         },
         {
-            "text": "15:16",
+            "text": "16:32",
             "id": 4,
             "bbox": [
-                355,
-                293,
-                381,
-                305
+                356,
+                294,
+                385,
+                310
             ]
         },
         {
-            "text": "189.00",
+            "text": "215.00",
             "id": 5,
             "bbox": [
-                555,
-                754,
-                589,
-                765
+                477,
+                457,
+                511,
+                472
             ]
         },
         {
-            "text": "189.00",
+            "text": "215.00",
             "id": 6,
             "bbox": [
-                544,
-                515,
-                578,
-                527
+                476,
+                398,
+                510,
+                411
             ]
         },
         {
             "text": "1",
             "id": 7,
             "bbox": [
-                449,
-                524,
-                450,
-                533
+                507,
+                427,
+                509,
+                437
             ]
         },
         {
-            "text": "1.00",
+            "text": "Moren",
             "id": 8,
             "bbox": [
-                443,
-                641,
-                464,
-                651
+                266,
+                391,
+                293,
+                404
             ]
         },
         {
-            "text": "M",
+            "text": "s",
             "id": 9,
             "bbox": [
-                265,
-                543,
-                271,
-                556
+                301,
+                392,
+                305,
+                403
             ]
         },
         {
-            "text": "NK",
+            "text": "Wear",
             "id": 10,
             "bbox": [
-                271,
-                545,
-                280,
-                554
+                312,
+                390,
+                333,
+                402
             ]
         },
         {
-            "text": "TOP",
+            "text": "UINEN",
             "id": 11,
             "bbox": [
-                290,
-                545,
-                305,
-                555
+                267,
+                405,
+                294,
+                419
             ]
         },
         {
-            "text": "TANK",
+            "text": "VERB",
             "id": 12,
             "bbox": [
-                314,
-                545,
-                335,
-                556
+                301,
+                404,
+                323,
+                418
             ]
         },
         {
-            "text": "PX",
+            "text": "TED",
             "id": 13,
             "bbox": [
-                342,
-                545,
-                352,
-                556
+                330,
+                403,
+                346,
+                416
             ]
         },
         {
-            "text": "NKCJ4744-379",
+            "text": "BAKEX",
             "id": 14,
             "bbox": [
-                259,
-                525,
-                329,
-                537
+                352,
+                402,
+                381,
+                416
+            ]
+        },
+        {
+            "text": "1900588773",
+            "id": 15,
+            "bbox": [
+                275,
+                418,
+                346,
+                433
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.00"
+                "16:32"
             ],
             "value_id": [
-                8
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1900588773"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "28/06/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "215.00"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -158,22 +201,39 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "M",
-                "NK",
-                "TOP",
-                "TANK",
-                "PX"
+                "Moren",
+                "s",
+                "Wear",
+                "UINEN",
+                "VERB",
+                "TED",
+                "BAKEX"
             ],
             "value_id": [
+                8,
                 9,
                 10,
                 11,
                 12,
-                13
+                13,
+                14
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
@@ -184,71 +244,14 @@
             ]
         },
         {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13/07/2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "NIKE",
-                "BEACON"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "189.00"
+                "215.00"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "NKCJ4744-379"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15:16"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "189.00"
-            ],
-            "value_id": [
-                6
             ]
         }
     ],

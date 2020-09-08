@@ -1,119 +1,131 @@
 {
     "text_boxes": [
         {
-            "text": "HOME",
+            "text": "102020",
             "id": 1,
             "bbox": [
-                275,
-                240,
-                337,
-                252
+                587,
+                508,
+                617,
+                519
             ]
         },
         {
-            "text": "BAKERY",
+            "text": "25:18",
             "id": 2,
             "bbox": [
-                358,
-                238,
-                453,
-                251
+                582,
+                517,
+                604,
+                528
             ]
         },
         {
-            "text": "Ju104'20",
+            "text": "PM",
             "id": 3,
             "bbox": [
-                356,
-                412,
-                422,
-                428
+                603,
+                519,
+                615,
+                530
             ]
         },
         {
-            "text": "04:51P",
+            "text": "1764.00",
             "id": 4,
             "bbox": [
-                432,
-                411,
-                481,
-                427
+                593,
+                672,
+                620,
+                683
             ]
         },
         {
-            "text": "474.00",
+            "text": "1.15400",
             "id": 5,
             "bbox": [
-                429,
-                512,
-                527,
-                529
+                593,
+                632,
+                621,
+                644
             ]
         },
         {
-            "text": "474.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                478,
-                472,
-                527,
-                486
+                410,
+                617,
+                413,
+                624
             ]
         },
         {
-            "text": "3",
+            "text": "PUMP",
             "id": 7,
             "bbox": [
-                229,
-                478,
-                236,
-                492
+                207,
+                596,
+                231,
+                607
             ]
         },
         {
-            "text": "120",
+            "text": "1",
             "id": 8,
             "bbox": [
-                334,
-                475,
-                357,
-                491
+                102,
+                602,
+                103,
+                611
             ]
         },
         {
-            "text": "BX",
+            "text": "TW2",
             "id": 9,
             "bbox": [
-                367,
-                476,
-                382,
-                489
+                103,
+                583,
+                121,
+                594
+            ]
+        },
+        {
+            "text": "SOVSGEYO",
+            "id": 10,
+            "bbox": [
+                122,
+                585,
+                163,
+                600
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "120",
-                "BX"
+                "25:18",
+                "PM"
             ],
             "value_id": [
-                8,
-                9
+                2,
+                3
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3"
+                "TW2",
+                "SOVSGEYO"
             ],
             "value_id": [
-                7
+                9,
+                10
             ]
         },
         {
@@ -121,45 +133,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Ju104'20"
+                "102020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "HOME",
-                "BAKERY"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "474.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "04:51P"
-            ],
-            "value_id": [
-                4
+                1
             ]
         },
         {
@@ -167,10 +144,54 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "474.00"
+                "1.15400"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PUMP"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1764.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

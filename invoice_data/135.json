@@ -1,177 +1,126 @@
 {
     "text_boxes": [
         {
-            "text": "Dior",
+            "text": "bloomingdale's",
             "id": 1,
             "bbox": [
-                155,
-                176,
-                278,
-                231
+                259,
+                28,
+                510,
+                77
             ]
         },
         {
-            "text": "BOUTIOUE",
+            "text": "27.06.2020",
             "id": 2,
             "bbox": [
-                182,
-                239,
-                243,
-                252
+                597,
+                225,
+                659,
+                241
             ]
         },
         {
-            "text": "28-Jun-2020",
+            "text": "1350",
             "id": 3,
             "bbox": [
-                505,
-                371,
-                567,
-                383
+                736,
+                644,
+                763,
+                659
             ]
         },
         {
-            "text": "20:04:24",
+            "text": "1",
             "id": 4,
             "bbox": [
-                592,
-                373,
-                636,
-                385
+                356,
+                644,
+                359,
+                655
             ]
         },
         {
-            "text": "840.00",
+            "text": "Serpent",
             "id": 5,
             "bbox": [
-                597,
-                706,
-                631,
-                716
+                11,
+                644,
+                53,
+                660
             ]
         },
         {
-            "text": "840.00",
+            "text": "Boheme",
             "id": 6,
             "bbox": [
-                602,
-                497,
-                636,
-                506
+                58,
+                644,
+                103,
+                660
             ]
         },
         {
-            "text": "MITZAH",
+            "text": "Double",
             "id": 7,
             "bbox": [
-                257,
-                489,
-                305,
-                499
+                108,
+                644,
+                146,
+                660
             ]
         },
         {
-            "text": "TOILE",
+            "text": "Motif",
             "id": 8,
             "bbox": [
-                310,
-                490,
-                345,
-                500
+                150,
+                644,
+                179,
+                660
             ]
         },
         {
-            "text": "D",
+            "text": "Bracelet",
             "id": 9,
             "bbox": [
-                351,
-                492,
-                358,
-                500
+                183,
+                644,
+                228,
+                660
             ]
         },
         {
-            "text": "94TOJ1061600",
+            "text": "213688522",
             "id": 10,
             "bbox": [
-                104,
-                483,
-                182,
-                496
+                10,
+                658,
+                73,
+                674
+            ]
+        },
+        {
+            "text": "1350",
+            "id": 11,
+            "bbox": [
+                611,
+                789,
+                638,
+                803
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MITZAH",
-                "TOILE",
-                "D"
-            ],
-            "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "28-Jun-2020"
+                "27.06.2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Dior",
-                "BOUTIOUE"
-            ],
-            "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "840.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "94TOJ1061600"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:04:24"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -179,10 +128,64 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "840.00"
+                "1350"
             ],
             "value_id": [
-                6
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Serpent",
+                "Boheme",
+                "Double",
+                "Motif",
+                "Bracelet",
+                "213688522"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdale's"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1350"
+            ],
+            "value_id": [
+                11
             ]
         }
     ],

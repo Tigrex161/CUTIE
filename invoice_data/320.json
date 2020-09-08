@@ -1,200 +1,187 @@
 {
     "text_boxes": [
         {
-            "text": "ANGELINA",
+            "text": "Dior",
             "id": 1,
             "bbox": [
-                316,
-                167,
-                482,
-                209
+                159,
+                191,
+                283,
+                246
             ]
         },
         {
-            "text": "11/07/20",
+            "text": "BOUTIQUE",
             "id": 2,
             "bbox": [
-                319,
-                583,
-                401,
-                606
+                192,
+                255,
+                246,
+                268
             ]
         },
         {
-            "text": "10:14",
+            "text": "26",
             "id": 3,
             "bbox": [
-                544,
-                580,
-                594,
-                599
+                514,
+                377,
+                524,
+                390
             ]
         },
         {
-            "text": "198.00",
+            "text": "-",
             "id": 4,
             "bbox": [
-                509,
-                971,
-                569,
-                991
+                527,
+                377,
+                529,
+                390
             ]
         },
         {
-            "text": "140.00",
+            "text": "Jun",
             "id": 5,
             "bbox": [
-                504,
-                814,
-                565,
-                832
+                533,
+                377,
+                545,
+                390
             ]
         },
         {
-            "text": "58.00",
+            "text": "-",
             "id": 6,
             "bbox": [
-                515,
-                893,
-                567,
-                911
+                550,
+                377,
+                552,
+                390
             ]
         },
         {
-            "text": "2",
+            "text": "2020",
             "id": 7,
             "bbox": [
-                207,
-                819,
-                217,
-                837
+                552,
+                377,
+                576,
+                390
             ]
         },
         {
-            "text": "2",
+            "text": "12:52:24",
             "id": 8,
             "bbox": [
-                208,
-                898,
-                217,
-                916
+                602,
+                379,
+                642,
+                392
             ]
         },
         {
-            "text": "Egg",
+            "text": "2050.00",
             "id": 9,
             "bbox": [
-                176,
-                793,
-                205,
-                814
+                605,
+                692,
+                644,
+                707
             ]
         },
         {
-            "text": "Benedict",
+            "text": "2,050,00",
             "id": 10,
             "bbox": [
-                218,
-                791,
-                299,
-                811
+                599,
+                505,
+                641,
+                519
             ]
         },
         {
-            "text": "\u0628\u0646\u062f\u064a\u0643\u062a",
+            "text": "1",
             "id": 11,
             "bbox": [
-                282,
-                766,
-                343,
-                782
+                402,
+                506,
+                403,
+                517
             ]
         },
         {
-            "text": "\u0628",
+            "text": "1",
             "id": 12,
             "bbox": [
-                260,
-                775,
-                270,
-                782
+                137,
+                568,
+                139,
+                582
             ]
         },
         {
-            "text": "\u0627\u0644\u0633\u0644\u0645\u0648\u0646",
+            "text": "LADY",
             "id": 13,
             "bbox": [
-                187,
-                767,
-                255,
-                786
+                272,
+                504,
+                305,
+                516
             ]
         },
         {
-            "text": "\u0623\u0645\u0631",
+            "text": "DIOR",
             "id": 14,
             "bbox": [
-                232,
-                843,
-                257,
-                863
+                311,
+                504,
+                340,
+                516
             ]
         },
         {
-            "text": "\u0628\u06cc\u0643\u0627\u0646\u0648",
+            "text": "MEDI",
             "id": 15,
             "bbox": [
-                179,
-                845,
-                228,
-                865
+                345,
+                504,
+                375,
+                516
+            ]
+        },
+        {
+            "text": "S0181OVRB",
+            "id": 16,
+            "bbox": [
+                117,
+                504,
+                184,
+                516
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Egg",
-                "Benedict"
+                "12:52:24"
             ],
             "value_id": [
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0628\u0646\u062f\u064a\u0643\u062a",
-                "\u0628",
-                "\u0627\u0644\u0633\u0644\u0645\u0648\u0646",
-                "\u0623\u0645\u0631",
-                "\u0628\u06cc\u0643\u0627\u0646\u0648"
-            ],
-            "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2",
-                "2"
-            ],
-            "value_id": [
-                7,
                 8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "S0181OVRB"
+            ],
+            "value_id": [
+                16
             ]
         },
         {
@@ -202,43 +189,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11/07/20"
+                "26",
+                "-",
+                "Jun",
+                "-",
+                "2020"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ANGELINA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "198.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10:14"
-            ],
-            "value_id": [
-                3
+                3,
+                4,
+                5,
+                6,
+                7
             ]
         },
         {
@@ -246,12 +208,71 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "140.00",
-                "58.00"
+                "2,050,00"
             ],
             "value_id": [
-                5,
-                6
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LADY",
+                "DIOR",
+                "MEDI"
+            ],
+            "value_id": [
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Dior",
+                "BOUTIQUE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2050.00"
+            ],
+            "value_id": [
+                9
             ]
         }
     ],

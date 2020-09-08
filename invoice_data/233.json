@@ -1,152 +1,108 @@
 {
     "text_boxes": [
         {
-            "text": "DHAMANI",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                326,
-                274,
-                478,
-                293
+                347,
+                161,
+                578,
+                218
             ]
         },
         {
-            "text": "1969",
+            "text": "202-",
             "id": 2,
             "bbox": [
-                387,
-                305,
-                417,
-                314
+                363,
+                340,
+                395,
+                356
             ]
         },
         {
-            "text": "29/06/2020",
+            "text": "\u0627\u0644\u0627\u0644",
             "id": 3,
             "bbox": [
-                209,
-                365,
-                267,
-                376
+                346,
+                340,
+                361,
+                355
             ]
         },
         {
-            "text": "9,530.00",
+            "text": "-1",
             "id": 4,
             "bbox": [
-                662,
-                778,
-                698,
-                788
+                324,
+                338,
+                344,
+                354
             ]
         },
         {
-            "text": "1.00",
+            "text": "8:23:22",
             "id": 5,
             "bbox": [
-                500,
-                780,
-                516,
-                787
+                436,
+                343,
+                478,
+                360
             ]
         },
         {
-            "text": "9,530.00",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                658,
-                444,
-                695,
-                453
+                485,
+                343,
+                496,
+                358
             ]
         },
         {
-            "text": "1.00000",
+            "text": "5.0",
             "id": 7,
             "bbox": [
-                484,
-                447,
-                516,
-                455
+                533,
+                616,
+                570,
+                629
             ]
         },
         {
-            "text": "DIAMOND",
+            "text": "5.00",
             "id": 8,
             "bbox": [
-                253,
-                449,
-                296,
-                456
+                535,
+                500,
+                572,
+                516
             ]
         },
         {
-            "text": "GOLD",
+            "text": "21346366",
             "id": 9,
             "bbox": [
-                299,
-                449,
-                325,
-                456
-            ]
-        },
-        {
-            "text": "RING",
-            "id": 10,
-            "bbox": [
-                329,
-                449,
-                350,
-                455
-            ]
-        },
-        {
-            "text": "DSRC6511",
-            "id": 11,
-            "bbox": [
-                142,
-                449,
-                187,
-                456
+                337,
+                512,
+                393,
+                529
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.00"
+                "8:23:22",
+                "PM"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DIAMOND",
-                "GOLD",
-                "RING"
-            ],
-            "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00000"
-            ],
-            "value_id": [
-                7
+                5,
+                6
             ]
         },
         {
@@ -154,45 +110,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "29/06/2020"
+                "202-",
+                "\u0627\u0644\u0627\u0644",
+                "-1"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DHAMANI",
-                "1969"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "9,530.00"
-            ],
-            "value_id": [
+                2,
+                3,
                 4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DSRC6511"
-            ],
-            "value_id": [
-                11
             ]
         },
         {
@@ -200,10 +125,43 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "9,530.00"
+                "5.00"
             ],
             "value_id": [
-                6
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21346366"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdales"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5.0"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

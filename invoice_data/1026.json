@@ -1,151 +1,126 @@
 {
     "text_boxes": [
         {
-            "text": "ZARA",
+            "text": "GIVENCHY",
             "id": 1,
             "bbox": [
-                373,
-                58,
-                498,
-                113
+                173,
+                188,
+                410,
+                240
             ]
         },
         {
-            "text": "25-07-2020",
+            "text": "07",
             "id": 2,
             "bbox": [
-                286,
-                172,
-                357,
-                186
+                282,
+                393,
+                293,
+                407
             ]
         },
         {
-            "text": "14:45",
+            "text": "/",
             "id": 3,
             "bbox": [
-                367,
-                177,
-                400,
-                188
+                297,
+                393,
+                299,
+                407
             ]
         },
         {
-            "text": "240",
+            "text": "26f2020",
             "id": 4,
             "bbox": [
-                524,
-                419,
-                544,
-                430
+                303,
+                393,
+                342,
+                407
             ]
         },
         {
-            "text": "129",
+            "text": "2.400.00",
             "id": 5,
             "bbox": [
-                525,
-                253,
-                544,
-                262
+                556,
+                1043,
+                601,
+                1057
             ]
         },
         {
-            "text": "119",
+            "text": "2400.00",
             "id": 6,
             "bbox": [
-                525,
-                290,
-                543,
-                300
+                745,
+                620,
+                795,
+                634
             ]
         },
         {
-            "text": "1",
+            "text": "SLIP",
             "id": 7,
             "bbox": [
-                373,
-                288,
-                376,
-                295
+                299,
+                598,
+                317,
+                609
             ]
         },
         {
-            "text": "DRESS",
+            "text": "-",
             "id": 8,
             "bbox": [
-                467,
-                270,
-                501,
-                280
+                322,
+                598,
+                323,
+                609
             ]
         },
         {
-            "text": "0059461325012",
+            "text": "ON",
             "id": 9,
             "bbox": [
-                358,
-                305,
-                449,
-                319
+                325,
+                598,
+                339,
+                609
             ]
         },
         {
-            "text": "SHIRT",
+            "text": "SHOES",
             "id": 10,
             "bbox": [
-                467,
-                308,
-                500,
-                319
+                344,
+                598,
+                378,
+                609
             ]
         },
         {
-            "text": "10001285",
+            "text": "BE2002EOSK",
             "id": 11,
             "bbox": [
-                286,
-                264,
-                341,
-                276
-            ]
-        },
-        {
-            "text": "10002315",
-            "id": 12,
-            "bbox": [
-                285,
-                301,
-                340,
-                312
+                24,
+                612,
+                97,
+                624
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DRESS",
-                "0059461325012",
-                "SHIRT"
+                "BE2002EOSK"
             ],
             "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
+                11
             ]
         },
         {
@@ -153,10 +128,42 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25-07-2020"
+                "07",
+                "/",
+                "26f2020"
             ],
             "value_id": [
-                2
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2400.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SLIP",
+                "-",
+                "ON",
+                "SHOES"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
             ]
         },
         {
@@ -164,7 +171,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ZARA"
+                "GIVENCHY"
             ],
             "value_id": [
                 1
@@ -175,47 +182,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "240"
+                "2.400.00"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10001285",
-                "10002315"
-            ],
-            "value_id": [
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:45"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "129",
-                "119"
-            ],
-            "value_id": [
-                5,
-                6
+                5
             ]
         }
     ],

@@ -1,133 +1,186 @@
 {
     "text_boxes": [
         {
-            "text": "Mamimo",
+            "text": "Van",
             "id": 1,
             "bbox": [
-                351,
-                58,
-                444,
-                80
+                343,
+                158,
+                413,
+                211
             ]
         },
         {
-            "text": "Dutti",
+            "text": "Cleef",
             "id": 2,
             "bbox": [
-                453,
-                57,
-                507,
-                77
+                427,
+                155,
+                525,
+                209
             ]
         },
         {
-            "text": "11-07-2020",
+            "text": "&",
             "id": 3,
             "bbox": [
-                302,
-                207,
-                361,
-                217
+                537,
+                156,
+                563,
+                207
             ]
         },
         {
-            "text": "19:18",
+            "text": "Arpels",
             "id": 4,
             "bbox": [
-                370,
-                209,
-                398,
-                218
+                573,
+                153,
+                691,
+                207
             ]
         },
         {
-            "text": "1",
+            "text": "21/06/2020",
             "id": 5,
             "bbox": [
-                376,
-                285,
-                379,
-                293
+                166,
+                895,
+                224,
+                909
             ]
         },
         {
-            "text": "O669165032030",
+            "text": "13:08:38",
             "id": 6,
             "bbox": [
-                363,
-                300,
-                441,
-                308
+                231,
+                895,
+                274,
+                909
             ]
         },
         {
-            "text": "DRESS",
+            "text": "17.200.00",
             "id": 7,
             "bbox": [
-                455,
-                298,
-                484,
-                306
+                889,
+                811,
+                943,
+                828
             ]
         },
         {
-            "text": "10001566",
+            "text": "12000",
             "id": 8,
             "bbox": [
-                302,
+                893,
+                645,
+                936,
+                658
+            ]
+        },
+        {
+            "text": "BRAC",
+            "id": 9,
+            "bbox": [
+                188,
+                627,
+                209,
+                637
+            ]
+        },
+        {
+            "text": "VINTAGE",
+            "id": 10,
+            "bbox": [
+                212,
+                627,
+                247,
+                637
+            ]
+        },
+        {
+            "text": "AL",
+            "id": 11,
+            "bbox": [
+                250,
+                627,
+                258,
+                637
+            ]
+        },
+        {
+            "text": "WG",
+            "id": 12,
+            "bbox": [
+                261,
+                627,
+                276,
+                637
+            ]
+        },
+        {
+            "text": "SMO",
+            "id": 13,
+            "bbox": [
+                280,
+                627,
                 299,
-                348,
-                307
+                637
+            ]
+        },
+        {
+            "text": "CHAL",
+            "id": 14,
+            "bbox": [
+                302,
+                627,
+                323,
+                637
+            ]
+        },
+        {
+            "text": "700",
+            "id": 15,
+            "bbox": [
+                276,
+                638,
+                293,
+                651
+            ]
+        },
+        {
+            "text": "\u0648",
+            "id": 16,
+            "bbox": [
+                270,
+                638,
+                273,
+                651
+            ]
+        },
+        {
+            "text": "AHD3",
+            "id": 17,
+            "bbox": [
+                244,
+                638,
+                268,
+                651
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "O669165032030",
-                "DRESS"
+                "13:08:38"
             ],
             "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11-07-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Mamimo",
-                "Dutti"
-            ],
-            "value_id": [
-                1,
-                2
+                6
             ]
         },
         {
@@ -135,21 +188,85 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001566"
+                "700",
+                "\u0648",
+                "AHD3"
+            ],
+            "value_id": [
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21/06/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12000"
             ],
             "value_id": [
                 8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19:18"
+                "BRAC",
+                "VINTAGE",
+                "AL",
+                "WG",
+                "SMO",
+                "CHAL"
             ],
             "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
                 4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17.200.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

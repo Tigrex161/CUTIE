@@ -1,152 +1,170 @@
 {
     "text_boxes": [
         {
-            "text": "07/03/20",
+            "text": "MIZEN",
             "id": 1,
             "bbox": [
-                348,
-                718,
-                434,
-                737
+                495,
+                229,
+                705,
+                277
             ]
         },
         {
-            "text": "5:31",
+            "text": "09/07/2020",
             "id": 2,
             "bbox": [
-                503,
-                720,
-                545,
-                738
+                504,
+                483,
+                562,
+                503
             ]
         },
         {
-            "text": "380.00",
+            "text": "12",
             "id": 3,
             "bbox": [
-                478,
-                1056,
-                543,
-                1075
+                568,
+                483,
+                581,
+                501
             ]
         },
         {
-            "text": "765.00",
+            "text": "46",
             "id": 4,
             "bbox": [
-                468,
-                971,
-                531,
-                990
+                583,
+                482,
+                595,
+                501
             ]
         },
         {
-            "text": "1",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                308,
-                969,
-                316,
-                985
+                599,
+                482,
+                613,
+                500
             ]
         },
         {
-            "text": "Hawai",
+            "text": "195,00",
             "id": 6,
             "bbox": [
-                210,
-                970,
-                259,
-                986
+                667,
+                703,
+                700,
+                713
             ]
         },
         {
-            "text": "i",
+            "text": "195.00",
             "id": 7,
             "bbox": [
-                267,
-                970,
-                269,
-                985
+                668,
+                680,
+                700,
+                692
             ]
         },
         {
-            "text": "1",
+            "text": "3",
             "id": 8,
             "bbox": [
-                534,
-                1134,
-                541,
-                1149
+                264,
+                684,
+                268,
+                693
             ]
         },
         {
-            "text": "8056862079564",
+            "text": "\u062f",
             "id": 9,
             "bbox": [
-                315,
-                944,
-                451,
-                967
+                267,
+                705,
+                272,
+                714
+            ]
+        },
+        {
+            "text": "Protective",
+            "id": 10,
+            "bbox": [
+                40,
+                685,
+                89,
+                701
+            ]
+        },
+        {
+            "text": "Lip",
+            "id": 11,
+            "bbox": [
+                93,
+                686,
+                107,
+                700
+            ]
+        },
+        {
+            "text": "Balm",
+            "id": 12,
+            "bbox": [
+                112,
+                685,
+                136,
+                699
+            ]
+        },
+        {
+            "text": "SPF30",
+            "id": 13,
+            "bbox": [
+                141,
+                685,
+                174,
+                699
+            ]
+        },
+        {
+            "text": "5.59",
+            "id": 14,
+            "bbox": [
+                178,
+                684,
+                198,
+                699
+            ]
+        },
+        {
+            "text": "231544002475",
+            "id": 15,
+            "bbox": [
+                39,
+                670,
+                120,
+                684
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Hawai",
-                "i"
+                "12",
+                "46",
+                "PM"
             ],
             "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
+                3,
+                4,
                 5
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "07/03/20"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "380.00"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -154,18 +172,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "8056862079564"
+                "231544002475"
             ],
             "value_id": [
-                9
+                15
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5:31"
+                "09/07/2020"
             ],
             "value_id": [
                 2
@@ -176,10 +194,73 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "765.00"
+                "195.00"
             ],
             "value_id": [
-                4
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Protective",
+                "Lip",
+                "Balm",
+                "SPF30",
+                "5.59"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MIZEN"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062f"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "195,00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

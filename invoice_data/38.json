@@ -1,247 +1,193 @@
 {
     "text_boxes": [
         {
-            "text": "GEEKAY",
+            "text": "202",
             "id": 1,
             "bbox": [
-                320,
-                150,
-                455,
-                181
+                506,
+                349,
+                527,
+                362
             ]
         },
         {
-            "text": "240.00",
+            "text": "\u0648",
             "id": 2,
             "bbox": [
-                491,
-                617,
-                528,
-                628
+                494,
+                350,
+                497,
+                363
             ]
         },
         {
-            "text": "222.00",
+            "text": "\u062f\u0631",
             "id": 3,
             "bbox": [
-                454,
-                495,
-                491,
-                506
+                479,
+                350,
+                485,
+                363
             ]
         },
         {
-            "text": "18.00",
+            "text": "12",
             "id": 4,
             "bbox": [
-                461,
-                526,
-                491,
-                537
+                450,
+                350,
+                463,
+                363
             ]
         },
         {
-            "text": "3pcs",
+            "text": "17:39",
             "id": 5,
             "bbox": [
-                302,
-                494,
-                325,
-                507
+                544,
+                349,
+                578,
+                362
             ]
         },
         {
-            "text": "3pcs",
+            "text": ",",
             "id": 6,
             "bbox": [
-                301,
-                525,
-                325,
-                537
+                592,
+                602,
+                601,
+                613
             ]
         },
         {
-            "text": "6.",
+            "text": "350.00",
             "id": 7,
             "bbox": [
-                486,
-                696,
-                491,
-                706
+                607,
+                600,
+                649,
+                613
             ]
         },
         {
-            "text": "21088",
+            "text": "350.00",
             "id": 8,
             "bbox": [
-                257,
-                478,
-                287,
-                489
-            ]
-        },
-        {
-            "text": "37418",
-            "id": 9,
-            "bbox": [
-                257,
-                508,
-                287,
+                611,
+                507,
+                652,
                 519
             ]
         },
         {
-            "text": "PSN",
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                424,
+                512,
+                428,
+                522
+            ]
+        },
+        {
+            "text": "PDAWN",
             "id": 10,
             "bbox": [
-                308,
-                478,
-                326,
-                489
+                101,
+                493,
+                132,
+                507
             ]
         },
         {
-            "text": "Card",
+            "text": "BAG",
             "id": 11,
             "bbox": [
-                334,
-                479,
-                357,
-                490
+                142,
+                493,
+                159,
+                507
             ]
         },
         {
-            "text": "$",
+            "text": ":",
             "id": 12,
             "bbox": [
-                365,
-                481,
-                370,
-                492
+                165,
+                493,
+                168,
+                507
             ]
         },
         {
-            "text": "20",
+            "text": "PRADA",
             "id": 13,
             "bbox": [
-                378,
-                480,
-                389,
-                491
+                172,
+                492,
+                203,
+                507
             ]
         },
         {
-            "text": "UA",
+            "text": "WOMENS",
             "id": 14,
             "bbox": [
-                397,
-                480,
-                408,
-                491
+                210,
+                491,
+                252,
+                506
             ]
         },
         {
-            "text": "Service",
+            "text": "BAGS",
             "id": 15,
             "bbox": [
-                308,
-                509,
-                351,
-                521
+                261,
+                491,
+                287,
+                505
             ]
         },
         {
-            "text": "Fee",
+            "text": "wis",
             "id": 16,
             "bbox": [
-                359,
-                510,
-                376,
-                520
+                368,
+                490,
+                400,
+                504
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6."
+                "17:39"
             ],
             "value_id": [
-                7
+                5
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PSN",
-                "Card",
-                "$",
-                "20",
-                "UA",
-                "Service",
-                "Fee"
+                "202",
+                "\u0648",
+                "\u062f\u0631",
+                "12"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3pcs",
-                "3pcs"
-            ],
-            "value_id": [
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GEEKAY"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "240.00"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21088",
-                "37418"
-            ],
-            "value_id": [
-                8,
-                9
+                1,
+                2,
+                3,
+                4
             ]
         },
         {
@@ -249,12 +195,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "222.00",
-                "18.00"
+                "350.00"
             ],
             "value_id": [
-                3,
-                4
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "wis"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PDAWN",
+                "BAG",
+                ":",
+                "PRADA",
+                "WOMENS",
+                "BAGS"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ",",
+                "350.00"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         }
     ],

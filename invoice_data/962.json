@@ -1,139 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "Louzan",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                279,
-                369,
-                346,
-                393
+                417,
+                314,
+                454,
+                329
             ]
         },
         {
-            "text": "Dubai",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                353,
-                362,
-                408,
-                385
+                459,
+                316,
+                515,
+                332
             ]
         },
         {
-            "text": "Mall",
+            "text": "21/07/2020",
             "id": 3,
             "bbox": [
-                414,
-                358,
-                455,
-                379
+                598,
+                511,
+                654,
+                524
             ]
         },
         {
-            "text": "7/9/2020",
+            "text": "1610",
             "id": 4,
             "bbox": [
-                459,
-                485,
-                528,
-                507
+                674,
+                513,
+                692,
+                524
             ]
         },
         {
-            "text": "10:47:38",
+            "text": "1.580.00",
             "id": 5,
             "bbox": [
-                535,
-                480,
-                610,
-                502
+                721,
+                575,
+                764,
+                586
             ]
         },
         {
-            "text": "AM",
+            "text": "1",
             "id": 6,
             "bbox": [
-                616,
-                477,
-                646,
-                496
+                363,
+                566,
+                366,
+                573
             ]
         },
         {
-            "text": "1000.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                567,
-                879,
-                659,
-                899
+                362,
+                596,
+                364,
+                603
             ]
         },
         {
-            "text": "952.38",
+            "text": "1.550",
             "id": 8,
             "bbox": [
-                580,
-                695,
-                647,
-                715
+                726,
+                731,
+                753,
+                741
             ]
         },
         {
-            "text": "NORMAL",
+            "text": ":",
             "id": 9,
             "bbox": [
-                121,
-                709,
-                203,
-                728
+                757,
+                731,
+                757,
+                740
             ]
         },
         {
-            "text": "ABAYA",
+            "text": "00",
             "id": 10,
             "bbox": [
-                210,
-                707,
-                275,
-                725
-            ]
-        },
-        {
-            "text": "1.000",
-            "id": 11,
-            "bbox": [
-                605,
-                1043,
-                660,
-                1062
+                761,
+                731,
+                771,
+                740
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NORMAL",
-                "ABAYA"
+                "1610"
             ],
             "value_id": [
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.000"
-            ],
-            "value_id": [
-                11
+                4
             ]
         },
         {
@@ -141,49 +118,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7/9/2020"
+                "21/07/2020"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Louzan",
-                "Dubai",
-                "Mall"
-            ],
-            "value_id": [
-                1,
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1000.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10:47:38",
-                "AM"
-            ],
-            "value_id": [
-                5,
-                6
             ]
         },
         {
@@ -191,10 +129,51 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "952.38"
+                "1.580.00"
             ],
             "value_id": [
-                8
+                5
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.550",
+                ":",
+                "00"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
             ]
         }
     ],

@@ -1,88 +1,176 @@
 {
     "text_boxes": [
         {
-            "text": "ZRA",
+            "text": "SUPER",
             "id": 1,
             "bbox": [
-                291,
-                133,
-                383,
-                176
+                249,
+                288,
+                301,
+                310
             ]
         },
         {
-            "text": "30-06-2020",
+            "text": "CARE",
             "id": 2,
             "bbox": [
-                225,
-                331,
-                278,
-                340
+                306,
+                287,
+                346,
+                307
             ]
         },
         {
-            "text": "21",
+            "text": "PHARMACY",
             "id": 3,
             "bbox": [
-                286,
-                334,
-                295,
-                340
+                352,
+                283,
+                441,
+                306
             ]
         },
         {
-            "text": "17",
+            "text": "08.07.2020",
             "id": 4,
             "bbox": [
-                303,
-                334,
-                311,
-                340
+                271,
+                428,
+                314,
+                441
             ]
         },
         {
-            "text": "199",
+            "text": "10:43",
             "id": 5,
             "bbox": [
-                405,
-                396,
-                419,
-                402
+                321,
+                428,
+                341,
+                439
             ]
         },
         {
-            "text": "02s0418180001",
+            "text": "100.00",
             "id": 6,
             "bbox": [
-                281,
-                398,
-                351,
-                412
+                448,
+                737,
+                484,
+                748
             ]
         },
         {
-            "text": "TROUSERS",
+            "text": "1080",
             "id": 7,
             "bbox": [
-                363,
-                406,
-                403,
-                415
+                460,
+                661,
+                486,
+                676
+            ]
+        },
+        {
+            "text": "200",
+            "id": 8,
+            "bbox": [
+                211,
+                666,
+                227,
+                676
+            ]
+        },
+        {
+            "text": "30",
+            "id": 9,
+            "bbox": [
+                346,
+                756,
+                362,
+                769
+            ]
+        },
+        {
+            "text": "DISPOSABLE",
+            "id": 10,
+            "bbox": [
+                215,
+                643,
+                281,
+                657
+            ]
+        },
+        {
+            "text": "CHILDREN",
+            "id": 11,
+            "bbox": [
+                286,
+                642,
+                337,
+                656
+            ]
+        },
+        {
+            "text": "3",
+            "id": 12,
+            "bbox": [
+                343,
+                643,
+                347,
+                655
+            ]
+        },
+        {
+            "text": "PLY",
+            "id": 13,
+            "bbox": [
+                351,
+                643,
+                370,
+                655
+            ]
+        },
+        {
+            "text": "FACE",
+            "id": 14,
+            "bbox": [
+                374,
+                642,
+                400,
+                655
+            ]
+        },
+        {
+            "text": "MASK",
+            "id": 15,
+            "bbox": [
+                405,
+                642,
+                434,
+                654
+            ]
+        },
+        {
+            "text": "605",
+            "id": 16,
+            "bbox": [
+                439,
+                642,
+                454,
+                654
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02s0418180001",
-                "TROUSERS"
+                "10:43"
             ],
             "value_id": [
-                6,
-                7
+                5
             ]
         },
         {
@@ -90,33 +178,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "30-06-2020"
+                "08.07.2020"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZRA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21",
-                "17"
-            ],
-            "value_id": [
-                3,
                 4
             ]
         },
@@ -125,10 +189,81 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "199"
+                "1080"
             ],
             "value_id": [
-                5
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DISPOSABLE",
+                "CHILDREN",
+                "3",
+                "PLY",
+                "FACE",
+                "MASK",
+                "605"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SUPER",
+                "CARE",
+                "PHARMACY"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "200"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

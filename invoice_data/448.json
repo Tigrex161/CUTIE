@@ -1,154 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "VALENTINO",
             "id": 1,
             "bbox": [
-                310,
-                271,
-                455,
-                297
+                763,
+                49,
+                1162,
+                136
             ]
         },
         {
-            "text": "T1/07/2020",
+            "text": "7/2/2020",
             "id": 2,
             "bbox": [
-                88,
-                478,
-                132,
-                488
+                1512,
+                182,
+                1576,
+                201
             ]
         },
         {
-            "text": "19:32",
+            "text": "8:24:42",
             "id": 3,
             "bbox": [
-                142,
-                480,
-                162,
-                486
+                1492,
+                206,
+                1548,
+                225
             ]
         },
         {
-            "text": "1.540,00",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                590,
-                599,
-                621,
-                606
+                1555,
+                207,
+                1577,
+                225
             ]
         },
         {
-            "text": "LAT6.19",
+            "text": "1,690.00",
             "id": 5,
             "bbox": [
-                614,
-                546,
-                645,
-                554
+                1536,
+                593,
+                1600,
+                609
             ]
         },
         {
-            "text": "Cus",
+            "text": "1,690.00",
             "id": 6,
             "bbox": [
-                234,
-                559,
-                248,
-                565
+                1525,
+                499,
+                1585,
+                517
             ]
         },
         {
-            "text": "tom,",
+            "text": "1",
             "id": 7,
             "bbox": [
-                250,
-                561,
-                266,
-                565
+                1070,
+                505,
+                1074,
+                518
             ]
         },
         {
-            "text": "lewele",
+            "text": "BUCKLE",
             "id": 8,
             "bbox": [
-                270,
-                556,
-                295,
-                564
+                600,
+                511,
+                668,
+                531
             ]
         },
         {
-            "text": "o",
+            "text": "BELT",
             "id": 9,
             "bbox": [
-                297,
-                560,
-                303,
-                565
+                676,
+                511,
+                723,
+                531
             ]
         },
         {
-            "text": "B0961AIRCO",
+            "text": "\u062d\u0632\u0627\u0645",
             "id": 10,
             "bbox": [
-                92,
-                560,
-                150,
-                568
+                791,
+                511,
+                814,
+                531
+            ]
+        },
+        {
+            "text": "\u0645\u0639",
+            "id": 11,
+            "bbox": [
+                772,
+                511,
+                786,
+                531
+            ]
+        },
+        {
+            "text": "\u0645\u0634\u0628\u0643",
+            "id": 12,
+            "bbox": [
+                735,
+                511,
+                767,
+                531
+            ]
+        },
+        {
+            "text": "TWOTOS",
+            "id": 13,
+            "bbox": [
+                366,
+                514,
+                436,
+                534
+            ]
+        },
+        {
+            "text": "11ZER",
+            "id": 14,
+            "bbox": [
+                442,
+                514,
+                490,
+                533
+            ]
+        },
+        {
+            "text": "1",
+            "id": 15,
+            "bbox": [
+                362,
+                556,
+                367,
+                574
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Cus",
-                "tom,",
-                "lewele",
-                "o"
+                "8:24:42",
+                "PM"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "T1/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DIOR"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.540,00"
-            ],
-            "value_id": [
+                3,
                 4
             ]
         },
@@ -157,21 +170,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "B0961AIRCO"
+                "TWOTOS",
+                "11ZER"
             ],
             "value_id": [
-                10
+                13,
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19:32"
+                "7/2/2020"
             ],
             "value_id": [
-                3
+                2
             ]
         },
         {
@@ -179,7 +194,79 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LAT6.19"
+                "1,690.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062d\u0632\u0627\u0645",
+                "\u0645\u0639",
+                "\u0645\u0634\u0628\u0643"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BUCKLE",
+                "BELT"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "VALENTINO"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,690.00"
             ],
             "value_id": [
                 5

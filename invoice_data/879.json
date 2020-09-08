@@ -1,143 +1,216 @@
 {
     "text_boxes": [
         {
-            "text": "Massimo",
+            "text": "Apple",
             "id": 1,
             "bbox": [
-                264,
-                130,
-                388,
-                157
+                257,
+                104,
+                280,
+                114
             ]
         },
         {
-            "text": "Dutti",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                400,
-                128,
-                472,
-                156
+                284,
+                103,
+                307,
+                114
             ]
         },
         {
-            "text": "23.07-2020",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                194,
-                322,
-                275,
-                335
+                311,
+                103,
+                327,
+                113
             ]
         },
         {
-            "text": "11:33",
+            "text": "19/07/20",
             "id": 4,
             "bbox": [
-                287,
-                324,
-                325,
-                337
+                253,
+                943,
+                290,
+                955
             ]
         },
         {
-            "text": "469",
+            "text": "-",
             "id": 5,
             "bbox": [
-                466,
-                583,
-                488,
-                594
+                295,
+                943,
+                296,
+                953
             ]
         },
         {
-            "text": "469",
+            "text": "13:45",
             "id": 6,
             "bbox": [
-                467,
-                434,
-                489,
-                443
+                301,
+                941,
+                322,
+                953
             ]
         },
         {
-            "text": "0510065051440",
+            "text": "1",
             "id": 7,
             "bbox": [
-                278,
-                455,
-                381,
-                465
+                489,
+                582,
+                491,
+                590
             ]
         },
         {
-            "text": "TROUSERS",
+            "text": "IPHONE",
             "id": 8,
             "bbox": [
-                401,
-                454,
-                464,
-                463
+                255,
+                463,
+                285,
+                472
             ]
         },
         {
-            "text": "10001125",
+            "text": "11",
             "id": 9,
             "bbox": [
-                196,
-                453,
-                259,
-                463
+                291,
+                463,
+                296,
+                472
+            ]
+        },
+        {
+            "text": "PRO",
+            "id": 10,
+            "bbox": [
+                302,
+                463,
+                317,
+                472
+            ]
+        },
+        {
+            "text": "SG",
+            "id": 11,
+            "bbox": [
+                322,
+                463,
+                332,
+                472
+            ]
+        },
+        {
+            "text": "256GB",
+            "id": 12,
+            "bbox": [
+                336,
+                463,
+                361,
+                472
+            ]
+        },
+        {
+            "text": "-",
+            "id": 13,
+            "bbox": [
+                364,
+                463,
+                365,
+                472
+            ]
+        },
+        {
+            "text": "AMU",
+            "id": 14,
+            "bbox": [
+                367,
+                462,
+                386,
+                471
+            ]
+        },
+        {
+            "text": "MWC",
+            "id": 15,
+            "bbox": [
+                311,
+                478,
+                335,
+                489
+            ]
+        },
+        {
+            "text": "2A",
+            "id": 16,
+            "bbox": [
+                338,
+                478,
+                346,
+                489
+            ]
+        },
+        {
+            "text": "/",
+            "id": 17,
+            "bbox": [
+                349,
+                478,
+                354,
+                489
+            ]
+        },
+        {
+            "text": "A",
+            "id": 18,
+            "bbox": [
+                356,
+                478,
+                360,
+                489
+            ]
+        },
+        {
+            "text": "4.849.00",
+            "id": 19,
+            "bbox": [
+                461,
+                629,
+                493,
+                639
+            ]
+        },
+        {
+            "text": "4.849.00",
+            "id": 20,
+            "bbox": [
+                458,
+                710,
+                496,
+                720
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0510065051440",
-                "TROUSERS"
+                "13:45"
             ],
             "value_id": [
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "23.07-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Massimo",
-                "Dutti"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "469"
-            ],
-            "value_id": [
-                5
+                6
             ]
         },
         {
@@ -145,21 +218,29 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001125"
+                "MWC",
+                "2A",
+                "/",
+                "A"
             ],
             "value_id": [
-                9
+                15,
+                16,
+                17,
+                18
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:33"
+                "19/07/20",
+                "-"
             ],
             "value_id": [
-                4
+                4,
+                5
             ]
         },
         {
@@ -167,10 +248,70 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "469"
+                "4.849.00"
             ],
             "value_id": [
-                6
+                19
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "IPHONE",
+                "11",
+                "PRO",
+                "SG",
+                "256GB",
+                "-",
+                "AMU"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Apple",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4.849.00"
+            ],
+            "value_id": [
+                20
             ]
         }
     ],

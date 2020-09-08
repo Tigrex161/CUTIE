@@ -1,236 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "Baccarat",
+            "text": "'",
             "id": 1,
             "bbox": [
-                264,
-                191,
-                532,
-                299
+                117,
+                311,
+                132,
+                348
             ]
         },
         {
-            "text": "July,",
+            "text": "Perfetto",
             "id": 2,
             "bbox": [
-                594,
-                328,
-                629,
-                341
+                160,
+                206,
+                380,
+                338
             ]
         },
         {
-            "text": "08",
+            "text": "1/1/2020",
             "id": 3,
             "bbox": [
-                642,
-                328,
-                654,
-                337
+                402,
+                556,
+                481,
+                590
             ]
         },
         {
-            "text": "2020",
+            "text": "21:24",
             "id": 4,
             "bbox": [
-                665,
-                326,
-                694,
-                337
+                400,
+                579,
+                450,
+                611
             ]
         },
         {
-            "text": "11:42",
+            "text": "310.00",
             "id": 5,
             "bbox": [
-                704,
-                326,
-                739,
-                339
+                623,
+                872,
+                684,
+                903
             ]
         },
         {
-            "text": "675.00",
+            "text": "31",
             "id": 6,
             "bbox": [
-                688,
-                679,
-                733,
-                692
+                623,
+                731,
+                639,
+                752
             ]
         },
         {
-            "text": "675.00",
+            "text": "!",
             "id": 7,
             "bbox": [
-                688,
-                577,
-                734,
-                589
+                642,
+                731,
+                646,
+                752
             ]
         },
         {
-            "text": "2812807:",
+            "text": "101",
             "id": 8,
             "bbox": [
-                224,
-                564,
-                282,
-                575
+                440,
+                728,
+                462,
+                750
             ]
         },
         {
-            "text": "BAC",
+            "text": ")",
             "id": 9,
             "bbox": [
-                287,
-                565,
-                309,
-                573
+                460,
+                728,
+                465,
+                749
             ]
         },
         {
-            "text": "THE",
+            "text": "100",
             "id": 10,
             "bbox": [
-                318,
-                565,
-                340,
-                573
+                655,
+                806,
+                685,
+                832
             ]
         },
         {
-            "text": "BLOOM",
+            "text": "Kazaar",
             "id": 11,
             "bbox": [
-                349,
-                563,
-                387,
-                574
+                227,
+                721,
+                286,
+                752
             ]
         },
         {
-            "text": "COLLECTION",
+            "text": "Ispirazione",
             "id": 12,
             "bbox": [
-                395,
-                560,
-                472,
-                573
+                301,
+                722,
+                407,
+                754
             ]
         },
         {
-            "text": "WHITE",
+            "text": "6757230",
             "id": 13,
             "bbox": [
-                481,
-                559,
-                519,
-                570
-            ]
-        },
-        {
-            "text": "BLOOM",
-            "id": 14,
-            "bbox": [
-                532,
-                556,
-                566,
-                570
-            ]
-        },
-        {
-            "text": "Li",
-            "id": 15,
-            "bbox": [
-                577,
-                556,
-                607,
-                567
-            ]
-        },
-        {
-            "text": "002214283539",
-            "id": 16,
-            "bbox": [
-                122,
-                565,
-                214,
-                577
+                123,
+                719,
+                193,
+                750
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2812807:",
-                "BAC",
-                "THE",
-                "BLOOM",
-                "COLLECTION",
-                "WHITE",
-                "BLOOM"
+                "21:24"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Li"
-            ],
-            "value_id": [
-                15
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "08",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
                 4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Baccarat"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "675.00"
-            ],
-            "value_id": [
-                6
             ]
         },
         {
@@ -238,21 +148,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "002214283539"
+                "6757230"
             ],
             "value_id": [
-                16
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:42"
+                "1/1/2020"
             ],
             "value_id": [
-                5
+                3
             ]
         },
         {
@@ -260,10 +170,73 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "675.00"
+                "31",
+                "!"
             ],
             "value_id": [
+                6,
                 7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Kazaar",
+                "Ispirazione"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "'",
+                "Perfetto"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "101",
+                ")"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "310.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

@@ -1,146 +1,229 @@
 {
     "text_boxes": [
         {
-            "text": "FENDI",
+            "text": "18",
             "id": 1,
             "bbox": [
-                345,
-                295,
-                421,
-                318
+                496,
+                545,
+                510,
+                557
             ]
         },
         {
-            "text": "ROMA",
+            "text": "Jul",
             "id": 2,
             "bbox": [
-                373,
-                324,
-                392,
-                329
+                517,
+                546,
+                537,
+                558
             ]
         },
         {
-            "text": "72",
+            "text": ",",
             "id": 3,
             "bbox": [
-                174,
-                313,
-                190,
-                319
+                540,
+                546,
+                542,
+                558
             ]
         },
         {
             "text": "2020",
             "id": 4,
             "bbox": [
-                193,
-                312,
-                207,
-                320
+                553,
+                546,
+                581,
+                560
             ]
         },
         {
-            "text": "23213",
+            "text": "22:34",
             "id": 5,
             "bbox": [
-                213,
-                312,
-                236,
-                319
+                589,
+                546,
+                623,
+                560
             ]
         },
         {
-            "text": "PM",
+            "text": "2,170.00",
             "id": 6,
             "bbox": [
-                238,
-                312,
-                249,
-                319
+                611,
+                777,
+                662,
+                789
             ]
         },
         {
-            "text": "3300.00",
+            "text": "2,170.00",
             "id": 7,
             "bbox": [
-                603,
-                548,
-                628,
-                553
+                608,
+                687,
+                671,
+                703
             ]
         },
         {
-            "text": "11200",
+            "text": "1",
             "id": 8,
             "bbox": [
-                608,
-                499,
-                633,
-                505
+                456,
+                692,
+                459,
+                702
             ]
         },
         {
-            "text": "LWALLETIFIS",
+            "text": "LOUIS",
             "id": 9,
             "bbox": [
-                237,
-                502,
-                288,
-                512
+                129,
+                671,
+                167,
+                681
             ]
         },
         {
-            "text": "FENDVCALFLEATH",
+            "text": "VUITTON",
             "id": 10,
             "bbox": [
-                290,
-                501,
-                356,
-                512
+                175,
+                671,
+                224,
+                681
             ]
         },
         {
-            "text": "MAYA",
+            "text": "WOMERS",
             "id": 11,
             "bbox": [
-                367,
-                501,
-                384,
-                510
+                234,
+                671,
+                276,
+                681
             ]
         },
         {
-            "text": "BLACKsOFT",
+            "text": "SLGS",
             "id": 12,
             "bbox": [
-                391,
-                501,
-                436,
-                509
+                285,
+                671,
+                311,
+                681
             ]
         },
         {
-            "text": "720",
+            "text": "063211100877111119",
             "id": 13,
             "bbox": [
-                111,
-                504,
-                133,
-                510
+                128,
+                690,
+                268,
+                703
+            ]
+        },
+        {
+            "text": "L",
+            "id": 14,
+            "bbox": [
+                343,
+                672,
+                345,
+                682
+            ]
+        },
+        {
+            "text": "LLSLVO",
+            "id": 15,
+            "bbox": [
+                410,
+                672,
+                489,
+                682
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22:34"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "063211100877111119"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18",
+                "Jul",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,170.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L",
+                "LLSLVO"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LWALLETIFIS",
-                "FENDVCALFLEATH",
-                "MAYA",
-                "BLACKsOFT"
+                "LOUIS",
+                "VUITTON",
+                "WOMERS",
+                "SLGS"
             ],
             "value_id": [
                 9,
@@ -150,29 +233,14 @@
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "72",
-                "2020"
+                "1"
             ],
             "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FENDI",
-                "ROMA"
-            ],
-            "value_id": [
-                1,
-                2
+                8
             ]
         },
         {
@@ -180,45 +248,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3300.00"
+                "2,170.00"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "720"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "23213",
-                "PM"
-            ],
-            "value_id": [
-                5,
                 6
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11200"
-            ],
-            "value_id": [
-                8
             ]
         }
     ],

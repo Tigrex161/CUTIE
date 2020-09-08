@@ -1,0 +1,309 @@
+{
+    "text_boxes": [
+        {
+            "text": "Apple",
+            "id": 1,
+            "bbox": [
+                117,
+                131,
+                149,
+                149
+            ]
+        },
+        {
+            "text": "Dubai",
+            "id": 2,
+            "bbox": [
+                154,
+                130,
+                186,
+                148
+            ]
+        },
+        {
+            "text": "Mall",
+            "id": 3,
+            "bbox": [
+                191,
+                129,
+                214,
+                147
+            ]
+        },
+        {
+            "text": "28/07/20",
+            "id": 4,
+            "bbox": [
+                117,
+                1448,
+                167,
+                1462
+            ]
+        },
+        {
+            "text": "19:29",
+            "id": 5,
+            "bbox": [
+                180,
+                1448,
+                207,
+                1461
+            ]
+        },
+        {
+            "text": "339.00",
+            "id": 6,
+            "bbox": [
+                617,
+                952,
+                653,
+                965
+            ]
+        },
+        {
+            "text": "AED",
+            "id": 7,
+            "bbox": [
+                594,
+                845,
+                615,
+                859
+            ]
+        },
+        {
+            "text": "339.00",
+            "id": 8,
+            "bbox": [
+                621,
+                845,
+                653,
+                859
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                649,
+                783,
+                651,
+                794
+            ]
+        },
+        {
+            "text": "IPAD",
+            "id": 10,
+            "bbox": [
+                119,
+                658,
+                144,
+                671
+            ]
+        },
+        {
+            "text": "SMART",
+            "id": 11,
+            "bbox": [
+                149,
+                658,
+                188,
+                671
+            ]
+        },
+        {
+            "text": "FOLIO",
+            "id": 12,
+            "bbox": [
+                192,
+                658,
+                226,
+                671
+            ]
+        },
+        {
+            "text": "11",
+            "id": 13,
+            "bbox": [
+                231,
+                658,
+                239,
+                671
+            ]
+        },
+        {
+            "text": "BLACK",
+            "id": 14,
+            "bbox": [
+                245,
+                658,
+                279,
+                671
+            ]
+        },
+        {
+            "text": "-",
+            "id": 15,
+            "bbox": [
+                283,
+                658,
+                285,
+                671
+            ]
+        },
+        {
+            "text": "ZEE",
+            "id": 16,
+            "bbox": [
+                286,
+                658,
+                306,
+                671
+            ]
+        },
+        {
+            "text": "MXT42ZE",
+            "id": 17,
+            "bbox": [
+                194,
+                680,
+                241,
+                693
+            ]
+        },
+        {
+            "text": "/",
+            "id": 18,
+            "bbox": [
+                245,
+                680,
+                247,
+                693
+            ]
+        },
+        {
+            "text": "A",
+            "id": 19,
+            "bbox": [
+                251,
+                680,
+                255,
+                693
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:29"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MXT42ZE",
+                "/",
+                "A"
+            ],
+            "value_id": [
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "28/07/20"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED",
+                "339.00"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "IPAD",
+                "SMART",
+                "FOLIO",
+                "11",
+                "BLACK",
+                "-",
+                "ZEE"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Apple",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "339.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1438.jpg"
+    }
+}

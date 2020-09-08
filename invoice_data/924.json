@@ -1,198 +1,176 @@
 {
     "text_boxes": [
         {
-            "text": "Dubni",
+            "text": "L'ETO",
             "id": 1,
             "bbox": [
-                231,
-                373,
-                254,
-                383
+                291,
+                123,
+                543,
+                174
             ]
         },
         {
-            "text": "shoes",
+            "text": "16Jul",
             "id": 2,
             "bbox": [
-                261,
+                361,
                 376,
-                285,
-                384
+                400,
+                396
             ]
         },
         {
-            "text": "13/1/20",
+            "text": "20",
             "id": 3,
             "bbox": [
-                238,
-                453,
-                270,
-                465
+                407,
+                378,
+                429,
+                396
             ]
         },
         {
-            "text": "20:35:56",
+            "text": "21:52",
             "id": 4,
             "bbox": [
-                282,
-                451,
-                318,
-                465
+                440,
+                378,
+                482,
+                398
             ]
         },
         {
-            "text": "2.900",
+            "text": "165.00",
             "id": 5,
             "bbox": [
-                354,
-                564,
-                378,
-                575
+                288,
+                672,
+                352,
+                695
             ]
         },
         {
-            "text": "1.",
+            "text": "120.00",
             "id": 6,
             "bbox": [
-                192,
-                566,
-                200,
-                576
+                303,
+                441,
+                354,
+                461
             ]
         },
         {
-            "text": "SLIDE",
+            "text": "45.00",
             "id": 7,
             "bbox": [
-                109,
-                580,
-                139,
-                592
+                310,
+                485,
+                354,
+                505
             ]
         },
         {
-            "text": "458051DKT00",
+            "text": "4",
             "id": 8,
             "bbox": [
-                151,
-                581,
-                208,
-                594
-            ]
-        },
-        {
-            "text": "-",
-            "id": 9,
-            "bbox": [
-                218,
-                582,
-                223,
-                595
-            ]
-        },
-        {
-            "text": "5702",
-            "id": 10,
-            "bbox": [
-                225,
+                576,
+                445,
                 584,
-                245,
-                596
-            ]
-        },
-        {
-            "text": "-",
-            "id": 11,
-            "bbox": [
-                253,
-                583,
-                260,
-                596
-            ]
-        },
-        {
-            "text": "40",
-            "id": 12,
-            "bbox": [
-                262,
-                587,
-                271,
-                596
-            ]
-        },
-        {
-            "text": "2.900",
-            "id": 13,
-            "bbox": [
-                358,
-                721,
-                384,
-                730
+                459
             ]
         },
         {
             "text": "1",
-            "id": 14,
+            "id": 9,
             "bbox": [
-                190,
-                784,
-                191,
-                791
+                579,
+                490,
+                582,
+                505
             ]
         },
         {
-            "text": "809411969",
+            "text": "Americano",
+            "id": 10,
+            "bbox": [
+                466,
+                443,
+                546,
+                461
+            ]
+        },
+        {
+            "text": "DulceClassic",
+            "id": 11,
+            "bbox": [
+                439,
+                486,
+                548,
+                506
+            ]
+        },
+        {
+            "text": "\u0623\u0645\u0631\u064a\u0643\u0627\u0646\u0648",
+            "id": 12,
+            "bbox": [
+                480,
+                465,
+                545,
+                484
+            ]
+        },
+        {
+            "text": "\u062f",
+            "id": 13,
+            "bbox": [
+                545,
+                511,
+                550,
+                530
+            ]
+        },
+        {
+            "text": "\u0648\u0644\u0633\u064a",
+            "id": 14,
+            "bbox": [
+                505,
+                511,
+                541,
+                531
+            ]
+        },
+        {
+            "text": "\u062f\u064a",
             "id": 15,
             "bbox": [
-                113,
-                563,
-                160,
-                575
+                478,
+                510,
+                494,
+                529
+            ]
+        },
+        {
+            "text": "\u0644\u064a\u0646\u062a",
+            "id": 16,
+            "bbox": [
+                440,
+                510,
+                467,
+                529
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SLIDE",
-                "458051DKT00",
-                "-",
-                "5702",
-                "-",
-                "40"
+                "21:52"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                6
+                4
             ]
         },
         {
@@ -200,56 +178,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13/1/20"
+                "16Jul",
+                "20"
             ],
             "value_id": [
+                2,
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Dubni",
-                "shoes"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2.900"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "809411969"
-            ],
-            "value_id": [
-                15
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:35:56"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -257,7 +191,76 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2.900"
+                "120.00",
+                "45.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0623\u0645\u0631\u064a\u0643\u0627\u0646\u0648",
+                "\u062f",
+                "\u0648\u0644\u0633\u064a",
+                "\u062f\u064a",
+                "\u0644\u064a\u0646\u062a"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Americano",
+                "DulceClassic"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L'ETO"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4",
+                "1"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "165.00"
             ],
             "value_id": [
                 5

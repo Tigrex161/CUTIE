@@ -1,165 +1,158 @@
 {
     "text_boxes": [
         {
-            "text": "Porletto",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                148,
-                200,
-                351,
-                293
+                251,
+                217,
+                453,
+                264
             ]
         },
         {
-            "text": "87.00",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                546,
-                621,
-                587,
-                637
+                416,
+                312,
+                438,
+                323
             ]
         },
         {
-            "text": "54.00",
+            "text": ",",
             "id": 3,
             "bbox": [
-                548,
-                674,
-                588,
-                689
+                408,
+                312,
+                410,
+                323
             ]
         },
         {
-            "text": "50",
+            "text": "11",
             "id": 4,
             "bbox": [
-                574,
-                733,
-                590,
-                748
+                396,
+                312,
+                406,
+                323
+            ]
+        },
+        {
+            "text": "\u0623\u064a\u0631\u0644",
+            "id": 5,
+            "bbox": [
+                374,
+                312,
+                386,
+                323
             ]
         },
         {
             "text": "30",
-            "id": 5,
-            "bbox": [
-                403,
-                624,
-                417,
-                638
-            ]
-        },
-        {
-            "text": "20",
             "id": 6,
             "bbox": [
-                402,
-                675,
-                417,
-                690
+                465,
+                312,
+                473,
+                323
             ]
         },
         {
-            "text": "Vivalto",
+            "text": "19",
             "id": 7,
             "bbox": [
-                227,
-                623,
-                283,
-                639
+                447,
+                312,
+                457,
+                323
             ]
         },
         {
-            "text": "Lungo",
+            "text": "3,530.00",
             "id": 8,
             "bbox": [
-                292,
-                624,
-                331,
-                639
+                502,
+                612,
+                550,
+                628
             ]
         },
         {
-            "text": "Firenze",
+            "text": "3,536,06",
             "id": 9,
             "bbox": [
-                228,
-                676,
-                283,
-                691
+                563,
+                465,
+                605,
+                480
             ]
         },
         {
-            "text": "6781030",
+            "text": "1",
             "id": 10,
             "bbox": [
-                145,
-                623,
-                202,
-                638
+                352,
+                471,
+                355,
+                482
             ]
         },
         {
-            "text": "6757030",
+            "text": "SNEAKERS",
             "id": 11,
             "bbox": [
-                145,
-                676,
-                202,
-                691
+                87,
+                463,
+                150,
+                477
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                351,
+                506,
+                355,
+                516
+            ]
+        },
+        {
+            "text": "63629975408694305",
+            "id": 13,
+            "bbox": [
+                87,
+                478,
+                204,
+                495
+            ]
+        },
+        {
+            "text": "10B",
+            "id": 14,
+            "bbox": [
+                211,
+                482,
+                229,
+                496
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "50"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Vivalto",
-                "Lungo",
-                "Firenze"
-            ],
-            "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "item_quantity",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
                 "30",
-                "20"
+                "19"
             ],
             "value_id": [
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Porletto"
-            ],
-            "value_id": [
-                1
+                6,
+                7
             ]
         },
         {
@@ -167,12 +160,29 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6781030",
-                "6757030"
+                "63629975408694305",
+                "10B"
             ],
             "value_id": [
-                10,
-                11
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                ",",
+                "11",
+                "\u0623\u064a\u0631\u0644"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -180,12 +190,65 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "87.00",
-                "54.00"
+                "3,536,06"
             ],
             "value_id": [
-                2,
-                3
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SNEAKERS"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,530.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

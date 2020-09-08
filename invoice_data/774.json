@@ -1,176 +1,237 @@
 {
     "text_boxes": [
         {
-            "text": "Super-Care",
+            "text": "SEPHORA",
             "id": 1,
             "bbox": [
-                208,
-                45,
-                461,
-                121
+                388,
+                124,
+                448,
+                147
             ]
         },
         {
-            "text": "PHARMACY",
+            "text": "DUBAI",
             "id": 2,
             "bbox": [
-                274,
-                112,
-                370,
-                132
+                457,
+                129,
+                499,
+                150
             ]
         },
         {
-            "text": "25/07/2020",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                191,
-                533,
-                268,
-                552
+                509,
+                132,
+                543,
+                153
             ]
         },
         {
-            "text": "12:56",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                280,
-                531,
-                317,
-                548
+                553,
+                1212,
+                596,
+                1241
             ]
         },
         {
-            "text": "206.50",
+            "text": ",",
             "id": 5,
             "bbox": [
-                507,
-                1084,
-                576,
-                1100
+                544,
+                1214,
+                552,
+                1241
             ]
         },
         {
-            "text": "206.50",
+            "text": "11",
             "id": 6,
             "bbox": [
-                532,
-                966,
-                582,
-                980
+                523,
+                1213,
+                540,
+                1241
             ]
         },
         {
-            "text": "1.00",
+            "text": "uly",
             "id": 7,
             "bbox": [
-                90,
-                951,
-                117,
-                967
+                479,
+                1215,
+                509,
+                1243
+            ]
+        },
+        {
+            "text": "\u0644",
+            "id": 8,
+            "bbox": [
+                470,
+                1216,
+                477,
+                1243
+            ]
+        },
+        {
+            "text": "16:56:18",
+            "id": 9,
+            "bbox": [
+                607,
+                1208,
+                692,
+                1239
             ]
         },
         {
             "text": "1",
-            "id": 8,
-            "bbox": [
-                339,
-                1109,
-                348,
-                1125
-            ]
-        },
-        {
-            "text": "00",
-            "id": 9,
-            "bbox": [
-                350,
-                1109,
-                359,
-                1125
-            ]
-        },
-        {
-            "text": "EXFORGE",
             "id": 10,
             "bbox": [
-                92,
-                921,
-                177,
-                938
+                697,
+                1169,
+                704,
+                1197
             ]
         },
         {
-            "text": "5/160MG",
+            "text": "166.00",
             "id": 11,
             "bbox": [
-                185,
-                922,
-                256,
-                941
+                550,
+                657,
+                668,
+                689
             ]
         },
         {
-            "text": "TAB",
+            "text": "166.00",
             "id": 12,
             "bbox": [
-                262,
-                923,
-                299,
-                941
+                611,
+                576,
+                665,
+                593
             ]
         },
         {
-            "text": "28S",
+            "text": "1",
             "id": 13,
             "bbox": [
-                307,
-                924,
-                337,
-                942
+                396,
+                589,
+                399,
+                607
+            ]
+        },
+        {
+            "text": "DSHOW",
+            "id": 14,
+            "bbox": [
+                430,
+                517,
+                475,
+                543
+            ]
+        },
+        {
+            "text": "LINER",
+            "id": 15,
+            "bbox": [
+                485,
+                515,
+                530,
+                541
+            ]
+        },
+        {
+            "text": "STAR",
+            "id": 16,
+            "bbox": [
+                539,
+                513,
+                576,
+                539
+            ]
+        },
+        {
+            "text": "091",
+            "id": 17,
+            "bbox": [
+                586,
+                512,
+                612,
+                537
+            ]
+        },
+        {
+            "text": "INT1",
+            "id": 18,
+            "bbox": [
+                625,
+                511,
+                659,
+                536
+            ]
+        },
+        {
+            "text": "009113854262",
+            "id": 19,
+            "bbox": [
+                275,
+                519,
+                384,
+                548
+            ]
+        },
+        {
+            "text": "\u0645\u062d\u062f\u062f",
+            "id": 20,
+            "bbox": [
+                342,
+                566,
+                375,
+                584
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0639\u064a\u0648\u0646",
+            "id": 21,
+            "bbox": [
+                275,
+                567,
+                326,
+                585
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1",
-                "00"
+                "16:56:18"
             ],
             "value_id": [
-                8,
                 9
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "EXFORGE",
-                "5/160MG",
-                "TAB",
-                "28S"
+                "009113854262"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00"
-            ],
-            "value_id": [
-                7
+                19
             ]
         },
         {
@@ -178,45 +239,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25/07/2020"
+                "2020",
+                ",",
+                "11",
+                "uly",
+                "\u0644"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Super-Care",
-                "PHARMACY"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "206.50"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:56"
-            ],
-            "value_id": [
-                4
+                4,
+                5,
+                6,
+                7,
+                8
             ]
         },
         {
@@ -224,10 +258,90 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "206.50"
+                "166.00"
             ],
             "value_id": [
-                6
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u062d\u062f\u062f",
+                "\u0627\u0644\u0639\u064a\u0648\u0646"
+            ],
+            "value_id": [
+                20,
+                21
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DSHOW",
+                "LINER",
+                "STAR",
+                "091",
+                "INT1"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "166.00"
+            ],
+            "value_id": [
+                11
             ]
         }
     ],

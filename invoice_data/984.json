@@ -1,149 +1,103 @@
 {
     "text_boxes": [
         {
-            "text": "07/25/20",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                233,
-                487,
-                325,
-                509
+                274,
+                128,
+                429,
+                197
             ]
         },
         {
-            "text": "8:51",
+            "text": "16.07.2020",
             "id": 2,
             "bbox": [
-                350,
-                489,
-                393,
-                508
+                164,
+                271,
+                253,
+                289
             ]
         },
         {
-            "text": "1,110",
+            "text": "14:50",
             "id": 3,
             "bbox": [
-                574,
-                781,
-                634,
-                804
+                266,
+                270,
+                308,
+                287
             ]
         },
         {
-            "text": "1,110",
+            "text": "209",
             "id": 4,
             "bbox": [
-                568,
-                662,
-                626,
-                683
+                473,
+                528,
+                498,
+                543
             ]
         },
         {
-            "text": "1",
+            "text": "289",
             "id": 5,
             "bbox": [
-                388,
-                670,
-                396,
-                687
-            ]
-        },
-        {
-            "text": "MALE",
-            "id": 6,
-            "bbox": [
-                244,
-                670,
-                290,
-                687
-            ]
-        },
-        {
-            "text": "JOGGJE",
-            "id": 7,
-            "bbox": [
-                304,
-                670,
-                374,
-                687
-            ]
-        },
-        {
-            "text": "A033308",
-            "id": 8,
-            "bbox": [
-                145,
-                670,
-                230,
-                687
+                471,
+                358,
+                495,
+                373
             ]
         },
         {
             "text": "1",
+            "id": 6,
+            "bbox": [
+                274,
+                363,
+                279,
+                376
+            ]
+        },
+        {
+            "text": "0488608740004",
+            "id": 7,
+            "bbox": [
+                254,
+                382,
+                372,
+                401
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 8,
+            "bbox": [
+                396,
+                383,
+                440,
+                398
+            ]
+        },
+        {
+            "text": "10001827",
             "id": 9,
             "bbox": [
-                593,
-                907,
-                602,
-                926
+                160,
+                385,
+                231,
+                401
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MALE",
-                "JOGGJE"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "07/25/20"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,110"
+                "14:50"
             ],
             "value_id": [
                 3
@@ -154,18 +108,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "A033308"
+                "10001827"
             ],
             "value_id": [
-                8
+                9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "8:51"
+                "16.07.2020"
             ],
             "value_id": [
                 2
@@ -176,7 +130,53 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,110"
+                "289"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0488608740004",
+                "DRESS"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "209"
             ],
             "value_id": [
                 4

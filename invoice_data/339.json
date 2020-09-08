@@ -1,148 +1,219 @@
 {
     "text_boxes": [
         {
-            "text": "11/07/2020",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                475,
-                387,
-                528,
-                396
+                389,
+                365,
+                500,
+                408
             ]
         },
         {
-            "text": "12.01",
+            "text": "02/03/2020",
             "id": 2,
             "bbox": [
-                475,
-                402,
-                500,
-                415
+                160,
+                853,
+                202,
+                864
             ]
         },
         {
-            "text": "541,00",
+            "text": "21:07:05",
             "id": 3,
             "bbox": [
-                538,
-                848,
-                568,
-                859
+                207,
+                854,
+                240,
+                864
             ]
         },
         {
-            "text": "399,00",
+            "text": "11,800",
             "id": 4,
             "bbox": [
-                545,
-                548,
-                573,
-                556
+                686,
+                726,
+                706,
+                734
             ]
         },
         {
-            "text": "142,00",
+            "text": ".00",
             "id": 5,
             "bbox": [
-                545,
-                578,
-                573,
-                586
+                708,
+                726,
+                717,
+                734
             ]
         },
         {
-            "text": "LOYALTY",
+            "text": "1",
             "id": 6,
             "bbox": [
-                191,
-                542,
-                234,
-                552
+                685,
+                683,
+                689,
+                691
             ]
         },
         {
-            "text": "VP",
+            "text": ":",
             "id": 7,
             "bbox": [
-                239,
-                544,
-                250,
-                551
+                692,
+                683,
+                692,
+                691
             ]
         },
         {
-            "text": "2020",
+            "text": "100.00",
             "id": 8,
             "bbox": [
-                255,
-                545,
-                275,
-                552
+                693,
+                683,
+                715,
+                691
             ]
         },
         {
-            "text": "RELAXING",
+            "text": "T",
             "id": 9,
             "bbox": [
-                109,
-                574,
-                157,
-                582
+                395,
+                679,
+                396,
+                684
             ]
         },
         {
-            "text": "SLEEP",
+            "text": "NEC",
             "id": 10,
             "bbox": [
-                162,
-                574,
+                182,
+                655,
                 192,
-                582
+                664
             ]
         },
         {
-            "text": "MASK",
+            "text": "AMULETTE",
             "id": 11,
             "bbox": [
-                196,
-                575,
-                223,
-                582
+                195,
+                655,
+                226,
+                665
             ]
         },
         {
-            "text": "SOML",
+            "text": "PG",
             "id": 12,
             "bbox": [
-                227,
-                575,
-                249,
-                582
+                229,
+                656,
+                237,
+                666
+            ]
+        },
+        {
+            "text": "WH",
+            "id": 13,
+            "bbox": [
+                240,
+                657,
+                250,
+                666
+            ]
+        },
+        {
+            "text": "MOP",
+            "id": 14,
+            "bbox": [
+                253,
+                657,
+                266,
+                667
+            ]
+        },
+        {
+            "text": "ONYX",
+            "id": 15,
+            "bbox": [
+                269,
+                657,
+                285,
+                668
+            ]
+        },
+        {
+            "text": "DAXS",
+            "id": 16,
+            "bbox": [
+                288,
+                658,
+                307,
+                669
+            ]
+        },
+        {
+            "text": "Reference",
+            "id": 17,
+            "bbox": [
+                180,
+                663,
+                216,
+                675
+            ]
+        },
+        {
+            "text": "\u0648",
+            "id": 18,
+            "bbox": [
+                256,
+                666,
+                258,
+                676
+            ]
+        },
+        {
+            "text": "B123456",
+            "id": 19,
+            "bbox": [
+                222,
+                665,
+                255,
+                677
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOYALTY",
-                "VP",
-                "2020",
-                "RELAXING",
-                "SLEEP",
-                "MASK",
-                "SOML"
+                "21:07:05"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0648",
+                "B123456"
+            ],
+            "value_id": [
+                18,
+                19
             ]
         },
         {
@@ -150,29 +221,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11/07/2020"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "541,00"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12.01"
+                "02/03/2020"
             ],
             "value_id": [
                 2
@@ -183,8 +232,70 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "399,00",
-                "142,00"
+                "1",
+                ":",
+                "100.00"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NEC",
+                "AMULETTE",
+                "PG",
+                "WH",
+                "MOP",
+                "ONYX",
+                "DAXS",
+                "Reference"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Cartier"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "T"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11,800",
+                ".00"
             ],
             "value_id": [
                 4,

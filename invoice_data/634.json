@@ -1,121 +1,159 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                475,
-                305,
-                499,
-                317
+                316,
+                193,
+                552,
+                245
+            ]
+        },
+        {
+            "text": "July",
+            "id": 2,
+            "bbox": [
+                453,
+                307,
+                473,
+                321
+            ]
+        },
+        {
+            "text": "13",
+            "id": 3,
+            "bbox": [
+                480,
+                307,
+                490,
+                321
+            ]
+        },
+        {
+            "text": ",",
+            "id": 4,
+            "bbox": [
+                493,
+                306,
+                495,
+                320
             ]
         },
         {
             "text": "2020",
-            "id": 2,
-            "bbox": [
-                512,
-                303,
-                538,
-                315
-            ]
-        },
-        {
-            "text": "15:49",
-            "id": 3,
-            "bbox": [
-                548,
-                303,
-                581,
-                314
-            ]
-        },
-        {
-            "text": "2,850.00",
-            "id": 4,
-            "bbox": [
-                598,
-                551,
-                655,
-                563
-            ]
-        },
-        {
-            "text": "2,850.00",
             "id": 5,
             "bbox": [
-                600,
-                465,
-                654,
-                476
+                502,
+                305,
+                529,
+                321
             ]
         },
         {
-            "text": "VALENTINO",
+            "text": "14:02",
             "id": 6,
             "bbox": [
-                115,
-                448,
-                178,
-                458
+                540,
+                304,
+                572,
+                320
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "3,790.00",
             "id": 7,
             "bbox": [
-                185,
-                448,
-                226,
-                458
+                576,
+                671,
+                630,
+                686
             ]
         },
         {
-            "text": "SHOES",
+            "text": "3,790.00",
             "id": 8,
             "bbox": [
-                235,
-                448,
-                269,
-                459
+                664,
+                499,
+                715,
+                516
             ]
         },
         {
-            "text": "L",
+            "text": "1",
             "id": 9,
             "bbox": [
-                293,
-                449,
-                307,
-                460
+                419,
+                500,
+                422,
+                510
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                418,
+                541,
+                422,
+                553
+            ]
+        },
+        {
+            "text": "THONGS",
+            "id": 11,
+            "bbox": [
+                128,
+                491,
+                182,
+                504
+            ]
+        },
+        {
+            "text": "636402x5192503291",
+            "id": 12,
+            "bbox": [
+                128,
+                505,
+                252,
+                525
+            ]
+        },
+        {
+            "text": "35C",
+            "id": 13,
+            "bbox": [
+                258,
+                509,
+                279,
+                526
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VALENTINO",
-                "WOMENS",
-                "SHOES"
+                "14:02"
             ],
             "value_id": [
-                6,
-                7,
-                8
+                6
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L"
+                "636402x5192503291",
+                "35C"
             ],
             "value_id": [
-                9
+                12,
+                13
             ]
         },
         {
@@ -123,34 +161,16 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
+                "July",
+                "13",
+                ",",
                 "2020"
             ],
             "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,850.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15:49"
-            ],
-            "value_id": [
-                3
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -158,10 +178,65 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,850.00"
+                "3,790.00"
             ],
             "value_id": [
-                5
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "THONGS"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,790.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

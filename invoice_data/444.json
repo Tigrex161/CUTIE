@@ -1,153 +1,106 @@
 {
     "text_boxes": [
         {
-            "text": "CHANEL",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                320,
-                229,
-                518,
-                281
-            ]
-        },
-        {
-            "text": "July",
-            "id": 2,
-            "bbox": [
-                432,
-                337,
-                451,
-                351
-            ]
-        },
-        {
-            "text": "09,",
-            "id": 3,
-            "bbox": [
-                454,
-                335,
-                468,
-                347
-            ]
-        },
-        {
-            "text": "2020",
-            "id": 4,
-            "bbox": [
-                474,
-                330,
+                350,
+                487,
                 498,
-                343
-            ]
-        },
-        {
-            "text": "10:52",
-            "id": 5,
-            "bbox": [
-                507,
-                325,
-                536,
-                339
-            ]
-        },
-        {
-            "text": "1,770.00",
-            "id": 6,
-            "bbox": [
-                552,
-                668,
-                601,
-                678
-            ]
-        },
-        {
-            "text": "1,770.00",
-            "id": 7,
-            "bbox": [
-                627,
-                500,
-                676,
-                514
-            ]
-        },
-        {
-            "text": "PUMPS",
-            "id": 8,
-            "bbox": [
-                139,
-                510,
-                179,
                 518
             ]
         },
         {
-            "text": "G31984X521139430S",
-            "id": 9,
+            "text": "15/07/2020",
+            "id": 2,
             "bbox": [
-                139,
-                526,
-                254,
-                537
+                112,
+                699,
+                159,
+                712
             ]
         },
         {
-            "text": "65C",
-            "id": 10,
+            "text": "19:30",
+            "id": 3,
             "bbox": [
-                259,
-                528,
-                278,
-                536
+                170,
+                698,
+                191,
+                710
+            ]
+        },
+        {
+            "text": "2.700.00",
+            "id": 4,
+            "bbox": [
+                637,
+                816,
+                670,
+                827
+            ]
+        },
+        {
+            "text": "1",
+            "id": 5,
+            "bbox": [
+                418,
+                772,
+                419,
+                782
+            ]
+        },
+        {
+            "text": "1",
+            "id": 6,
+            "bbox": [
+                419,
+                801,
+                420,
+                808
+            ]
+        },
+        {
+            "text": "Women",
+            "id": 7,
+            "bbox": [
+                265,
+                777,
+                296,
+                789
+            ]
+        },
+        {
+            "text": "Shoes",
+            "id": 8,
+            "bbox": [
+                300,
+                775,
+                323,
+                787
+            ]
+        },
+        {
+            "text": "KC020910C",
+            "id": 9,
+            "bbox": [
+                114,
+                781,
+                169,
+                797
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PUMPS"
+                "19:30"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July",
-                "09,",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CHANEL"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,770.00"
-            ],
-            "value_id": [
-                6
+                3
             ]
         },
         {
@@ -155,34 +108,78 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "G31984X521139430S",
-                "65C"
+                "KC020910C"
             ],
             "value_id": [
-                9,
-                10
+                9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10:52"
+                "15/07/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Women",
+                "Shoes"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 5
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,770.00"
+                "2.700.00"
             ],
             "value_id": [
-                7
+                4
             ]
         }
     ],

@@ -1,200 +1,206 @@
 {
     "text_boxes": [
         {
-            "text": "DOLCE",
+            "text": "GALERXES",
             "id": 1,
             "bbox": [
-                250,
-                345,
-                342,
-                385
+                253,
+                218,
+                368,
+                254
             ]
         },
         {
-            "text": "&",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                353,
-                343,
-                367,
-                381
+                377,
+                220,
+                498,
+                256
             ]
         },
         {
-            "text": "GABBANA",
+            "text": "10/07/20",
             "id": 3,
             "bbox": [
-                375,
-                315,
-                531,
-                383
+                183,
+                570,
+                288,
+                608
             ]
         },
         {
-            "text": "July,",
+            "text": "15:45",
             "id": 4,
             "bbox": [
-                528,
-                452,
-                558,
-                467
+                304,
+                572,
+                368,
+                609
             ]
         },
         {
-            "text": "05",
+            "text": "375.00",
             "id": 5,
             "bbox": [
-                570,
-                447,
-                582,
-                460
+                553,
+                1151,
+                628,
+                1176
             ]
         },
         {
-            "text": "2020",
+            "text": "250.00",
             "id": 6,
             "bbox": [
-                586,
-                444,
-                613,
-                456
+                564,
+                821,
+                643,
+                852
             ]
         },
         {
-            "text": "14:22",
+            "text": "250.00",
             "id": 7,
             "bbox": [
-                621,
-                439,
-                654,
-                452
+                561,
+                924,
+                638,
+                951
             ]
         },
         {
-            "text": "450.00",
+            "text": "1",
             "id": 8,
             "bbox": [
-                613,
-                764,
-                653,
-                775
+                98,
+                847,
+                102,
+                874
             ]
         },
         {
-            "text": "450.00",
+            "text": "1",
             "id": 9,
             "bbox": [
-                609,
-                677,
-                649,
-                688
+                97,
+                949,
+                100,
+                971
             ]
         },
         {
-            "text": "L5JTEVG7VXYHA96C:",
+            "text": "Women's",
             "id": 10,
             "bbox": [
-                241,
-                672,
-                349,
-                688
+                83,
+                778,
+                176,
+                807
             ]
         },
         {
-            "text": "DGA.",
+            "text": "Underwear",
             "id": 11,
             "bbox": [
-                351,
-                671,
-                371,
-                683
+                192,
+                779,
+                310,
+                808
             ]
         },
         {
-            "text": "GL",
+            "text": "SHORT",
             "id": 12,
             "bbox": [
-                504,
-                666,
-                527,
-                675
+                83,
+                812,
+                148,
+                841
             ]
         },
         {
-            "text": "009424842739",
+            "text": "SKU",
             "id": 13,
             "bbox": [
-                158,
-                677,
-                232,
-                688
+                165,
+                813,
+                201,
+                841
+            ]
+        },
+        {
+            "text": "SET",
+            "id": 14,
+            "bbox": [
+                82,
+                914,
+                120,
+                941
+            ]
+        },
+        {
+            "text": "PLUNGE",
+            "id": 15,
+            "bbox": [
+                136,
+                914,
+                214,
+                941
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 16,
+            "bbox": [
+                230,
+                914,
+                267,
+                942
+            ]
+        },
+        {
+            "text": "900976609",
+            "id": 17,
+            "bbox": [
+                151,
+                847,
+                268,
+                874
+            ]
+        },
+        {
+            "text": "900976607",
+            "id": 18,
+            "bbox": [
+                149,
+                948,
+                265,
+                972
+            ]
+        },
+        {
+            "text": "2",
+            "id": 19,
+            "bbox": [
+                621,
+                1025,
+                632,
+                1044
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L5JTEVG7VXYHA96C:",
-                "DGA."
+                "15:45"
             ],
             "value_id": [
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GL"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "05",
-                "2020"
-            ],
-            "value_id": [
-                4,
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DOLCE",
-                "&",
-                "GABBANA"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "450.00"
-            ],
-            "value_id": [
-                8
+                4
             ]
         },
         {
@@ -202,21 +208,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "009424842739"
+                "900976609",
+                "900976607"
             ],
             "value_id": [
-                13
+                17,
+                18
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14:22"
+                "10/07/20"
             ],
             "value_id": [
-                7
+                3
             ]
         },
         {
@@ -224,10 +232,83 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "450.00"
+                "250.00",
+                "250.00"
             ],
             "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Women's",
+                "Underwear",
+                "SHORT",
+                "SKU",
+                "SET",
+                "PLUNGE",
+                "SKU"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERXES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                8,
                 9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "375.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

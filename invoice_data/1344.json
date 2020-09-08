@@ -1,0 +1,240 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                315,
+                332,
+                355,
+                348
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                361,
+                333,
+                422,
+                349
+            ]
+        },
+        {
+            "text": "MALLETERAS",
+            "id": 3,
+            "bbox": [
+                341,
+                348,
+                395,
+                358
+            ]
+        },
+        {
+            "text": "26/07/2020",
+            "id": 4,
+            "bbox": [
+                508,
+                554,
+                568,
+                567
+            ]
+        },
+        {
+            "text": "19:24",
+            "id": 5,
+            "bbox": [
+                589,
+                554,
+                616,
+                566
+            ]
+        },
+        {
+            "text": "N41221",
+            "id": 6,
+            "bbox": [
+                27,
+                615,
+                60,
+                624
+            ]
+        },
+        {
+            "text": "NIMA",
+            "id": 7,
+            "bbox": [
+                74,
+                615,
+                96,
+                624
+            ]
+        },
+        {
+            "text": "BID.EE",
+            "id": 8,
+            "bbox": [
+                104,
+                615,
+                151,
+                624
+            ]
+        },
+        {
+            "text": "DAILY",
+            "id": 9,
+            "bbox": [
+                28,
+                626,
+                56,
+                634
+            ]
+        },
+        {
+            "text": "IINGS",
+            "id": 10,
+            "bbox": [
+                63,
+                626,
+                85,
+                634
+            ]
+        },
+        {
+            "text": "5.400.00",
+            "id": 11,
+            "bbox": [
+                635,
+                614,
+                682,
+                625
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                263,
+                616,
+                264,
+                623
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                264,
+                615,
+                267,
+                624
+            ]
+        },
+        {
+            "text": "5.400.00",
+            "id": 14,
+            "bbox": [
+                644,
+                767,
+                691,
+                777
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:24"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "26/07/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5.400.00"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "N41221",
+                "NIMA",
+                "BID.EE",
+                "DAILY",
+                "IINGS"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MALLETERAS"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5.400.00"
+            ],
+            "value_id": [
+                14
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1344.jpg"
+    }
+}

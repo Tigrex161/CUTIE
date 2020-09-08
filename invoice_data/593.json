@@ -1,165 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "BASKET",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                373,
-                149,
-                429,
-                161
+                285,
+                228,
+                358,
+                251
             ]
         },
         {
-            "text": "BOLISTA",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                443,
-                152,
-                509,
-                164
+                366,
+                232,
+                445,
+                255
             ]
         },
         {
-            "text": "00/07/2020",
+            "text": "02/02/20",
             "id": 3,
             "bbox": [
-                357,
-                233,
-                406,
-                243
+                241,
+                443,
+                308,
+                461
             ]
         },
         {
-            "text": "19:14",
+            "text": "13:49",
             "id": 4,
             "bbox": [
-                359,
-                249,
-                381,
-                258
+                320,
+                445,
+                358,
+                462
             ]
         },
         {
-            "text": "418.00",
+            "text": "245.00",
             "id": 5,
             "bbox": [
-                508,
-                654,
-                535,
-                662
+                482,
+                656,
+                530,
+                668
             ]
         },
         {
-            "text": "419.00",
+            "text": "245.00",
             "id": 6,
             "bbox": [
-                512,
-                458,
-                540,
-                468
+                485,
+                583,
+                534,
+                597
             ]
         },
         {
-            "text": "RIR",
+            "text": "the",
             "id": 7,
             "bbox": [
-                280,
-                469,
-                293,
-                477
+                203,
+                559,
+                225,
+                573
             ]
         },
         {
-            "text": "JORDAN",
+            "text": "Accessory",
             "id": 8,
             "bbox": [
-                300,
-                468,
-                327,
-                480
+                244,
+                560,
+                319,
+                575
             ]
         },
         {
-            "text": "1",
+            "text": "ALS",
             "id": 9,
             "bbox": [
-                334,
-                471,
-                335,
-                479
+                250,
+                578,
+                324,
+                595
             ]
         },
         {
-            "text": "MID",
+            "text": "S",
             "id": 10,
             "bbox": [
-                343,
-                471,
-                356,
-                480
-            ]
-        },
-        {
-            "text": "SE",
-            "id": 11,
-            "bbox": [
-                362,
-                470,
-                370,
-                481
-            ]
-        },
-        {
-            "text": "NK852542-005",
-            "id": 12,
-            "bbox": [
-                279,
-                451,
-                337,
-                464
-            ]
-        },
-        {
-            "text": "1.00",
-            "id": 13,
-            "bbox": [
-                428,
-                556,
-                445,
-                565
+                322,
+                580,
+                325,
+                595
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RIR",
-                "JORDAN",
-                "1",
-                "MID",
-                "SE"
+                "13:49"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00"
-            ],
-            "value_id": [
-                13
+                4
             ]
         },
         {
@@ -167,10 +118,38 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "00/07/2020"
+                "02/02/20"
             ],
             "value_id": [
                 3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "245.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "the",
+                "Accessory",
+                "ALS",
+                "S"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
             ]
         },
         {
@@ -178,8 +157,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BASKET",
-                "BOLISTA"
+                "GALERIES",
+                "LAFAYETTE"
             ],
             "value_id": [
                 1,
@@ -191,43 +170,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "418.00"
+                "245.00"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "NK852542-005"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:14"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "419.00"
-            ],
-            "value_id": [
-                6
             ]
         }
     ],

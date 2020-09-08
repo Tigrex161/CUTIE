@@ -1,231 +1,206 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "2020",
             "id": 1,
             "bbox": [
-                394,
-                374,
-                428,
-                387
+                511,
+                302,
+                536,
+                318
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "\u0648\u0628\u0644\u0627\u0644",
             "id": 2,
             "bbox": [
-                432,
-                377,
-                484,
-                391
+                476,
+                302,
+                498,
+                319
             ]
         },
         {
-            "text": "MTA",
+            "text": "8",
             "id": 3,
             "bbox": [
-                409,
-                388,
-                447,
-                397
+                460,
+                304,
+                463,
+                319
             ]
         },
         {
-            "text": "MASONONOD",
+            "text": "15:49",
             "id": 4,
             "bbox": [
-                402,
-                411,
-                457,
-                423
+                548,
+                301,
+                579,
+                317
             ]
         },
         {
-            "text": "12i48",
+            "text": "B50.00",
             "id": 5,
             "bbox": [
-                619,
-                576,
-                643,
-                584
+                611,
+                552,
+                651,
+                563
             ]
         },
         {
-            "text": "1,580.00",
+            "text": "\u0648",
             "id": 6,
             "bbox": [
-                675,
-                747,
-                716,
-                753
+                597,
+                552,
+                605,
+                563
             ]
         },
         {
-            "text": "1,580.00",
+            "text": "2.850.00",
             "id": 7,
             "bbox": [
-                658,
-                631,
-                697,
-                640
+                599,
+                463,
+                653,
+                476
             ]
         },
         {
-            "text": "ME1821.",
+            "text": "1",
             "id": 8,
             "bbox": [
-                125,
-                590,
-                164,
-                602
+                435,
+                467,
+                438,
+                478
             ]
         },
         {
-            "text": "O.pE",
+            "text": "VALENTINO",
             "id": 9,
             "bbox": [
-                168,
-                593,
-                190,
-                604
+                112,
+                444,
+                177,
+                461
             ]
         },
         {
-            "text": "POCHE",
+            "text": "WOMENS",
             "id": 10,
             "bbox": [
-                195,
-                598,
-                220,
-                607
+                184,
+                445,
+                226,
+                461
             ]
         },
         {
-            "text": "EPI",
+            "text": "SHOES",
             "id": 11,
             "bbox": [
-                227,
-                601,
-                241,
-                608
+                235,
+                446,
+                268,
+                461
             ]
         },
         {
-            "text": "BL.",
+            "text": "032811068",
             "id": 12,
             "bbox": [
-                249,
-                599,
-                264,
-                610
+                114,
+                467,
+                182,
+                480
             ]
         },
         {
-            "text": "MARINE",
+            "text": "36",
             "id": 13,
             "bbox": [
-                265,
-                601,
-                295,
-                613
+                186,
+                467,
+                196,
+                480
             ]
         },
         {
-            "text": "SMALL",
+            "text": "|",
             "id": 14,
             "bbox": [
-                126,
-                603,
-                152,
-                610
+                200,
+                467,
+                203,
+                480
             ]
         },
         {
-            "text": "LEATHER",
+            "text": "\u0627\u0631\u062f\u064a\u0629",
             "id": 15,
             "bbox": [
-                158,
-                605,
-                194,
-                614
+                325,
+                447,
+                354,
+                462
             ]
         },
         {
-            "text": "GOODS",
+            "text": "\u062a\u0631\u0627\u062b\u064a\u0647",
             "id": 16,
             "bbox": [
-                200,
-                609,
-                226,
-                617
+                278,
+                446,
+                308,
+                461
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ME1821.",
-                "O.pE",
-                "POCHE",
-                "EPI",
-                "BL.",
-                "MARINE",
-                "SMALL",
-                "LEATHER",
-                "GOODS"
-            ],
-            "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MTA",
-                "MASONONOD"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,580.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12i48"
+                "15:49"
             ],
             "value_id": [
-                5
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "032811068",
+                "36",
+                "|"
+            ],
+            "value_id": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                "\u0648\u0628\u0644\u0627\u0644",
+                "8"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
             ]
         },
         {
@@ -233,10 +208,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,580.00"
+                "2.850.00"
             ],
             "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0631\u062f\u064a\u0629",
+                "\u062a\u0631\u0627\u062b\u064a\u0647"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "VALENTINO",
+                "WOMENS",
+                "SHOES"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "B50.00",
+                "\u0648"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

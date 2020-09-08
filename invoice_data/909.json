@@ -1,166 +1,239 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "LUSH",
             "id": 1,
             "bbox": [
-                524,
-                238,
-                553,
-                249
+                231,
+                240,
+                451,
+                332
             ]
         },
         {
-            "text": "2020",
+            "text": "FRESH",
             "id": 2,
             "bbox": [
-                567,
-                237,
-                599,
-                248
+                457,
+                267,
+                549,
+                296
             ]
         },
         {
-            "text": "22:18",
+            "text": "HANDMADE",
             "id": 3,
             "bbox": [
-                609,
-                238,
-                650,
-                248
+                459,
+                291,
+                550,
+                312
             ]
         },
         {
-            "text": "3,550.00",
+            "text": "COSMETICS",
             "id": 4,
             "bbox": [
-                683,
-                515,
-                754,
-                528
+                461,
+                305,
+                552,
+                326
             ]
         },
         {
-            "text": "3,550.00",
+            "text": "25/07/2020",
             "id": 5,
             "bbox": [
-                681,
-                427,
-                749,
-                436
+                357,
+                560,
+                434,
+                577
             ]
         },
         {
-            "text": "1",
+            "text": "2:59:32",
             "id": 6,
             "bbox": [
-                473,
-                426,
-                476,
-                434
+                359,
+                579,
+                411,
+                595
             ]
         },
         {
-            "text": "PCOU_OTHS",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                77,
-                395,
-                152,
-                410
+                419,
+                579,
+                439,
+                595
             ]
         },
         {
-            "text": ":",
+            "text": "00",
             "id": 8,
             "bbox": [
-                154,
-                396,
-                164,
-                409
+                609,
+                775,
+                619,
+                794
             ]
         },
         {
-            "text": "PRIVATE",
+            "text": "230",
             "id": 9,
             "bbox": [
-                165,
-                398,
-                222,
-                409
+                582,
+                777,
+                604,
+                797
             ]
         },
         {
-            "text": "COLLECTION",
+            "text": "230.00",
             "id": 10,
             "bbox": [
-                233,
-                399,
-                317,
-                410
+                569,
+                675,
+                608,
+                693
             ]
         },
         {
-            "text": "MENS",
+            "text": "RO'S",
             "id": 11,
             "bbox": [
-                326,
-                400,
-                359,
-                410
+                333,
+                693,
+                363,
+                709
             ]
         },
         {
-            "text": "SI-SLL",
+            "text": "ARGAN",
             "id": 12,
             "bbox": [
-                448,
-                403,
-                547,
-                415
+                367,
+                690,
+                411,
+                708
+            ]
+        },
+        {
+            "text": "BODY",
+            "id": 13,
+            "bbox": [
+                416,
+                688,
+                451,
+                706
+            ]
+        },
+        {
+            "text": "CONDITIONER",
+            "id": 14,
+            "bbox": [
+                334,
+                704,
+                421,
+                725
+            ]
+        },
+        {
+            "text": "22",
+            "id": 15,
+            "bbox": [
+                425,
+                703,
+                439,
+                720
+            ]
+        },
+        {
+            "text": ")",
+            "id": 16,
+            "bbox": [
+                425,
+                719,
+                442,
+                734
+            ]
+        },
+        {
+            "text": "(",
+            "id": 17,
+            "bbox": [
+                338,
+                738,
+                342,
+                754
+            ]
+        },
+        {
+            "text": "\u0627\u0630\u0627\u0646\u064a",
+            "id": 18,
+            "bbox": [
+                370,
+                738,
+                392,
+                754
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062d\u0641\u0644",
+            "id": 19,
+            "bbox": [
+                340,
+                738,
+                367,
+                754
+            ]
+        },
+        {
+            "text": ")",
+            "id": 20,
+            "bbox": [
+                336,
+                738,
+                340,
+                754
+            ]
+        },
+        {
+            "text": "7036",
+            "id": 21,
+            "bbox": [
+                249,
+                695,
+                276,
+                710
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PCOU_OTHS",
-                ":",
-                "PRIVATE",
-                "COLLECTION",
-                "MENS"
+                "2:59:32",
+                "PM"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
+                6,
+                7
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SI-SLL"
+                "7036"
             ],
             "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
+                21
             ]
         },
         {
@@ -168,34 +241,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "25/07/2020"
             ],
             "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,550.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "22:18"
-            ],
-            "value_id": [
-                3
+                5
             ]
         },
         {
@@ -203,10 +252,78 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,550.00"
+                "230.00"
             ],
             "value_id": [
-                5
+                10
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ")",
+                "(",
+                "\u0627\u0630\u0627\u0646\u064a",
+                "\u0627\u0644\u062d\u0641\u0644",
+                ")"
+            ],
+            "value_id": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RO'S",
+                "ARGAN",
+                "BODY",
+                "CONDITIONER",
+                "22"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LUSH",
+                "FRESH",
+                "HANDMADE",
+                "COSMETICS"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "00",
+                "230"
+            ],
+            "value_id": [
+                8,
+                9
             ]
         }
     ],

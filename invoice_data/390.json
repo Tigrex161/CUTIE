@@ -1,182 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "25/06/2020",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                100,
-                656,
-                150,
-                667
+                290,
+                211,
+                345,
+                227
             ]
         },
         {
-            "text": "22:07:26",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                153,
-                659,
-                193,
-                666
+                354,
+                210,
+                415,
+                226
             ]
         },
         {
-            "text": "12,640.00",
+            "text": "09/07/20",
             "id": 3,
             "bbox": [
-                707,
-                580,
-                746,
-                590
+                260,
+                389,
+                317,
+                403
             ]
         },
         {
-            "text": "12,540.00",
+            "text": "19:38",
             "id": 4,
             "bbox": [
-                708,
-                440,
-                742,
-                446
+                328,
+                389,
+                360,
+                403
             ]
         },
         {
-            "text": "BRAJUSTE",
+            "text": "3.540.00",
             "id": 5,
             "bbox": [
-                116,
-                426,
-                153,
-                432
+                463,
+                585,
+                519,
+                605
             ]
         },
         {
-            "text": "UN",
+            "text": "3.540",
             "id": 6,
             "bbox": [
-                155,
-                426,
-                165,
-                432
+                460,
+                514,
+                494,
+                530
             ]
         },
         {
-            "text": "CLOU",
+            "text": "00",
             "id": 7,
             "bbox": [
-                168,
-                427,
-                187,
-                433
+                503,
+                513,
+                516,
+                528
             ]
         },
         {
-            "text": "YG",
+            "text": "1",
             "id": 8,
             "bbox": [
-                190,
-                427,
-                199,
-                433
+                224,
+                540,
+                226,
+                552
             ]
         },
         {
-            "text": "1/2",
+            "text": "Men's",
             "id": 9,
             "bbox": [
-                202,
-                427,
-                213,
-                433
+                214,
+                503,
+                249,
+                518
             ]
         },
         {
-            "text": "DIA",
+            "text": "Wear",
             "id": 10,
             "bbox": [
-                216,
-                427,
-                228,
-                432
+                258,
+                502,
+                285,
+                517
             ]
         },
         {
-            "text": "SM",
+            "text": "MENSWEAR",
             "id": 11,
             "bbox": [
-                231,
-                427,
-                241,
-                432
+                215,
+                519,
+                271,
+                534
             ]
         },
         {
-            "text": "TIS",
+            "text": "CORNELIANI",
             "id": 12,
             "bbox": [
-                243,
-                427,
-                256,
-                432
+                281,
+                518,
+                350,
+                532
             ]
         },
         {
-            "text": "B6066115",
+            "text": "900936614",
             "id": 13,
             "bbox": [
-                164,
-                438,
-                208,
-                444
+                252,
+                537,
+                315,
+                552
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BRAJUSTE",
-                "UN",
-                "CLOU",
-                "YG",
-                "1/2",
-                "DIA",
-                "SM",
-                "TIS"
+                "19:38"
             ],
             "value_id": [
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "25/06/2020"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12,640.00"
-            ],
-            "value_id": [
-                3
+                4
             ]
         },
         {
@@ -184,21 +148,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "B6066115"
+                "900936614"
             ],
             "value_id": [
                 13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "22:07:26"
+                "09/07/20"
             ],
             "value_id": [
-                2
+                3
             ]
         },
         {
@@ -206,10 +170,64 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12,540.00"
+                "3.540",
+                "00"
             ],
             "value_id": [
-                4
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Men's",
+                "Wear",
+                "MENSWEAR",
+                "CORNELIANI"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3.540.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

@@ -1,213 +1,150 @@
 {
     "text_boxes": [
         {
-            "text": "VALENTINO",
+            "text": "MARINA",
             "id": 1,
             "bbox": [
-                277,
-                371,
-                468,
-                402
+                570,
+                228,
+                662,
+                248
             ]
         },
         {
-            "text": "7/26/2020",
+            "text": "URBAN",
             "id": 2,
             "bbox": [
-                605,
-                415,
-                640,
-                425
+                564,
+                271,
+                606,
+                281
             ]
         },
         {
-            "text": "447",
+            "text": "XOTIE",
             "id": 3,
             "bbox": [
-                600,
-                429,
-                615,
-                435
+                632,
+                270,
+                670,
+                280
             ]
         },
         {
-            "text": "38",
+            "text": "15/07/2020",
             "id": 4,
             "bbox": [
-                618,
-                426,
-                629,
-                437
-            ]
-        },
-        {
-            "text": "PM",
-            "id": 5,
-            "bbox": [
-                630,
-                425,
-                642,
-                436
-            ]
-        },
-        {
-            "text": "4,750.00",
-            "id": 6,
-            "bbox": [
-                626,
-                605,
-                658,
-                615
-            ]
-        },
-        {
-            "text": "3.050.00",
-            "id": 7,
-            "bbox": [
-                621,
-                554,
-                653,
-                562
-            ]
-        },
-        {
-            "text": "1,700.00",
-            "id": 8,
-            "bbox": [
-                623,
-                565,
-                654,
-                572
-            ]
-        },
-        {
-            "text": "MULE",
-            "id": 9,
-            "bbox": [
-                204,
-                564,
-                225,
-                571
-            ]
-        },
-        {
-            "text": "SUN",
-            "id": 10,
-            "bbox": [
-                204,
-                575,
-                224,
-                584
-            ]
-        },
-        {
-            "text": "J",
-            "id": 11,
-            "bbox": [
-                232,
-                565,
-                247,
-                571
-            ]
-        },
-        {
-            "text": "TW2SOC47VB8",
-            "id": 12,
-            "bbox": [
-                96,
-                562,
-                156,
-                570
-            ]
-        },
-        {
-            "text": "OVA2040",
-            "id": 13,
-            "bbox": [
-                95,
-                573,
-                130,
-                579
+                512,
+                360,
+                558,
+                374
             ]
         },
         {
             "text": "2",
-            "id": 14,
+            "id": 5,
             "bbox": [
-                98,
-                590,
-                102,
-                597
+                566,
+                360,
+                568,
+                371
+            ]
+        },
+        {
+            "text": ":",
+            "id": 6,
+            "bbox": [
+                568,
+                360,
+                570,
+                371
+            ]
+        },
+        {
+            "text": "0",
+            "id": 7,
+            "bbox": [
+                572,
+                360,
+                573,
+                371
+            ]
+        },
+        {
+            "text": "245.00",
+            "id": 8,
+            "bbox": [
+                633,
+                772,
+                664,
+                783
+            ]
+        },
+        {
+            "text": "1.00",
+            "id": 9,
+            "bbox": [
+                352,
+                774,
+                368,
+                782
+            ]
+        },
+        {
+            "text": "34500",
+            "id": 10,
+            "bbox": [
+                632,
+                585,
+                659,
+                596
+            ]
+        },
+        {
+            "text": "100",
+            "id": 11,
+            "bbox": [
+                352,
+                592,
+                366,
+                601
+            ]
+        },
+        {
+            "text": "wiec",
+            "id": 12,
+            "bbox": [
+                168,
+                593,
+                269,
+                602
+            ]
+        },
+        {
+            "text": "RUF2136",
+            "id": 13,
+            "bbox": [
+                123,
+                592,
+                159,
+                602
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MULE",
-                "SUN"
+                "2",
+                ":",
+                "0"
             ],
             "value_id": [
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "J"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7/26/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "VALENTINO"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4,750.00"
-            ],
-            "value_id": [
-                6
+                5,
+                6,
+                7
             ]
         },
         {
@@ -215,27 +152,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TW2SOC47VB8",
-                "OVA2040"
+                "RUF2136"
             ],
             "value_id": [
-                12,
                 13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "447",
-                "38",
-                "PM"
+                "15/07/2020"
             ],
             "value_id": [
-                3,
-                4,
-                5
+                4
             ]
         },
         {
@@ -243,11 +174,68 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3.050.00",
-                "1,700.00"
+                "34500"
             ],
             "value_id": [
-                7,
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "wiec"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MARINA",
+                "URBAN",
+                "XOTIE"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "245.00"
+            ],
+            "value_id": [
                 8
             ]
         }

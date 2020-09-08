@@ -1,156 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "\u0648 \u0648\u0645\u0646",
+            "text": "L'ETO",
             "id": 1,
             "bbox": [
-                342,
-                83,
-                386,
-                101
+                274,
+                235,
+                507,
+                289
             ]
         },
         {
-            "text": "09/07/20",
+            "text": "02Jul",
             "id": 2,
             "bbox": [
-                293,
-                371,
-                351,
-                382
+                329,
+                489,
+                365,
+                510
             ]
         },
         {
-            "text": "05:22:58",
+            "text": "20",
             "id": 3,
             "bbox": [
-                281,
-                389,
-                340,
-                401
+                370,
+                491,
+                390,
+                511
             ]
         },
         {
-            "text": "PM",
+            "text": "21:46",
             "id": 4,
             "bbox": [
-                349,
-                391,
-                363,
-                401
+                399,
+                492,
+                437,
+                514
             ]
         },
         {
-            "text": "169.00",
+            "text": "117.00",
             "id": 5,
             "bbox": [
-                450,
-                678,
-                494,
-                692
+                272,
+                702,
+                323,
+                720
             ]
         },
         {
-            "text": "169.00",
+            "text": "39.00",
             "id": 6,
             "bbox": [
-                462,
-                640,
-                505,
-                651
+                289,
+                549,
+                326,
+                565
             ]
         },
         {
-            "text": "5547822",
+            "text": "78.00",
             "id": 7,
             "bbox": [
-                196,
-                601,
-                249,
-                612
+                287,
+                586,
+                324,
+                605
             ]
         },
         {
-            "text": "RV",
+            "text": "1",
             "id": 8,
             "bbox": [
-                259,
-                601,
-                273,
-                612
+                515,
+                560,
+                517,
+                574
             ]
         },
         {
-            "text": "PLAIN",
+            "text": "2",
             "id": 9,
             "bbox": [
-                283,
-                601,
-                319,
-                612
+                509,
+                600,
+                515,
+                613
             ]
         },
         {
-            "text": "DRESS",
+            "text": "JASMINE",
             "id": 10,
             "bbox": [
-                330,
-                601,
-                366,
-                612
+                373,
+                551,
+                425,
+                571
             ]
         },
         {
-            "text": "DK",
+            "text": "PASSION",
             "id": 11,
             "bbox": [
-                376,
-                601,
-                389,
+                434,
+                553,
+                488,
+                574
+            ]
+        },
+        {
+            "text": "SPANISH",
+            "id": 12,
+            "bbox": [
+                386,
+                590,
+                439,
                 611
             ]
         },
         {
-            "text": "RED",
-            "id": 12,
-            "bbox": [
-                399,
-                601,
-                427,
-                612
-            ]
-        },
-        {
-            "text": "8433575194102",
+            "text": "LATTE",
             "id": 13,
             "bbox": [
-                218,
-                637,
-                312,
-                653
+                448,
+                593,
+                485,
+                613
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5547822",
-                "RV",
-                "PLAIN",
-                "DRESS",
-                "DK",
-                "RED"
+                "21:46"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
+                4
             ]
         },
         {
@@ -158,56 +148,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "09/07/20"
+                "02Jul",
+                "20"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0648 \u0648\u0645\u0646"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "169.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "8433575194102"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "05:22:58",
-                "PM"
-            ],
-            "value_id": [
-                3,
-                4
+                2,
+                3
             ]
         },
         {
@@ -215,10 +161,64 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "169.00"
+                "39.00",
+                "78.00"
             ],
             "value_id": [
-                6
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JASMINE",
+                "PASSION",
+                "SPANISH",
+                "LATTE"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "L'ETO"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "2"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "117.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

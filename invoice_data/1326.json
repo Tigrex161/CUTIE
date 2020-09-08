@@ -1,0 +1,192 @@
+{
+    "text_boxes": [
+        {
+            "text": "AE",
+            "id": 1,
+            "bbox": [
+                50,
+                29,
+                62,
+                39
+            ]
+        },
+        {
+            "text": "D.",
+            "id": 2,
+            "bbox": [
+                66,
+                29,
+                80,
+                39
+            ]
+        },
+        {
+            "text": "Mell",
+            "id": 3,
+            "bbox": [
+                97,
+                29,
+                115,
+                39
+            ]
+        },
+        {
+            "text": "14/07/2020",
+            "id": 4,
+            "bbox": [
+                48,
+                123,
+                97,
+                136
+            ]
+        },
+        {
+            "text": "15:37",
+            "id": 5,
+            "bbox": [
+                109,
+                125,
+                132,
+                138
+            ]
+        },
+        {
+            "text": "0.00",
+            "id": 6,
+            "bbox": [
+                630,
+                294,
+                647,
+                304
+            ]
+        },
+        {
+            "text": "3,623.81",
+            "id": 7,
+            "bbox": [
+                639,
+                235,
+                673,
+                248
+            ]
+        },
+        {
+            "text": "Women",
+            "id": 8,
+            "bbox": [
+                206,
+                220,
+                241,
+                234
+            ]
+        },
+        {
+            "text": "Shoes",
+            "id": 9,
+            "bbox": [
+                245,
+                221,
+                272,
+                234
+            ]
+        },
+        {
+            "text": "KCCOOTEL",
+            "id": 10,
+            "bbox": [
+                41,
+                213,
+                100,
+                229
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:37"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "KCCOOTEL"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14/07/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,623.81"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Women",
+                "Shoes"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AE",
+                "D.",
+                "Mell"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1326.jpg"
+    }
+}

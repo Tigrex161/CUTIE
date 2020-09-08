@@ -1,147 +1,331 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                310,
-                190,
-                390,
-                204
+                262,
+                331,
+                438,
+                386
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "SHOP",
             "id": 2,
             "bbox": [
-                402,
-                188,
-                493,
-                202
+                318,
+                372,
+                344,
+                391
             ]
         },
         {
-            "text": "03/07/20",
+            "text": "NO",
             "id": 3,
             "bbox": [
-                237,
-                414,
-                320,
-                430
+                346,
+                371,
+                360,
+                388
             ]
         },
         {
-            "text": "13:28",
+            "text": ".",
             "id": 4,
             "bbox": [
-                336,
-                413,
-                386,
-                427
+                361,
+                371,
+                367,
+                387
             ]
         },
         {
-            "text": "2,500.00",
+            "text": "GF020",
             "id": 5,
             "bbox": [
-                530,
-                686,
-                609,
-                699
+                367,
+                366,
+                407,
+                387
             ]
         },
         {
-            "text": "2,",
+            "text": "-",
             "id": 6,
             "bbox": [
-                531,
-                586,
-                545,
-                600
+                411,
+                366,
+                415,
+                382
             ]
         },
         {
-            "text": "500.00",
+            "text": "125187",
             "id": 7,
             "bbox": [
-                552,
+                421,
+                362,
+                457,
+                381
+            ]
+        },
+        {
+            "text": "10,000.00",
+            "id": 8,
+            "bbox": [
+                537,
+                546,
                 585,
-                614,
-                598
+                563
             ]
         },
         {
             "text": "1",
-            "id": 8,
-            "bbox": [
-                604,
-                635,
-                609,
-                646
-            ]
-        },
-        {
-            "text": "Luxurious",
             "id": 9,
             "bbox": [
-                185,
-                569,
-                273,
-                580
+                352,
+                570,
+                354,
+                579
             ]
         },
         {
-            "text": "Accessory",
+            "text": "O",
             "id": 10,
             "bbox": [
-                286,
-                569,
-                375,
-                581
+                126,
+                580,
+                128,
+                589
             ]
         },
         {
-            "text": "SHOES",
+            "text": "-",
             "id": 11,
             "bbox": [
-                188,
-                593,
-                235,
-                606
+                135,
+                580,
+                136,
+                589
             ]
         },
         {
-            "text": "GUCCI",
+            "text": "MINI",
             "id": 12,
             "bbox": [
-                249,
-                589,
-                303,
+                138,
+                578,
+                162,
+                589
+            ]
+        },
+        {
+            "text": "BAG",
+            "id": 13,
+            "bbox": [
+                168,
+                577,
+                187,
+                588
+            ]
+        },
+        {
+            "text": "AP6250701B6C3906",
+            "id": 14,
+            "bbox": [
+                127,
+                590,
+                223,
                 606
             ]
         },
         {
-            "text": "SKU",
-            "id": 13,
+            "text": "1",
+            "id": 15,
             "bbox": [
-                309,
-                593,
-                335,
-                604
+                353,
+                601,
+                357,
+                611
             ]
         },
         {
-            "text": "900906467",
-            "id": 14,
+            "text": "10.000.00",
+            "id": 16,
             "bbox": [
-                239,
-                617,
-                326,
-                630
+                481,
+                690,
+                531,
+                704
+            ]
+        },
+        {
+            "text": "huly",
+            "id": 17,
+            "bbox": [
+                368,
+                419,
+                386,
+                435
+            ]
+        },
+        {
+            "text": "11",
+            "id": 18,
+            "bbox": [
+                389,
+                418,
+                398,
+                431
+            ]
+        },
+        {
+            "text": ",",
+            "id": 19,
+            "bbox": [
+                399,
+                418,
+                402,
+                430
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 20,
+            "bbox": [
+                405,
+                414,
+                428,
+                429
+            ]
+        },
+        {
+            "text": "Invoice",
+            "id": 21,
+            "bbox": [
+                388,
+                430,
+                418,
+                445
+            ]
+        },
+        {
+            "text": ":",
+            "id": 22,
+            "bbox": [
+                422,
+                430,
+                425,
+                440
+            ]
+        },
+        {
+            "text": "19:53",
+            "id": 23,
+            "bbox": [
+                434,
+                407,
+                459,
+                424
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:53"
+            ],
+            "value_id": [
+                23
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AP6250701B6C3906"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10,000.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "huly",
+                "11",
+                ",",
+                "2020",
+                "Invoice",
+                ":"
+            ],
+            "value_id": [
+                17,
+                18,
+                19,
+                20,
+                21,
+                22
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "O",
+                "-",
+                "MINI",
+                "BAG"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL",
+                "SHOP",
+                "NO",
+                ".",
+                "GF020",
+                "-",
+                "125187"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
         {
             "field_name": "total_items",
             "key_id": [],
@@ -150,50 +334,18 @@
                 "1"
             ],
             "value_id": [
-                8
+                15
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Luxurious",
-                "Accessory",
-                "SHOES",
-                "GUCCI",
-                "SKU"
+                "1"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "03/07/20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
+                9
             ]
         },
         {
@@ -201,45 +353,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,500.00"
+                "10.000.00"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900906467"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:28"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,",
-                "500.00"
-            ],
-            "value_id": [
-                6,
-                7
+                16
             ]
         }
     ],

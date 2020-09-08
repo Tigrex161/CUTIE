@@ -1,188 +1,190 @@
 {
     "text_boxes": [
         {
-            "text": "Jun,",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                638,
-                512,
-                675,
-                523
+                331,
+                158,
+                389,
+                177
             ]
         },
         {
-            "text": "2020",
+            "text": "HOME",
             "id": 2,
             "bbox": [
-                692,
-                512,
-                731,
-                522
+                404,
+                158,
+                467,
+                177
             ]
         },
         {
-            "text": "14:03",
+            "text": "2010-07-01",
             "id": 3,
             "bbox": [
-                747,
-                512,
-                796,
-                522
+                287,
+                284,
+                340,
+                299
             ]
         },
         {
-            "text": "320.00",
+            "text": "\u0627\u0644",
             "id": 4,
             "bbox": [
-                828,
-                878,
-                889,
-                891
+                362,
+                284,
+                369,
+                299
             ]
         },
         {
-            "text": "320.00",
+            "text": ":",
             "id": 5,
             "bbox": [
-                848,
-                740,
-                910,
-                754
+                355,
+                284,
+                358,
+                299
+            ]
+        },
+        {
+            "text": "11",
+            "id": 6,
+            "bbox": [
+                346,
+                284,
+                353,
+                299
+            ]
+        },
+        {
+            "text": "14",
+            "id": 7,
+            "bbox": [
+                459,
+                436,
+                467,
+                445
+            ]
+        },
+        {
+            "text": "140",
+            "id": 8,
+            "bbox": [
+                460,
+                339,
+                473,
+                348
             ]
         },
         {
             "text": "1",
-            "id": 6,
-            "bbox": [
-                565,
-                743,
-                571,
-                755
-            ]
-        },
-        {
-            "text": "CD4366-002:",
-            "id": 7,
-            "bbox": [
-                82,
-                705,
-                185,
-                725
-            ]
-        },
-        {
-            "text": "NKE.002:9.5:AIR",
-            "id": 8,
-            "bbox": [
-                191,
-                705,
-                350,
-                725
-            ]
-        },
-        {
-            "text": "FORCE",
             "id": 9,
             "bbox": [
-                361,
-                708,
-                411,
-                720
+                350,
+                340,
+                352,
+                348
             ]
         },
         {
             "text": "1",
             "id": 10,
             "bbox": [
-                431,
-                705,
-                448,
-                723
+                371,
+                382,
+                373,
+                390
             ]
         },
         {
-            "text": "is",
+            "text": "\u0648",
             "id": 11,
             "bbox": [
-                643,
-                708,
-                680,
-                718
+                403,
+                352,
+                405,
+                363
             ]
         },
         {
-            "text": "052724927657",
+            "text": "\u0648",
             "id": 12,
             "bbox": [
-                70,
-                742,
-                198,
-                759
+                398,
+                352,
+                400,
+                363
+            ]
+        },
+        {
+            "text": "12",
+            "id": 13,
+            "bbox": [
+                386,
+                352,
+                394,
+                363
+            ]
+        },
+        {
+            "text": "442070501290",
+            "id": 14,
+            "bbox": [
+                340,
+                352,
+                406,
+                367
+            ]
+        },
+        {
+            "text": "AnanIt",
+            "id": 15,
+            "bbox": [
+                418,
+                352,
+                458,
+                367
+            ]
+        },
+        {
+            "text": "two",
+            "id": 16,
+            "bbox": [
+                465,
+                352,
+                484,
+                367
+            ]
+        },
+        {
+            "text": "10001431",
+            "id": 17,
+            "bbox": [
+                288,
+                352,
+                327,
+                367
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CD4366-002:",
-                "NKE.002:9.5:AIR",
-                "FORCE",
-                "1"
+                "\u0627\u0644",
+                ":",
+                "11"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "is"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
+                4,
+                5,
                 6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jun,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "320.00"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -190,18 +192,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "052724927657"
+                "10001431"
             ],
             "value_id": [
-                12
+                17
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14:03"
+                "2010-07-01"
             ],
             "value_id": [
                 3
@@ -212,10 +214,77 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "320.00"
+                "140"
             ],
             "value_id": [
-                5
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0648",
+                "\u0648",
+                "12",
+                "442070501290",
+                "AnanIt",
+                "two"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA",
+                "HOME"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

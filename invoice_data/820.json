@@ -1,167 +1,295 @@
 {
     "text_boxes": [
         {
-            "text": "Urban",
+            "text": "HERMES",
             "id": 1,
             "bbox": [
-                232,
-                199,
-                277,
-                219
+                120,
+                37,
+                281,
+                92
             ]
         },
         {
-            "text": "outfitters",
+            "text": "07/15/2020",
             "id": 2,
             "bbox": [
-                293,
-                205,
-                399,
-                226
+                485,
+                134,
+                543,
+                150
             ]
         },
         {
-            "text": "Dubai",
+            "text": "08:57",
             "id": 3,
             "bbox": [
-                410,
-                204,
-                468,
-                223
+                485,
+                157,
+                513,
+                171
             ]
         },
         {
-            "text": "Mall",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                482,
-                198,
-                523,
-                218
+                518,
+                159,
+                534,
+                172
             ]
         },
         {
-            "text": "16/07/2020",
+            "text": "2,740.00",
             "id": 5,
             "bbox": [
-                345,
-                1058,
-                422,
-                1084
+                524,
+                803,
+                577,
+                821
             ]
         },
         {
-            "text": "2117:59PM",
+            "text": "2.740.00",
             "id": 6,
             "bbox": [
-                472,
-                1060,
-                549,
-                1074
+                620,
+                367,
+                665,
+                384
             ]
         },
         {
-            "text": "165.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                496,
-                627,
-                547,
-                639
+                560,
+                368,
+                562,
+                377
             ]
         },
         {
-            "text": "165.0",
+            "text": "22302",
             "id": 8,
             "bbox": [
-                515,
-                542,
-                550,
-                554
+                61,
+                334,
+                104,
+                352
             ]
         },
         {
             "text": "1",
             "id": 9,
             "bbox": [
-                297,
-                592,
-                302,
-                598
+                573,
+                727,
+                575,
+                736
             ]
         },
         {
-            "text": "M",
+            "text": "WOMEN",
             "id": 10,
             "bbox": [
-                334,
-                525,
+                132,
                 340,
-                533
+                184,
+                361
             ]
         },
         {
-            "text": "TOPS",
+            "text": "SHOES",
             "id": 11,
             "bbox": [
-                350,
-                525,
-                382,
-                534
+                187,
+                344,
+                230,
+                365
             ]
         },
         {
-            "text": "7264",
+            "text": "-",
             "id": 12,
             "bbox": [
-                190,
-                520,
-                221,
-                532
+                234,
+                348,
+                237,
+                365
             ]
         },
         {
-            "text": "9064",
+            "text": "SANDALS",
             "id": 13,
             "bbox": [
-                226,
-                522,
-                257,
-                533
+                242,
+                348,
+                298,
+                370
             ]
         },
         {
-            "text": "L)",
+            "text": "415",
             "id": 14,
             "bbox": [
-                411,
-                526,
-                449,
-                538
+                300,
+                353,
+                320,
+                371
             ]
         },
         {
-            "text": "3",
+            "text": "D4",
             "id": 15,
             "bbox": [
-                504,
-                527,
-                508,
-                535
+                325,
+                355,
+                338,
+                373
             ]
         },
         {
-            "text": "LA",
+            "text": "ROUGE",
             "id": 16,
             "bbox": [
-                521,
-                523,
-                553,
-                534
+                343,
+                356,
+                382,
+                377
+            ]
+        },
+        {
+            "text": "TOMETTE",
+            "id": 17,
+            "bbox": [
+                385,
+                359,
+                440,
+                381
+            ]
+        },
+        {
+            "text": "2022302",
+            "id": 18,
+            "bbox": [
+                139,
+                354,
+                182,
+                371
+            ]
+        },
+        {
+            "text": "D4415",
+            "id": 19,
+            "bbox": [
+                186,
+                358,
+                218,
+                374
+            ]
+        },
+        {
+            "text": "WLZXK",
+            "id": 20,
+            "bbox": [
+                271,
+                365,
+                307,
+                380
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08:57",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22302"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/15/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.740.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WOMEN",
+                "SHOES",
+                "-",
+                "SANDALS",
+                "415",
+                "D4",
+                "ROUGE",
+                "TOMETTE",
+                "2022302",
+                "D4415",
+                "WLZXK"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HERMES"
+            ],
+            "value_id": [
+                1
+            ]
+        },
         {
             "field_name": "total_items",
             "key_id": [],
@@ -174,59 +302,14 @@
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "M",
-                "TOPS"
+                "1"
             ],
             "value_id": [
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "L)",
-                "3",
-                "LA"
-            ],
-            "value_id": [
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16/07/2020"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Urban",
-                "outfitters",
-                "Dubai",
-                "Mall"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4
+                7
             ]
         },
         {
@@ -234,45 +317,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "165.00"
+                "2,740.00"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7264",
-                "9064"
-            ],
-            "value_id": [
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2117:59PM"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "165.0"
-            ],
-            "value_id": [
-                8
+                5
             ]
         }
     ],

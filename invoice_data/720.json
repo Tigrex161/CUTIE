@@ -1,306 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "HERM\u00c8S",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                131,
-                290,
-                262,
-                322
+                291,
+                287,
+                506,
+                331
             ]
         },
         {
-            "text": "07/15/2020",
+            "text": "July",
             "id": 2,
             "bbox": [
-                461,
-                352,
-                510,
-                360
+                422,
+                387,
+                442,
+                400
             ]
         },
         {
-            "text": "05.45",
+            "text": "9",
             "id": 3,
             "bbox": [
-                460,
-                373,
-                484,
-                381
+                447,
+                387,
+                456,
+                400
             ]
         },
         {
-            "text": "PM",
+            "text": ",",
             "id": 4,
             "bbox": [
-                489,
-                372,
-                502,
-                380
+                460,
+                387,
+                462,
+                400
             ]
         },
         {
-            "text": "655.00",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                516,
-                908,
-                549,
-                918
+                468,
+                387,
+                493,
+                400
             ]
         },
         {
-            "text": "655.00",
+            "text": "11:39",
             "id": 6,
             "bbox": [
-                588,
-                552,
-                618,
-                560
+                504,
+                387,
+                533,
+                400
             ]
         },
         {
-            "text": "V34504",
+            "text": "2,388.00",
             "id": 7,
             "bbox": [
-                100,
-                554,
-                136,
-                562
+                549,
+                718,
+                601,
+                732
             ]
         },
         {
-            "text": "Rose",
+            "text": "2,388,00",
             "id": 8,
             "bbox": [
-                173,
-                554,
-                197,
-                562
+                623,
+                555,
+                672,
+                572
             ]
         },
         {
-            "text": "Amazone",
+            "text": "1",
             "id": 9,
             "bbox": [
-                200,
-                555,
-                242,
-                562
+                391,
+                558,
+                394,
+                573
             ]
         },
         {
-            "text": "Eau",
+            "text": "1",
             "id": 10,
             "bbox": [
-                247,
-                554,
-                263,
-                562
+                392,
+                598,
+                395,
+                610
             ]
         },
         {
-            "text": "de",
+            "text": "THONGS",
             "id": 11,
             "bbox": [
-                267,
-                556,
-                277,
-                563
+                118,
+                559,
+                168,
+                572
             ]
         },
         {
-            "text": "Tolette",
+            "text": "63443374779304455",
             "id": 12,
             "bbox": [
-                281,
-                555,
-                312,
-                563
+                117,
+                573,
+                237,
+                591
             ]
         },
         {
-            "text": "Vaporisateur",
+            "text": "10C",
             "id": 13,
             "bbox": [
-                316,
-                556,
-                370,
-                564
-            ]
-        },
-        {
-            "text": "100mi",
-            "id": 14,
-            "bbox": [
-                375,
-                556,
-                400,
-                562
-            ]
-        },
-        {
-            "text": "\u0623\u0648",
-            "id": 15,
-            "bbox": [
-                430,
-                539,
-                435,
-                549
-            ]
-        },
-        {
-            "text": "\u062f\u0648",
-            "id": 16,
-            "bbox": [
-                418,
-                542,
-                425,
-                549
-            ]
-        },
-        {
-            "text": "\u062a\u0648\u0627\u0644\u064a\u062a",
-            "id": 17,
-            "bbox": [
-                391,
-                540,
-                413,
-                549
-            ]
-        },
-        {
-            "text": "\u0648\u0631\u062f\u064a",
-            "id": 18,
-            "bbox": [
-                366,
-                543,
-                387,
-                551
-            ]
-        },
-        {
-            "text": "\u0627\u0645\u0627\u0632\u0648\u0646",
-            "id": 19,
-            "bbox": [
-                337,
-                539,
-                361,
-                550
-            ]
-        },
-        {
-            "text": "\u0633\u0628\u0631\u0627\u06cc",
-            "id": 20,
-            "bbox": [
-                310,
-                540,
-                333,
-                551
-            ]
-        },
-        {
-            "text": "\u06f0\u06f0",
-            "id": 21,
-            "bbox": [
-                290,
-                541,
-                303,
-                546
-            ]
-        },
-        {
-            "text": "\u0645\u0644",
-            "id": 22,
-            "bbox": [
-                278,
-                539,
-                288,
-                549
+                244,
+                573,
+                263,
+                591
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Rose",
-                "Amazone",
-                "Eau",
-                "de",
-                "Tolette",
-                "Vaporisateur",
-                "100mi"
+                "11:39"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0623\u0648",
-                "\u062f\u0648",
-                "\u062a\u0648\u0627\u0644\u064a\u062a",
-                "\u0648\u0631\u062f\u064a",
-                "\u0627\u0645\u0627\u0632\u0648\u0646",
-                "\u0633\u0628\u0631\u0627\u06cc",
-                "\u06f0\u06f0",
-                "\u0645\u0644"
-            ],
-            "value_id": [
-                15,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21,
-                22
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "07/15/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "HERM\u00c8S"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "655.00"
-            ],
-            "value_id": [
-                5
+                6
             ]
         },
         {
@@ -308,23 +148,29 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "V34504"
+                "63443374779304455",
+                "10C"
             ],
             "value_id": [
-                7
+                12,
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "05.45",
-                "PM"
+                "July",
+                "9",
+                ",",
+                "2020"
             ],
             "value_id": [
+                2,
                 3,
-                4
+                4,
+                5
             ]
         },
         {
@@ -332,10 +178,65 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "655.00"
+                "2,388,00"
             ],
             "value_id": [
-                6
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "THONGS"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,388.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

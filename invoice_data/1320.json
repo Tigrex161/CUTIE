@@ -1,0 +1,318 @@
+{
+    "text_boxes": [
+        {
+            "text": "MINUTE",
+            "id": 1,
+            "bbox": [
+                253,
+                142,
+                474,
+                188
+            ]
+        },
+        {
+            "text": "\u0627\u0645\u062f\u0627\u062f",
+            "id": 2,
+            "bbox": [
+                512,
+                145,
+                535,
+                159
+            ]
+        },
+        {
+            "text": "\u0645\u0646\u0645",
+            "id": 3,
+            "bbox": [
+                463,
+                148,
+                494,
+                162
+            ]
+        },
+        {
+            "text": "\u0627\u0646\u0647",
+            "id": 4,
+            "bbox": [
+                470,
+                159,
+                546,
+                169
+            ]
+        },
+        {
+            "text": "\u0645\u0646",
+            "id": 5,
+            "bbox": [
+                468,
+                159,
+                476,
+                169
+            ]
+        },
+        {
+            "text": "2001",
+            "id": 6,
+            "bbox": [
+                354,
+                414,
+                392,
+                433
+            ]
+        },
+        {
+            "text": "\u0631\u0623\u0629",
+            "id": 7,
+            "bbox": [
+                337,
+                416,
+                353,
+                433
+            ]
+        },
+        {
+            "text": "-2",
+            "id": 8,
+            "bbox": [
+                311,
+                418,
+                323,
+                435
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 9,
+            "bbox": [
+                418,
+                411,
+                429,
+                429
+            ]
+        },
+        {
+            "text": ":",
+            "id": 10,
+            "bbox": [
+                392,
+                414,
+                397,
+                430
+            ]
+        },
+        {
+            "text": "40",
+            "id": 11,
+            "bbox": [
+                396,
+                412,
+                411,
+                430
+            ]
+        },
+        {
+            "text": "100.00",
+            "id": 12,
+            "bbox": [
+                542,
+                752,
+                591,
+                766
+            ]
+        },
+        {
+            "text": "100.00",
+            "id": 13,
+            "bbox": [
+                543,
+                570,
+                589,
+                587
+            ]
+        },
+        {
+            "text": "\u062c",
+            "id": 14,
+            "bbox": [
+                266,
+                579,
+                271,
+                598
+            ]
+        },
+        {
+            "text": "2",
+            "id": 15,
+            "bbox": [
+                266,
+                579,
+                271,
+                598
+            ]
+        },
+        {
+            "text": "2",
+            "id": 16,
+            "bbox": [
+                265,
+                603,
+                279,
+                622
+            ]
+        },
+        {
+            "text": "MAXELL",
+            "id": 17,
+            "bbox": [
+                287,
+                578,
+                335,
+                598
+            ]
+        },
+        {
+            "text": "\u0628\u0637\u0627\u0631\u064a\u0627\u062a",
+            "id": 18,
+            "bbox": [
+                395,
+                575,
+                437,
+                596
+            ]
+        },
+        {
+            "text": "\u0645\u0627\u0643\u0633\u064a\u0644",
+            "id": 19,
+            "bbox": [
+                342,
+                576,
+                388,
+                597
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PM",
+                ":",
+                "40"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2001",
+                "\u0631\u0623\u0629",
+                "-2"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100.00"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0628\u0637\u0627\u0631\u064a\u0627\u062a",
+                "\u0645\u0627\u0643\u0633\u064a\u0644"
+            ],
+            "value_id": [
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MAXELL"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MINUTE",
+                "\u0627\u0645\u062f\u0627\u062f",
+                "\u0645\u0646\u0645",
+                "\u0627\u0646\u0647",
+                "\u0645\u0646"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062c",
+                "2"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100.00"
+            ],
+            "value_id": [
+                12
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1320.jpg"
+    }
+}

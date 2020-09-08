@@ -1,237 +1,200 @@
 {
     "text_boxes": [
         {
-            "text": "Next",
+            "text": "MARLI",
             "id": 1,
             "bbox": [
-                247,
-                224,
-                289,
-                243
+                309,
+                227,
+                416,
+                258
             ]
         },
         {
-            "text": "Dubai",
+            "text": "NEW",
             "id": 2,
             "bbox": [
-                297,
-                227,
-                350,
-                245
+                335,
+                262,
+                356,
+                270
             ]
         },
         {
-            "text": "Mall",
+            "text": "YOR",
             "id": 3,
             "bbox": [
-                359,
-                226,
-                396,
-                242
+                364,
+                262,
+                384,
+                270
             ]
         },
         {
             "text": "01/07/2020",
             "id": 4,
             "bbox": [
-                401,
-                678,
-                494,
-                696
+                518,
+                325,
+                583,
+                349
             ]
         },
         {
-            "text": "20:14",
+            "text": "6,500.00",
             "id": 5,
             "bbox": [
-                502,
-                673,
-                545,
-                697
+                595,
+                696,
+                638,
+                710
             ]
         },
         {
-            "text": "140.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                500,
-                1091,
-                555,
-                1115
+                557,
+                702,
+                560,
+                710
             ]
         },
         {
-            "text": "140.00",
+            "text": "6,500.00",
             "id": 7,
             "bbox": [
-                494,
-                960,
-                548,
-                979
+                603,
+                474,
+                646,
+                491
             ]
         },
         {
-            "text": "1.0",
+            "text": "1",
             "id": 8,
             "bbox": [
-                389,
-                960,
-                411,
-                978
+                544,
+                488,
+                546,
+                496
             ]
         },
         {
-            "text": "1.0",
+            "text": "Marli",
             "id": 9,
             "bbox": [
-                387,
-                1092,
-                411,
-                1111
+                236,
+                501,
+                258,
+                514
             ]
         },
         {
-            "text": "WRAP",
+            "text": "Huggle",
             "id": 10,
             "bbox": [
-                69,
-                874,
-                128,
-                892
+                261,
+                501,
+                292,
+                514
             ]
         },
         {
-            "text": "MIDI",
+            "text": "Earrings",
             "id": 11,
             "bbox": [
-                135,
-                874,
-                175,
-                892
+                296,
+                501,
+                332,
+                514
             ]
         },
         {
-            "text": "PINK",
+            "text": ",",
             "id": 12,
             "bbox": [
-                184,
-                873,
-                227,
-                892
+                333,
+                501,
+                335,
+                514
             ]
         },
         {
-            "text": "SPOT",
+            "text": "18K",
             "id": 13,
             "bbox": [
-                236,
-                873,
-                287,
-                892
+                339,
+                501,
+                355,
+                514
             ]
         },
         {
-            "text": "X-775996",
+            "text": "Yellow",
             "id": 14,
             "bbox": [
-                65,
-                961,
-                149,
-                982
+                358,
+                500,
+                386,
+                514
             ]
         },
         {
-            "text": "11",
+            "text": "Gold",
             "id": 15,
             "bbox": [
-                161,
-                963,
-                175,
-                981
+                389,
+                500,
+                408,
+                513
             ]
         },
         {
-            "text": "YRS",
+            "text": "CLEO",
             "id": 16,
             "bbox": [
-                186,
-                962,
-                224,
-                981
+                129,
+                502,
+                154,
+                516
             ]
         },
         {
-            "text": "\u0641\u0633\u062a\u0627\u0646",
+            "text": "-",
             "id": 17,
             "bbox": [
-                111,
-                902,
-                154,
-                923
+                158,
+                503,
+                160,
+                515
             ]
         },
         {
-            "text": "\u0628\u0646\u0627\u062a",
+            "text": "E20YGGA",
             "id": 18,
             "bbox": [
-                69,
-                904,
-                103,
-                922
+                161,
+                501,
+                207,
+                515
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.0"
+                "CLEO",
+                "-",
+                "E20YGGA"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "WRAP",
-                "MIDI",
-                "PINK",
-                "SPOT"
-            ],
-            "value_id": [
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0641\u0633\u062a\u0627\u0646",
-                "\u0628\u0646\u0627\u062a"
-            ],
-            "value_id": [
+                16,
                 17,
                 18
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.0"
-            ],
-            "value_id": [
-                8
             ]
         },
         {
@@ -246,13 +209,47 @@
             ]
         },
         {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6,500.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Marli",
+                "Huggle",
+                "Earrings",
+                ",",
+                "18K",
+                "Yellow",
+                "Gold"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Next",
-                "Dubai",
-                "Mall"
+                "MARLI",
+                "NEW",
+                "YOR"
             ],
             "value_id": [
                 1,
@@ -261,51 +258,36 @@
             ]
         },
         {
-            "field_name": "total",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "140.00"
+                "1"
             ],
             "value_id": [
                 6
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "X-775996",
-                "11",
-                "YRS"
+                "1"
             ],
             "value_id": [
-                14,
-                15,
-                16
+                8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:14"
+                "6,500.00"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "140.00"
-            ],
-            "value_id": [
-                7
             ]
         }
     ],

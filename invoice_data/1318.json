@@ -1,0 +1,237 @@
+{
+    "text_boxes": [
+        {
+            "text": "SJP",
+            "id": 1,
+            "bbox": [
+                242,
+                121,
+                275,
+                137
+            ]
+        },
+        {
+            "text": "by",
+            "id": 2,
+            "bbox": [
+                283,
+                121,
+                301,
+                137
+            ]
+        },
+        {
+            "text": "Sarah",
+            "id": 3,
+            "bbox": [
+                308,
+                120,
+                356,
+                136
+            ]
+        },
+        {
+            "text": "Jessica",
+            "id": 4,
+            "bbox": [
+                364,
+                118,
+                427,
+                135
+            ]
+        },
+        {
+            "text": "Parker",
+            "id": 5,
+            "bbox": [
+                435,
+                117,
+                490,
+                134
+            ]
+        },
+        {
+            "text": "24-07-20",
+            "id": 6,
+            "bbox": [
+                344,
+                511,
+                423,
+                531
+            ]
+        },
+        {
+            "text": "12:24:49",
+            "id": 7,
+            "bbox": [
+                347,
+                537,
+                422,
+                558
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 8,
+            "bbox": [
+                429,
+                537,
+                456,
+                556
+            ]
+        },
+        {
+            "text": "1,603.00",
+            "id": 9,
+            "bbox": [
+                472,
+                780,
+                546,
+                800
+            ]
+        },
+        {
+            "text": "2290.00",
+            "id": 10,
+            "bbox": [
+                498,
+                686,
+                573,
+                705
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                543,
+                885,
+                546,
+                901
+            ]
+        },
+        {
+            "text": "2000002000033419",
+            "id": 12,
+            "bbox": [
+                180,
+                688,
+                350,
+                709
+            ]
+        },
+        {
+            "text": "200000",
+            "id": 13,
+            "bbox": [
+                299,
+                664,
+                361,
+                682
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:24:49",
+                "PM"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "200000"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24-07-20"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2290.00"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2000002000033419"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SJP",
+                "by",
+                "Sarah",
+                "Jessica",
+                "Parker"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,603.00"
+            ],
+            "value_id": [
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1318.jpg"
+    }
+}

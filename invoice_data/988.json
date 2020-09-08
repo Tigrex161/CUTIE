@@ -1,159 +1,157 @@
 {
     "text_boxes": [
         {
-            "text": "hristian",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                324,
-                90,
-                371,
-                108
+                304,
+                280,
+                445,
+                325
             ]
         },
         {
-            "text": "07/18/2020",
+            "text": "22",
             "id": 2,
             "bbox": [
-                534,
-                126,
-                583,
-                138
+                173,
+                915,
+                181,
+                926
             ]
         },
         {
-            "text": "1,795.00",
+            "text": "duly",
             "id": 3,
             "bbox": [
-                568,
-                616,
-                612,
-                627
+                184,
+                915,
+                198,
+                925
             ]
         },
         {
-            "text": "1,795.00",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                610,
-                421,
-                645,
-                430
+                201,
+                915,
+                219,
+                925
             ]
         },
         {
-            "text": "PLANET",
+            "text": "12:48",
             "id": 5,
             "bbox": [
-                67,
-                427,
-                108,
-                435
+                223,
+                914,
+                242,
+                925
             ]
         },
         {
-            "text": "CHOC",
+            "text": "1.940.00",
             "id": 6,
             "bbox": [
-                113,
-                426,
-                143,
-                435
+                565,
+                758,
+                595,
+                768
             ]
         },
         {
-            "text": "80",
+            "text": "1.940.00",
             "id": 7,
             "bbox": [
-                148,
-                426,
-                159,
-                434
+                560,
+                581,
+                591,
+                591
             ]
         },
         {
-            "text": "WISPECC",
+            "text": "1",
             "id": 8,
             "bbox": [
-                163,
-                426,
-                217,
-                434
+                472,
+                585,
+                473,
+                592
             ]
         },
         {
-            "text": "BK65",
+            "text": "Men",
             "id": 9,
             "bbox": [
-                222,
-                427,
-                247,
-                434
+                269,
+                591,
+                282,
+                601
             ]
         },
         {
-            "text": "BLACK",
+            "text": "gewar",
             "id": 10,
             "bbox": [
-                251,
-                426,
-                285,
-                434
+                288,
+                591,
+                318,
+                601
             ]
         },
         {
-            "text": "36",
+            "text": "Man",
             "id": 11,
             "bbox": [
-                289,
-                427,
-                299,
-                434
+                336,
+                590,
+                350,
+                598
             ]
         },
         {
-            "text": "1.",
+            "text": "las",
             "id": 12,
             "bbox": [
-                127,
-                684,
-                129,
-                692
+                354,
+                590,
+                382,
+                598
+            ]
+        },
+        {
+            "text": "SCALE",
+            "id": 13,
+            "bbox": [
+                116,
+                593,
+                142,
+                602
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PLANET",
-                "CHOC",
-                "80",
-                "WISPECC",
-                "BK65",
-                "BLACK",
-                "36"
+                "12:48"
             ],
             "value_id": [
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
+                5
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1."
+                "SCALE"
             ],
             "value_id": [
-                12
+                13
             ]
         },
         {
@@ -161,32 +159,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07/18/2020"
+                "22",
+                "duly",
+                "2020"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "hristian"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,795.00"
-            ],
-            "value_id": [
-                3
+                2,
+                3,
+                4
             ]
         },
         {
@@ -194,10 +174,60 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,795.00"
+                "1.940.00"
             ],
             "value_id": [
-                4
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Men",
+                "gewar",
+                "Man",
+                "las"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.940.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

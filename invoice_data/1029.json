@@ -1,181 +1,206 @@
 {
     "text_boxes": [
         {
-            "text": "Van",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                243,
-                147,
-                293,
-                169
+                372,
+                177,
+                406,
+                192
             ]
         },
         {
-            "text": "Cleef",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                305,
-                146,
-                378,
-                169
+                410,
+                177,
+                464,
+                192
             ]
         },
         {
-            "text": "&",
+            "text": "23/09/2020",
             "id": 3,
             "bbox": [
-                387,
-                151,
-                404,
-                168
+                549,
+                360,
+                602,
+                372
             ]
         },
         {
-            "text": "Arpels",
+            "text": "17:07",
             "id": 4,
             "bbox": [
-                416,
-                144,
-                501,
-                174
+                620,
+                360,
+                646,
+                371
             ]
         },
         {
-            "text": "26/07/2020",
+            "text": "20.00",
             "id": 5,
             "bbox": [
-                86,
-                714,
-                132,
-                722
+                679,
+                563,
+                710,
+                571
             ]
         },
         {
-            "text": "17",
+            "text": "730.00",
             "id": 6,
             "bbox": [
-                136,
-                714,
-                144,
-                721
+                677,
+                415,
+                708,
+                424
             ]
         },
         {
-            "text": "56,500.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                650,
-                558,
-                684,
-                565
+                329,
+                420,
+                333,
+                427
             ]
         },
         {
-            "text": "56.500.00",
+            "text": "LP056",
             "id": 8,
             "bbox": [
-                651,
-                512,
-                685,
-                520
+                120,
+                422,
+                149,
+                431
             ]
         },
         {
-            "text": "IRE",
+            "text": "ORA",
             "id": 9,
             "bbox": [
-                97,
-                503,
-                109,
-                508
+                161,
+                422,
+                176,
+                431
             ]
         },
         {
-            "text": "MAGIC",
+            "text": "FILL",
             "id": 10,
             "bbox": [
-                112,
-                503,
-                133,
-                508
+                182,
+                421,
+                212,
+                431
             ]
         },
         {
-            "text": "AL",
+            "text": "100ML",
             "id": 11,
             "bbox": [
-                136,
-                504,
-                143,
-                509
+                218,
+                421,
+                243,
+                430
             ]
         },
         {
-            "text": "I",
+            "text": "OP",
             "id": 12,
             "bbox": [
-                145,
-                503,
-                148,
-                508
+                249,
+                421,
+                264,
+                430
             ]
         },
         {
-            "text": "MOPO",
+            "text": "PERUG",
             "id": 13,
             "bbox": [
-                151,
-                503,
-                172,
-                508
+                121,
+                431,
+                154,
+                440
             ]
         },
         {
-            "text": "GMOP",
+            "text": "NO",
             "id": 14,
             "bbox": [
-                175,
-                503,
-                195,
-                508
+                167,
+                431,
+                177,
+                440
             ]
         },
         {
-            "text": "OPAV",
+            "text": "STOCK",
             "id": 15,
             "bbox": [
-                198,
-                503,
-                215,
-                508
-            ]
-        },
-        {
-            "text": "ARP2R200",
-            "id": 16,
-            "bbox": [
-                141,
-                513,
-                180,
-                519
+                183,
+                431,
+                211,
+                440
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:07"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23/09/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "730.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "IRE",
-                "MAGIC",
-                "AL",
-                "I",
-                "MOPO",
-                "GMOP",
-                "OPAV"
+                "LP056",
+                "ORA",
+                "FILL",
+                "100ML",
+                "OP",
+                "PERUG",
+                "NO",
+                "STOCK"
             ],
             "value_id": [
+                8,
                 9,
                 10,
                 11,
@@ -186,31 +211,27 @@
             ]
         },
         {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "26/07/2020"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Van",
-                "Cleef",
-                "&",
-                "Arpels"
+                "LOUIS",
+                "VUITTON"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
             ]
         },
         {
@@ -218,43 +239,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "56,500.00"
+                "20.00"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ARP2R200"
-            ],
-            "value_id": [
-                16
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "56.500.00"
-            ],
-            "value_id": [
-                8
+                5
             ]
         }
     ],

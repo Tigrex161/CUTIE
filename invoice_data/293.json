@@ -1,226 +1,106 @@
 {
     "text_boxes": [
         {
-            "text": "10/07/20",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                277,
-                399,
-                341,
-                416
+                310,
+                70,
+                433,
+                128
             ]
         },
         {
-            "text": "18:35",
+            "text": "30-06-2020",
             "id": 2,
             "bbox": [
-                351,
-                403,
-                390,
+                223,
+                326,
+                296,
+                346
+            ]
+        },
+        {
+            "text": "11:53",
+            "id": 3,
+            "bbox": [
+                307,
+                328,
+                340,
+                347
+            ]
+        },
+        {
+            "text": "199",
+            "id": 4,
+            "bbox": [
+                470,
+                406,
+                489,
                 418
             ]
         },
         {
-            "text": "560.",
-            "id": 3,
-            "bbox": [
-                489,
-                719,
-                531,
-                738
-            ]
-        },
-        {
-            "text": "15",
-            "id": 4,
-            "bbox": [
-                530,
-                720,
-                546,
-                733
-            ]
-        },
-        {
-            "text": "485.00",
+            "text": "1",
             "id": 5,
             "bbox": [
-                507,
-                554,
-                554,
-                565
+                313,
+                408,
+                316,
+                418
             ]
         },
         {
-            "text": "174",
+            "text": "0738530040603",
             "id": 6,
             "bbox": [
-                505,
-                611,
-                526,
-                620
+                297,
+                422,
+                392,
+                440
             ]
         },
         {
-            "text": "00",
+            "text": "DRESS",
             "id": 7,
             "bbox": [
-                537,
-                610,
-                552,
-                619
+                409,
+                423,
+                445,
+                439
             ]
         },
         {
-            "text": "Beauty",
+            "text": "2",
             "id": 8,
             "bbox": [
-                213,
-                521,
-                262,
-                536
+                342,
+                466,
+                347,
+                478
             ]
         },
         {
-            "text": "CRM",
+            "text": "10001411",
             "id": 9,
             "bbox": [
-                212,
-                542,
-                236,
-                555
-            ]
-        },
-        {
-            "text": "GENEFIQUE",
-            "id": 10,
-            "bbox": [
-                245,
-                544,
-                316,
-                560
-            ]
-        },
-        {
-            "text": "ACT",
-            "id": 11,
-            "bbox": [
-                328,
-                549,
-                349,
-                560
-            ]
-        },
-        {
-            "text": "JE",
-            "id": 12,
-            "bbox": [
-                360,
-                551,
-                374,
-                563
-            ]
-        },
-        {
-            "text": "SET",
-            "id": 13,
-            "bbox": [
-                210,
-                605,
-                232,
-                618
-            ]
-        },
-        {
-            "text": "DRENCHD",
-            "id": 14,
-            "bbox": [
-                243,
-                607,
-                297,
-                619
-            ]
-        },
-        {
-            "text": "IN",
-            "id": 15,
-            "bbox": [
-                309,
-                610,
-                322,
-                620
-            ]
-        },
-        {
-            "text": "MOIST",
-            "id": 16,
-            "bbox": [
-                332,
-                610,
-                369,
-                622
-            ]
-        },
-        {
-            "text": "900974246",
-            "id": 17,
-            "bbox": [
-                255,
-                625,
-                320,
-                641
+                216,
+                423,
+                279,
+                441
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Beauty",
-                "CRM",
-                "GENEFIQUE",
-                "ACT",
-                "JE",
-                "SET",
-                "DRENCHD",
-                "IN",
-                "MOIST"
+                "11:53"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10/07/20"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "560.",
-                "15"
-            ],
-            "value_id": [
-                3,
-                4
+                3
             ]
         },
         {
@@ -228,18 +108,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900974246"
+                "10001411"
             ],
             "value_id": [
-                17
+                9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18:35"
+                "30-06-2020"
             ],
             "value_id": [
                 2
@@ -250,14 +130,56 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "485.00",
-                "174",
-                "00"
+                "199"
             ],
             "value_id": [
-                5,
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0738530040603",
+                "DRESS"
+            ],
+            "value_id": [
                 6,
                 7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

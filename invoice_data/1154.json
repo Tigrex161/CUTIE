@@ -1,0 +1,195 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                320,
+                315,
+                358,
+                329
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                364,
+                315,
+                422,
+                329
+            ]
+        },
+        {
+            "text": "13/07/2020",
+            "id": 3,
+            "bbox": [
+                524,
+                519,
+                584,
+                532
+            ]
+        },
+        {
+            "text": "09:44",
+            "id": 4,
+            "bbox": [
+                604,
+                519,
+                633,
+                530
+            ]
+        },
+        {
+            "text": "3.300.00",
+            "id": 5,
+            "bbox": [
+                656,
+                746,
+                704,
+                756
+            ]
+        },
+        {
+            "text": "3.100.00",
+            "id": 6,
+            "bbox": [
+                658,
+                581,
+                705,
+                594
+            ]
+        },
+        {
+            "text": "AND",
+            "id": 7,
+            "bbox": [
+                29,
+                580,
+                64,
+                596
+            ]
+        },
+        {
+            "text": "ALSASL33370",
+            "id": 8,
+            "bbox": [
+                77,
+                580,
+                161,
+                596
+            ]
+        },
+        {
+            "text": "UPPRE",
+            "id": 9,
+            "bbox": [
+                168,
+                580,
+                198,
+                596
+            ]
+        },
+        {
+            "text": "CASE",
+            "id": 10,
+            "bbox": [
+                205,
+                579,
+                229,
+                596
+            ]
+        },
+        {
+            "text": "HORS",
+            "id": 11,
+            "bbox": [
+                29,
+                596,
+                59,
+                607
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "09:44"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13/07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3.100.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AND",
+                "ALSASL33370",
+                "UPPRE",
+                "CASE",
+                "HORS"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3.300.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1154.jpg"
+    }
+}

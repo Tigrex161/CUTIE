@@ -1,175 +1,186 @@
 {
     "text_boxes": [
         {
-            "text": "VIVEL",
+            "text": "Jardin",
             "id": 1,
             "bbox": [
-                336,
-                250,
-                382,
-                268
+                287,
+                108,
+                412,
+                169
             ]
         },
         {
-            "text": "PATISSERIE",
+            "text": "de",
             "id": 2,
             "bbox": [
-                394,
-                251,
-                487,
-                269
+                419,
+                118,
+                452,
+                172
             ]
         },
         {
-            "text": "24Jul",
+            "text": "Parfums",
             "id": 3,
             "bbox": [
-                371,
-                468,
-                415,
-                486
+                268,
+                157,
+                490,
+                226
             ]
         },
         {
-            "text": "20",
+            "text": "18/07/20",
             "id": 4,
             "bbox": [
-                422,
-                469,
-                445,
-                485
+                389,
+                429,
+                442,
+                446
             ]
         },
         {
-            "text": "12:02",
+            "text": "08:27",
             "id": 5,
             "bbox": [
-                458,
-                470,
-                502,
-                487
+                477,
+                425,
+                511,
+                442
             ]
         },
         {
-            "text": "280.00",
+            "text": "625.00",
             "id": 6,
             "bbox": [
-                291,
-                684,
-                347,
-                700
+                437,
+                529,
+                477,
+                544
             ]
         },
         {
-            "text": "280.00",
+            "text": "WHITE",
             "id": 7,
             "bbox": [
-                294,
-                516,
-                350,
-                532
+                220,
+                531,
+                254,
+                549
             ]
         },
         {
-            "text": "X",
+            "text": "SUGAR",
             "id": 8,
             "bbox": [
-                409,
-                516,
-                421,
-                535
+                262,
+                531,
+                295,
+                549
             ]
         },
         {
-            "text": "Lrg",
+            "text": "FLOWER",
             "id": 9,
             "bbox": [
-                419,
-                519,
-                444,
-                535
+                305,
+                530,
+                344,
+                548
             ]
         },
         {
-            "text": "Slim",
+            "text": "100m",
             "id": 10,
             "bbox": [
-                456,
-                517,
-                491,
-                533
+                354,
+                530,
+                380,
+                548
             ]
         },
         {
-            "text": "sweet",
+            "text": "1",
             "id": 11,
             "bbox": [
-                503,
-                519,
-                547,
-                534
+                383,
+                529,
+                385,
+                547
             ]
         },
         {
-            "text": "Lla",
+            "text": "1",
             "id": 12,
             "bbox": [
-                447,
-                544,
-                502,
-                558
+                479,
+                657,
+                480,
+                671
             ]
         },
         {
-            "text": "le",
+            "text": "\u0648",
             "id": 13,
             "bbox": [
-                517,
-                544,
-                548,
-                553
+                306,
+                551,
+                310,
+                562
             ]
         },
         {
-            "text": "101111111644",
+            "text": "\u0627\u0628\u0646",
             "id": 14,
             "bbox": [
-                438,
-                567,
-                548,
-                582
+                284,
+                551,
+                301,
+                563
+            ]
+        },
+        {
+            "text": "\u0633\u0643\u0633",
+            "id": 15,
+            "bbox": [
+                257,
+                552,
+                276,
+                563
+            ]
+        },
+        {
+            "text": "\u0641\u0644\u0627\u0648\u06cc",
+            "id": 16,
+            "bbox": [
+                222,
+                552,
+                247,
+                564
+            ]
+        },
+        {
+            "text": "562.50",
+            "id": 17,
+            "bbox": [
+                462,
+                709,
+                505,
+                727
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "X",
-                "Lrg",
-                "Slim",
-                "sweet"
+                "08:27"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Lla",
-                "le"
-            ],
-            "value_id": [
-                12,
-                13
+                5
             ]
         },
         {
@@ -177,58 +188,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "24Jul",
-                "20"
+                "18/07/20"
             ],
             "value_id": [
-                3,
                 4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "VIVEL",
-                "PATISSERIE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "280.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "101111111644"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:02"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -236,10 +199,83 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "280.00"
+                "625.00"
             ],
             "value_id": [
-                7
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0648",
+                "\u0627\u0628\u0646",
+                "\u0633\u0643\u0633",
+                "\u0641\u0644\u0627\u0648\u06cc"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WHITE",
+                "SUGAR",
+                "FLOWER",
+                "100m",
+                "1"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jardin",
+                "de",
+                "Parfums"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "562.50"
+            ],
+            "value_id": [
+                17
             ]
         }
     ],

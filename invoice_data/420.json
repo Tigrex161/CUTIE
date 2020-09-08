@@ -1,190 +1,136 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "Super",
             "id": 1,
             "bbox": [
-                456,
-                396,
-                476,
-                405
+                329,
+                191,
+                390,
+                224
             ]
         },
         {
-            "text": "2020",
+            "text": "-",
             "id": 2,
             "bbox": [
-                487,
-                395,
-                507,
-                405
+                397,
+                191,
+                406,
+                221
             ]
         },
         {
-            "text": "18:05",
+            "text": "Care",
             "id": 3,
             "bbox": [
-                515,
-                395,
-                543,
-                403
+                405,
+                188,
+                456,
+                221
             ]
         },
         {
-            "text": "3,",
+            "text": "PHARMACY",
             "id": 4,
             "bbox": [
-                556,
-                636,
-                563,
-                644
+                368,
+                222,
+                414,
+                231
             ]
         },
         {
-            "text": "300.00",
+            "text": "150777020",
             "id": 5,
             "bbox": [
-                568,
-                635,
-                603,
-                644
+                329,
+                416,
+                364,
+                428
             ]
         },
         {
-            "text": "1,",
+            "text": "1452",
             "id": 6,
             "bbox": [
-                559,
-                560,
-                571,
-                570
+                371,
+                416,
+                387,
+                426
             ]
         },
         {
-            "text": "450.00",
+            "text": "113.40",
             "id": 7,
             "bbox": [
-                572,
-                560,
-                606,
-                568
+                480,
+                783,
+                510,
+                792
             ]
         },
         {
-            "text": "1,850.00",
+            "text": "11346",
             "id": 8,
             "bbox": [
-                560,
-                525,
-                605,
-                534
+                487,
+                611,
+                509,
+                620
             ]
         },
         {
-            "text": "GVENCH",
+            "text": "100",
             "id": 9,
             "bbox": [
-                147,
-                504,
-                179,
-                514
+                279,
+                616,
+                291,
+                625
             ]
         },
         {
-            "text": "WN",
+            "text": "DOCTORS",
             "id": 10,
             "bbox": [
-                186,
-                504,
-                197,
-                514
+                282,
+                597,
+                324,
+                609
             ]
         },
         {
-            "text": "SHOE:GIVENCHY",
+            "text": "NIGHT",
             "id": 11,
             "bbox": [
-                203,
-                504,
-                282,
-                515
+                328,
+                596,
+                353,
+                607
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "GUARD",
             "id": 12,
             "bbox": [
-                287,
-                505,
-                321,
-                514
-            ]
-        },
-        {
-            "text": "GVENCH",
-            "id": 13,
-            "bbox": [
-                147,
-                541,
-                179,
-                551
-            ]
-        },
-        {
-            "text": "MN",
-            "id": 14,
-            "bbox": [
-                184,
-                541,
-                197,
-                551
-            ]
-        },
-        {
-            "text": "SHOE:GIVENCHY",
-            "id": 15,
-            "bbox": [
-                203,
-                541,
-                283,
-                552
-            ]
-        },
-        {
-            "text": "MENS",
-            "id": 16,
-            "bbox": [
-                286,
-                544,
-                309,
-                550
+                358,
+                595,
+                388,
+                607
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GVENCH",
-                "WN",
-                "SHOE:GIVENCHY",
-                "WOMENS",
-                "GVENCH",
-                "MN",
-                "SHOE:GIVENCHY",
-                "MENS"
+                "1452"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                6
             ]
         },
         {
@@ -192,36 +138,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "150777020"
             ],
             "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,",
-                "300.00"
-            ],
-            "value_id": [
-                4,
                 5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18:05"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -229,14 +149,64 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "450.00",
-                "1,850.00"
+                "11346"
             ],
             "value_id": [
-                6,
-                7,
                 8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DOCTORS",
+                "NIGHT",
+                "GUARD"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Super",
+                "-",
+                "Care",
+                "PHARMACY"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "113.40"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

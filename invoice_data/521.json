@@ -1,131 +1,156 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "LIWA",
             "id": 1,
             "bbox": [
-                340,
-                238,
-                467,
-                271
+                297,
+                144,
+                372,
+                180
             ]
         },
         {
-            "text": "06/07/2020",
+            "text": "TRADING",
             "id": 2,
             "bbox": [
-                75,
-                480,
-                120,
-                487
+                393,
+                157,
+                506,
+                198
             ]
         },
         {
-            "text": "1413",
+            "text": "\u0628\u0627",
             "id": 3,
             "bbox": [
-                130,
-                480,
-                151,
-                487
+                450,
+                189,
+                463,
+                205
             ]
         },
         {
-            "text": "19,600.00",
+            "text": "\u06f1\u06f1/07/20",
             "id": 4,
             "bbox": [
-                605,
-                636,
-                644,
-                644
+                328,
+                405,
+                399,
+                431
             ]
         },
         {
-            "text": "18,666.67",
+            "text": "8:41",
             "id": 5,
             "bbox": [
-                631,
-                562,
-                671,
-                569
+                524,
+                412,
+                557,
+                430
             ]
         },
         {
-            "text": "Hurlage",
+            "text": "139,00",
             "id": 6,
             "bbox": [
-                223,
-                564,
-                253,
-                573
+                479,
+                608,
+                529,
+                629
             ]
         },
         {
-            "text": "rie",
+            "text": "139.0",
             "id": 7,
             "bbox": [
-                255,
-                567,
-                263,
-                571
+                479,
+                566,
+                530,
+                584
             ]
         },
         {
-            "text": "CD47123MOO",
+            "text": "|",
             "id": 8,
             "bbox": [
-                75,
-                564,
-                140,
-                571
+                520,
+                718,
+                523,
+                735
+            ]
+        },
+        {
+            "text": "D1",
+            "id": 9,
+            "bbox": [
+                197,
+                560,
+                212,
+                580
+            ]
+        },
+        {
+            "text": ".",
+            "id": 10,
+            "bbox": [
+                219,
+                560,
+                221,
+                580
+            ]
+        },
+        {
+            "text": "GANT",
+            "id": 11,
+            "bbox": [
+                234,
+                560,
+                268,
+                582
+            ]
+        },
+        {
+            "text": "ARCHIVE",
+            "id": 12,
+            "bbox": [
+                280,
+                561,
+                341,
+                583
+            ]
+        },
+        {
+            "text": "STR",
+            "id": 13,
+            "bbox": [
+                352,
+                563,
+                377,
+                585
+            ]
+        },
+        {
+            "text": "7325705349",
+            "id": 14,
+            "bbox": [
+                197,
+                535,
+                287,
+                559
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Hurlage",
-                "rie"
+                "8:41"
             ],
             "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "06/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DIOR"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19,600.00"
-            ],
-            "value_id": [
-                4
+                5
             ]
         },
         {
@@ -133,21 +158,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CD47123MOO"
+                "7325705349"
             ],
             "value_id": [
-                8
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1413"
+                "\u06f1\u06f1/07/20"
             ],
             "value_id": [
-                3
+                4
             ]
         },
         {
@@ -155,10 +180,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18,666.67"
+                "139.0"
             ],
             "value_id": [
-                5
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "D1",
+                ".",
+                "GANT",
+                "ARCHIVE",
+                "STR"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LIWA",
+                "TRADING",
+                "\u0628\u0627"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "|"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "139,00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

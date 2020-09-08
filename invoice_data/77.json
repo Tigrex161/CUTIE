@@ -1,230 +1,173 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdales",
+            "text": "29-06-209",
             "id": 1,
             "bbox": [
-                296,
-                106,
-                491,
-                145
+                87,
+                471,
+                183,
+                496
             ]
         },
         {
-            "text": ".....",
+            "text": "05:38",
             "id": 2,
             "bbox": [
-                460,
-                136,
-                489,
-                143
+                186,
+                469,
+                230,
+                489
             ]
         },
         {
-            "text": "838.90",
+            "text": "PM",
             "id": 3,
             "bbox": [
-                444,
-                438,
-                476,
-                447
+                236,
+                466,
+                261,
+                485
             ]
         },
         {
-            "text": "PB",
+            "text": "294.00",
             "id": 4,
             "bbox": [
-                273,
-                433,
-                283,
-                442
+                501,
+                919,
+                558,
+                939
             ]
         },
         {
-            "text": "Oud",
+            "text": "294.00",
             "id": 5,
             "bbox": [
-                289,
-                434,
-                305,
-                443
+                489,
+                741,
+                548,
+                763
             ]
         },
         {
-            "text": "Wood",
+            "text": "1",
             "id": 6,
             "bbox": [
-                311,
-                435,
-                333,
-                445
+                396,
+                752,
+                401,
+                769
             ]
         },
         {
-            "text": "New",
+            "text": "1-3165-2-36881",
             "id": 7,
             "bbox": [
-                339,
-                436,
-                355,
-                446
+                113,
+                789,
+                244,
+                815
             ]
         },
         {
-            "text": "EDP",
+            "text": "Shoulder",
             "id": 8,
             "bbox": [
-                361,
-                436,
-                377,
-                447
+                115,
+                817,
+                182,
+                839
             ]
         },
         {
-            "text": "50ml",
+            "text": "Leather",
             "id": 9,
             "bbox": [
-                383,
-                437,
-                402,
-                447
+                188,
+                813,
+                247,
+                835
             ]
         },
         {
-            "text": "0.00",
+            "text": "Strap",
             "id": 10,
             "bbox": [
-                451,
-                514,
-                472,
-                522
+                253,
+                812,
+                293,
+                832
             ]
         },
         {
-            "text": "TF",
+            "text": "709",
             "id": 11,
             "bbox": [
-                252,
-                505,
-                261,
-                515
+                111,
+                765,
+                139,
+                787
             ]
         },
         {
-            "text": "PHP",
+            "text": "88",
             "id": 12,
             "bbox": [
-                268,
-                508,
-                284,
-                517
+                145,
+                764,
+                163,
+                785
             ]
         },
         {
-            "text": "Tobacco",
+            "text": "8016110",
             "id": 13,
             "bbox": [
-                291,
-                508,
-                328,
-                519
+                169,
+                760,
+                243,
+                783
             ]
         },
         {
-            "text": "Vanil",
+            "text": "1",
             "id": 14,
             "bbox": [
-                335,
-                510,
-                359,
-                520
-            ]
-        },
-        {
-            "text": "Lvpc",
-            "id": 15,
-            "bbox": [
-                271,
-                542,
-                292,
-                552
-            ]
-        },
-        {
-            "text": "Saint",
-            "id": 16,
-            "bbox": [
-                299,
-                541,
-                325,
-                552
-            ]
-        },
-        {
-            "text": "Sulpt",
-            "id": 17,
-            "bbox": [
-                332,
-                543,
-                356,
-                554
-            ]
-        },
-        {
-            "text": "1,816.00",
-            "id": 18,
-            "bbox": [
-                415,
-                672,
-                461,
-                685
-            ]
-        },
-        {
-            "text": "11-Jul-2020",
-            "id": 19,
-            "bbox": [
-                264,
-                243,
-                327,
-                258
+                399,
+                930,
+                403,
+                943
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PB",
-                "Oud",
-                "Wood",
-                "New",
-                "EDP",
-                "50ml",
-                "TF",
-                "PHP",
-                "Tobacco",
-                "Vanil",
-                "Lvpc",
-                "Saint",
-                "Sulpt"
+                "05:38",
+                "PM"
             ],
             "value_id": [
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "709",
+                "88",
+                "8016110"
+            ],
+            "value_id": [
                 11,
                 12,
-                13,
-                14,
-                15,
-                16,
-                17
+                13
             ]
         },
         {
@@ -232,34 +175,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11-Jul-2020"
+                "29-06-209"
             ],
             "value_id": [
-                19
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "bloomingdales",
-                "....."
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,816.00"
-            ],
-            "value_id": [
-                18
+                1
             ]
         },
         {
@@ -267,12 +186,60 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "838.90",
-                "0.00"
+                "294.00"
             ],
             "value_id": [
-                3,
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1-3165-2-36881",
+                "Shoulder",
+                "Leather",
+                "Strap"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
                 10
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "294.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

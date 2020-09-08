@@ -5,18 +5,18 @@
             "id": 1,
             "bbox": [
                 303,
-                281,
+                277,
                 471,
-                318
+                320
             ]
         },
         {
             "text": "01/07/2020",
             "id": 2,
             "bbox": [
-                51,
-                533,
-                98,
+                50,
+                531,
+                97,
                 544
             ]
         },
@@ -24,96 +24,114 @@
             "text": "14:41",
             "id": 3,
             "bbox": [
-                109,
-                536,
-                130,
-                543
+                108,
+                531,
+                129,
+                542
             ]
         },
         {
             "text": "2,340.00",
             "id": 4,
             "bbox": [
-                612,
-                669,
-                649,
-                677
+                611,
+                667,
+                648,
+                678
             ]
         },
         {
-            "text": "2,228.57",
+            "text": "2.228.57",
             "id": 5,
             "bbox": [
-                642,
-                616,
-                681,
-                624
-            ]
-        },
-        {
-            "text": "-1",
-            "id": 6,
-            "bbox": [
-                373,
-                619,
-                375,
+                640,
+                613,
+                680,
                 625
             ]
         },
         {
-            "text": "Men",
+            "text": "1",
+            "id": 6,
+            "bbox": [
+                372,
+                616,
+                374,
+                623
+            ]
+        },
+        {
+            "text": "1",
             "id": 7,
             "bbox": [
+                372,
+                617,
+                373,
+                626
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                373,
+                645,
+                375,
+                653
+            ]
+        },
+        {
+            "text": "Men",
+            "id": 9,
+            "bbox": [
                 211,
-                620,
-                229,
-                628
+                615,
+                228,
+                631
             ]
         },
         {
             "text": "Eyewear",
-            "id": 8,
+            "id": 10,
             "bbox": [
                 232,
-                619,
-                269,
-                629
+                615,
+                270,
+                633
             ]
         },
         {
-            "text": "TECHCITY1A",
-            "id": 9,
+            "text": "TECHCITYLA",
+            "id": 11,
             "bbox": [
-                59,
-                618,
-                118,
+                58,
+                615,
+                117,
                 627
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Men",
-                "Eyewear"
+                "14:41"
             ],
             "value_id": [
-                7,
-                8
+                3
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "-1"
+                "TECHCITYLA"
             ],
             "value_id": [
-                6
+                11
             ]
         },
         {
@@ -128,6 +146,30 @@
             ]
         },
         {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.228.57"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Men",
+                "Eyewear"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
@@ -139,6 +181,30 @@
             ]
         },
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
@@ -147,39 +213,6 @@
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "TECHCITY1A"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:41"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,228.57"
-            ],
-            "value_id": [
-                5
             ]
         }
     ],

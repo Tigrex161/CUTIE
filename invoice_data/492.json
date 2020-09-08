@@ -1,155 +1,156 @@
 {
     "text_boxes": [
         {
-            "text": "Dior",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                106,
-                251,
-                273,
-                317
+                310,
+                123,
+                383,
+                144
             ]
         },
         {
-            "text": "BOUTIQUE",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                150,
-                331,
-                224,
-                347
+                393,
+                126,
+                475,
+                147
             ]
         },
         {
-            "text": "28-Jun-2020",
+            "text": "05/07/20",
             "id": 3,
             "bbox": [
-                604,
-                487,
-                695,
-                500
+                263,
+                353,
+                337,
+                375
             ]
         },
         {
-            "text": "12:49:22",
+            "text": "13:01",
             "id": 4,
             "bbox": [
-                732,
-                487,
-                791,
-                500
+                349,
+                355,
+                390,
+                376
             ]
         },
         {
-            "text": "840.00",
+            "text": "142.80",
             "id": 5,
             "bbox": [
-                741,
-                935,
-                788,
-                947
+                539,
+                690,
+                592,
+                708
             ]
         },
         {
-            "text": "840.00",
+            "text": "168.00",
             "id": 6,
             "bbox": [
-                747,
-                667,
-                795,
-                683
+                536,
+                522,
+                588,
+                539
             ]
         },
         {
-            "text": "CD",
+            "text": "1",
             "id": 7,
             "bbox": [
-                260,
-                674,
-                283,
-                686
+                206,
+                545,
+                210,
+                561
             ]
         },
         {
-            "text": "OBLIQUE",
+            "text": "900882457",
             "id": 8,
             "bbox": [
-                289,
-                672,
-                364,
-                688
+                244,
+                544,
+                327,
+                562
             ]
         },
         {
-            "text": "6*1",
+            "text": "Beauty",
             "id": 9,
             "bbox": [
-                371,
-                672,
-                393,
-                685
+                195,
+                496,
+                252,
+                515
             ]
         },
         {
-            "text": "85CDO1061624",
+            "text": "DSKIN",
             "id": 10,
             "bbox": [
-                56,
-                675,
-                165,
-                691
+                196,
+                519,
+                242,
+                538
+            ]
+        },
+        {
+            "text": "RG",
+            "id": 11,
+            "bbox": [
+                253,
+                521,
+                271,
+                538
+            ]
+        },
+        {
+            "text": "A",
+            "id": 12,
+            "bbox": [
+                282,
+                521,
+                290,
+                538
+            ]
+        },
+        {
+            "text": "SUN",
+            "id": 13,
+            "bbox": [
+                301,
+                521,
+                328,
+                539
+            ]
+        },
+        {
+            "text": "SENSI",
+            "id": 14,
+            "bbox": [
+                339,
+                522,
+                383,
+                540
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CD",
-                "OBLIQUE",
-                "6*1"
+                "13:01"
             ],
             "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "28-Jun-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Dior",
-                "BOUTIQUE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "840.00"
-            ],
-            "value_id": [
-                5
+                4
             ]
         },
         {
@@ -157,21 +158,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "85CDO1061624"
+                "900882457"
             ],
             "value_id": [
-                10
+                8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:49:22"
+                "05/07/20"
             ],
             "value_id": [
-                4
+                3
             ]
         },
         {
@@ -179,10 +180,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "840.00"
+                "168.00"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Beauty",
+                "DSKIN",
+                "RG",
+                "A",
+                "SUN",
+                "SENSI"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "142.80"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

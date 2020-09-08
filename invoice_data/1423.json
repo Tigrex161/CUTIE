@@ -1,0 +1,285 @@
+{
+    "text_boxes": [
+        {
+            "text": "Kiehl's",
+            "id": 1,
+            "bbox": [
+                263,
+                117,
+                403,
+                178
+            ]
+        },
+        {
+            "text": "2020-",
+            "id": 2,
+            "bbox": [
+                286,
+                337,
+                326,
+                359
+            ]
+        },
+        {
+            "text": "\u0623\u0628\u0644",
+            "id": 3,
+            "bbox": [
+                261,
+                335,
+                282,
+                354
+            ]
+        },
+        {
+            "text": "-30",
+            "id": 4,
+            "bbox": [
+                238,
+                333,
+                260,
+                352
+            ]
+        },
+        {
+            "text": "6:58:15",
+            "id": 5,
+            "bbox": [
+                375,
+                347,
+                430,
+                364
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 6,
+            "bbox": [
+                442,
+                347,
+                453,
+                363
+            ]
+        },
+        {
+            "text": "205.00",
+            "id": 7,
+            "bbox": [
+                485,
+                975,
+                531,
+                994
+            ]
+        },
+        {
+            "text": "20500",
+            "id": 8,
+            "bbox": [
+                503,
+                534,
+                548,
+                549
+            ]
+        },
+        {
+            "text": "K",
+            "id": 9,
+            "bbox": [
+                236,
+                528,
+                243,
+                546
+            ]
+        },
+        {
+            "text": "Avocado",
+            "id": 10,
+            "bbox": [
+                253,
+                528,
+                309,
+                550
+            ]
+        },
+        {
+            "text": "Eye",
+            "id": 11,
+            "bbox": [
+                314,
+                531,
+                346,
+                551
+            ]
+        },
+        {
+            "text": "Cream",
+            "id": 12,
+            "bbox": [
+                349,
+                533,
+                387,
+                554
+            ]
+        },
+        {
+            "text": "205130441",
+            "id": 13,
+            "bbox": [
+                253,
+                543,
+                325,
+                566
+            ]
+        },
+        {
+            "text": "205130441",
+            "id": 14,
+            "bbox": [
+                253,
+                543,
+                325,
+                566
+            ]
+        },
+        {
+            "text": "\u062a\u0631\u064a",
+            "id": 15,
+            "bbox": [
+                236,
+                516,
+                256,
+                532
+            ]
+        },
+        {
+            "text": "\u06a9\u0631\u062f\u0646",
+            "id": 16,
+            "bbox": [
+                342,
+                520,
+                362,
+                534
+            ]
+        },
+        {
+            "text": "\u06a9\u0631\u06cc\u0645",
+            "id": 17,
+            "bbox": [
+                311,
+                520,
+                332,
+                534
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6:58:15",
+                "PM"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "205130441"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020-",
+                "\u0623\u0628\u0644",
+                "-30"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20500"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062a\u0631\u064a",
+                "\u06a9\u0631\u062f\u0646",
+                "\u06a9\u0631\u06cc\u0645"
+            ],
+            "value_id": [
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "K",
+                "Avocado",
+                "Eye",
+                "Cream",
+                "205130441"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Kiehl's"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "205.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1423.jpg"
+    }
+}

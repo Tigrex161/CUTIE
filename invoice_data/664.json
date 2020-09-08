@@ -1,187 +1,166 @@
 {
     "text_boxes": [
         {
-            "text": "-",
+            "text": "ROADSHOP",
             "id": 1,
             "bbox": [
-                394,
-                470,
-                395,
-                479
+                266,
+                301,
+                344,
+                328
             ]
         },
         {
-            "text": "A",
+            "text": "GF020",
             "id": 2,
             "bbox": [
-                359,
-                509,
                 370,
-                516
+                313,
+                405,
+                329
             ]
         },
         {
-            "text": "09,",
+            "text": "-",
             "id": 3,
             "bbox": [
-                372,
-                506,
-                382,
-                514
+                414,
+                311,
+                418,
+                320
+            ]
+        },
+        {
+            "text": "125187",
+            "id": 4,
+            "bbox": [
+                425,
+                301,
+                465,
+                318
             ]
         },
         {
             "text": "2020",
-            "id": 4,
-            "bbox": [
-                385,
-                504,
-                401,
-                511
-            ]
-        },
-        {
-            "text": "17:07",
             "id": 5,
             "bbox": [
-                406,
-                501,
-                424,
-                508
+                408,
+                352,
+                430,
+                368
             ]
         },
         {
-            "text": "4.794.00",
+            "text": ")",
             "id": 6,
             "bbox": [
-                441,
-                731,
-                474,
-                737
+                388,
+                359,
+                392,
+                371
             ]
         },
         {
-            "text": "3,756.00",
+            "text": "\u0627\u0648\u0644",
             "id": 7,
             "bbox": [
-                481,
-                602,
-                516,
-                612
+                367,
+                361,
+                381,
+                376
             ]
         },
         {
-            "text": "1,038.00",
+            "text": "12:36",
             "id": 8,
             "bbox": [
-                486,
-                624,
-                515,
-                633
+                439,
+                345,
+                465,
+                362
             ]
         },
         {
-            "text": "TOP",
+            "text": "220,00",
             "id": 9,
             "bbox": [
-                174,
-                614,
-                188,
-                619
+                497,
+                649,
+                539,
+                664
             ]
         },
         {
-            "text": "SQUARE",
+            "text": "770G",
             "id": 10,
             "bbox": [
-                173,
-                635,
-                203,
-                641
+                569,
+                489,
+                607,
+                505
             ]
         },
         {
-            "text": "SCARF",
+            "text": "1",
             "id": 11,
             "bbox": [
-                207,
-                636,
-                231,
-                641
+                334,
+                549,
+                337,
+                560
             ]
         },
         {
-            "text": "P60522K460999430S",
+            "text": "LES",
             "id": 12,
             "bbox": [
-                173,
-                624,
-                246,
-                630
+                66,
+                483,
+                88,
+                497
             ]
         },
         {
-            "text": "AADD40X1244110365",
+            "text": "EXCLUSIFS",
             "id": 13,
             "bbox": [
-                172,
-                645,
-                248,
-                651
+                92,
+                486,
+                159,
+                505
+            ]
+        },
+        {
+            "text": "122160",
+            "id": 14,
+            "bbox": [
+                65,
+                499,
+                106,
+                514
+            ]
+        },
+        {
+            "text": "122160",
+            "id": 15,
+            "bbox": [
+                65,
+                499,
+                106,
+                514
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TOP",
-                "SQUARE",
-                "SCARF"
+                "12:36"
             ],
             "value_id": [
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "A",
-                "09,",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "-"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4.794.00"
-            ],
-            "value_id": [
-                6
+                8
             ]
         },
         {
@@ -189,23 +168,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "P60522K460999430S",
-                "AADD40X1244110365"
+                "122160"
             ],
             "value_id": [
-                12,
-                13
+                15
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:07"
+                "2020",
+                ")",
+                "\u0627\u0648\u0644"
             ],
             "value_id": [
-                5
+                5,
+                6,
+                7
             ]
         },
         {
@@ -213,12 +194,64 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,756.00",
-                "1,038.00"
+                "770G"
             ],
             "value_id": [
-                7,
-                8
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LES",
+                "EXCLUSIFS",
+                "122160"
+            ],
+            "value_id": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ROADSHOP",
+                "GF020",
+                "-",
+                "125187"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "220,00"
+            ],
+            "value_id": [
+                9
             ]
         }
     ],

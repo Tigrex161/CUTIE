@@ -1,106 +1,168 @@
 {
     "text_boxes": [
         {
-            "text": "Project",
+            "text": "JOE'S",
             "id": 1,
             "bbox": [
-                312,
-                522,
-                395,
-                547
+                264,
+                362,
+                373,
+                406
             ]
         },
         {
-            "text": "X",
+            "text": "CAFE",
             "id": 2,
             "bbox": [
-                405,
-                524,
-                421,
-                544
+                391,
+                361,
+                487,
+                404
             ]
         },
         {
-            "text": "Paris",
+            "text": "Ju106'20",
             "id": 3,
             "bbox": [
-                432,
-                524,
-                489,
-                546
+                298,
+                626,
+                375,
+                650
             ]
         },
         {
-            "text": "03-Jul-202o",
+            "text": "10:03",
             "id": 4,
             "bbox": [
-                267,
-                1071,
-                346,
-                1082
+                388,
+                624,
+                434,
+                647
             ]
         },
         {
-            "text": "9.41",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                373,
-                1073,
-                400,
-                1085
+                435,
+                623,
+                453,
+                645
             ]
         },
         {
-            "text": "pm",
+            "text": "121.00",
             "id": 6,
             "bbox": [
-                407,
-                1076,
-                427,
-                1087
+                432,
+                764,
+                545,
+                790
             ]
         },
         {
-            "text": "255.00",
+            "text": "83.00",
             "id": 7,
             "bbox": [
-                494,
-                933,
-                550,
-                948
+                495,
+                693,
+                543,
+                714
             ]
         },
         {
-            "text": "300.00",
+            "text": "38.00",
             "id": 8,
             "bbox": [
-                500,
-                789,
-                545,
-                802
+                496,
+                718,
+                544,
+                739
             ]
         },
         {
-            "text": "19SB800",
+            "text": "1",
             "id": 9,
             "bbox": [
-                301,
-                788,
-                362,
-                799
+                204,
+                703,
+                208,
+                723
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                204,
+                728,
+                209,
+                750
+            ]
+        },
+        {
+            "text": "Alfredo",
+            "id": 11,
+            "bbox": [
+                221,
+                700,
+                289,
+                723
+            ]
+        },
+        {
+            "text": "Pink",
+            "id": 12,
+            "bbox": [
+                299,
+                699,
+                338,
+                721
+            ]
+        },
+        {
+            "text": "Sau",
+            "id": 13,
+            "bbox": [
+                348,
+                698,
+                377,
+                719
+            ]
+        },
+        {
+            "text": "Mojito",
+            "id": 14,
+            "bbox": [
+                221,
+                727,
+                279,
+                750
+            ]
+        },
+        {
+            "text": "Stberry",
+            "id": 15,
+            "bbox": [
+                290,
+                724,
+                358,
+                749
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19SB800"
+                "10:03",
+                "PM"
             ],
             "value_id": [
-                9
+                4,
+                5
             ]
         },
         {
@@ -108,49 +170,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "03-Jul-202o"
+                "Ju106'20"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Project",
-                "X",
-                "Paris"
-            ],
-            "value_id": [
-                1,
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "255.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "9.41",
-                "pm"
-            ],
-            "value_id": [
-                5,
-                6
             ]
         },
         {
@@ -158,10 +181,68 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "300.00"
+                "83.00",
+                "38.00"
             ],
             "value_id": [
+                7,
                 8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Alfredo",
+                "Pink",
+                "Sau",
+                "Mojito",
+                "Stberry"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JOE'S",
+                "CAFE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "121.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

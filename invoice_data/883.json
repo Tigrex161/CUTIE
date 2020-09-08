@@ -1,167 +1,178 @@
 {
     "text_boxes": [
         {
-            "text": "Cartier",
+            "text": "LUSH",
             "id": 1,
             "bbox": [
-                354,
-                159,
-                465,
-                207
+                139,
+                124,
+                485,
+                217
             ]
         },
         {
-            "text": "23/07/2020",
+            "text": "FRESH",
             "id": 2,
             "bbox": [
-                125,
-                684,
-                169,
-                694
+                509,
+                133,
+                659,
+                170
             ]
         },
         {
-            "text": "19:08:42",
+            "text": "HANDMADE",
             "id": 3,
             "bbox": [
-                173,
-                686,
-                206,
-                694
+                511,
+                170,
+                659,
+                196
             ]
         },
         {
-            "text": "14,700.00",
+            "text": "COSMETICS",
             "id": 4,
             "bbox": [
-                672,
-                559,
-                704,
-                564
+                512,
+                194,
+                661,
+                222
             ]
         },
         {
-            "text": "14.200.00",
+            "text": "21/07/2020",
             "id": 5,
             "bbox": [
-                674,
-                514,
-                706,
-                521
+                301,
+                623,
+                428,
+                645
             ]
         },
         {
-            "text": "WAT",
+            "text": "9:13:11",
             "id": 6,
             "bbox": [
-                145,
-                481,
-                159,
-                490
+                305,
+                653,
+                387,
+                673
             ]
         },
         {
-            "text": "NEW",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                161,
-                482,
-                174,
-                491
+                402,
+                653,
+                435,
+                673
             ]
         },
         {
-            "text": "PANTHENESM",
+            "text": "110.00",
             "id": 8,
             "bbox": [
-                177,
-                484,
-                219,
-                489
+                633,
+                986,
+                691,
+                1004
             ]
         },
         {
-            "text": "SIERSTEL",
+            "text": "1",
             "id": 9,
             "bbox": [
-                222,
-                485,
-                258,
-                492
+                682,
+                1010,
+                688,
+                1026
             ]
         },
         {
-            "text": "arn",
+            "text": "110.00",
             "id": 10,
             "bbox": [
-                261,
-                486,
-                271,
-                492
+                628,
+                839,
+                685,
+                856
             ]
         },
         {
-            "text": "WSPNO00",
+            "text": "CRYSTAL",
             "id": 11,
             "bbox": [
-                185,
-                493,
-                225,
-                501
+                248,
+                837,
+                337,
+                857
+            ]
+        },
+        {
+            "text": "AMAZE",
+            "id": 12,
+            "bbox": [
+                346,
+                837,
+                411,
+                856
+            ]
+        },
+        {
+            "text": "300",
+            "id": 13,
+            "bbox": [
+                247,
+                863,
+                276,
+                881
+            ]
+        },
+        {
+            "text": "8480",
+            "id": 14,
+            "bbox": [
+                114,
+                840,
+                158,
+                858
+            ]
+        },
+        {
+            "text": "\u06a9\u0631\u06cc\u0633\u062a\u0627\u0644",
+            "id": 15,
+            "bbox": [
+                288,
+                884,
+                337,
+                907
+            ]
+        },
+        {
+            "text": "\u0623\u0645\u064a\u0631",
+            "id": 16,
+            "bbox": [
+                253,
+                884,
+                277,
+                907
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WAT",
-                "NEW",
-                "PANTHENESM",
-                "SIERSTEL",
-                "arn"
+                "9:13:11",
+                "PM"
             ],
             "value_id": [
                 6,
-                7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "23/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Cartier"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14,700.00"
-            ],
-            "value_id": [
-                4
+                7
             ]
         },
         {
@@ -169,21 +180,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WSPNO00"
+                "8480"
             ],
             "value_id": [
-                11
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19:08:42"
+                "21/07/2020"
             ],
             "value_id": [
-                3
+                5
             ]
         },
         {
@@ -191,10 +202,77 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14.200.00"
+                "110.00"
             ],
             "value_id": [
-                5
+                10
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u06a9\u0631\u06cc\u0633\u062a\u0627\u0644",
+                "\u0623\u0645\u064a\u0631"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CRYSTAL",
+                "AMAZE",
+                "300"
+            ],
+            "value_id": [
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LUSH",
+                "FRESH",
+                "HANDMADE",
+                "COSMETICS"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "110.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

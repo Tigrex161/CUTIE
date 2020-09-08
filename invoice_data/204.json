@@ -1,210 +1,236 @@
 {
     "text_boxes": [
         {
-            "text": "NIKE",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                326,
-                142,
-                361,
-                151
+                324,
+                158,
+                392,
+                176
             ]
         },
         {
-            "text": "BEACON",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                380,
-                142,
-                443,
-                150
+                402,
+                156,
+                478,
+                174
             ]
         },
         {
-            "text": "03/07/2020",
+            "text": "10/07/20",
             "id": 3,
             "bbox": [
-                294,
-                211,
-                349,
-                222
+                285,
+                371,
+                353,
+                391
             ]
         },
         {
-            "text": "11",
+            "text": "16:38",
             "id": 4,
             "bbox": [
-                294,
-                229,
-                302,
-                238
+                365,
+                370,
+                406,
+                389
             ]
         },
         {
-            "text": "34",
+            "text": "2,000.00",
             "id": 5,
             "bbox": [
-                311,
-                229,
-                319,
-                237
+                533,
+                654,
+                604,
+                673
             ]
         },
         {
-            "text": "199.00",
+            "text": "2.000.00",
             "id": 6,
             "bbox": [
-                476,
-                683,
-                507,
-                692
+                527,
+                520,
+                597,
+                538
             ]
         },
         {
-            "text": "199.00",
+            "text": "0.00",
             "id": 7,
             "bbox": [
-                472,
-                456,
-                503,
-                469
+                566,
+                563,
+                599,
+                580
             ]
         },
         {
-            "text": "V",
+            "text": "2",
             "id": 8,
             "bbox": [
-                207,
-                472,
-                215,
-                486
+                594,
+                611,
+                599,
+                624
             ]
         },
         {
-            "text": "SK",
+            "text": ".",
             "id": 9,
             "bbox": [
-                216,
-                476,
-                224,
-                485
+                602,
+                611,
+                605,
+                624
             ]
         },
         {
-            "text": "FAST",
+            "text": "1",
             "id": 10,
             "bbox": [
-                232,
-                476,
-                251,
-                485
+                234,
+                552,
+                236,
+                567
             ]
         },
         {
-            "text": "SHORT",
+            "text": "1",
             "id": 11,
             "bbox": [
-                260,
-                475,
-                285,
-                486
+                234,
+                596,
+                236,
+                612
             ]
         },
         {
-            "text": "TRAIL",
+            "text": "Beauty",
             "id": 12,
             "bbox": [
-                294,
-                476,
-                318,
-                486
+                224,
+                507,
+                276,
+                524
             ]
         },
         {
-            "text": "NKCU6262-",
+            "text": "BOIS",
             "id": 13,
             "bbox": [
-                204,
-                455,
-                251,
-                468
+                223,
+                528,
+                257,
+                545
             ]
         },
         {
-            "text": "1.00",
+            "text": "D",
             "id": 14,
             "bbox": [
-                376,
+                269,
+                528,
+                275,
+                543
+            ]
+        },
+        {
+            "text": "ARGENT",
+            "id": 15,
+            "bbox": [
+                286,
+                526,
+                336,
+                543
+            ]
+        },
+        {
+            "text": "450ML",
+            "id": 16,
+            "bbox": [
+                349,
+                525,
+                390,
+                542
+            ]
+        },
+        {
+            "text": "GL",
+            "id": 17,
+            "bbox": [
+                223,
+                573,
+                236,
+                590
+            ]
+        },
+        {
+            "text": "UNIVERSAL",
+            "id": 18,
+            "bbox": [
+                251,
                 570,
-                396,
-                579
+                328,
+                590
+            ]
+        },
+        {
+            "text": "GWP",
+            "id": 19,
+            "bbox": [
+                341,
+                569,
+                365,
+                588
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 20,
+            "bbox": [
+                376,
+                568,
+                401,
+                587
+            ]
+        },
+        {
+            "text": "900719913",
+            "id": 21,
+            "bbox": [
+                268,
+                549,
+                347,
+                567
+            ]
+        },
+        {
+            "text": "900961817",
+            "id": 22,
+            "bbox": [
+                269,
+                594,
+                347,
+                612
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "V",
-                "SK",
-                "FAST",
-                "SHORT",
-                "TRAIL"
+                "16:38"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "03/07/2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "NIKE",
-                "BEACON"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "199.00"
-            ],
-            "value_id": [
-                6
+                4
             ]
         },
         {
@@ -212,23 +238,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NKCU6262-"
+                "900719913",
+                "900961817"
             ],
             "value_id": [
-                13
+                21,
+                22
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11",
-                "34"
+                "10/07/20"
             ],
             "value_id": [
-                4,
-                5
+                3
             ]
         },
         {
@@ -236,10 +262,89 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "199.00"
+                "2.000.00",
+                "0.00"
             ],
             "value_id": [
+                6,
                 7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Beauty",
+                "BOIS",
+                "D",
+                "ARGENT",
+                "450ML",
+                "GL",
+                "UNIVERSAL",
+                "GWP",
+                "SKU"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "."
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,000.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

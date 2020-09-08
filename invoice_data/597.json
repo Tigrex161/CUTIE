@@ -1,166 +1,186 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "AL",
             "id": 1,
             "bbox": [
-                461,
-                369,
-                483,
-                379
+                74,
+                190,
+                88,
+                206
             ]
         },
         {
-            "text": "2020",
+            "text": "ANWAAR",
             "id": 2,
             "bbox": [
-                494,
+                91,
+                191,
+                143,
+                209
+            ]
+        },
+        {
+            "text": "GOLDEN",
+            "id": 3,
+            "bbox": [
+                145,
+                195,
+                193,
+                213
+            ]
+        },
+        {
+            "text": "JEWELLERS",
+            "id": 4,
+            "bbox": [
+                196,
+                199,
+                263,
+                218
+            ]
+        },
+        {
+            "text": "BR.DUBAI",
+            "id": 5,
+            "bbox": [
+                267,
+                204,
+                321,
+                222
+            ]
+        },
+        {
+            "text": "05",
+            "id": 6,
+            "bbox": [
+                74,
+                203,
+                86,
+                214
+            ]
+        },
+        {
+            "text": "06",
+            "id": 7,
+            "bbox": [
+                89,
+                203,
+                103,
+                214
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 8,
+            "bbox": [
+                109,
+                204,
+                137,
+                216
+            ]
+        },
+        {
+            "text": "MALL",
+            "id": 9,
+            "bbox": [
+                140,
+                206,
+                163,
+                217
+            ]
+        },
+        {
+            "text": "DUDALUAR",
+            "id": 10,
+            "bbox": [
+                73,
+                213,
+                120,
+                224
+            ]
+        },
+        {
+            "text": "20/2020",
+            "id": 11,
+            "bbox": [
+                607,
+                279,
+                660,
+                294
+            ]
+        },
+        {
+            "text": "2.000.00",
+            "id": 12,
+            "bbox": [
+                642,
+                834,
+                672,
+                843
+            ]
+        },
+        {
+            "text": "3.000.00",
+            "id": 13,
+            "bbox": [
+                654,
                 369,
-                518,
+                691,
                 378
             ]
         },
         {
-            "text": "15:49",
-            "id": 3,
+            "text": "1.00",
+            "id": 14,
             "bbox": [
-                528,
-                370,
-                558,
-                379
+                537,
+                367,
+                553,
+                375
             ]
         },
         {
-            "text": "1,800.00",
-            "id": 4,
+            "text": "DIAMOND",
+            "id": 15,
             "bbox": [
-                545,
-                590,
-                590,
-                600
+                141,
+                355,
+                189,
+                367
             ]
         },
         {
-            "text": "1,800.00",
-            "id": 5,
+            "text": "RING",
+            "id": 16,
             "bbox": [
-                556,
-                515,
-                602,
-                523
+                193,
+                357,
+                215,
+                368
             ]
         },
         {
-            "text": "T.",
-            "id": 6,
+            "text": "210383",
+            "id": 17,
             "bbox": [
-                410,
-                514,
-                412,
-                521
-            ]
-        },
-        {
-            "text": "PCOU",
-            "id": 7,
-            "bbox": [
-                120,
-                490,
-                149,
-                501
-            ]
-        },
-        {
-            "text": "OTHS:",
-            "id": 8,
-            "bbox": [
-                153,
-                490,
-                185,
-                502
-            ]
-        },
-        {
-            "text": "PRIVATE",
-            "id": 9,
-            "bbox": [
-                187,
-                491,
-                229,
-                502
-            ]
-        },
-        {
-            "text": "COLLECTION",
-            "id": 10,
-            "bbox": [
-                235,
-                493,
-                297,
-                502
-            ]
-        },
-        {
-            "text": "MENS",
-            "id": 11,
-            "bbox": [
-                304,
-                494,
-                328,
-                501
-            ]
-        },
-        {
-            "text": "SILis",
-            "id": 12,
-            "bbox": [
-                392,
-                495,
-                463,
-                505
+                86,
+                353,
+                122,
+                365
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PCOU",
-                "OTHS:",
-                "PRIVATE",
-                "COLLECTION",
-                "MENS"
+                "210383"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SILis"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "T."
-            ],
-            "value_id": [
-                6
+                17
             ]
         },
         {
@@ -168,34 +188,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "20/2020"
             ],
             "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,800.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15:49"
-            ],
-            "value_id": [
-                3
+                11
             ]
         },
         {
@@ -203,10 +199,74 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,800.00"
+                "3.000.00"
             ],
             "value_id": [
-                5
+                13
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIAMOND",
+                "RING"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AL",
+                "ANWAAR",
+                "GOLDEN",
+                "JEWELLERS",
+                "BR.DUBAI",
+                "05",
+                "06",
+                "DUBAI",
+                "MALL",
+                "DUDALUAR"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.000.00"
+            ],
+            "value_id": [
+                12
             ]
         }
     ],

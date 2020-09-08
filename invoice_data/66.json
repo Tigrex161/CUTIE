@@ -1,83 +1,94 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                354,
-                425,
-                502,
-                467
+                337,
+                148,
+                419,
+                191
             ]
         },
         {
-            "text": "137/2020",
+            "text": "10-07-2020",
             "id": 2,
             "bbox": [
-                129,
-                675,
-                170,
-                682
+                285,
+                339,
+                332,
+                352
             ]
         },
         {
-            "text": "1731",
+            "text": "13:16",
             "id": 3,
             "bbox": [
-                180,
-                674,
-                198,
-                681
+                339,
+                341,
+                361,
+                353
             ]
         },
         {
-            "text": "1,000.00",
+            "text": "240",
             "id": 4,
             "bbox": [
-                639,
-                808,
-                672,
-                817
+                453,
+                476,
+                467,
+                485
             ]
         },
         {
-            "text": "AED",
+            "text": "1130351004036",
             "id": 5,
             "bbox": [
-                688,
-                810,
-                706,
-                817
+                337,
+                400,
+                399,
+                417
             ]
         },
         {
-            "text": "952.38",
+            "text": "SANDAL",
             "id": 6,
             "bbox": [
-                668,
-                754,
-                695,
-                761
+                411,
+                399,
+                439,
+                414
             ]
         },
         {
-            "text": "Pragrane/Makrup/Ski",
+            "text": "10001141",
             "id": 7,
             "bbox": [
-                265,
-                752,
-                355,
-                763
+                286,
+                404,
+                324,
+                420
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Pragrane/Makrup/Ski"
+                "13:16"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001141"
             ],
             "value_id": [
                 7
@@ -88,10 +99,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "137/2020"
+                "10-07-2020"
             ],
             "value_id": [
                 2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1130351004036",
+                "SANDAL"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         },
         {
@@ -99,7 +123,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR"
+                "ZARA"
             ],
             "value_id": [
                 1
@@ -110,34 +134,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,000.00",
-                "AED"
+                "240"
             ],
             "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1731"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "952.38"
-            ],
-            "value_id": [
-                6
+                4
             ]
         }
     ],

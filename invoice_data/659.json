@@ -1,157 +1,126 @@
 {
     "text_boxes": [
         {
-            "text": "Debenhams",
+            "text": "dunhill",
             "id": 1,
             "bbox": [
-                311,
-                116,
-                407,
-                136
+                275,
+                138,
+                357,
+                210
             ]
         },
         {
-            "text": "Dubai",
+            "text": "4/07/2020",
             "id": 2,
             "bbox": [
-                413,
-                122,
-                457,
-                138
+                125,
+                269,
+                200,
+                291
             ]
         },
         {
-            "text": "Mall",
+            "text": "\u0645",
             "id": 3,
             "bbox": [
-                464,
-                124,
-                495,
-                139
+                506,
+                254,
+                510,
+                269
             ]
         },
         {
-            "text": "22/07/2020",
+            "text": "1956",
             "id": 4,
             "bbox": [
-                469,
+                463,
+                254,
                 498,
-                542,
-                514
+                270
             ]
         },
         {
-            "text": "14.18",
+            "text": "050,00",
             "id": 5,
             "bbox": [
-                550,
-                499,
-                585,
-                512
+                473,
+                363,
+                529,
+                381
             ]
         },
         {
-            "text": "200.00",
+            "text": "050.00",
             "id": 6,
             "bbox": [
-                537,
-                817,
-                581,
-                832
+                474,
+                309,
+                526,
+                326
             ]
         },
         {
-            "text": "200",
+            "text": "SMALL",
             "id": 7,
             "bbox": [
-                540,
-                719,
-                562,
-                732
+                285,
+                317,
+                328,
+                337
             ]
         },
         {
-            "text": "00",
+            "text": "LEATHER",
             "id": 8,
             "bbox": [
-                569,
-                720,
-                584,
-                732
+                335,
+                313,
+                393,
+                334
             ]
         },
         {
-            "text": "1.0",
+            "text": "193230Gcce303",
             "id": 9,
             "bbox": [
-                454,
-                718,
-                471,
-                730
+                127,
+                320,
+                248,
+                347
             ]
         },
         {
-            "text": "MESH",
+            "text": "\u0647\u0641\u062a\u0647",
             "id": 10,
             "bbox": [
-                325,
-                627,
-                366,
-                641
-            ]
-        },
-        {
-            "text": "PARTY",
-            "id": 11,
-            "bbox": [
-                373,
-                627,
-                420,
-                643
-            ]
-        },
-        {
-            "text": "1.0",
-            "id": 12,
-            "bbox": [
-                452,
-                815,
-                469,
-                829
+                272,
+                341,
+                300,
+                351
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MESH",
-                "PARTY"
+                "\u0645",
+                "1956"
             ],
             "value_id": [
-                10,
-                11
+                3,
+                4
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.0"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.0"
+                "193230Gcce303"
             ],
             "value_id": [
                 9
@@ -162,47 +131,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "22/07/2020"
+                "4/07/2020"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Debenhams",
-                "Dubai",
-                "Mall"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "200.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14.18"
-            ],
-            "value_id": [
-                5
+                2
             ]
         },
         {
@@ -210,12 +142,56 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "200",
-                "00"
+                "050.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0647\u0641\u062a\u0647"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SMALL",
+                "LEATHER"
             ],
             "value_id": [
                 7,
                 8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "dunhill"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "050,00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

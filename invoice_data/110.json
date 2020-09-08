@@ -1,68 +1,199 @@
 {
     "text_boxes": [
         {
-            "text": "FENDI",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                355,
-                409,
-                423,
-                430
+                246,
+                247,
+                470,
+                294
             ]
         },
         {
-            "text": "MOMA",
+            "text": "Juy",
             "id": 2,
             "bbox": [
-                380,
-                432,
-                398,
-                438
+                375,
+                347,
+                395,
+                359
             ]
         },
         {
-            "text": "RINOVFFIMETAL",
+            "text": "10",
             "id": 3,
             "bbox": [
-                246,
-                591,
-                300,
-                599
+                402,
+                347,
+                413,
+                359
             ]
         },
         {
-            "text": "SOFT",
+            "text": ",",
             "id": 4,
             "bbox": [
-                307,
-                592,
-                325,
-                598
+                415,
+                347,
+                417,
+                359
             ]
         },
         {
-            "text": "GOLD",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                328,
-                591,
+                423,
+                345,
+                449,
+                358
+            ]
+        },
+        {
+            "text": "13:32",
+            "id": 6,
+            "bbox": [
+                459,
+                344,
+                490,
+                358
+            ]
+        },
+        {
+            "text": "2,118.00",
+            "id": 7,
+            "bbox": [
+                507,
+                692,
+                563,
+                706
+            ]
+        },
+        {
+            "text": "2,118.00",
+            "id": 8,
+            "bbox": [
+                586,
+                525,
+                636,
+                540
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                340,
+                526,
+                341,
+                534
+            ]
+        },
+        {
+            "text": "SNEAKERS",
+            "id": 10,
+            "bbox": [
+                61,
+                523,
+                125,
+                535
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                341,
+                564,
                 346,
-                597
+                574
+            ]
+        },
+        {
+            "text": "634763Y5203",
+            "id": 12,
+            "bbox": [
+                59,
+                538,
+                136,
+                550
+            ]
+        },
+        {
+            "text": "2K1387",
+            "id": 13,
+            "bbox": [
+                138,
+                538,
+                180,
+                550
+            ]
+        },
+        {
+            "text": "10B",
+            "id": 14,
+            "bbox": [
+                185,
+                538,
+                205,
+                550
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FENDI",
-                "MOMA"
+                "13:32"
             ],
             "value_id": [
-                1,
-                2
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "634763Y5203",
+                "2K1387",
+                "10B"
+            ],
+            "value_id": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Juy",
+                "10",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,118.00"
+            ],
+            "value_id": [
+                8
             ]
         },
         {
@@ -70,14 +201,54 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RINOVFFIMETAL",
-                "SOFT",
-                "GOLD"
+                "SNEAKERS"
             ],
             "value_id": [
-                3,
-                4,
-                5
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,118.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

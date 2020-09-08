@@ -1,222 +1,306 @@
 {
     "text_boxes": [
         {
-            "text": "FENDI",
+            "text": "LONGCHAMP",
             "id": 1,
             "bbox": [
-                364,
-                383,
-                439,
-                409
+                288,
+                221,
+                508,
+                251
             ]
         },
         {
-            "text": "ROMA",
+            "text": "PARIS",
             "id": 2,
             "bbox": [
-                390,
-                412,
-                408,
-                418
+                357,
+                252,
+                438,
+                266
             ]
         },
         {
-            "text": "21122020",
+            "text": "July",
             "id": 3,
             "bbox": [
-                200,
-                386,
-                233,
-                395
+                576,
+                330,
+                603,
+                346
             ]
         },
         {
-            "text": "1535PM",
+            "text": ",",
             "id": 4,
             "bbox": [
-                240,
-                388,
-                275,
-                397
+                608,
+                332,
+                610,
+                346
             ]
         },
         {
-            "text": "4,840",
+            "text": "04",
             "id": 5,
             "bbox": [
-                626,
-                721,
-                647,
-                728
+                622,
+                332,
+                635,
+                346
             ]
         },
         {
-            "text": "00",
+            "text": "2020",
             "id": 6,
             "bbox": [
-                651,
-                723,
-                659,
-                729
+                645,
+                333,
+                673,
+                348
             ]
         },
         {
-            "text": "1,419",
+            "text": "10:34",
             "id": 7,
             "bbox": [
-                636,
-                619,
-                661,
-                630
+                683,
+                334,
+                715,
+                350
             ]
         },
         {
-            "text": "05",
+            "text": "240.00",
             "id": 8,
             "bbox": [
-                662,
-                621,
-                669,
-                630
+                667,
+                678,
+                713,
+                692
             ]
         },
         {
-            "text": "3.100",
+            "text": "210.00",
             "id": 9,
             "bbox": [
-                633,
-                662,
-                653,
-                669
-            ]
-        },
-        {
-            "text": "48",
-            "id": 10,
-            "bbox": [
-                655,
-                664,
-                664,
-                671
+                667,
+                579,
+                712,
+                591
             ]
         },
         {
             "text": "1",
+            "id": 10,
+            "bbox": [
+                463,
+                584,
+                467,
+                595
+            ]
+        },
+        {
+            "text": "50552SOIP35",
             "id": 11,
             "bbox": [
-                495,
-                608,
-                497,
-                614
+                204,
+                557,
+                291,
+                573
             ]
         },
         {
-            "text": "WSNEAKERUFABRO",
+            "text": ":",
             "id": 12,
             "bbox": [
-                231,
-                582,
-                309,
-                597
+                295,
+                557,
+                299,
+                573
             ]
         },
         {
-            "text": "RUBBER",
+            "text": "LON.P35",
             "id": 13,
             "bbox": [
-                310,
-                591,
-                343,
-                600
+                300,
+                556,
+                353,
+                573
             ]
         },
         {
-            "text": "SOLE",
+            "text": ":",
             "id": 14,
             "bbox": [
-                345,
-                593,
-                365,
-                603
+                357,
+                556,
+                361,
+                572
             ]
         },
         {
-            "text": "BLACK-BLACK-VHn",
+            "text": "ALL",
             "id": 15,
             "bbox": [
-                372,
-                596,
-                449,
-                610
+                363,
+                556,
+                384,
+                572
             ]
         },
         {
-            "text": "WSLNG",
+            "text": ":",
             "id": 16,
             "bbox": [
-                229,
-                620,
-                260,
-                630
+                388,
+                556,
+                392,
+                572
             ]
         },
         {
-            "text": "BACFABRICLEATHER",
+            "text": "SILK",
             "id": 17,
             "bbox": [
-                261,
-                623,
-                350,
-                639
+                394,
+                556,
+                423,
+                572
             ]
         },
         {
-            "text": "SO",
+            "text": "SCARF",
             "id": 18,
             "bbox": [
-                352,
-                633,
-                363,
-                640
+                431,
+                556,
+                469,
+                572
             ]
         },
         {
-            "text": "BLACKBLACK-BLAC",
+            "text": "50X50",
             "id": 19,
             "bbox": [
-                370,
-                635,
-                444,
-                649
+                478,
+                556,
+                514,
+                572
             ]
         },
         {
-            "text": "2",
+            "text": "POMEGRANAL",
             "id": 20,
             "bbox": [
-                483,
-                689,
-                488,
-                695
+                524,
+                555,
+                623,
+                572
+            ]
+        },
+        {
+            "text": "020724953495",
+            "id": 21,
+            "bbox": [
+                100,
+                557,
+                195,
+                573
+            ]
+        },
+        {
+            "text": ",",
+            "id": 22,
+            "bbox": [
+                629,
+                555,
+                631,
+                571
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10:34"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "020724953495"
+            ],
+            "value_id": [
+                21
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                ",",
+                "04",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "210.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ","
+            ],
+            "value_id": [
+                22
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WSNEAKERUFABRO",
-                "RUBBER",
-                "SOLE",
-                "BLACK-BLACK-VHn",
-                "WSLNG",
-                "BACFABRICLEATHER",
-                "SO",
-                "BLACKBLACK-BLAC"
+                "50552SOIP35",
+                ":",
+                "LON.P35",
+                ":",
+                "ALL",
+                ":",
+                "SILK",
+                "SCARF",
+                "50X50",
+                "POMEGRANAL"
             ],
             "value_id": [
+                11,
                 12,
                 13,
                 14,
@@ -224,18 +308,21 @@
                 16,
                 17,
                 18,
-                19
+                19,
+                20
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2"
+                "LONGCHAMP",
+                "PARIS"
             ],
             "value_id": [
-                20
+                1,
+                2
             ]
         },
         {
@@ -246,31 +333,7 @@
                 "1"
             ],
             "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21122020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FENDI",
-                "ROMA"
-            ],
-            "value_id": [
-                1,
-                2
+                10
             ]
         },
         {
@@ -278,40 +341,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4,840",
-                "00"
+                "240.00"
             ],
             "value_id": [
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1535PM"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,419",
-                "05",
-                "3.100",
-                "48"
-            ],
-            "value_id": [
-                7,
-                8,
-                9,
-                10
+                8
             ]
         }
     ],

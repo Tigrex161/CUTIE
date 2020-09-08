@@ -1,288 +1,207 @@
 {
     "text_boxes": [
         {
-            "text": "LADUREE",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
+                310,
                 306,
-                266,
-                417,
-                279
+                459,
+                360
             ]
         },
         {
-            "text": "02:02pm",
+            "text": "11172096",
             "id": 2,
             "bbox": [
-                183,
-                489,
-                244,
-                511
+                86,
+                571,
+                130,
+                581
             ]
         },
         {
-            "text": "125.00",
+            "text": "14:51",
             "id": 3,
             "bbox": [
-                448,
-                733,
-                550,
-                749
+                137,
+                571,
+                159,
+                581
             ]
         },
         {
-            "text": "66.00",
+            "text": "4.750.00",
             "id": 4,
             "bbox": [
-                506,
-                533,
-                548,
-                548
+                591,
+                715,
+                625,
+                724
             ]
         },
         {
-            "text": "0.00",
+            "text": "1.962",
             "id": 5,
             "bbox": [
-                517,
-                588,
-                552,
-                606
+                615,
+                648,
+                635,
+                657
             ]
         },
         {
-            "text": "59.00",
+            "text": ":",
             "id": 6,
             "bbox": [
-                510,
-                610,
-                552,
-                625
+                637,
+                648,
+                638,
+                657
             ]
         },
         {
-            "text": "0.00",
+            "text": "38",
             "id": 7,
             "bbox": [
-                522,
-                669,
-                556,
-                683
+                640,
+                648,
+                648,
+                657
+            ]
+        },
+        {
+            "text": "2.571.43",
+            "id": 8,
+            "bbox": [
+                614,
+                661,
+                648,
+                670
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                373,
+                651,
+                374,
+                659
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                373,
+                664,
+                374,
+                671
             ]
         },
         {
             "text": "2",
-            "id": 8,
-            "bbox": [
-                201,
-                532,
-                208,
-                545
-            ]
-        },
-        {
-            "text": "Fresh",
-            "id": 9,
-            "bbox": [
-                228,
-                590,
-                271,
-                604
-            ]
-        },
-        {
-            "text": "Full",
-            "id": 10,
-            "bbox": [
-                282,
-                590,
-                313,
-                605
-            ]
-        },
-        {
-            "text": "Fat",
             "id": 11,
             "bbox": [
-                327,
-                591,
-                349,
-                605
+                372,
+                691,
+                372,
+                699
             ]
         },
         {
-            "text": "Perdu",
+            "text": "Women",
             "id": 12,
             "bbox": [
-                264,
-                610,
-                307,
-                627
+                226,
+                650,
+                255,
+                659
             ]
         },
         {
-            "text": "Cafe",
+            "text": "SLO",
             "id": 13,
             "bbox": [
-                218,
-                531,
-                253,
-                548
+                260,
+                650,
+                276,
+                659
             ]
         },
         {
-            "text": "Latte",
+            "text": "Women",
             "id": 14,
             "bbox": [
-                263,
-                533,
-                306,
-                549
+                225,
+                664,
+                256,
+                674
             ]
         },
         {
-            "text": "Maple",
+            "text": "Shoes",
             "id": 15,
             "bbox": [
-                227,
-                670,
-                271,
-                687
+                261,
+                664,
+                284,
+                674
             ]
         },
         {
-            "text": "Syrup",
+            "text": "S0IBIOVRB",
             "id": 16,
             "bbox": [
-                282,
-                670,
-                325,
-                686
+                83,
+                650,
+                135,
+                662
             ]
         },
         {
-            "text": "\u0627\u0644\u062a\u0648\u0633\u062a",
+            "text": "KCESOBE",
             "id": 17,
             "bbox": [
-                284,
-                635,
-                334,
-                647
-            ]
-        },
-        {
-            "text": "\u0627\u0644\u0641\u0631\u062a\u0633\u064a",
-            "id": 18,
-            "bbox": [
-                213,
-                635,
-                271,
-                648
-            ]
-        },
-        {
-            "text": "\u0642\u0647\u0648\u0629",
-            "id": 19,
-            "bbox": [
-                263,
-                556,
-                295,
-                569
-            ]
-        },
-        {
-            "text": "\u0644\u0627\u062a\u06cc\u0647",
-            "id": 20,
-            "bbox": [
-                216,
-                555,
-                247,
-                569
+                83,
+                663,
+                134,
+                674
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Fresh",
-                "Full",
-                "Fat",
-                "Perdu",
-                "Cafe",
-                "Latte",
-                "Maple",
-                "Syrup"
-            ],
-            "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0627\u0644\u062a\u0648\u0633\u062a",
-                "\u0627\u0644\u0641\u0631\u062a\u0633\u064a",
-                "\u0642\u0647\u0648\u0629",
-                "\u0644\u0627\u062a\u06cc\u0647"
-            ],
-            "value_id": [
-                17,
-                18,
-                19,
-                20
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LADUREE"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "125.00"
+                "14:51"
             ],
             "value_id": [
                 3
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02:02pm"
+                "S0IBIOVRB",
+                "KCESOBE"
+            ],
+            "value_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11172096"
             ],
             "value_id": [
                 2
@@ -293,16 +212,79 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "66.00",
-                "0.00",
-                "59.00",
-                "0.00"
+                "1.962",
+                ":",
+                "38",
+                "2.571.43"
             ],
             "value_id": [
-                4,
                 5,
                 6,
-                7
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Women",
+                "SLO",
+                "Women",
+                "Shoes"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4.750.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

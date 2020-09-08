@@ -1,135 +1,168 @@
 {
     "text_boxes": [
         {
-            "text": "KENZO",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                290,
-                103,
-                532,
-                165
+                256,
+                176,
+                350,
+                198
             ]
         },
         {
-            "text": "PARIS",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                484,
-                126,
-                514,
-                138
+                364,
+                174,
+                465,
+                196
             ]
         },
         {
-            "text": "June,",
+            "text": "08/07/20",
             "id": 3,
             "bbox": [
-                567,
-                261,
-                599,
-                270
+                206,
+                461,
+                297,
+                489
             ]
         },
         {
-            "text": "29",
+            "text": "14:45",
             "id": 4,
             "bbox": [
-                611,
-                261,
-                623,
-                270
+                311,
+                459,
+                367,
+                485
             ]
         },
         {
-            "text": "2020",
+            "text": "636.65",
             "id": 5,
             "bbox": [
-                632,
-                261,
-                659,
-                272
+                554,
+                873,
+                622,
+                896
             ]
         },
         {
-            "text": "19:32",
+            "text": "749.00",
             "id": 6,
             "bbox": [
-                668,
-                262,
-                703,
-                274
+                546,
+                664,
+                613,
+                689
             ]
         },
         {
-            "text": "150.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                623,
-                593,
-                663,
-                605
+                143,
+                704,
+                147,
+                723
             ]
         },
         {
-            "text": "450,00",
+            "text": "Beauty",
             "id": 8,
             "bbox": [
-                621,
-                513,
-                660,
-                522
+                130,
+                645,
+                199,
+                666
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 9,
+            "bbox": [
+                130,
+                673,
+                162,
+                696
+            ]
+        },
+        {
+            "text": "TENUE",
+            "id": 10,
+            "bbox": [
+                178,
+                672,
+                232,
+                696
+            ]
+        },
+        {
+            "text": "DE",
+            "id": 11,
+            "bbox": [
+                247,
+                672,
+                267,
+                695
+            ]
+        },
+        {
+            "text": "SOIREE",
+            "id": 12,
+            "bbox": [
+                282,
+                670,
+                348,
+                695
+            ]
+        },
+        {
+            "text": "900752719",
+            "id": 13,
+            "bbox": [
+                189,
+                700,
+                291,
+                723
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "June,",
-                "29",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "KENZO",
-                "PARIS"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "150.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
             "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19:32"
+                "14:45"
             ],
             "value_id": [
-                6
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900752719"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08/07/20"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -137,10 +170,64 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "450,00"
+                "749.00"
             ],
             "value_id": [
-                8
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Beauty",
+                "EDP",
+                "TENUE",
+                "DE",
+                "SOIREE"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "636.65"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

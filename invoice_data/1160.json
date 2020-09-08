@@ -1,0 +1,273 @@
+{
+    "text_boxes": [
+        {
+            "text": "25",
+            "id": 1,
+            "bbox": [
+                452,
+                232,
+                466,
+                247
+            ]
+        },
+        {
+            "text": "Jul",
+            "id": 2,
+            "bbox": [
+                475,
+                232,
+                495,
+                247
+            ]
+        },
+        {
+            "text": ",",
+            "id": 3,
+            "bbox": [
+                499,
+                232,
+                500,
+                247
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                513,
+                232,
+                540,
+                247
+            ]
+        },
+        {
+            "text": "13:14",
+            "id": 5,
+            "bbox": [
+                551,
+                232,
+                584,
+                247
+            ]
+        },
+        {
+            "text": "4,950,00",
+            "id": 6,
+            "bbox": [
+                591,
+                496,
+                648,
+                509
+            ]
+        },
+        {
+            "text": "4,950.00",
+            "id": 7,
+            "bbox": [
+                600,
+                400,
+                658,
+                414
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                424,
+                403,
+                428,
+                414
+            ]
+        },
+        {
+            "text": "|",
+            "id": 9,
+            "bbox": [
+                281,
+                377,
+                285,
+                395
+            ]
+        },
+        {
+            "text": "SAINT",
+            "id": 10,
+            "bbox": [
+                86,
+                377,
+                122,
+                395
+            ]
+        },
+        {
+            "text": "LAURENT",
+            "id": 11,
+            "bbox": [
+                128,
+                377,
+                183,
+                395
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 12,
+            "bbox": [
+                189,
+                377,
+                236,
+                395
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 13,
+            "bbox": [
+                242,
+                377,
+                280,
+                395
+            ]
+        },
+        {
+            "text": "034811100812",
+            "id": 14,
+            "bbox": [
+                86,
+                403,
+                173,
+                416
+            ]
+        },
+        {
+            "text": "\u0623\u062d\u0630\u064a\u0629",
+            "id": 15,
+            "bbox": [
+                337,
+                377,
+                369,
+                395
+            ]
+        },
+        {
+            "text": "\u0646\u0633\u0627\u0626\u064a\u0629",
+            "id": 16,
+            "bbox": [
+                289,
+                377,
+                333,
+                395
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:14"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "034811100812"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25",
+                "Jul",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,950.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0623\u062d\u0630\u064a\u0629",
+                "\u0646\u0633\u0627\u0626\u064a\u0629"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "|",
+                "SAINT",
+                "LAURENT",
+                "WOMENS",
+                "SHOES"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,950,00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1160.jpg"
+    }
+}

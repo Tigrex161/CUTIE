@@ -1,171 +1,203 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                348,
-                206,
-                439,
-                267
+                385,
+                331,
+                473,
+                371
             ]
         },
         {
-            "text": "SHOES",
+            "text": "KIDS",
             "id": 2,
             "bbox": [
-                365,
-                277,
-                421,
-                288
+                447,
+                373,
+                471,
+                385
             ]
         },
         {
-            "text": "Jul,",
+            "text": "7/11/20120",
             "id": 3,
             "bbox": [
-                506,
-                400,
-                531,
-                410
+                185,
+                354,
+                227,
+                366
             ]
         },
         {
-            "text": "2020",
+            "text": "156",
             "id": 4,
             "bbox": [
-                544,
-                399,
-                571,
-                408
+                236,
+                354,
+                250,
+                366
             ]
         },
         {
-            "text": "16:47",
+            "text": ":",
             "id": 5,
             "bbox": [
-                581,
-                398,
-                615,
-                408
+                250,
+                354,
+                252,
+                366
             ]
         },
         {
-            "text": "3,",
+            "text": "16",
             "id": 6,
             "bbox": [
-                626,
-                662,
-                636,
-                672
+                254,
+                354,
+                260,
+                366
             ]
         },
         {
-            "text": "550.00",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                641,
-                661,
-                683,
-                672
+                265,
+                354,
+                276,
+                366
             ]
         },
         {
-            "text": "3,",
+            "text": "1",
             "id": 8,
             "bbox": [
-                634,
-                567,
-                643,
-                577
+                563,
+                601,
+                565,
+                611
             ]
         },
         {
-            "text": "S50.",
+            "text": "BGIRL",
             "id": 9,
             "bbox": [
-                649,
-                564,
-                680,
-                577
+                239,
+                589,
+                266,
+                603
             ]
         },
         {
-            "text": "00",
+            "text": "JERSEY",
             "id": 10,
             "bbox": [
-                682,
-                564,
-                692,
-                577
+                269,
+                590,
+                306,
+                604
             ]
         },
         {
-            "text": "FENDI",
+            "text": "T",
             "id": 11,
             "bbox": [
-                118,
-                542,
-                151,
-                550
+                310,
+                592,
+                313,
+                604
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "-",
             "id": 12,
             "bbox": [
-                159,
-                539,
-                218,
-                554
+                316,
+                592,
+                317,
+                604
             ]
         },
         {
-            "text": "SHOES",
+            "text": "SHIRT",
             "id": 13,
             "bbox": [
-                220,
-                540,
-                250,
-                553
+                320,
+                592,
+                347,
+                605
             ]
         },
         {
-            "text": "bi",
+            "text": "MILK",
             "id": 14,
             "bbox": [
-                311,
-                542,
-                341,
-                554
+                358,
+                593,
+                378,
+                606
+            ]
+        },
+        {
+            "text": "CREAM",
+            "id": 15,
+            "bbox": [
+                380,
+                593,
+                414,
+                607
+            ]
+        },
+        {
+            "text": "1",
+            "id": 16,
+            "bbox": [
+                562,
+                651,
+                564,
+                662
+            ]
+        },
+        {
+            "text": "700252",
+            "id": 17,
+            "bbox": [
+                77,
+                588,
+                104,
+                598
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FENDI",
-                "WOMENS",
-                "SHOES"
+                "156",
+                ":",
+                "16",
+                "PM"
             ],
             "value_id": [
-                11,
-                12,
-                13
+                4,
+                5,
+                6,
+                7
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "bi"
+                "700252"
             ],
             "value_id": [
-                14
+                17
             ]
         },
         {
@@ -173,12 +205,33 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "7/11/20120"
             ],
             "value_id": [
-                3,
-                4
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BGIRL",
+                "JERSEY",
+                "T",
+                "-",
+                "SHIRT",
+                "MILK",
+                "CREAM"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
             ]
         },
         {
@@ -186,8 +239,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "level",
-                "SHOES"
+                "FENDI",
+                "KIDS"
             ],
             "value_id": [
                 1,
@@ -195,42 +248,25 @@
             ]
         },
         {
-            "field_name": "total",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,",
-                "550.00"
+                "1"
             ],
             "value_id": [
-                6,
-                7
+                16
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:47"
+                "1"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,",
-                "S50.",
-                "00"
-            ],
-            "value_id": [
-                8,
-                9,
-                10
+                8
             ]
         }
     ],

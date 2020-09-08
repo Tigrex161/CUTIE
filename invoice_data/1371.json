@@ -1,0 +1,252 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                363,
+                236,
+                396,
+                250
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                401,
+                234,
+                452,
+                249
+            ]
+        },
+        {
+            "text": "BONGO",
+            "id": 3,
+            "bbox": [
+                383,
+                268,
+                413,
+                276
+            ]
+        },
+        {
+            "text": "30/07/2020",
+            "id": 4,
+            "bbox": [
+                540,
+                410,
+                593,
+                424
+            ]
+        },
+        {
+            "text": "1113",
+            "id": 5,
+            "bbox": [
+                612,
+                408,
+                637,
+                421
+            ]
+        },
+        {
+            "text": "9.200.00",
+            "id": 6,
+            "bbox": [
+                664,
+                615,
+                708,
+                624
+            ]
+        },
+        {
+            "text": "3,200.00",
+            "id": 7,
+            "bbox": [
+                664,
+                463,
+                706,
+                473
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                317,
+                469,
+                320,
+                477
+            ]
+        },
+        {
+            "text": "M44015",
+            "id": 9,
+            "bbox": [
+                103,
+                470,
+                133,
+                480
+            ]
+        },
+        {
+            "text": "SOUPROT",
+            "id": 10,
+            "bbox": [
+                147,
+                470,
+                188,
+                480
+            ]
+        },
+        {
+            "text": "VON",
+            "id": 11,
+            "bbox": [
+                196,
+                469,
+                218,
+                479
+            ]
+        },
+        {
+            "text": "MIC",
+            "id": 12,
+            "bbox": [
+                224,
+                469,
+                240,
+                479
+            ]
+        },
+        {
+            "text": "NAT",
+            "id": 13,
+            "bbox": [
+                247,
+                469,
+                262,
+                479
+            ]
+        },
+        {
+            "text": "DAILY",
+            "id": 14,
+            "bbox": [
+                103,
+                480,
+                128,
+                488
+            ]
+        },
+        {
+            "text": "JUNE",
+            "id": 15,
+            "bbox": [
+                135,
+                480,
+                155,
+                488
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1113"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30/07/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,200.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "M44015",
+                "SOUPROT",
+                "VON",
+                "MIC",
+                "NAT",
+                "DAILY",
+                "JUNE"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "BONGO"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9.200.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1371.jpg"
+    }
+}

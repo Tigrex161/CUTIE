@@ -1,120 +1,178 @@
 {
     "text_boxes": [
         {
-            "text": "CLARINS",
+            "text": "Urban",
             "id": 1,
             "bbox": [
-                231,
-                315,
-                576,
-                352
+                187,
+                190,
+                246,
+                211
             ]
         },
         {
-            "text": ":",
+            "text": "Outfitters",
             "id": 2,
             "bbox": [
-                528,
-                419,
-                535,
-                431
+                260,
+                189,
+                378,
+                210
             ]
         },
         {
-            "text": "17:05",
+            "text": "Dubai",
             "id": 3,
             "bbox": [
-                533,
-                438,
-                562,
-                449
+                392,
+                188,
+                450,
+                208
             ]
         },
         {
-            "text": "0 105,0",
+            "text": "Mall",
             "id": 4,
             "bbox": [
-                579,
-                927,
-                614,
-                941
+                463,
+                187,
+                510,
+                207
             ]
         },
         {
-            "text": "105,00",
+            "text": "00",
             "id": 5,
             "bbox": [
-                606,
-                599,
-                638,
-                607
+                531,
+                707,
+                548,
+                720
             ]
         },
         {
-            "text": "03",
+            "text": "\u0648",
             "id": 6,
             "bbox": [
-                225,
-                582,
-                235,
-                593
+                516,
+                707,
+                520,
+                720
+            ]
+        },
+        {
+            "text": "5",
+            "id": 7,
+            "bbox": [
+                494,
+                707,
+                507,
+                720
+            ]
+        },
+        {
+            "text": "59",
+            "id": 8,
+            "bbox": [
+                519,
+                548,
+                532,
+                562
+            ]
+        },
+        {
+            "text": ".",
+            "id": 9,
+            "bbox": [
+                537,
+                548,
+                540,
+                562
+            ]
+        },
+        {
+            "text": "225",
+            "id": 10,
+            "bbox": [
+                342,
+                528,
+                367,
+                545
+            ]
+        },
+        {
+            "text": "\u0648",
+            "id": 11,
+            "bbox": [
+                228,
+                527,
+                236,
+                543
+            ]
+        },
+        {
+            "text": "25",
+            "id": 12,
+            "bbox": [
+                160,
+                527,
+                201,
+                543
+            ]
+        },
+        {
+            "text": "\u0645\u0627\u0646\u06cc",
+            "id": 13,
+            "bbox": [
+                519,
+                528,
+                553,
+                545
+            ]
+        },
+        {
+            "text": "\u0648",
+            "id": 14,
+            "bbox": [
+                501,
+                528,
+                505,
+                545
+            ]
+        },
+        {
+            "text": "\u0628\u06cc\u0648\u0632",
+            "id": 15,
+            "bbox": [
+                453,
+                528,
+                489,
+                545
+            ]
+        },
+        {
+            "text": "\u0631\u062c\u0627\u0644\u064a",
+            "id": 16,
+            "bbox": [
+                397,
+                528,
+                440,
+                545
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "03"
+                "\u0648",
+                "25"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                ":"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CLARINS"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "0 105,0"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:05"
-            ],
-            "value_id": [
-                3
+                11,
+                12
             ]
         },
         {
@@ -122,10 +180,72 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "105,00"
+                "59",
+                "."
             ],
             "value_id": [
-                5
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0627\u0646\u06cc",
+                "\u0648",
+                "\u0628\u06cc\u0648\u0632",
+                "\u0631\u062c\u0627\u0644\u064a"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "225"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Urban",
+                "Outfitters",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "00",
+                "\u0648",
+                "5"
+            ],
+            "value_id": [
+                5,
+                6,
+                7
             ]
         }
     ],

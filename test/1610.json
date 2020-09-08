@@ -1,0 +1,147 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZANZARA",
+            "id": 1,
+            "bbox": [
+                304,
+                48,
+                473,
+                163
+            ]
+        },
+        {
+            "text": "25-07-2020",
+            "id": 2,
+            "bbox": [
+                285,
+                187,
+                344,
+                206
+            ]
+        },
+        {
+            "text": "19:37",
+            "id": 3,
+            "bbox": [
+                352,
+                193,
+                382,
+                209
+            ]
+        },
+        {
+            "text": "1",
+            "id": 4,
+            "bbox": [
+                360,
+                257,
+                361,
+                270
+            ]
+        },
+        {
+            "text": "0443218005404",
+            "id": 5,
+            "bbox": [
+                347,
+                268,
+                425,
+                284
+            ]
+        },
+        {
+            "text": "TROUSERS",
+            "id": 6,
+            "bbox": [
+                440,
+                268,
+                487,
+                283
+            ]
+        },
+        {
+            "text": "10001761",
+            "id": 7,
+            "bbox": [
+                286,
+                270,
+                332,
+                284
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:37"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001761"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0443218005404",
+                "TROUSERS"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZANZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                4
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1610.jpg"
+    }
+}

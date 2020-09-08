@@ -1,153 +1,159 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                464,
-                263,
-                487,
-                273
+                310,
+                92,
+                475,
+                143
             ]
         },
         {
-            "text": "2020",
+            "text": "01/07/2020",
             "id": 2,
             "bbox": [
-                498,
-                260,
-                524,
-                270
+                69,
+                371,
+                115,
+                382
             ]
         },
         {
-            "text": "23:07",
+            "text": "21:30",
             "id": 3,
             "bbox": [
-                532,
-                260,
-                565,
-                269
+                125,
+                371,
+                147,
+                382
             ]
         },
         {
-            "text": "2,",
+            "text": "1.5,340.00",
             "id": 4,
             "bbox": [
-                586,
-                496,
-                596,
+                603,
+                522,
+                642,
+                533
+            ]
+        },
+        {
+            "text": "800.00",
+            "id": 5,
+            "bbox": [
+                643,
+                453,
+                670,
+                462
+            ]
+        },
+        {
+            "text": "11.90476",
+            "id": 6,
+            "bbox": [
+                631,
+                468,
+                670,
+                477
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                379,
+                455,
+                381,
+                463
+            ]
+        },
+        {
+            "text": "2",
+            "id": 8,
+            "bbox": [
+                379,
+                498,
+                382,
                 506
             ]
         },
         {
-            "text": "500.",
-            "id": 5,
-            "bbox": [
-                601,
-                494,
-                626,
-                505
-            ]
-        },
-        {
-            "text": "00",
-            "id": 6,
-            "bbox": [
-                629,
-                496,
-                643,
-                504
-            ]
-        },
-        {
-            "text": "2,500.00",
-            "id": 7,
-            "bbox": [
-                593,
-                406,
-                649,
-                418
-            ]
-        },
-        {
-            "text": "BALENCIAGNEN",
-            "id": 8,
-            "bbox": [
-                111,
-                393,
-                199,
-                407
-            ]
-        },
-        {
-            "text": "BAG:",
+            "text": "Scarves",
             "id": 9,
             "bbox": [
-                205,
-                393,
-                235,
-                405
+                223,
+                455,
+                255,
+                466
             ]
         },
         {
-            "text": "BALENCIAGA",
+            "text": "Women",
             "id": 10,
             "bbox": [
-                237,
-                392,
-                301,
-                405
+                224,
+                470,
+                256,
+                480
             ]
         },
         {
-            "text": "ME'S",
+            "text": "Bags",
             "id": 11,
             "bbox": [
-                308,
-                393,
-                342,
-                403
+                260,
+                470,
+                278,
+                480
             ]
         },
         {
-            "text": "yis",
+            "text": "81ABCI06.00",
             "id": 12,
             "bbox": [
-                468,
-                388,
-                500,
-                400
+                72,
+                453,
+                139,
+                466
+            ]
+        },
+        {
+            "text": "M505OWEC",
+            "id": 13,
+            "bbox": [
+                77,
+                470,
+                132,
+                480
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BALENCIAGNEN",
-                "BAG:",
-                "BALENCIAGA",
-                "ME'S"
+                "21:30"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11
+                3
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "yis"
+                "81ABCI06.00",
+                "M505OWEC"
             ],
             "value_id": [
-                12
+                12,
+                13
             ]
         },
         {
@@ -155,38 +161,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "01/07/2020"
             ],
             "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,",
-                "500.",
-                "00"
-            ],
-            "value_id": [
-                4,
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "23:07"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -194,10 +172,71 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,500.00"
+                "800.00",
+                "11.90476"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Scarves",
+                "Women",
+                "Bags"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.5,340.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

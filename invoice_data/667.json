@@ -1,185 +1,193 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "Apple",
             "id": 1,
             "bbox": [
-                251,
-                127,
-                324,
-                139
+                178,
+                225,
+                201,
+                240
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                336,
-                128,
-                417,
-                140
+                205,
+                225,
+                229,
+                240
             ]
         },
         {
-            "text": "14/07/20",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                215,
-                363,
-                286,
-                379
+                232,
+                225,
+                250,
+                240
             ]
         },
         {
-            "text": "19:33",
+            "text": "25/06/20",
             "id": 4,
             "bbox": [
-                299,
-                364,
-                342,
-                377
+                179,
+                1191,
+                215,
+                1200
             ]
         },
         {
-            "text": "960.00",
+            "text": "16:32",
             "id": 5,
             "bbox": [
-                489,
-                605,
-                543,
-                619
+                225,
+                1191,
+                244,
+                1200
             ]
         },
         {
-            "text": "960.00",
+            "text": "AED",
             "id": 6,
             "bbox": [
-                482,
-                522,
-                533,
-                535
+                524,
+                826,
+                540,
+                840
             ]
         },
         {
-            "text": "2sku",
+            "text": "479.00",
             "id": 7,
             "bbox": [
-                168,
-                554,
-                203,
-                566
+                544,
+                826,
+                570,
+                842
             ]
         },
         {
-            "text": "Leather",
+            "text": "AED",
             "id": 8,
             "bbox": [
-                159,
-                510,
-                220,
-                523
+                527,
+                747,
+                542,
+                763
             ]
         },
         {
-            "text": "Accessory",
+            "text": "47900",
             "id": 9,
             "bbox": [
-                232,
-                507,
-                311,
-                522
+                546,
+                747,
+                570,
+                763
             ]
         },
         {
-            "text": "ACC",
+            "text": "DJI",
             "id": 10,
             "bbox": [
-                158,
-                531,
-                183,
-                544
+                179,
+                612,
+                191,
+                623
             ]
         },
         {
-            "text": "KENZO",
+            "text": "OSMO",
             "id": 11,
             "bbox": [
-                195,
-                531,
-                239,
-                543
+                194,
+                612,
+                219,
+                623
             ]
         },
         {
-            "text": "900634020",
+            "text": "3",
             "id": 12,
             "bbox": [
-                233,
-                549,
-                312,
-                565
+                223,
+                612,
+                227,
+                623
+            ]
+        },
+        {
+            "text": "COMBO",
+            "id": 13,
+            "bbox": [
+                230,
+                612,
+                261,
+                623
+            ]
+        },
+        {
+            "text": "ZML",
+            "id": 14,
+            "bbox": [
+                263,
+                612,
+                282,
+                623
+            ]
+        },
+        {
+            "text": ":",
+            "id": 15,
+            "bbox": [
+                231,
+                626,
+                232,
+                641
+            ]
+        },
+        {
+            "text": "HNEN2ZM",
+            "id": 16,
+            "bbox": [
+                234,
+                626,
+                272,
+                641
+            ]
+        },
+        {
+            "text": "/",
+            "id": 17,
+            "bbox": [
+                276,
+                626,
+                277,
+                641
+            ]
+        },
+        {
+            "text": "A",
+            "id": 18,
+            "bbox": [
+                281,
+                626,
+                282,
+                641
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Leather",
-                "Accessory",
-                "ACC",
-                "KENZO"
-            ],
-            "value_id": [
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2sku"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14/07/20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "960.00"
+                "16:32"
             ],
             "value_id": [
                 5
@@ -190,18 +198,24 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900634020"
+                ":",
+                "HNEN2ZM",
+                "/",
+                "A"
             ],
             "value_id": [
-                12
+                15,
+                16,
+                17,
+                18
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19:33"
+                "25/06/20"
             ],
             "value_id": [
                 4
@@ -212,10 +226,59 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "960.00"
+                "AED",
+                "47900"
             ],
             "value_id": [
-                6
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DJI",
+                "OSMO",
+                "3",
+                "COMBO",
+                "ZML"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Apple",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED",
+                "479.00"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         }
     ],

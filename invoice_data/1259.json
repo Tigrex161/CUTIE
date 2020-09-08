@@ -1,0 +1,288 @@
+{
+    "text_boxes": [
+        {
+            "text": "18",
+            "id": 1,
+            "bbox": [
+                514,
+                230,
+                525,
+                246
+            ]
+        },
+        {
+            "text": "Jul",
+            "id": 2,
+            "bbox": [
+                536,
+                230,
+                558,
+                246
+            ]
+        },
+        {
+            "text": ",",
+            "id": 3,
+            "bbox": [
+                560,
+                230,
+                562,
+                246
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                576,
+                230,
+                605,
+                246
+            ]
+        },
+        {
+            "text": "I3",
+            "id": 5,
+            "bbox": [
+                616,
+                230,
+                628,
+                246
+            ]
+        },
+        {
+            "text": ":",
+            "id": 6,
+            "bbox": [
+                632,
+                230,
+                634,
+                246
+            ]
+        },
+        {
+            "text": "23",
+            "id": 7,
+            "bbox": [
+                638,
+                230,
+                652,
+                246
+            ]
+        },
+        {
+            "text": "3.360.00",
+            "id": 8,
+            "bbox": [
+                663,
+                511,
+                725,
+                524
+            ]
+        },
+        {
+            "text": "3,360",
+            "id": 9,
+            "bbox": [
+                672,
+                408,
+                708,
+                422
+            ]
+        },
+        {
+            "text": "-",
+            "id": 10,
+            "bbox": [
+                712,
+                408,
+                715,
+                422
+            ]
+        },
+        {
+            "text": "00",
+            "id": 11,
+            "bbox": [
+                718,
+                408,
+                732,
+                422
+            ]
+        },
+        {
+            "text": "|",
+            "id": 12,
+            "bbox": [
+                481,
+                408,
+                483,
+                421
+            ]
+        },
+        {
+            "text": "CHANIEL",
+            "id": 13,
+            "bbox": [
+                120,
+                380,
+                163,
+                399
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 14,
+            "bbox": [
+                174,
+                380,
+                219,
+                400
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 15,
+            "bbox": [
+                230,
+                381,
+                268,
+                400
+            ]
+        },
+        {
+            "text": ",",
+            "id": 16,
+            "bbox": [
+                164,
+                380,
+                169,
+                399
+            ]
+        },
+        {
+            "text": "\u0623\u062d\u0630\u064a\u0629",
+            "id": 17,
+            "bbox": [
+                333,
+                382,
+                370,
+                401
+            ]
+        },
+        {
+            "text": "\u0646\u0633\u0627\u0626\u064a\u0647",
+            "id": 18,
+            "bbox": [
+                278,
+                381,
+                326,
+                402
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "I3",
+                ":",
+                "23"
+            ],
+            "value_id": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18",
+                "Jul",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,360",
+                "-",
+                "00"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0623\u062d\u0630\u064a\u0629",
+                "\u0646\u0633\u0627\u0626\u064a\u0647"
+            ],
+            "value_id": [
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANIEL",
+                "WOMENS",
+                "SHOES",
+                ","
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "|"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3.360.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1259.jpg"
+    }
+}

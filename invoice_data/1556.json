@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "Enwar",
+            "id": 1,
+            "bbox": [
+                288,
+                211,
+                319,
+                225
+            ]
+        },
+        {
+            "text": "Gift",
+            "id": 2,
+            "bbox": [
+                329,
+                213,
+                353,
+                226
+            ]
+        },
+        {
+            "text": "Card",
+            "id": 3,
+            "bbox": [
+                363,
+                214,
+                388,
+                228
+            ]
+        },
+        {
+            "text": "31/07/2020",
+            "id": 4,
+            "bbox": [
+                198,
+                392,
+                266,
+                412
+            ]
+        },
+        {
+            "text": "17:25:02",
+            "id": 5,
+            "bbox": [
+                377,
+                398,
+                430,
+                418
+            ]
+        },
+        {
+            "text": "Gift",
+            "id": 6,
+            "bbox": [
+                148,
+                497,
+                173,
+                515
+            ]
+        },
+        {
+            "text": "Card",
+            "id": 7,
+            "bbox": [
+                182,
+                498,
+                207,
+                516
+            ]
+        },
+        {
+            "text": "1,000.00AED",
+            "id": 8,
+            "bbox": [
+                368,
+                505,
+                436,
+                523
+            ]
+        },
+        {
+            "text": "1.015.00AED",
+            "id": 9,
+            "bbox": [
+                427,
+                632,
+                492,
+                648
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:25:02"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "31/07/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,000.00AED"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Gift",
+                "Card"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Enwar",
+                "Gift",
+                "Card"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.015.00AED"
+            ],
+            "value_id": [
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1556.jpg"
+    }
+}

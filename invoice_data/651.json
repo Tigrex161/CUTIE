@@ -1,179 +1,156 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                509,
-                495,
-                532,
-                506
+                951,
+                1205,
+                1318,
+                1321
             ]
         },
         {
-            "text": "2020",
+            "text": "09/07/2020",
             "id": 2,
             "bbox": [
-                543,
-                496,
-                568,
-                506
+                393,
+                2543,
+                520,
+                2578
             ]
         },
         {
-            "text": "17:34",
+            "text": "18:45:51",
             "id": 3,
             "bbox": [
-                578,
-                497,
-                609,
-                507
+                526,
+                2541,
+                622,
+                2575
             ]
         },
         {
-            "text": "440.00",
+            "text": "3,800.00",
             "id": 4,
             "bbox": [
-                608,
-                721,
-                645,
-                733
+                1876,
+                2129,
+                1954,
+                2150
             ]
         },
         {
-            "text": "440.00",
+            "text": "3.800",
             "id": 5,
             "bbox": [
-                623,
-                648,
-                660,
-                657
+                1867,
+                2018,
+                1915,
+                2039
             ]
         },
         {
-            "text": "SD006-1374-HLACK:",
+            "text": "DO",
             "id": 6,
             "bbox": [
-                165,
-                607,
-                274,
-                624
+                1923,
+                2016,
+                1943,
+                2036
             ]
         },
         {
-            "text": "VEM.",
+            "text": "1",
             "id": 7,
             "bbox": [
-                276,
-                612,
-                298,
-                624
+                1035,
+                2037,
+                1043,
+                2053
             ]
         },
         {
-            "text": "BLACK:43:CLASSIC",
+            "text": "DIAMANTS",
             "id": 8,
             "bbox": [
-                300,
-                612,
-                406,
-                628
+                454,
+                2003,
+                542,
+                2027
             ]
         },
         {
-            "text": "LOGO",
+            "text": "LEGERS",
             "id": 9,
             "bbox": [
-                406,
-                619,
-                431,
-                629
+                546,
+                2002,
+                607,
+                2025
             ]
         },
         {
-            "text": "FLIP",
+            "text": "NECKLACE",
             "id": 10,
             "bbox": [
-                438,
-                620,
-                462,
-                630
+                611,
+                2000,
+                697,
+                2024
             ]
         },
         {
-            "text": "J",
+            "text": "PG",
             "id": 11,
             "bbox": [
-                522,
-                622,
-                526,
-                633
+                701,
+                2001,
+                724,
+                2022
             ]
         },
         {
-            "text": "38832475277s",
+            "text": "PINK",
             "id": 12,
             "bbox": [
-                162,
-                631,
-                238,
-                642
+                729,
+                1999,
+                768,
+                2022
+            ]
+        },
+        {
+            "text": "SAPHIRE",
+            "id": 13,
+            "bbox": [
+                773,
+                1998,
+                844,
+                2021
+            ]
+        },
+        {
+            "text": "87218400",
+            "id": 14,
+            "bbox": [
+                562,
+                2024,
+                666,
+                2057
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SD006-1374-HLACK:",
-                "VEM.",
-                "BLACK:43:CLASSIC",
-                "LOGO",
-                "FLIP"
+                "18:45:51"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "J"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "440.00"
-            ],
-            "value_id": [
-                4
+                3
             ]
         },
         {
@@ -181,21 +158,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "38832475277s"
+                "87218400"
             ],
             "value_id": [
-                12
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:34"
+                "09/07/2020"
             ],
             "value_id": [
-                3
+                2
             ]
         },
         {
@@ -203,10 +180,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "440.00"
+                "3.800",
+                "DO"
             ],
             "value_id": [
-                5
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIAMANTS",
+                "LEGERS",
+                "NECKLACE",
+                "PG",
+                "PINK",
+                "SAPHIRE"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Cartier"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,800.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

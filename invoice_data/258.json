@@ -1,153 +1,195 @@
 {
     "text_boxes": [
         {
-            "text": "BURBERRY",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                282,
-                7,
-                448,
-                35
+                323,
+                319,
+                501,
+                352
             ]
         },
         {
-            "text": "LONDON",
+            "text": "-",
             "id": 2,
             "bbox": [
-                312,
-                37,
-                361,
-                48
+                473,
+                347,
+                473,
+                364
             ]
         },
         {
-            "text": "ENGLAND",
+            "text": "July",
             "id": 3,
             "bbox": [
-                367,
-                40,
-                422,
-                51
+                427,
+                390,
+                441,
+                400
             ]
         },
         {
-            "text": "12/7/20",
+            "text": "05",
             "id": 4,
             "bbox": [
-                262,
-                277,
-                313,
-                293
+                446,
+                390,
+                459,
+                400
             ]
         },
         {
-            "text": "7:26",
+            "text": "2030",
             "id": 5,
             "bbox": [
-                262,
-                297,
-                290,
-                310
+                465,
+                389,
+                485,
+                400
             ]
         },
         {
-            "text": "AED830.00",
+            "text": "10:55",
             "id": 6,
             "bbox": [
-                448,
-                754,
-                514,
-                770
+                494,
+                389,
+                518,
+                399
             ]
         },
         {
-            "text": "830.00",
+            "text": "1,470.00",
             "id": 7,
             "bbox": [
-                461,
-                608,
-                504,
-                620
+                603,
+                509,
+                643,
+                522
             ]
         },
         {
-            "text": "CN",
+            "text": "1",
             "id": 8,
             "bbox": [
-                222,
-                578,
-                238,
-                591
+                402,
+                517,
+                403,
+                524
             ]
         },
         {
-            "text": "\u0637\u0642\u0645",
+            "text": "EARRINGS",
             "id": 9,
             "bbox": [
-                381,
-                591,
-                401,
-                603
+                169,
+                519,
+                222,
+                530
             ]
         },
         {
-            "text": "\u0645\u0644\u0627\u064a\u0633\u0631",
+            "text": "1",
             "id": 10,
             "bbox": [
-                335,
-                591,
-                371,
-                606
+                402,
+                544,
+                406,
+                553
             ]
         },
         {
-            "text": "\u0644\u0644\u0645\u0648\u0644\u0648\u062f",
+            "text": "020033502",
             "id": 11,
             "bbox": [
-                279,
-                591,
-                328,
-                607
+                204,
+                530,
+                268,
+                541
             ]
         },
         {
-            "text": "\u0627\u0644\u062c\u062f\u064a\u062f",
+            "text": "\u0648",
             "id": 12,
             "bbox": [
-                225,
-                594,
-                265,
-                608
+                198,
+                531,
+                202,
+                541
+            ]
+        },
+        {
+            "text": "2",
+            "id": 13,
+            "bbox": [
+                192,
+                531,
+                196,
+                541
+            ]
+        },
+        {
+            "text": "\u0648",
+            "id": 14,
+            "bbox": [
+                188,
+                531,
+                190,
+                541
+            ]
+        },
+        {
+            "text": "28",
+            "id": 15,
+            "bbox": [
+                167,
+                531,
+                182,
+                541
+            ]
+        },
+        {
+            "text": "1,470.00",
+            "id": 16,
+            "bbox": [
+                544,
+                637,
+                589,
+                651
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CN"
+                "10:55"
             ],
             "value_id": [
-                8
+                6
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u0637\u0642\u0645",
-                "\u0645\u0644\u0627\u064a\u0633\u0631",
-                "\u0644\u0644\u0645\u0648\u0644\u0648\u062f",
-                "\u0627\u0644\u062c\u062f\u064a\u062f"
+                "020033502",
+                "\u0648",
+                "2",
+                "\u0648",
+                "28"
             ],
             "value_id": [
-                9,
-                10,
                 11,
-                12
+                12,
+                13,
+                14,
+                15
             ]
         },
         {
@@ -155,46 +197,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12/7/20"
+                "July",
+                "05",
+                "2030"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "BURBERRY",
-                "LONDON",
-                "ENGLAND"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AED830.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7:26"
-            ],
-            "value_id": [
+                3,
+                4,
                 5
             ]
         },
@@ -203,10 +212,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "830.00"
+                "1,470.00"
             ],
             "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "EARRINGS"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL",
+                "-"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,470.00"
+            ],
+            "value_id": [
+                16
             ]
         }
     ],

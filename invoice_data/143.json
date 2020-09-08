@@ -1,212 +1,136 @@
 {
     "text_boxes": [
         {
-            "text": "FERINI",
+            "text": "2026",
             "id": 1,
             "bbox": [
-                354,
-                251,
-                575,
-                291
+                696,
+                540,
+                736,
+                559
             ]
         },
         {
-            "text": "04/07/2020",
+            "text": "\u0631\u064a\u0627\u0644",
             "id": 2,
             "bbox": [
-                657,
-                466,
-                728,
-                477
+                648,
+                540,
+                686,
+                558
             ]
         },
         {
-            "text": "09:12:27PM",
+            "text": "4",
             "id": 3,
             "bbox": [
-                734,
-                466,
-                811,
-                477
+                627,
+                539,
+                630,
+                556
             ]
         },
         {
-            "text": "1.500.00",
+            "text": "11:47",
             "id": 4,
             "bbox": [
-                795,
-                987,
-                863,
-                1001
+                748,
+                541,
+                799,
+                560
             ]
         },
         {
-            "text": "1.500.00",
+            "text": "1,975.00",
             "id": 5,
             "bbox": [
-                788,
-                619,
-                849,
-                631
+                813,
+                911,
+                892,
+                929
             ]
         },
         {
-            "text": "1",
+            "text": "1,975.00",
             "id": 6,
             "bbox": [
-                410,
-                622,
-                412,
-                632
+                831,
+                776,
+                910,
+                796
             ]
         },
         {
-            "text": "R55435",
+            "text": "I",
             "id": 7,
             "bbox": [
-                128,
-                619,
-                184,
-                632
+                582,
+                778,
+                587,
+                791
             ]
         },
         {
-            "text": "\u0642\u0631\u0639",
+            "text": "FENDI",
             "id": 8,
             "bbox": [
-                363,
-                621,
-                380,
-                634
+                97,
+                735,
+                151,
+                757
             ]
         },
         {
-            "text": "\u0627\u0644\u0645\u0627\u0633\u064a\u0629",
+            "text": "WOMENS",
             "id": 9,
             "bbox": [
-                327,
-                619,
-                357,
-                633
+                159,
+                736,
+                220,
+                758
             ]
         },
         {
-            "text": "RING",
+            "text": "SHOES",
             "id": 10,
             "bbox": [
-                238,
-                640,
-                273,
-                651
+                237,
+                737,
+                286,
+                759
             ]
         },
         {
-            "text": "DIAMOND",
+            "text": "\u0623\u062d\u0630\u064a\u0629",
             "id": 11,
             "bbox": [
-                279,
-                639,
-                345,
-                652
+                376,
+                740,
+                424,
+                762
             ]
         },
         {
-            "text": "WG",
+            "text": "\u0646\u0633\u0627\u0626\u064a\u0629",
             "id": 12,
             "bbox": [
-                351,
-                641,
-                374,
-                652
-            ]
-        },
-        {
-            "text": "D-45-0.20CT",
-            "id": 13,
-            "bbox": [
-                239,
-                663,
-                320,
-                675
-            ]
-        },
-        {
-            "text": "18",
-            "id": 14,
-            "bbox": [
-                328,
-                665,
-                340,
-                675
-            ]
-        },
-        {
-            "text": "K",
-            "id": 15,
-            "bbox": [
-                347,
-                665,
-                354,
-                675
-            ]
-        },
-        {
-            "text": "1.50GR",
-            "id": 16,
-            "bbox": [
-                362,
-                664,
-                407,
-                675
+                302,
+                739,
+                366,
+                761
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RING",
-                "DIAMOND",
-                "WG",
-                "D-45-0.20CT",
-                "18",
-                "K",
-                "1.50GR"
+                "11:47"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0642\u0631\u0639",
-                "\u0627\u0644\u0645\u0627\u0633\u064a\u0629"
-            ],
-            "value_id": [
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
+                4
             ]
         },
         {
@@ -214,53 +138,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "04/07/2020"
+                "2026",
+                "\u0631\u064a\u0627\u0644",
+                "4"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FERINI"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.500.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "R55435"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "09:12:27PM"
-            ],
-            "value_id": [
+                1,
+                2,
                 3
             ]
         },
@@ -269,7 +153,57 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.500.00"
+                "1,975.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0623\u062d\u0630\u064a\u0629",
+                "\u0646\u0633\u0627\u0626\u064a\u0629"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "WOMENS",
+                "SHOES"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "I"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,975.00"
             ],
             "value_id": [
                 5

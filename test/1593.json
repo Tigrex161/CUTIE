@@ -1,0 +1,366 @@
+{
+    "text_boxes": [
+        {
+            "text": "bloomingdales",
+            "id": 1,
+            "bbox": [
+                229,
+                212,
+                519,
+                270
+            ]
+        },
+        {
+            "text": "2020-",
+            "id": 2,
+            "bbox": [
+                225,
+                399,
+                279,
+                419
+            ]
+        },
+        {
+            "text": "\u0627\u064a\u0627\u0644",
+            "id": 3,
+            "bbox": [
+                211,
+                400,
+                230,
+                418
+            ]
+        },
+        {
+            "text": "-20",
+            "id": 4,
+            "bbox": [
+                182,
+                398,
+                210,
+                417
+            ]
+        },
+        {
+            "text": "You",
+            "id": 5,
+            "bbox": [
+                234,
+                387,
+                258,
+                406
+            ]
+        },
+        {
+            "text": "7:30:01",
+            "id": 6,
+            "bbox": [
+                336,
+                406,
+                391,
+                424
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                403,
+                407,
+                414,
+                424
+            ]
+        },
+        {
+            "text": "3,100,00",
+            "id": 8,
+            "bbox": [
+                451,
+                807,
+                525,
+                830
+            ]
+        },
+        {
+            "text": "1640.00",
+            "id": 9,
+            "bbox": [
+                454,
+                599,
+                522,
+                616
+            ]
+        },
+        {
+            "text": "1,460,00",
+            "id": 10,
+            "bbox": [
+                453,
+                650,
+                523,
+                667
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                365,
+                613,
+                370,
+                628
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                364,
+                664,
+                369,
+                678
+            ]
+        },
+        {
+            "text": "LONG",
+            "id": 13,
+            "bbox": [
+                168,
+                585,
+                203,
+                606
+            ]
+        },
+        {
+            "text": "SLEEVE",
+            "id": 14,
+            "bbox": [
+                214,
+                588,
+                266,
+                610
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 15,
+            "bbox": [
+                276,
+                591,
+                319,
+                612
+            ]
+        },
+        {
+            "text": "WA",
+            "id": 16,
+            "bbox": [
+                329,
+                594,
+                346,
+                614
+            ]
+        },
+        {
+            "text": "METALLIC",
+            "id": 17,
+            "bbox": [
+                163,
+                636,
+                236,
+                657
+            ]
+        },
+        {
+            "text": "JACQUARD",
+            "id": 18,
+            "bbox": [
+                246,
+                640,
+                318,
+                661
+            ]
+        },
+        {
+            "text": "SH",
+            "id": 19,
+            "bbox": [
+                327,
+                643,
+                345,
+                662
+            ]
+        },
+        {
+            "text": "213311003",
+            "id": 20,
+            "bbox": [
+                180,
+                655,
+                262,
+                674
+            ]
+        },
+        {
+            "text": "\u0646\u0645",
+            "id": 21,
+            "bbox": [
+                512,
+                723,
+                526,
+                736
+            ]
+        },
+        {
+            "text": "213311003",
+            "id": 22,
+            "bbox": [
+                180,
+                655,
+                262,
+                674
+            ]
+        },
+        {
+            "text": "213311028",
+            "id": 23,
+            "bbox": [
+                185,
+                604,
+                265,
+                624
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7:30:01",
+                "PM"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "213311003",
+                "213311028"
+            ],
+            "value_id": [
+                22,
+                23
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020-",
+                "\u0627\u064a\u0627\u0644",
+                "-20",
+                "You"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1640.00",
+                "1,460,00"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LONG",
+                "SLEEVE",
+                "SHIRT",
+                "WA",
+                "METALLIC",
+                "JACQUARD",
+                "SH",
+                "213311003"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdales"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0646\u0645"
+            ],
+            "value_id": [
+                21
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,100,00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1593.jpg"
+    }
+}

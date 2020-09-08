@@ -1,0 +1,366 @@
+{
+    "text_boxes": [
+        {
+            "text": "SEPHORA",
+            "id": 1,
+            "bbox": [
+                342,
+                306,
+                393,
+                325
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 2,
+            "bbox": [
+                402,
+                307,
+                437,
+                326
+            ]
+        },
+        {
+            "text": "MALL",
+            "id": 3,
+            "bbox": [
+                447,
+                309,
+                474,
+                327
+            ]
+        },
+        {
+            "text": "July",
+            "id": 4,
+            "bbox": [
+                391,
+                1205,
+                422,
+                1228
+            ]
+        },
+        {
+            "text": "27",
+            "id": 5,
+            "bbox": [
+                433,
+                1205,
+                450,
+                1228
+            ]
+        },
+        {
+            "text": ",",
+            "id": 6,
+            "bbox": [
+                450,
+                1205,
+                456,
+                1228
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 7,
+            "bbox": [
+                460,
+                1205,
+                490,
+                1228
+            ]
+        },
+        {
+            "text": "13:36",
+            "id": 8,
+            "bbox": [
+                504,
+                1205,
+                542,
+                1228
+            ]
+        },
+        {
+            "text": ":",
+            "id": 9,
+            "bbox": [
+                546,
+                1205,
+                552,
+                1228
+            ]
+        },
+        {
+            "text": "130.00",
+            "id": 10,
+            "bbox": [
+                475,
+                779,
+                563,
+                798
+            ]
+        },
+        {
+            "text": "130.00",
+            "id": 11,
+            "bbox": [
+                525,
+                704,
+                565,
+                720
+            ]
+        },
+        {
+            "text": ")",
+            "id": 12,
+            "bbox": [
+                567,
+                704,
+                568,
+                720
+            ]
+        },
+        {
+            "text": "+1",
+            "id": 13,
+            "bbox": [
+                320,
+                701,
+                347,
+                718
+            ]
+        },
+        {
+            "text": "BADCAL",
+            "id": 14,
+            "bbox": [
+                373,
+                644,
+                415,
+                663
+            ]
+        },
+        {
+            "text": "BANG",
+            "id": 15,
+            "bbox": [
+                428,
+                645,
+                457,
+                663
+            ]
+        },
+        {
+            "text": "MASCARA",
+            "id": 16,
+            "bbox": [
+                467,
+                645,
+                520,
+                663
+            ]
+        },
+        {
+            "text": "EM",
+            "id": 17,
+            "bbox": [
+                531,
+                645,
+                543,
+                663
+            ]
+        },
+        {
+            "text": "MA",
+            "id": 18,
+            "bbox": [
+                554,
+                645,
+                567,
+                664
+            ]
+        },
+        {
+            "text": "0031",
+            "id": 19,
+            "bbox": [
+                237,
+                644,
+                265,
+                662
+            ]
+        },
+        {
+            "text": "13649639",
+            "id": 20,
+            "bbox": [
+                271,
+                644,
+                331,
+                662
+            ]
+        },
+        {
+            "text": "\u0627\u06cc",
+            "id": 21,
+            "bbox": [
+                333,
+                683,
+                342,
+                702
+            ]
+        },
+        {
+            "text": "\u0627\u0633\u06a9\u0627\u0631",
+            "id": 22,
+            "bbox": [
+                296,
+                683,
+                329,
+                702
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0644\u0628\u0646",
+            "id": 23,
+            "bbox": [
+                238,
+                683,
+                292,
+                702
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:36",
+                ":"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0031",
+                "13649639"
+            ],
+            "value_id": [
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "27",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "130.00",
+                ")"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u06cc",
+                "\u0627\u0633\u06a9\u0627\u0631",
+                "\u0627\u0644\u0644\u0628\u0646"
+            ],
+            "value_id": [
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BADCAL",
+                "BANG",
+                "MASCARA",
+                "EM",
+                "MA"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "+1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "130.00"
+            ],
+            "value_id": [
+                10
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1515.jpg"
+    }
+}

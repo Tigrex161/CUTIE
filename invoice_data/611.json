@@ -1,162 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "Apple",
+            "text": "Super",
             "id": 1,
             "bbox": [
-                179,
-                231,
-                202,
-                239
+                370,
+                137,
+                452,
+                170
             ]
         },
         {
-            "text": "Dubai",
+            "text": "-",
             "id": 2,
             "bbox": [
-                206,
-                231,
-                229,
-                238
+                453,
+                138,
+                461,
+                169
             ]
         },
         {
-            "text": "Mall",
+            "text": "Care",
             "id": 3,
             "bbox": [
-                233,
-                230,
-                250,
-                237
+                467,
+                138,
+                527,
+                170
             ]
         },
         {
-            "text": "25/06/20",
+            "text": "130112070",
             "id": 4,
             "bbox": [
-                179,
-                1193,
-                215,
-                1199
+                359,
+                419,
+                406,
+                431
             ]
         },
         {
-            "text": "16:32",
+            "text": "21:49",
             "id": 5,
             "bbox": [
-                225,
-                1193,
-                244,
-                1199
+                413,
+                419,
+                437,
+                431
             ]
         },
         {
-            "text": "AED",
+            "text": "305.04",
             "id": 6,
             "bbox": [
-                524,
-                830,
-                540,
-                836
+                544,
+                755,
+                584,
+                766
             ]
         },
         {
-            "text": "479.00",
+            "text": "\u0627\u0646\u0627",
             "id": 7,
             "bbox": [
-                543,
-                830,
-                570,
-                836
-            ]
-        },
-        {
-            "text": "AED",
-            "id": 8,
-            "bbox": [
-                527,
-                752,
-                542,
-                759
-            ]
-        },
-        {
-            "text": "479.00",
-            "id": 9,
-            "bbox": [
-                546,
-                752,
-                570,
-                759
-            ]
-        },
-        {
-            "text": "DJI",
-            "id": 10,
-            "bbox": [
-                179,
-                615,
-                192,
-                621
-            ]
-        },
-        {
-            "text": "OSMO",
-            "id": 11,
-            "bbox": [
-                194,
-                615,
-                219,
-                621
+                442,
+                777,
+                453,
+                789
             ]
         },
         {
             "text": "3",
+            "id": 8,
+            "bbox": [
+                434,
+                777,
+                439,
+                789
+            ]
+        },
+        {
+            "text": "3",
+            "id": 9,
+            "bbox": [
+                561,
+                676,
+                563,
+                687
+            ]
+        },
+        {
+            "text": "3",
+            "id": 10,
+            "bbox": [
+                290,
+                674,
+                292,
+                685
+            ]
+        },
+        {
+            "text": "NC",
+            "id": 11,
+            "bbox": [
+                296,
+                653,
+                310,
+                668
+            ]
+        },
+        {
+            "text": "CINNAMON",
             "id": 12,
             "bbox": [
-                223,
-                615,
-                227,
-                621
+                315,
+                653,
+                375,
+                668
             ]
         },
         {
-            "text": "COMBO-ZML",
+            "text": "FORCE",
             "id": 13,
             "bbox": [
-                230,
-                615,
-                282,
-                621
+                380,
+                653,
+                418,
+                668
             ]
         },
         {
-            "text": "HNFN2ZM/A",
+            "text": "LIQ",
             "id": 14,
             "bbox": [
-                234,
-                630,
-                283,
-                638
+                423,
+                653,
+                441,
+                668
+            ]
+        },
+        {
+            "text": "VACAPS",
+            "id": 15,
+            "bbox": [
+                445,
+                653,
+                491,
+                668
+            ]
+        },
+        {
+            "text": "305",
+            "id": 16,
+            "bbox": [
+                496,
+                653,
+                513,
+                668
+            ]
+        },
+        {
+            "text": "#",
+            "id": 17,
+            "bbox": [
+                518,
+                653,
+                522,
+                668
+            ]
+        },
+        {
+            "text": "8038",
+            "id": 18,
+            "bbox": [
+                525,
+                653,
+                546,
+                668
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DJI",
-                "OSMO",
-                "3",
-                "COMBO-ZML"
+                "21:49"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13
+                5
             ]
         },
         {
@@ -164,10 +198,46 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25/06/20"
+                "130112070"
             ],
             "value_id": [
                 4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NC",
+                "CINNAMON",
+                "FORCE",
+                "LIQ",
+                "VACAPS",
+                "305",
+                "#",
+                "8038"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
             ]
         },
         {
@@ -175,9 +245,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Apple",
-                "Dubai",
-                "Mall"
+                "Super",
+                "-",
+                "Care"
             ],
             "value_id": [
                 1,
@@ -186,51 +256,38 @@
             ]
         },
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0646\u0627",
+                "3"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AED",
-                "479.00"
+                "305.04"
             ],
             "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "HNFN2ZM/A"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:32"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AED",
-                "479.00"
-            ],
-            "value_id": [
-                8,
-                9
+                6
             ]
         }
     ],

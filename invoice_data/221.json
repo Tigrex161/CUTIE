@@ -1,203 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "02/07/20",
+            "text": "2020",
             "id": 1,
             "bbox": [
-                568,
-                339,
-                613,
-                354
+                513,
+                208,
+                543,
+                224
             ]
         },
         {
-            "text": "5:31:38",
+            "text": "\u0648\u0630\u0627\u062a",
             "id": 2,
             "bbox": [
-                622,
-                339,
-                661,
-                351
+                476,
+                207,
+                502,
+                224
             ]
         },
         {
-            "text": "PM",
+            "text": "16",
             "id": 3,
             "bbox": [
-                666,
-                339,
-                683,
-                348
+                448,
+                207,
+                463,
+                223
             ]
         },
         {
-            "text": "1,610.00",
+            "text": "12:11",
             "id": 4,
             "bbox": [
-                691,
-                819,
-                738,
-                829
+                554,
+                208,
+                592,
+                225
             ]
         },
         {
-            "text": "900.00",
+            "text": "2,040.00",
             "id": 5,
             "bbox": [
-                680,
-                486,
-                716,
-                498
+                598,
+                501,
+                661,
+                518
             ]
         },
         {
-            "text": "710.00",
+            "text": "2,040,00",
             "id": 6,
             "bbox": [
-                679,
-                424,
-                714,
-                434
+                609,
+                396,
+                671,
+                411
             ]
         },
         {
-            "text": "1.",
+            "text": "1",
             "id": 7,
             "bbox": [
-                366,
-                438,
-                375,
-                448
+                414,
+                391,
+                418,
+                405
             ]
         },
         {
-            "text": "2",
+            "text": "BTUNI_OTHS",
             "id": 8,
             "bbox": [
-                377,
-                600,
-                381,
-                607
+                36,
+                359,
+                125,
+                376
             ]
         },
         {
-            "text": "MB0004S-00148",
+            "text": ":",
             "id": 9,
             "bbox": [
-                122,
-                440,
-                210,
-                452
+                128,
+                361,
+                131,
+                376
             ]
         },
         {
-            "text": "FT052701W61",
+            "text": "BERLUTI",
             "id": 10,
             "bbox": [
-                125,
-                503,
-                202,
-                514
+                133,
+                360,
+                191,
+                377
             ]
         },
         {
-            "text": "MONTBLANC",
+            "text": "OTHERS",
             "id": 11,
             "bbox": [
-                123,
-                462,
-                197,
-                473
+                200,
+                361,
+                247,
+                378
             ]
         },
         {
-            "text": "SUNGLASSES",
+            "text": "O032135862951",
             "id": 12,
             "bbox": [
-                203,
-                459,
-                284,
-                472
+                40,
+                386,
+                138,
+                401
             ]
         },
         {
-            "text": "TOMFORD",
+            "text": "\u0645\u0644\u062d\u0642\u0627\u062a",
             "id": 13,
             "bbox": [
-                125,
-                525,
-                186,
-                535
+                324,
+                363,
+                371,
+                380
             ]
         },
         {
-            "text": "SUNGLASSES",
+            "text": "\u0627\u0643\u0633\u0633\u0648\u0627\u0631\u0627",
             "id": 14,
             "bbox": [
-                191,
-                521,
-                272,
-                533
+                251,
+                362,
+                311,
+                379
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MONTBLANC",
-                "SUNGLASSES",
-                "TOMFORD",
-                "SUNGLASSES"
-            ],
-            "value_id": [
-                11,
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "02/07/20"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,610.00"
+                "12:11"
             ],
             "value_id": [
                 4
@@ -208,23 +158,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MB0004S-00148",
-                "FT052701W61"
+                "O032135862951"
             ],
             "value_id": [
-                9,
-                10
+                12
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5:31:38",
-                "PM"
+                "2020",
+                "\u0648\u0630\u0627\u062a",
+                "16"
             ],
             "value_id": [
+                1,
                 2,
                 3
             ]
@@ -234,12 +184,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900.00",
-                "710.00"
+                "2,040,00"
             ],
             "value_id": [
-                5,
                 6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0644\u062d\u0642\u0627\u062a",
+                "\u0627\u0643\u0633\u0633\u0648\u0627\u0631\u0627"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BTUNI_OTHS",
+                ":",
+                "BERLUTI",
+                "OTHERS"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,040.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

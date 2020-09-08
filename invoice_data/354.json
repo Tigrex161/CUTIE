@@ -1,138 +1,186 @@
 {
     "text_boxes": [
         {
-            "text": "7/11/2020",
+            "text": "SEAFOLLY",
             "id": 1,
             "bbox": [
-                860,
-                709,
-                911,
-                720
+                263,
+                62,
+                492,
+                89
             ]
         },
         {
-            "text": "7",
+            "text": "16-07-20",
             "id": 2,
             "bbox": [
-                858,
-                723,
-                864,
-                735
+                314,
+                465,
+                371,
+                485
             ]
         },
         {
-            "text": "15",
+            "text": "2:48",
             "id": 3,
             "bbox": [
-                866,
-                723,
-                875,
-                735
+                483,
+                464,
+                508,
+                484
             ]
         },
         {
-            "text": "45",
+            "text": "169,15",
             "id": 4,
             "bbox": [
-                877,
-                726,
-                889,
-                734
+                484,
+                672,
+                527,
+                688
             ]
         },
         {
-            "text": "PM",
+            "text": "169.15",
             "id": 5,
             "bbox": [
-                894,
-                726,
-                910,
-                734
+                461,
+                596,
+                504,
+                613
             ]
         },
         {
-            "text": "1,575.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                867,
-                980,
-                912,
-                992
+                384,
+                594,
+                386,
+                609
             ]
         },
         {
-            "text": "1,575",
+            "text": "SEAFOLLY",
             "id": 7,
             "bbox": [
-                872,
-                903,
-                898,
-                915
+                217,
+                573,
+                279,
+                592
             ]
         },
         {
-            "text": "00",
+            "text": "TWIST",
             "id": 8,
             "bbox": [
-                903,
-                904,
-                913,
-                916
+                289,
+                575,
+                327,
+                593
             ]
         },
         {
-            "text": "DRESS",
+            "text": "BAND",
             "id": 9,
             "bbox": [
-                301,
-                897,
-                341,
-                906
+                337,
+                575,
+                367,
+                593
             ]
         },
         {
-            "text": "TROVAMSOLLIN",
+            "text": "HIPSTER",
             "id": 10,
             "bbox": [
-                154,
-                891,
-                246,
-                902
+                376,
+                575,
+                428,
+                594
+            ]
+        },
+        {
+            "text": "PA",
+            "id": 11,
+            "bbox": [
+                438,
+                577,
+                451,
+                594
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                501,
+                768,
+                502,
+                783
+            ]
+        },
+        {
+            "text": "933761",
+            "id": 13,
+            "bbox": [
+                217,
+                592,
+                262,
+                613
+            ]
+        },
+        {
+            "text": "1041674",
+            "id": 14,
+            "bbox": [
+                267,
+                593,
+                320,
+                614
+            ]
+        },
+        {
+            "text": "-",
+            "id": 15,
+            "bbox": [
+                322,
+                594,
+                326,
+                613
+            ]
+        },
+        {
+            "text": "BLK1",
+            "id": 16,
+            "bbox": [
+                329,
+                594,
+                357,
+                613
+            ]
+        },
+        {
+            "text": "\u0645\u0646\u0641\u0635\u0644\u0629",
+            "id": 17,
+            "bbox": [
+                220,
+                557,
+                265,
+                572
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DRESS"
+                "2:48"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7/11/2020"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,575.00"
-            ],
-            "value_id": [
-                6
+                3
             ]
         },
         {
@@ -140,27 +188,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TROVAMSOLLIN"
+                "933761",
+                "1041674",
+                "-",
+                "BLK1"
             ],
             "value_id": [
-                10
+                13,
+                14,
+                15,
+                16
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7",
-                "15",
-                "45",
-                "PM"
+                "16-07-20"
             ],
             "value_id": [
-                2,
-                3,
-                4,
-                5
+                2
             ]
         },
         {
@@ -168,12 +216,84 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,575",
-                "00"
+                "169.15"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0646\u0641\u0635\u0644\u0629"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEAFOLLY",
+                "TWIST",
+                "BAND",
+                "HIPSTER",
+                "PA"
             ],
             "value_id": [
                 7,
-                8
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEAFOLLY"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "169,15"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

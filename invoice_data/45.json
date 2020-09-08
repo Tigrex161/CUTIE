@@ -1,137 +1,76 @@
 {
     "text_boxes": [
         {
-            "text": "CHANEL",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                226,
-                39,
-                494,
-                82
+                299,
+                96,
+                388,
+                139
             ]
         },
         {
-            "text": "June",
+            "text": "01.07.2020",
             "id": 2,
             "bbox": [
-                384,
-                161,
-                412,
-                172
+                234,
+                283,
+                285,
+                295
             ]
         },
         {
-            "text": "30,",
+            "text": "10:22",
             "id": 3,
             "bbox": [
-                419,
-                161,
-                437,
-                173
+                293,
+                285,
+                316,
+                297
             ]
         },
         {
-            "text": "2020",
+            "text": "129",
             "id": 4,
             "bbox": [
-                445,
-                161,
-                475,
-                171
+                404,
+                433,
+                419,
+                445
             ]
         },
         {
-            "text": "11:35",
+            "text": "129",
             "id": 5,
             "bbox": [
-                488,
-                159,
-                524,
-                170
+                407,
+                339,
+                418,
+                350
             ]
         },
         {
-            "text": "4,470.00",
+            "text": "TROUSERS",
             "id": 6,
             "bbox": [
-                525,
-                568,
-                586,
-                578
-            ]
-        },
-        {
-            "text": "4,470.00",
-            "id": 7,
-            "bbox": [
-                620,
-                378,
-                678,
-                390
-            ]
-        },
-        {
-            "text": "1",
-            "id": 8,
-            "bbox": [
-                347,
-                380,
-                351,
-                389
-            ]
-        },
-        {
-            "text": "MULES",
-            "id": 9,
-            "bbox": [
-                23,
-                376,
-                70,
-                386
-            ]
-        },
-        {
-            "text": "G36150X0100010800",
-            "id": 10,
-            "bbox": [
-                24,
-                395,
-                164,
-                408
-            ]
-        },
-        {
-            "text": "90C",
-            "id": 11,
-            "bbox": [
-                170,
-                397,
-                195,
-                407
+                364,
+                349,
+                405,
+                367
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MULES"
+                "10:22"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
+                3
             ]
         },
         {
@@ -139,14 +78,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "June",
-                "30,",
-                "2020"
+                "01.07.2020"
             ],
             "value_id": [
-                2,
-                3,
-                4
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "129"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TROUSERS"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -154,7 +111,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHANEL"
+                "ZARA"
             ],
             "value_id": [
                 1
@@ -165,45 +122,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4,470.00"
+                "129"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "G36150X0100010800",
-                "90C"
-            ],
-            "value_id": [
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:35"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4,470.00"
-            ],
-            "value_id": [
-                7
+                4
             ]
         }
     ],

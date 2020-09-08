@@ -1,281 +1,166 @@
 {
     "text_boxes": [
         {
-            "text": "July,",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                559,
-                372,
-                587,
-                384
+                329,
+                200,
+                391,
+                216
             ]
         },
         {
-            "text": "11",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                598,
-                372,
-                608,
-                381
+                400,
+                200,
+                469,
+                216
             ]
         },
         {
-            "text": "2020",
+            "text": "28/06/20",
             "id": 3,
             "bbox": [
-                617,
-                372,
-                641,
-                382
+                292,
+                402,
+                353,
+                418
             ]
         },
         {
-            "text": "16:10",
+            "text": "16:43",
             "id": 4,
             "bbox": [
-                649,
-                371,
-                679,
-                381
+                363,
+                404,
+                400,
+                420
             ]
         },
         {
-            "text": "4,",
+            "text": "210.00",
             "id": 5,
             "bbox": [
-                620,
-                722,
-                630,
-                730
+                517,
+                623,
+                561,
+                638
             ]
         },
         {
-            "text": "491.00",
+            "text": "210.00",
             "id": 6,
             "bbox": [
-                634,
-                721,
-                671,
-                728
+                517,
+                544,
+                561,
+                558
             ]
         },
         {
-            "text": "2,961.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                619,
-                638,
-                670,
-                648
+                248,
+                564,
+                250,
+                580
             ]
         },
         {
-            "text": "1,",
+            "text": "Kid's",
             "id": 8,
             "bbox": [
-                618,
-                596,
-                635,
-                608
+                238,
+                523,
+                276,
+                540
             ]
         },
         {
-            "text": "530.00",
+            "text": "Wear",
             "id": 9,
             "bbox": [
-                637,
-                594,
-                672,
-                608
+                285,
+                524,
+                315,
+                541
             ]
         },
         {
-            "text": "C10226-050-RO01V095-GREY:",
+            "text": "KIDS",
             "id": 10,
             "bbox": [
-                263,
-                580,
-                415,
-                593
+                238,
+                545,
+                267,
+                560
             ]
         },
         {
-            "text": "RCA,",
+            "text": "WEAR",
             "id": 11,
             "bbox": [
-                417,
-                580,
-                443,
-                591
+                278,
+                545,
+                307,
+                560
             ]
         },
         {
-            "text": "GREY",
+            "text": "EMPORIO",
             "id": 12,
             "bbox": [
-                445,
-                580,
-                465,
-                591
+                317,
+                545,
+                370,
+                560
             ]
         },
         {
-            "text": ":41:GREY",
+            "text": "AR",
             "id": 13,
             "bbox": [
-                468,
-                583,
-                514,
-                590
+                379,
+                545,
+                393,
+                560
             ]
         },
         {
-            "text": "C10567-010-CV07X684-GREY:",
+            "text": "900887756",
             "id": 14,
             "bbox": [
-                259,
-                622,
-                413,
-                632
+                278,
+                564,
+                347,
+                580
             ]
         },
         {
-            "text": "RCA.GREY:42:",
+            "text": "1",
             "id": 15,
             "bbox": [
-                416,
-                620,
-                493,
-                631
-            ]
-        },
-        {
-            "text": "GREY",
-            "id": 16,
-            "bbox": [
-                495,
-                621,
-                515,
-                631
-            ]
-        },
-        {
-            "text": "JAl",
-            "id": 17,
-            "bbox": [
-                651,
-                579,
-                676,
-                586
-            ]
-        },
-        {
-            "text": "ia",
-            "id": 18,
-            "bbox": [
-                613,
-                620,
-                651,
-                628
-            ]
-        },
-        {
-            "text": "J",
-            "id": 19,
-            "bbox": [
-                658,
-                620,
-                671,
-                627
-            ]
-        },
-        {
-            "text": "132624594199",
-            "id": 20,
-            "bbox": [
-                177,
-                582,
-                252,
-                591
-            ]
-        },
-        {
-            "text": "132624860848",
-            "id": 21,
-            "bbox": [
-                176,
-                623,
-                251,
-                631
+                557,
+                587,
+                558,
+                598
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "C10226-050-RO01V095-GREY:",
-                "RCA,",
-                "GREY",
-                ":41:GREY",
-                "C10567-010-CV07X684-GREY:",
-                "RCA.GREY:42:",
-                "GREY"
+                "16:43"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "JAl",
-                "ia",
-                "J"
-            ],
-            "value_id": [
-                17,
-                18,
-                19
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "11",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4,",
-                "491.00"
-            ],
-            "value_id": [
-                5,
-                6
+                4
             ]
         },
         {
@@ -283,23 +168,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "132624594199",
-                "132624860848"
+                "900887756"
             ],
             "value_id": [
-                20,
-                21
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:10"
+                "28/06/20"
             ],
             "value_id": [
-                4
+                3
             ]
         },
         {
@@ -307,14 +190,77 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,961.00",
-                "1,",
-                "530.00"
+                "210.00"
             ],
             "value_id": [
-                7,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Kid's",
+                "Wear",
+                "KIDS",
+                "WEAR",
+                "EMPORIO",
+                "AR"
+            ],
+            "value_id": [
                 8,
-                9
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "210.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

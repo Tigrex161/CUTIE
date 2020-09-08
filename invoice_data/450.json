@@ -1,155 +1,238 @@
 {
     "text_boxes": [
         {
-            "text": "ZARA",
+            "text": "Van",
             "id": 1,
             "bbox": [
-                312,
-                52,
-                432,
-                90
+                258,
+                292,
+                311,
+                333
             ]
         },
         {
-            "text": "15",
+            "text": "Cleef",
             "id": 2,
             "bbox": [
-                223,
-                136,
-                243,
-                147
+                317,
+                296,
+                390,
+                337
             ]
         },
         {
-            "text": "07-2020",
+            "text": "&",
             "id": 3,
             "bbox": [
-                245,
-                139,
-                294,
-                149
+                397,
+                301,
+                416,
+                339
             ]
         },
         {
-            "text": "17:44",
+            "text": "Arpels",
             "id": 4,
             "bbox": [
-                305,
-                142,
-                337,
-                150
+                422,
+                302,
+                504,
+                345
             ]
         },
         {
-            "text": "129",
+            "text": "2030",
             "id": 5,
             "bbox": [
-                465,
-                337,
-                484,
-                348
+                154,
+                834,
+                172,
+                847
             ]
         },
         {
-            "text": "129",
+            "text": "25",
             "id": 6,
             "bbox": [
-                465,
-                214,
-                482,
-                223
+                127,
+                837,
+                136,
+                848
             ]
         },
         {
-            "text": "1221352004042",
+            "text": "/",
             "id": 7,
             "bbox": [
-                297,
-                221,
-                389,
-                235
+                137,
+                837,
+                140,
+                848
             ]
         },
         {
-            "text": "SPORT",
+            "text": "O",
             "id": 8,
             "bbox": [
-                406,
-                227,
-                439,
-                237
+                140,
+                836,
+                143,
+                847
             ]
         },
         {
-            "text": "SHOES",
+            "text": "\u0645\u0627\u0631",
             "id": 9,
             "bbox": [
-                449,
-                230,
-                483,
-                241
+                195,
+                832,
+                206,
+                844
             ]
         },
         {
-            "text": "10001163",
+            "text": "131",
             "id": 10,
             "bbox": [
-                222,
-                220,
-                278,
-                231
+                175,
+                833,
+                199,
+                846
+            ]
+        },
+        {
+            "text": "13,500.00",
+            "id": 11,
+            "bbox": [
+                627,
+                693,
+                656,
+                700
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                348,
+                653,
+                349,
+                659
+            ]
+        },
+        {
+            "text": "t",
+            "id": 13,
+            "bbox": [
+                348,
+                692,
+                349,
+                698
+            ]
+        },
+        {
+            "text": "PENO",
+            "id": 14,
+            "bbox": [
+                142,
+                643,
+                158,
+                651
+            ]
+        },
+        {
+            "text": "VINTAGEAL",
+            "id": 15,
+            "bbox": [
+                161,
+                642,
+                196,
+                651
+            ]
+        },
+        {
+            "text": "OJCLTH",
+            "id": 16,
+            "bbox": [
+                199,
+                642,
+                221,
+                650
+            ]
+        },
+        {
+            "text": "PRCL",
+            "id": 17,
+            "bbox": [
+                224,
+                642,
+                238,
+                650
+            ]
+        },
+        {
+            "text": "DIA",
+            "id": 18,
+            "bbox": [
+                241,
+                641,
+                251,
+                650
+            ]
+        },
+        {
+            "text": "\u0627\u0631",
+            "id": 19,
+            "bbox": [
+                253,
+                649,
+                255,
+                659
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0645\u0648\u062d\u0629",
+            "id": 20,
+            "bbox": [
+                226,
+                649,
+                251,
+                659
+            ]
+        },
+        {
+            "text": "A",
+            "id": 21,
+            "bbox": [
+                189,
+                652,
+                191,
+                661
+            ]
+        },
+        {
+            "text": "POO00",
+            "id": 22,
+            "bbox": [
+                192,
+                650,
+                221,
+                661
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1221352004042",
-                "SPORT",
-                "SHOES"
+                "\u0645\u0627\u0631",
+                "131"
             ],
             "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15",
-                "07-2020"
-            ],
-            "value_id": [
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZARA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "129"
-            ],
-            "value_id": [
-                5
+                9,
+                10
             ]
         },
         {
@@ -157,32 +240,102 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001163"
+                "A",
+                "POO00"
             ],
             "value_id": [
-                10
+                21,
+                22
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:44"
+                "2030",
+                "25",
+                "/",
+                "O"
             ],
             "value_id": [
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PENO",
+                "VINTAGEAL",
+                "OJCLTH",
+                "PRCL",
+                "DIA",
+                "\u0627\u0631",
+                "\u0627\u0644\u0645\u0648\u062d\u0629"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
                 4
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "129"
+                "t"
             ],
             "value_id": [
-                6
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13,500.00"
+            ],
+            "value_id": [
+                11
             ]
         }
     ],

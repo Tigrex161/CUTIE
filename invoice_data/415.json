@@ -1,215 +1,126 @@
 {
     "text_boxes": [
         {
-            "text": "Van",
+            "text": "GALERIESFAYETTE",
             "id": 1,
             "bbox": [
-                259,
-                299,
-                312,
-                328
+                272,
+                120,
+                425,
+                151
             ]
         },
         {
-            "text": "Cleef",
+            "text": "11/07/20",
             "id": 2,
             "bbox": [
-                319,
-                300,
-                391,
-                330
+                242,
+                349,
+                308,
+                370
             ]
         },
         {
-            "text": "&",
+            "text": "15:42",
             "id": 3,
             "bbox": [
-                398,
-                311,
-                416,
-                330
+                319,
+                347,
+                360,
+                366
             ]
         },
         {
-            "text": "Arpels",
+            "text": "665.00",
             "id": 4,
             "bbox": [
-                422,
-                305,
-                505,
-                343
+                513,
+                557,
+                568,
+                576
             ]
         },
         {
-            "text": "25/06/2020",
+            "text": "665.00",
             "id": 5,
             "bbox": [
-                128,
-                836,
-                172,
-                847
+                502,
+                481,
+                555,
+                500
             ]
         },
         {
-            "text": "13:51:54",
+            "text": "1",
             "id": 6,
             "bbox": [
-                175,
-                835,
-                208,
-                843
+                190,
+                517,
+                193,
+                532
             ]
         },
         {
-            "text": "13,600.00",
+            "text": "Shoe",
             "id": 7,
             "bbox": [
-                628,
-                697,
-                657,
-                701
+                181,
+                480,
+                214,
+                496
             ]
         },
         {
-            "text": "11.00.00",
+            "text": "SHOES",
             "id": 8,
             "bbox": [
-                631,
-                656,
-                661,
-                662
+                180,
+                497,
+                224,
+                514
             ]
         },
         {
-            "text": "PEND",
+            "text": "CLAUDIA",
             "id": 9,
             "bbox": [
-                143,
-                645,
-                159,
-                651
+                234,
+                493,
+                296,
+                511
             ]
         },
         {
-            "text": "VINTAGEAL",
+            "text": "ROSSI",
             "id": 10,
             "bbox": [
-                162,
-                644,
-                197,
-                651
+                306,
+                491,
+                349,
+                508
             ]
         },
         {
-            "text": "O",
+            "text": "900702586",
             "id": 11,
             "bbox": [
-                200,
-                645,
-                206,
-                649
-            ]
-        },
-        {
-            "text": "CLTN",
-            "id": 12,
-            "bbox": [
-                209,
-                644,
-                222,
-                650
-            ]
-        },
-        {
-            "text": "PRCL",
-            "id": 13,
-            "bbox": [
-                225,
-                644,
-                239,
-                648
-            ]
-        },
-        {
-            "text": "DIA",
-            "id": 14,
-            "bbox": [
-                242,
-                644,
-                251,
-                648
-            ]
-        },
-        {
-            "text": "ARP46000",
-            "id": 15,
-            "bbox": [
-                184,
-                653,
-                222,
-                661
+                226,
+                512,
+                305,
+                531
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PEND",
-                "VINTAGEAL",
-                "O",
-                "CLTN",
-                "PRCL",
-                "DIA"
+                "15:42"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "25/06/2020"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Van",
-                "Cleef",
-                "&",
-                "Arpels"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13,600.00"
-            ],
-            "value_id": [
-                7
+                3
             ]
         },
         {
@@ -217,21 +128,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ARP46000"
+                "900702586"
             ],
             "value_id": [
-                15
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13:51:54"
+                "11/07/20"
             ],
             "value_id": [
-                6
+                2
             ]
         },
         {
@@ -239,10 +150,60 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11.00.00"
+                "665.00"
             ],
             "value_id": [
-                8
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Shoe",
+                "SHOES",
+                "CLAUDIA",
+                "ROSSI"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIESFAYETTE"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "665.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

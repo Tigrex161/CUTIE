@@ -1,186 +1,228 @@
 {
     "text_boxes": [
         {
-            "text": "Van",
+            "text": "GIVENCHY",
             "id": 1,
             "bbox": [
-                216,
-                22,
-                275,
-                48
+                172,
+                234,
+                409,
+                286
             ]
         },
         {
-            "text": "Cleef",
+            "text": "\u0646\u0627",
             "id": 2,
             "bbox": [
-                286,
-                20,
-                370,
-                51
+                321,
+                441,
+                326,
+                454
             ]
         },
         {
-            "text": "&",
+            "text": "07",
             "id": 3,
             "bbox": [
-                378,
-                30,
-                400,
-                51
+                268,
+                441,
+                278,
+                454
             ]
         },
         {
-            "text": "Arpels",
+            "text": "/",
             "id": 4,
             "bbox": [
-                408,
-                19,
-                505,
-                61
+                280,
+                441,
+                283,
+                454
             ]
         },
         {
-            "text": "06/07/2020",
+            "text": "11",
             "id": 5,
             "bbox": [
-                67,
-                658,
-                117,
-                669
+                286,
+                441,
+                294,
+                454
             ]
         },
         {
-            "text": "16:03:52",
+            "text": "/",
             "id": 6,
             "bbox": [
-                121,
-                659,
-                159,
-                667
+                297,
+                441,
+                300,
+                454
             ]
         },
         {
-            "text": "28,400.00",
+            "text": "202",
             "id": 7,
             "bbox": [
-                672,
-                492,
-                708,
-                499
+                301,
+                441,
+                319,
+                454
             ]
         },
         {
-            "text": "28,400.00",
+            "text": "14.900.00",
             "id": 8,
             "bbox": [
-                674,
-                444,
-                710,
-                452
+                539,
+                1056,
+                588,
+                1076
             ]
         },
         {
-            "text": "NECK",
+            "text": "2200.00",
             "id": 9,
             "bbox": [
-                82,
-                432,
-                99,
-                438
+                699,
+                653,
+                744,
+                671
             ]
         },
         {
-            "text": "VINTAGE",
+            "text": "500",
             "id": 10,
             "bbox": [
-                102,
-                432,
-                132,
-                438
+                702,
+                700,
+                731,
+                716
             ]
         },
         {
-            "text": "AL",
+            "text": "00",
             "id": 11,
             "bbox": [
-                135,
-                432,
-                142,
-                440
+                734,
+                700,
+                747,
+                716
             ]
         },
         {
-            "text": "YG",
+            "text": "1",
             "id": 12,
             "bbox": [
-                146,
-                432,
-                153,
-                437
+                642,
+                656,
+                645,
+                668
             ]
         },
         {
-            "text": "10MO",
+            "text": "1",
             "id": 13,
             "bbox": [
-                157,
-                432,
-                178,
-                440
+                644,
+                701,
+                647,
+                714
             ]
         },
         {
-            "text": "WMOF",
+            "text": "LARGE",
             "id": 14,
             "bbox": [
-                180,
-                432,
-                204,
-                437
+                275,
+                642,
+                306,
+                652
             ]
         },
         {
-            "text": "ARA4",
+            "text": "LEATHER",
             "id": 15,
             "bbox": [
-                129,
-                443,
-                149,
-                449
+                310,
+                642,
+                352,
+                652
             ]
         },
         {
-            "text": "2800",
+            "text": "GOODS",
             "id": 16,
             "bbox": [
-                152,
-                443,
-                172,
-                449
+                355,
+                642,
+                390,
+                652
+            ]
+        },
+        {
+            "text": "LARGE",
+            "id": 17,
+            "bbox": [
+                276,
+                687,
+                306,
+                696
+            ]
+        },
+        {
+            "text": "LEATHER",
+            "id": 18,
+            "bbox": [
+                311,
+                687,
+                352,
+                696
+            ]
+        },
+        {
+            "text": "GOODS",
+            "id": 19,
+            "bbox": [
+                356,
+                687,
+                390,
+                696
+            ]
+        },
+        {
+            "text": "6B50F2EOWD",
+            "id": 20,
+            "bbox": [
+                36,
+                663,
+                114,
+                677
+            ]
+        },
+        {
+            "text": "356F3DOUND",
+            "id": 21,
+            "bbox": [
+                37,
+                709,
+                115,
+                722
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NECK",
-                "VINTAGE",
-                "AL",
-                "YG",
-                "10MO",
-                "WMOF"
+                "6B50F2EOWD",
+                "356F3DOUND"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13,
-                14
+                20,
+                21
             ]
         },
         {
@@ -188,62 +230,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "06/07/2020"
+                "\u0646\u0627",
+                "07",
+                "/",
+                "11",
+                "/",
+                "202"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Van",
-                "Cleef",
-                "&",
-                "Arpels"
-            ],
-            "value_id": [
-                1,
                 2,
                 3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "28,400.00"
-            ],
-            "value_id": [
+                4,
+                5,
+                6,
                 7
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ARA4",
-                "2800"
-            ],
-            "value_id": [
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:03:52"
-            ],
-            "value_id": [
-                6
             ]
         },
         {
@@ -251,7 +251,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "28,400.00"
+                "2200.00",
+                "500",
+                "00"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LARGE",
+                "LEATHER",
+                "GOODS",
+                "LARGE",
+                "LEATHER",
+                "GOODS"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GIVENCHY"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14.900.00"
             ],
             "value_id": [
                 8

@@ -1,12 +1,12 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "FREDPERRY",
             "id": 1,
             "bbox": [
-                331,
-                242,
-                380,
+                254,
+                233,
+                324,
                 254
             ]
         },
@@ -14,210 +14,114 @@
             "text": "03/07/20",
             "id": 2,
             "bbox": [
-                301,
-                396,
-                351,
-                411
+                195,
+                315,
+                257,
+                337
             ]
         },
         {
-            "text": "14:31",
+            "text": "12:04",
             "id": 3,
             "bbox": [
-                360,
-                396,
-                388,
-                408
+                266,
+                312,
+                304,
+                333
             ]
         },
         {
-            "text": "189.00",
+            "text": "409.00",
             "id": 4,
             "bbox": [
-                482,
-                633,
+                414,
                 515,
-                643
+                463,
+                534
             ]
         },
         {
-            "text": "2",
+            "text": "409",
             "id": 5,
             "bbox": [
-                511,
-                600,
-                515,
-                609
+                436,
+                434,
+                460,
+                448
             ]
         },
         {
-            "text": "150",
+            "text": "1",
             "id": 6,
             "bbox": [
-                483,
-                494,
-                504,
-                509
+                300,
+                440,
+                304,
+                456
             ]
         },
         {
-            "text": "00",
+            "text": "POLOS",
             "id": 7,
             "bbox": [
-                512,
-                498,
-                522,
-                507
+                203,
+                443,
+                243,
+                459
             ]
         },
         {
-            "text": "39.",
+            "text": "A038181",
             "id": 8,
             "bbox": [
-                492,
-                548,
-                505,
-                557
+                140,
+                444,
+                193,
+                462
             ]
         },
         {
-            "text": "00",
+            "text": "1",
             "id": 9,
             "bbox": [
-                508,
-                550,
-                517,
-                559
+                435,
+                616,
+                438,
+                629
             ]
         },
         {
-            "text": "GIft",
+            "text": "\u0628\u0648\u0644\u0648",
             "id": 10,
             "bbox": [
-                256,
-                493,
-                281,
-                505
-            ]
-        },
-        {
-            "text": "DIFF",
-            "id": 11,
-            "bbox": [
-                256,
-                509,
-                279,
-                518
-            ]
-        },
-        {
-            "text": "200ML",
-            "id": 12,
-            "bbox": [
-                288,
-                508,
-                317,
-                517
-            ]
-        },
-        {
-            "text": "GCEANIA",
-            "id": 13,
-            "bbox": [
-                326,
-                507,
-                370,
-                516
-            ]
-        },
-        {
-            "text": "S",
-            "id": 14,
-            "bbox": [
-                378,
-                507,
-                382,
-                515
-            ]
-        },
-        {
-            "text": "HUG",
-            "id": 15,
-            "bbox": [
-                255,
-                555,
-                272,
-                564
-            ]
-        },
-        {
-            "text": "CAPPUCC",
-            "id": 16,
-            "bbox": [
-                280,
-                552,
-                324,
-                563
-            ]
-        },
-        {
-            "text": "GRASS",
-            "id": 17,
-            "bbox": [
-                332,
-                552,
-                363,
-                563
-            ]
-        },
-        {
-            "text": "SK",
-            "id": 18,
-            "bbox": [
-                371,
-                553,
-                382,
-                561
+                186,
+                461,
+                207,
+                476
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2"
+                "12:04"
             ],
             "value_id": [
-                5
+                3
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GIft",
-                "DIFF",
-                "200ML",
-                "GCEANIA",
-                "S",
-                "HUG",
-                "CAPPUCC",
-                "GRASS",
-                "SK"
+                "A038181"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
+                8
             ]
         },
         {
@@ -232,14 +136,69 @@
             ]
         },
         {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "409"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0628\u0648\u0644\u0648"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "POLOS"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES"
+                "FREDPERRY"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -247,38 +206,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "189.00"
+                "409.00"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:31"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "150",
-                "00",
-                "39.",
-                "00"
-            ],
-            "value_id": [
-                6,
-                7,
-                8,
-                9
             ]
         }
     ],

@@ -1,224 +1,106 @@
 {
     "text_boxes": [
         {
-            "text": "June,",
+            "text": "30/06/20",
             "id": 1,
             "bbox": [
-                582,
-                510,
-                615,
-                519
+                256,
+                272,
+                317,
+                290
             ]
         },
         {
-            "text": "21",
+            "text": "12:19",
             "id": 2,
             "bbox": [
-                627,
-                509,
-                639,
-                518
+                329,
+                271,
+                365,
+                288
             ]
         },
         {
-            "text": "2020",
+            "text": "313.74",
             "id": 3,
             "bbox": [
-                650,
-                509,
-                679,
-                518
+                484,
+                507,
+                528,
+                524
             ]
         },
         {
-            "text": "18:51",
+            "text": "498.00",
             "id": 4,
             "bbox": [
-                689,
-                509,
-                724,
-                517
+                489,
+                387,
+                534,
+                403
             ]
         },
         {
-            "text": "168.00",
+            "text": "1",
             "id": 5,
             "bbox": [
-                651,
-                826,
-                690,
-                835
+                211,
+                413,
+                212,
+                428
             ]
         },
         {
-            "text": "168.00",
+            "text": "TS",
             "id": 6,
             "bbox": [
-                652,
-                737,
-                693,
-                746
+                201,
+                392,
+                216,
+                409
             ]
         },
         {
-            "text": "1.",
+            "text": "SKU",
             "id": 7,
             "bbox": [
-                469,
-                737,
-                473,
-                744
+                226,
+                392,
+                248,
+                409
             ]
         },
         {
-            "text": "J25E73-849:",
+            "text": "1",
             "id": 8,
             "bbox": [
-                240,
-                712,
-                316,
-                725
+                528,
+                430,
+                530,
+                441
             ]
         },
         {
-            "text": "HBS.",
+            "text": "900978171",
             "id": 9,
             "bbox": [
-                318,
-                713,
-                346,
-                725
-            ]
-        },
-        {
-            "text": "849:08A:",
-            "id": 10,
-            "bbox": [
-                348,
-                713,
-                398,
-                725
-            ]
-        },
-        {
-            "text": "SHORT",
-            "id": 11,
-            "bbox": [
-                401,
-                713,
-                433,
-                725
-            ]
-        },
-        {
-            "text": "SLEEVES",
-            "id": 12,
-            "bbox": [
-                441,
-                714,
-                487,
-                722
-            ]
-        },
-        {
-            "text": "014824906385",
-            "id": 13,
-            "bbox": [
-                145,
-                714,
-                229,
-                723
-            ]
-        },
-        {
-            "text": "L",
-            "id": 14,
-            "bbox": [
-                641,
-                714,
-                650,
-                726
-            ]
-        },
-        {
-            "text": "S",
-            "id": 15,
-            "bbox": [
-                652,
-                714,
-                663,
-                726
+                242,
+                412,
+                309,
+                428
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "J25E73-849:",
-                "HBS.",
-                "849:08A:",
-                "SHORT",
-                "SLEEVES"
+                "12:19"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "L",
-                "S"
-            ],
-            "value_id": [
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "June,",
-                "21",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "168.00"
-            ],
-            "value_id": [
-                5
+                2
             ]
         },
         {
@@ -226,21 +108,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "014824906385"
+                "900978171"
             ],
             "value_id": [
-                13
+                9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18:51"
+                "30/06/20"
             ],
             "value_id": [
-                4
+                1
             ]
         },
         {
@@ -248,10 +130,56 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "168.00"
+                "498.00"
             ],
             "value_id": [
-                6
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TS",
+                "SKU"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "313.74"
+            ],
+            "value_id": [
+                3
             ]
         }
     ],

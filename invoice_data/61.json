@@ -1,190 +1,206 @@
 {
     "text_boxes": [
         {
-            "text": "-",
+            "text": "SWAROVSKI",
             "id": 1,
             "bbox": [
-                459,
-                163,
-                485,
-                199
+                300,
+                230,
+                541,
+                276
             ]
         },
         {
-            "text": "Dubai",
+            "text": "2020-",
             "id": 2,
             "bbox": [
-                485,
-                164,
-                569,
-                204
+                396,
+                446,
+                434,
+                461
             ]
         },
         {
-            "text": "Mall",
+            "text": "\u0627\u0633\u0627\u0644",
             "id": 3,
             "bbox": [
-                575,
-                173,
-                638,
-                201
+                387,
+                446,
+                401,
+                461
             ]
         },
         {
-            "text": "Urban",
+            "text": "-07",
             "id": 4,
             "bbox": [
-                169,
-                180,
-                255,
-                197
+                363,
+                446,
+                385,
+                461
             ]
         },
         {
-            "text": "Outfitters",
+            "text": "15:47",
             "id": 5,
             "bbox": [
-                275,
-                176,
-                449,
-                195
+                440,
+                446,
+                470,
+                461
             ]
         },
         {
-            "text": "03/07/2020",
+            "text": "270.00",
             "id": 6,
             "bbox": [
-                558,
-                438,
-                689,
-                467
+                542,
+                822,
+                579,
+                838
             ]
         },
         {
-            "text": "119.00",
+            "text": "270.00",
             "id": 7,
             "bbox": [
-                597,
-                940,
-                682,
-                957
+                565,
+                695,
+                602,
+                710
             ]
         },
         {
-            "text": "119.0",
+            "text": "1",
             "id": 8,
             "bbox": [
-                632,
+                375,
                 698,
-                688,
-                716
+                377,
+                711
             ]
         },
         {
-            "text": "1.",
+            "text": "1",
             "id": 9,
             "bbox": [
-                242,
-                688,
-                249,
-                699
+                573,
+                739,
+                575,
+                752
             ]
         },
         {
-            "text": "HOME",
+            "text": "5511041",
             "id": 10,
             "bbox": [
-                328,
+                248,
                 655,
-                385,
-                673
+                290,
+                671
             ]
         },
         {
-            "text": "TEXTILES",
+            "text": ":",
             "id": 11,
             "bbox": [
-                402,
-                657,
-                513,
-                676
+                293,
+                655,
+                296,
+                671
             ]
         },
         {
-            "text": "72721897",
+            "text": "CL",
             "id": 12,
             "bbox": [
-                71,
-                645,
-                193,
-                666
+                298,
+                655,
+                308,
+                671
+            ]
+        },
+        {
+            "text": "ANNUAL",
+            "id": 13,
+            "bbox": [
+                317,
+                655,
+                353,
+                671
+            ]
+        },
+        {
+            "text": "EDITION",
+            "id": 14,
+            "bbox": [
+                361,
+                654,
+                404,
+                670
+            ]
+        },
+        {
+            "text": "ORNAMENT",
+            "id": 15,
+            "bbox": [
+                412,
+                654,
+                461,
+                670
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 16,
+            "bbox": [
+                469,
+                653,
+                493,
+                669
+            ]
+        },
+        {
+            "text": "030714882147",
+            "id": 17,
+            "bbox": [
+                248,
+                635,
+                322,
+                651
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+            "id": 18,
+            "bbox": [
+                290,
+                678,
+                327,
+                693
+            ]
+        },
+        {
+            "text": "\u0645\u0632\u062e\u0631\u0641\u0629",
+            "id": 19,
+            "bbox": [
+                251,
+                678,
+                284,
+                693
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "HOME",
-                "TEXTILES"
+                "15:47"
             ],
             "value_id": [
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "03/07/2020"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "-",
-                "Dubai",
-                "Mall",
-                "Urban",
-                "Outfitters"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
                 5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "119.00"
-            ],
-            "value_id": [
-                7
             ]
         },
         {
@@ -192,10 +208,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "72721897"
+                "030714882147"
             ],
             "value_id": [
-                12
+                17
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020-",
+                "\u0627\u0633\u0627\u0644",
+                "-07"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
             ]
         },
         {
@@ -203,10 +234,90 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "119.0"
+                "270.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+                "\u0645\u0632\u062e\u0631\u0641\u0629"
+            ],
+            "value_id": [
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5511041",
+                ":",
+                "CL",
+                "ANNUAL",
+                "EDITION",
+                "ORNAMENT",
+                "2020"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SWAROVSKI"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "270.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

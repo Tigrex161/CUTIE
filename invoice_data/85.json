@@ -1,326 +1,126 @@
 {
     "text_boxes": [
         {
-            "text": "71",
+            "text": "Massimo",
             "id": 1,
             "bbox": [
-                638,
-                642,
-                665,
-                664
+                248,
+                228,
+                368,
+                260
             ]
         },
         {
-            "text": "4/",
+            "text": "Dutti",
             "id": 2,
             "bbox": [
-                670,
-                645,
-                700,
-                666
+                384,
+                227,
+                456,
+                259
             ]
         },
         {
-            "text": "2020",
+            "text": "08-07-2020",
             "id": 3,
             "bbox": [
-                704,
-                647,
-                780,
-                672
+                171,
+                424,
+                255,
+                441
             ]
         },
         {
-            "text": "8:30:05",
+            "text": "20:32",
             "id": 4,
             "bbox": [
-                802,
-                652,
-                910,
-                679
+                267,
+                424,
+                307,
+                441
             ]
         },
         {
-            "text": "PM",
+            "text": "239",
             "id": 5,
             "bbox": [
-                919,
-                659,
-                970,
-                681
+                464,
+                687,
+                489,
+                702
             ]
         },
         {
-            "text": "1,680.00",
+            "text": "259",
             "id": 6,
             "bbox": [
-                2538,
-                2344,
-                2687,
-                2389
+                459,
+                528,
+                482,
+                545
             ]
         },
         {
-            "text": "942.86",
+            "text": "1",
             "id": 7,
             "bbox": [
-                2666,
-                1529,
-                2752,
-                1566
+                276,
+                532,
+                280,
+                544
             ]
         },
         {
-            "text": "657.14",
+            "text": "1",
             "id": 8,
             "bbox": [
-                2662,
-                1704,
-                2751,
-                1738
+                312,
+                600,
+                318,
+                613
             ]
         },
         {
-            "text": "1",
+            "text": "0014414490203",
             "id": 9,
             "bbox": [
-                2057,
-                1484,
-                2070,
-                1512
+                258,
+                552,
+                369,
+                569
             ]
         },
         {
-            "text": "1",
+            "text": "SHIRT",
             "id": 10,
             "bbox": [
-                2011,
-                1660,
-                2068,
-                1698
+                390,
+                552,
+                430,
+                568
             ]
         },
         {
-            "text": "BBOY",
+            "text": "10001241",
             "id": 11,
             "bbox": [
-                801,
-                1388,
-                911,
-                1440
-            ]
-        },
-        {
-            "text": "JERSEY",
-            "id": 12,
-            "bbox": [
-                909,
-                1403,
-                1058,
-                1444
-            ]
-        },
-        {
-            "text": "LOGO",
-            "id": 13,
-            "bbox": [
-                1067,
-                1415,
-                1172,
-                1452
-            ]
-        },
-        {
-            "text": "FF",
-            "id": 14,
-            "bbox": [
-                1180,
-                1423,
-                1223,
-                1456
-            ]
-        },
-        {
-            "text": "TROUSER",
-            "id": 15,
-            "bbox": [
-                1232,
-                1427,
-                1418,
-                1471
-            ]
-        },
-        {
-            "text": "NUT",
-            "id": 16,
-            "bbox": [
-                1454,
-                1443,
-                1532,
-                1479
-            ]
-        },
-        {
-            "text": "BROWN+BROWN",
-            "id": 17,
-            "bbox": [
-                1544,
-                1447,
-                1849,
-                1502
-            ]
-        },
-        {
-            "text": "BBOY",
-            "id": 18,
-            "bbox": [
-                798,
-                1575,
-                899,
-                1610
-            ]
-        },
-        {
-            "text": "JERSEY",
-            "id": 19,
-            "bbox": [
-                908,
-                1584,
-                1054,
-                1623
-            ]
-        },
-        {
-            "text": "T-SHIRT",
-            "id": 20,
-            "bbox": [
-                1062,
-                1596,
-                1209,
-                1637
-            ]
-        },
-        {
-            "text": "WHITE",
-            "id": 21,
-            "bbox": [
-                1242,
-                1611,
-                1365,
-                1649
-            ]
-        },
-        {
-            "text": "2",
-            "id": 22,
-            "bbox": [
-                2019,
-                1856,
-                2039,
-                1884
-            ]
-        },
-        {
-            "text": "730214",
-            "id": 23,
-            "bbox": [
-                147,
-                1348,
-                265,
-                1382
-            ]
-        },
-        {
-            "text": "730325",
-            "id": 24,
-            "bbox": [
-                158,
-                1526,
-                275,
-                1561
+                169,
+                554,
+                237,
+                571
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BBOY",
-                "JERSEY",
-                "LOGO",
-                "FF",
-                "TROUSER",
-                "NUT",
-                "BROWN+BROWN",
-                "BBOY",
-                "JERSEY",
-                "T-SHIRT",
-                "WHITE"
+                "20:32"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2"
-            ],
-            "value_id": [
-                22
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1",
-                "1"
-            ],
-            "value_id": [
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "71",
-                "4/",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,680.00"
-            ],
-            "value_id": [
-                6
+                4
             ]
         },
         {
@@ -328,25 +128,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "730214",
-                "730325"
+                "10001241"
             ],
             "value_id": [
-                23,
-                24
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "8:30:05",
-                "PM"
+                "08-07-2020"
             ],
             "value_id": [
-                4,
-                5
+                3
             ]
         },
         {
@@ -354,12 +150,69 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "942.86",
-                "657.14"
+                "259"
             ],
             "value_id": [
-                7,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0014414490203",
+                "SHIRT"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Massimo",
+                "Dutti"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
                 8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "239"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

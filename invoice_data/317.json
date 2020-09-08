@@ -1,167 +1,256 @@
 {
     "text_boxes": [
         {
-            "text": "LONGCHAMP",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                276,
-                187,
-                513,
-                232
+                328,
+                190,
+                391,
+                213
             ]
         },
         {
-            "text": "PARIS",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                355,
-                227,
-                433,
-                242
+                399,
+                194,
+                471,
+                216
             ]
         },
         {
-            "text": "July,",
+            "text": "10/07/20",
             "id": 3,
             "bbox": [
-                577,
-                304,
-                615,
-                321
+                278,
+                397,
+                341,
+                417
             ]
         },
         {
-            "text": "07",
+            "text": "18:35",
             "id": 4,
             "bbox": [
-                628,
-                302,
-                644,
-                314
+                351,
+                401,
+                390,
+                420
             ]
         },
         {
-            "text": "2020",
+            "text": "560",
             "id": 5,
             "bbox": [
-                653,
-                298,
-                687,
-                312
+                491,
+                719,
+                518,
+                736
             ]
         },
         {
-            "text": "17:48",
+            "text": "15",
             "id": 6,
             "bbox": [
-                697,
-                295,
-                737,
-                309
+                529,
+                718,
+                545,
+                733
             ]
         },
         {
-            "text": "260.00",
+            "text": "485.00",
             "id": 7,
             "bbox": [
-                677,
-                696,
-                725,
-                709
+                506,
+                552,
+                553,
+                566
             ]
         },
         {
-            "text": "260.00",
+            "text": "174",
             "id": 8,
             "bbox": [
-                675,
-                594,
-                724,
-                607
+                505,
+                608,
+                525,
+                621
             ]
         },
         {
-            "text": "1699619P20:LON.",
+            "text": "00",
             "id": 9,
             "bbox": [
-                219,
-                587,
-                334,
-                606
+                536,
+                608,
+                551,
+                621
             ]
         },
         {
-            "text": "P20:ALL:BACKPACK",
+            "text": "1",
             "id": 10,
             "bbox": [
-                336,
-                582,
-                450,
-                601
+                221,
+                561,
+                224,
+                578
             ]
         },
         {
-            "text": "020724655877",
+            "text": "1",
             "id": 11,
             "bbox": [
-                126,
-                595,
-                207,
-                607
+                219,
+                624,
+                219,
+                638
+            ]
+        },
+        {
+            "text": "Beauty",
+            "id": 12,
+            "bbox": [
+                213,
+                519,
+                262,
+                537
+            ]
+        },
+        {
+            "text": "CRM",
+            "id": 13,
+            "bbox": [
+                212,
+                540,
+                236,
+                558
+            ]
+        },
+        {
+            "text": "GENEFIQUE",
+            "id": 14,
+            "bbox": [
+                245,
+                542,
+                317,
+                562
+            ]
+        },
+        {
+            "text": "ACT",
+            "id": 15,
+            "bbox": [
+                327,
+                545,
+                349,
+                563
+            ]
+        },
+        {
+            "text": "JE",
+            "id": 16,
+            "bbox": [
+                359,
+                547,
+                374,
+                564
+            ]
+        },
+        {
+            "text": "SET",
+            "id": 17,
+            "bbox": [
+                209,
+                604,
+                232,
+                620
+            ]
+        },
+        {
+            "text": "DRENCHD",
+            "id": 18,
+            "bbox": [
+                243,
+                604,
+                297,
+                621
+            ]
+        },
+        {
+            "text": "IN",
+            "id": 19,
+            "bbox": [
+                309,
+                606,
+                322,
+                621
+            ]
+        },
+        {
+            "text": "MOIST",
+            "id": 20,
+            "bbox": [
+                332,
+                606,
+                369,
+                623
+            ]
+        },
+        {
+            "text": "1",
+            "id": 21,
+            "bbox": [
+                219,
+                624,
+                219,
+                638
+            ]
+        },
+        {
+            "text": "2",
+            "id": 22,
+            "bbox": [
+                543,
+                657,
+                548,
+                668
+            ]
+        },
+        {
+            "text": "4992351431",
+            "id": 23,
+            "bbox": [
+                252,
+                562,
+                330,
+                584
+            ]
+        },
+        {
+            "text": "900974246",
+            "id": 24,
+            "bbox": [
+                249,
+                624,
+                319,
+                641
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1699619P20:LON.",
-                "P20:ALL:BACKPACK"
+                "18:35"
             ],
             "value_id": [
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "07",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LONGCHAMP",
-                "PARIS"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "260.00"
-            ],
-            "value_id": [
-                7
+                4
             ]
         },
         {
@@ -169,21 +258,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "020724655877"
+                "4992351431",
+                "900974246"
             ],
             "value_id": [
-                11
+                23,
+                24
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:48"
+                "10/07/20"
             ],
             "value_id": [
-                6
+                3
             ]
         },
         {
@@ -191,10 +282,93 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "260.00"
+                "485.00",
+                "174",
+                "00"
             ],
             "value_id": [
-                8
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Beauty",
+                "CRM",
+                "GENEFIQUE",
+                "ACT",
+                "JE",
+                "SET",
+                "DRENCHD",
+                "IN",
+                "MOIST",
+                "1"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                22
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "560",
+                "15"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

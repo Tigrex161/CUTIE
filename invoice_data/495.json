@@ -1,165 +1,106 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "Scentitude",
             "id": 1,
             "bbox": [
-                349,
-                130,
-                412,
-                144
+                339,
+                200,
+                696,
+                283
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "09/07/20",
             "id": 2,
             "bbox": [
-                421,
-                131,
-                492,
-                147
+                234,
+                1730,
+                409,
+                1782
             ]
         },
         {
-            "text": "03/07/20",
+            "text": "23:04",
             "id": 3,
             "bbox": [
-                303,
-                322,
-                370,
-                339
+                436,
+                1726,
+                544,
+                1777
             ]
         },
         {
-            "text": "845.75",
+            "text": "1,065.00",
             "id": 4,
             "bbox": [
-                546,
-                619,
-                597,
-                630
+                736,
+                2787,
+                914,
+                2832
             ]
         },
         {
-            "text": "995",
+            "text": "750.00",
             "id": 5,
             "bbox": [
-                542,
-                475,
-                565,
-                488
+                797,
+                2259,
+                931,
+                2297
             ]
         },
         {
-            "text": "00",
+            "text": "670.00",
             "id": 6,
             "bbox": [
-                576,
-                477,
-                590,
-                487
+                797,
+                2434,
+                931,
+                2473
             ]
         },
         {
-            "text": "Beauty",
+            "text": "UBX",
             "id": 7,
             "bbox": [
-                240,
-                444,
-                289,
-                458
+                77,
+                2270,
+                141,
+                2315
             ]
         },
         {
-            "text": "EDP",
+            "text": "100",
             "id": 8,
             "bbox": [
-                239,
-                466,
-                262,
-                479
+                153,
+                2269,
+                207,
+                2312
             ]
         },
         {
-            "text": "CO",
+            "text": "8055277280336",
             "id": 9,
             "bbox": [
-                273,
-                467,
-                288,
-                479
-            ]
-        },
-        {
-            "text": "SUPREME",
-            "id": 10,
-            "bbox": [
-                298,
-                467,
-                355,
-                482
-            ]
-        },
-        {
-            "text": "BOUQU",
-            "id": 11,
-            "bbox": [
-                367,
-                469,
-                406,
-                483
-            ]
-        },
-        {
-            "text": "1",
-            "id": 12,
-            "bbox": [
-                586,
-                539,
-                588,
-                549
-            ]
-        },
-        {
-            "text": "900960403",
-            "id": 13,
-            "bbox": [
-                281,
-                489,
-                355,
-                503
+                73,
+                2442,
+                363,
+                2487
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Beauty",
-                "EDP",
-                "CO",
-                "SUPREME",
-                "BOUQU"
+                "23:04"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                12
+                3
             ]
         },
         {
@@ -167,45 +108,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "03/07/20"
+                "09/07/20"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "845.75"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900960403"
-            ],
-            "value_id": [
-                13
             ]
         },
         {
@@ -213,12 +119,49 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "995",
-                "00"
+                "750.00",
+                "670.00"
             ],
             "value_id": [
                 5,
                 6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "UBX",
+                "100",
+                "8055277280336"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Scentitude"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,065.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

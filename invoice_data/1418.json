@@ -1,0 +1,261 @@
+{
+    "text_boxes": [
+        {
+            "text": "AR",
+            "id": 1,
+            "bbox": [
+                235,
+                1,
+                380,
+                71
+            ]
+        },
+        {
+            "text": "30-07-2020",
+            "id": 2,
+            "bbox": [
+                135,
+                144,
+                215,
+                160
+            ]
+        },
+        {
+            "text": "17:04",
+            "id": 3,
+            "bbox": [
+                228,
+                142,
+                265,
+                158
+            ]
+        },
+        {
+            "text": "99",
+            "id": 4,
+            "bbox": [
+                422,
+                232,
+                435,
+                245
+            ]
+        },
+        {
+            "text": "99",
+            "id": 5,
+            "bbox": [
+                421,
+                275,
+                434,
+                289
+            ]
+        },
+        {
+            "text": "1",
+            "id": 6,
+            "bbox": [
+                237,
+                277,
+                241,
+                288
+            ]
+        },
+        {
+            "text": "0026432680003",
+            "id": 7,
+            "bbox": [
+                219,
+                255,
+                325,
+                272
+            ]
+        },
+        {
+            "text": "BODY",
+            "id": 8,
+            "bbox": [
+                345,
+                255,
+                375,
+                270
+            ]
+        },
+        {
+            "text": "0008563025002",
+            "id": 9,
+            "bbox": [
+                220,
+                299,
+                326,
+                312
+            ]
+        },
+        {
+            "text": "T",
+            "id": 10,
+            "bbox": [
+                346,
+                298,
+                351,
+                312
+            ]
+        },
+        {
+            "text": "-",
+            "id": 11,
+            "bbox": [
+                357,
+                298,
+                359,
+                312
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 12,
+            "bbox": [
+                363,
+                298,
+                402,
+                312
+            ]
+        },
+        {
+            "text": "2",
+            "id": 13,
+            "bbox": [
+                269,
+                344,
+                276,
+                355
+            ]
+        },
+        {
+            "text": "10001571",
+            "id": 14,
+            "bbox": [
+                137,
+                256,
+                199,
+                271
+            ]
+        },
+        {
+            "text": "10002601",
+            "id": 15,
+            "bbox": [
+                136,
+                297,
+                200,
+                312
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:04"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001571",
+                "10002601"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "99",
+                "99"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0026432680003",
+                "BODY",
+                "0008563025002",
+                "T",
+                "-",
+                "SHIRT"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1418.jpg"
+    }
+}

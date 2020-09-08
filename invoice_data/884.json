@@ -1,198 +1,194 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "|",
             "id": 1,
             "bbox": [
-                363,
-                286,
-                447,
-                339
+                388,
+                36,
+                391,
+                68
             ]
         },
         {
-            "text": "SHOES",
+            "text": "damas",
             "id": 2,
             "bbox": [
-                378,
+                292,
+                34,
+                380,
+                69
+            ]
+        },
+        {
+            "text": "\u0627",
+            "id": 3,
+            "bbox": [
+                153,
+                174,
+                168,
+                182
+            ]
+        },
+        {
+            "text": "\u0627",
+            "id": 4,
+            "bbox": [
+                142,
+                174,
+                149,
+                182
+            ]
+        },
+        {
+            "text": "\"",
+            "id": 5,
+            "bbox": [
+                123,
+                174,
+                124,
+                182
+            ]
+        },
+        {
+            "text": "SOS",
+            "id": 6,
+            "bbox": [
+                206,
+                174,
+                230,
+                183
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                233,
+                174,
+                243,
+                183
+            ]
+        },
+        {
+            "text": "25",
+            "id": 8,
+            "bbox": [
+                642,
+                662,
+                651,
+                672
+            ]
+        },
+        {
+            "text": "480.00",
+            "id": 9,
+            "bbox": [
+                653,
+                662,
+                681,
+                672
+            ]
+        },
+        {
+            "text": "25.420.00",
+            "id": 10,
+            "bbox": [
+                654,
                 349,
-                429,
+                689,
+                360
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                375,
+                351,
+                376,
+                359
+            ]
+        },
+        {
+            "text": "WATCH",
+            "id": 12,
+            "bbox": [
+                194,
+                342,
+                224,
+                354
+            ]
+        },
+        {
+            "text": "-",
+            "id": 13,
+            "bbox": [
+                226,
+                344,
+                227,
+                354
+            ]
+        },
+        {
+            "text": "02300187796",
+            "id": 14,
+            "bbox": [
+                228,
+                344,
+                273,
+                357
+            ]
+        },
+        {
+            "text": "-",
+            "id": 15,
+            "bbox": [
+                275,
+                346,
+                276,
+                356
+            ]
+        },
+        {
+            "text": "ARNOLD",
+            "id": 16,
+            "bbox": [
+                276,
+                346,
+                308,
                 358
             ]
         },
         {
-            "text": "Jul,",
-            "id": 3,
+            "text": "SON",
+            "id": 17,
             "bbox": [
-                492,
-                459,
-                514,
-                468
+                311,
+                348,
+                326,
+                359
             ]
         },
         {
-            "text": "2020",
-            "id": 4,
+            "text": "Watch",
+            "id": 18,
             "bbox": [
-                520,
-                459,
-                548,
-                467
-            ]
-        },
-        {
-            "text": "17:25",
-            "id": 5,
-            "bbox": [
-                557,
-                458,
-                586,
-                466
-            ]
-        },
-        {
-            "text": "3,",
-            "id": 6,
-            "bbox": [
-                605,
-                673,
-                613,
-                681
-            ]
-        },
-        {
-            "text": "200.00",
-            "id": 7,
-            "bbox": [
-                618,
-                673,
-                656,
-                680
-            ]
-        },
-        {
-            "text": "3,200.00",
-            "id": 8,
-            "bbox": [
-                606,
-                593,
-                656,
-                603
-            ]
-        },
-        {
-            "text": "DIOR",
-            "id": 9,
-            "bbox": [
-                152,
-                577,
-                176,
-                583
-            ]
-        },
-        {
-            "text": "WOMENS",
-            "id": 10,
-            "bbox": [
-                184,
-                576,
-                222,
-                584
-            ]
-        },
-        {
-            "text": "SHOES",
-            "id": 11,
-            "bbox": [
-                234,
-                576,
-                262,
-                586
-            ]
-        },
-        {
-            "text": "J",
-            "id": 12,
-            "bbox": [
-                272,
-                578,
-                295,
-                586
-            ]
-        },
-        {
-            "text": "!",
-            "id": 13,
-            "bbox": [
-                317,
-                577,
-                343,
-                586
+                194,
+                356,
+                215,
+                367
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR",
-                "WOMENS",
-                "SHOES"
-            ],
-            "value_id": [
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "J",
-                "!"
-            ],
-            "value_id": [
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "level",
-                "SHOES"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,",
-                "200.00"
+                "SOS",
+                "PM"
             ],
             "value_id": [
                 6,
@@ -200,13 +196,17 @@
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:25"
+                "\u0627",
+                "\u0627",
+                "\""
             ],
             "value_id": [
+                3,
+                4,
                 5
             ]
         },
@@ -215,10 +215,70 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,200.00"
+                "25.420.00"
             ],
             "value_id": [
-                8
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WATCH",
+                "-",
+                "02300187796",
+                "-",
+                "ARNOLD",
+                "SON",
+                "Watch"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "|",
+                "damas"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25",
+                "480.00"
+            ],
+            "value_id": [
+                8,
+                9
             ]
         }
     ],

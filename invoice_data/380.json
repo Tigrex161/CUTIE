@@ -4,151 +4,164 @@
             "text": "GALERIES",
             "id": 1,
             "bbox": [
-                330,
-                197,
-                405,
-                209
+                238,
+                162,
+                305,
+                186
             ]
         },
         {
             "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                416,
-                198,
-                502,
-                212
+                315,
+                155,
+                390,
+                180
             ]
         },
         {
-            "text": "09/07/20",
+            "text": "06/07/20",
             "id": 3,
             "bbox": [
-                276,
-                433,
-                349,
-                445
+                194,
+                351,
+                265,
+                368
             ]
         },
         {
-            "text": "14:44",
+            "text": "15:20",
             "id": 4,
             "bbox": [
-                362,
-                436,
-                405,
-                447
+                278,
+                351,
+                319,
+                368
             ]
         },
         {
-            "text": "2,500.00",
+            "text": "480.00",
             "id": 5,
             "bbox": [
-                530,
-                684,
-                605,
-                695
+                463,
+                588,
+                515,
+                605
             ]
         },
         {
-            "text": "2,",
+            "text": "480.00",
             "id": 6,
             "bbox": [
-                533,
-                588,
-                546,
-                601
+                462,
+                497,
+                517,
+                518
             ]
         },
         {
-            "text": "500.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                553,
-                588,
-                608,
-                599
+                143,
+                535,
+                147,
+                553
             ]
         },
         {
-            "text": "Luxurious",
+            "text": "Leather",
             "id": 8,
             "bbox": [
-                203,
-                561,
-                287,
-                574
+                131,
+                485,
+                193,
+                506
             ]
         },
         {
             "text": "Accessory",
             "id": 9,
             "bbox": [
-                300,
-                563,
-                385,
-                578
+                203,
+                482,
+                286,
+                504
             ]
         },
         {
-            "text": "BAGS",
+            "text": "BAG",
             "id": 10,
             "bbox": [
-                202,
-                586,
-                239,
-                597
+                132,
+                510,
+                158,
+                529
             ]
         },
         {
-            "text": "DIOK",
+            "text": "TORY",
             "id": 11,
             "bbox": [
-                253,
-                586,
-                289,
-                598
+                169,
+                509,
+                203,
+                527
+            ]
+        },
+        {
+            "text": "BURCH",
+            "id": 12,
+            "bbox": [
+                214,
+                506,
+                257,
+                525
             ]
         },
         {
             "text": "SKU",
-            "id": 12,
+            "id": 13,
             "bbox": [
-                300,
-                587,
-                327,
-                599
+                268,
+                505,
+                295,
+                523
             ]
         },
         {
-            "text": "900906601",
-            "id": 13,
+            "text": "900549749",
+            "id": 14,
             "bbox": [
-                253,
-                608,
-                335,
-                624
+                178,
+                529,
+                259,
+                552
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Luxurious",
-                "Accessory",
-                "BAGS",
-                "DIOK",
-                "SKU"
+                "15:20"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900549749"
+            ],
+            "value_id": [
+                14
             ]
         },
         {
@@ -156,10 +169,42 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "09/07/20"
+                "06/07/20"
             ],
             "value_id": [
                 3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "480.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Leather",
+                "Accessory",
+                "BAG",
+                "TORY",
+                "BURCH",
+                "SKU"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
             ]
         },
         {
@@ -176,49 +221,25 @@
             ]
         },
         {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,500.00"
+                "480.00"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900906601"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:44"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,",
-                "500.00"
-            ],
-            "value_id": [
-                6,
-                7
             ]
         }
     ],

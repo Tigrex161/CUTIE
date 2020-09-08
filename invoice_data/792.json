@@ -1,164 +1,158 @@
 {
     "text_boxes": [
         {
-            "text": "July,",
+            "text": "adidas",
             "id": 1,
             "bbox": [
-                548,
-                200,
-                579,
-                212
+                307,
+                329,
+                390,
+                364
             ]
         },
         {
-            "text": "16",
+            "text": "07/19/20",
             "id": 2,
             "bbox": [
-                592,
-                200,
-                604,
-                208
+                249,
+                531,
+                304,
+                552
             ]
         },
         {
-            "text": "2020",
+            "text": "21:39",
             "id": 3,
             "bbox": [
-                612,
-                199,
-                639,
-                209
+                311,
+                527,
+                347,
+                546
             ]
         },
         {
-            "text": "17:09",
+            "text": "999.00",
             "id": 4,
             "bbox": [
-                649,
-                197,
-                682,
-                208
+                433,
+                782,
+                479,
+                797
             ]
         },
         {
-            "text": "\"26.00",
+            "text": "999.00",
             "id": 5,
             "bbox": [
-                627,
-                546,
-                669,
-                558
+                407,
+                634,
+                451,
+                653
             ]
         },
         {
-            "text": "726.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                627,
-                454,
-                669,
-                466
+                321,
+                814,
+                325,
+                828
             ]
         },
         {
-            "text": "MIR-785T-A00952-49:",
+            "text": "YEEZY",
             "id": 7,
             "bbox": [
-                217,
-                437,
-                351,
-                451
+                192,
+                644,
+                222,
+                661
             ]
         },
         {
-            "text": "PSM.",
+            "text": "BOOST",
             "id": 8,
             "bbox": [
-                353,
-                438,
-                377,
-                449
+                229,
+                642,
+                261,
+                659
             ]
         },
         {
-            "text": "49:XXL:GENTS",
+            "text": "350",
             "id": 9,
             "bbox": [
-                379,
-                436,
-                459,
-                449
+                269,
+                640,
+                290,
+                657
             ]
         },
         {
-            "text": "PULLOVER",
+            "text": "V2",
             "id": 10,
             "bbox": [
-                466,
-                437,
-                520,
-                447
+                297,
+                639,
+                310,
+                655
             ]
         },
         {
-            "text": "ZIP",
+            "text": "FZ1267",
             "id": 11,
             "bbox": [
-                528,
-                438,
-                548,
-                446
+                269,
+                625,
+                309,
+                642
             ]
         },
         {
-            "text": "is",
+            "text": "11",
             "id": 12,
             "bbox": [
-                592,
-                438,
-                620,
-                445
+                319,
+                625,
+                329,
+                640
             ]
         },
         {
-            "text": "025924865690",
+            "text": "\u0623\u0645\u0646\u064a\u0629",
             "id": 13,
             "bbox": [
-                122,
-                440,
-                206,
-                450
+                192,
+                663,
+                210,
+                673
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MIR-785T-A00952-49:",
-                "PSM.",
-                "49:XXL:GENTS",
-                "PULLOVER",
-                "ZIP"
+                "21:39"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
+                3
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "is"
+                "FZ1267",
+                "11"
             ],
             "value_id": [
+                11,
                 12
             ]
         },
@@ -167,47 +161,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July,",
-                "16",
-                "2020"
+                "07/19/20"
             ],
             "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\"26.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "025924865690"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:09"
-            ],
-            "value_id": [
-                4
+                2
             ]
         },
         {
@@ -215,10 +172,71 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "726.00"
+                "999.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0623\u0645\u0646\u064a\u0629"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "YEEZY",
+                "BOOST",
+                "350",
+                "V2"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "adidas"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "999.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

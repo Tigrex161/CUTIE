@@ -1,171 +1,147 @@
 {
     "text_boxes": [
         {
-            "text": "GEOX",
+            "text": "NICOLAT",
             "id": 1,
             "bbox": [
-                361,
-                239,
-                400,
-                253
+                247,
+                14,
+                486,
+                84
             ]
         },
         {
-            "text": "07/02/20",
+            "text": "2020/06/19",
             "id": 2,
             "bbox": [
-                237,
-                375,
-                325,
-                396
+                303,
+                258,
+                360,
+                272
             ]
         },
         {
-            "text": "11:05",
+            "text": "16",
             "id": 3,
             "bbox": [
-                338,
-                382,
-                387,
-                397
+                369,
+                259,
+                378,
+                271
             ]
         },
         {
-            "text": "692.00",
+            "text": "07:47",
             "id": 4,
             "bbox": [
-                524,
-                787,
-                588,
-                803
+                384,
+                258,
+                410,
+                271
             ]
         },
         {
-            "text": "346",
+            "text": "675.68",
             "id": 5,
             "bbox": [
-                551,
-                615,
-                593,
-                632
+                417,
+                512,
+                469,
+                529
             ]
         },
         {
-            "text": "346",
+            "text": "675.68",
             "id": 6,
             "bbox": [
-                556,
-                652,
-                587,
-                666
+                439,
+                384,
+                474,
+                399
             ]
         },
         {
-            "text": "1.",
+            "text": "1",
             "id": 7,
             "bbox": [
-                378,
-                618,
-                383,
-                630
+                290,
+                381,
+                294,
+                394
             ]
         },
         {
-            "text": "SANDALS",
+            "text": "Oru",
             "id": 8,
             "bbox": [
-                252,
-                618,
-                323,
-                630
+                289,
+                398,
+                311,
+                410
             ]
         },
         {
-            "text": "SANDALS",
+            "text": "Paris",
             "id": 9,
             "bbox": [
-                252,
-                651,
-                322,
-                663
+                315,
+                398,
+                344,
+                410
             ]
         },
         {
-            "text": "A063080",
+            "text": "Bercus",
             "id": 10,
             "bbox": [
-                167,
-                617,
-                238,
-                630
+                349,
+                398,
+                387,
+                410
             ]
         },
         {
-            "text": "A063065",
+            "text": "50",
             "id": 11,
             "bbox": [
-                168,
-                651,
-                239,
-                663
+                391,
+                399,
+                403,
+                411
+            ]
+        },
+        {
+            "text": "ml",
+            "id": 12,
+            "bbox": [
+                408,
+                399,
+                419,
+                411
+            ]
+        },
+        {
+            "text": "OTPSODOS",
+            "id": 13,
+            "bbox": [
+                217,
+                379,
+                277,
+                394
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SANDALS",
-                "SANDALS"
+                "16",
+                "07:47"
             ],
             "value_id": [
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "07/02/20"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GEOX"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "692.00"
-            ],
-            "value_id": [
+                3,
                 4
             ]
         },
@@ -174,23 +150,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "A063080",
-                "A063065"
+                "OTPSODOS"
             ],
             "value_id": [
-                10,
-                11
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:05"
+                "2020/06/19"
             ],
             "value_id": [
-                3
+                2
             ]
         },
         {
@@ -198,12 +172,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "346",
-                "346"
+                "675.68"
             ],
             "value_id": [
-                5,
                 6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Oru",
+                "Paris",
+                "Bercus",
+                "50",
+                "ml"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NICOLAT"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "675.68"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

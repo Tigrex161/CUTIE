@@ -1,173 +1,216 @@
 {
     "text_boxes": [
         {
-            "text": "PARFUMS",
+            "text": "two",
             "id": 1,
             "bbox": [
-                269,
-                312,
-                397,
-                329
+                272,
+                70,
+                428,
+                173
             ]
         },
         {
-            "text": "de",
+            "text": "3:33",
             "id": 2,
             "bbox": [
-                402,
-                312,
-                420,
-                328
+                499,
+                483,
+                539,
+                508
             ]
         },
         {
-            "text": "MARIY",
+            "text": "06",
             "id": 3,
             "bbox": [
-                426,
-                314,
+                312,
                 502,
-                327
+                328,
+                530
             ]
         },
         {
-            "text": "l'ARIS",
+            "text": "/",
             "id": 4,
             "bbox": [
-                364,
-                332,
-                411,
-                345
+                331,
+                502,
+                338,
+                528
             ]
         },
         {
-            "text": "02/07/2020",
+            "text": "07",
             "id": 5,
             "bbox": [
-                304,
-                750,
-                391,
-                768
+                340,
+                500,
+                354,
+                528
             ]
         },
         {
-            "text": "12:49",
+            "text": "/",
             "id": 6,
             "bbox": [
-                398,
-                750,
-                439,
-                765
+                359,
+                501,
+                366,
+                527
             ]
         },
         {
-            "text": "pm",
+            "text": "156.00",
             "id": 7,
             "bbox": [
-                446,
-                754,
-                468,
-                766
+                503,
+                889,
+                561,
+                912
             ]
         },
         {
-            "text": "AED791.00",
+            "text": "118.00",
             "id": 8,
             "bbox": [
-                488,
-                1031,
-                583,
-                1046
+                460,
+                694,
+                515,
+                721
             ]
         },
         {
-            "text": "AED791.00",
+            "text": "38.00",
             "id": 9,
             "bbox": [
-                489,
-                918,
-                582,
-                934
+                473,
+                766,
+                520,
+                789
             ]
         },
         {
-            "text": "1",
+            "text": "2",
             "id": 10,
             "bbox": [
-                464,
-                915,
-                472,
-                934
+                196,
+                708,
+                204,
+                730
             ]
         },
         {
-            "text": "PEGASUS",
+            "text": "2",
             "id": 11,
             "bbox": [
-                190,
-                918,
-                280,
-                932
+                200,
+                780,
+                209,
+                800
             ]
         },
         {
-            "text": "75ml",
+            "text": "Espresso",
             "id": 12,
             "bbox": [
-                287,
-                918,
-                327,
-                931
+                171,
+                754,
+                247,
+                777
             ]
         },
         {
-            "text": "EDP",
+            "text": "Honey",
             "id": 13,
             "bbox": [
-                336,
-                918,
-                372,
-                931
+                167,
+                684,
+                214,
+                705
             ]
         },
         {
-            "text": "SPRAY",
+            "text": "Pudding",
             "id": 14,
             "bbox": [
-                380,
-                918,
-                441,
-                931
+                226,
+                684,
+                288,
+                705
+            ]
+        },
+        {
+            "text": "\u0648\u062f\u0628\u064a\u0646\u062c",
+            "id": 15,
+            "bbox": [
+                245,
+                662,
+                291,
+                685
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0639\u0633\u0644",
+            "id": 16,
+            "bbox": [
+                190,
+                660,
+                231,
+                683
+            ]
+        },
+        {
+            "text": "\u0628\u0627",
+            "id": 17,
+            "bbox": [
+                165,
+                658,
+                186,
+                680
+            ]
+        },
+        {
+            "text": "\u0647\u0648\u0629",
+            "id": 18,
+            "bbox": [
+                270,
+                732,
+                290,
+                752
+            ]
+        },
+        {
+            "text": "\u0627\u0633\u0628\u0631",
+            "id": 19,
+            "bbox": [
+                223,
+                731,
+                254,
+                752
+            ]
+        },
+        {
+            "text": "\u0628\u064a\u0633\u0648\u0642",
+            "id": 20,
+            "bbox": [
+                182,
+                731,
+                219,
+                752
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PEGASUS",
-                "75ml",
-                "EDP",
-                "SPRAY"
+                "3:33"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                10
+                2
             ]
         },
         {
@@ -175,51 +218,16 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02/07/2020"
+                "06",
+                "/",
+                "07",
+                "/"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "PARFUMS",
-                "de",
-                "MARIY",
-                "l'ARIS"
-            ],
-            "value_id": [
-                1,
-                2,
                 3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AED791.00"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:49",
-                "pm"
-            ],
-            "value_id": [
-                6,
-                7
+                4,
+                5,
+                6
             ]
         },
         {
@@ -227,10 +235,83 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AED791.00"
+                "118.00",
+                "38.00"
             ],
             "value_id": [
+                8,
                 9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0648\u062f\u0628\u064a\u0646\u062c",
+                "\u0627\u0644\u0639\u0633\u0644",
+                "\u0628\u0627",
+                "\u0647\u0648\u0629",
+                "\u0627\u0633\u0628\u0631",
+                "\u0628\u064a\u0633\u0648\u0642"
+            ],
+            "value_id": [
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Espresso",
+                "Honey",
+                "Pudding"
+            ],
+            "value_id": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "two"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "2"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "156.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

@@ -1,210 +1,197 @@
 {
     "text_boxes": [
         {
-            "text": "Jumbo",
+            "text": "Van",
             "id": 1,
             "bbox": [
-                285,
-                113,
-                323,
-                131
+                260,
+                249,
+                316,
+                292
             ]
         },
         {
-            "text": "Electronics",
+            "text": "Cleef",
             "id": 2,
             "bbox": [
-                326,
-                113,
-                383,
-                131
+                331,
+                248,
+                418,
+                292
             ]
         },
         {
-            "text": "Co.",
+            "text": "&",
             "id": 3,
             "bbox": [
-                386,
-                113,
-                406,
-                131
+                429,
+                248,
+                448,
+                291
             ]
         },
         {
-            "text": "Ltd.",
+            "text": "Arpels",
             "id": 4,
             "bbox": [
-                408,
-                113,
-                431,
-                131
+                461,
+                247,
+                562,
+                292
             ]
         },
         {
-            "text": "LLC",
+            "text": "20/07/2020",
             "id": 5,
             "bbox": [
-                433,
-                113,
-                453,
-                131
+                102,
+                939,
+                157,
+                958
             ]
         },
         {
-            "text": "17.07.2020",
+            "text": "11:06:35",
             "id": 6,
             "bbox": [
-                99,
-                335,
-                151,
-                343
+                162,
+                937,
+                204,
+                955
             ]
         },
         {
-            "text": "21:47",
+            "text": "5,200.00",
             "id": 7,
             "bbox": [
-                98,
-                346,
-                124,
-                354
+                769,
+                743,
+                804,
+                753
             ]
         },
         {
-            "text": "735.00",
+            "text": "5.200.00",
             "id": 8,
             "bbox": [
-                660,
-                667,
-                696,
-                676
+                767,
+                687,
+                804,
+                700
             ]
         },
         {
-            "text": "Beats",
+            "text": "1",
             "id": 9,
             "bbox": [
-                168,
-                545,
-                194,
-                556
+                381,
+                757,
+                382,
+                764
             ]
         },
         {
-            "text": "Powerbeats",
+            "text": "PEND",
             "id": 10,
             "bbox": [
-                198,
-                545,
-                253,
-                553
+                113,
+                695,
+                133,
+                705
             ]
         },
         {
-            "text": "Pro",
+            "text": "SWEET",
             "id": 11,
             "bbox": [
-                168,
-                557,
-                183,
-                564
+                136,
+                693,
+                161,
+                705
             ]
         },
         {
-            "text": "Wireless",
+            "text": "ALHA",
             "id": 12,
             "bbox": [
-                188,
-                556,
-                227,
-                564
+                164,
+                694,
+                183,
+                704
             ]
         },
         {
-            "text": "Earphones,",
+            "text": "YG",
             "id": 13,
             "bbox": [
-                164,
-                566,
-                221,
-                578
+                185,
+                694,
+                194,
+                704
             ]
         },
         {
-            "text": "Moss",
+            "text": "CLOV",
             "id": 14,
             "bbox": [
-                226,
-                568,
-                250,
-                576
+                197,
+                693,
+                217,
+                704
             ]
         },
         {
-            "text": "Serial",
+            "text": "WMOP",
             "id": 15,
             "bbox": [
-                168,
-                576,
-                195,
-                588
+                220,
+                692,
+                245,
+                703
             ]
         },
         {
-            "text": "Number:",
+            "text": "100",
             "id": 16,
             "bbox": [
-                198,
-                578,
-                238,
-                588
+                194,
+                704,
+                210,
+                718
             ]
         },
         {
-            "text": "SCC2ZNC7CLN3N",
+            "text": "ARF69",
             "id": 17,
             "bbox": [
-                176,
-                586,
-                255,
-                599
-            ]
-        },
-        {
-            "text": "MV712AE/A",
-            "id": 18,
-            "bbox": [
-                103,
-                545,
-                159,
-                553
+                165,
+                703,
+                191,
+                719
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Beats",
-                "Powerbeats",
-                "Pro",
-                "Wireless",
-                "Earphones,",
-                "Moss",
-                "Serial",
-                "Number:",
-                "SCC2ZNC7CLN3N"
+                "11:06:35"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100",
+                "ARF69"
+            ],
+            "value_id": [
                 16,
                 17
             ]
@@ -214,10 +201,42 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17.07.2020"
+                "20/07/2020"
             ],
             "value_id": [
-                6
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5.200.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PEND",
+                "SWEET",
+                "ALHA",
+                "YG",
+                "CLOV",
+                "WMOP"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
             ]
         },
         {
@@ -225,18 +244,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jumbo",
-                "Electronics",
-                "Co.",
-                "Ltd.",
-                "LLC"
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
             ],
             "value_id": [
                 1,
                 2,
                 3,
-                4,
-                5
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
             ]
         },
         {
@@ -244,29 +272,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "735.00"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MV712AE/A"
-            ],
-            "value_id": [
-                18
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21:47"
+                "5,200.00"
             ],
             "value_id": [
                 7

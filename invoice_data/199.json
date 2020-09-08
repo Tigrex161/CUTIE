@@ -1,220 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "ZRA",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                312,
-                74,
-                558,
-                175
+                309,
+                186,
+                390,
+                209
             ]
         },
         {
-            "text": "07-07-2020",
+            "text": "03/07/20",
             "id": 2,
             "bbox": [
-                123,
-                585,
-                272,
-                606
+                236,
+                411,
+                319,
+                431
             ]
         },
         {
-            "text": "19:31",
+            "text": "13:28",
             "id": 3,
             "bbox": [
-                295,
-                581,
-                364,
-                600
+                335,
+                410,
+                385,
+                428
             ]
         },
         {
-            "text": "100",
+            "text": "2.500.00",
             "id": 4,
             "bbox": [
-                643,
-                1075,
-                685,
-                1095
+                529,
+                682,
+                608,
+                701
             ]
         },
         {
-            "text": "79",
+            "text": "2,500.00",
             "id": 5,
             "bbox": [
-                662,
-                804,
-                688,
-                823
+                530,
+                581,
+                614,
+                602
             ]
         },
         {
-            "text": "29",
+            "text": "1",
             "id": 6,
             "bbox": [
-                661,
-                719,
-                687,
-                739
+                199,
+                616,
+                203,
+                631
             ]
         },
         {
             "text": "1",
             "id": 7,
             "bbox": [
-                306,
-                730,
-                313,
-                746
+                604,
+                634,
+                609,
+                647
             ]
         },
         {
-            "text": "1",
+            "text": "Luxurious",
             "id": 8,
             "bbox": [
-                309,
-                809,
-                319,
-                827
+                185,
+                566,
+                273,
+                582
             ]
         },
         {
-            "text": "0340214204807",
+            "text": "Accessory",
             "id": 9,
             "bbox": [
-                272,
-                765,
-                476,
-                788
+                286,
+                566,
+                375,
+                582
             ]
         },
         {
-            "text": "T-SHIRT",
+            "text": "SHOES",
             "id": 10,
             "bbox": [
-                514,
-                763,
-                623,
-                784
+                187,
+                590,
+                234,
+                606
             ]
         },
         {
-            "text": "0900761225008",
+            "text": "GUCCI",
             "id": 11,
             "bbox": [
-                280,
-                848,
-                480,
-                866
+                246,
+                589,
+                293,
+                605
             ]
         },
         {
-            "text": "T-",
+            "text": "SKU",
             "id": 12,
             "bbox": [
-                517,
-                848,
-                540,
-                863
+                308,
+                589,
+                334,
+                603
             ]
         },
         {
-            "text": "SHIRT",
+            "text": "900906467",
             "id": 13,
             "bbox": [
-                549,
-                847,
-                622,
-                864
-            ]
-        },
-        {
-            "text": "10001320",
-            "id": 14,
-            "bbox": [
-                111,
-                768,
-                234,
-                787
-            ]
-        },
-        {
-            "text": "10002350",
-            "id": 15,
-            "bbox": [
-                123,
-                848,
-                243,
-                866
+                239,
+                614,
+                325,
+                631
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0340214204807",
-                "T-SHIRT",
-                "0900761225008",
-                "T-",
-                "SHIRT"
+                "13:28"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1",
-                "1"
-            ],
-            "value_id": [
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "07-07-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZRA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "100"
-            ],
-            "value_id": [
-                4
+                3
             ]
         },
         {
@@ -222,23 +148,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001320",
-                "10002350"
+                "900906467"
             ],
             "value_id": [
-                14,
-                15
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19:31"
+                "03/07/20"
             ],
             "value_id": [
-                3
+                2
             ]
         },
         {
@@ -246,12 +170,73 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "79",
-                "29"
+                "2,500.00"
             ],
             "value_id": [
-                5,
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Luxurious",
+                "Accessory",
+                "SHOES",
+                "GUCCI",
+                "SKU"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.500.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

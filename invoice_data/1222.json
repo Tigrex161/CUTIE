@@ -1,0 +1,297 @@
+{
+    "text_boxes": [
+        {
+            "text": "bloomingdales",
+            "id": 1,
+            "bbox": [
+                258,
+                132,
+                508,
+                180
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 2,
+            "bbox": [
+                280,
+                305,
+                303,
+                321
+            ]
+        },
+        {
+            "text": "-",
+            "id": 3,
+            "bbox": [
+                273,
+                306,
+                276,
+                320
+            ]
+        },
+        {
+            "text": "\u0623\u0628\u0644",
+            "id": 4,
+            "bbox": [
+                250,
+                306,
+                267,
+                321
+            ]
+        },
+        {
+            "text": "-22",
+            "id": 5,
+            "bbox": [
+                228,
+                307,
+                247,
+                321
+            ]
+        },
+        {
+            "text": "2",
+            "id": 6,
+            "bbox": [
+                358,
+                304,
+                363,
+                319
+            ]
+        },
+        {
+            "text": ":",
+            "id": 7,
+            "bbox": [
+                368,
+                304,
+                368,
+                319
+            ]
+        },
+        {
+            "text": "30:18",
+            "id": 8,
+            "bbox": [
+                372,
+                303,
+                407,
+                320
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 9,
+            "bbox": [
+                414,
+                305,
+                427,
+                320
+            ]
+        },
+        {
+            "text": "210",
+            "id": 10,
+            "bbox": [
+                445,
+                489,
+                464,
+                502
+            ]
+        },
+        {
+            "text": "OC",
+            "id": 11,
+            "bbox": [
+                468,
+                489,
+                485,
+                502
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                389,
+                487,
+                392,
+                501
+            ]
+        },
+        {
+            "text": "10",
+            "id": 13,
+            "bbox": [
+                389,
+                532,
+                407,
+                544
+            ]
+        },
+        {
+            "text": "210.00",
+            "id": 14,
+            "bbox": [
+                445,
+                532,
+                485,
+                545
+            ]
+        },
+        {
+            "text": "213443260",
+            "id": 15,
+            "bbox": [
+                246,
+                488,
+                308,
+                505
+            ]
+        },
+        {
+            "text": "213443344",
+            "id": 16,
+            "bbox": [
+                247,
+                530,
+                309,
+                548
+            ]
+        },
+        {
+            "text": "2",
+            "id": 17,
+            "bbox": [
+                507,
+                560,
+                512,
+                571
+            ]
+        },
+        {
+            "text": "20.00",
+            "id": 18,
+            "bbox": [
+                452,
+                876,
+                490,
+                889
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                ":",
+                "30:18",
+                "PM"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                "-",
+                "\u0623\u0628\u0644",
+                "-22"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "210",
+                "OC",
+                "210.00"
+            ],
+            "value_id": [
+                10,
+                11,
+                14
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "213443260",
+                "213443344"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdales"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "10"
+            ],
+            "value_id": [
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20.00"
+            ],
+            "value_id": [
+                18
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1222.jpg"
+    }
+}

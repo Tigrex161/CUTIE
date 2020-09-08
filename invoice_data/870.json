@@ -1,185 +1,166 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "Rink",
             "id": 1,
             "bbox": [
-                475,
-                168,
-                623,
-                269
+                307,
+                362,
+                339,
+                378
             ]
         },
         {
-            "text": "SHOES",
+            "text": "Arcade",
             "id": 2,
             "bbox": [
-                503,
-                285,
-                593,
-                300
+                350,
+                362,
+                400,
+                378
             ]
         },
         {
-            "text": "Jul,",
+            "text": "19/07/2020",
             "id": 3,
             "bbox": [
-                693,
-                488,
-                732,
-                503
+                282,
+                528,
+                361,
+                552
             ]
         },
         {
-            "text": "2020",
+            "text": "12:09",
             "id": 4,
             "bbox": [
-                752,
-                488,
-                795,
-                501
+                390,
+                527,
+                429,
+                549
             ]
         },
         {
-            "text": "12:",
+            "text": "160.0",
             "id": 5,
             "bbox": [
-                811,
-                488,
-                838,
-                501
-            ]
-        },
-        {
-            "text": "44",
-            "id": 6,
-            "bbox": [
-                846,
-                488,
-                864,
-                501
-            ]
-        },
-        {
-            "text": "1,500.00",
-            "id": 7,
-            "bbox": [
-                872,
-                903,
-                960,
-                918
-            ]
-        },
-        {
-            "text": "1,500.00",
-            "id": 8,
-            "bbox": [
-                886,
-                754,
-                975,
-                770
-            ]
-        },
-        {
-            "text": "A4138XLHDGR-OSS:",
-            "id": 9,
-            "bbox": [
-                84,
-                710,
-                271,
-                731
-            ]
-        },
-        {
-            "text": "ZEG.OSS:11:TIZIANO",
-            "id": 10,
-            "bbox": [
-                273,
-                711,
-                474,
-                732
-            ]
-        },
-        {
-            "text": "-ZEGNA",
-            "id": 11,
-            "bbox": [
-                486,
-                717,
-                551,
-                730
-            ]
-        },
-        {
-            "text": "COUTURE",
-            "id": 12,
-            "bbox": [
-                564,
-                717,
-                641,
-                731
-            ]
-        },
-        {
-            "text": "034924872073",
-            "id": 13,
-            "bbox": [
-                86,
-                748,
-                220,
+                501,
+                744,
+                539,
                 763
             ]
         },
         {
-            "text": "s",
-            "id": 14,
+            "text": "140.0",
+            "id": 6,
             "bbox": [
-                777,
-                716,
-                806,
-                734
+                496,
+                663,
+                533,
+                682
             ]
         },
         {
-            "text": "lis",
+            "text": "20.0",
+            "id": 7,
+            "bbox": [
+                505,
+                704,
+                536,
+                721
+            ]
+        },
+        {
+            "text": "4",
+            "id": 8,
+            "bbox": [
+                313,
+                670,
+                318,
+                688
+            ]
+        },
+        {
+            "text": "2",
+            "id": 9,
+            "bbox": [
+                311,
+                691,
+                316,
+                707
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                313,
+                711,
+                317,
+                729
+            ]
+        },
+        {
+            "text": "Public",
+            "id": 11,
+            "bbox": [
+                195,
+                672,
+                244,
+                693
+            ]
+        },
+        {
+            "text": "sessi",
+            "id": 12,
+            "bbox": [
+                255,
+                671,
+                295,
+                691
+            ]
+        },
+        {
+            "text": "Entertainer",
+            "id": 13,
+            "bbox": [
+                196,
+                693,
+                285,
+                713
+            ]
+        },
+        {
+            "text": "Locker",
+            "id": 14,
+            "bbox": [
+                196,
+                712,
+                245,
+                733
+            ]
+        },
+        {
+            "text": "Depos",
             "id": 15,
             "bbox": [
-                808,
-                718,
-                849,
-                729
+                254,
+                711,
+                294,
+                731
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "A4138XLHDGR-OSS:",
-                "ZEG.OSS:11:TIZIANO",
-                "-ZEGNA",
-                "COUTURE"
+                "12:09"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "s",
-                "lis"
-            ],
-            "value_id": [
-                14,
-                15
+                4
             ]
         },
         {
@@ -187,60 +168,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "19/07/2020"
             ],
             "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "level",
-                "SHOES"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,500.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "034924872073"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:",
-                "44"
-            ],
-            "value_id": [
-                5,
-                6
+                3
             ]
         },
         {
@@ -248,10 +179,70 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,500.00"
+                "140.0",
+                "20.0"
             ],
             "value_id": [
-                8
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Public",
+                "sessi",
+                "Entertainer",
+                "Locker",
+                "Depos"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Rink",
+                "Arcade"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4",
+                "2",
+                "1"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "160.0"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

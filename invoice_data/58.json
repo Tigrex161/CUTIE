@@ -1,131 +1,166 @@
 {
     "text_boxes": [
         {
-            "text": "ZVA",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                338,
-                147,
-                420,
-                195
+                333,
+                64,
+                437,
+                121
             ]
         },
         {
-            "text": "10.07-2020",
+            "text": "03.07.2020",
             "id": 2,
             "bbox": [
-                285,
-                342,
-                332,
-                352
+                264,
+                300,
+                322,
+                313
             ]
         },
         {
-            "text": "13.36",
+            "text": "19:25",
             "id": 3,
             "bbox": [
-                339,
-                342,
-                366,
-                352
+                332,
+                302,
+                359,
+                313
             ]
         },
         {
-            "text": "249",
+            "text": "270",
             "id": 4,
             "bbox": [
-                454,
-                479,
-                467,
-                487
+                466,
+                504,
+                482,
+                516
             ]
         },
         {
-            "text": "249",
+            "text": "79",
             "id": 5,
             "bbox": [
-                449,
-                385,
-                464,
-                395
+                471,
+                357,
+                481,
+                368
             ]
         },
         {
-            "text": "1130361004036",
+            "text": "199",
             "id": 6,
             "bbox": [
-                337,
-                406,
-                399,
-                416
+                465,
+                389,
+                482,
+                402
             ]
         },
         {
-            "text": "SANDAL",
+            "text": "1",
             "id": 7,
             "bbox": [
-                411,
-                402,
-                439,
-                411
+                337,
+                392,
+                340,
+                404
             ]
         },
         {
-            "text": "10001141",
+            "text": "0113140303703",
             "id": 8,
             "bbox": [
-                288,
-                408,
                 324,
-                417
+                377,
+                401,
+                392
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 9,
+            "bbox": [
+                416,
+                375,
+                444,
+                390
+            ]
+        },
+        {
+            "text": "1260051010536",
+            "id": 10,
+            "bbox": [
+                325,
+                407,
+                401,
+                423
+            ]
+        },
+        {
+            "text": "VAMP",
+            "id": 11,
+            "bbox": [
+                416,
+                406,
+                438,
+                420
+            ]
+        },
+        {
+            "text": "/",
+            "id": 12,
+            "bbox": [
+                441,
+                407,
+                444,
+                420
+            ]
+        },
+        {
+            "text": "PINKY",
+            "id": 13,
+            "bbox": [
+                446,
+                405,
+                475,
+                420
+            ]
+        },
+        {
+            "text": "10001582",
+            "id": 14,
+            "bbox": [
+                264,
+                378,
+                310,
+                393
+            ]
+        },
+        {
+            "text": "10002612",
+            "id": 15,
+            "bbox": [
+                264,
+                410,
+                310,
+                425
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1130361004036",
-                "SANDAL"
+                "19:25"
             ],
             "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10.07-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZVA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "249"
-            ],
-            "value_id": [
-                4
+                3
             ]
         },
         {
@@ -133,21 +168,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001141"
+                "10001582",
+                "10002612"
             ],
             "value_id": [
-                8
+                14,
+                15
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13.36"
+                "03.07.2020"
             ],
             "value_id": [
-                3
+                2
             ]
         },
         {
@@ -155,10 +192,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "249"
+                "79",
+                "199"
             ],
             "value_id": [
-                5
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0113140303703",
+                "DRESS",
+                "1260051010536",
+                "VAMP",
+                "/",
+                "PINKY"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "270"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

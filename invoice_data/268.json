@@ -1,176 +1,208 @@
 {
     "text_boxes": [
         {
-            "text": "CONDOTTI",
+            "text": "16,560.00",
             "id": 1,
             "bbox": [
-                437,
-                256,
-                585,
-                288
+                858,
+                800,
+                958,
+                823
             ]
         },
         {
-            "text": "10/Jul/2020",
+            "text": "1",
             "id": 2,
             "bbox": [
-                367,
-                535,
-                484,
-                557
+                594,
+                802,
+                601,
+                818
             ]
         },
         {
-            "text": "10:17",
+            "text": "CHANEL",
             "id": 3,
             "bbox": [
-                687,
-                519,
-                746,
-                541
+                73,
+                755,
+                137,
+                789
             ]
         },
         {
-            "text": "PM",
+            "text": "WOMENS",
             "id": 4,
             "bbox": [
-                754,
-                518,
-                784,
-                537
+                148,
+                755,
+                218,
+                789
             ]
         },
         {
-            "text": "\u062d\u0632\u0627\u0645",
+            "text": "SHOES",
             "id": 5,
             "bbox": [
-                421,
-                972,
-                472,
-                996
+                235,
+                755,
+                289,
+                789
             ]
         },
         {
-            "text": "\u0645\u0646",
+            "text": "\u0623\u062d\u0630\u064a\u0629",
             "id": 6,
             "bbox": [
-                381,
-                980,
-                412,
-                996
+                379,
+                755,
+                435,
+                789
             ]
         },
         {
-            "text": "\u0627\u0644\u062c\u0644\u062f",
+            "text": "\u0646\u0633\u0627\u0626\u064a\u0629",
             "id": 7,
             "bbox": [
-                318,
-                973,
-                370,
-                995
+                304,
+                755,
+                369,
+                789
             ]
         },
         {
-            "text": "1",
+            "text": "005611100802",
             "id": 8,
             "bbox": [
-                261,
-                1014,
-                268,
-                1030
+                73,
+                799,
+                206,
+                819
             ]
         },
         {
-            "text": "200011007",
+            "text": "16,560.00",
             "id": 9,
             "bbox": [
-                356,
-                595,
-                469,
-                616
+                849,
+                948,
+                949,
+                968
             ]
         },
         {
-            "text": "125.00",
+            "text": "25",
             "id": 10,
             "bbox": [
-                739,
-                905,
-                811,
-                923
+                640,
+                546,
+                659,
+                574
             ]
         },
         {
-            "text": "35310-Black",
+            "text": "Jun",
             "id": 11,
             "bbox": [
-                317,
-                912,
-                442,
-                932
+                673,
+                546,
+                704,
+                574
             ]
         },
         {
-            "text": "-",
+            "text": ",",
             "id": 12,
             "bbox": [
-                452,
-                921,
-                456,
-                923
+                708,
+                546,
+                711,
+                574
             ]
         },
         {
-            "text": "Leather",
+            "text": "2020",
             "id": 13,
             "bbox": [
-                468,
-                910,
-                542,
-                928
+                729,
+                547,
+                771,
+                575
             ]
         },
         {
-            "text": "Belt",
+            "text": "17:03",
             "id": 14,
             "bbox": [
-                316,
-                941,
-                354,
-                959
-            ]
-        },
-        {
-            "text": "1",
-            "id": 15,
-            "bbox": [
-                260,
-                916,
-                267,
-                932
-            ]
-        },
-        {
-            "text": "125.00",
-            "id": 16,
-            "bbox": [
-                730,
-                1345,
-                816,
-                1365
+                786,
+                547,
+                838,
+                575
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "17:03"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "005611100802"
             ],
             "value_id": [
                 8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16,560.00"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25",
+                "Jun",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0623\u062d\u0630\u064a\u0629",
+                "\u0646\u0633\u0627\u0626\u064a\u0629"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         },
         {
@@ -178,16 +210,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "35310-Black",
-                "-",
-                "Leather",
-                "Belt"
+                "CHANEL",
+                "WOMENS",
+                "SHOES"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14
+                3,
+                4,
+                5
             ]
         },
         {
@@ -198,44 +228,7 @@
                 "1"
             ],
             "value_id": [
-                15
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u062d\u0632\u0627\u0645",
-                "\u0645\u0646",
-                "\u0627\u0644\u062c\u0644\u062f"
-            ],
-            "value_id": [
-                5,
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10/Jul/2020"
-            ],
-            "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CONDOTTI"
-            ],
-            "value_id": [
-                1
             ]
         },
         {
@@ -243,45 +236,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "125.00"
-            ],
-            "value_id": [
-                16
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "200011007"
+                "16,560.00"
             ],
             "value_id": [
                 9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10:17",
-                "PM"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "125.00"
-            ],
-            "value_id": [
-                10
             ]
         }
     ],

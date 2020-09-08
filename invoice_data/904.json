@@ -1,165 +1,86 @@
 {
     "text_boxes": [
         {
-            "text": "GEEKAY",
+            "text": "MIZEN",
             "id": 1,
             "bbox": [
-                296,
-                136,
-                595,
-                204
+                456,
+                193,
+                613,
+                227
             ]
         },
         {
-            "text": "July",
+            "text": "17Mr2020",
             "id": 2,
             "bbox": [
-                390,
-                470,
-                422,
-                491
+                450,
+                355,
+                491,
+                367
             ]
         },
         {
-            "text": "24,",
+            "text": "870.00",
             "id": 3,
             "bbox": [
-                428,
-                471,
-                451,
-                489
+                620,
+                510,
+                645,
+                520
             ]
         },
         {
-            "text": "2020",
+            "text": "BIOT",
             "id": 4,
             "bbox": [
-                459,
-                471,
-                498,
-                487
+                616,
+                468,
+                642,
+                479
             ]
         },
         {
-            "text": "-299.00",
+            "text": "GENTLE",
             "id": 5,
             "bbox": [
-                526,
-                819,
-                586,
-                833
+                84,
+                473,
+                120,
+                484
             ]
         },
         {
-            "text": "-299.00",
+            "text": "MONSTER",
             "id": 6,
             "bbox": [
-                556,
-                655,
-                618,
-                671
+                124,
+                472,
+                168,
+                483
             ]
         },
         {
-            "text": "PS4",
+            "text": "0300639022000",
             "id": 7,
             "bbox": [
-                314,
-                660,
-                347,
-                674
-            ]
-        },
-        {
-            "text": "DualShock",
-            "id": 8,
-            "bbox": [
-                355,
-                658,
-                441,
-                674
-            ]
-        },
-        {
-            "text": "BI",
-            "id": 9,
-            "bbox": [
-                449,
-                658,
-                462,
-                672
-            ]
-        },
-        {
-            "text": "\u0643\u0633 \u0633\u0648\u0627\u0631",
-            "id": 10,
-            "bbox": [
-                413,
-                684,
-                465,
-                700
-            ]
-        },
-        {
-            "text": "\u0628\u0644\u0627\u064a\u0633\u062a\u06cc\u0634\u0646",
-            "id": 11,
-            "bbox": [
-                348,
-                684,
-                406,
-                702
-            ]
-        },
-        {
-            "text": "4",
-            "id": 12,
-            "bbox": [
-                332,
-                686,
-                340,
-                700
-            ]
-        },
-        {
-            "text": "36040",
-            "id": 13,
-            "bbox": [
-                228,
-                660,
-                278,
-                675
+                85,
+                485,
+                150,
+                498
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PS4",
-                "DualShock",
-                "BI"
+                "0300639022000"
             ],
             "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0643\u0633 \u0633\u0648\u0627\u0631",
-                "\u0628\u0644\u0627\u064a\u0633\u062a\u06cc\u0634\u0646",
-                "4"
-            ],
-            "value_id": [
-                10,
-                11,
-                12
+                7
             ]
         },
         {
@@ -167,14 +88,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "24,",
-                "2020"
+                "17Mr2020"
             ],
             "value_id": [
-                2,
-                3,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BIOT"
+            ],
+            "value_id": [
                 4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GENTLE",
+                "MONSTER"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         },
         {
@@ -182,7 +123,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GEEKAY"
+                "MIZEN"
             ],
             "value_id": [
                 1
@@ -193,32 +134,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "-299.00"
+                "870.00"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "36040"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "-299.00"
-            ],
-            "value_id": [
-                6
+                3
             ]
         }
     ],

@@ -1,189 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "RALPH",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                356,
-                247,
-                407,
-                258
+                345,
+                320,
+                501,
+                357
             ]
         },
         {
-            "text": "LAUREN",
+            "text": "09/07/2020",
             "id": 2,
             "bbox": [
-                422,
-                249,
-                485,
-                260
+                111,
+                568,
+                160,
+                581
             ]
         },
         {
-            "text": "9.July",
+            "text": "11.09",
             "id": 3,
             "bbox": [
-                498,
-                572,
-                521,
-                584
+                170,
+                568,
+                190,
+                580
             ]
         },
         {
-            "text": "2020",
+            "text": "8.100,00",
             "id": 4,
             "bbox": [
-                523,
-                572,
-                540,
-                584
+                647,
+                689,
+                683,
+                701
             ]
         },
         {
-            "text": "35130",
+            "text": "2.052.38",
             "id": 5,
             "bbox": [
-                547,
-                575,
-                574,
-                582
-            ]
-        },
-        {
-            "text": "PM",
-            "id": 6,
-            "bbox": [
-                578,
-                576,
-                589,
-                582
-            ]
-        },
-        {
-            "text": "370.00",
-            "id": 7,
-            "bbox": [
-                688,
-                738,
-                715,
-                744
-            ]
-        },
-        {
-            "text": "370.00",
-            "id": 8,
-            "bbox": [
-                689,
-                639,
-                714,
-                646
-            ]
-        },
-        {
-            "text": "\u0110ENIM",
-            "id": 9,
-            "bbox": [
-                362,
-                633,
-                390,
-                641
-            ]
-        },
-        {
-            "text": "BEAR-SHORT",
-            "id": 10,
-            "bbox": [
-                394,
-                633,
-                447,
-                642
-            ]
-        },
-        {
-            "text": "SLEEVE-",
-            "id": 11,
-            "bbox": [
-                450,
-                634,
-                481,
+                672,
+                631,
+                707,
                 643
             ]
         },
         {
-            "text": "KNIT",
-            "id": 12,
+            "text": "11",
+            "id": 6,
             "bbox": [
-                362,
-                647,
-                381,
-                653
+                417,
+                643,
+                422,
+                654
             ]
         },
         {
-            "text": "211785567",
-            "id": 13,
+            "text": "1",
+            "id": 7,
             "bbox": [
-                121,
-                628,
-                166,
-                635
+                422,
+                672,
+                423,
+                680
+            ]
+        },
+        {
+            "text": "Men",
+            "id": 8,
+            "bbox": [
+                267,
+                648,
+                283,
+                658
+            ]
+        },
+        {
+            "text": "Shoes",
+            "id": 9,
+            "bbox": [
+                287,
+                648,
+                311,
+                658
+            ]
+        },
+        {
+            "text": "SSNERYTO",
+            "id": 10,
+            "bbox": [
+                120,
+                653,
+                172,
+                665
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u0110ENIM",
-                "BEAR-SHORT",
-                "SLEEVE-",
-                "KNIT"
+                "11.09"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "9.July",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "RALPH",
-                "LAUREN"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "370.00"
-            ],
-            "value_id": [
-                7
+                3
             ]
         },
         {
@@ -191,23 +118,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "211785567"
+                "SSNERYTO"
             ],
             "value_id": [
-                13
+                10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "35130",
-                "PM"
+                "09/07/2020"
             ],
             "value_id": [
-                5,
-                6
+                2
             ]
         },
         {
@@ -215,10 +140,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "370.00"
+                "2.052.38"
             ],
             "value_id": [
-                8
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Men",
+                "Shoes"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8.100,00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

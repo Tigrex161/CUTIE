@@ -1,164 +1,213 @@
 {
     "text_boxes": [
         {
-            "text": "GALEPTES",
+            "text": "Dior",
             "id": 1,
             "bbox": [
-                304,
-                160,
-                368,
-                176
+                300,
+                150,
+                511,
+                242
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "2020-",
             "id": 2,
             "bbox": [
-                378,
-                162,
-                451,
-                175
+                376,
+                434,
+                416,
+                451
             ]
         },
         {
-            "text": "24/07/20",
+            "text": "\u0627\u0628\u0627\u0626\u06cc",
             "id": 3,
             "bbox": [
-                262,
-                375,
-                325,
-                388
+                365,
+                434,
+                379,
+                451
             ]
         },
         {
-            "text": "20:15",
+            "text": "-22",
             "id": 4,
             "bbox": [
-                335,
-                376,
-                374,
-                388
+                341,
+                434,
+                365,
+                451
             ]
         },
         {
-            "text": "168.00",
+            "text": "14:56",
             "id": 5,
             "bbox": [
-                493,
-                667,
-                538,
-                680
+                422,
+                434,
+                451,
+                451
             ]
         },
         {
-            "text": "240.00",
+            "text": "1.000.00",
             "id": 6,
             "bbox": [
-                494,
-                524,
-                541,
-                536
+                508,
+                822,
+                561,
+                840
             ]
         },
         {
-            "text": "Men's",
+            "text": "1,000.00",
             "id": 7,
             "bbox": [
-                207,
-                502,
-                246,
-                513
+                539,
+                692,
+                592,
+                708
             ]
         },
         {
-            "text": "Wear",
+            "text": "1",
             "id": 8,
             "bbox": [
-                255,
-                502,
-                285,
-                514
+                347,
+                692,
+                349,
+                706
             ]
         },
         {
-            "text": "TS",
+            "text": "C099641476",
             "id": 9,
             "bbox": [
-                208,
-                522,
-                221,
-                533
+                211,
+                647,
+                276,
+                663
             ]
         },
         {
-            "text": "SKU",
+            "text": ":",
             "id": 10,
             "bbox": [
-                231,
-                522,
-                253,
-                534
+                281,
+                647,
+                283,
+                663
             ]
         },
         {
-            "text": "90095673I",
+            "text": "MCO",
             "id": 11,
             "bbox": [
-                249,
-                540,
-                315,
-                557
+                286,
+                647,
+                304,
+                663
+            ]
+        },
+        {
+            "text": "OUD",
+            "id": 12,
+            "bbox": [
+                312,
+                647,
+                331,
+                663
+            ]
+        },
+        {
+            "text": "ROSEWOOD",
+            "id": 13,
+            "bbox": [
+                339,
+                647,
+                392,
+                663
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 14,
+            "bbox": [
+                400,
+                647,
+                419,
+                663
+            ]
+        },
+        {
+            "text": "SPR",
+            "id": 15,
+            "bbox": [
+                427,
+                646,
+                446,
+                662
+            ]
+        },
+        {
+            "text": "125ML",
+            "id": 16,
+            "bbox": [
+                456,
+                646,
+                487,
+                662
+            ]
+        },
+        {
+            "text": "INT20",
+            "id": 17,
+            "bbox": [
+                497,
+                646,
+                528,
+                662
+            ]
+        },
+        {
+            "text": "009114916656",
+            "id": 18,
+            "bbox": [
+                214,
+                626,
+                292,
+                641
+            ]
+        },
+        {
+            "text": "\u0628\u0627\u0631\u0641\u0627\u0646",
+            "id": 19,
+            "bbox": [
+                240,
+                671,
+                272,
+                686
+            ]
+        },
+        {
+            "text": "\u0639\u0637\u0631\u0627",
+            "id": 20,
+            "bbox": [
+                213,
+                671,
+                233,
+                686
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Men's",
-                "Wear",
-                "TS",
-                "SKU"
-            ],
-            "value_id": [
-                7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "24/07/20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALEPTES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "168.00"
+                "14:56"
             ],
             "value_id": [
                 5
@@ -169,20 +218,24 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "90095673I"
+                "009114916656"
             ],
             "value_id": [
-                11
+                18
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:15"
+                "2020-",
+                "\u0627\u0628\u0627\u0626\u06cc",
+                "-22"
             ],
             "value_id": [
+                2,
+                3,
                 4
             ]
         },
@@ -191,7 +244,80 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "240.00"
+                "1,000.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0628\u0627\u0631\u0641\u0627\u0646",
+                "\u0639\u0637\u0631\u0627"
+            ],
+            "value_id": [
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "C099641476",
+                ":",
+                "MCO",
+                "OUD",
+                "ROSEWOOD",
+                "EDP",
+                "SPR",
+                "125ML",
+                "INT20"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Dior"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.000.00"
             ],
             "value_id": [
                 6

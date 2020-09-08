@@ -1,0 +1,309 @@
+{
+    "text_boxes": [
+        {
+            "text": "FENDI",
+            "id": 1,
+            "bbox": [
+                330,
+                69,
+                424,
+                120
+            ]
+        },
+        {
+            "text": "ROMA",
+            "id": 2,
+            "bbox": [
+                365,
+                108,
+                388,
+                120
+            ]
+        },
+        {
+            "text": "71",
+            "id": 3,
+            "bbox": [
+                148,
+                111,
+                154,
+                120
+            ]
+        },
+        {
+            "text": "/",
+            "id": 4,
+            "bbox": [
+                157,
+                111,
+                162,
+                120
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 5,
+            "bbox": [
+                165,
+                111,
+                184,
+                120
+            ]
+        },
+        {
+            "text": "2:55:37",
+            "id": 6,
+            "bbox": [
+                191,
+                109,
+                219,
+                120
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                222,
+                110,
+                234,
+                119
+            ]
+        },
+        {
+            "text": "900.00",
+            "id": 8,
+            "bbox": [
+                681,
+                420,
+                708,
+                429
+            ]
+        },
+        {
+            "text": "942",
+            "id": 9,
+            "bbox": [
+                682,
+                354,
+                696,
+                363
+            ]
+        },
+        {
+            "text": "86",
+            "id": 10,
+            "bbox": [
+                700,
+                354,
+                706,
+                363
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                518,
+                397,
+                522,
+                409
+            ]
+        },
+        {
+            "text": "RING",
+            "id": 12,
+            "bbox": [
+                190,
+                327,
+                217,
+                345
+            ]
+        },
+        {
+            "text": "/",
+            "id": 13,
+            "bbox": [
+                219,
+                328,
+                223,
+                344
+            ]
+        },
+        {
+            "text": "FIS",
+            "id": 14,
+            "bbox": [
+                223,
+                329,
+                240,
+                346
+            ]
+        },
+        {
+            "text": "FENDVARASSMETAL",
+            "id": 15,
+            "bbox": [
+                242,
+                329,
+                344,
+                349
+            ]
+        },
+        {
+            "text": "SOFT",
+            "id": 16,
+            "bbox": [
+                353,
+                333,
+                377,
+                350
+            ]
+        },
+        {
+            "text": "GOLD",
+            "id": 17,
+            "bbox": [
+                381,
+                334,
+                407,
+                351
+            ]
+        },
+        {
+            "text": "PALLADIUM",
+            "id": 18,
+            "bbox": [
+                409,
+                334,
+                465,
+                353
+            ]
+        },
+        {
+            "text": "67484",
+            "id": 19,
+            "bbox": [
+                32,
+                335,
+                55,
+                343
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2:55:37",
+                "PM"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "67484"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "71",
+                "/",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "942",
+                "86"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RING",
+                "/",
+                "FIS",
+                "FENDVARASSMETAL",
+                "SOFT",
+                "GOLD",
+                "PALLADIUM"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "ROMA"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1186.jpg"
+    }
+}

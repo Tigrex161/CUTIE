@@ -1,163 +1,188 @@
 {
     "text_boxes": [
         {
-            "text": "ZARA",
+            "text": "001",
             "id": 1,
             "bbox": [
-                261,
-                56,
-                378,
-                107
+                467,
+                439,
+                495,
+                449
             ]
         },
         {
-            "text": "24-07-2020",
+            "text": "\u0648\u0627\u0644",
             "id": 2,
             "bbox": [
-                184,
-                154,
-                247,
-                166
+                436,
+                439,
+                456,
+                449
             ]
         },
         {
-            "text": "13:29",
+            "text": ":",
             "id": 3,
             "bbox": [
-                257,
-                158,
-                286,
-                167
+                502,
+                439,
+                504,
+                449
             ]
         },
         {
-            "text": "GEE",
+            "text": "15",
             "id": 4,
             "bbox": [
-                399,
-                373,
-                416,
-                381
+                506,
+                439,
+                515,
+                449
             ]
         },
         {
-            "text": "169",
+            "text": "00",
             "id": 5,
             "bbox": [
-                398,
-                228,
-                414,
-                236
+                556,
+                623,
+                564,
+                632
             ]
         },
         {
-            "text": "169",
+            "text": "350",
             "id": 6,
             "bbox": [
-                399,
-                260,
-                414,
-                267
+                534,
+                622,
+                549,
+                631
             ]
         },
         {
-            "text": "I",
+            "text": "\u0648",
             "id": 7,
             "bbox": [
-                264,
-                224,
-                267,
-                231
+                529,
+                622,
+                531,
+                631
+            ]
+        },
+        {
+            "text": "250",
+            "id": 8,
+            "bbox": [
+                537,
+                555,
+                550,
+                564
+            ]
+        },
+        {
+            "text": "00",
+            "id": 9,
+            "bbox": [
+                558,
+                555,
+                566,
+                564
             ]
         },
         {
             "text": "1",
-            "id": 8,
-            "bbox": [
-                264,
-                256,
-                267,
-                263
-            ]
-        },
-        {
-            "text": "0306713580001",
-            "id": 9,
-            "bbox": [
-                250,
-                239,
-                331,
-                250
-            ]
-        },
-        {
-            "text": "DRESS",
             "id": 10,
             "bbox": [
-                347,
-                242,
-                376,
-                251
+                400,
+                553,
+                403,
+                563
             ]
         },
         {
-            "text": "DRESS",
+            "text": "CHRISTIAN",
             "id": 11,
             "bbox": [
-                347,
-                274,
-                376,
-                284
+                155,
+                529,
+                203,
+                543
             ]
         },
         {
-            "text": "10001971",
+            "text": "LOUBOUTIN",
             "id": 12,
             "bbox": [
-                185,
-                236,
-                234,
-                246
+                210,
+                530,
+                256,
+                544
             ]
         },
         {
-            "text": "10002002",
+            "text": "CHONS",
             "id": 13,
             "bbox": [
-                185,
-                269,
-                234,
-                278
+                263,
+                532,
+                293,
+                545
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 14,
+            "bbox": [
+                302,
+                532,
+                325,
+                545
+            ]
+        },
+        {
+            "text": "#",
+            "id": 15,
+            "bbox": [
+                301,
+                532,
+                303,
+                544
+            ]
+        },
+        {
+            "text": "\u0623\u063a\u0644\u0628\u064a\u0629",
+            "id": 16,
+            "bbox": [
+                370,
+                533,
+                390,
+                546
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0635\u0627\u0644\u0647\u0647",
+            "id": 17,
+            "bbox": [
+                332,
+                533,
+                365,
+                546
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0306713580001",
-                "DRESS",
-                "DRESS"
+                ":",
+                "15"
             ],
             "value_id": [
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "I",
-                "1"
-            ],
-            "value_id": [
-                7,
-                8
+                3,
+                4
             ]
         },
         {
@@ -165,56 +190,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "24-07-2020"
+                "001",
+                "\u0648\u0627\u0644"
             ],
             "value_id": [
+                1,
                 2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZARA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GEE"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10001971",
-                "10002002"
-            ],
-            "value_id": [
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:29"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -222,12 +203,70 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "169",
-                "169"
+                "250",
+                "00"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0623\u063a\u0644\u0628\u064a\u0629",
+                "\u0627\u0644\u0635\u0627\u0644\u0647\u0647"
+            ],
+            "value_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHRISTIAN",
+                "LOUBOUTIN",
+                "CHONS",
+                "SHOES",
+                "#"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "00",
+                "350",
+                "\u0648"
             ],
             "value_id": [
                 5,
-                6
+                6,
+                7
             ]
         }
     ],

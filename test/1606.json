@@ -1,0 +1,222 @@
+{
+    "text_boxes": [
+        {
+            "text": "Neuhaus",
+            "id": 1,
+            "bbox": [
+                192,
+                310,
+                254,
+                338
+            ]
+        },
+        {
+            "text": "Chocolatier-",
+            "id": 2,
+            "bbox": [
+                265,
+                309,
+                376,
+                337
+            ]
+        },
+        {
+            "text": "07/28/20",
+            "id": 3,
+            "bbox": [
+                219,
+                474,
+                292,
+                502
+            ]
+        },
+        {
+            "text": "9:07",
+            "id": 4,
+            "bbox": [
+                312,
+                474,
+                348,
+                502
+            ]
+        },
+        {
+            "text": "163.25",
+            "id": 5,
+            "bbox": [
+                440,
+                729,
+                494,
+                749
+            ]
+        },
+        {
+            "text": "181.50",
+            "id": 6,
+            "bbox": [
+                442,
+                639,
+                495,
+                658
+            ]
+        },
+        {
+            "text": "BULK",
+            "id": 7,
+            "bbox": [
+                151,
+                611,
+                186,
+                633
+            ]
+        },
+        {
+            "text": "CHOCOLATE",
+            "id": 8,
+            "bbox": [
+                198,
+                612,
+                279,
+                635
+            ]
+        },
+        {
+            "text": "FCH0001",
+            "id": 9,
+            "bbox": [
+                263,
+                590,
+                324,
+                612
+            ]
+        },
+        {
+            "text": "0.275",
+            "id": 10,
+            "bbox": [
+                449,
+                824,
+                496,
+                848
+            ]
+        },
+        {
+            "text": "0.275",
+            "id": 11,
+            "bbox": [
+                178,
+                634,
+                223,
+                661
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9:07"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FCH0001"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/28/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "181.50"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BULK",
+                "CHOCOLATE"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Neuhaus",
+                "Chocolatier-"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0.275"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0.275"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "163.25"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1606.jpg"
+    }
+}

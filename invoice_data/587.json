@@ -1,156 +1,139 @@
 {
     "text_boxes": [
         {
-            "text": "Dior",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                182,
-                24,
-                479,
-                145
+                327,
+                167,
+                431,
+                217
             ]
         },
         {
-            "text": "25-Jun-2020",
+            "text": "14-07-2020",
             "id": 2,
             "bbox": [
-                242,
-                417,
-                341,
-                438
+                214,
+                394,
+                285,
+                411
             ]
         },
         {
-            "text": "19:52",
+            "text": "18:40",
             "id": 3,
             "bbox": [
-                353,
-                416,
-                396,
-                435
+                295,
+                399,
+                330,
+                414
             ]
         },
         {
-            "text": "1,425.00",
+            "text": "169",
             "id": 4,
             "bbox": [
-                474,
-                965,
-                545,
-                986
+                444,
+                528,
+                461,
+                540
             ]
         },
         {
-            "text": "1,425.00",
+            "text": "169",
             "id": 5,
             "bbox": [
-                510,
-                787,
-                582,
-                804
+                449,
+                475,
+                467,
+                487
             ]
         },
         {
             "text": "1",
             "id": 6,
             "bbox": [
-                258,
-                783,
-                262,
-                799
+                302,
+                474,
+                304,
+                486
             ]
         },
         {
-            "text": "1",
+            "text": "0851415233003",
             "id": 7,
             "bbox": [
-                535,
-                848,
-                540,
-                864
+                288,
+                487,
+                375,
+                503
             ]
         },
         {
-            "text": "F090928009:CPCD",
+            "text": "SHIRT",
             "id": 8,
             "bbox": [
-                75,
-                724,
-                210,
-                742
+                392,
+                489,
+                423,
+                504
             ]
         },
         {
-            "text": "OUD",
+            "text": "10001039",
             "id": 9,
             "bbox": [
-                221,
-                723,
-                246,
-                739
-            ]
-        },
-        {
-            "text": "ISPAHAN",
-            "id": 10,
-            "bbox": [
-                259,
-                722,
-                318,
-                739
-            ]
-        },
-        {
-            "text": "SPR",
-            "id": 11,
-            "bbox": [
-                328,
-                723,
-                352,
-                739
-            ]
-        },
-        {
-            "text": "250ML",
-            "id": 12,
-            "bbox": [
-                363,
-                723,
-                406,
-                740
-            ]
-        },
-        {
-            "text": "INT12",
-            "id": 13,
-            "bbox": [
-                419,
-                724,
-                460,
-                741
-            ]
-        },
-        {
-            "text": "009111680226",
-            "id": 14,
-            "bbox": [
-                75,
-                693,
-                182,
-                711
+                219,
+                485,
+                271,
+                500
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "18:40"
             ],
             "value_id": [
-                7
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001039"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "169"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -158,20 +141,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "F090928009:CPCD",
-                "OUD",
-                "ISPAHAN",
-                "SPR",
-                "250ML",
-                "INT12"
+                "0851415233003",
+                "SHIRT"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
             ]
         },
         {
@@ -186,69 +172,14 @@
             ]
         },
         {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "25-Jun-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Dior"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,425.00"
+                "169"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "009111680226"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:52"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,425.00"
-            ],
-            "value_id": [
-                5
             ]
         }
     ],

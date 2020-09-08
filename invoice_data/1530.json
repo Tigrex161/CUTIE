@@ -1,0 +1,180 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZARA",
+            "id": 1,
+            "bbox": [
+                295,
+                90,
+                399,
+                145
+            ]
+        },
+        {
+            "text": "25-07",
+            "id": 2,
+            "bbox": [
+                227,
+                205,
+                254,
+                217
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                260,
+                205,
+                285,
+                217
+            ]
+        },
+        {
+            "text": "21:13",
+            "id": 4,
+            "bbox": [
+                294,
+                204,
+                321,
+                216
+            ]
+        },
+        {
+            "text": "169",
+            "id": 5,
+            "bbox": [
+                427,
+                366,
+                444,
+                379
+            ]
+        },
+        {
+            "text": "169",
+            "id": 6,
+            "bbox": [
+                425,
+                253,
+                441,
+                266
+            ]
+        },
+        {
+            "text": "0795076471201",
+            "id": 7,
+            "bbox": [
+                290,
+                274,
+                365,
+                296
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 8,
+            "bbox": [
+                378,
+                271,
+                406,
+                290
+            ]
+        },
+        {
+            "text": "10001265",
+            "id": 9,
+            "bbox": [
+                232,
+                281,
+                277,
+                300
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:13"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001265"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25-07",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "169"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0795076471201",
+                "SHIRT"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "169"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1530.jpg"
+    }
+}

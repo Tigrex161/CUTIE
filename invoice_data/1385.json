@@ -1,0 +1,180 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZARA",
+            "id": 1,
+            "bbox": [
+                296,
+                55,
+                429,
+                112
+            ]
+        },
+        {
+            "text": "30-07-2020",
+            "id": 2,
+            "bbox": [
+                202,
+                178,
+                278,
+                193
+            ]
+        },
+        {
+            "text": "22:03",
+            "id": 3,
+            "bbox": [
+                289,
+                178,
+                325,
+                191
+            ]
+        },
+        {
+            "text": "189",
+            "id": 4,
+            "bbox": [
+                465,
+                254,
+                485,
+                266
+            ]
+        },
+        {
+            "text": "1",
+            "id": 5,
+            "bbox": [
+                297,
+                257,
+                301,
+                267
+            ]
+        },
+        {
+            "text": "1420063202027",
+            "id": 6,
+            "bbox": [
+                281,
+                272,
+                381,
+                290
+            ]
+        },
+        {
+            "text": "HIGH",
+            "id": 7,
+            "bbox": [
+                400,
+                272,
+                430,
+                288
+            ]
+        },
+        {
+            "text": "TOPS",
+            "id": 8,
+            "bbox": [
+                440,
+                271,
+                470,
+                288
+            ]
+        },
+        {
+            "text": "10001299",
+            "id": 9,
+            "bbox": [
+                202,
+                276,
+                262,
+                290
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22:03"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001299"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "189"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1420063202027",
+                "HIGH",
+                "TOPS"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1385.jpg"
+    }
+}

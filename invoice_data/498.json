@@ -1,171 +1,156 @@
 {
     "text_boxes": [
         {
-            "text": "FREDPERRY",
+            "text": "LADUREE",
             "id": 1,
             "bbox": [
-                964,
-                1372,
-                1213,
-                1413
+                285,
+                168,
+                513,
+                209
             ]
         },
         {
-            "text": "9:30",
+            "text": "07/10/20",
             "id": 2,
             "bbox": [
-                1030,
-                1635,
-                1131,
-                1698
+                605,
+                515,
+                749,
+                557
             ]
         },
         {
-            "text": "171.00",
+            "text": "08:39",
             "id": 3,
             "bbox": [
-                1533,
-                2375,
-                1713,
-                2424
+                17,
+                649,
+                108,
+                694
             ]
         },
         {
-            "text": "171",
+            "text": "pm",
             "id": 4,
             "bbox": [
-                1614,
-                2078,
-                1698,
-                2127
+                110,
+                652,
+                145,
+                695
             ]
         },
         {
-            "text": "T-SHIRTS",
+            "text": "104.00",
             "id": 5,
             "bbox": [
-                753,
-                2090,
-                987,
-                2142
+                554,
+                994,
+                758,
+                1032
             ]
         },
         {
-            "text": "A038561",
+            "text": "104.00",
             "id": 6,
             "bbox": [
-                507,
-                2082,
-                717,
-                2135
-            ]
-        },
-        {
-            "text": "\u062a\u064a",
-            "id": 7,
-            "bbox": [
-                837,
-                2165,
-                881,
-                2206
-            ]
-        },
-        {
-            "text": "\u0634\u06cc\u0631\u062a",
-            "id": 8,
-            "bbox": [
-                689,
-                2158,
-                805,
-                2204
+                679,
+                786,
+                784,
+                823
             ]
         },
         {
             "text": "1",
+            "id": 7,
+            "bbox": [
+                60,
+                785,
+                68,
+                823
+            ]
+        },
+        {
+            "text": "box",
+            "id": 8,
+            "bbox": [
+                131,
+                785,
+                184,
+                823
+            ]
+        },
+        {
+            "text": "8",
             "id": 9,
             "bbox": [
-                1608,
-                2688,
-                1629,
-                2737
+                205,
+                785,
+                221,
+                823
+            ]
+        },
+        {
+            "text": "Mac",
+            "id": 10,
+            "bbox": [
+                242,
+                785,
+                293,
+                823
+            ]
+        },
+        {
+            "text": "A",
+            "id": 11,
+            "bbox": [
+                207,
+                836,
+                216,
+                868
+            ]
+        },
+        {
+            "text": "\u0639\u0644\u0628\u0629",
+            "id": 12,
+            "bbox": [
+                238,
+                834,
+                304,
+                868
+            ]
+        },
+        {
+            "text": "\u0645\u0643\u0631\u0648\u0646",
+            "id": 13,
+            "bbox": [
+                87,
+                835,
+                182,
+                870
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "T-SHIRTS"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u062a\u064a",
-                "\u0634\u06cc\u0631\u062a"
-            ],
-            "value_id": [
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FREDPERRY"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "171.00"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "A038561"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "9:30"
+                "08:39",
+                "pm"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/10/20"
             ],
             "value_id": [
                 2
@@ -176,10 +161,73 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "171"
+                "104.00"
             ],
             "value_id": [
-                4
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A",
+                "\u0639\u0644\u0628\u0629",
+                "\u0645\u0643\u0631\u0648\u0646"
+            ],
+            "value_id": [
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "box",
+                "8",
+                "Mac"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LADUREE"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "104.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

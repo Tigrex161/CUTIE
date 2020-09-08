@@ -1,137 +1,302 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "HERMES",
             "id": 1,
             "bbox": [
-                473,
-                221,
-                501,
-                233
+                183,
+                257,
+                297,
+                296
             ]
         },
         {
-            "text": "2020",
+            "text": "07/092020",
             "id": 2,
             "bbox": [
-                513,
-                217,
-                545,
-                230
+                453,
+                325,
+                501,
+                337
             ]
         },
         {
-            "text": "21:13",
+            "text": "09",
             "id": 3,
             "bbox": [
-                554,
-                216,
-                596,
-                229
+                455,
+                345,
+                463,
+                354
             ]
         },
         {
-            "text": "700.00",
+            "text": "26",
             "id": 4,
             "bbox": [
-                603,
-                497,
-                647,
-                506
+                467,
+                345,
+                475,
+                354
             ]
         },
         {
-            "text": "700.00",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                621,
-                408,
-                669,
-                416
+                479,
+                344,
+                491,
+                354
+            ]
+        },
+        {
+            "text": "2,740.00",
+            "id": 6,
+            "bbox": [
+                497,
+                823,
+                536,
+                834
             ]
         },
         {
             "text": "1",
-            "id": 6,
-            "bbox": [
-                415,
-                405,
-                419,
-                413
-            ]
-        },
-        {
-            "text": "FS215AGDU72HP1VT:DGA.",
             "id": 7,
             "bbox": [
-                69,
-                372,
-                228,
-                387
+                531,
+                767,
+                532,
+                773
             ]
         },
         {
-            "text": "HP1VT:",
+            "text": "T4000",
             "id": 8,
             "bbox": [
-                232,
-                375,
-                274,
-                386
+                560,
+                500,
+                595,
+                509
             ]
         },
         {
-            "text": "009424884111",
+            "text": "1",
             "id": 9,
             "bbox": [
-                69,
-                398,
-                159,
-                408
+                514,
+                503,
+                516,
+                511
             ]
         },
         {
-            "text": "LA,",
+            "text": "2:07",
             "id": 10,
             "bbox": [
-                361,
-                380,
-                385,
-                391
+                146,
+                494,
+                190,
+                506
             ]
         },
         {
-            "text": "hi",
+            "text": "ORAN",
             "id": 11,
             "bbox": [
-                396,
-                380,
-                420,
-                392
+                209,
+                494,
+                236,
+                511
             ]
         },
         {
-            "text": "i",
+            "text": "SANDAL",
             "id": 12,
             "bbox": [
-                423,
+                238,
+                495,
+                274,
+                512
+            ]
+        },
+        {
+            "text": "IN",
+            "id": 13,
+            "bbox": [
+                276,
+                498,
+                285,
+                513
+            ]
+        },
+        {
+            "text": "BOX",
+            "id": 14,
+            "bbox": [
+                286,
+                498,
+                305,
+                514
+            ]
+        },
+        {
+            "text": "CALF",
+            "id": 15,
+            "bbox": [
+                308,
+                498,
+                329,
+                515
+            ]
+        },
+        {
+            "text": "385",
+            "id": 16,
+            "bbox": [
+                334,
+                500,
+                346,
+                515
+            ]
+        },
+        {
+            "text": "01",
+            "id": 17,
+            "bbox": [
+                346,
+                500,
+                354,
+                516
+            ]
+        },
+        {
+            "text": "NOIR",
+            "id": 18,
+            "bbox": [
+                357,
+                501,
+                375,
+                517
+            ]
+        },
+        {
+            "text": "PIOURES",
+            "id": 19,
+            "bbox": [
                 378,
-                429,
-                391
+                501,
+                417,
+                519
+            ]
+        },
+        {
+            "text": "ECF",
+            "id": 20,
+            "bbox": [
+                419,
+                503,
+                434,
+                520
+            ]
+        },
+        {
+            "text": "21",
+            "id": 21,
+            "bbox": [
+                220,
+                508,
+                228,
+                517
+            ]
+        },
+        {
+            "text": "2015",
+            "id": 22,
+            "bbox": [
+                241,
+                508,
+                260,
+                519
+            ]
+        },
+        {
+            "text": "ORAN",
+            "id": 23,
+            "bbox": [
+                209,
+                494,
+                236,
+                511
+            ]
+        },
+        {
+            "text": "SANDAL",
+            "id": 24,
+            "bbox": [
+                238,
+                495,
+                274,
+                512
+            ]
+        },
+        {
+            "text": "IN",
+            "id": 25,
+            "bbox": [
+                276,
+                498,
+                285,
+                513
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FS215AGDU72HP1VT:DGA.",
-                "HP1VT:"
+                "09",
+                "26",
+                "PM"
             ],
             "value_id": [
-                7,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2:07"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/092020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "T4000"
+            ],
+            "value_id": [
                 8
             ]
         },
@@ -140,14 +305,69 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LA,",
-                "hi",
-                "i"
+                "ORAN",
+                "SANDAL",
+                "IN"
             ],
             "value_id": [
-                10,
+                23,
+                24,
+                25
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ORAN",
+                "SANDAL",
+                "IN",
+                "BOX",
+                "CALF",
+                "385",
+                "01",
+                "NOIR",
+                "PIOURES",
+                "ECF",
+                "21",
+                "2015"
+            ],
+            "value_id": [
                 11,
-                12
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HERMES"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
             ]
         },
         {
@@ -158,20 +378,7 @@
                 "1"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
+                9
             ]
         },
         {
@@ -179,43 +386,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "700.00"
+                "2,740.00"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "009424884111"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21:13"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "700.00"
-            ],
-            "value_id": [
-                5
+                6
             ]
         }
     ],

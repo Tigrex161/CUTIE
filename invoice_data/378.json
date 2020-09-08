@@ -1,186 +1,216 @@
 {
     "text_boxes": [
         {
-            "text": "PUMA",
+            "text": "co",
             "id": 1,
             "bbox": [
-                332,
-                256,
-                453,
-                305
+                245,
+                260,
+                371,
+                400
             ]
         },
         {
-            "text": "0207",
+            "text": "SPORT",
             "id": 2,
             "bbox": [
-                200,
-                558,
-                240,
-                577
+                257,
+                369,
+                372,
+                392
             ]
         },
         {
-            "text": "/2020",
+            "text": "7/1/2020",
             "id": 3,
             "bbox": [
-                242,
-                558,
-                280,
-                577
+                293,
+                566,
+                339,
+                578
             ]
         },
         {
-            "text": "02:00:59",
+            "text": "13:19",
             "id": 4,
             "bbox": [
-                285,
-                561,
-                345,
-                575
+                359,
+                566,
+                385,
+                576
             ]
         },
         {
-            "text": "PN",
+            "text": "178.888",
             "id": 5,
             "bbox": [
-                351,
-                561,
-                369,
-                574
+                416,
+                812,
+                455,
+                822
             ]
         },
         {
-            "text": "119",
+            "text": "170.00",
             "id": 6,
             "bbox": [
-                548,
-                765,
-                574,
-                784
+                414,
+                674,
+                452,
+                686
             ]
         },
         {
-            "text": "00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                579,
-                764,
-                597,
-                783
+                332,
+                678,
+                335,
+                685
             ]
         },
         {
-            "text": "119.00",
+            "text": "VISTA",
             "id": 8,
             "bbox": [
-                546,
-                618,
-                592,
-                637
+                207,
+                679,
+                236,
+                691
             ]
         },
         {
-            "text": "1",
+            "text": "LADY",
             "id": 9,
             "bbox": [
-                350,
-                628,
-                362,
-                644
+                243,
+                678,
+                265,
+                690
             ]
         },
         {
-            "text": "1",
+            "text": "CLEAR",
             "id": 10,
             "bbox": [
-                288,
-                700,
-                291,
-                713
+                278,
+                677,
+                307,
+                689
             ]
         },
         {
-            "text": "SF",
+            "text": "\u0628\u0646\u0627\u062a",
             "id": 11,
             "bbox": [
-                202,
-                652,
-                232,
-                671
+                303,
+                684,
+                325,
+                697
             ]
         },
         {
-            "text": "POLO",
+            "text": "\u0627\u0646\u0627",
             "id": 12,
             "bbox": [
-                230,
-                654,
-                270,
-                669
+                272,
+                687,
+                286,
+                698
             ]
         },
         {
-            "text": "A",
+            "text": "\u0627\u0633",
             "id": 13,
             "bbox": [
-                289,
-                654,
-                296,
-                667
+                259,
+                687,
+                268,
+                699
             ]
         },
         {
-            "text": "ttr:",
+            "text": "AS",
             "id": 14,
             "bbox": [
-                302,
-                654,
-                322,
-                667
+                207,
+                699,
+                218,
+                708
             ]
         },
         {
-            "text": "02",
+            "text": "172780",
             "id": 15,
             "bbox": [
-                332,
-                653,
-                346,
-                666
-            ]
-        },
-        {
-            "text": "Size:N",
-            "id": 16,
-            "bbox": [
-                362,
-                651,
-                409,
-                666
-            ]
-        },
-        {
-            "text": "59615002",
-            "id": 17,
-            "bbox": [
-                205,
-                628,
-                278,
-                647
+                228,
+                698,
+                261,
+                708
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "13:19"
             ],
             "value_id": [
-                10
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AS",
+                "172780"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/1/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "170.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0628\u0646\u0627\u062a",
+                "\u0627\u0646\u0627",
+                "\u0627\u0633"
+            ],
+            "value_id": [
+                11,
+                12,
+                13
             ]
         },
         {
@@ -188,20 +218,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SF",
-                "POLO",
-                "A",
-                "ttr:",
-                "02",
-                "Size:N"
+                "VISTA",
+                "LADY",
+                "CLEAR"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "co",
+                "SPORT"
+            ],
+            "value_id": [
+                1,
+                2
             ]
         },
         {
@@ -212,31 +249,7 @@
                 "1"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "0207",
-                "/2020"
-            ],
-            "value_id": [
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "PUMA"
-            ],
-            "value_id": [
-                1
+                7
             ]
         },
         {
@@ -244,47 +257,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "119",
-                "00"
+                "178.888"
             ],
             "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "59615002"
-            ],
-            "value_id": [
-                17
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "02:00:59",
-                "PN"
-            ],
-            "value_id": [
-                4,
                 5
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "119.00"
-            ],
-            "value_id": [
-                8
             ]
         }
     ],

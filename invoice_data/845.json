@@ -1,146 +1,211 @@
 {
     "text_boxes": [
         {
-            "text": "MEGASTORE",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                227,
-                193,
-                325,
-                215
+                345,
+                456,
+                418,
+                483
             ]
         },
         {
-            "text": "18/07/20",
+            "text": "KIDS",
             "id": 2,
             "bbox": [
-                217,
-                713,
-                294,
-                730
+                397,
+                481,
+                420,
+                497
             ]
         },
         {
-            "text": "21:37",
+            "text": "7/22/2020",
             "id": 3,
             "bbox": [
-                307,
-                711,
-                355,
-                725
+                178,
+                469,
+                214,
+                481
             ]
         },
         {
-            "text": "118.00",
+            "text": "10:43",
             "id": 4,
             "bbox": [
-                509,
-                418,
-                566,
-                436
+                221,
+                469,
+                237,
+                480
             ]
         },
         {
-            "text": "59.00",
+            "text": "10",
             "id": 5,
             "bbox": [
-                515,
-                353,
-                563,
-                368
+                239,
+                469,
+                247,
+                479
             ]
         },
         {
-            "text": "ORLY",
+            "text": "AM",
             "id": 6,
             "bbox": [
-                285,
-                367,
-                322,
-                381
+                249,
+                469,
+                261,
+                479
             ]
         },
         {
-            "text": "BREATHABLE",
+            "text": "2.150.00",
             "id": 7,
             "bbox": [
-                336,
-                360,
-                432,
-                378
+                630,
+                713,
+                657,
+                721
             ]
         },
         {
-            "text": "RE",
+            "text": "204762",
             "id": 8,
             "bbox": [
-                445,
-                358,
-                462,
-                371
+                634,
+                659,
+                662,
+                668
             ]
         },
         {
-            "text": "ORLY",
+            "text": "1",
             "id": 9,
             "bbox": [
-                288,
-                410,
-                325,
-                425
+                500,
+                662,
+                502,
+                670
             ]
         },
         {
-            "text": "BREATHABLE",
+            "text": "1",
             "id": 10,
             "bbox": [
-                338,
-                403,
-                434,
-                423
+                501,
+                701,
+                502,
+                711
             ]
         },
         {
-            "text": "HA",
+            "text": "BBOY",
             "id": 11,
             "bbox": [
-                447,
-                403,
-                464,
-                416
+                233,
+                662,
+                254,
+                674
             ]
         },
         {
-            "text": "59.00",
+            "text": "ROMPER",
             "id": 12,
             "bbox": [
-                516,
-                397,
-                564,
-                412
+                257,
+                662,
+                291,
+                674
+            ]
+        },
+        {
+            "text": "SUIT",
+            "id": 13,
+            "bbox": [
+                294,
+                662,
+                311,
+                674
+            ]
+        },
+        {
+            "text": "WOVEN",
+            "id": 14,
+            "bbox": [
+                313,
+                662,
+                345,
+                674
+            ]
+        },
+        {
+            "text": "FABRIC",
+            "id": 15,
+            "bbox": [
+                348,
+                662,
+                375,
+                674
+            ]
+        },
+        {
+            "text": "WHITE",
+            "id": 16,
+            "bbox": [
+                382,
+                662,
+                407,
+                674
+            ]
+        },
+        {
+            "text": "BLUE",
+            "id": 17,
+            "bbox": [
+                414,
+                662,
+                433,
+                674
+            ]
+        },
+        {
+            "text": "749342",
+            "id": 18,
+            "bbox": [
+                91,
+                663,
+                115,
+                672
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ORLY",
-                "BREATHABLE",
-                "RE",
-                "ORLY",
-                "BREATHABLE",
-                "HA"
+                "10:43",
+                "10",
+                "AM"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "749342"
+            ],
+            "value_id": [
+                18
             ]
         },
         {
@@ -148,40 +213,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18/07/20"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MEGASTORE"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "118.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21:37"
+                "7/22/2020"
             ],
             "value_id": [
                 3
@@ -192,12 +224,79 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "59.00",
-                "59.00"
+                "204762"
             ],
             "value_id": [
-                5,
-                12
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BBOY",
+                "ROMPER",
+                "SUIT",
+                "WOVEN",
+                "FABRIC",
+                "WHITE",
+                "BLUE"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "KIDS"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.150.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

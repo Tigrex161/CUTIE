@@ -1,0 +1,309 @@
+{
+    "text_boxes": [
+        {
+            "text": "level",
+            "id": 1,
+            "bbox": [
+                346,
+                252,
+                409,
+                299
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 2,
+            "bbox": [
+                351,
+                302,
+                390,
+                314
+            ]
+        },
+        {
+            "text": "30",
+            "id": 3,
+            "bbox": [
+                449,
+                420,
+                459,
+                432
+            ]
+        },
+        {
+            "text": "Jul",
+            "id": 4,
+            "bbox": [
+                466,
+                420,
+                483,
+                432
+            ]
+        },
+        {
+            "text": ",",
+            "id": 5,
+            "bbox": [
+                487,
+                420,
+                488,
+                432
+            ]
+        },
+        {
+            "text": "202",
+            "id": 6,
+            "bbox": [
+                498,
+                420,
+                523,
+                432
+            ]
+        },
+        {
+            "text": "14:53",
+            "id": 7,
+            "bbox": [
+                532,
+                419,
+                562,
+                431
+            ]
+        },
+        {
+            "text": "39",
+            "id": 8,
+            "bbox": [
+                563,
+                646,
+                564,
+                656
+            ]
+        },
+        {
+            "text": "350.00",
+            "id": 9,
+            "bbox": [
+                575,
+                646,
+                611,
+                658
+            ]
+        },
+        {
+            "text": "350.00",
+            "id": 10,
+            "bbox": [
+                585,
+                564,
+                621,
+                578
+            ]
+        },
+        {
+            "text": "\u0648",
+            "id": 11,
+            "bbox": [
+                578,
+                564,
+                580,
+                577
+            ]
+        },
+        {
+            "text": "3",
+            "id": 12,
+            "bbox": [
+                571,
+                564,
+                575,
+                577
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                421,
+                564,
+                423,
+                573
+            ]
+        },
+        {
+            "text": "PRIVATE",
+            "id": 14,
+            "bbox": [
+                137,
+                538,
+                182,
+                552
+            ]
+        },
+        {
+            "text": "COLLECTION",
+            "id": 15,
+            "bbox": [
+                189,
+                539,
+                247,
+                553
+            ]
+        },
+        {
+            "text": "MENS",
+            "id": 16,
+            "bbox": [
+                255,
+                541,
+                281,
+                555
+            ]
+        },
+        {
+            "text": "OTHERS1",
+            "id": 17,
+            "bbox": [
+                287,
+                541,
+                328,
+                555
+            ]
+        },
+        {
+            "text": "\u0645\u0644\u0639\u0642\u0627\u062f\u0629",
+            "id": 18,
+            "bbox": [
+                371,
+                544,
+                415,
+                557
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0633\u0648\u0627\u0631",
+            "id": 19,
+            "bbox": [
+                331,
+                543,
+                371,
+                557
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:53"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30",
+                "Jul",
+                ",",
+                "202"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "350.00",
+                "\u0648",
+                "3"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0644\u0639\u0642\u0627\u062f\u0629",
+                "\u0627\u0644\u0633\u0648\u0627\u0631"
+            ],
+            "value_id": [
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PRIVATE",
+                "COLLECTION",
+                "MENS",
+                "OTHERS1"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHOES"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "39",
+                "350.00"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1568.jpg"
+    }
+}

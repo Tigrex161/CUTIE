@@ -1,121 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "CARPET",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                244,
-                75,
-                315,
-                88
+                274,
+                299,
+                451,
+                342
             ]
         },
         {
-            "text": "2200",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                694,
-                839,
-                714,
-                847
+                418,
+                386,
+                440,
+                400
             ]
         },
         {
-            "text": "2200",
+            "text": ",",
             "id": 3,
             "bbox": [
-                679,
-                258,
-                695,
-                264
+                411,
+                389,
+                414,
+                401
             ]
         },
         {
-            "text": "1.0",
+            "text": "01",
             "id": 4,
             "bbox": [
-                442,
-                260,
-                451,
-                265
+                402,
+                388,
+                410,
+                402
             ]
         },
         {
-            "text": "LIFOS",
+            "text": "\u0627\u0628\u062f",
             "id": 5,
             "bbox": [
-                174,
-                256,
-                202,
-                265
+                380,
+                389,
+                393,
+                403
             ]
         },
         {
-            "text": "30ON400-OS14A-CREAM",
+            "text": "12:35",
             "id": 6,
             "bbox": [
-                204,
-                256,
-                299,
-                265
+                448,
+                383,
+                469,
+                398
             ]
         },
         {
-            "text": "300-400LIFO-SI4A-04",
+            "text": "400.00",
             "id": 7,
             "bbox": [
-                58,
-                257,
+                494,
+                688,
+                525,
+                697
+            ]
+        },
+        {
+            "text": "20000",
+            "id": 8,
+            "bbox": [
+                554,
+                529,
+                582,
+                538
+            ]
+        },
+        {
+            "text": "200.00",
+            "id": 9,
+            "bbox": [
+                553,
+                556,
+                582,
+                565
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                360,
+                537,
+                362,
+                547
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                359,
+                564,
+                362,
+                572
+            ]
+        },
+        {
+            "text": "COCO",
+            "id": 12,
+            "bbox": [
+                140,
+                538,
+                166,
+                547
+            ]
+        },
+        {
+            "text": "MADEMOISELLE",
+            "id": 13,
+            "bbox": [
+                170,
+                537,
+                245,
+                548
+            ]
+        },
+        {
+            "text": "COCO",
+            "id": 14,
+            "bbox": [
+                141,
+                565,
+                166,
+                575
+            ]
+        },
+        {
+            "text": "MADEMOISELLE",
+            "id": 15,
+            "bbox": [
+                170,
+                563,
+                246,
+                575
+            ]
+        },
+        {
+            "text": "2",
+            "id": 16,
+            "bbox": [
+                359,
+                593,
+                363,
+                602
+            ]
+        },
+        {
+            "text": "1150",
+            "id": 17,
+            "bbox": [
                 142,
-                263
+                552,
+                172,
+                561
+            ]
+        },
+        {
+            "text": "165",
+            "id": 18,
+            "bbox": [
+                141,
+                579,
+                172,
+                590
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LIFOS",
-                "30ON400-OS14A-CREAM"
+                "12:35"
             ],
             "value_id": [
-                5,
                 6
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.0"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CARPET"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2200"
-            ],
-            "value_id": [
-                2
             ]
         },
         {
@@ -123,10 +198,29 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "300-400LIFO-SI4A-04"
+                "1150",
+                "165"
             ],
             "value_id": [
-                7
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                ",",
+                "01",
+                "\u0627\u0628\u062f"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -134,10 +228,75 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2200"
+                "20000",
+                "200.00"
             ],
             "value_id": [
-                3
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "COCO",
+                "MADEMOISELLE",
+                "COCO",
+                "MADEMOISELLE"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "400.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

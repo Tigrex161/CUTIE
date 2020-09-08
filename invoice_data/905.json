@@ -1,184 +1,126 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                351,
-                183,
-                386,
-                195
+                341,
+                248,
+                458,
+                287
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "16/09/2020",
             "id": 2,
             "bbox": [
-                391,
-                185,
-                444,
-                196
+                127,
+                742,
+                172,
+                757
             ]
         },
         {
-            "text": "MAE",
+            "text": "12:18:27",
             "id": 3,
             "bbox": [
-                372,
-                195,
-                392,
-                202
+                176,
+                741,
+                212,
+                756
             ]
         },
         {
-            "text": "s",
+            "text": "1,47a",
             "id": 4,
             "bbox": [
-                407,
-                197,
-                420,
-                204
+                696,
+                583,
+                713,
+                592
             ]
         },
         {
-            "text": "MON",
+            "text": ".B2",
             "id": 5,
             "bbox": [
-                357,
-                219,
-                385,
-                226
+                715,
+                583,
+                724,
+                592
             ]
         },
         {
-            "text": "OE",
+            "text": "T6.00",
             "id": 6,
             "bbox": [
-                388,
-                220,
-                399,
-                226
+                705,
+                547,
+                724,
+                556
             ]
         },
         {
-            "text": "D",
+            "text": "COMPACT",
             "id": 7,
             "bbox": [
-                412,
-                221,
-                417,
-                227
+                161,
+                559,
+                191,
+                574
             ]
         },
         {
-            "text": "15/07/2020",
+            "text": "WAL",
             "id": 8,
             "bbox": [
-                528,
-                382,
-                580,
-                391
+                193,
+                558,
+                208,
+                572
             ]
         },
         {
-            "text": "17:01",
+            "text": "MUSTACCALK",
             "id": 9,
             "bbox": [
-                598,
-                385,
-                623,
-                391
+                210,
+                556,
+                255,
+                572
             ]
         },
         {
-            "text": "1,520.00",
+            "text": "SONCAL",
             "id": 10,
             "bbox": [
-                646,
-                590,
-                689,
-                597
+                257,
+                555,
+                293,
+                570
             ]
         },
         {
-            "text": "1,520.00",
+            "text": "CALS",
             "id": 11,
             "bbox": [
-                645,
-                437,
-                687,
-                444
-            ]
-        },
-        {
-            "text": "K61084",
-            "id": 12,
-            "bbox": [
-                78,
-                426,
-                110,
-                434
-            ]
-        },
-        {
-            "text": "BRAC.",
-            "id": 13,
-            "bbox": [
-                123,
-                427,
-                148,
-                434
-            ]
-        },
-        {
-            "text": "ESS.V",
-            "id": 14,
-            "bbox": [
-                151,
-                428,
-                177,
-                434
-            ]
-        },
-        {
-            "text": "FASHION",
-            "id": 15,
-            "bbox": [
-                79,
-                437,
-                116,
-                443
-            ]
-        },
-        {
-            "text": "JEWELRY",
-            "id": 16,
-            "bbox": [
-                123,
-                437,
-                161,
-                445
+                280,
+                553,
+                295,
+                566
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "K61084",
-                "BRAC.",
-                "ESS.V",
-                "FASHION",
-                "JEWELRY"
+                "12:18:27"
             ],
             "value_id": [
-                12,
-                13,
-                14,
-                15,
-                16
+                3
             ]
         },
         {
@@ -186,55 +128,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15/07/2020"
+                "16/09/2020"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MAE",
-                "s",
-                "MON",
-                "OE",
-                "D"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,520.00"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:01"
-            ],
-            "value_id": [
-                9
+                2
             ]
         },
         {
@@ -242,10 +139,53 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,520.00"
+                "T6.00"
             ],
             "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "COMPACT",
+                "WAL",
+                "MUSTACCALK",
+                "SONCAL",
+                "CALS"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
                 11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Cartier"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,47a",
+                ".B2"
+            ],
+            "value_id": [
+                4,
+                5
             ]
         }
     ],

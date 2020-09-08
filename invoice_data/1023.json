@@ -1,233 +1,147 @@
 {
     "text_boxes": [
         {
-            "text": "KENZO",
+            "text": "bloomingdale's",
             "id": 1,
             "bbox": [
-                312,
-                203,
-                541,
-                247
+                267,
+                154,
+                510,
+                199
             ]
         },
         {
-            "text": "July.",
+            "text": "2020-",
             "id": 2,
             "bbox": [
-                558,
-                321,
-                585,
+                275,
+                313,
+                309,
                 330
             ]
         },
         {
-            "text": "19",
+            "text": "\u0627\u064a",
             "id": 3,
             "bbox": [
-                595,
-                322,
-                605,
-                329
-            ]
-        },
-        {
-            "text": "2020",
-            "id": 4,
-            "bbox": [
-                612,
-                322,
-                634,
-                329
-            ]
-        },
-        {
-            "text": "20:15",
-            "id": 5,
-            "bbox": [
-                642,
-                321,
-                670,
+                263,
+                313,
+                272,
                 328
             ]
         },
         {
-            "text": "250,00",
-            "id": 6,
+            "text": "-17",
+            "id": 4,
             "bbox": [
-                625,
-                613,
-                660,
-                621
+                230,
+                311,
+                257,
+                328
             ]
         },
         {
-            "text": "250.",
+            "text": "3:52:36",
+            "id": 5,
+            "bbox": [
+                357,
+                317,
+                405,
+                334
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 6,
+            "bbox": [
+                412,
+                320,
+                426,
+                335
+            ]
+        },
+        {
+            "text": "560",
             "id": 7,
             "bbox": [
-                626,
-                534,
-                646,
-                543
+                438,
+                503,
+                458,
+                516
+            ]
+        },
+        {
+            "text": ",",
+            "id": 8,
+            "bbox": [
+                461,
+                503,
+                462,
+                516
             ]
         },
         {
             "text": "00",
-            "id": 8,
-            "bbox": [
-                650,
-                534,
-                660,
-                541
-            ]
-        },
-        {
-            "text": "KR10238-01P:",
             "id": 9,
             "bbox": [
-                269,
-                510,
-                342,
-                521
+                466,
+                503,
+                479,
+                516
             ]
         },
         {
-            "text": "K2o.01P:",
+            "text": "1",
             "id": 10,
             "bbox": [
-                344,
-                511,
-                388,
-                522
+                381,
+                503,
+                384,
+                516
             ]
         },
         {
-            "text": "3A:TIGER",
+            "text": "213436150",
             "id": 11,
             "bbox": [
-                390,
-                511,
-                438,
-                523
+                242,
+                503,
+                302,
+                517
             ]
         },
         {
-            "text": "JG",
+            "text": "1",
             "id": 12,
             "bbox": [
-                444,
-                514,
-                455,
-                520
+                502,
+                533,
+                505,
+                544
             ]
         },
         {
-            "text": "B1",
+            "text": "5600",
             "id": 13,
             "bbox": [
-                465,
-                512,
-                478,
-                522
-            ]
-        },
-        {
-            "text": "017925068847",
-            "id": 14,
-            "bbox": [
-                190,
-                511,
-                261,
-                520
-            ]
-        },
-        {
-            "text": "U",
-            "id": 15,
-            "bbox": [
-                582,
-                514,
-                590,
-                524
-            ]
-        },
-        {
-            "text": "O",
-            "id": 16,
-            "bbox": [
-                607,
-                515,
-                630,
-                523
+                464,
+                598,
+                507,
+                613
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "KR10238-01P:",
-                "K2o.01P:",
-                "3A:TIGER",
-                "JG",
-                "B1"
+                "3:52:36",
+                "PM"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "U",
-                "O"
-            ],
-            "value_id": [
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July.",
-                "19",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "KENZO"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "250,00"
-            ],
-            "value_id": [
+                5,
                 6
             ]
         },
@@ -236,21 +150,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "017925068847"
+                "213436150"
             ],
             "value_id": [
-                14
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:15"
+                "2020-",
+                "\u0627\u064a",
+                "-17"
             ],
             "value_id": [
-                5
+                2,
+                3,
+                4
             ]
         },
         {
@@ -258,12 +176,58 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "250.",
+                "560",
+                ",",
                 "00"
             ],
             "value_id": [
                 7,
-                8
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdale's"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5600"
+            ],
+            "value_id": [
+                13
             ]
         }
     ],

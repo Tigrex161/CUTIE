@@ -1,256 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "apm",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                376,
-                115,
-                517,
-                181
+                374,
+                76,
+                470,
+                114
             ]
         },
         {
-            "text": "MONACO",
+            "text": "D",
             "id": 2,
             "bbox": [
-                406,
-                178,
-                487,
-                191
+                298,
+                240,
+                300,
+                250
             ]
         },
         {
-            "text": "17-July-2020",
+            "text": "-",
             "id": 3,
             "bbox": [
-                637,
-                396,
-                716,
-                411
+                312,
+                240,
+                312,
+                250
             ]
         },
         {
-            "text": "12:30:45",
+            "text": "01",
             "id": 4,
             "bbox": [
-                723,
-                397,
-                776,
-                409
+                314,
+                240,
+                325,
+                250
             ]
         },
         {
-            "text": "485.71",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                537,
-                572,
-                577,
-                581
+                333,
+                240,
+                354,
+                250
             ]
         },
         {
-            "text": "333.33",
+            "text": "11:20",
             "id": 6,
             "bbox": [
-                536,
-                666,
-                577,
-                676
+                363,
+                240,
+                389,
+                250
             ]
         },
         {
-            "text": "SILVER",
+            "text": "1",
             "id": 7,
             "bbox": [
-                447,
-                540,
-                492,
-                550
+                364,
+                306,
+                366,
+                314
             ]
         },
         {
-            "text": "EARRING",
+            "text": "0000503061204",
             "id": 8,
             "bbox": [
-                498,
-                540,
-                558,
-                550
+                352,
+                294,
+                429,
+                305
             ]
         },
         {
-            "text": "OX",
+            "text": "T",
             "id": 9,
             "bbox": [
-                563,
-                540,
-                580,
-                549
+                445,
+                294,
+                447,
+                305
             ]
         },
         {
-            "text": "PLW",
+            "text": "-",
             "id": 10,
             "bbox": [
-                587,
-                540,
-                613,
-                549
+                450,
+                294,
+                451,
+                305
             ]
         },
         {
-            "text": "1",
+            "text": "SHIRT",
             "id": 11,
             "bbox": [
-                510,
-                557,
-                513,
-                566
+                457,
+                294,
+                483,
+                305
             ]
         },
         {
-            "text": "1",
+            "text": "0564418025004",
             "id": 12,
             "bbox": [
-                508,
-                651,
-                511,
-                659
+                350,
+                318,
+                427,
+                332
             ]
         },
         {
-            "text": "SILVER",
+            "text": "T",
             "id": 13,
             "bbox": [
-                446,
-                636,
-                490,
-                645
+                442,
+                319,
+                445,
+                328
             ]
         },
         {
-            "text": "RING",
+            "text": "-",
             "id": 14,
             "bbox": [
-                496,
-                636,
-                528,
-                645
+                450,
+                319,
+                450,
+                328
             ]
         },
         {
-            "text": "OX",
+            "text": "SHIRT",
             "id": 15,
             "bbox": [
-                534,
-                637,
-                551,
-                646
+                455,
+                319,
+                482,
+                328
             ]
         },
         {
-            "text": "AE12373XPL",
+            "text": "2",
             "id": 16,
             "bbox": [
-                544,
-                522,
-                627,
-                534
+                385,
+                353,
+                392,
+                364
             ]
         },
         {
-            "text": "A194110XY",
+            "text": "10001690",
             "id": 17,
             "bbox": [
-                541,
-                622,
-                614,
-                630
+                292,
+                293,
+                337,
+                304
             ]
         },
         {
-            "text": "\u09ea60,00",
+            "text": "10002128",
             "id": 18,
             "bbox": [
-                445,
-                764,
-                485,
-                774
+                290,
+                320,
+                335,
+                333
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SILVER",
-                "EARRING",
-                "OX",
-                "PLW",
-                "SILVER",
-                "RING",
-                "OX"
+                "11:20"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                13,
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1",
-                "1"
-            ],
-            "value_id": [
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17-July-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "apm",
-                "MONACO"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u09ea60,00"
-            ],
-            "value_id": [
-                18
+                6
             ]
         },
         {
@@ -258,36 +198,87 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AE12373XPL",
-                "A194110XY"
+                "10001690",
+                "10002128"
             ],
             "value_id": [
-                16,
-                17
+                17,
+                18
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:30:45"
+                "D",
+                "-",
+                "01",
+                "2020"
             ],
             "value_id": [
-                4
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "485.71",
-                "333.33"
+                "0000503061204",
+                "T",
+                "-",
+                "SHIRT",
+                "0564418025004",
+                "T",
+                "-",
+                "SHIRT"
             ],
             "value_id": [
-                5,
-                6
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

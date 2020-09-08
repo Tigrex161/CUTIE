@@ -1,131 +1,186 @@
 {
     "text_boxes": [
         {
-            "text": "ROAD",
+            "text": "Bershka",
             "id": 1,
             "bbox": [
-                289,
-                342,
-                312,
-                353
+                327,
+                58,
+                475,
+                94
             ]
         },
         {
-            "text": "ue",
+            "text": "29-06.2020",
             "id": 2,
             "bbox": [
-                368,
-                385,
-                383,
-                394
+                279,
+                249,
+                335,
+                260
             ]
         },
         {
-            "text": "07,",
+            "text": "17:13",
             "id": 3,
             "bbox": [
-                386,
-                384,
-                400,
-                391
+                345,
+                249,
+                371,
+                259
             ]
         },
         {
-            "text": "o27",
+            "text": "250",
             "id": 4,
             "bbox": [
-                428,
-                376,
-                451,
-                385
+                473,
+                443,
+                487,
+                453
             ]
         },
         {
-            "text": "11,020.00",
+            "text": "B9",
             "id": 5,
             "bbox": [
-                474,
-                601,
-                521,
-                610
+                479,
+                307,
+                488,
+                317
             ]
         },
         {
-            "text": "11,020.00",
+            "text": "169",
             "id": 6,
             "bbox": [
-                528,
-                483,
-                569,
-                490
+                473,
+                336,
+                487,
+                347
             ]
         },
         {
-            "text": "TOP",
+            "text": "1",
             "id": 7,
             "bbox": [
-                132,
-                488,
-                150,
-                495
+                352,
+                308,
+                353,
+                316
             ]
         },
         {
-            "text": "P64484V2153JAV654",
+            "text": "1",
             "id": 8,
             "bbox": [
-                130,
-                495,
-                223,
-                507
+                351,
+                333,
+                353,
+                344
+            ]
+        },
+        {
+            "text": "0304169218002",
+            "id": 9,
+            "bbox": [
+                339,
+                320,
+                413,
+                335
+            ]
+        },
+        {
+            "text": "TOPS",
+            "id": 10,
+            "bbox": [
+                427,
+                320,
+                448,
+                335
+            ]
+        },
+        {
+            "text": "AND",
+            "id": 11,
+            "bbox": [
+                457,
+                320,
+                471,
+                335
+            ]
+        },
+        {
+            "text": "OTHE",
+            "id": 12,
+            "bbox": [
+                479,
+                321,
+                500,
+                336
+            ]
+        },
+        {
+            "text": "801046923000",
+            "id": 13,
+            "bbox": [
+                339,
+                348,
+                407,
+                365
+            ]
+        },
+        {
+            "text": ")",
+            "id": 14,
+            "bbox": [
+                410,
+                349,
+                413,
+                364
+            ]
+        },
+        {
+            "text": "TROUSERS",
+            "id": 15,
+            "bbox": [
+                427,
+                349,
+                471,
+                366
+            ]
+        },
+        {
+            "text": "10062122",
+            "id": 16,
+            "bbox": [
+                280,
+                348,
+                324,
+                364
+            ]
+        },
+        {
+            "text": "18001092",
+            "id": 17,
+            "bbox": [
+                280,
+                320,
+                324,
+                335
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TOP"
+                "17:13"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ue",
-                "07,"
-            ],
-            "value_id": [
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ROAD"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11,020.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -133,21 +188,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "P64484V2153JAV654"
+                "10062122",
+                "18001092"
             ],
             "value_id": [
-                8
+                16,
+                17
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "o27"
+                "29-06.2020"
             ],
             "value_id": [
-                4
+                2
             ]
         },
         {
@@ -155,10 +212,70 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11,020.00"
+                "B9",
+                "169"
             ],
             "value_id": [
+                5,
                 6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0304169218002",
+                "TOPS",
+                "AND",
+                "OTHE",
+                "801046923000",
+                ")",
+                "TROUSERS"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Bershka"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "250"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

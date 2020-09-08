@@ -1,108 +1,210 @@
 {
     "text_boxes": [
         {
-            "text": "Diamnd",
+            "text": "2020",
             "id": 1,
             "bbox": [
-                248,
-                247,
-                386,
-                273
+                481,
+                414,
+                504,
+                429
             ]
         },
         {
-            "text": "World",
+            "text": "\u0644\u064a\u0627\u0644",
             "id": 2,
             "bbox": [
-                401,
-                245,
-                492,
-                266
+                447,
+                416,
+                463,
+                430
             ]
         },
         {
-            "text": "24/07/2020",
+            "text": "21",
             "id": 3,
             "bbox": [
-                560,
-                410,
-                611,
-                421
+                424,
+                417,
+                436,
+                430
             ]
         },
         {
-            "text": "8:11:10PM",
+            "text": "\u0627\u0648\u0644\u0627",
             "id": 4,
             "bbox": [
-                563,
-                427,
-                611,
-                435
+                533,
+                413,
+                552,
+                427
             ]
         },
         {
-            "text": "1,000.00",
+            "text": ":",
             "id": 5,
             "bbox": [
-                592,
-                732,
-                637,
-                743
+                528,
+                414,
+                531,
+                427
             ]
         },
         {
-            "text": "1,000.00",
+            "text": "11",
             "id": 6,
             "bbox": [
-                577,
-                482,
-                614,
-                491
+                517,
+                415,
+                526,
+                428
             ]
         },
         {
-            "text": "Diamond",
+            "text": "3,920",
             "id": 7,
             "bbox": [
-                237,
-                480,
-                273,
-                486
+                559,
+                661,
+                591,
+                674
             ]
         },
         {
-            "text": "Ring",
+            "text": "\u060c",
             "id": 8,
             "bbox": [
-                277,
-                480,
-                293,
-                487
+                595,
+                661,
+                596,
+                674
             ]
         },
         {
-            "text": "RG9062",
+            "text": "600",
             "id": 9,
             "bbox": [
-                184,
-                480,
-                214,
-                488
+                601,
+                661,
+                613,
+                674
+            ]
+        },
+        {
+            "text": "3",
+            "id": 10,
+            "bbox": [
+                564,
+                571,
+                569,
+                584
+            ]
+        },
+        {
+            "text": ",",
+            "id": 11,
+            "bbox": [
+                571,
+                571,
+                573,
+                584
+            ]
+        },
+        {
+            "text": "920.00",
+            "id": 12,
+            "bbox": [
+                578,
+                569,
+                618,
+                584
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                399,
+                574,
+                403,
+                584
+            ]
+        },
+        {
+            "text": "CHANEL",
+            "id": 14,
+            "bbox": [
+                82,
+                553,
+                122,
+                568
+            ]
+        },
+        {
+            "text": ".",
+            "id": 15,
+            "bbox": [
+                122,
+                553,
+                123,
+                568
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 16,
+            "bbox": [
+                131,
+                553,
+                172,
+                568
+            ]
+        },
+        {
+            "text": "SHOESI",
+            "id": 17,
+            "bbox": [
+                182,
+                553,
+                222,
+                568
+            ]
+        },
+        {
+            "text": "SUU",
+            "id": 18,
+            "bbox": [
+                225,
+                553,
+                254,
+                568
+            ]
+        },
+        {
+            "text": "!",
+            "id": 19,
+            "bbox": [
+                300,
+                553,
+                303,
+                568
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Diamond",
-                "Ring"
+                "\u0627\u0648\u0644\u0627",
+                ":",
+                "11"
             ],
             "value_id": [
-                7,
-                8
+                4,
+                5,
+                6
             ]
         },
         {
@@ -110,56 +212,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "24/07/2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Diamnd",
-                "World"
+                "2020",
+                "\u0644\u064a\u0627\u0644",
+                "21"
             ],
             "value_id": [
                 1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,000.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "RG9062"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "8:11:10PM"
-            ],
-            "value_id": [
-                4
+                2,
+                3
             ]
         },
         {
@@ -167,10 +227,70 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,000.00"
+                "3",
+                ",",
+                "920.00"
             ],
             "value_id": [
-                6
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SUU",
+                "!"
+            ],
+            "value_id": [
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL",
+                ".",
+                "WOMENS",
+                "SHOESI"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,920",
+                "\u060c",
+                "600"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
             ]
         }
     ],

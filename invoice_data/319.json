@@ -1,213 +1,209 @@
 {
     "text_boxes": [
         {
-            "text": "DOLCE",
+            "text": "Apple",
             "id": 1,
             "bbox": [
-                194,
-                85,
-                319,
-                130
+                197,
+                330,
+                223,
+                342
             ]
         },
         {
-            "text": "&",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                327,
-                113,
-                339,
-                127
+                226,
+                330,
+                253,
+                342
             ]
         },
         {
-            "text": "GABBANA",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                346,
-                80,
-                547,
-                126
+                256,
+                329,
+                275,
+                342
             ]
         },
         {
-            "text": "July,",
+            "text": "27/06/20",
             "id": 4,
             "bbox": [
-                583,
-                241,
-                616,
-                254
+                197,
+                1393,
+                237,
+                1403
             ]
         },
         {
-            "text": "02",
+            "text": "15:14",
             "id": 5,
             "bbox": [
-                628,
-                243,
-                641,
-                252
+                247,
+                1393,
+                268,
+                1403
             ]
         },
         {
-            "text": "2020",
+            "text": "199.00",
             "id": 6,
             "bbox": [
-                650,
-                243,
-                676,
-                255
+                601,
+                992,
+                629,
+                1002
             ]
         },
         {
-            "text": "14:46",
+            "text": "199.00",
             "id": 7,
             "bbox": [
-                686,
-                246,
-                717,
-                257
+                604,
+                906,
+                629,
+                917
             ]
         },
         {
-            "text": "1,710.00",
+            "text": "1",
             "id": 8,
             "bbox": [
-                664,
-                632,
-                720,
-                644
+                626,
+                855,
+                627,
+                864
             ]
         },
         {
-            "text": "780.00",
+            "text": "IPAD",
             "id": 9,
             "bbox": [
-                673,
-                484,
-                713,
-                494
+                197,
+                755,
+                218,
+                765
             ]
         },
         {
-            "text": "930.00",
+            "text": "SMART",
             "id": 10,
             "bbox": [
-                674,
-                533,
-                715,
-                542
+                221,
+                755,
+                253,
+                765
             ]
         },
         {
-            "text": "L54S05HS5GGHA96C:",
+            "text": "COVER",
             "id": 11,
             "bbox": [
-                224,
-                461,
-                355,
-                477
+                256,
+                755,
+                286,
+                765
             ]
         },
         {
-            "text": "DGA.",
+            "text": "SURF",
             "id": 12,
             "bbox": [
-                357,
-                462,
-                379,
-                475
+                290,
+                755,
+                312,
+                765
             ]
         },
         {
-            "text": "L53145HSSGGHA9EC:DGA,",
+            "text": "BLUE",
             "id": 13,
             "bbox": [
-                225,
-                510,
-                385,
-                523
+                317,
+                755,
+                339,
+                765
             ]
         },
         {
-            "text": "HA96C:8:",
+            "text": "-",
             "id": 14,
             "bbox": [
-                387,
-                508,
-                448,
-                522
+                341,
+                755,
+                342,
+                765
             ]
         },
         {
-            "text": "009424843958",
+            "text": "ZEE",
             "id": 15,
             "bbox": [
-                120,
-                464,
-                214,
-                478
+                344,
+                755,
+                358,
+                765
             ]
         },
         {
-            "text": "009424842723",
+            "text": "MXTF2ZE",
             "id": 16,
             "bbox": [
-                119,
-                511,
-                214,
-                524
+                258,
+                774,
+                297,
+                786
             ]
         },
         {
-            "text": "waei",
+            "text": "/",
             "id": 17,
             "bbox": [
-                556,
-                460,
-                587,
-                470
+                300,
+                774,
+                301,
+                786
             ]
         },
         {
-            "text": "i",
+            "text": "A",
             "id": 18,
             "bbox": [
-                536,
-                511,
-                548,
-                520
+                305,
+                774,
+                308,
+                786
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L54S05HS5GGHA96C:",
-                "DGA.",
-                "L53145HSSGGHA9EC:DGA,",
-                "HA96C:8:"
+                "15:14"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14
+                5
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "waei",
-                "i"
+                "MXTF2ZE",
+                "/",
+                "A"
             ],
             "value_id": [
+                16,
                 17,
                 18
             ]
@@ -217,14 +213,44 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July,",
-                "02",
-                "2020"
+                "27/06/20"
             ],
             "value_id": [
-                4,
-                5,
-                6
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "199.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "IPAD",
+                "SMART",
+                "COVER",
+                "SURF",
+                "BLUE",
+                "-",
+                "ZEE"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
             ]
         },
         {
@@ -232,9 +258,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DOLCE",
-                "&",
-                "GABBANA"
+                "Apple",
+                "Dubai",
+                "Mall"
             ],
             "value_id": [
                 1,
@@ -243,51 +269,25 @@
             ]
         },
         {
-            "field_name": "total",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,710.00"
+                "1"
             ],
             "value_id": [
                 8
             ]
         },
         {
-            "field_name": "item_sku",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "009424843958",
-                "009424842723"
+                "199.00"
             ],
             "value_id": [
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:46"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "780.00",
-                "930.00"
-            ],
-            "value_id": [
-                9,
-                10
+                6
             ]
         }
     ],

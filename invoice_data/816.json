@@ -1,163 +1,223 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                488,
-                398,
-                513,
-                408
+                328,
+                300,
+                403,
+                328
             ]
         },
         {
-            "text": "2020",
+            "text": "ROMA",
             "id": 2,
             "bbox": [
-                525,
-                395,
-                552,
-                406
+                356,
+                329,
+                375,
+                337
             ]
         },
         {
-            "text": "18:04",
+            "text": "7114/2020",
             "id": 3,
             "bbox": [
-                562,
-                393,
-                596,
-                404
+                160,
+                309,
+                196,
+                327
             ]
         },
         {
-            "text": "1,",
+            "text": "3",
             "id": 4,
             "bbox": [
-                611,
-                557,
-                625,
-                570
+                202,
+                309,
+                206,
+                327
             ]
         },
         {
-            "text": "800.00",
+            "text": ":",
             "id": 5,
             "bbox": [
-                626,
-                557,
-                667,
-                568
+                206,
+                309,
+                210,
+                327
             ]
         },
         {
-            "text": "PCOU_OTHS:",
+            "text": "10.33",
             "id": 6,
             "bbox": [
-                118,
-                549,
-                183,
-                561
+                211,
+                309,
+                227,
+                327
             ]
         },
         {
-            "text": "PRIVATE",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                188,
-                548,
-                235,
-                557
+                229,
+                309,
+                238,
+                327
             ]
         },
         {
-            "text": "COLLECTION",
+            "text": "1460001",
             "id": 8,
             "bbox": [
-                244,
-                544,
-                313,
-                555
+                598,
+                570,
+                630,
+                578
             ]
         },
         {
-            "text": "MENS",
+            "text": "T41908",
             "id": 9,
             "bbox": [
-                321,
-                543,
-                348,
-                553
+                600,
+                515,
+                626,
+                524
             ]
         },
         {
-            "text": "SI-GLial",
+            "text": "!",
             "id": 10,
             "bbox": [
-                421,
-                540,
-                503,
-                554
+                483,
+                558,
+                484,
+                566
             ]
         },
         {
-            "text": "1,",
+            "text": "MRUNNING",
             "id": 11,
             "bbox": [
-                602,
-                649,
-                610,
-                657
+                219,
+                517,
+                265,
+                526
             ]
         },
         {
-            "text": "800.",
+            "text": "FABRIC",
             "id": 12,
             "bbox": [
-                617,
-                645,
-                640,
-                658
+                270,
+                517,
+                295,
+                526
             ]
         },
         {
-            "text": "00",
+            "text": "RUBBER",
             "id": 13,
             "bbox": [
-                643,
-                645,
-                655,
-                657
+                302,
+                517,
+                333,
+                526
+            ]
+        },
+        {
+            "text": "SOLE",
+            "id": 14,
+            "bbox": [
+                337,
+                517,
+                356,
+                526
+            ]
+        },
+        {
+            "text": "TETEJVIN",
+            "id": 15,
+            "bbox": [
+                365,
+                517,
+                407,
+                526
+            ]
+        },
+        {
+            "text": "WIRE",
+            "id": 16,
+            "bbox": [
+                410,
+                517,
+                438,
+                527
+            ]
+        },
+        {
+            "text": "SOLE",
+            "id": 17,
+            "bbox": [
+                339,
+                504,
+                358,
+                539
+            ]
+        },
+        {
+            "text": "TEATER",
+            "id": 18,
+            "bbox": [
+                363,
+                503,
+                401,
+                538
+            ]
+        },
+        {
+            "text": "724063",
+            "id": 19,
+            "bbox": [
+                80,
+                515,
+                104,
+                524
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PCOU_OTHS:",
-                "PRIVATE",
-                "COLLECTION",
-                "MENS"
+                "3",
+                ":",
+                "10.33",
+                "PM"
             ],
             "value_id": [
+                4,
+                5,
                 6,
-                7,
-                8,
-                9
+                7
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SI-GLial"
+                "724063"
             ],
             "value_id": [
-                10
+                19
             ]
         },
         {
@@ -165,35 +225,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,",
-                "800.",
-                "00"
-            ],
-            "value_id": [
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18:04"
+                "7114/2020"
             ],
             "value_id": [
                 3
@@ -204,12 +236,70 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "800.00"
+                "T41908"
             ],
             "value_id": [
-                4,
-                5
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MRUNNING",
+                "FABRIC",
+                "RUBBER",
+                "SOLE",
+                "TETEJVIN",
+                "WIRE",
+                "SOLE",
+                "TEATER"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "ROMA"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "!"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1460001"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

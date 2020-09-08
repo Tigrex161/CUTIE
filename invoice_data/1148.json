@@ -1,0 +1,240 @@
+{
+    "text_boxes": [
+        {
+            "text": "Loro",
+            "id": 1,
+            "bbox": [
+                122,
+                81,
+                258,
+                165
+            ]
+        },
+        {
+            "text": "Piana",
+            "id": 2,
+            "bbox": [
+                266,
+                77,
+                408,
+                161
+            ]
+        },
+        {
+            "text": "13-07-2020",
+            "id": 3,
+            "bbox": [
+                507,
+                297,
+                584,
+                316
+            ]
+        },
+        {
+            "text": "16:05:51",
+            "id": 4,
+            "bbox": [
+                590,
+                296,
+                649,
+                313
+            ]
+        },
+        {
+            "text": "3,310.00",
+            "id": 5,
+            "bbox": [
+                596,
+                490,
+                643,
+                501
+            ]
+        },
+        {
+            "text": "10.00",
+            "id": 6,
+            "bbox": [
+                602,
+                455,
+                632,
+                466
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                368,
+                462,
+                372,
+                471
+            ]
+        },
+        {
+            "text": "BUCKLE",
+            "id": 8,
+            "bbox": [
+                15,
+                467,
+                60,
+                478
+            ]
+        },
+        {
+            "text": "SANDAL",
+            "id": 9,
+            "bbox": [
+                64,
+                467,
+                110,
+                478
+            ]
+        },
+        {
+            "text": "CALF",
+            "id": 10,
+            "bbox": [
+                114,
+                466,
+                141,
+                477
+            ]
+        },
+        {
+            "text": ",",
+            "id": 11,
+            "bbox": [
+                145,
+                466,
+                146,
+                477
+            ]
+        },
+        {
+            "text": "1000",
+            "id": 12,
+            "bbox": [
+                153,
+                466,
+                173,
+                477
+            ]
+        },
+        {
+            "text": ",",
+            "id": 13,
+            "bbox": [
+                177,
+                466,
+                178,
+                477
+            ]
+        },
+        {
+            "text": "44,5",
+            "id": 14,
+            "bbox": [
+                183,
+                466,
+                204,
+                477
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:05:51"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13-07-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BUCKLE",
+                "SANDAL",
+                "CALF",
+                ",",
+                "1000",
+                ",",
+                "44,5"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Loro",
+                "Piana"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,310.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1148.jpg"
+    }
+}

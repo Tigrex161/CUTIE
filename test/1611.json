@@ -1,0 +1,378 @@
+{
+    "text_boxes": [
+        {
+            "text": "SARA",
+            "id": 1,
+            "bbox": [
+                330,
+                443,
+                418,
+                470
+            ]
+        },
+        {
+            "text": "23",
+            "id": 2,
+            "bbox": [
+                214,
+                592,
+                223,
+                603
+            ]
+        },
+        {
+            "text": "-",
+            "id": 3,
+            "bbox": [
+                226,
+                592,
+                228,
+                603
+            ]
+        },
+        {
+            "text": "Jul",
+            "id": 4,
+            "bbox": [
+                230,
+                592,
+                244,
+                603
+            ]
+        },
+        {
+            "text": "-",
+            "id": 5,
+            "bbox": [
+                244,
+                592,
+                246,
+                603
+            ]
+        },
+        {
+            "text": "2020.14",
+            "id": 6,
+            "bbox": [
+                248,
+                592,
+                282,
+                605
+            ]
+        },
+        {
+            "text": ":",
+            "id": 7,
+            "bbox": [
+                283,
+                593,
+                285,
+                604
+            ]
+        },
+        {
+            "text": "42",
+            "id": 8,
+            "bbox": [
+                287,
+                593,
+                296,
+                604
+            ]
+        },
+        {
+            "text": ":",
+            "id": 9,
+            "bbox": [
+                298,
+                593,
+                300,
+                604
+            ]
+        },
+        {
+            "text": "47",
+            "id": 10,
+            "bbox": [
+                300,
+                593,
+                310,
+                605
+            ]
+        },
+        {
+            "text": "620.000",
+            "id": 11,
+            "bbox": [
+                600,
+                816,
+                633,
+                827
+            ]
+        },
+        {
+            "text": "310.000",
+            "id": 12,
+            "bbox": [
+                598,
+                743,
+                633,
+                754
+            ]
+        },
+        {
+            "text": "310.000",
+            "id": 13,
+            "bbox": [
+                598,
+                761,
+                629,
+                772
+            ]
+        },
+        {
+            "text": "2",
+            "id": 14,
+            "bbox": [
+                452,
+                743,
+                455,
+                751
+            ]
+        },
+        {
+            "text": "2",
+            "id": 15,
+            "bbox": [
+                451,
+                761,
+                454,
+                769
+            ]
+        },
+        {
+            "text": "Rolyaf",
+            "id": 16,
+            "bbox": [
+                217,
+                738,
+                245,
+                750
+            ]
+        },
+        {
+            "text": "Thermos",
+            "id": 17,
+            "bbox": [
+                248,
+                738,
+                289,
+                750
+            ]
+        },
+        {
+            "text": "Purple",
+            "id": 18,
+            "bbox": [
+                293,
+                738,
+                321,
+                750
+            ]
+        },
+        {
+            "text": "Rolyel",
+            "id": 19,
+            "bbox": [
+                216,
+                758,
+                244,
+                772
+            ]
+        },
+        {
+            "text": "Thermos",
+            "id": 20,
+            "bbox": [
+                248,
+                758,
+                288,
+                772
+            ]
+        },
+        {
+            "text": "Clear",
+            "id": 21,
+            "bbox": [
+                293,
+                758,
+                316,
+                772
+            ]
+        },
+        {
+            "text": "4",
+            "id": 22,
+            "bbox": [
+                349,
+                778,
+                353,
+                788
+            ]
+        },
+        {
+            "text": "6020DH",
+            "id": 23,
+            "bbox": [
+                120,
+                738,
+                159,
+                748
+            ]
+        },
+        {
+            "text": "6017",
+            "id": 24,
+            "bbox": [
+                120,
+                758,
+                142,
+                767
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ":",
+                "42",
+                ":",
+                "47"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6020DH",
+                "6017"
+            ],
+            "value_id": [
+                23,
+                24
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23",
+                "-",
+                "Jul",
+                "-",
+                "2020.14"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "310.000",
+                "310.000"
+            ],
+            "value_id": [
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Rolyaf",
+                "Thermos",
+                "Purple",
+                "Rolyel",
+                "Thermos",
+                "Clear"
+            ],
+            "value_id": [
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4"
+            ],
+            "value_id": [
+                22
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "2"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "620.000"
+            ],
+            "value_id": [
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1611.jpg"
+    }
+}

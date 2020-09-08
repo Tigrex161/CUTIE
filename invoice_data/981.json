@@ -1,132 +1,198 @@
 {
     "text_boxes": [
         {
-            "text": "blomingdales",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                232,
-                252,
-                423,
-                318
+                306,
+                149,
+                546,
+                208
             ]
         },
         {
-            "text": "4:14",
+            "text": "2020-",
             "id": 2,
             "bbox": [
+                312,
                 319,
-                404,
-                340,
-                417
+                356,
+                336
             ]
         },
         {
-            "text": "2,651.00",
+            "text": "\u0627\u0644",
             "id": 3,
             "bbox": [
-                403,
-                653,
-                446,
-                662
+                300,
+                319,
+                318,
+                336
             ]
         },
         {
-            "text": "2.60)",
+            "text": "-22",
             "id": 4,
             "bbox": [
-                397,
-                514,
-                423,
-                524
+                278,
+                319,
+                302,
+                336
             ]
         },
         {
-            "text": "00",
+            "text": "2:09:10",
             "id": 5,
             "bbox": [
-                428,
-                514,
-                441,
+                400,
+                322,
+                445,
+                338
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 6,
+            "bbox": [
+                454,
+                322,
+                466,
+                336
+            ]
+        },
+        {
+            "text": "100.00",
+            "id": 7,
+            "bbox": [
+                494,
+                874,
+                533,
+                888
+            ]
+        },
+        {
+            "text": "100,00",
+            "id": 8,
+            "bbox": [
+                510,
+                468,
+                548,
+                483
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                543,
+                508,
+                546,
                 522
             ]
         },
         {
-            "text": "GIFT",
-            "id": 6,
+            "text": "AV",
+            "id": 10,
             "bbox": [
-                217,
-                517,
-                239,
-                527
+                280,
+                470,
+                292,
+                483
             ]
         },
         {
-            "text": "CARD",
-            "id": 7,
+            "text": "CHERRY",
+            "id": 11,
             "bbox": [
-                246,
-                517,
-                267,
-                527
+                300,
+                470,
+                338,
+                484
             ]
         },
         {
-            "text": "DETAILS",
-            "id": 8,
+            "text": "ALM",
+            "id": 12,
             "bbox": [
-                273,
-                515,
-                312,
-                525
+                348,
+                471,
+                366,
+                484
             ]
         },
         {
-            "text": "207180010",
-            "id": 9,
+            "text": "L",
+            "id": 13,
             "bbox": [
-                229,
-                526,
-                279,
-                538
+                374,
+                471,
+                380,
+                484
+            ]
+        },
+        {
+            "text": "/",
+            "id": 14,
+            "bbox": [
+                382,
+                471,
+                386,
+                484
+            ]
+        },
+        {
+            "text": "I",
+            "id": 15,
+            "bbox": [
+                388,
+                471,
+                393,
+                484
+            ]
+        },
+        {
+            "text": "CO",
+            "id": 16,
+            "bbox": [
+                401,
+                472,
+                414,
+                485
+            ]
+        },
+        {
+            "text": "213050557",
+            "id": 17,
+            "bbox": [
+                292,
+                483,
+                351,
+                499
+            ]
+        },
+        {
+            "text": "18",
+            "id": 18,
+            "bbox": [
+                429,
+                484,
+                447,
+                497
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GIFT",
-                "CARD",
-                "DETAILS"
+                "2:09:10",
+                "PM"
             ],
             "value_id": [
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "blomingdales"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,651.00"
-            ],
-            "value_id": [
-                3
+                5,
+                6
             ]
         },
         {
@@ -134,21 +200,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "207180010"
+                "213050557"
             ],
             "value_id": [
-                9
+                17
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4:14"
+                "2020-",
+                "\u0627\u0644",
+                "-22"
             ],
             "value_id": [
-                2
+                2,
+                3,
+                4
             ]
         },
         {
@@ -156,12 +226,68 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2.60)",
-                "00"
+                "100,00"
             ],
             "value_id": [
-                4,
-                5
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AV",
+                "CHERRY",
+                "ALM",
+                "L",
+                "/",
+                "I",
+                "CO"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdales"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "18"
+            ],
+            "value_id": [
+                9,
+                18
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

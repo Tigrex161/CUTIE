@@ -1,121 +1,126 @@
 {
     "text_boxes": [
         {
-            "text": "HOME",
+            "text": "Massimo",
             "id": 1,
             "bbox": [
-                263,
-                277,
-                337,
-                296
+                301,
+                142,
+                519,
+                238
             ]
         },
         {
-            "text": "BAKERY",
+            "text": "Dutti",
             "id": 2,
             "bbox": [
-                359,
-                274,
-                472,
-                295
+                560,
+                122,
+                684,
+                207
             ]
         },
         {
-            "text": "Ju104'20",
+            "text": "DUBAI",
             "id": 3,
             "bbox": [
-                355,
-                493,
-                431,
-                512
+                630,
+                195,
+                708,
+                236
             ]
         },
         {
-            "text": "04:38P",
+            "text": "10-07-2020",
             "id": 4,
             "bbox": [
-                442,
-                490,
-                498,
-                509
+                175,
+                555,
+                324,
+                589
             ]
         },
         {
-            "text": "106.00",
+            "text": "13:33",
             "id": 5,
             "bbox": [
-                497,
-                560,
-                551,
-                576
-            ]
-        },
-        {
-            "text": "106.00",
-            "id": 6,
-            "bbox": [
-                440,
-                606,
-                552,
-                627
-            ]
-        },
-        {
-            "text": "Chewy",
-            "id": 7,
-            "bbox": [
-                233,
-                568,
-                279,
-                590
-            ]
-        },
-        {
-            "text": "Melt",
-            "id": 8,
-            "bbox": [
-                291,
-                568,
-                327,
+                345,
+                553,
+                415,
                 586
             ]
         },
         {
-            "text": "25",
-            "id": 9,
+            "text": "469",
+            "id": 6,
             "bbox": [
-                340,
-                569,
-                357,
-                584
+                679,
+                732,
+                722,
+                762
             ]
         },
         {
-            "text": "BX",
-            "id": 10,
+            "text": "1",
+            "id": 7,
             "bbox": [
                 368,
-                567,
-                385,
-                583
+                741,
+                376,
+                766
+            ]
+        },
+        {
+            "text": "0510065051444",
+            "id": 8,
+            "bbox": [
+                334,
+                778,
+                524,
+                814
+            ]
+        },
+        {
+            "text": "TROUSERS",
+            "id": 9,
+            "bbox": [
+                559,
+                778,
+                675,
+                814
+            ]
+        },
+        {
+            "text": "10001541",
+            "id": 10,
+            "bbox": [
+                180,
+                778,
+                300,
+                814
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Chewy",
-                "Melt",
-                "25",
-                "BX"
+                "13:33"
             ],
             "value_id": [
-                7,
-                8,
-                9,
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001541"
+            ],
+            "value_id": [
                 10
             ]
         },
@@ -124,42 +129,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Ju104'20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "HOME",
-                "BAKERY"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "106.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "04:38P"
+                "10-07-2020"
             ],
             "value_id": [
                 4
@@ -170,10 +140,49 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "106.00"
+                "469"
             ],
             "value_id": [
-                5
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0510065051444",
+                "TROUSERS"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Massimo",
+                "Dutti",
+                "DUBAI"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

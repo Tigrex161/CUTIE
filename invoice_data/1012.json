@@ -1,187 +1,305 @@
 {
     "text_boxes": [
         {
-            "text": "SEPHORA",
+            "text": "The",
             "id": 1,
             "bbox": [
-                307,
+                96,
                 148,
-                365,
-                163
+                119,
+                164
             ]
         },
         {
-            "text": "DUBAI",
+            "text": "Shop",
             "id": 2,
             "bbox": [
-                376,
-                146,
-                417,
-                161
+                167,
+                147,
+                197,
+                164
             ]
         },
         {
-            "text": "MALL",
+            "text": "11",
             "id": 3,
             "bbox": [
-                429,
-                146,
-                461,
-                161
+                118,
+                342,
+                127,
+                353
             ]
         },
         {
-            "text": "July",
+            "text": "/",
             "id": 4,
             "bbox": [
-                373,
-                990,
-                407,
-                1007
+                128,
+                342,
+                130,
+                353
             ]
         },
         {
-            "text": "28,2020",
+            "text": "07",
             "id": 5,
             "bbox": [
-                418,
-                988,
-                479,
-                1005
+                131,
+                342,
+                140,
+                353
             ]
         },
         {
-            "text": "20:41:57",
+            "text": "/",
             "id": 6,
             "bbox": [
-                490,
-                988,
-                561,
-                1005
+                143,
+                342,
+                145,
+                353
             ]
         },
         {
-            "text": "1",
+            "text": "2007.11",
             "id": 7,
             "bbox": [
-                571,
-                945,
-                574,
-                964
+                144,
+                342,
+                185,
+                354
             ]
         },
         {
-            "text": "1093.00",
+            "text": "34",
             "id": 8,
             "bbox": [
-                461,
-                681,
-                567,
-                696
+                190,
+                343,
+                199,
+                354
             ]
         },
         {
-            "text": "1093.00",
+            "text": "PM",
             "id": 9,
             "bbox": [
-                507,
-                614,
-                567,
-                631
+                204,
+                343,
+                217,
+                354
+            ]
+        },
+        {
+            "text": "126",
+            "id": 10,
+            "bbox": [
+                301,
+                601,
+                325,
+                618
+            ]
+        },
+        {
+            "text": "00",
+            "id": 11,
+            "bbox": [
+                329,
+                600,
+                347,
+                616
             ]
         },
         {
             "text": "1",
-            "id": 10,
-            "bbox": [
-                321,
-                618,
-                324,
-                631
-            ]
-        },
-        {
-            "text": "GALOP",
-            "id": 11,
-            "bbox": [
-                346,
-                552,
-                388,
-                566
-            ]
-        },
-        {
-            "text": "EDP",
             "id": 12,
             "bbox": [
-                400,
-                552,
-                423,
-                566
+                343,
+                640,
+                347,
+                651
             ]
         },
         {
-            "text": "SPRAY",
+            "text": "126",
             "id": 13,
             "bbox": [
-                434,
-                552,
-                476,
-                566
+                305,
+                413,
+                325,
+                428
             ]
         },
         {
-            "text": "125ML",
+            "text": "00",
             "id": 14,
             "bbox": [
-                489,
-                551,
-                530,
-                565
+                328,
+                412,
+                343,
+                426
             ]
         },
         {
-            "text": "REF",
+            "text": "1",
             "id": 15,
             "bbox": [
-                542,
-                549,
-                566,
-                563
+                146,
+                416,
+                149,
+                429
             ]
         },
         {
-            "text": "014513096237",
+            "text": "VIT",
             "id": 16,
             "bbox": [
-                194,
-                551,
-                299,
-                566
+                65,
+                430,
+                83,
+                445
             ]
         },
         {
-            "text": "\u0628\u0627\u0631\u0641\u0627\u0646",
+            "text": "C",
             "id": 17,
             "bbox": [
-                231,
-                596,
-                283,
-                611
+                89,
+                430,
+                95,
+                445
             ]
         },
         {
-            "text": "\u0639\u0637\u0631",
+            "text": "LIQUID",
             "id": 18,
             "bbox": [
-                197,
-                595,
-                219,
-                610
+                101,
+                430,
+                141,
+                447
+            ]
+        },
+        {
+            "text": "PEEL",
+            "id": 19,
+            "bbox": [
+                146,
+                431,
+                175,
+                448
+            ]
+        },
+        {
+            "text": "145ML",
+            "id": 20,
+            "bbox": [
+                184,
+                431,
+                216,
+                448
+            ]
+        },
+        {
+            "text": "5028197947",
+            "id": 21,
+            "bbox": [
+                65,
+                413,
+                135,
+                429
             ]
         }
     ],
     "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "34",
+                "PM"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5028197947"
+            ],
+            "value_id": [
+                21
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11",
+                "/",
+                "07",
+                "/",
+                "2007.11"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "126",
+                "00"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "VIT",
+                "C",
+                "LIQUID",
+                "PEEL",
+                "145ML"
+            ],
+            "value_id": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "The",
+                "Shop"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
         {
             "field_name": "total_items",
             "key_id": [],
@@ -190,39 +308,7 @@
                 "1"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALOP",
-                "EDP",
-                "SPRAY",
-                "125ML",
-                "REF"
-            ],
-            "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0628\u0627\u0631\u0641\u0627\u0646",
-                "\u0639\u0637\u0631"
-            ],
-            "value_id": [
-                17,
-                18
+                12
             ]
         },
         {
@@ -233,35 +319,7 @@
                 "1"
             ],
             "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July",
-                "28,2020"
-            ],
-            "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SEPHORA",
-                "DUBAI",
-                "MALL"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
+                15
             ]
         },
         {
@@ -269,43 +327,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1093.00"
+                "126",
+                "00"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "014513096237"
-            ],
-            "value_id": [
-                16
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:41:57"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1093.00"
-            ],
-            "value_id": [
-                9
+                10,
+                11
             ]
         }
     ],

@@ -1,215 +1,148 @@
 {
     "text_boxes": [
         {
-            "text": "Van",
+            "text": "SYMPHONY",
             "id": 1,
             "bbox": [
-                256,
-                260,
-                317,
-                289
+                275,
+                149,
+                507,
+                200
             ]
         },
         {
-            "text": "Cleef",
+            "text": "21/07/2003",
             "id": 2,
             "bbox": [
-                332,
-                254,
-                419,
-                286
+                215,
+                340,
+                271,
+                354
             ]
         },
         {
-            "text": "&",
+            "text": "08:21",
             "id": 3,
             "bbox": [
-                430,
-                261,
-                449,
-                284
+                276,
+                338,
+                304,
+                352
             ]
         },
         {
-            "text": "Arpels",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                462,
-                253,
-                564,
-                290
+                307,
+                337,
+                322,
+                351
             ]
         },
         {
-            "text": "20/07/2020",
+            "text": "1524.00",
             "id": 5,
             "bbox": [
-                102,
-                942,
-                157,
-                956
+                665,
+                452,
+                703,
+                465
             ]
         },
         {
-            "text": "11:06:35",
+            "text": "150000",
             "id": 6,
             "bbox": [
-                162,
-                942,
-                202,
-                952
+                673,
+                415,
+                707,
+                426
             ]
         },
         {
-            "text": "5,200.00",
+            "text": "+",
             "id": 7,
             "bbox": [
-                770,
-                745,
-                805,
-                753
+                303,
+                430,
+                305,
+                439
             ]
         },
         {
-            "text": "5,200.00",
+            "text": "RAFE",
             "id": 8,
             "bbox": [
-                768,
-                690,
-                805,
-                700
+                118,
+                455,
+                142,
+                467
             ]
         },
         {
-            "text": "PEND",
+            "text": "NEW",
             "id": 9,
             "bbox": [
-                114,
-                699,
-                134,
-                705
+                145,
+                454,
+                166,
+                465
             ]
         },
         {
-            "text": "SWEET",
+            "text": "YORK",
             "id": 10,
             "bbox": [
-                137,
-                697,
-                162,
-                704
+                171,
+                453,
+                196,
+                464
             ]
         },
         {
-            "text": "ALHA",
+            "text": "PINKJOS",
             "id": 11,
             "bbox": [
-                165,
-                698,
-                184,
-                704
+                200,
+                450,
+                237,
+                463
             ]
         },
         {
-            "text": "YG",
+            "text": "Cluten",
             "id": 12,
             "bbox": [
-                186,
-                696,
-                195,
-                703
+                244,
+                449,
+                267,
+                461
             ]
         },
         {
-            "text": "CLOV",
+            "text": "5699100026415",
             "id": 13,
             "bbox": [
-                198,
-                696,
-                218,
-                702
-            ]
-        },
-        {
-            "text": "WMOP",
-            "id": 14,
-            "bbox": [
-                221,
-                694,
-                246,
-                702
-            ]
-        },
-        {
-            "text": "ARF69100",
-            "id": 15,
-            "bbox": [
-                165,
-                708,
-                210,
-                717
+                115,
+                436,
+                183,
+                448
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PEND",
-                "SWEET",
-                "ALHA",
-                "YG",
-                "CLOV",
-                "WMOP"
+                "08:21",
+                "PM"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20/07/2020"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Van",
-                "Cleef",
-                "&",
-                "Arpels"
-            ],
-            "value_id": [
-                1,
-                2,
                 3,
                 4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "5,200.00"
-            ],
-            "value_id": [
-                7
             ]
         },
         {
@@ -217,21 +150,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ARF69100"
+                "5699100026415"
             ],
             "value_id": [
-                15
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:06:35"
+                "21/07/2003"
             ],
             "value_id": [
-                6
+                2
             ]
         },
         {
@@ -239,10 +172,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5,200.00"
+                "150000"
             ],
             "value_id": [
-                8
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RAFE",
+                "NEW",
+                "YORK",
+                "PINKJOS",
+                "Cluten"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SYMPHONY"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "+"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1524.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

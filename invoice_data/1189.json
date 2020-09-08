@@ -1,0 +1,240 @@
+{
+    "text_boxes": [
+        {
+            "text": "Jardin",
+            "id": 1,
+            "bbox": [
+                286,
+                159,
+                443,
+                258
+            ]
+        },
+        {
+            "text": "de",
+            "id": 2,
+            "bbox": [
+                454,
+                183,
+                493,
+                265
+            ]
+        },
+        {
+            "text": "Parfums",
+            "id": 3,
+            "bbox": [
+                271,
+                239,
+                530,
+                314
+            ]
+        },
+        {
+            "text": "23/07/20",
+            "id": 4,
+            "bbox": [
+                410,
+                577,
+                473,
+                597
+            ]
+        },
+        {
+            "text": "11:42",
+            "id": 5,
+            "bbox": [
+                515,
+                575,
+                553,
+                594
+            ]
+        },
+        {
+            "text": "498.00",
+            "id": 6,
+            "bbox": [
+                471,
+                743,
+                519,
+                759
+            ]
+        },
+        {
+            "text": "498.00",
+            "id": 7,
+            "bbox": [
+                467,
+                694,
+                513,
+                708
+            ]
+        },
+        {
+            "text": "UNIQUE",
+            "id": 8,
+            "bbox": [
+                216,
+                696,
+                263,
+                713
+            ]
+        },
+        {
+            "text": "SILVER",
+            "id": 9,
+            "bbox": [
+                273,
+                695,
+                320,
+                712
+            ]
+        },
+        {
+            "text": "FLAME",
+            "id": 10,
+            "bbox": [
+                330,
+                694,
+                368,
+                711
+            ]
+        },
+        {
+            "text": "100",
+            "id": 11,
+            "bbox": [
+                380,
+                695,
+                409,
+                710
+            ]
+        },
+        {
+            "text": "\u0627\u0645\u06cc\u0631",
+            "id": 12,
+            "bbox": [
+                308,
+                714,
+                337,
+                726
+            ]
+        },
+        {
+            "text": "\u0633\u0644\u0641\u0631",
+            "id": 13,
+            "bbox": [
+                267,
+                714,
+                296,
+                726
+            ]
+        },
+        {
+            "text": "\u0641\u0644\u0647\u0645",
+            "id": 14,
+            "bbox": [
+                224,
+                714,
+                255,
+                726
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:42"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23/07/20"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "498.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0645\u06cc\u0631",
+                "\u0633\u0644\u0641\u0631",
+                "\u0641\u0644\u0647\u0645"
+            ],
+            "value_id": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "UNIQUE",
+                "SILVER",
+                "FLAME",
+                "100"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jardin",
+                "de",
+                "Parfums"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "498.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1189.jpg"
+    }
+}

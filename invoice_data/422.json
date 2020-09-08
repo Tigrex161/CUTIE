@@ -1,222 +1,226 @@
 {
     "text_boxes": [
         {
-            "text": "NIKE",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                298,
-                236,
-                338,
-                249
+                335,
+                80,
+                470,
+                128
             ]
         },
         {
-            "text": "BEACON",
+            "text": "25/06/2020",
             "id": 2,
             "bbox": [
-                359,
-                230,
-                431,
-                245
+                101,
+                655,
+                150,
+                669
             ]
         },
         {
-            "text": "15/07/2020",
+            "text": "22:07:26",
             "id": 3,
             "bbox": [
-                270,
-                332,
-                329,
-                348
+                154,
+                655,
+                192,
+                669
             ]
         },
         {
-            "text": "10:22",
+            "text": "1260.00",
             "id": 4,
             "bbox": [
-                269,
-                353,
-                299,
-                368
+                706,
+                578,
+                745,
+                591
             ]
         },
         {
-            "text": "348.00",
+            "text": "\u0642\u0647\u0648\u0647",
             "id": 5,
             "bbox": [
-                491,
-                945,
-                530,
-                958
+                723,
+                437,
+                740,
+                446
             ]
         },
         {
-            "text": "129:00",
+            "text": "E",
             "id": 6,
             "bbox": [
-                471,
-                676,
-                514,
-                695
+                708,
+                437,
+                710,
+                446
             ]
         },
         {
-            "text": "219.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                473,
-                595,
-                510,
-                607
+                368,
+                491,
+                370,
+                499
             ]
         },
         {
-            "text": "M",
+            "text": "BRAJUSTE",
             "id": 8,
             "bbox": [
-                182,
-                625,
-                190,
-                640
+                116,
+                424,
+                152,
+                433
             ]
         },
         {
-            "text": "NK",
+            "text": "UN",
             "id": 9,
             "bbox": [
-                188,
-                627,
-                197,
-                637
+                155,
+                424,
+                165,
+                433
             ]
         },
         {
-            "text": "FLX",
+            "text": "CLOU",
             "id": 10,
             "bbox": [
-                206,
-                625,
-                222,
-                637
+                168,
+                424,
+                187,
+                433
             ]
         },
         {
-            "text": "STR",
+            "text": "YG",
             "id": 11,
             "bbox": [
-                230,
-                623,
-                247,
-                637
+                190,
+                424,
+                199,
+                433
             ]
         },
         {
-            "text": "UL",
+            "text": "1/2",
             "id": 12,
             "bbox": [
-                255,
-                623,
-                265,
-                636
+                202,
+                424,
+                213,
+                433
             ]
         },
         {
-            "text": "MR",
+            "text": "DIASM",
             "id": 13,
             "bbox": [
-                273,
-                624,
-                283,
-                634
+                216,
+                424,
+                241,
+                434
             ]
         },
         {
-            "text": "PR",
+            "text": "TIS",
             "id": 14,
             "bbox": [
-                291,
-                623,
-                302,
-                634
+                244,
+                425,
+                256,
+                434
             ]
         },
         {
-            "text": "M",
+            "text": "1",
             "id": 15,
             "bbox": [
-                179,
-                709,
-                187,
-                722
+                190,
+                420,
+                193,
+                434
             ]
         },
         {
-            "text": "NP",
+            "text": "86066215",
             "id": 16,
             "bbox": [
-                188,
-                709,
-                199,
-                720
-            ]
-        },
-        {
-            "text": "SHORT",
-            "id": 17,
-            "bbox": [
+                165,
+                434,
                 207,
-                708,
-                236,
-                721
-            ]
-        },
-        {
-            "text": "NKCJ5829-424",
-            "id": 18,
-            "bbox": [
-                174,
-                603,
-                247,
-                618
-            ]
-        },
-        {
-            "text": "NKBV5635-085",
-            "id": 19,
-            "bbox": [
-                175,
-                687,
-                248,
-                701
-            ]
-        },
-        {
-            "text": "2.00",
-            "id": 20,
-            "bbox": [
-                371,
-                812,
-                394,
-                824
+                447
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22:07:26"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "86066215"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25/06/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0642\u0647\u0648\u0647",
+                "E"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "M",
-                "NK",
-                "FLX",
-                "STR",
-                "UL",
-                "MR",
-                "PR",
-                "M",
-                "NP",
-                "SHORT"
+                "BRAJUSTE",
+                "UN",
+                "CLOU",
+                "YG",
+                "1/2",
+                "DIASM",
+                "TIS",
+                "1"
             ],
             "value_id": [
                 8,
@@ -226,31 +230,7 @@
                 12,
                 13,
                 14,
-                15,
-                16,
-                17
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2.00"
-            ],
-            "value_id": [
-                20
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15/07/2020"
-            ],
-            "value_id": [
-                3
+                15
             ]
         },
         {
@@ -258,12 +238,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NIKE",
-                "BEACON"
+                "Cartier"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
             ]
         },
         {
@@ -271,47 +260,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "348.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "NKCJ5829-424",
-                "NKBV5635-085"
-            ],
-            "value_id": [
-                18,
-                19
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10:22"
+                "1260.00"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "129:00",
-                "219.00"
-            ],
-            "value_id": [
-                6,
-                7
             ]
         }
     ],

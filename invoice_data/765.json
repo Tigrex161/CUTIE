@@ -1,130 +1,117 @@
 {
     "text_boxes": [
         {
-            "text": "Dubai",
+            "text": "TAVOLA",
             "id": 1,
             "bbox": [
-                135,
-                173,
-                248,
-                202
+                389,
+                189,
+                491,
+                215
             ]
         },
         {
-            "text": "Aquarium",
+            "text": "07/16/20",
             "id": 2,
             "bbox": [
-                281,
-                179,
-                463,
-                210
+                343,
+                556,
+                400,
+                570
             ]
         },
         {
-            "text": "18/07/20",
+            "text": "10:26",
             "id": 3,
             "bbox": [
-                151,
-                409,
-                243,
-                438
+                411,
+                556,
+                444,
+                570
             ]
         },
         {
-            "text": "149.00",
+            "text": "189.00",
             "id": 4,
             "bbox": [
-                457,
-                818,
-                525,
-                839
+                510,
+                722,
+                548,
+                734
             ]
         },
         {
-            "text": "149.00",
+            "text": "189.00",
             "id": 5,
             "bbox": [
-                458,
-                616,
-                524,
-                639
+                510,
+                685,
+                551,
+                698
             ]
         },
         {
-            "text": "1",
+            "text": "V",
             "id": 6,
             "bbox": [
-                310,
-                614,
-                330,
-                647
+                295,
+                685,
+                298,
+                700
             ]
         },
         {
-            "text": "MAGNETIC",
+            "text": "th",
             "id": 7,
             "bbox": [
-                64,
-                616,
-                157,
-                638
+                359,
+                685,
+                373,
+                700
             ]
         },
         {
-            "text": "BUILDIN",
+            "text": "9501",
             "id": 8,
             "bbox": [
-                172,
-                617,
-                253,
-                640
+                395,
+                685,
+                428,
+                700
             ]
         },
         {
-            "text": "1",
+            "text": "HWBT5407",
             "id": 9,
             "bbox": [
-                498,
-                1092,
-                502,
-                1113
+                292,
+                666,
+                377,
+                680
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MAGNETIC",
-                "BUILDIN"
+                "10:26"
             ],
             "value_id": [
-                7,
-                8
+                3
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "HWBT5407"
             ],
             "value_id": [
                 9
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
             ]
         },
         {
@@ -132,34 +119,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18/07/20"
+                "07/16/20"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Dubai",
-                "Aquarium"
-            ],
-            "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "149.00"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -167,10 +130,47 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "149.00"
+                "189.00"
             ],
             "value_id": [
                 5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "V",
+                "th",
+                "9501"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TAVOLA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "189.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

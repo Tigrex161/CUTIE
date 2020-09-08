@@ -1,119 +1,206 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "JORDAN",
             "id": 1,
             "bbox": [
-                291,
-                341,
-                443,
-                387
+                203,
+                210,
+                306,
+                230
             ]
         },
         {
-            "text": "26/07/2020",
+            "text": "28/07/2020",
             "id": 2,
             "bbox": [
-                76,
-                609,
-                118,
-                616
+                257,
+                352,
+                346,
+                375
             ]
         },
         {
-            "text": "1li1",
+            "text": "19:01",
             "id": 3,
             "bbox": [
-                128,
-                609,
-                145,
-                615
+                257,
+                385,
+                297,
+                405
             ]
         },
         {
-            "text": "830.00",
+            "text": "1,099.00",
             "id": 4,
             "bbox": [
-                586,
-                734,
-                613,
-                743
+                523,
+                1143,
+                597,
+                1169
             ]
         },
         {
-            "text": "790.48",
+            "text": "1",
             "id": 5,
             "bbox": [
-                609,
-                680,
-                636,
-                689
+                229,
+                935,
+                233,
+                958
             ]
         },
         {
-            "text": "Baby",
+            "text": "1",
             "id": 6,
             "bbox": [
-                215,
-                685,
-                233,
-                694
+                393,
+                755,
+                395,
+                772
             ]
         },
         {
-            "text": "7ABMISTEEZ",
+            "text": "WMNS",
             "id": 7,
             "bbox": [
-                76,
-                686,
-                132,
-                694
+                101,
+                773,
+                136,
+                796
+            ]
+        },
+        {
+            "text": "AIR",
+            "id": 8,
+            "bbox": [
+                145,
+                775,
+                172,
+                798
+            ]
+        },
+        {
+            "text": "JORDAN",
+            "id": 9,
+            "bbox": [
+                182,
+                776,
+                235,
+                800
+            ]
+        },
+        {
+            "text": "4",
+            "id": 10,
+            "bbox": [
+                245,
+                779,
+                253,
+                800
+            ]
+        },
+        {
+            "text": "RETRO",
+            "id": 11,
+            "bbox": [
+                263,
+                779,
+                307,
+                803
+            ]
+        },
+        {
+            "text": "SP",
+            "id": 12,
+            "bbox": [
+                318,
+                781,
+                334,
+                804
+            ]
+        },
+        {
+            "text": "NKCV9388-100",
+            "id": 13,
+            "bbox": [
+                102,
+                744,
+                209,
+                769
+            ]
+        },
+        {
+            "text": "\u0631\u064a\u062a\u0631\u0648",
+            "id": 14,
+            "bbox": [
+                226,
+                810,
+                262,
+                833
+            ]
+        },
+        {
+            "text": "4",
+            "id": 15,
+            "bbox": [
+                207,
+                810,
+                215,
+                831
+            ]
+        },
+        {
+            "text": "\u062f\u0630\u0627\u0621",
+            "id": 16,
+            "bbox": [
+                168,
+                808,
+                199,
+                831
+            ]
+        },
+        {
+            "text": "\u0627\u06cc\u0631",
+            "id": 17,
+            "bbox": [
+                137,
+                807,
+                156,
+                830
+            ]
+        },
+        {
+            "text": "\u0647\u0627\u06a9",
+            "id": 18,
+            "bbox": [
+                99,
+                806,
+                128,
+                828
+            ]
+        },
+        {
+            "text": "1,099.00",
+            "id": 19,
+            "bbox": [
+                520,
+                759,
+                594,
+                783
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Baby"
+                "19:01"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "26/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DIOR"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "830.00"
-            ],
-            "value_id": [
-                4
+                3
             ]
         },
         {
@@ -121,21 +208,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7ABMISTEEZ"
+                "NKCV9388-100"
             ],
             "value_id": [
-                7
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1li1"
+                "28/07/2020"
             ],
             "value_id": [
-                3
+                2
             ]
         },
         {
@@ -143,10 +230,94 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "790.48"
+                "1,099.00"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0631\u064a\u062a\u0631\u0648",
+                "4",
+                "\u062f\u0630\u0627\u0621",
+                "\u0627\u06cc\u0631",
+                "\u0647\u0627\u06a9"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WMNS",
+                "AIR",
+                "JORDAN",
+                "4",
+                "RETRO",
+                "SP"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JORDAN"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 5
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,099.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

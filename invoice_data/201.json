@@ -1,158 +1,289 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "SARA",
             "id": 1,
             "bbox": [
-                330,
-                106,
-                421,
-                161
+                315,
+                300,
+                417,
+                324
             ]
         },
         {
-            "text": "SHOES",
+            "text": "11",
             "id": 2,
             "bbox": [
-                348,
-                164,
-                401,
-                176
-            ]
-        },
-        {
-            "text": "Jul,",
-            "id": 3,
-            "bbox": [
-                469,
-                279,
-                493,
-                290
+                350,
+                326,
+                358,
+                335
             ]
         },
         {
             "text": "2020",
+            "id": 3,
+            "bbox": [
+                243,
+                470,
+                265,
+                482
+            ]
+        },
+        {
+            "text": "-",
             "id": 4,
             "bbox": [
-                503,
-                281,
-                528,
-                292
+                238,
+                470,
+                240,
+                482
             ]
         },
         {
-            "text": "19:03",
+            "text": "\u0627\u0644",
             "id": 5,
             "bbox": [
-                536,
-                284,
-                567,
-                295
+                220,
+                470,
+                226,
+                482
             ]
         },
         {
-            "text": "2,",
+            "text": "-20",
             "id": 6,
             "bbox": [
-                593,
-                521,
-                602,
-                531
+                200,
+                470,
+                221,
+                482
             ]
         },
         {
-            "text": "700.00",
+            "text": "18:05:00",
             "id": 7,
             "bbox": [
-                607,
-                521,
-                645,
-                529
+                271,
+                468,
+                312,
+                482
             ]
         },
         {
-            "text": "2,700.00",
+            "text": "146.85",
             "id": 8,
             "bbox": [
-                595,
-                433,
-                646,
-                442
+                657,
+                665,
+                690,
+                677
             ]
         },
         {
-            "text": "1.",
+            "text": "1",
             "id": 9,
             "bbox": [
-                433,
-                430,
-                436,
-                438
+                658,
+                594,
+                660,
+                606
             ]
         },
         {
-            "text": "DIOR",
+            "text": ":",
             "id": 10,
             "bbox": [
-                110,
-                417,
-                136,
-                426
+                663,
+                594,
+                664,
+                606
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "46.85",
             "id": 11,
             "bbox": [
-                143,
-                411,
-                198,
-                426
+                665,
+                594,
+                693,
+                606
             ]
         },
         {
-            "text": "SHOES",
+            "text": "555",
             "id": 12,
             "bbox": [
-                199,
-                409,
-                226,
-                423
+                464,
+                596,
+                482,
+                609
             ]
         },
         {
-            "text": "isi",
+            "text": "555",
             "id": 13,
             "bbox": [
-                283,
-                404,
-                315,
-                417
+                345,
+                626,
+                363,
+                638
+            ]
+        },
+        {
+            "text": "Vraiment",
+            "id": 14,
+            "bbox": [
+                204,
+                596,
+                255,
+                616
+            ]
+        },
+        {
+            "text": "Bon",
+            "id": 15,
+            "bbox": [
+                259,
+                597,
+                278,
+                615
+            ]
+        },
+        {
+            "text": "Chocolate",
+            "id": 16,
+            "bbox": [
+                282,
+                597,
+                334,
+                617
+            ]
+        },
+        {
+            "text": "Assorted",
+            "id": 17,
+            "bbox": [
+                338,
+                598,
+                382,
+                618
+            ]
+        },
+        {
+            "text": "FG030530740003",
+            "id": 18,
+            "bbox": [
+                102,
+                594,
+                198,
+                615
+            ]
+        },
+        {
+            "text": "36",
+            "id": 19,
+            "bbox": [
+                101,
+                611,
+                116,
+                622
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18:05:00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FG030530740003",
+                "36"
+            ],
+            "value_id": [
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                "-",
+                "\u0627\u0644",
+                "-20"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                ":",
+                "46.85"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR",
-                "WOMENS",
-                "SHOES"
+                "Vraiment",
+                "Bon",
+                "Chocolate",
+                "Assorted"
             ],
             "value_id": [
-                10,
-                11,
-                12
+                14,
+                15,
+                16,
+                17
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "isi"
+                "SARA",
+                "11"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "555"
             ],
             "value_id": [
                 13
@@ -163,36 +294,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1."
+                "555"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "level",
-                "SHOES"
-            ],
-            "value_id": [
-                1,
-                2
+                12
             ]
         },
         {
@@ -200,31 +305,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,",
-                "700.00"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:03"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,700.00"
+                "146.85"
             ],
             "value_id": [
                 8

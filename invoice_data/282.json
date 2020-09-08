@@ -1,170 +1,156 @@
 {
     "text_boxes": [
         {
-            "text": "Project",
+            "text": "SJP",
             "id": 1,
             "bbox": [
-                284,
-                303,
-                350,
-                323
+                285,
+                24,
+                311,
+                39
             ]
         },
         {
-            "text": "X",
+            "text": "by",
             "id": 2,
             "bbox": [
-                357,
-                304,
-                370,
-                320
+                317,
+                24,
+                332,
+                39
             ]
         },
         {
-            "text": "Paris",
+            "text": "Sarah",
             "id": 3,
             "bbox": [
-                379,
-                302,
-                425,
-                320
+                338,
+                24,
+                377,
+                41
             ]
         },
         {
-            "text": "03-Jul-2020",
+            "text": "Jessica",
             "id": 4,
             "bbox": [
-                237,
-                780,
-                305,
-                794
+                383,
+                24,
+                434,
+                41
             ]
         },
         {
-            "text": "11:08",
+            "text": "Parker",
             "id": 5,
             "bbox": [
-                325,
-                783,
-                356,
-                795
+                440,
+                25,
+                484,
+                42
             ]
         },
         {
-            "text": "pm",
+            "text": "12-07-20",
             "id": 6,
             "bbox": [
-                361,
-                787,
-                378,
-                798
+                363,
+                343,
+                425,
+                361
             ]
         },
         {
-            "text": "144.00",
+            "text": "8:28:35",
             "id": 7,
             "bbox": [
-                427,
-                654,
-                472,
-                667
+                365,
+                365,
+                417,
+                382
             ]
         },
         {
-            "text": "165.00",
+            "text": "PM",
             "id": 8,
             "bbox": [
-                436,
-                523,
-                473,
-                535
+                423,
+                367,
+                445,
+                382
             ]
         },
         {
-            "text": "195.00",
+            "text": "2,490.00",
             "id": 9,
             "bbox": [
-                436,
-                541,
-                473,
-                551
+                483,
+                476,
+                545,
+                492
+            ]
+        },
+        {
+            "text": "200240",
+            "id": 10,
+            "bbox": [
+                316,
+                456,
+                369,
+                472
             ]
         },
         {
             "text": "1",
-            "id": 10,
-            "bbox": [
-                243,
-                521,
-                246,
-                530
-            ]
-        },
-        {
-            "text": "1910046-BK",
             "id": 11,
             "bbox": [
-                273,
-                521,
-                340,
-                533
+                516,
+                664,
+                520,
+                675
             ]
         },
         {
-            "text": "(T-shirt)-L",
+            "text": "1,74500",
             "id": 12,
             "bbox": [
-                345,
-                522,
-                396,
-                537
+                483,
+                714,
+                543,
+                728
             ]
         },
         {
-            "text": "1910045-W",
+            "text": "2002402000000319",
             "id": 13,
             "bbox": [
-                272,
-                537,
-                335,
-                550
-            ]
-        },
-        {
-            "text": "(T-shirt]-L",
-            "id": 14,
-            "bbox": [
-                341,
-                538,
-                391,
-                554
+                214,
+                474,
+                359,
+                493
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1910046-BK",
-                "(T-shirt)-L",
-                "1910045-W",
-                "(T-shirt]-L"
+                "8:28:35",
+                "PM"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14
+                7,
+                8
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "200240"
             ],
             "value_id": [
                 10
@@ -175,48 +161,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "03-Jul-2020"
+                "12-07-20"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Project",
-                "X",
-                "Paris"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "144.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:08",
-                "pm"
-            ],
-            "value_id": [
-                5,
                 6
             ]
         },
@@ -225,12 +172,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "165.00",
-                "195.00"
+                "2,490.00"
             ],
             "value_id": [
-                8,
                 9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2002402000000319"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SJP",
+                "by",
+                "Sarah",
+                "Jessica",
+                "Parker"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,74500"
+            ],
+            "value_id": [
+                12
             ]
         }
     ],

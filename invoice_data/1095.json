@@ -1,0 +1,273 @@
+{
+    "text_boxes": [
+        {
+            "text": "SJP",
+            "id": 1,
+            "bbox": [
+                268,
+                122,
+                301,
+                146
+            ]
+        },
+        {
+            "text": "by",
+            "id": 2,
+            "bbox": [
+                308,
+                122,
+                325,
+                146
+            ]
+        },
+        {
+            "text": "Sarah",
+            "id": 3,
+            "bbox": [
+                334,
+                121,
+                383,
+                145
+            ]
+        },
+        {
+            "text": "Jessica",
+            "id": 4,
+            "bbox": [
+                390,
+                120,
+                453,
+                144
+            ]
+        },
+        {
+            "text": "Parker",
+            "id": 5,
+            "bbox": [
+                461,
+                118,
+                517,
+                143
+            ]
+        },
+        {
+            "text": "28-07-20",
+            "id": 6,
+            "bbox": [
+                358,
+                514,
+                438,
+                535
+            ]
+        },
+        {
+            "text": "1:26:03",
+            "id": 7,
+            "bbox": [
+                365,
+                542,
+                431,
+                562
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 8,
+            "bbox": [
+                438,
+                542,
+                466,
+                562
+            ]
+        },
+        {
+            "text": "3206.00",
+            "id": 9,
+            "bbox": [
+                481,
+                844,
+                558,
+                863
+            ]
+        },
+        {
+            "text": "2290.00",
+            "id": 10,
+            "bbox": [
+                512,
+                696,
+                590,
+                717
+            ]
+        },
+        {
+            "text": "2,290.00",
+            "id": 11,
+            "bbox": [
+                512,
+                747,
+                589,
+                766
+            ]
+        },
+        {
+            "text": "2000002000022019",
+            "id": 12,
+            "bbox": [
+                186,
+                695,
+                360,
+                715
+            ]
+        },
+        {
+            "text": "2000002000029810",
+            "id": 13,
+            "bbox": [
+                190,
+                742,
+                361,
+                762
+            ]
+        },
+        {
+            "text": "200000",
+            "id": 14,
+            "bbox": [
+                308,
+                671,
+                373,
+                690
+            ]
+        },
+        {
+            "text": "200000",
+            "id": 15,
+            "bbox": [
+                310,
+                720,
+                374,
+                737
+            ]
+        },
+        {
+            "text": "2",
+            "id": 16,
+            "bbox": [
+                549,
+                977,
+                558,
+                994
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1:26:03",
+                "PM"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "200000",
+                "200000"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "28-07-20"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2290.00",
+                "2,290.00"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2000002000022019",
+                "2000002000029810"
+            ],
+            "value_id": [
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SJP",
+                "by",
+                "Sarah",
+                "Jessica",
+                "Parker"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3206.00"
+            ],
+            "value_id": [
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1095.jpg"
+    }
+}

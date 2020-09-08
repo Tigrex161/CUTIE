@@ -1,124 +1,228 @@
 {
     "text_boxes": [
         {
-            "text": "152.00",
+            "text": "HERMES",
             "id": 1,
             "bbox": [
-                617,
-                645,
-                671,
-                665
+                126,
+                296,
+                266,
+                327
             ]
         },
         {
-            "text": "40",
+            "text": "\u0627\u0644\u0645\u0648",
             "id": 2,
             "bbox": [
-                451,
-                650,
-                467,
-                668
+                507,
+                345,
+                517,
+                357
             ]
         },
         {
-            "text": "40",
+            "text": "07802",
             "id": 3,
             "bbox": [
-                655,
-                738,
-                671,
-                755
+                463,
+                347,
+                491,
+                361
             ]
         },
         {
-            "text": "6711020",
+            "text": "0701",
             "id": 4,
             "bbox": [
-                143,
-                653,
-                208,
-                672
+                464,
+                370,
+                490,
+                384
             ]
         },
         {
-            "text": "Ice",
+            "text": "IR1",
             "id": 5,
             "bbox": [
-                241,
-                653,
-                266,
-                671
+                494,
+                369,
+                511,
+                382
             ]
         },
         {
-            "text": "Forte",
+            "text": "17.790.00",
             "id": 6,
             "bbox": [
-                278,
-                653,
-                323,
-                670
+                518,
+                940,
+                567,
+                952
             ]
         },
         {
-            "text": "VL",
+            "text": "17.790",
             "id": 7,
             "bbox": [
-                336,
-                652,
-                352,
-                669
+                591,
+                565,
+                622,
+                575
             ]
         },
         {
-            "text": "6x125",
+            "text": "00",
             "id": 8,
             "bbox": [
-                374,
-                651,
-                419,
-                668
+                627,
+                565,
+                638,
+                575
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                539,
+                565,
+                541,
+                574
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                541,
+                568,
+                542,
+                578
+            ]
+        },
+        {
+            "text": "WALLET",
+            "id": 11,
+            "bbox": [
+                161,
+                568,
+                205,
+                582
+            ]
+        },
+        {
+            "text": "-",
+            "id": 12,
+            "bbox": [
+                209,
+                568,
+                211,
+                582
+            ]
+        },
+        {
+            "text": "BAG",
+            "id": 13,
+            "bbox": [
+                211,
+                568,
+                233,
+                582
+            ]
+        },
+        {
+            "text": "KELLY",
+            "id": 14,
+            "bbox": [
+                237,
+                568,
+                271,
+                582
+            ]
+        },
+        {
+            "text": "CLASSIQUE",
+            "id": 15,
+            "bbox": [
+                277,
+                568,
+                334,
+                582
+            ]
+        },
+        {
+            "text": "TO",
+            "id": 16,
+            "bbox": [
+                341,
+                568,
+                351,
+                582
+            ]
+        },
+        {
+            "text": "GO",
+            "id": 17,
+            "bbox": [
+                355,
+                568,
+                368,
+                582
+            ]
+        },
+        {
+            "text": "E",
+            "id": 18,
+            "bbox": [
+                375,
+                568,
+                378,
+                582
+            ]
+        },
+        {
+            "text": "SOVA",
+            "id": 19,
+            "bbox": [
+                388,
+                568,
+                409,
+                582
+            ]
+        },
+        {
+            "text": "CALLS",
+            "id": 20,
+            "bbox": [
+                415,
+                568,
+                447,
+                582
+            ]
+        },
+        {
+            "text": "HOB02530G",
+            "id": 21,
+            "bbox": [
+                85,
+                568,
+                145,
+                582
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "40"
+                "0701",
+                "IR1"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Ice",
-                "Forte",
-                "VL",
-                "6x125"
-            ],
-            "value_id": [
-                5,
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "40"
-            ],
-            "value_id": [
-                2
+                4,
+                5
             ]
         },
         {
@@ -126,10 +230,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6711020"
+                "HOB02530G"
             ],
             "value_id": [
-                4
+                21
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0644\u0645\u0648",
+                "07802"
+            ],
+            "value_id": [
+                2,
+                3
             ]
         },
         {
@@ -137,10 +254,76 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "152.00"
+                "17.790",
+                "00"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WALLET",
+                "-",
+                "BAG",
+                "KELLY",
+                "CLASSIQUE",
+                "TO",
+                "GO",
+                "E",
+                "SOVA",
+                "CALLS"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HERMES"
             ],
             "value_id": [
                 1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17.790.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

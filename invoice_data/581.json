@@ -1,131 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "July",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                420,
-                371,
-                437,
-                379
+                251,
+                156,
+                351,
+                181
             ]
         },
         {
-            "text": "13,",
+            "text": "HOME",
             "id": 2,
             "bbox": [
-                443,
-                371,
-                455,
-                380
+                376,
+                155,
+                483,
+                180
             ]
         },
         {
-            "text": "2020",
+            "text": "-",
             "id": 3,
             "bbox": [
-                461,
-                372,
-                484,
-                379
+                306,
+                182,
+                306,
+                200
             ]
         },
         {
-            "text": "18:45",
+            "text": "08.07.2020",
             "id": 4,
             "bbox": [
-                494,
-                372,
-                519,
-                379
+                168,
+                348,
+                260,
+                368
             ]
         },
         {
-            "text": "205.00",
+            "text": "18:39",
             "id": 5,
             "bbox": [
-                536,
-                671,
-                571,
-                677
+                274,
+                350,
+                316,
+                369
             ]
         },
         {
-            "text": "205.00",
+            "text": "459",
             "id": 6,
             "bbox": [
-                603,
-                536,
-                635,
-                543
+                484,
+                608,
+                510,
+                623
             ]
         },
         {
-            "text": "EYES",
+            "text": "459",
             "id": 7,
             "bbox": [
-                142,
-                521,
-                168,
-                531
+                479,
+                443,
+                505,
+                457
             ]
         },
         {
-            "text": "MAKE-UP",
+            "text": "1",
             "id": 8,
             "bbox": [
-                173,
-                523,
-                223,
-                532
+                281,
+                444,
+                286,
+                456
             ]
         },
         {
-            "text": "195204",
+            "text": "4010608862112",
             "id": 9,
             "bbox": [
-                142,
-                537,
-                177,
-                545
+                261,
+                464,
+                382,
+                484
+            ]
+        },
+        {
+            "text": "SHEET",
+            "id": 10,
+            "bbox": [
+                404,
+                467,
+                448,
+                484
+            ]
+        },
+        {
+            "text": "10001565",
+            "id": 11,
+            "bbox": [
+                164,
+                462,
+                238,
+                480
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "EYES",
-                "MAKE-UP"
-            ],
-            "value_id": [
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July",
-                "13,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "205.00"
+                "18:39"
             ],
             "value_id": [
                 5
@@ -136,18 +128,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "195204"
+                "10001565"
             ],
             "value_id": [
-                9
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18:45"
+                "08.07.2020"
             ],
             "value_id": [
                 4
@@ -158,7 +150,57 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "205.00"
+                "459"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4010608862112",
+                "SHEET"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA",
+                "HOME",
+                "-"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "459"
             ],
             "value_id": [
                 6

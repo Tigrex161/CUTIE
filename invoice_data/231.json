@@ -1,174 +1,229 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "NIKE",
             "id": 1,
             "bbox": [
-                454,
-                361,
-                476,
-                371
+                380,
+                173,
+                424,
+                194
             ]
         },
         {
-            "text": "2020",
+            "text": "BEACON",
             "id": 2,
             "bbox": [
-                487,
-                360,
-                511,
-                369
+                437,
+                165,
+                506,
+                188
             ]
         },
         {
-            "text": "12:55",
+            "text": "13/07/2020",
             "id": 3,
             "bbox": [
-                520,
-                359,
-                550,
-                369
+                353,
+                269,
+                410,
+                289
             ]
         },
         {
-            "text": "1,",
+            "text": "15:16",
             "id": 4,
             "bbox": [
-                565,
-                585,
-                574,
-                593
+                354,
+                290,
+                379,
+                305
             ]
         },
         {
-            "text": "806.00",
+            "text": "159.00",
             "id": 5,
             "bbox": [
-                578,
-                583,
-                617,
-                592
+                554,
+                751,
+                588,
+                764
             ]
         },
         {
-            "text": "1,",
+            "text": "\u0627\u0646\u0627",
             "id": 6,
             "bbox": [
-                570,
-                503,
-                584,
-                514
+                566,
+                513,
+                578,
+                527
             ]
         },
         {
-            "text": "806.00",
+            "text": ".",
             "id": 7,
             "bbox": [
-                584,
-                502,
-                622,
-                512
+                562,
+                513,
+                565,
+                527
             ]
         },
         {
-            "text": "1.",
+            "text": "189",
             "id": 8,
             "bbox": [
-                414,
-                505,
-                423,
-                515
+                543,
+                513,
+                560,
+                528
             ]
         },
         {
-            "text": "CHANEL",
+            "text": "1.00",
             "id": 9,
             "bbox": [
-                131,
-                488,
-                167,
-                495
+                442,
+                640,
+                464,
+                654
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "MNK",
             "id": 10,
             "bbox": [
-                174,
-                488,
-                210,
-                495
+                259,
+                543,
+                281,
+                557
             ]
         },
         {
-            "text": "SHOES",
+            "text": "TOP",
             "id": 11,
             "bbox": [
-                221,
-                487,
-                247,
-                498
+                289,
+                543,
+                305,
+                557
             ]
         },
         {
-            "text": "IL",
+            "text": "TANK",
             "id": 12,
             "bbox": [
-                256,
-                488,
-                291,
-                497
+                314,
+                543,
+                335,
+                557
             ]
         },
         {
-            "text": "yin",
+            "text": "PX",
             "id": 13,
             "bbox": [
-                305,
-                487,
-                323,
-                498
+                342,
+                543,
+                352,
+                557
+            ]
+        },
+        {
+            "text": "NRT",
+            "id": 14,
+            "bbox": [
+                259,
+                524,
+                275,
+                537
+            ]
+        },
+        {
+            "text": "147440379",
+            "id": 15,
+            "bbox": [
+                278,
+                523,
+                329,
+                538
+            ]
+        },
+        {
+            "text": "\u0644\u0647",
+            "id": 16,
+            "bbox": [
+                336,
+                563,
+                342,
+                579
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0631\u0647",
+            "id": 17,
+            "bbox": [
+                318,
+                563,
+                332,
+                579
+            ]
+        },
+        {
+            "text": "\u062a\u0627\u0646\u06af\u064a",
+            "id": 18,
+            "bbox": [
+                289,
+                563,
+                312,
+                579
+            ]
+        },
+        {
+            "text": "[",
+            "id": 19,
+            "bbox": [
+                281,
+                563,
+                283,
+                579
+            ]
+        },
+        {
+            "text": "\u062a\u0627\u0644\u064a",
+            "id": 20,
+            "bbox": [
+                260,
+                563,
+                276,
+                579
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHANEL",
-                "WOMENS",
-                "SHOES"
+                "15:16"
             ],
             "value_id": [
-                9,
-                10,
-                11
+                4
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "IL",
-                "yin"
+                "NRT",
+                "147440379"
             ],
             "value_id": [
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                8
+                14,
+                15
             ]
         },
         {
@@ -176,33 +231,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,",
-                "806.00"
-            ],
-            "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:55"
+                "13/07/2020"
             ],
             "value_id": [
                 3
@@ -213,12 +242,85 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "806.00"
+                "\u0627\u0646\u0627",
+                ".",
+                "189"
             ],
             "value_id": [
                 6,
-                7
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0644\u0647",
+                "\u0627\u0644\u0631\u0647",
+                "\u062a\u0627\u0646\u06af\u064a",
+                "[",
+                "\u062a\u0627\u0644\u064a"
+            ],
+            "value_id": [
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MNK",
+                "TOP",
+                "TANK",
+                "PX"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NIKE",
+                "BEACON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "159.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

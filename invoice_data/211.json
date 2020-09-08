@@ -1,229 +1,229 @@
 {
     "text_boxes": [
         {
-            "text": "RALPH",
+            "text": "Loro",
             "id": 1,
             "bbox": [
-                362,
-                246,
-                411,
-                257
+                285,
+                118,
+                380,
+                173
             ]
         },
         {
-            "text": "LAUREN",
+            "text": "Piana",
             "id": 2,
             "bbox": [
-                425,
-                243,
-                485,
-                256
+                383,
+                120,
+                479,
+                176
             ]
         },
         {
-            "text": "12",
+            "text": "14-07-2020",
             "id": 3,
             "bbox": [
-                505,
-                547,
-                511,
-                556
+                544,
+                271,
+                596,
+                286
             ]
         },
         {
-            "text": "July",
+            "text": "20:04:05",
             "id": 4,
             "bbox": [
-                516,
-                547,
-                530,
-                557
+                600,
+                271,
+                642,
+                286
             ]
         },
         {
-            "text": "2020",
+            "text": "2,930.00",
             "id": 5,
             "bbox": [
-                533,
-                546,
-                551,
-                555
+                597,
+                424,
+                630,
+                432
             ]
         },
         {
-            "text": "25304",
+            "text": "2.830.00",
             "id": 6,
             "bbox": [
-                556,
-                545,
-                582,
-                554
+                596,
+                393,
+                628,
+                402
             ]
         },
         {
-            "text": "PM",
+            "text": "1",
             "id": 7,
             "bbox": [
-                586,
-                545,
-                597,
-                551
+                440,
+                393,
+                442,
+                400
             ]
         },
         {
-            "text": "660.00",
+            "text": "BUMMER",
             "id": 8,
             "bbox": [
-                694,
-                749,
-                721,
-                758
+                188,
+                389,
+                224,
+                399
             ]
         },
         {
-            "text": "33000",
+            "text": "CHAUS",
             "id": 9,
             "bbox": [
-                693,
-                600,
-                717,
-                607
+                227,
+                389,
+                262,
+                399
             ]
         },
         {
-            "text": "330.00",
+            "text": "WALK",
             "id": 10,
             "bbox": [
-                695,
-                646,
-                719,
-                655
+                266,
+                390,
+                288,
+                399
             ]
         },
         {
-            "text": "SSFBBOM1-SHORT",
+            "text": "13",
             "id": 11,
             "bbox": [
-                386,
-                607,
-                456,
-                620
+                293,
+                390,
+                300,
+                399
             ]
         },
         {
-            "text": "SLEEVE-KNIT",
+            "text": "SUE",
             "id": 12,
             "bbox": [
-                459,
-                605,
-                505,
-                618
+                303,
+                390,
+                319,
+                399
             ]
         },
         {
-            "text": "SSFBBDM2-SHORT",
+            "text": ",",
             "id": 13,
             "bbox": [
-                386,
-                655,
-                455,
-                665
+                320,
+                390,
+                321,
+                399
             ]
         },
         {
-            "text": "SLEEVE",
+            "text": "0044",
             "id": 14,
             "bbox": [
-                461,
-                654,
-                485,
-                663
+                325,
+                391,
+                342,
+                400
             ]
         },
         {
-            "text": "KNIT",
+            "text": "37.5",
             "id": 15,
             "bbox": [
-                488,
-                653,
-                508,
-                661
+                350,
+                391,
+                365,
+                400
             ]
         },
         {
-            "text": "plasl",
+            "text": "ISCRIFAS",
             "id": 16,
             "bbox": [
-                405,
-                625,
-                434,
-                637
-            ]
-        },
-        {
-            "text": "l",
-            "id": 17,
-            "bbox": [
-                437,
-                626,
-                452,
-                634
-            ]
-        },
-        {
-            "text": "na",
-            "id": 18,
-            "bbox": [
-                387,
-                674,
-                409,
-                683
-            ]
-        },
-        {
-            "text": "plasi",
-            "id": 19,
-            "bbox": [
-                412,
-                670,
-                434,
-                682
-            ]
-        },
-        {
-            "text": "ajsi",
-            "id": 20,
-            "bbox": [
-                438,
-                671,
-                455,
-                681
-            ]
-        },
-        {
-            "text": "710792415",
-            "id": 21,
-            "bbox": [
-                170,
-                664,
-                209,
-                671
+                95,
+                386,
+                143,
+                397
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:04:05"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ISCRIFAS"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14-07-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.830.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SSFBBOM1-SHORT",
-                "SLEEVE-KNIT",
-                "SSFBBDM2-SHORT",
-                "SLEEVE",
-                "KNIT"
+                "BUMMER",
+                "CHAUS",
+                "WALK",
+                "13",
+                "SUE",
+                ",",
+                "0044",
+                "37.5"
             ],
             "value_id": [
+                8,
+                9,
+                10,
                 11,
                 12,
                 13,
@@ -232,46 +232,12 @@
             ]
         },
         {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "plasl",
-                "l",
-                "na",
-                "plasi",
-                "ajsi"
-            ],
-            "value_id": [
-                16,
-                17,
-                18,
-                19,
-                20
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12",
-                "July",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RALPH",
-                "LAUREN"
+                "Loro",
+                "Piana"
             ],
             "value_id": [
                 1,
@@ -279,51 +245,25 @@
             ]
         },
         {
-            "field_name": "total",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "660.00"
+                "1"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "710792415"
-            ],
-            "value_id": [
-                21
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "25304",
-                "PM"
-            ],
-            "value_id": [
-                6,
                 7
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "33000",
-                "330.00"
+                "2,930.00"
             ],
             "value_id": [
-                9,
-                10
+                5
             ]
         }
     ],

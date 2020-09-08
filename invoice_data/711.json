@@ -1,251 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "CLARINS",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                204,
-                216,
-                559,
-                253
+                298,
+                155,
+                356,
+                169
             ]
         },
         {
-            "text": "17/07/2020",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                521,
-                319,
-                581,
-                328
+                365,
+                155,
+                425,
+                169
             ]
         },
         {
-            "text": "13:37",
+            "text": "02/07/20",
             "id": 3,
             "bbox": [
-                523,
-                335,
-                551,
-                346
+                255,
+                315,
+                317,
+                340
             ]
         },
         {
-            "text": "466,00",
+            "text": "20:61",
             "id": 4,
             "bbox": [
-                595,
-                831,
-                630,
-                845
+                325,
+                313,
+                358,
+                336
             ]
         },
         {
-            "text": "318,00",
+            "text": "490.00",
             "id": 5,
             "bbox": [
-                605,
-                489,
-                637,
-                498
+                471,
+                506,
+                517,
+                526
             ]
         },
         {
-            "text": "148,00",
+            "text": "490.00",
             "id": 6,
             "bbox": [
-                606,
-                524,
-                638,
-                533
+                466,
+                432,
+                523,
+                452
             ]
         },
         {
-            "text": "GEL",
+            "text": "1",
             "id": 7,
             "bbox": [
-                209,
-                492,
-                229,
-                504
+                213,
+                456,
+                216,
+                471
             ]
         },
         {
-            "text": "RET",
+            "text": "Men's",
             "id": 8,
             "bbox": [
-                233,
-                491,
-                253,
-                503
+                204,
+                421,
+                242,
+                436
             ]
         },
         {
-            "text": "EXTRA",
+            "text": "Wear",
             "id": 9,
             "bbox": [
-                115,
-                527,
-                150,
-                537
+                250,
+                423,
+                279,
+                437
             ]
         },
         {
-            "text": "COMF",
+            "text": "MENS",
             "id": 10,
             "bbox": [
-                154,
-                528,
-                184,
-                536
+                205,
+                437,
+                234,
+                454
             ]
         },
         {
-            "text": "TONING",
+            "text": "WEAR",
             "id": 11,
             "bbox": [
-                189,
-                526,
-                230,
-                537
+                242,
+                439,
+                271,
+                456
             ]
         },
         {
-            "text": "LOT",
+            "text": "HUGO",
             "id": 12,
             "bbox": [
-                234,
-                527,
-                254,
-                535
+                280,
+                441,
+                309,
+                458
             ]
         },
         {
-            "text": "AST200ML",
+            "text": "BOSS",
             "id": 13,
             "bbox": [
-                258,
-                525,
-                311,
-                535
+                294,
+                442,
+                346,
+                459
             ]
         },
         {
-            "text": "\u062c\u0644",
+            "text": "900671677",
             "id": 14,
             "bbox": [
-                356,
-                505,
-                366,
-                514
-            ]
-        },
-        {
-            "text": "\u0645\u0633\u0627\u0646",
-            "id": 15,
-            "bbox": [
-                331,
-                507,
-                352,
-                516
-            ]
-        },
-        {
-            "text": "\u0644\u0634\u0628\u064a\u0636",
-            "id": 16,
-            "bbox": [
-                304,
-                506,
-                328,
-                516
-            ]
-        },
-        {
-            "text": "\u0648\u0627\u0634\u0631\u0627\u0642\u0629",
-            "id": 17,
-            "bbox": [
-                273,
-                507,
-                300,
-                516
-            ]
-        },
-        {
-            "text": "\u0627\u0644\u0628\u0634\u0631\u0629",
-            "id": 18,
-            "bbox": [
-                249,
-                507,
-                269,
-                517
-            ]
-        },
-        {
-            "text": "200",
-            "id": 19,
-            "bbox": [
-                250,
-                542,
-                279,
-                551
-            ]
-        },
-        {
-            "text": "si",
-            "id": 20,
-            "bbox": [
-                345,
-                542,
-                360,
-                549
+                242,
+                457,
+                308,
+                476
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GEL",
-                "RET",
-                "EXTRA",
-                "COMF",
-                "TONING",
-                "LOT",
-                "AST200ML"
+                "20:61"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                4
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u062c\u0644",
-                "\u0645\u0633\u0627\u0646",
-                "\u0644\u0634\u0628\u064a\u0636",
-                "\u0648\u0627\u0634\u0631\u0627\u0642\u0629",
-                "\u0627\u0644\u0628\u0634\u0631\u0629",
-                "200",
-                "si"
+                "900671677"
             ],
             "value_id": [
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20
+                14
             ]
         },
         {
@@ -253,40 +169,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CLARINS"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "466,00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:37"
+                "02/07/20"
             ],
             "value_id": [
                 3
@@ -297,12 +180,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "318,00",
-                "148,00"
+                "490.00"
             ],
             "value_id": [
-                5,
                 6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Men's",
+                "Wear",
+                "MENS",
+                "WEAR",
+                "HUGO",
+                "BOSS"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "490.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

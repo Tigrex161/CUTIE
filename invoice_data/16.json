@@ -1,157 +1,291 @@
 {
     "text_boxes": [
         {
-            "text": "Jun,",
+            "text": "NIKE",
             "id": 1,
             "bbox": [
-                605,
-                413,
-                641,
-                425
+                355,
+                213,
+                389,
+                229
             ]
         },
         {
-            "text": "2020",
+            "text": "BEACON",
             "id": 2,
             "bbox": [
-                657,
-                409,
-                697,
-                426
+                402,
+                213,
+                457,
+                229
             ]
         },
         {
-            "text": "13:13",
+            "text": "7",
             "id": 3,
             "bbox": [
-                713,
-                409,
-                763,
-                423
+                350,
+                293,
+                352,
+                303
             ]
         },
         {
-            "text": "2,765.00",
+            "text": "E",
             "id": 4,
             "bbox": [
-                797,
-                786,
-                884,
-                805
+                336,
+                308,
+                338,
+                319
             ]
         },
         {
-            "text": "2,765.00",
+            "text": ":",
             "id": 5,
             "bbox": [
-                805,
-                643,
-                890,
-                659
+                341,
+                308,
+                343,
+                319
             ]
         },
         {
-            "text": "BALENCIAGAWOMEN",
+            "text": "138.00",
             "id": 6,
             "bbox": [
-                33,
-                629,
-                199,
-                654
+                480,
+                740,
+                518,
+                752
             ]
         },
         {
-            "text": "BAG:BALENCIAGA",
+            "text": "\u0648\u0647",
             "id": 7,
             "bbox": [
-                210,
-                623,
-                364,
-                648
+                501,
+                495,
+                509,
+                507
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "\u062f\u06cc\u0648",
             "id": 8,
             "bbox": [
-                374,
-                624,
-                438,
-                638
+                482,
+                557,
+                511,
+                568
             ]
         },
         {
-            "text": "BAGS",
+            "text": "NINE",
             "id": 9,
             "bbox": [
-                451,
-                618,
-                494,
-                638
+                254,
+                509,
+                271,
+                523
             ]
         },
         {
-            "text": "Ie",
+            "text": "REACT",
             "id": 10,
             "bbox": [
+                279,
                 509,
-                619,
-                601,
-                636
+                302,
+                523
             ]
         },
         {
-            "text": "L",
+            "text": "PHANTOM",
             "id": 11,
             "bbox": [
-                609,
-                619,
-                616,
-                629
+                306,
+                509,
+                339,
+                523
             ]
         },
         {
-            "text": "s",
+            "text": "RONFU",
             "id": 12,
             "bbox": [
-                682,
-                611,
-                693,
-                629
+                346,
+                509,
+                372,
+                523
+            ]
+        },
+        {
+            "text": "2",
+            "id": 13,
+            "bbox": [
+                378,
+                509,
+                381,
+                523
+            ]
+        },
+        {
+            "text": "AIR",
+            "id": 14,
+            "bbox": [
+                252,
+                571,
+                267,
+                584
+            ]
+        },
+        {
+            "text": "ZOOM",
+            "id": 15,
+            "bbox": [
+                272,
+                571,
+                291,
+                584
+            ]
+        },
+        {
+            "text": "PEGASUS",
+            "id": 16,
+            "bbox": [
+                296,
+                571,
+                328,
+                584
+            ]
+        },
+        {
+            "text": "37",
+            "id": 17,
+            "bbox": [
+                335,
+                571,
+                343,
+                584
+            ]
+        },
+        {
+            "text": "FLYERSE",
+            "id": 18,
+            "bbox": [
+                348,
+                571,
+                381,
+                584
+            ]
+        },
+        {
+            "text": "0227-007\u0631\u0645",
+            "id": 19,
+            "bbox": [
+                254,
+                491,
+                314,
+                507
+            ]
+        },
+        {
+            "text": "23434",
+            "id": 20,
+            "bbox": [
+                262,
+                558,
+                290,
+                569
+            ]
+        },
+        {
+            "text": "\u062f\u062f",
+            "id": 21,
+            "bbox": [
+                339,
+                527,
+                344,
+                539
+            ]
+        },
+        {
+            "text": ")",
+            "id": 22,
+            "bbox": [
+                335,
+                527,
+                336,
+                539
+            ]
+        },
+        {
+            "text": "\u0648",
+            "id": 23,
+            "bbox": [
+                330,
+                527,
+                332,
+                539
+            ]
+        },
+        {
+            "text": "\u062a\u0623\u064a\u062f\u0647",
+            "id": 24,
+            "bbox": [
+                306,
+                527,
+                324,
+                539
+            ]
+        },
+        {
+            "text": "\u0628\u0646\u0627\u062f\u0647",
+            "id": 25,
+            "bbox": [
+                281,
+                527,
+                300,
+                539
+            ]
+        },
+        {
+            "text": "\u0641\u0627\u0646\u062a\u0648\u0645",
+            "id": 26,
+            "bbox": [
+                254,
+                527,
+                277,
+                539
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BALENCIAGAWOMEN",
-                "BAG:BALENCIAGA",
-                "WOMENS",
-                "BAGS"
+                "E",
+                ":"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9
+                4,
+                5
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Ie",
-                "L",
-                "s"
+                "0227-007\u0631\u0645",
+                "23434"
             ],
             "value_id": [
-                10,
-                11,
-                12
+                19,
+                20
             ]
         },
         {
@@ -159,8 +293,82 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jun,",
-                "2020"
+                "7"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0648\u0647",
+                "\u062f\u06cc\u0648"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062f\u062f",
+                ")",
+                "\u0648",
+                "\u062a\u0623\u064a\u062f\u0647",
+                "\u0628\u0646\u0627\u062f\u0647",
+                "\u0641\u0627\u0646\u062a\u0648\u0645"
+            ],
+            "value_id": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NINE",
+                "REACT",
+                "PHANTOM",
+                "RONFU",
+                "2",
+                "AIR",
+                "ZOOM",
+                "PEGASUS",
+                "37",
+                "FLYERSE"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NIKE",
+                "BEACON"
             ],
             "value_id": [
                 1,
@@ -172,32 +380,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,765.00"
+                "138.00"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:13"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,765.00"
-            ],
-            "value_id": [
-                5
+                6
             ]
         }
     ],

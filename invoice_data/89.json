@@ -1,236 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "DOLCE",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                253,
-                246,
-                353,
-                282
-            ]
-        },
-        {
-            "text": "&",
-            "id": 2,
-            "bbox": [
-                359,
-                271,
-                370,
-                284
-            ]
-        },
-        {
-            "text": "GABBANA",
-            "id": 3,
-            "bbox": [
-                377,
-                246,
-                539,
-                289
-            ]
-        },
-        {
-            "text": "July,",
-            "id": 4,
-            "bbox": [
-                532,
-                335,
-                558,
-                344
-            ]
-        },
-        {
-            "text": "10",
-            "id": 5,
-            "bbox": [
-                570,
-                336,
-                579,
-                343
+                294,
+                338,
+                518,
+                384
             ]
         },
         {
             "text": "2020",
+            "id": 2,
+            "bbox": [
+                475,
+                442,
+                500,
+                455
+            ]
+        },
+        {
+            "text": ",",
+            "id": 3,
+            "bbox": [
+                465,
+                442,
+                468,
+                455
+            ]
+        },
+        {
+            "text": "3",
+            "id": 4,
+            "bbox": [
+                461,
+                442,
+                464,
+                455
+            ]
+        },
+        {
+            "text": "\u0627\u0627\u0644",
+            "id": 5,
+            "bbox": [
+                429,
+                442,
+                441,
+                455
+            ]
+        },
+        {
+            "text": "15:33",
             "id": 6,
             "bbox": [
-                587,
-                336,
-                610,
-                343
+                511,
+                442,
+                540,
+                455
             ]
         },
         {
-            "text": "20:11",
+            "text": "16.290.00",
             "id": 7,
             "bbox": [
-                618,
-                337,
-                645,
-                346
+                543,
+                782,
+                602,
+                794
             ]
         },
         {
-            "text": "1,515.00",
+            "text": "18,290,00",
             "id": 8,
             "bbox": [
-                570,
-                631,
-                613,
-                641
+                620,
+                619,
+                674,
+                636
             ]
         },
         {
-            "text": "1,515.00",
+            "text": "1",
             "id": 9,
             "bbox": [
-                578,
-                554,
+                397,
                 623,
-                564
+                400,
+                632
             ]
         },
         {
-            "text": "009413653375",
+            "text": "1",
             "id": 10,
             "bbox": [
-                159,
-                521,
-                229,
-                532
+                395,
+                659,
+                399,
+                670
             ]
         },
         {
-            "text": "30263950300:DG",
+            "text": "FLAPBAG",
             "id": 11,
             "bbox": [
-                237,
-                523,
-                320,
-                535
+                122,
+                615,
+                178,
+                630
             ]
         },
         {
-            "text": "VELVET",
+            "text": "6708SY8333994305",
             "id": 12,
             "bbox": [
-                327,
-                528,
-                362,
-                536
+                133,
+                632,
+                241,
+                646
             ]
         },
         {
-            "text": "DESERT",
+            "text": "\u0645",
             "id": 13,
             "bbox": [
-                369,
-                530,
-                403,
-                538
-            ]
-        },
-        {
-            "text": "OUD",
-            "id": 14,
-            "bbox": [
-                410,
-                531,
-                427,
-                538
-            ]
-        },
-        {
-            "text": "EDP",
-            "id": 15,
-            "bbox": [
-                434,
-                530,
-                451,
-                539
-            ]
-        },
-        {
-            "text": "liy",
-            "id": 16,
-            "bbox": [
-                519,
-                533,
-                558,
-                543
+                122,
+                633,
+                123,
+                645
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "30263950300:DG",
-                "VELVET",
-                "DESERT",
-                "OUD",
-                "EDP"
+                "15:33"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "liy"
-            ],
-            "value_id": [
-                16
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "10",
-                "2020"
-            ],
-            "value_id": [
-                4,
-                5,
                 6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DOLCE",
-                "&",
-                "GABBANA"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,515.00"
-            ],
-            "value_id": [
-                8
             ]
         },
         {
@@ -238,21 +148,29 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "009413653375"
+                "6708SY8333994305",
+                "\u0645"
             ],
             "value_id": [
-                10
+                12,
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:11"
+                "2020",
+                ",",
+                "3",
+                "\u0627\u0627\u0644"
             ],
             "value_id": [
-                7
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -260,10 +178,65 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,515.00"
+                "18,290,00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FLAPBAG"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16.290.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

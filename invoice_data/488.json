@@ -1,131 +1,147 @@
 {
     "text_boxes": [
         {
-            "text": "Datei7",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                460,
-                381,
-                491,
-                391
+                312,
+                50,
+                431,
+                91
             ]
         },
         {
-            "text": "Jul,",
+            "text": "15:07",
             "id": 2,
             "bbox": [
-                499,
-                383,
-                518,
-                390
+                223,
+                135,
+                258,
+                150
+            ]
+        },
+        {
+            "text": "-",
+            "id": 3,
+            "bbox": [
+                261,
+                136,
+                264,
+                149
             ]
         },
         {
             "text": "2020",
-            "id": 3,
-            "bbox": [
-                527,
-                384,
-                548,
-                392
-            ]
-        },
-        {
-            "text": "12118",
             "id": 4,
             "bbox": [
-                556,
-                384,
-                581,
-                393
+                266,
+                136,
+                295,
+                151
             ]
         },
         {
-            "text": "1,775.00",
+            "text": "17:44",
             "id": 5,
             "bbox": [
-                592,
-                577,
-                636,
-                587
+                305,
+                137,
+                337,
+                152
             ]
         },
         {
-            "text": "1,775.00",
+            "text": "139",
             "id": 6,
             "bbox": [
-                596,
-                508,
-                639,
-                516
+                464,
+                335,
+                483,
+                349
             ]
         },
         {
-            "text": "FENDI",
+            "text": "129",
             "id": 7,
             "bbox": [
-                206,
-                479,
-                231,
-                487
+                465,
+                210,
+                482,
+                224
             ]
         },
         {
-            "text": "MON",
+            "text": "132",
             "id": 8,
             "bbox": [
-                239,
-                479,
-                271,
-                489
+                296,
+                217,
+                315,
+                233
+            ]
+        },
+        {
+            "text": "1352604043",
+            "id": 9,
+            "bbox": [
+                318,
+                218,
+                389,
+                236
+            ]
+        },
+        {
+            "text": "SPORT",
+            "id": 10,
+            "bbox": [
+                405,
+                223,
+                439,
+                241
             ]
         },
         {
             "text": "SHOES",
-            "id": 9,
+            "id": 11,
             "bbox": [
-                279,
-                480,
-                305,
-                492
+                448,
+                225,
+                483,
+                244
             ]
         },
         {
-            "text": "yal",
-            "id": 10,
+            "text": "10001163",
+            "id": 12,
             "bbox": [
-                352,
-                484,
-                375,
-                494
+                221,
+                214,
+                278,
+                231
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FENDI",
-                "MON",
-                "SHOES"
+                "17:44"
             ],
             "value_id": [
-                7,
-                8,
-                9
+                5
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "yal"
+                "10001163"
             ],
             "value_id": [
-                10
+                12
             ]
         },
         {
@@ -133,35 +149,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Datei7",
-                "Jul,",
+                "15:07",
+                "-",
                 "2020"
             ],
             "value_id": [
-                1,
                 2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,775.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12118"
-            ],
-            "value_id": [
+                3,
                 4
             ]
         },
@@ -170,7 +164,46 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,775.00"
+                "129"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "132",
+                "1352604043",
+                "SPORT",
+                "SHOES"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "139"
             ],
             "value_id": [
                 6

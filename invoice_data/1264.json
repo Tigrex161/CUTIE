@@ -1,0 +1,306 @@
+{
+    "text_boxes": [
+        {
+            "text": "Boggi",
+            "id": 1,
+            "bbox": [
+                290,
+                293,
+                357,
+                321
+            ]
+        },
+        {
+            "text": "Dubai",
+            "id": 2,
+            "bbox": [
+                372,
+                287,
+                442,
+                315
+            ]
+        },
+        {
+            "text": "Mall",
+            "id": 3,
+            "bbox": [
+                458,
+                282,
+                516,
+                309
+            ]
+        },
+        {
+            "text": "17/07/2020",
+            "id": 4,
+            "bbox": [
+                359,
+                1182,
+                464,
+                1205
+            ]
+        },
+        {
+            "text": "5:31:36",
+            "id": 5,
+            "bbox": [
+                538,
+                1173,
+                608,
+                1195
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 6,
+            "bbox": [
+                614,
+                1171,
+                633,
+                1189
+            ]
+        },
+        {
+            "text": "3,480.00",
+            "id": 7,
+            "bbox": [
+                543,
+                857,
+                633,
+                874
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                297,
+                729,
+                303,
+                738
+            ]
+        },
+        {
+            "text": "3,480.0",
+            "id": 9,
+            "bbox": [
+                572,
+                670,
+                641,
+                685
+            ]
+        },
+        {
+            "text": "3",
+            "id": 10,
+            "bbox": [
+                463,
+                642,
+                468,
+                661
+            ]
+        },
+        {
+            "text": "Fe",
+            "id": 11,
+            "bbox": [
+                366,
+                642,
+                405,
+                661
+            ]
+        },
+        {
+            "text": ":",
+            "id": 12,
+            "bbox": [
+                405,
+                642,
+                409,
+                661
+            ]
+        },
+        {
+            "text": "Li",
+            "id": 13,
+            "bbox": [
+                425,
+                642,
+                446,
+                661
+            ]
+        },
+        {
+            "text": "\u06a9\u06cc",
+            "id": 14,
+            "bbox": [
+                352,
+                642,
+                355,
+                661
+            ]
+        },
+        {
+            "text": "50000853800S",
+            "id": 15,
+            "bbox": [
+                167,
+                639,
+                294,
+                658
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0627\u062f\u0644\u0629",
+            "id": 16,
+            "bbox": [
+                599,
+                644,
+                648,
+                663
+            ]
+        },
+        {
+            "text": "\u0645\u0646",
+            "id": 17,
+            "bbox": [
+                566,
+                643,
+                591,
+                662
+            ]
+        },
+        {
+            "text": "\u0642\u0637\u0639\u0644\u064a",
+            "id": 18,
+            "bbox": [
+                496,
+                643,
+                556,
+                663
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5:31:36",
+                "PM"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "50000853800S"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17/07/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,480.0"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0644\u0627\u062f\u0644\u0629",
+                "\u0645\u0646",
+                "\u0642\u0637\u0639\u0644\u064a"
+            ],
+            "value_id": [
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3",
+                "Fe",
+                ":",
+                "Li",
+                "\u06a9\u06cc"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Boggi",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,480.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1264.jpg"
+    }
+}

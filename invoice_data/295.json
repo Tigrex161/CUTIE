@@ -1,154 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "Apple",
+            "text": "SCOTCH",
             "id": 1,
             "bbox": [
-                198,
-                334,
-                223,
-                342
+                272,
+                261,
+                362,
+                283
             ]
         },
         {
-            "text": "Dubai",
+            "text": "&",
             "id": 2,
             "bbox": [
-                228,
-                333,
-                254,
-                341
+                372,
+                261,
+                377,
+                283
             ]
         },
         {
-            "text": "Mall",
+            "text": "SODA",
             "id": 3,
             "bbox": [
-                257,
-                333,
-                276,
-                340
+                387,
+                261,
+                446,
+                283
             ]
         },
         {
-            "text": "27/06/20",
+            "text": "04/07/20",
             "id": 4,
             "bbox": [
-                198,
-                1396,
-                238,
-                1403
+                149,
+                382,
+                279,
+                419
             ]
         },
         {
-            "text": "15:14",
+            "text": "8:56",
             "id": 5,
             "bbox": [
-                248,
-                1395,
-                269,
-                1403
+                315,
+                384,
+                379,
+                420
             ]
         },
         {
-            "text": "199.00",
+            "text": "385",
             "id": 6,
             "bbox": [
-                602,
-                994,
-                630,
-                1002
+                649,
+                827,
+                697,
+                856
             ]
         },
         {
-            "text": "199.00",
+            "text": "385",
             "id": 7,
             "bbox": [
-                605,
-                909,
-                630,
-                917
+                651,
+                654,
+                700,
+                687
             ]
         },
         {
-            "text": "IPAD",
+            "text": "1",
             "id": 8,
             "bbox": [
-                198,
-                758,
-                219,
-                764
+                363,
+                647,
+                375,
+                688
             ]
         },
         {
-            "text": "SMART",
+            "text": "SHIRTS",
             "id": 9,
             "bbox": [
-                222,
-                758,
-                254,
-                765
+                160,
+                643,
+                259,
+                687
             ]
         },
         {
-            "text": "COVER",
+            "text": "L",
             "id": 10,
             "bbox": [
-                257,
-                758,
-                287,
-                765
+                278,
+                646,
+                293,
+                687
             ]
         },
         {
-            "text": "SURF",
+            "text": "/",
             "id": 11,
             "bbox": [
-                291,
-                757,
-                313,
-                765
+                295,
+                646,
+                310,
+                687
             ]
         },
         {
-            "text": "BLUE-ZEE",
+            "text": "S",
             "id": 12,
             "bbox": [
-                318,
-                757,
-                359,
-                764
+                312,
+                646,
+                326,
+                687
             ]
         },
         {
-            "text": "MXTF2ZE/A",
+            "text": "A057424",
             "id": 13,
             "bbox": [
-                258,
-                776,
-                308,
-                784
+                27,
+                641,
+                141,
+                685
+            ]
+        },
+        {
+            "text": "\u0642\u0645\u064a\u0635",
+            "id": 14,
+            "bbox": [
+                144,
+                684,
+                185,
+                720
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "IPAD",
-                "SMART",
-                "COVER",
-                "SURF",
-                "BLUE-ZEE"
+                "8:56"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A057424"
+            ],
+            "value_id": [
+                13
             ]
         },
         {
@@ -156,10 +169,49 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "27/06/20"
+                "04/07/20"
             ],
             "value_id": [
                 4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "385"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0642\u0645\u064a\u0635"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SHIRTS",
+                "L",
+                "/",
+                "S"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
             ]
         },
         {
@@ -167,9 +219,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Apple",
-                "Dubai",
-                "Mall"
+                "SCOTCH",
+                "&",
+                "SODA"
             ],
             "value_id": [
                 1,
@@ -178,47 +230,25 @@
             ]
         },
         {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "199.00"
+                "385"
             ],
             "value_id": [
                 6
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MXTF2ZE/A"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15:14"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "199.00"
-            ],
-            "value_id": [
-                7
             ]
         }
     ],

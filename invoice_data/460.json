@@ -1,254 +1,206 @@
 {
     "text_boxes": [
         {
-            "text": "Charlotte",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                277,
-                220,
-                323,
-                231
+                300,
+                279,
+                384,
+                295
             ]
         },
         {
-            "text": "Tilbury",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                328,
-                222,
-                362,
-                232
+                397,
+                279,
+                492,
+                295
             ]
         },
         {
-            "text": "1632",
+            "text": "11/07/20",
             "id": 3,
             "bbox": [
-                489,
-                469,
-                510,
-                478
+                250,
+                545,
+                332,
+                565
             ]
         },
         {
-            "text": "1.0",
+            "text": "15:58",
             "id": 4,
             "bbox": [
-                433,
-                610,
-                443,
-                620
+                346,
+                544,
+                396,
+                564
             ]
         },
         {
-            "text": "160.00",
+            "text": "3,760.00",
             "id": 5,
             "bbox": [
-                486,
-                606,
-                513,
-                618
+                539,
+                878,
+                622,
+                898
             ]
         },
         {
-            "text": "1.0",
+            "text": "1,980,00",
             "id": 6,
             "bbox": [
-                435,
-                672,
-                445,
-                680
+                537,
+                720,
+                618,
+                742
             ]
         },
         {
-            "text": "160.00",
+            "text": "1,780.00",
             "id": 7,
             "bbox": [
-                488,
-                667,
-                513,
-                678
+                538,
+                773,
+                620,
+                794
             ]
         },
         {
-            "text": "MAGIC",
+            "text": "1",
             "id": 8,
             "bbox": [
-                275,
-                576,
-                305,
-                586
+                191,
+                754,
+                196,
+                771
             ]
         },
         {
-            "text": "AWAY",
+            "text": "1",
             "id": 9,
             "bbox": [
-                310,
-                574,
-                335,
-                585
+                191,
+                809,
+                196,
+                825
             ]
         },
         {
-            "text": "LIQUID",
+            "text": "BAGS",
             "id": 10,
             "bbox": [
-                339,
-                572,
-                370,
-                584
+                179,
+                730,
+                219,
+                747
             ]
         },
         {
-            "text": "CONCEALER",
+            "text": "LOUIS",
             "id": 11,
             "bbox": [
-                374,
-                570,
-                431,
-                582
+                234,
+                729,
+                282,
+                745
             ]
         },
         {
-            "text": "-",
+            "text": "VUITTON",
             "id": 12,
             "bbox": [
-                438,
-                569,
-                442,
-                581
+                296,
+                726,
+                366,
+                744
             ]
         },
         {
-            "text": "55",
+            "text": "S",
             "id": 13,
             "bbox": [
-                441,
-                569,
-                453,
-                578
+                383,
+                727,
+                386,
+                742
             ]
         },
         {
-            "text": "Lle",
+            "text": "BAGS",
             "id": 14,
             "bbox": [
-                276,
-                589,
-                297,
-                601
+                179,
+                781,
+                219,
+                802
             ]
         },
         {
-            "text": "CHAS0B0542724913",
+            "text": "LOUIS",
             "id": 15,
             "bbox": [
-                278,
-                614,
-                366,
-                628
+                234,
+                780,
+                283,
+                800
             ]
         },
         {
-            "text": "06/07/2020",
+            "text": "VUITTON",
             "id": 16,
             "bbox": [
-                437,
-                470,
-                484,
-                481
+                297,
+                777,
+                367,
+                799
+            ]
+        },
+        {
+            "text": "S",
+            "id": 17,
+            "bbox": [
+                380,
+                777,
+                388,
+                796
+            ]
+        },
+        {
+            "text": "900906112",
+            "id": 18,
+            "bbox": [
+                233,
+                751,
+                327,
+                771
+            ]
+        },
+        {
+            "text": "900906112",
+            "id": 19,
+            "bbox": [
+                234,
+                804,
+                327,
+                824
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.0"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MAGIC",
-                "AWAY",
-                "LIQUID",
-                "CONCEALER",
-                "-",
-                "55"
-            ],
-            "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Lle"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.0"
+                "15:58"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "06/07/2020"
-            ],
-            "value_id": [
-                16
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Charlotte",
-                "Tilbury"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "160.00"
-            ],
-            "value_id": [
-                7
             ]
         },
         {
@@ -256,18 +208,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CHAS0B0542724913"
+                "900906112",
+                "900906112"
             ],
             "value_id": [
-                15
+                18,
+                19
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1632"
+                "11/07/20"
             ],
             "value_id": [
                 3
@@ -278,7 +232,71 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "160.00"
+                "1,980,00",
+                "1,780.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BAGS",
+                "LOUIS",
+                "VUITTON",
+                "S",
+                "BAGS",
+                "LOUIS",
+                "VUITTON",
+                "S"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,760.00"
             ],
             "value_id": [
                 5

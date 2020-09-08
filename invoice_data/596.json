@@ -1,157 +1,76 @@
 {
     "text_boxes": [
         {
-            "text": "09/07/2020",
+            "text": "mi",
             "id": 1,
             "bbox": [
-                394,
-                2549,
-                521,
-                2576
+                437,
+                79,
+                491,
+                132
             ]
         },
         {
-            "text": "18:45:51",
+            "text": "29-06-2020",
             "id": 2,
             "bbox": [
-                527,
-                2549,
-                622,
-                2569
+                250,
+                340,
+                316,
+                357
             ]
         },
         {
-            "text": "3,800.00",
+            "text": "12:31",
             "id": 3,
             "bbox": [
-                1875,
-                2133,
-                1954,
-                2149
+                327,
+                339,
+                357,
+                355
             ]
         },
         {
-            "text": "3,800.00",
+            "text": "169",
             "id": 4,
             "bbox": [
-                1862,
-                2016,
-                1950,
-                2039
+                481,
+                408,
+                500,
+                422
             ]
         },
         {
-            "text": "1",
+            "text": "100010580026405180603",
             "id": 5,
             "bbox": [
-                1036,
-                2039,
-                1044,
-                2052
+                249,
+                424,
+                410,
+                441
             ]
         },
         {
-            "text": "DIAMANTS",
+            "text": "DRESS",
             "id": 6,
             "bbox": [
-                455,
-                2009,
-                543,
-                2024
-            ]
-        },
-        {
-            "text": "LEGERS",
-            "id": 7,
-            "bbox": [
-                547,
-                2009,
-                608,
-                2024
-            ]
-        },
-        {
-            "text": "NECKLACE",
-            "id": 8,
-            "bbox": [
-                613,
-                2006,
-                697,
-                2021
-            ]
-        },
-        {
-            "text": "PG",
-            "id": 9,
-            "bbox": [
-                702,
-                2006,
-                724,
-                2018
-            ]
-        },
-        {
-            "text": "PINK",
-            "id": 10,
-            "bbox": [
-                730,
-                2005,
-                768,
-                2017
-            ]
-        },
-        {
-            "text": "SAPHIRE",
-            "id": 11,
-            "bbox": [
-                774,
-                2004,
-                844,
-                2018
-            ]
-        },
-        {
-            "text": "87218400",
-            "id": 12,
-            "bbox": [
-                564,
-                2032,
-                666,
-                2049
+                424,
+                424,
+                457,
+                441
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIAMANTS",
-                "LEGERS",
-                "NECKLACE",
-                "PG",
-                "PINK",
-                "SAPHIRE"
+                "12:31"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                5
+                3
             ]
         },
         {
@@ -159,40 +78,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "09/07/2020"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,800.00"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "87218400"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18:45:51"
+                "29-06-2020"
             ],
             "value_id": [
                 2
@@ -203,10 +89,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,800.00"
+                "169"
             ],
             "value_id": [
                 4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100010580026405180603",
+                "DRESS"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "mi"
+            ],
+            "value_id": [
+                1
             ]
         }
     ],

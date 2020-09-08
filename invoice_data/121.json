@@ -1,98 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "ZARA",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                358,
-                272,
-                440,
-                312
+                355,
+                407,
+                423,
+                431
             ]
         },
         {
-            "text": "05-07-2020",
+            "text": "NOMA",
             "id": 2,
             "bbox": [
-                295,
-                453,
-                341,
-                460
+                379,
+                430,
+                397,
+                437
             ]
         },
         {
-            "text": "13:26",
+            "text": "T120",
             "id": 3,
             "bbox": [
-                349,
-                454,
-                370,
-                460
+                196,
+                419,
+                227,
+                430
             ]
         },
         {
-            "text": "19",
+            "text": "121",
             "id": 4,
             "bbox": [
-                449,
-                594,
-                461,
+                234,
+                418,
+                257,
+                428
+            ]
+        },
+        {
+            "text": "TO",
+            "id": 5,
+            "bbox": [
+                588,
+                638,
+                610,
+                646
+            ]
+        },
+        {
+            "text": "11330",
+            "id": 6,
+            "bbox": [
+                591,
+                588,
+                613,
+                596
+            ]
+        },
+        {
+            "text": "FOCARNOFF",
+            "id": 7,
+            "bbox": [
+                212,
+                589,
+                273,
+                602
+            ]
+        },
+        {
+            "text": "METAL",
+            "id": 8,
+            "bbox": [
+                276,
+                588,
+                301,
                 600
             ]
         },
         {
-            "text": "199",
-            "id": 5,
+            "text": "SOFT",
+            "id": 9,
             "bbox": [
-                452,
-                508,
-                464,
-                513
+                306,
+                588,
+                323,
+                599
             ]
         },
         {
-            "text": "082460804000s",
-            "id": 6,
+            "text": "GOLD",
+            "id": 10,
             "bbox": [
-                342,
-                516,
-                402,
-                525
-            ]
-        },
-        {
-            "text": "SKIRT",
-            "id": 7,
-            "bbox": [
-                413,
-                518,
-                435,
-                526
-            ]
-        },
-        {
-            "text": "10001200",
-            "id": 8,
-            "bbox": [
-                295,
-                514,
-                330,
-                521
+                327,
+                588,
+                345,
+                599
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "082460804000s",
-                "SKIRT"
+                "121"
             ],
             "value_id": [
-                6,
-                7
+                4
             ]
         },
         {
@@ -100,51 +118,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "05-07-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZARA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10001200"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:26"
+                "T120"
             ],
             "value_id": [
                 3
@@ -155,7 +129,48 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "199"
+                "11330"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FOCARNOFF",
+                "METAL",
+                "SOFT",
+                "GOLD"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "NOMA"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TO"
             ],
             "value_id": [
                 5

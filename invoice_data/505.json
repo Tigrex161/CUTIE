@@ -1,76 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdoles",
+            "text": "Jul",
             "id": 1,
             "bbox": [
-                233,
-                178,
-                461,
-                223
+                470,
+                310,
+                489,
+                324
             ]
         },
         {
-            "text": "15-Jul-2020",
+            "text": ",",
             "id": 2,
             "bbox": [
-                201,
-                312,
-                272,
-                327
+                492,
+                310,
+                494,
+                324
             ]
         },
         {
-            "text": "PM",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                372,
-                320,
-                385,
-                333
+                506,
+                310,
+                533,
+                324
             ]
         },
         {
-            "text": "1,042.00",
+            "text": "23:43",
             "id": 4,
             "bbox": [
-                415,
-                569,
-                469,
-                583
+                542,
+                310,
+                575,
+                324
             ]
         },
         {
-            "text": "1,042.00",
+            "text": "3,100,00",
             "id": 5,
             "bbox": [
-                415,
-                462,
-                469,
-                474
+                590,
+                558,
+                645,
+                571
             ]
         },
         {
-            "text": "MG",
+            "text": "3,100,00",
             "id": 6,
             "bbox": [
-                238,
-                464,
-                251,
-                473
+                592,
+                473,
+                646,
+                487
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                425,
+                476,
+                429,
+                486
+            ]
+        },
+        {
+            "text": "LOUIS",
+            "id": 8,
+            "bbox": [
+                103,
+                450,
+                137,
+                463
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 9,
+            "bbox": [
+                147,
+                450,
+                193,
+                465
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 10,
+            "bbox": [
+                202,
+                451,
+                243,
+                465
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 11,
+            "bbox": [
+                252,
+                451,
+                284,
+                465
+            ]
+        },
+        {
+            "text": "062111000",
+            "id": 12,
+            "bbox": [
+                102,
+                470,
+                171,
+                483
+            ]
+        },
+        {
+            "text": "\u0623\u0639\u0630\u0628\u0629",
+            "id": 13,
+            "bbox": [
+                347,
+                453,
+                382,
+                466
+            ]
+        },
+        {
+            "text": "\u0644\u0646\u0627\u0644\u0628\u0647\u0627",
+            "id": 14,
+            "bbox": [
+                293,
+                452,
+                340,
+                467
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MG"
+                "23:43"
             ],
             "value_id": [
-                6
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "062111000"
+            ],
+            "value_id": [
+                12
             ]
         },
         {
@@ -78,42 +169,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15-Jul-2020"
+                "Jul",
+                ",",
+                "2020"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "bloomingdoles"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,042.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "PM"
-            ],
-            "value_id": [
+                1,
+                2,
                 3
             ]
         },
@@ -122,7 +184,59 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,042.00"
+                "3,100,00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0623\u0639\u0630\u0628\u0629",
+                "\u0644\u0646\u0627\u0644\u0628\u0647\u0627"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "WOMENS",
+                "SHOES"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,100,00"
             ],
             "value_id": [
                 5

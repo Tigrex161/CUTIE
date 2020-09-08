@@ -1,245 +1,280 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "SEPHORA",
             "id": 1,
             "bbox": [
-                536,
-                438,
-                560,
-                448
+                284,
+                204,
+                333,
+                225
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 2,
+            "bbox": [
+                340,
+                208,
+                373,
+                228
+            ]
+        },
+        {
+            "text": "MALL",
+            "id": 3,
+            "bbox": [
+                381,
+                211,
+                407,
+                231
+            ]
+        },
+        {
+            "text": "July",
+            "id": 4,
+            "bbox": [
+                322,
+                1000,
+                352,
+                1021
+            ]
+        },
+        {
+            "text": "05",
+            "id": 5,
+            "bbox": [
+                361,
+                1000,
+                374,
+                1020
+            ]
+        },
+        {
+            "text": ",",
+            "id": 6,
+            "bbox": [
+                378,
+                1000,
+                383,
+                1019
             ]
         },
         {
             "text": "2020",
-            "id": 2,
-            "bbox": [
-                572,
-                439,
-                599,
-                448
-            ]
-        },
-        {
-            "text": "17:28",
-            "id": 3,
-            "bbox": [
-                608,
-                439,
-                641,
-                450
-            ]
-        },
-        {
-            "text": "level",
-            "id": 4,
-            "bbox": [
-                381,
-                234,
-                485,
-                306
-            ]
-        },
-        {
-            "text": "SHOES",
-            "id": 5,
-            "bbox": [
-                399,
-                315,
-                455,
-                325
-            ]
-        },
-        {
-            "text": "5,040.00",
-            "id": 6,
-            "bbox": [
-                653,
-                743,
-                708,
-                753
-            ]
-        },
-        {
-            "text": "4,200.00",
             "id": 7,
             "bbox": [
-                660,
-                604,
-                714,
-                614
+                385,
+                999,
+                411,
+                1019
             ]
         },
         {
-            "text": "840.00",
+            "text": "12:21:44",
             "id": 8,
             "bbox": [
-                675,
-                650,
-                715,
-                658
+                423,
+                998,
+                480,
+                1018
+            ]
+        },
+        {
+            "text": "177.00",
+            "id": 9,
+            "bbox": [
+                443,
+                579,
+                483,
+                596
             ]
         },
         {
             "text": "1",
-            "id": 9,
-            "bbox": [
-                493,
-                651,
-                495,
-                659
-            ]
-        },
-        {
-            "text": "DIOR",
             "id": 10,
             "bbox": [
-                166,
+                280,
                 581,
-                192,
-                589
+                284,
+                598
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "70",
             "id": 11,
             "bbox": [
-                201,
-                581,
-                242,
-                589
+                308,
+                524,
+                322,
+                547
             ]
         },
         {
-            "text": "DIOR",
+            "text": "GLOW",
             "id": 12,
             "bbox": [
-                164,
-                627,
-                191,
-                635
+                332,
+                524,
+                354,
+                547
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "ENZYME",
             "id": 13,
             "bbox": [
-                199,
-                627,
-                240,
-                636
+                365,
+                524,
+                404,
+                547
             ]
         },
         {
-            "text": "L",
+            "text": "SCRLIE",
             "id": 14,
             "bbox": [
-                287,
-                581,
-                316,
-                591
+                413,
+                524,
+                447,
+                547
             ]
         },
         {
-            "text": "ie",
+            "text": "100M",
             "id": 15,
             "bbox": [
-                337,
-                581,
-                369,
-                591
+                458,
+                525,
+                484,
+                548
             ]
         },
         {
-            "text": "y,",
+            "text": "177.00",
             "id": 16,
             "bbox": [
-                379,
-                581,
-                412,
-                590
+                399,
+                648,
+                481,
+                667
             ]
         },
         {
-            "text": "olaiis",
+            "text": "1",
             "id": 17,
             "bbox": [
-                420,
-                581,
-                463,
-                590
+                487,
+                962,
+                491,
+                980
             ]
         },
         {
-            "text": "i",
+            "text": "398414953006",
             "id": 18,
             "bbox": [
-                336,
-                629,
-                369,
-                638
-            ]
-        },
-        {
-            "text": "il,",
-            "id": 19,
-            "bbox": [
-                379,
-                628,
-                411,
-                638
-            ]
-        },
-        {
-            "text": "olaiis",
-            "id": 20,
-            "bbox": [
-                420,
-                629,
-                462,
-                637
+                186,
+                524,
+                272,
+                547
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:21:44"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "398414953006"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "05",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "177.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR",
-                "WOMENS",
-                "DIOR",
-                "WOMENS"
+                "70",
+                "GLOW",
+                "ENZYME",
+                "SCRLIE",
+                "100M"
             ],
             "value_id": [
-                10,
                 11,
                 12,
-                13
+                13,
+                14,
+                15
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L",
-                "ie",
-                "y,",
-                "olaiis",
-                "i",
-                "il,",
-                "olaiis"
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
             ],
             "value_id": [
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                17
             ]
         },
         {
@@ -250,33 +285,7 @@
                 "1"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "level",
-                "SHOES"
-            ],
-            "value_id": [
-                4,
-                5
+                10
             ]
         },
         {
@@ -284,34 +293,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5,040.00"
+                "177.00"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:28"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4,200.00",
-                "840.00"
-            ],
-            "value_id": [
-                7,
-                8
+                16
             ]
         }
     ],

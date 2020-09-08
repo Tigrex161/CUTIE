@@ -1,138 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "CHANEL",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                325,
-                210,
-                540,
-                246
+                369,
+                191,
+                405,
+                208
             ]
         },
         {
-            "text": "July",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                451,
-                305,
-                470,
-                314
+                411,
+                190,
+                467,
+                207
             ]
         },
         {
-            "text": "26,",
+            "text": "20/092020",
             "id": 3,
             "bbox": [
-                476,
-                305,
-                490,
-                314
+                560,
+                383,
+                617,
+                397
             ]
         },
         {
-            "text": "2020",
+            "text": "15:41",
             "id": 4,
             "bbox": [
-                497,
-                304,
-                521,
-                312
+                637,
+                383,
+                663,
+                397
             ]
         },
         {
-            "text": "12:37",
+            "text": "320,00",
             "id": 5,
             "bbox": [
-                531,
-                304,
-                559,
-                312
+                712,
+                592,
+                750,
+                602
             ]
         },
         {
-            "text": "2,810.00",
+            "text": "140.00",
             "id": 6,
             "bbox": [
-                655,
-                520,
-                702,
-                529
+                703,
+                441,
+                737,
+                451
             ]
         },
         {
-            "text": "2,600.00",
+            "text": "3",
             "id": 7,
             "bbox": [
-                652,
-                471,
-                699,
-                482
+                321,
+                442,
+                324,
+                452
             ]
         },
         {
-            "text": "5,410.00",
+            "text": "613",
             "id": 8,
             "bbox": [
-                581,
-                693,
-                632,
-                704
+                86,
+                444,
+                110,
+                458
             ]
         },
         {
-            "text": "RING",
+            "text": ")",
             "id": 9,
             "bbox": [
-                153,
-                477,
-                183,
-                484
+                115,
+                444,
+                117,
+                456
             ]
         },
         {
-            "text": "NECKLACE",
+            "text": "TE",
             "id": 10,
             "bbox": [
-                151,
-                521,
-                213,
-                532
+                130,
+                443,
+                145,
+                456
             ]
         },
         {
-            "text": "AB4280B03543N7886",
+            "text": "CAR",
             "id": 11,
             "bbox": [
-                150,
-                551,
-                269,
-                561
+                152,
+                442,
+                167,
+                455
             ]
         },
         {
-            "text": "AB4042B03185N7300",
+            "text": ",",
             "id": 12,
             "bbox": [
-                152,
-                506,
-                270,
-                515
+                172,
+                442,
+                173,
+                454
+            ]
+        },
+        {
+            "text": "SIM",
+            "id": 13,
+            "bbox": [
+                176,
+                442,
+                190,
+                454
+            ]
+        },
+        {
+            "text": ".",
+            "id": 14,
+            "bbox": [
+                200,
+                441,
+                201,
+                453
+            ]
+        },
+        {
+            "text": "MNG",
+            "id": 15,
+            "bbox": [
+                201,
+                440,
+                222,
+                454
+            ]
+        },
+        {
+            "text": "SMALL",
+            "id": 16,
+            "bbox": [
+                86,
+                456,
+                112,
+                468
+            ]
+        },
+        {
+            "text": "LEATHER",
+            "id": 17,
+            "bbox": [
+                119,
+                453,
+                157,
+                466
+            ]
+        },
+        {
+            "text": "0000",
+            "id": 18,
+            "bbox": [
+                163,
+                451,
+                192,
+                463
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RING",
-                "NECKLACE"
+                "15:41"
             ],
             "value_id": [
-                9,
-                10
+                4
             ]
         },
         {
@@ -140,60 +198,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "26,",
-                "2020"
+                "20/092020"
             ],
             "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CHANEL"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "5,410.00"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AB4280B03543N7886",
-                "AB4042B03185N7300"
-            ],
-            "value_id": [
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:37"
-            ],
-            "value_id": [
-                5
+                3
             ]
         },
         {
@@ -201,12 +209,76 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,810.00",
-                "2,600.00"
+                "140.00"
             ],
             "value_id": [
-                6,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "613",
+                ")",
+                "TE",
+                "CAR",
+                ",",
+                "SIM",
+                ".",
+                "MNG",
+                "SMALL",
+                "LEATHER",
+                "0000"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3"
+            ],
+            "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "320,00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

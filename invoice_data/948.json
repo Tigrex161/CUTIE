@@ -1,259 +1,207 @@
 {
     "text_boxes": [
         {
-            "text": "firingle",
+            "text": "Missguided",
             "id": 1,
             "bbox": [
-                331,
-                136,
-                491,
-                223
+                219,
+                185,
+                322,
+                210
             ]
         },
         {
-            "text": "01:03",
+            "text": "Dubai",
             "id": 2,
             "bbox": [
-                352,
-                635,
-                388,
-                650
+                332,
+                183,
+                382,
+                205
             ]
         },
         {
-            "text": "PM",
+            "text": "Mall",
             "id": 3,
             "bbox": [
-                396,
-                636,
-                410,
-                647
+                394,
+                180,
+                434,
+                202
             ]
         },
         {
-            "text": "152.00",
+            "text": "207010",
             "id": 4,
             "bbox": [
-                530,
-                968,
-                575,
-                981
+                283,
+                995,
+                358,
+                1013
             ]
         },
         {
-            "text": "130.00",
+            "text": "109.00",
             "id": 5,
             "bbox": [
-                533,
-                796,
-                575,
-                811
+                457,
+                568,
+                505,
+                582
             ]
         },
         {
-            "text": "22.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                542,
-                888,
-                579,
-                904
+                254,
+                533,
+                257,
+                543
             ]
         },
         {
-            "text": "2",
+            "text": "1090",
             "id": 7,
             "bbox": [
-                337,
-                892,
-                343,
-                905
+                471,
+                485,
+                505,
+                501
             ]
         },
         {
-            "text": "5",
+            "text": "\u0646\u0627\u0646\u0648",
             "id": 8,
             "bbox": [
-                338,
-                800,
-                344,
-                812
+                462,
+                468,
+                484,
+                485
             ]
         },
         {
-            "text": "Cappuccino",
+            "text": "\u0631\u0627",
             "id": 9,
             "bbox": [
-                271,
-                763,
-                344,
-                777
+                446,
+                468,
+                457,
+                484
             ]
         },
         {
-            "text": "Aqua",
+            "text": "\u0645\u062d\u0648",
             "id": 10,
             "bbox": [
-                270,
-                856,
-                299,
-                869
+                402,
+                468,
+                434,
+                484
             ]
         },
         {
-            "text": "Morelli",
+            "text": "\u0645\u0627",
             "id": 11,
             "bbox": [
-                308,
-                852,
-                357,
-                868
+                385,
+                468,
+                399,
+                484
             ]
         },
         {
-            "text": "small",
+            "text": "T",
             "id": 12,
             "bbox": [
-                368,
-                852,
-                402,
-                867
+                342,
+                467,
+                349,
+                483
             ]
         },
         {
-            "text": "\u0644\u0627",
+            "text": "\u0648",
             "id": 13,
             "bbox": [
-                332,
-                782,
-                338,
-                790
+                316,
+                467,
+                320,
+                483
             ]
         },
         {
-            "text": "\u0627\u0628\u0648",
+            "text": "H",
             "id": 14,
             "bbox": [
-                311,
-                782,
-                327,
-                794
+                290,
+                467,
+                293,
+                483
             ]
         },
         {
-            "text": "\u062a\u0634\u06cc\u0646\u062f",
+            "text": "woven",
             "id": 15,
             "bbox": [
-                273,
-                783,
-                308,
-                794
+                289,
+                467,
+                331,
+                483
             ]
         },
         {
-            "text": "\u0645\u0627\u0621",
+            "text": "Top",
             "id": 16,
             "bbox": [
-                378,
-                872,
-                397,
-                886
+                345,
+                467,
+                366,
+                483
             ]
         },
         {
-            "text": "\u0635\u0641\u064a\u0631",
+            "text": "SO170278234",
             "id": 17,
             "bbox": [
-                273,
-                874,
-                300,
-                888
+                149,
+                466,
+                261,
+                484
+            ]
+        },
+        {
+            "text": "1",
+            "id": 18,
+            "bbox": [
+                243,
+                489,
+                245,
+                498
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Cappuccino",
-                "Aqua",
-                "Morelli",
-                "small"
+                "SO170278234"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0644\u0627",
-                "\u0627\u0628\u0648",
-                "\u062a\u0634\u06cc\u0646\u062f",
-                "\u0645\u0627\u0621",
-                "\u0635\u0641\u064a\u0631"
-            ],
-            "value_id": [
-                13,
-                14,
-                15,
-                16,
                 17
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2",
-                "5"
-            ],
-            "value_id": [
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "firingle"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "152.00"
+                "207010"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "01:03",
-                "PM"
-            ],
-            "value_id": [
-                2,
-                3
             ]
         },
         {
@@ -261,12 +209,94 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "130.00",
-                "22.00"
+                "1090"
             ],
             "value_id": [
-                5,
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0646\u0627\u0646\u0648",
+                "\u0631\u0627",
+                "\u0645\u062d\u0648",
+                "\u0645\u0627"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "T",
+                "\u0648",
+                "H",
+                "woven",
+                "Top"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Missguided",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "109.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

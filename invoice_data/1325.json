@@ -1,0 +1,330 @@
+{
+    "text_boxes": [
+        {
+            "text": "level",
+            "id": 1,
+            "bbox": [
+                381,
+                275,
+                458,
+                334
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 2,
+            "bbox": [
+                385,
+                337,
+                439,
+                354
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                520,
+                448,
+                541,
+                459
+            ]
+        },
+        {
+            "text": ",",
+            "id": 4,
+            "bbox": [
+                507,
+                448,
+                509,
+                459
+            ]
+        },
+        {
+            "text": "1",
+            "id": 5,
+            "bbox": [
+                502,
+                447,
+                504,
+                458
+            ]
+        },
+        {
+            "text": "\u062f\u0631",
+            "id": 6,
+            "bbox": [
+                495,
+                447,
+                499,
+                458
+            ]
+        },
+        {
+            "text": "15",
+            "id": 7,
+            "bbox": [
+                470,
+                447,
+                480,
+                458
+            ]
+        },
+        {
+            "text": "21:18",
+            "id": 8,
+            "bbox": [
+                551,
+                448,
+                580,
+                459
+            ]
+        },
+        {
+            "text": "1,850.00",
+            "id": 9,
+            "bbox": [
+                575,
+                669,
+                620,
+                678
+            ]
+        },
+        {
+            "text": "1,850,00",
+            "id": 10,
+            "bbox": [
+                588,
+                592,
+                634,
+                603
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                443,
+                593,
+                445,
+                602
+            ]
+        },
+        {
+            "text": "PCOU_OTHS",
+            "id": 12,
+            "bbox": [
+                152,
+                566,
+                207,
+                581
+            ]
+        },
+        {
+            "text": ":",
+            "id": 13,
+            "bbox": [
+                211,
+                567,
+                213,
+                580
+            ]
+        },
+        {
+            "text": "PRIVATE",
+            "id": 14,
+            "bbox": [
+                217,
+                567,
+                260,
+                582
+            ]
+        },
+        {
+            "text": "COLLECTION",
+            "id": 15,
+            "bbox": [
+                267,
+                568,
+                329,
+                583
+            ]
+        },
+        {
+            "text": "MENS",
+            "id": 16,
+            "bbox": [
+                336,
+                569,
+                361,
+                583
+            ]
+        },
+        {
+            "text": "OTHERS",
+            "id": 17,
+            "bbox": [
+                368,
+                570,
+                405,
+                584
+            ]
+        },
+        {
+            "text": "-Lil",
+            "id": 18,
+            "bbox": [
+                455,
+                571,
+                492,
+                586
+            ]
+        },
+        {
+            "text": ".",
+            "id": 19,
+            "bbox": [
+                496,
+                572,
+                496,
+                585
+            ]
+        },
+        {
+            "text": "06301358",
+            "id": 20,
+            "bbox": [
+                150,
+                586,
+                201,
+                601
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21:18"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "06301358"
+            ],
+            "value_id": [
+                20
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                ",",
+                "1",
+                "\u062f\u0631",
+                "15"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,850,00"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "-Lil",
+                "."
+            ],
+            "value_id": [
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PCOU_OTHS",
+                ":",
+                "PRIVATE",
+                "COLLECTION",
+                "MENS",
+                "OTHERS"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHOES"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,850.00"
+            ],
+            "value_id": [
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1325.jpg"
+    }
+}

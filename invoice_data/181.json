@@ -1,130 +1,238 @@
 {
     "text_boxes": [
         {
-            "text": "MICHAEL",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                280,
-                163,
-                403,
-                182
+                359,
+                254,
+                392,
+                266
             ]
         },
         {
-            "text": "KORS",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                415,
-                161,
-                490,
-                180
+                398,
+                252,
+                448,
+                266
             ]
         },
         {
-            "text": "13-Jul-2020",
+            "text": "09/07/200",
             "id": 3,
             "bbox": [
-                334,
-                329,
-                392,
-                341
+                535,
+                435,
+                587,
+                447
             ]
         },
         {
-            "text": "17:45",
+            "text": "19.5",
             "id": 4,
             "bbox": [
-                400,
-                330,
-                425,
-                340
+                606,
+                435,
+                625,
+                445
             ]
         },
         {
-            "text": "897.00",
+            "text": "2.950.00",
             "id": 5,
             "bbox": [
-                499,
-                688,
-                535,
-                695
+                656,
+                627,
+                698,
+                638
             ]
         },
         {
-            "text": "897.00",
+            "text": "1.950.00",
             "id": 6,
             "bbox": [
-                516,
-                559,
-                550,
-                570
+                651,
+                487,
+                692,
+                497
             ]
         },
         {
             "text": "1",
             "id": 7,
             "bbox": [
-                340,
-                562,
-                341,
-                571
+                322,
+                496,
+                325,
+                503
             ]
         },
         {
-            "text": "CNTR",
+            "text": "MU",
             "id": 8,
             "bbox": [
-                391,
-                524,
-                413,
-                534
+                114,
+                498,
+                144,
+                508
             ]
         },
         {
-            "text": "ZIP",
+            "text": "thi",
             "id": 9,
             "bbox": [
-                420,
-                523,
-                436,
-                534
+                156,
+                498,
+                170,
+                508
             ]
         },
         {
-            "text": "SATCHEL",
+            "text": "L",
             "id": 10,
             "bbox": [
-                444,
-                523,
-                483,
-                533
+                176,
+                498,
+                185,
+                507
             ]
         },
         {
-            "text": "023324535470",
+            "text": "M",
             "id": 11,
             "bbox": [
-                222,
+                191,
+                498,
+                211,
+                507
+            ]
+        },
+        {
+            "text": "V",
+            "id": 12,
+            "bbox": [
+                214,
+                497,
+                219,
+                506
+            ]
+        },
+        {
+            "text": "LG",
+            "id": 13,
+            "bbox": [
+                239,
+                497,
+                253,
+                506
+            ]
+        },
+        {
+            "text": "SMALL",
+            "id": 14,
+            "bbox": [
+                115,
+                508,
+                140,
+                519
+            ]
+        },
+        {
+            "text": "LEATHER",
+            "id": 15,
+            "bbox": [
+                146,
                 507,
-                291,
+                181,
+                518
+            ]
+        },
+        {
+            "text": "GOODS",
+            "id": 16,
+            "bbox": [
+                187,
+                506,
+                212,
                 517
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19.5"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "09/07/200"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.950.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CNTR",
-                "ZIP",
-                "SATCHEL"
+                "MU",
+                "thi",
+                "L",
+                "M",
+                "V",
+                "LG",
+                "SMALL",
+                "LEATHER",
+                "GOODS"
             ],
             "value_id": [
                 8,
                 9,
-                10
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
             ]
         },
         {
@@ -139,71 +247,14 @@
             ]
         },
         {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13-Jul-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MICHAEL",
-                "KORS"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "897.00"
+                "2.950.00"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "023324535470"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:45"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "897.00"
-            ],
-            "value_id": [
-                6
             ]
         }
     ],

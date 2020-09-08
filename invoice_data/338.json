@@ -1,196 +1,140 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "HOME",
             "id": 1,
             "bbox": [
-                334,
-                20,
-                441,
-                100
+                275,
+                237,
+                338,
+                253
             ]
         },
         {
-            "text": "SHOES",
+            "text": "BAKERY",
             "id": 2,
             "bbox": [
-                356,
-                111,
-                421,
-                126
+                357,
+                235,
+                452,
+                252
             ]
         },
         {
-            "text": "Jul,",
+            "text": "Jul04'20",
             "id": 3,
             "bbox": [
-                522,
-                266,
-                550,
-                277
+                355,
+                410,
+                421,
+                430
             ]
         },
         {
-            "text": "2020",
+            "text": "04",
             "id": 4,
             "bbox": [
-                563,
-                266,
-                595,
-                277
+                431,
+                410,
+                447,
+                428
             ]
         },
         {
-            "text": "16:42",
+            "text": ":",
             "id": 5,
             "bbox": [
-                605,
-                266,
-                644,
-                276
+                451,
+                409,
+                453,
+                427
             ]
         },
         {
-            "text": "1,700.00",
+            "text": "51P",
             "id": 6,
             "bbox": [
-                657,
-                558,
-                721,
-                569
+                456,
+                408,
+                480,
+                427
             ]
         },
         {
-            "text": "1,",
+            "text": "474.00",
             "id": 7,
             "bbox": [
-                662,
-                452,
-                681,
-                467
+                428,
+                509,
+                526,
+                529
             ]
         },
         {
-            "text": "700.00",
+            "text": "474.00",
             "id": 8,
             "bbox": [
-                681,
-                453,
-                729,
-                464
+                477,
+                469,
+                526,
+                486
             ]
         },
         {
-            "text": "1",
+            "text": "3",
             "id": 9,
             "bbox": [
-                472,
-                455,
-                476,
-                463
+                228,
+                474,
+                235,
+                494
             ]
         },
         {
-            "text": "PCOU_OTHS:",
+            "text": "ChewyMelt",
             "id": 10,
             "bbox": [
-                104,
-                426,
-                180,
-                439
+                245,
+                472,
+                320,
+                494
             ]
         },
         {
-            "text": "PRIVATE",
+            "text": "120",
             "id": 11,
             "bbox": [
-                182,
-                427,
-                239,
-                440
+                333,
+                471,
+                356,
+                492
             ]
         },
         {
-            "text": "COLLECTION",
+            "text": "BX",
             "id": 12,
             "bbox": [
-                248,
-                429,
-                327,
-                437
-            ]
-        },
-        {
-            "text": "MENS",
-            "id": 13,
-            "bbox": [
-                336,
-                429,
                 366,
-                438
-            ]
-        },
-        {
-            "text": "OTHERS",
-            "id": 14,
-            "bbox": [
-                376,
-                430,
-                421,
-                438
-            ]
-        },
-        {
-            "text": "SI-aLils",
-            "id": 15,
-            "bbox": [
-                448,
-                430,
-                541,
-                442
+                471,
+                381,
+                491
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PCOU_OTHS:",
-                "PRIVATE",
-                "COLLECTION",
-                "MENS",
-                "OTHERS"
+                "04",
+                ":",
+                "51P"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SI-aLils"
-            ],
-            "value_id": [
-                15
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                9
+                4,
+                5,
+                6
             ]
         },
         {
@@ -198,47 +142,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "Jul04'20"
             ],
             "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "level",
-                "SHOES"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,700.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:42"
-            ],
-            "value_id": [
-                5
+                3
             ]
         },
         {
@@ -246,12 +153,60 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "700.00"
+                "474.00"
             ],
             "value_id": [
-                7,
                 8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ChewyMelt",
+                "120",
+                "BX"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HOME",
+                "BAKERY"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "474.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

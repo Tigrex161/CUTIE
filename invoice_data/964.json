@@ -1,86 +1,190 @@
 {
     "text_boxes": [
         {
-            "text": "19Jul'20",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                450,
-                386,
-                613,
-                423
+                348,
+                228,
+                385,
+                244
             ]
         },
         {
-            "text": "Coffee",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                598,
-                268,
-                721,
-                299
+                389,
+                230,
+                445,
+                247
             ]
         },
         {
-            "text": "11:38",
+            "text": "MADOR",
             "id": 3,
             "bbox": [
-                644,
-                390,
-                743,
-                424
+                359,
+                270,
+                380,
+                278
             ]
         },
         {
-            "text": "500.00",
+            "text": "26/07/2020",
             "id": 4,
             "bbox": [
-                261,
-                922,
-                389,
-                960
+                533,
+                427,
+                586,
+                440
             ]
         },
         {
-            "text": "500.00",
+            "text": "11.12",
             "id": 5,
             "bbox": [
-                270,
-                515,
-                395,
-                551
+                605,
+                429,
+                629,
+                440
             ]
         },
         {
-            "text": "SBX",
+            "text": "2,310.00",
             "id": 6,
             "bbox": [
-                682,
-                518,
-                743,
-                554
+                648,
+                641,
+                690,
+                650
             ]
         },
         {
-            "text": "TY19",
+            "text": "1",
             "id": 7,
             "bbox": [
-                770,
-                519,
-                851,
-                555
+                304,
+                483,
+                307,
+                491
+            ]
+        },
+        {
+            "text": "M30531",
+            "id": 8,
+            "bbox": [
+                74,
+                480,
+                108,
+                490
+            ]
+        },
+        {
+            "text": "7.MULTIPLE",
+            "id": 9,
+            "bbox": [
+                122,
+                480,
+                183,
+                492
+            ]
+        },
+        {
+            "text": "TAIGA",
+            "id": 10,
+            "bbox": [
+                190,
+                481,
+                217,
+                491
+            ]
+        },
+        {
+            "text": "NOIR",
+            "id": 11,
+            "bbox": [
+                224,
+                481,
+                246,
+                492
+            ]
+        },
+        {
+            "text": "SMALL",
+            "id": 12,
+            "bbox": [
+                76,
+                491,
+                104,
+                500
+            ]
+        },
+        {
+            "text": "LATHER",
+            "id": 13,
+            "bbox": [
+                112,
+                491,
+                149,
+                500
+            ]
+        },
+        {
+            "text": "GOODS",
+            "id": 14,
+            "bbox": [
+                156,
+                491,
+                183,
+                501
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11.12"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19Jul'20"
+                "26/07/2020"
             ],
             "value_id": [
-                1
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "M30531",
+                "7.MULTIPLE",
+                "TAIGA",
+                "NOIR",
+                "SMALL",
+                "LATHER",
+                "GOODS"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
             ]
         },
         {
@@ -88,10 +192,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Coffee"
+                "LOUIS",
+                "VUITTON",
+                "MADOR"
             ],
             "value_id": [
-                2
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
             ]
         },
         {
@@ -99,45 +218,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "500.00"
+                "2,310.00"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SBX",
-                "TY19"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:38"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "500.00"
-            ],
-            "value_id": [
-                5
+                6
             ]
         }
     ],

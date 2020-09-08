@@ -1,0 +1,276 @@
+{
+    "text_boxes": [
+        {
+            "text": "HuQQA",
+            "id": 1,
+            "bbox": [
+                284,
+                276,
+                523,
+                387
+            ]
+        },
+        {
+            "text": "Jul22",
+            "id": 2,
+            "bbox": [
+                313,
+                656,
+                371,
+                687
+            ]
+        },
+        {
+            "text": "'",
+            "id": 3,
+            "bbox": [
+                373,
+                656,
+                381,
+                685
+            ]
+        },
+        {
+            "text": "20",
+            "id": 4,
+            "bbox": [
+                385,
+                656,
+                406,
+                685
+            ]
+        },
+        {
+            "text": "11:10",
+            "id": 5,
+            "bbox": [
+                421,
+                654,
+                476,
+                685
+            ]
+        },
+        {
+            "text": "AM",
+            "id": 6,
+            "bbox": [
+                479,
+                655,
+                501,
+                684
+            ]
+        },
+        {
+            "text": "133.60",
+            "id": 7,
+            "bbox": [
+                475,
+                863,
+                613,
+                896
+            ]
+        },
+        {
+            "text": "38.00",
+            "id": 8,
+            "bbox": [
+                554,
+                715,
+                613,
+                741
+            ]
+        },
+        {
+            "text": "129.00",
+            "id": 9,
+            "bbox": [
+                543,
+                744,
+                612,
+                773
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                196,
+                721,
+                201,
+                745
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                197,
+                749,
+                201,
+                775
+            ]
+        },
+        {
+            "text": "ICE",
+            "id": 12,
+            "bbox": [
+                219,
+                720,
+                250,
+                745
+            ]
+        },
+        {
+            "text": "SPANISH",
+            "id": 13,
+            "bbox": [
+                265,
+                719,
+                345,
+                745
+            ]
+        },
+        {
+            "text": "LATT",
+            "id": 14,
+            "bbox": [
+                360,
+                717,
+                405,
+                743
+            ]
+        },
+        {
+            "text": "C",
+            "id": 15,
+            "bbox": [
+                218,
+                749,
+                228,
+                775
+            ]
+        },
+        {
+            "text": "AF",
+            "id": 16,
+            "bbox": [
+                242,
+                749,
+                265,
+                775
+            ]
+        },
+        {
+            "text": "MINT",
+            "id": 17,
+            "bbox": [
+                277,
+                747,
+                322,
+                774
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:10",
+                "AM"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul22",
+                "'",
+                "20"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "38.00",
+                "129.00"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ICE",
+                "SPANISH",
+                "LATT",
+                "C",
+                "AF",
+                "MINT"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HuQQA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "133.60"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1309.jpg"
+    }
+}

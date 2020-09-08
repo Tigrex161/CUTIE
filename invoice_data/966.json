@@ -1,175 +1,188 @@
 {
     "text_boxes": [
         {
-            "text": "KHORS",
+            "text": "level",
             "id": 1,
             "bbox": [
-                350,
-                48,
-                393,
-                54
+                370,
+                279,
+                451,
+                338
             ]
         },
         {
-            "text": "Jul,",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                473,
-                178,
-                498,
-                189
+                378,
+                346,
+                429,
+                364
             ]
         },
         {
-            "text": "2020",
+            "text": "||",
             "id": 3,
             "bbox": [
-                509,
-                175,
-                539,
-                191
+                469,
+                456,
+                483,
+                469
             ]
         },
         {
-            "text": "21:40",
+            "text": "Tal",
             "id": 4,
             "bbox": [
-                546,
-                175,
-                584,
-                192
+                494,
+                456,
+                509,
+                469
             ]
         },
         {
-            "text": "1,",
+            "text": "2017",
             "id": 5,
             "bbox": [
-                577,
-                441,
-                587,
-                451
+                524,
+                456,
+                567,
+                469
             ]
         },
         {
-            "text": "360.00",
+            "text": "-",
             "id": 6,
             "bbox": [
-                591,
-                439,
-                633,
-                451
+                570,
+                456,
+                572,
+                469
             ]
         },
         {
-            "text": "1,",
+            "text": "20",
             "id": 7,
             "bbox": [
-                592,
-                349,
-                601,
-                359
+                575,
+                456,
+                586,
+                469
             ]
         },
         {
-            "text": "360.",
+            "text": "66",
             "id": 8,
             "bbox": [
-                606,
-                348,
-                631,
-                360
+                644,
+                670,
+                654,
+                680
             ]
         },
         {
-            "text": "00",
+            "text": "(",
             "id": 9,
             "bbox": [
+                633,
+                670,
                 635,
-                349,
-                647,
-                359
+                680
             ]
         },
         {
-            "text": "co1-SND:CGI.",
+            "text": "20",
             "id": 10,
             "bbox": [
-                90,
-                310,
-                173,
-                329
+                616,
+                670,
+                628,
+                680
             ]
         },
         {
-            "text": "SND:",
+            "text": "\u0648",
             "id": 11,
             "bbox": [
-                175,
-                312,
-                202,
-                330
+                611,
+                670,
+                613,
+                680
             ]
         },
         {
-            "text": "266325049318",
+            "text": "3",
             "id": 12,
             "bbox": [
-                85,
-                338,
-                170,
-                349
+                605,
+                670,
+                607,
+                680
+            ]
+        },
+        {
+            "text": "2006",
+            "id": 13,
+            "bbox": [
+                617,
+                591,
+                656,
+                603
+            ]
+        },
+        {
+            "text": "1",
+            "id": 14,
+            "bbox": [
+                451,
+                593,
+                453,
+                602
+            ]
+        },
+        {
+            "text": "DIOR",
+            "id": 15,
+            "bbox": [
+                149,
+                573,
+                176,
+                585
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 16,
+            "bbox": [
+                182,
+                573,
+                223,
+                585
+            ]
+        },
+        {
+            "text": "0091111008231361611",
+            "id": 17,
+            "bbox": [
+                148,
+                588,
+                285,
+                606
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "co1-SND:CGI.",
-                "SND:"
+                "-",
+                "20"
             ],
             "value_id": [
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "KHORS"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,",
-                "360.00"
-            ],
-            "value_id": [
-                5,
-                6
+                6,
+                7
             ]
         },
         {
@@ -177,21 +190,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "266325049318"
+                "0091111008231361611"
             ],
             "value_id": [
-                12
+                17
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:40"
+                "||",
+                "Tal",
+                "2017"
             ],
             "value_id": [
-                4
+                3,
+                4,
+                5
             ]
         },
         {
@@ -199,14 +216,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "360.",
-                "00"
+                "2006"
             ],
             "value_id": [
-                7,
+                13
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR",
+                "WOMENS"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHOES"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "66",
+                "(",
+                "20",
+                "\u0648",
+                "3"
+            ],
+            "value_id": [
                 8,
-                9
+                9,
+                10,
+                11,
+                12
             ]
         }
     ],

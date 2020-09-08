@@ -1,161 +1,183 @@
 {
     "text_boxes": [
         {
-            "text": "PENIHALIGON'S",
+            "text": "LIWA",
             "id": 1,
             "bbox": [
-                293,
-                116,
-                475,
-                139
+                283,
+                199,
+                382,
+                230
             ]
         },
         {
-            "text": "05-Jul-2020",
+            "text": "TRADING",
             "id": 2,
             "bbox": [
-                333,
-                316,
-                391,
-                333
+                413,
+                201,
+                594,
+                232
             ]
         },
         {
-            "text": "16:17",
+            "text": "29/06/20",
             "id": 3,
             "bbox": [
-                397,
-                314,
-                422,
-                328
+                320,
+                571,
+                431,
+                608
             ]
         },
         {
-            "text": "979.00",
+            "text": "4:34",
             "id": 4,
             "bbox": [
-                488,
-                669,
-                520,
-                679
+                635,
+                572,
+                690,
+                603
             ]
         },
         {
-            "text": "979.00",
+            "text": "209.00",
             "id": 5,
             "bbox": [
-                507,
-                558,
-                540,
-                571
+                603,
+                1301,
+                684,
+                1343
             ]
         },
         {
-            "text": "65155353:HALFETI",
+            "text": "209.00",
             "id": 6,
             "bbox": [
-                232,
-                530,
-                318,
-                543
+                561,
+                811,
+                645,
+                846
             ]
         },
         {
-            "text": "SET",
+            "text": "199.00",
             "id": 7,
             "bbox": [
-                327,
-                532,
-                341,
-                542
+                565,
+                881,
+                646,
+                916
             ]
         },
         {
-            "text": "TIN",
+            "text": "ROBE",
             "id": 8,
             "bbox": [
-                348,
-                532,
-                363,
-                542
+                124,
+                810,
+                177,
+                845
             ]
         },
         {
-            "text": "1",
+            "text": "SATIN",
             "id": 9,
             "bbox": [
-                514,
-                598,
-                516,
-                607
+                196,
+                810,
+                263,
+                845
             ]
         },
         {
-            "text": "026114908533",
+            "text": "&",
             "id": 10,
             "bbox": [
-                233,
-                512,
-                298,
-                526
+                280,
+                810,
+                291,
+                845
+            ]
+        },
+        {
+            "text": "LACE",
+            "id": 11,
+            "bbox": [
+                309,
+                809,
+                361,
+                844
+            ]
+        },
+        {
+            "text": "KIMONO",
+            "id": 12,
+            "bbox": [
+                140,
+                879,
+                222,
+                916
+            ]
+        },
+        {
+            "text": "SATIN",
+            "id": 13,
+            "bbox": [
+                239,
+                879,
+                306,
+                916
+            ]
+        },
+        {
+            "text": "&",
+            "id": 14,
+            "bbox": [
+                323,
+                879,
+                334,
+                916
+            ]
+        },
+        {
+            "text": "LACE",
+            "id": 15,
+            "bbox": [
+                352,
+                879,
+                404,
+                916
+            ]
+        },
+        {
+            "text": "1210000001318",
+            "id": 16,
+            "bbox": [
+                127,
+                846,
+                305,
+                880
+            ]
+        },
+        {
+            "text": "1210000001373",
+            "id": 17,
+            "bbox": [
+                127,
+                776,
+                305,
+                812
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "65155353:HALFETI",
-                "SET",
-                "TIN"
-            ],
-            "value_id": [
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "05-Jul-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "PENIHALIGON'S"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "979.00"
+                "4:34"
             ],
             "value_id": [
                 4
@@ -166,18 +188,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "026114908533"
+                "1210000001318",
+                "1210000001373"
             ],
             "value_id": [
-                10
+                16,
+                17
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:17"
+                "29/06/20"
             ],
             "value_id": [
                 3
@@ -188,7 +212,58 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "979.00"
+                "209.00",
+                "199.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ROBE",
+                "SATIN",
+                "&",
+                "LACE",
+                "KIMONO",
+                "SATIN",
+                "&",
+                "LACE"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LIWA",
+                "TRADING"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "209.00"
             ],
             "value_id": [
                 5

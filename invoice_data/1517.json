@@ -1,0 +1,231 @@
+{
+    "text_boxes": [
+        {
+            "text": "2020",
+            "id": 1,
+            "bbox": [
+                533,
+                428,
+                555,
+                442
+            ]
+        },
+        {
+            "text": "\u0631\u0627\u0646\u0627",
+            "id": 2,
+            "bbox": [
+                507,
+                429,
+                525,
+                442
+            ]
+        },
+        {
+            "text": "14:19",
+            "id": 3,
+            "bbox": [
+                565,
+                427,
+                595,
+                442
+            ]
+        },
+        {
+            "text": "5.00",
+            "id": 4,
+            "bbox": [
+                621,
+                652,
+                658,
+                667
+            ]
+        },
+        {
+            "text": "50",
+            "id": 5,
+            "bbox": [
+                623,
+                573,
+                642,
+                583
+            ]
+        },
+        {
+            "text": ".",
+            "id": 6,
+            "bbox": [
+                645,
+                573,
+                647,
+                583
+            ]
+        },
+        {
+            "text": "(",
+            "id": 7,
+            "bbox": [
+                306,
+                560,
+                309,
+                573
+            ]
+        },
+        {
+            "text": ":",
+            "id": 8,
+            "bbox": [
+                222,
+                561,
+                225,
+                574
+            ]
+        },
+        {
+            "text": "GCTU",
+            "id": 9,
+            "bbox": [
+                162,
+                562,
+                186,
+                575
+            ]
+        },
+        {
+            "text": "OTHS",
+            "id": 10,
+            "bbox": [
+                195,
+                562,
+                221,
+                575
+            ]
+        },
+        {
+            "text": ":",
+            "id": 11,
+            "bbox": [
+                223,
+                561,
+                226,
+                574
+            ]
+        },
+        {
+            "text": "GUCCI",
+            "id": 12,
+            "bbox": [
+                229,
+                561,
+                260,
+                574
+            ]
+        },
+        {
+            "text": "OTHERS",
+            "id": 13,
+            "bbox": [
+                268,
+                559,
+                302,
+                574
+            ]
+        },
+        {
+            "text": "013133RE250",
+            "id": 14,
+            "bbox": [
+                162,
+                581,
+                237,
+                594
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:19"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "013133RE250"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                "\u0631\u0627\u0646\u0627"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "50",
+                "."
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "(",
+                ":",
+                "GCTU",
+                "OTHS",
+                ":",
+                "GUCCI",
+                "OTHERS"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5.00"
+            ],
+            "value_id": [
+                4
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1517.jpg"
+    }
+}

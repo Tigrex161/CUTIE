@@ -1,198 +1,206 @@
 {
     "text_boxes": [
         {
-            "text": "Dutti",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                425,
-                89,
-                537,
-                147
+                296,
+                224,
+                376,
+                240
             ]
         },
         {
-            "text": "DUTTI",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                243,
-                131,
-                305,
-                155
+                389,
+                224,
+                479,
+                240
             ]
         },
         {
-            "text": "-",
+            "text": "15/07/20",
             "id": 3,
             "bbox": [
+                248,
+                482,
                 324,
-                137,
-                341,
-                157
+                501
             ]
         },
         {
-            "text": "DUBAI",
+            "text": "16:04",
             "id": 4,
             "bbox": [
-                348,
-                138,
-                404,
-                160
+                339,
+                483,
+                384,
+                501
             ]
         },
         {
-            "text": "24-07-2020",
+            "text": "1,555.00",
             "id": 5,
             "bbox": [
-                110,
-                383,
-                234,
-                406
+                514,
+                877,
+                590,
+                893
             ]
         },
         {
-            "text": "20:",
+            "text": "750.00",
             "id": 6,
             "bbox": [
-                250,
-                390,
-                280,
-                407
+                534,
+                707,
+                590,
+                722
             ]
         },
         {
-            "text": "29",
+            "text": "1,105.00",
             "id": 7,
             "bbox": [
-                288,
-                392,
-                309,
-                408
-            ]
-        },
-        {
-            "text": "119",
-            "id": 8,
-            "bbox": [
-                516,
-                788,
-                548,
-                805
-            ]
-        },
-        {
-            "text": "119",
-            "id": 9,
-            "bbox": [
-                520,
-                558,
-                552,
-                575
+                514,
+                655,
+                590,
+                674
             ]
         },
         {
             "text": "1",
+            "id": 8,
+            "bbox": [
+                187,
+                682,
+                192,
+                698
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                189,
+                731,
+                195,
+                746
+            ]
+        },
+        {
+            "text": "Beauty",
             "id": 10,
             "bbox": [
-                260,
-                553,
-                268,
-                568
+                176,
+                632,
+                234,
+                650
             ]
         },
         {
-            "text": "0504154280040",
+            "text": "EDP",
             "id": 11,
             "bbox": [
-                235,
-                583,
-                392,
-                605
+                176,
+                657,
+                204,
+                672
             ]
         },
         {
-            "text": "TROUSERS",
+            "text": "ELIXIR",
             "id": 12,
             "bbox": [
-                420,
-                588,
-                514,
-                607
+                217,
+                657,
+                275,
+                672
             ]
         },
         {
-            "text": "10001901",
+            "text": "MYSTERIOU",
             "id": 13,
             "bbox": [
-                108,
-                577,
-                206,
-                598
+                286,
+                657,
+                374,
+                672
+            ]
+        },
+        {
+            "text": "SET",
+            "id": 14,
+            "bbox": [
+                177,
+                707,
+                205,
+                721
+            ]
+        },
+        {
+            "text": "STORIA",
+            "id": 15,
+            "bbox": [
+                217,
+                707,
+                275,
+                721
+            ]
+        },
+        {
+            "text": "DELLA",
+            "id": 16,
+            "bbox": [
+                286,
+                707,
+                334,
+                721
+            ]
+        },
+        {
+            "text": "SAL",
+            "id": 17,
+            "bbox": [
+                346,
+                707,
+                373,
+                721
+            ]
+        },
+        {
+            "text": "900972773",
+            "id": 18,
+            "bbox": [
+                226,
+                680,
+                313,
+                698
+            ]
+        },
+        {
+            "text": "900938187",
+            "id": 19,
+            "bbox": [
+                228,
+                731,
+                313,
+                746
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0504154280040",
-                "TROUSERS"
+                "16:04"
             ],
             "value_id": [
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "24-07-2020"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Dutti",
-                "DUTTI",
-                "-",
-                "DUBAI"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
                 4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "119"
-            ],
-            "value_id": [
-                8
             ]
         },
         {
@@ -200,23 +208,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001901"
+                "900972773",
+                "900938187"
             ],
             "value_id": [
-                13
+                18,
+                19
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:",
-                "29"
+                "15/07/20"
             ],
             "value_id": [
-                6,
-                7
+                3
             ]
         },
         {
@@ -224,10 +232,74 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "119"
+                "750.00",
+                "1,105.00"
             ],
             "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Beauty",
+                "EDP",
+                "ELIXIR",
+                "MYSTERIOU",
+                "SET",
+                "STORIA",
+                "DELLA",
+                "SAL"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                8,
                 9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,555.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

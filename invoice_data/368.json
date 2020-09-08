@@ -1,188 +1,156 @@
 {
     "text_boxes": [
         {
-            "text": "DSQUARED2",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                279,
-                217,
-                537,
-                259
+                358,
+                141,
+                481,
+                201
             ]
         },
         {
-            "text": "July,",
+            "text": "16.07.2020",
             "id": 2,
             "bbox": [
-                559,
-                323,
-                589,
-                333
+                277,
+                268,
+                344,
+                280
             ]
         },
         {
-            "text": "05",
+            "text": "16:38",
             "id": 3,
             "bbox": [
-                600,
-                323,
-                612,
-                331
+                355,
+                268,
+                386,
+                280
             ]
         },
         {
-            "text": "2020",
+            "text": "79",
             "id": 4,
             "bbox": [
-                620,
-                323,
-                645,
-                332
+                518,
+                336,
+                529,
+                350
             ]
         },
         {
-            "text": "21:28",
+            "text": "369",
             "id": 5,
             "bbox": [
-                653,
-                323,
-                684,
-                332
+                510,
+                373,
+                529,
+                386
             ]
         },
         {
-            "text": "1,278.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                618,
-                652,
-                669,
-                661
+                361,
+                342,
+                364,
+                353
             ]
         },
         {
-            "text": "1,278.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                618,
-                567,
-                669,
-                576
+                361,
+                379,
+                364,
+                389
             ]
         },
         {
-            "text": "1.",
+            "text": "5HIRT",
             "id": 8,
             "bbox": [
-                456,
-                568,
-                465,
-                578
+                452,
+                357,
+                485,
+                370
             ]
         },
         {
-            "text": "S75AMO728-S30667-470:DSQ.",
+            "text": "0116522680003",
             "id": 9,
             "bbox": [
-                240,
-                548,
-                402,
-                557
+                347,
+                359,
+                436,
+                372
             ]
         },
         {
-            "text": "470:",
+            "text": "0510705704401",
             "id": 10,
             "bbox": [
-                406,
-                548,
-                429,
-                556
+                347,
+                397,
+                435,
+                410
             ]
         },
         {
-            "text": "40:SPORTSJACKET",
+            "text": "DRESS",
             "id": 11,
             "bbox": [
-                433,
-                547,
-                529,
-                556
+                452,
+                395,
+                485,
+                407
             ]
         },
         {
-            "text": "010024825399",
+            "text": "2",
             "id": 12,
             "bbox": [
-                153,
-                547,
-                233,
-                556
+                387,
+                435,
+                394,
+                446
+            ]
+        },
+        {
+            "text": "10001247",
+            "id": 13,
+            "bbox": [
+                277,
+                359,
+                330,
+                372
+            ]
+        },
+        {
+            "text": "10002277",
+            "id": 14,
+            "bbox": [
+                276,
+                397,
+                329,
+                410
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "S75AMO728-S30667-470:DSQ.",
-                "470:",
-                "40:SPORTSJACKET"
+                "16:38"
             ],
             "value_id": [
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "05",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DSQUARED2"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,278.00"
-            ],
-            "value_id": [
-                6
+                3
             ]
         },
         {
@@ -190,21 +158,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "010024825399"
+                "10001247",
+                "10002277"
             ],
             "value_id": [
-                12
+                13,
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:28"
+                "16.07.2020"
             ],
             "value_id": [
-                5
+                2
             ]
         },
         {
@@ -212,9 +182,63 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,278.00"
+                "79",
+                "369"
             ],
             "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5HIRT",
+                "0116522680003",
+                "0510705704401",
+                "DRESS"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                6,
                 7
             ]
         }

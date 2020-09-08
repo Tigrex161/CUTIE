@@ -1,134 +1,186 @@
 {
     "text_boxes": [
         {
-            "text": "LIWA",
+            "text": "FREDPERRY",
             "id": 1,
             "bbox": [
-                293,
-                122,
-                339,
-                135
+                330,
+                354,
+                435,
+                375
             ]
         },
         {
-            "text": "TRADING",
+            "text": "17/07/20",
             "id": 2,
             "bbox": [
-                354,
-                124,
-                430,
-                141
+                230,
+                465,
+                324,
+                495
             ]
         },
         {
-            "text": "28/07/20",
+            "text": "3:46",
             "id": 3,
             "bbox": [
-                319,
-                287,
-                366,
-                299
+                350,
+                465,
+                397,
+                495
             ]
         },
         {
-            "text": "21:33",
+            "text": "478.00",
             "id": 4,
             "bbox": [
-                443,
-                285,
-                472,
-                297
+                554,
+                844,
+                630,
+                872
             ]
         },
         {
-            "text": "399.00",
+            "text": "239",
             "id": 5,
             "bbox": [
-                422,
-                387,
-                457,
-                399
+                594,
+                667,
+                631,
+                688
             ]
         },
         {
-            "text": "CONTRAST",
+            "text": "239",
             "id": 6,
             "bbox": [
-                239,
-                392,
-                285,
-                403
+                595,
+                718,
+                632,
+                740
             ]
         },
         {
-            "text": "COLLAR",
+            "text": "1",
             "id": 7,
             "bbox": [
-                293,
-                391,
-                327,
-                403
+                381,
+                664,
+                389,
+                690
             ]
         },
         {
-            "text": "PIQU",
+            "text": "1",
             "id": 8,
             "bbox": [
-                334,
-                391,
-                357,
-                401
+                381,
+                713,
+                389,
+                740
             ]
         },
         {
-            "text": "7325705582631",
+            "text": "POLO",
             "id": 9,
             "bbox": [
-                240,
-                377,
-                314,
-                388
+                233,
+                660,
+                280,
+                689
+            ]
+        },
+        {
+            "text": "FPS",
+            "id": 10,
+            "bbox": [
+                295,
+                661,
+                329,
+                690
+            ]
+        },
+        {
+            "text": "POLO",
+            "id": 11,
+            "bbox": [
+                231,
+                712,
+                278,
+                737
+            ]
+        },
+        {
+            "text": "FPS",
+            "id": 12,
+            "bbox": [
+                293,
+                713,
+                327,
+                738
+            ]
+        },
+        {
+            "text": "2",
+            "id": 13,
+            "bbox": [
+                576,
+                997,
+                585,
+                1018
+            ]
+        },
+        {
+            "text": "A014772",
+            "id": 14,
+            "bbox": [
+                135,
+                658,
+                219,
+                687
+            ]
+        },
+        {
+            "text": "A035652",
+            "id": 15,
+            "bbox": [
+                133,
+                710,
+                217,
+                735
+            ]
+        },
+        {
+            "text": "\u0628\u0648\u0644\u0648",
+            "id": 16,
+            "bbox": [
+                210,
+                690,
+                237,
+                711
+            ]
+        },
+        {
+            "text": "\u0628\u0648\u0644\u0648",
+            "id": 17,
+            "bbox": [
+                208,
+                738,
+                232,
+                763
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CONTRAST",
-                "COLLAR",
-                "PIQU"
-            ],
-            "value_id": [
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "28/07/20"
+                "3:46"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LIWA",
-                "TRADING"
-            ],
-            "value_id": [
-                1,
-                2
             ]
         },
         {
@@ -136,21 +188,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7325705582631"
+                "A014772",
+                "A035652"
             ],
             "value_id": [
-                9
+                14,
+                15
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:33"
+                "17/07/20"
             ],
             "value_id": [
-                4
+                2
             ]
         },
         {
@@ -158,10 +212,88 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "399.00"
+                "239",
+                "239"
             ],
             "value_id": [
-                5
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0628\u0648\u0644\u0648",
+                "\u0628\u0648\u0644\u0648"
+            ],
+            "value_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "POLO",
+                "FPS",
+                "POLO",
+                "FPS"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FREDPERRY"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "478.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

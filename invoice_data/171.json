@@ -1,153 +1,219 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "Bershka",
             "id": 1,
             "bbox": [
-                321,
-                180,
-                390,
-                199
+                211,
+                43,
+                405,
+                119
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "13.01",
             "id": 2,
             "bbox": [
-                401,
-                180,
-                478,
-                196
+                176,
+                254,
+                212,
+                279
             ]
         },
         {
-            "text": "20:15",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                352,
-                384,
-                398,
-                400
+                211,
+                266,
+                246,
+                290
             ]
         },
         {
-            "text": "196.00",
+            "text": "#",
             "id": 4,
             "bbox": [
-                553,
-                625,
-                606,
-                641
+                177,
+                273,
+                183,
+                285
             ]
         },
         {
-            "text": "196",
+            "text": "712",
             "id": 5,
             "bbox": [
-                547,
-                536,
-                572,
-                550
+                181,
+                274,
+                205,
+                292
             ]
         },
         {
-            "text": "00",
+            "text": "11:34",
             "id": 6,
             "bbox": [
-                582,
-                534,
-                600,
-                547
+                248,
+                278,
+                283,
+                303
             ]
         },
         {
-            "text": "Men's",
+            "text": "149",
             "id": 7,
             "bbox": [
-                220,
-                534,
-                265,
-                548
+                415,
+                477,
+                434,
+                490
             ]
         },
         {
-            "text": "Wear",
+            "text": "149",
             "id": 8,
             "bbox": [
-                274,
-                530,
-                309,
-                545
+                411,
+                352,
+                429,
+                363
             ]
         },
         {
-            "text": "MENS",
+            "text": "1",
             "id": 9,
             "bbox": [
-                221,
-                556,
-                256,
-                570
+                260,
+                352,
+                266,
+                362
             ]
         },
         {
-            "text": "WEAR",
+            "text": "8803917342836",
             "id": 10,
             "bbox": [
-                266,
-                553,
-                302,
-                569
+                242,
+                363,
+                333,
+                389
             ]
         },
         {
-            "text": "BOSS",
+            "text": "TROUSERS",
             "id": 11,
             "bbox": [
-                312,
-                550,
-                346,
-                566
+                351,
+                369,
+                407,
+                385
             ]
         },
         {
-            "text": "GREEN",
+            "text": "149",
             "id": 12,
             "bbox": [
-                356,
-                548,
-                400,
-                563
+                322,
+                358,
+                340,
+                369
             ]
         },
         {
-            "text": "900671678",
+            "text": "18681575",
             "id": 13,
             "bbox": [
-                268,
-                573,
-                347,
-                591
+                180,
+                343,
+                233,
+                372
+            ]
+        },
+        {
+            "text": "5.60",
+            "id": 14,
+            "bbox": [
+                205,
+                333,
+                234,
+                352
+            ]
+        },
+        {
+            "text": "1",
+            "id": 15,
+            "bbox": [
+                287,
+                412,
+                293,
+                422
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:34"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18681575",
+                "5.60"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13.01",
+                "2020",
+                "#",
+                "712"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "149"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Men's",
-                "Wear",
-                "MENS",
-                "WEAR",
-                "BOSS",
-                "GREEN"
+                "8803917342836",
+                "TROUSERS",
+                "149"
             ],
             "value_id": [
-                7,
-                8,
-                9,
                 10,
                 11,
                 12
@@ -158,12 +224,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "Bershka"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
             ]
         },
         {
@@ -171,45 +257,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "196.00"
+                "149"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900671678"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:15"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "196",
-                "00"
-            ],
-            "value_id": [
-                5,
-                6
+                7
             ]
         }
     ],

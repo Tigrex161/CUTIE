@@ -1,176 +1,216 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "LACOSTE",
             "id": 1,
             "bbox": [
-                369,
-                404,
-                499,
-                468
+                316,
+                193,
+                442,
+                220
             ]
         },
         {
-            "text": "01/07/2020",
+            "text": "2020-",
             "id": 2,
             "bbox": [
-                84,
-                658,
-                135,
-                667
+                382,
+                391,
+                413,
+                404
             ]
         },
         {
-            "text": "15:45",
+            "text": "\u0627\u0644\u0627\u0644",
             "id": 3,
             "bbox": [
-                146,
-                658,
-                169,
-                667
+                375,
+                391,
+                386,
+                404
             ]
         },
         {
-            "text": "2,900.00",
+            "text": "-10",
             "id": 4,
             "bbox": [
-                645,
-                792,
-                682,
-                799
+                358,
+                391,
+                372,
+                404
             ]
         },
         {
-            "text": "2,761.90",
+            "text": "18:53",
             "id": 5,
             "bbox": [
-                674,
-                735,
-                710,
-                743
+                416,
+                391,
+                440,
+                404
             ]
         },
         {
-            "text": "1.",
+            "text": "430.00",
             "id": 6,
             "bbox": [
-                412,
-                742,
-                414,
-                748
+                487,
+                727,
+                515,
+                739
             ]
         },
         {
-            "text": "Men",
+            "text": "430.00",
             "id": 7,
             "bbox": [
-                246,
-                745,
-                264,
-                752
+                504,
+                615,
+                533,
+                626
             ]
         },
         {
-            "text": "RTW",
+            "text": "1",
             "id": 8,
             "bbox": [
-                268,
-                744,
-                290,
-                752
+                507,
+                645,
+                509,
+                657
             ]
         },
         {
-            "text": "Tee",
+            "text": "FH5178-00",
             "id": 9,
             "bbox": [
-                294,
-                743,
-                310,
-                750
+                265,
+                579,
+                307,
+                592
             ]
         },
         {
-            "text": "Shirt",
+            "text": "-",
             "id": 10,
             "bbox": [
-                315,
-                744,
-                333,
-                750
+                309,
+                580,
+                311,
+                591
             ]
         },
         {
-            "text": "0333617A0554",
+            "text": "POY",
             "id": 11,
             "bbox": [
-                84,
-                746,
-                152,
-                757
+                312,
+                580,
+                326,
+                591
+            ]
+        },
+        {
+            "text": ":",
+            "id": 12,
+            "bbox": [
+                328,
+                581,
+                330,
+                592
+            ]
+        },
+        {
+            "text": "LCE.POY",
+            "id": 13,
+            "bbox": [
+                332,
+                581,
+                364,
+                592
+            ]
+        },
+        {
+            "text": ":",
+            "id": 14,
+            "bbox": [
+                367,
+                581,
+                369,
+                592
+            ]
+        },
+        {
+            "text": "6",
+            "id": 15,
+            "bbox": [
+                372,
+                581,
+                374,
+                592
+            ]
+        },
+        {
+            "text": ":",
+            "id": 16,
+            "bbox": [
+                376,
+                581,
+                378,
+                592
+            ]
+        },
+        {
+            "text": "BERMUDA",
+            "id": 17,
+            "bbox": [
+                380,
+                581,
+                412,
+                593
+            ]
+        },
+        {
+            "text": "SHORTS",
+            "id": 18,
+            "bbox": [
+                419,
+                582,
+                446,
+                593
+            ]
+        },
+        {
+            "text": "16324880730",
+            "id": 19,
+            "bbox": [
+                263,
+                564,
+                324,
+                576
+            ]
+        },
+        {
+            "text": "\u062a\u0648\u0631\u0647\u0627",
+            "id": 20,
+            "bbox": [
+                265,
+                595,
+                283,
+                605
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Men",
-                "RTW",
-                "Tee",
-                "Shirt"
+                "18:53"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "01/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DIOR"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,900.00"
-            ],
-            "value_id": [
-                4
+                5
             ]
         },
         {
@@ -178,21 +218,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0333617A0554"
+                "16324880730"
             ],
             "value_id": [
-                11
+                19
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15:45"
+                "2020-",
+                "\u0627\u0644\u0627\u0644",
+                "-10"
             ],
             "value_id": [
-                3
+                2,
+                3,
+                4
             ]
         },
         {
@@ -200,10 +244,83 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,761.90"
+                "430.00"
             ],
             "value_id": [
-                5
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062a\u0648\u0631\u0647\u0627"
+            ],
+            "value_id": [
+                20
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FH5178-00",
+                "-",
+                "POY",
+                ":",
+                "LCE.POY",
+                ":",
+                "6",
+                ":",
+                "BERMUDA",
+                "SHORTS"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LACOSTE"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "430.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

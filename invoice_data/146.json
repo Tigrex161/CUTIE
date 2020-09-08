@@ -1,156 +1,244 @@
 {
     "text_boxes": [
         {
-            "text": "MAGRABI",
+            "text": "ELISABETTA",
             "id": 1,
             "bbox": [
-                97,
-                158,
-                425,
-                227
+                240,
+                238,
+                353,
+                259
             ]
         },
         {
-            "text": "1927",
+            "text": "FRANCHI",
             "id": 2,
             "bbox": [
-                102,
-                228,
-                147,
-                238
+                365,
+                239,
+                455,
+                260
             ]
         },
         {
-            "text": "08-Jul-2020",
+            "text": "06/07/2020",
             "id": 3,
             "bbox": [
-                490,
-                376,
-                564,
-                387
+                473,
+                312,
+                526,
+                327
             ]
         },
         {
-            "text": "1257.00",
+            "text": "08:51",
             "id": 4,
             "bbox": [
-                734,
-                448,
-                775,
-                459
+                473,
+                333,
+                497,
+                344
             ]
         },
         {
-            "text": "1257.00",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                755,
-                976,
-                795,
-                987
+                503,
+                332,
+                518,
+                343
+            ]
+        },
+        {
+            "text": "1,946.00",
+            "id": 6,
+            "bbox": [
+                502,
+                716,
+                537,
+                735
+            ]
+        },
+        {
+            "text": "1.040.00",
+            "id": 7,
+            "bbox": [
+                568,
+                458,
+                602,
+                473
             ]
         },
         {
             "text": "1",
-            "id": 6,
-            "bbox": [
-                566,
-                449,
-                567,
-                458
-            ]
-        },
-        {
-            "text": "S;JIMMY",
-            "id": 7,
-            "bbox": [
-                182,
-                448,
-                229,
-                455
-            ]
-        },
-        {
-            "text": "CHO0;",
             "id": 8,
             "bbox": [
-                238,
-                448,
-                271,
-                456
+                484,
+                464,
+                484,
+                472
             ]
         },
         {
-            "text": "ALINE/S,",
+            "text": "ABITO",
             "id": 9,
             "bbox": [
-                274,
-                448,
-                327,
-                458
+                215,
+                462,
+                243,
+                474
             ]
         },
         {
-            "text": "58.",
+            "text": "DONNA",
             "id": 10,
             "bbox": [
-                337,
-                448,
-                354,
-                456
+                247,
+                462,
+                280,
+                474
             ]
         },
         {
-            "text": "807,",
+            "text": "CON",
             "id": 11,
             "bbox": [
-                365,
-                448,
-                388,
-                457
+                284,
+                462,
+                304,
+                474
             ]
         },
         {
-            "text": "90",
+            "text": "CINTURA",
             "id": 12,
             "bbox": [
-                399,
-                448,
-                411,
-                456
+                307,
+                463,
+                347,
+                475
             ]
         },
         {
-            "text": "149879002",
+            "text": "AB1B001",
             "id": 13,
             "bbox": [
-                104,
-                448,
-                162,
-                459
+                127,
+                462,
+                165,
+                476
+            ]
+        },
+        {
+            "text": "E2",
+            "id": 14,
+            "bbox": [
+                167,
+                464,
+                178,
+                476
+            ]
+        },
+        {
+            "text": "\u0627\u0637\u0627",
+            "id": 15,
+            "bbox": [
+                324,
+                483,
+                340,
+                491
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08:51",
+                "PM"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AB1B001",
+                "E2"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "06/07/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.040.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0637\u0627"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "S;JIMMY",
-                "CHO0;",
-                "ALINE/S,",
-                "58.",
-                "807,",
-                "90"
+                "ABITO",
+                "DONNA",
+                "CON",
+                "CINTURA"
             ],
             "value_id": [
-                7,
-                8,
                 9,
                 10,
                 11,
                 12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ELISABETTA",
+                "FRANCHI"
+            ],
+            "value_id": [
+                1,
+                2
             ]
         },
         {
@@ -161,31 +249,7 @@
                 "1"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "08-Jul-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MAGRABI",
-                "1927"
-            ],
-            "value_id": [
-                1,
-                2
+                8
             ]
         },
         {
@@ -193,32 +257,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1257.00"
+                "1,946.00"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "149879002"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1257.00"
-            ],
-            "value_id": [
-                4
+                6
             ]
         }
     ],

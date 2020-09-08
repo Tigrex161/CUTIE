@@ -1,319 +1,136 @@
 {
     "text_boxes": [
         {
-            "text": "roberto",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                48,
-                282,
-                120,
+                285,
+                66,
+                436,
+                133
+            ]
+        },
+        {
+            "text": "24-07-2020",
+            "id": 2,
+            "bbox": [
+                180,
+                206,
+                265,
+                223
+            ]
+        },
+        {
+            "text": "13:22",
+            "id": 3,
+            "bbox": [
+                279,
+                206,
+                318,
+                223
+            ]
+        },
+        {
+            "text": "119",
+            "id": 4,
+            "bbox": [
+                476,
+                455,
+                500,
+                470
+            ]
+        },
+        {
+            "text": "119",
+            "id": 5,
+            "bbox": [
+                474,
+                295,
+                496,
+                309
+            ]
+        },
+        {
+            "text": "1",
+            "id": 6,
+            "bbox": [
+                287,
+                297,
+                290,
                 310
             ]
         },
         {
-            "text": "cavali",
-            "id": 2,
-            "bbox": [
-                125,
-                279,
-                190,
-                313
-            ]
-        },
-        {
-            "text": "junior",
-            "id": 3,
-            "bbox": [
-                155,
-                308,
-                190,
-                320
-            ]
-        },
-        {
-            "text": "19/07/2020",
-            "id": 4,
-            "bbox": [
-                509,
-                497,
-                565,
-                510
-            ]
-        },
-        {
-            "text": "01:37:26PM",
-            "id": 5,
-            "bbox": [
-                571,
-                497,
-                637,
-                510
-            ]
-        },
-        {
-            "text": "343",
-            "id": 6,
-            "bbox": [
-                623,
-                911,
-                652,
-                921
-            ]
-        },
-        {
-            "text": "171.50",
+            "text": "1",
             "id": 7,
             "bbox": [
-                605,
-                590,
-                650,
-                599
+                321,
+                365,
+                327,
+                379
             ]
         },
         {
-            "text": "171.50",
+            "text": "0622441825004",
             "id": 8,
             "bbox": [
-                608,
-                659,
-                643,
-                668
+                268,
+                318,
+                381,
+                334
             ]
         },
         {
-            "text": "SLIPPER",
+            "text": "T",
             "id": 9,
             "bbox": [
-                180,
-                597,
-                228,
-                610
+                402,
+                318,
+                406,
+                332
             ]
         },
         {
-            "text": "Reavalli",
+            "text": "-",
             "id": 10,
             "bbox": [
-                234,
-                596,
-                276,
-                609
+                412,
+                318,
+                413,
+                332
             ]
         },
         {
-            "text": "Sandals",
+            "text": "SHIRT",
             "id": 11,
             "bbox": [
-                278,
-                595,
-                318,
-                608
+                419,
+                317,
+                460,
+                332
             ]
         },
         {
-            "text": "RN41261B",
+            "text": "10001006",
             "id": 12,
             "bbox": [
-                178,
-                611,
-                234,
-                622
-            ]
-        },
-        {
-            "text": "-",
-            "id": 13,
-            "bbox": [
-                240,
-                608,
-                245,
-                621
-            ]
-        },
-        {
-            "text": "LEO/PT",
-            "id": 14,
-            "bbox": [
-                246,
-                610,
-                287,
-                621
-            ]
-        },
-        {
-            "text": "58",
-            "id": 15,
-            "bbox": [
-                292,
-                610,
-                303,
-                619
-            ]
-        },
-        {
-            "text": "SLIPPER",
-            "id": 16,
-            "bbox": [
-                177,
-                665,
-                228,
-                675
-            ]
-        },
-        {
-            "text": "Rcavalli",
-            "id": 17,
-            "bbox": [
-                233,
-                664,
-                273,
-                675
-            ]
-        },
-        {
-            "text": "Sandals",
-            "id": 18,
-            "bbox": [
-                278,
-                663,
-                319,
-                674
-            ]
-        },
-        {
-            "text": "RN41261B",
-            "id": 19,
-            "bbox": [
-                180,
-                679,
-                235,
-                689
-            ]
-        },
-        {
-            "text": "-",
-            "id": 20,
-            "bbox": [
-                242,
-                677,
-                246,
-                689
-            ]
-        },
-        {
-            "text": "LEO/PT",
-            "id": 21,
-            "bbox": [
-                248,
-                677,
-                288,
-                688
-            ]
-        },
-        {
-            "text": "58",
-            "id": 22,
-            "bbox": [
-                293,
-                678,
-                304,
-                687
-            ]
-        },
-        {
-            "text": "RC001994",
-            "id": 23,
-            "bbox": [
-                91,
-                600,
-                150,
-                609
-            ]
-        },
-        {
-            "text": "RC001994",
-            "id": 24,
-            "bbox": [
-                96,
-                667,
-                149,
-                676
+                179,
+                316,
+                247,
+                332
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SLIPPER",
-                "Reavalli",
-                "Sandals",
-                "RN41261B",
-                "-",
-                "LEO/PT",
-                "58",
-                "SLIPPER",
-                "Rcavalli",
-                "Sandals",
-                "RN41261B",
-                "-",
-                "LEO/PT",
-                "58"
+                "13:22"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19,
-                20,
-                21,
-                22
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19/07/2020"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "roberto",
-                "cavali",
-                "junior"
-            ],
-            "value_id": [
-                1,
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "343"
-            ],
-            "value_id": [
-                6
             ]
         },
         {
@@ -321,23 +138,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RC001994",
-                "RC001994"
+                "10001006"
             ],
             "value_id": [
-                23,
-                24
+                12
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "01:37:26PM"
+                "24-07-2020"
             ],
             "value_id": [
-                5
+                2
             ]
         },
         {
@@ -345,12 +160,71 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "171.50",
-                "171.50"
+                "119"
             ],
             "value_id": [
-                7,
-                8
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0622441825004",
+                "T",
+                "-",
+                "SHIRT"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "119"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

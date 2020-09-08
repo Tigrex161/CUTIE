@@ -1,0 +1,288 @@
+{
+    "text_boxes": [
+        {
+            "text": "Tiziana",
+            "id": 1,
+            "bbox": [
+                256,
+                432,
+                326,
+                461
+            ]
+        },
+        {
+            "text": "Terenzi",
+            "id": 2,
+            "bbox": [
+                334,
+                432,
+                404,
+                462
+            ]
+        },
+        {
+            "text": "Perfumery",
+            "id": 3,
+            "bbox": [
+                413,
+                432,
+                512,
+                463
+            ]
+        },
+        {
+            "text": "&",
+            "id": 4,
+            "bbox": [
+                522,
+                433,
+                528,
+                462
+            ]
+        },
+        {
+            "text": "Co",
+            "id": 5,
+            "bbox": [
+                530,
+                433,
+                559,
+                463
+            ]
+        },
+        {
+            "text": "29/07/2020",
+            "id": 6,
+            "bbox": [
+                320,
+                627,
+                421,
+                650
+            ]
+        },
+        {
+            "text": "4:50",
+            "id": 7,
+            "bbox": [
+                429,
+                628,
+                467,
+                649
+            ]
+        },
+        {
+            "text": "pm",
+            "id": 8,
+            "bbox": [
+                475,
+                627,
+                501,
+                648
+            ]
+        },
+        {
+            "text": "AED1694.00",
+            "id": 9,
+            "bbox": [
+                527,
+                968,
+                652,
+                992
+            ]
+        },
+        {
+            "text": "AED",
+            "id": 10,
+            "bbox": [
+                525,
+                829,
+                559,
+                850
+            ]
+        },
+        {
+            "text": "1694.00",
+            "id": 11,
+            "bbox": [
+                570,
+                828,
+                639,
+                850
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                492,
+                830,
+                497,
+                850
+            ]
+        },
+        {
+            "text": "EXTRAIT",
+            "id": 13,
+            "bbox": [
+                186,
+                822,
+                280,
+                846
+            ]
+        },
+        {
+            "text": "DE",
+            "id": 14,
+            "bbox": [
+                289,
+                821,
+                317,
+                843
+            ]
+        },
+        {
+            "text": "PARFUM",
+            "id": 15,
+            "bbox": [
+                326,
+                817,
+                416,
+                842
+            ]
+        },
+        {
+            "text": "KAFF",
+            "id": 16,
+            "bbox": [
+                424,
+                815,
+                478,
+                839
+            ]
+        },
+        {
+            "text": "100",
+            "id": 17,
+            "bbox": [
+                187,
+                853,
+                221,
+                874
+            ]
+        },
+        {
+            "text": "ML",
+            "id": 18,
+            "bbox": [
+                231,
+                852,
+                262,
+                872
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4:50",
+                "pm"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "29/07/2020"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED",
+                "1694.00"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "EXTRAIT",
+                "DE",
+                "PARFUM",
+                "KAFF",
+                "100",
+                "ML"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Tiziana",
+                "Terenzi",
+                "Perfumery",
+                "&",
+                "Co"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED1694.00"
+            ],
+            "value_id": [
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1604.jpg"
+    }
+}

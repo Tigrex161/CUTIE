@@ -1,0 +1,228 @@
+{
+    "text_boxes": [
+        {
+            "text": "26",
+            "id": 1,
+            "bbox": [
+                513,
+                464,
+                526,
+                478
+            ]
+        },
+        {
+            "text": "Jul",
+            "id": 2,
+            "bbox": [
+                535,
+                464,
+                555,
+                478
+            ]
+        },
+        {
+            "text": ",",
+            "id": 3,
+            "bbox": [
+                559,
+                464,
+                561,
+                478
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                573,
+                464,
+                601,
+                479
+            ]
+        },
+        {
+            "text": "17:19",
+            "id": 5,
+            "bbox": [
+                610,
+                465,
+                646,
+                479
+            ]
+        },
+        {
+            "text": "1,250.00",
+            "id": 6,
+            "bbox": [
+                649,
+                734,
+                706,
+                746
+            ]
+        },
+        {
+            "text": "1,250.00",
+            "id": 7,
+            "bbox": [
+                658,
+                637,
+                716,
+                651
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                480,
+                639,
+                484,
+                649
+            ]
+        },
+        {
+            "text": "GCIWN",
+            "id": 9,
+            "bbox": [
+                137,
+                612,
+                174,
+                628
+            ]
+        },
+        {
+            "text": "SHOE",
+            "id": 10,
+            "bbox": [
+                183,
+                612,
+                210,
+                628
+            ]
+        },
+        {
+            "text": ":",
+            "id": 11,
+            "bbox": [
+                215,
+                612,
+                219,
+                628
+            ]
+        },
+        {
+            "text": "GUCCI",
+            "id": 12,
+            "bbox": [
+                221,
+                612,
+                257,
+                628
+            ]
+        },
+        {
+            "text": "01341110081518094210136",
+            "id": 13,
+            "bbox": [
+                140,
+                636,
+                310,
+                651
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:19"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "01341110081518094210136"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "26",
+                "Jul",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,250.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GCIWN",
+                "SHOE",
+                ":",
+                "GUCCI"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,250.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1470.jpg"
+    }
+}

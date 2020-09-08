@@ -1,195 +1,229 @@
 {
     "text_boxes": [
         {
-            "text": "Debenhams",
+            "text": "01/07/20",
             "id": 1,
             "bbox": [
-                309,
-                372,
-                426,
+                253,
+                375,
+                312,
                 393
             ]
         },
         {
-            "text": "Dubai",
+            "text": "12:36",
             "id": 2,
             "bbox": [
-                434,
+                323,
                 377,
-                487,
-                394
+                357,
+                393
             ]
         },
         {
-            "text": "Mall",
+            "text": "339.00",
             "id": 3,
             "bbox": [
-                496,
-                378,
-                533,
-                394
+                474,
+                626,
+                518,
+                642
             ]
         },
         {
-            "text": "13/07/2020",
+            "text": "197",
             "id": 4,
             "bbox": [
-                495,
-                837,
-                585,
-                858
+                475,
+                511,
+                493,
+                525
             ]
         },
         {
-            "text": "14:35",
+            "text": "00",
             "id": 5,
             "bbox": [
-                593,
-                840,
-                638,
-                860
+                503,
+                511,
+                517,
+                525
             ]
         },
         {
-            "text": "180.00",
+            "text": "142",
             "id": 6,
             "bbox": [
-                577,
-                1227,
-                631,
-                1246
+                474,
+                547,
+                494,
+                563
             ]
         },
         {
-            "text": "180.00",
+            "text": "00",
             "id": 7,
             "bbox": [
-                574,
-                1105,
-                625,
-                1120
+                503,
+                548,
+                518,
+                565
             ]
         },
         {
-            "text": "1.0",
+            "text": "1",
             "id": 8,
             "bbox": [
-                471,
-                1105,
-                492,
-                1119
+                207,
+                528,
+                209,
+                543
             ]
         },
         {
-            "text": "JACQUARD",
+            "text": "1",
             "id": 9,
             "bbox": [
-                170,
-                993,
-                271,
-                1014
+                206,
+                566,
+                208,
+                580
             ]
         },
         {
-            "text": "PARTY",
+            "text": "2",
             "id": 10,
             "bbox": [
-                280,
-                997,
-                338,
-                1016
+                512,
+                588,
+                517,
+                601
             ]
         },
         {
-            "text": "DRESS",
+            "text": "Gift",
             "id": 11,
             "bbox": [
-                346,
-                999,
-                406,
-                1018
+                198,
+                490,
+                226,
+                503
             ]
         },
         {
-            "text": "1.0",
+            "text": "PERF",
             "id": 12,
             "bbox": [
-                471,
-                1226,
-                493,
-                1243
+                198,
+                509,
+                225,
+                523
             ]
         },
         {
-            "text": "\u0623\u0635\u0646\u0627\u0641",
+            "text": "RELAX",
             "id": 13,
             "bbox": [
-                211,
-                1020,
-                263,
-                1037
+                237,
+                509,
+                273,
+                523
             ]
         },
         {
-            "text": "\u0639\u0627\u0633\u0629",
+            "text": "ORIENTAL",
             "id": 14,
             "bbox": [
-                169,
-                1020,
-                201,
-                1034
+                283,
+                509,
+                340,
+                525
+            ]
+        },
+        {
+            "text": "SCENT",
+            "id": 15,
+            "bbox": [
+                198,
+                545,
+                233,
+                561
+            ]
+        },
+        {
+            "text": "BOUQ",
+            "id": 16,
+            "bbox": [
+                245,
+                546,
+                273,
+                562
+            ]
+        },
+        {
+            "text": "CUBE",
+            "id": 17,
+            "bbox": [
+                283,
+                547,
+                311,
+                563
+            ]
+        },
+        {
+            "text": "VENT",
+            "id": 18,
+            "bbox": [
+                321,
+                548,
+                349,
+                563
+            ]
+        },
+        {
+            "text": "900914052",
+            "id": 19,
+            "bbox": [
+                237,
+                528,
+                304,
+                543
+            ]
+        },
+        {
+            "text": "X900610880",
+            "id": 20,
+            "bbox": [
+                221,
+                565,
+                304,
+                581
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "JACQUARD",
-                "PARTY",
-                "DRESS"
+                "12:36"
             ],
             "value_id": [
-                9,
-                10,
-                11
+                2
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.0"
+                "900914052",
+                "X900610880"
             ],
             "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0623\u0635\u0646\u0627\u0641",
-                "\u0639\u0627\u0633\u0629"
-            ],
-            "value_id": [
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.0"
-            ],
-            "value_id": [
-                8
+                19,
+                20
             ]
         },
         {
@@ -197,47 +231,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13/07/2020"
+                "01/07/20"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Debenhams",
-                "Dubai",
-                "Mall"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "180.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:35"
-            ],
-            "value_id": [
-                5
+                1
             ]
         },
         {
@@ -245,10 +242,76 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "180.00"
+                "197",
+                "00",
+                "142",
+                "00"
             ],
             "value_id": [
+                4,
+                5,
+                6,
                 7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Gift",
+                "PERF",
+                "RELAX",
+                "ORIENTAL",
+                "SCENT",
+                "BOUQ",
+                "CUBE",
+                "VENT"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "339.00"
+            ],
+            "value_id": [
+                3
             ]
         }
     ],

@@ -1,155 +1,232 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                503,
-                285,
-                529,
-                295
+                271,
+                325,
+                421,
+                365
+            ]
+        },
+        {
+            "text": "GF020",
+            "id": 2,
+            "bbox": [
+                361,
+                355,
+                389,
+                373
+            ]
+        },
+        {
+            "text": "-",
+            "id": 3,
+            "bbox": [
+                394,
+                355,
+                399,
+                371
+            ]
+        },
+        {
+            "text": "June",
+            "id": 4,
+            "bbox": [
+                358,
+                399,
+                374,
+                411
+            ]
+        },
+        {
+            "text": "04",
+            "id": 5,
+            "bbox": [
+                375,
+                397,
+                387,
+                409
+            ]
+        },
+        {
+            "text": ",",
+            "id": 6,
+            "bbox": [
+                385,
+                398,
+                388,
+                408
             ]
         },
         {
             "text": "2020",
-            "id": 2,
+            "id": 7,
             "bbox": [
-                542,
-                285,
-                569,
-                294
+                390,
+                395,
+                409,
+                408
             ]
         },
         {
-            "text": "14:19",
-            "id": 3,
+            "text": "19:00",
+            "id": 8,
             "bbox": [
-                580,
-                284,
-                615,
-                295
+                416,
+                393,
+                437,
+                405
             ]
         },
         {
-            "text": "11,600.00",
-            "id": 4,
+            "text": "25,730.00",
+            "id": 9,
             "bbox": [
+                442,
                 634,
-                547,
-                698,
-                559
+                484,
+                645
             ]
         },
         {
-            "text": "11,600.00",
-            "id": 5,
+            "text": "25,730.00",
+            "id": 10,
             "bbox": [
-                636,
-                449,
-                700,
-                460
+                496,
+                518,
+                534,
+                528
             ]
         },
         {
             "text": "1",
-            "id": 6,
-            "bbox": [
-                458,
-                454,
-                461,
-                462
-            ]
-        },
-        {
-            "text": "BOTTEGA",
-            "id": 7,
-            "bbox": [
-                98,
-                436,
-                150,
-                447
-            ]
-        },
-        {
-            "text": "VENETA",
-            "id": 8,
-            "bbox": [
-                160,
-                434,
-                206,
-                444
-            ]
-        },
-        {
-            "text": "WOMENS",
-            "id": 9,
-            "bbox": [
-                214,
-                433,
-                260,
-                443
-            ]
-        },
-        {
-            "text": "BAGS",
-            "id": 10,
-            "bbox": [
-                269,
-                430,
-                300,
-                445
-            ]
-        },
-        {
-            "text": "L",
             "id": 11,
             "bbox": [
-                311,
-                432,
-                342,
-                444
+                337,
+                526,
+                338,
+                533
             ]
         },
         {
-            "text": "i",
+            "text": "FLAPBAG",
             "id": 12,
             "bbox": [
-                388,
-                431,
-                423,
-                442
+                144,
+                524,
+                185,
+                534
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                337,
+                551,
+                339,
+                560
+            ]
+        },
+        {
+            "text": "A0111201588C3906",
+            "id": 14,
+            "bbox": [
+                146,
+                534,
+                227,
+                547
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BOTTEGA",
-                "VENETA",
-                "WOMENS",
-                "BAGS"
+                "19:00"
             ],
             "value_id": [
-                7,
-                8,
-                9,
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A0111201588C3906"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "June",
+                "04",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25,730.00"
+            ],
+            "value_id": [
                 10
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L",
-                "i"
+                "FLAPBAG"
             ],
             "value_id": [
-                11,
                 12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL",
+                "GF020",
+                "-"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
             ]
         },
         {
@@ -160,20 +237,7 @@
                 "1"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
+                11
             ]
         },
         {
@@ -181,32 +245,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11,600.00"
+                "25,730.00"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:19"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11,600.00"
-            ],
-            "value_id": [
-                5
+                9
             ]
         }
     ],

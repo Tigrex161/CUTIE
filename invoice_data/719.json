@@ -1,142 +1,208 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "/",
             "id": 1,
             "bbox": [
-                520,
-                347,
-                553,
-                360
+                288,
+                170,
+                311,
+                249
             ]
         },
         {
-            "text": "2020",
+            "text": "7/17/2020",
             "id": 2,
             "bbox": [
-                568,
-                346,
-                603,
-                359
+                391,
+                419,
+                466,
+                445
             ]
         },
         {
-            "text": "16:39",
+            "text": "180.00",
             "id": 3,
             "bbox": [
-                616,
-                346,
-                659,
-                358
+                604,
+                759,
+                657,
+                780
             ]
         },
         {
-            "text": "1,395.00",
+            "text": "99.00",
             "id": 4,
             "bbox": [
-                699,
-                669,
-                774,
-                683
+                601,
+                572,
+                645,
+                593
             ]
         },
         {
-            "text": "1,395.00",
+            "text": "87.00",
             "id": 5,
             "bbox": [
-                699,
-                549,
-                773,
-                562
+                601,
+                619,
+                645,
+                640
             ]
         },
         {
-            "text": "1.",
+            "text": "30",
             "id": 6,
             "bbox": [
-                470,
-                555,
-                476,
-                565
+                434,
+                576,
+                450,
+                598
             ]
         },
         {
-            "text": "FENDI",
+            "text": "30",
             "id": 7,
             "bbox": [
-                27,
-                531,
-                72,
-                543
+                435,
+                621,
+                451,
+                638
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "60",
             "id": 8,
             "bbox": [
-                85,
-                530,
-                141,
-                543
+                635,
+                700,
+                652,
+                717
             ]
         },
         {
-            "text": "SHOES",
+            "text": "Colombia",
             "id": 9,
             "bbox": [
-                154,
-                526,
-                200,
-                543
+                231,
+                575,
+                303,
+                597
             ]
         },
         {
-            "text": "Lisi",
+            "text": "NO",
             "id": 10,
             "bbox": [
-                281,
-                526,
-                320,
-                542
+                315,
+                575,
+                331,
+                597
+            ]
+        },
+        {
+            "text": "-",
+            "id": 11,
+            "bbox": [
+                335,
+                575,
+                339,
+                597
+            ]
+        },
+        {
+            "text": "Origina",
+            "id": 12,
+            "bbox": [
+                343,
+                575,
+                405,
+                598
+            ]
+        },
+        {
+            "text": "Linizio",
+            "id": 13,
+            "bbox": [
+                230,
+                617,
+                294,
+                641
+            ]
+        },
+        {
+            "text": "Lungo",
+            "id": 14,
+            "bbox": [
+                306,
+                618,
+                351,
+                642
+            ]
+        },
+        {
+            "text": "6771530",
+            "id": 15,
+            "bbox": [
+                135,
+                574,
+                200,
+                595
+            ]
+        },
+        {
+            "text": "6762230",
+            "id": 16,
+            "bbox": [
+                132,
+                616,
+                199,
+                640
+            ]
+        },
+        {
+            "text": "\u0627\u0645\u0631",
+            "id": 17,
+            "bbox": [
+                188,
+                638,
+                245,
+                659
+            ]
+        },
+        {
+            "text": "\u0648",
+            "id": 18,
+            "bbox": [
+                185,
+                638,
+                190,
+                659
+            ]
+        },
+        {
+            "text": "\u0646\u0648\u0627\u0641\u064a",
+            "id": 19,
+            "bbox": [
+                122,
+                638,
+                170,
+                659
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FENDI",
-                "WOMENS",
-                "SHOES"
+                "6771530",
+                "6762230"
             ],
             "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Lisi"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                6
+                15,
+                16
             ]
         },
         {
@@ -144,34 +210,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "7/17/2020"
             ],
             "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,395.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:39"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -179,10 +221,94 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,395.00"
+                "99.00",
+                "87.00"
             ],
             "value_id": [
+                4,
                 5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0645\u0631",
+                "\u0648",
+                "\u0646\u0648\u0627\u0641\u064a"
+            ],
+            "value_id": [
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Colombia",
+                "NO",
+                "-",
+                "Origina",
+                "Linizio",
+                "Lungo"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "/"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "60"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30",
+                "30"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "180.00"
+            ],
+            "value_id": [
+                3
             ]
         }
     ],

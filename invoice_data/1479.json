@@ -1,0 +1,231 @@
+{
+    "text_boxes": [
+        {
+            "text": "H\u00e4mleys",
+            "id": 1,
+            "bbox": [
+                285,
+                197,
+                422,
+                287
+            ]
+        },
+        {
+            "text": "30/07/20",
+            "id": 2,
+            "bbox": [
+                258,
+                503,
+                308,
+                524
+            ]
+        },
+        {
+            "text": "20:34",
+            "id": 3,
+            "bbox": [
+                315,
+                499,
+                349,
+                520
+            ]
+        },
+        {
+            "text": "PAW",
+            "id": 4,
+            "bbox": [
+                263,
+                603,
+                282,
+                620
+            ]
+        },
+        {
+            "text": "PATROL",
+            "id": 5,
+            "bbox": [
+                289,
+                599,
+                327,
+                619
+            ]
+        },
+        {
+            "text": "BASIC",
+            "id": 6,
+            "bbox": [
+                334,
+                597,
+                366,
+                616
+            ]
+        },
+        {
+            "text": "VEH",
+            "id": 7,
+            "bbox": [
+                374,
+                595,
+                392,
+                613
+            ]
+        },
+        {
+            "text": "MY",
+            "id": 8,
+            "bbox": [
+                265,
+                636,
+                277,
+                654
+            ]
+        },
+        {
+            "text": "SMART",
+            "id": 9,
+            "bbox": [
+                285,
+                633,
+                317,
+                653
+            ]
+        },
+        {
+            "text": "PAL",
+            "id": 10,
+            "bbox": [
+                323,
+                632,
+                342,
+                650
+            ]
+        },
+        {
+            "text": "MONKEY",
+            "id": 11,
+            "bbox": [
+                349,
+                628,
+                388,
+                648
+            ]
+        },
+        {
+            "text": "75.00",
+            "id": 12,
+            "bbox": [
+                471,
+                585,
+                504,
+                606
+            ]
+        },
+        {
+            "text": "69.00",
+            "id": 13,
+            "bbox": [
+                472,
+                617,
+                505,
+                636
+            ]
+        },
+        {
+            "text": "144.00",
+            "id": 14,
+            "bbox": [
+                481,
+                647,
+                520,
+                665
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:34"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30/07/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "75.00",
+                "69.00"
+            ],
+            "value_id": [
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PAW",
+                "PATROL",
+                "BASIC",
+                "VEH",
+                "MY",
+                "SMART",
+                "PAL",
+                "MONKEY"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "H\u00e4mleys"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "144.00"
+            ],
+            "value_id": [
+                14
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1479.jpg"
+    }
+}

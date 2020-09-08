@@ -1,94 +1,174 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                294,
-                348,
-                436,
-                389
+                419,
+                286,
+                603,
+                359
             ]
         },
         {
-            "text": "2207/2020",
+            "text": "0",
             "id": 2,
             "bbox": [
-                81,
-                588,
-                123,
-                599
+                179,
+                983,
+                181,
+                992
             ]
         },
         {
-            "text": "21:19",
+            "text": "\u0627\u0648",
             "id": 3,
             "bbox": [
-                132,
-                586,
-                152,
-                595
+                142,
+                982,
+                167,
+                993
             ]
         },
         {
-            "text": "3.700.00",
+            "text": "\u0631",
             "id": 4,
             "bbox": [
-                586,
-                685,
-                620,
-                694
+                134,
+                984,
+                136,
+                993
             ]
         },
         {
-            "text": "3.523.81",
+            "text": "\u0632\u0647",
             "id": 5,
             "bbox": [
-                607,
-                630,
-                640,
-                640
+                126,
+                984,
+                131,
+                993
             ]
         },
         {
-            "text": "Women",
+            "text": "\u0627\u0644\u0635\u0627\u0644",
             "id": 6,
             "bbox": [
-                224,
-                657,
-                253,
-                666
+                208,
+                981,
+                235,
+                991
             ]
         },
         {
-            "text": "Shoe",
+            "text": "13",
             "id": 7,
             "bbox": [
-                256,
-                654,
-                274,
-                664
+                189,
+                983,
+                199,
+                992
             ]
         },
         {
-            "text": "KCC201TEL",
+            "text": "11eeee",
             "id": 8,
             "bbox": [
-                88,
-                665,
-                135,
-                676
+                871,
+                820,
+                914,
+                831
+            ]
+        },
+        {
+            "text": "22",
+            "id": 9,
+            "bbox": [
+                871,
+                760,
+                919,
+                774
+            ]
+        },
+        {
+            "text": "EARRINGS",
+            "id": 10,
+            "bbox": [
+                144,
+                759,
+                187,
+                770
+            ]
+        },
+        {
+            "text": "LOVE",
+            "id": 11,
+            "bbox": [
+                190,
+                759,
+                210,
+                770
+            ]
+        },
+        {
+            "text": "YG",
+            "id": 12,
+            "bbox": [
+                214,
+                759,
+                224,
+                770
+            ]
+        },
+        {
+            "text": "M",
+            "id": 13,
+            "bbox": [
+                227,
+                759,
+                230,
+                770
+            ]
+        },
+        {
+            "text": "-",
+            "id": 14,
+            "bbox": [
+                238,
+                759,
+                239,
+                770
+            ]
+        },
+        {
+            "text": "1",
+            "id": 15,
+            "bbox": [
+                244,
+                759,
+                245,
+                770
+            ]
+        },
+        {
+            "text": "ag022500",
+            "id": 16,
+            "bbox": [
+                204,
+                771,
+                256,
+                786
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Women",
-                "Shoe"
+                "\u0627\u0644\u0635\u0627\u0644",
+                "13"
             ],
             "value_id": [
                 6,
@@ -96,14 +176,63 @@
             ]
         },
         {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ag022500"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2207/2020"
+                "0",
+                "\u0627\u0648",
+                "\u0631",
+                "\u0632\u0647"
             ],
             "value_id": [
-                2
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "22"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "EARRINGS",
+                "LOVE",
+                "YG",
+                "M",
+                "-",
+                "1"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
             ]
         },
         {
@@ -111,7 +240,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR"
+                "Cartier"
             ],
             "value_id": [
                 1
@@ -122,43 +251,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3.700.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "KCC201TEL"
+                "11eeee"
             ],
             "value_id": [
                 8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21:19"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3.523.81"
-            ],
-            "value_id": [
-                5
             ]
         }
     ],

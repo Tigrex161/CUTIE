@@ -1,142 +1,103 @@
 {
     "text_boxes": [
         {
-            "text": "ACQUA",
+            "text": "10.07.2020",
             "id": 1,
             "bbox": [
-                375,
-                419,
-                427,
-                425
+                219,
+                276,
+                281,
+                291
             ]
         },
         {
-            "text": "orPAR",
+            "text": "20:13",
             "id": 2,
             "bbox": [
-                437,
-                419,
-                468,
-                428
+                289,
+                279,
+                317,
+                293
             ]
         },
         {
-            "text": "MA",
+            "text": "1",
             "id": 3,
             "bbox": [
-                477,
-                422,
-                496,
-                428
+                294,
+                364,
+                296,
+                376
             ]
         },
         {
-            "text": "02-Jul-2020",
+            "text": "100025130826B0010000S",
             "id": 4,
             "bbox": [
-                380,
-                521,
-                426,
-                531
+                221,
+                376,
+                362,
+                392
             ]
         },
         {
-            "text": "16:33",
+            "text": "TROUSERS",
             "id": 5,
             "bbox": [
-                432,
-                522,
-                451,
-                530
+                379,
+                376,
+                425,
+                392
             ]
         },
         {
-            "text": "00.00",
+            "text": "100014030279206374304",
             "id": 6,
             "bbox": [
-                486,
-                770,
-                510,
-                778
+                220,
+                348,
+                361,
+                363
             ]
         },
         {
-            "text": "S06.00",
+            "text": "TROUSERS",
             "id": 7,
             "bbox": [
-                504,
-                693,
-                527,
-                703
-            ]
-        },
-        {
-            "text": "81071:SIG.",
-            "id": 8,
-            "bbox": [
-                298,
-                662,
-                337,
-                671
-            ]
-        },
-        {
-            "text": "AMBRA",
-            "id": 9,
-            "bbox": [
-                344,
-                663,
-                364,
-                670
-            ]
-        },
-        {
-            "text": "EDP",
-            "id": 10,
-            "bbox": [
-                369,
-                664,
-                380,
-                671
-            ]
-        },
-        {
-            "text": "1OOML",
-            "id": 11,
-            "bbox": [
-                386,
-                664,
-                404,
-                671
-            ]
-        },
-        {
-            "text": "000114503035",
-            "id": 12,
-            "bbox": [
-                298,
-                647,
-                347,
-                658
+                377,
+                350,
+                423,
+                364
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:13"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "81071:SIG.",
-                "AMBRA",
-                "EDP",
-                "1OOML"
+                "100025130826B0010000S",
+                "TROUSERS",
+                "100014030279206374304",
+                "TROUSERS"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11
+                4,
+                5,
+                6,
+                7
             ]
         },
         {
@@ -144,69 +105,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02-Jul-2020"
+                "10.07.2020"
             ],
             "value_id": [
-                4
+                1
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ACQUA",
-                "orPAR",
-                "MA"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "00.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "000114503035"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:33"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "S06.00"
-            ],
-            "value_id": [
-                7
             ]
         }
     ],

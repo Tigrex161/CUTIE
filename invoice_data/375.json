@@ -1,271 +1,177 @@
 {
     "text_boxes": [
         {
-            "text": "BOSS",
+            "text": "AQUAZZURA",
             "id": 1,
             "bbox": [
-                810,
-                152,
-                1334,
-                323
+                313,
+                233,
+                422,
+                253
             ]
         },
         {
-            "text": "HUGO",
+            "text": "\u0648\u0647",
             "id": 2,
             "bbox": [
-                825,
-                295,
-                1044,
-                342
+                359,
+                254,
+                367,
+                260
             ]
         },
         {
-            "text": "BOSS",
+            "text": "15.",
             "id": 3,
             "bbox": [
-                1112,
-                317,
-                1323,
-                371
+                435,
+                519,
+                443,
+                529
             ]
         },
         {
-            "text": "10.07.20",
+            "text": "My",
             "id": 4,
             "bbox": [
-                1081,
-                1210,
-                1285,
-                1252
+                445,
+                519,
+                458,
+                529
             ]
         },
         {
-            "text": "15:34",
+            "text": "20052331",
             "id": 5,
             "bbox": [
-                1081,
-                1274,
-                1205,
-                1316
+                461,
+                517,
+                502,
+                529
             ]
         },
         {
-            "text": "322.00",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                1314,
-                2898,
-                1487,
-                2943
+                505,
+                517,
+                515,
+                527
             ]
         },
         {
-            "text": "322.00",
+            "text": "1,4565",
             "id": 7,
             "bbox": [
-                1458,
-                1884,
-                1613,
-                1919
+                595,
+                667,
+                623,
+                678
             ]
         },
         {
-            "text": "1",
+            "text": "12900",
             "id": 8,
             "bbox": [
-                944,
-                1880,
-                953,
-                1913
+                595,
+                564,
+                621,
+                574
             ]
         },
         {
-            "text": "4029052589062",
+            "text": "AQZ",
             "id": 9,
             "bbox": [
-                465,
-                1868,
-                825,
-                1910
+                328,
+                570,
+                342,
+                578
             ]
         },
         {
-            "text": "Lamberto",
+            "text": "WOMEN",
             "id": 10,
             "bbox": [
-                454,
-                1998,
-                679,
-                2038
+                345,
+                569,
+                374,
+                578
             ]
         },
         {
-            "text": "10218214",
+            "text": "SHOES",
             "id": 11,
             "bbox": [
-                716,
-                1999,
-                933,
-                2039
+                376,
+                569,
+                398,
+                578
             ]
         },
         {
-            "text": "01,",
+            "text": "PSHMIDMO",
             "id": 12,
             "bbox": [
-                966,
-                2002,
-                1036,
-                2041
+                131,
+                571,
+                172,
+                582
             ]
         },
         {
-            "text": "00,",
+            "text": "-",
             "id": 13,
             "bbox": [
-                1071,
-                1997,
-                1194,
-                2052
+                174,
+                572,
+                176,
+                581
             ]
         },
         {
-            "text": "100,",
+            "text": "MTS",
             "id": 14,
             "bbox": [
-                1191,
-                2004,
-                1287,
-                2043
+                176,
+                572,
+                193,
+                581
             ]
         },
         {
-            "text": "L",
+            "text": "\u062c\u0627\u0621",
             "id": 15,
             "bbox": [
-                1327,
-                2007,
-                1351,
-                2042
+                351,
+                583,
+                363,
+                593
             ]
         },
         {
-            "text": "Color",
+            "text": "\u0627\u0633\u0627\u0644\u0645\u064a",
             "id": 16,
             "bbox": [
-                448,
-                2064,
-                587,
-                2104
-            ]
-        },
-        {
-            "text": "White;",
-            "id": 17,
-            "bbox": [
-                622,
-                2065,
-                779,
-                2106
-            ]
-        },
-        {
-            "text": "Size",
-            "id": 18,
-            "bbox": [
-                824,
-                2066,
-                929,
-                2103
-            ]
-        },
-        {
-            "text": "L;",
-            "id": 19,
-            "bbox": [
-                964,
-                2066,
-                1005,
-                2107
+                330,
+                583,
+                349,
+                594
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Lamberto",
-                "10218214",
-                "01,",
-                "00,",
-                "100,",
-                "L",
-                "Color",
-                "White;",
-                "Size",
-                "L;"
+                "20052331",
+                "PM"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10.07.20"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "BOSS",
-                "HUGO",
-                "BOSS"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "322.00"
-            ],
-            "value_id": [
+                5,
                 6
             ]
         },
@@ -274,21 +180,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4029052589062"
+                "PSHMIDMO",
+                "-",
+                "MTS"
             ],
             "value_id": [
-                9
+                12,
+                13,
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15:34"
+                "15.",
+                "My"
             ],
             "value_id": [
-                5
+                3,
+                4
             ]
         },
         {
@@ -296,7 +208,59 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "322.00"
+                "12900"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062c\u0627\u0621",
+                "\u0627\u0633\u0627\u0644\u0645\u064a"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AQZ",
+                "WOMEN",
+                "SHOES"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AQUAZZURA",
+                "\u0648\u0647"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,4565"
             ],
             "value_id": [
                 7

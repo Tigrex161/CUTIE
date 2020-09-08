@@ -1,174 +1,207 @@
 {
     "text_boxes": [
         {
-            "text": "SUPER",
+            "text": "NIKE",
             "id": 1,
             "bbox": [
-                368,
-                339,
-                417,
-                350
+                370,
+                185,
+                435,
+                204
             ]
         },
         {
-            "text": "CARE",
+            "text": "BEACON",
             "id": 2,
             "bbox": [
-                423,
-                340,
-                462,
-                351
-            ]
-        },
-        {
-            "text": "PHARMACY",
-            "id": 3,
-            "bbox": [
-                469,
-                340,
-                552,
-                352
+                456,
+                183,
+                556,
+                204
             ]
         },
         {
             "text": "13/07/2020",
+            "id": 3,
+            "bbox": [
+                326,
+                327,
+                409,
+                347
+            ]
+        },
+        {
+            "text": "13:27",
             "id": 4,
             "bbox": [
-                382,
-                459,
-                425,
-                468
+                325,
+                354,
+                365,
+                374
             ]
         },
         {
-            "text": "14:54",
+            "text": "549.00",
             "id": 5,
             "bbox": [
-                433,
-                460,
-                453,
-                469
+                614,
+                1084,
+                671,
+                1109
             ]
         },
         {
-            "text": "219.00",
+            "text": "49.00",
             "id": 6,
             "bbox": [
-                561,
-                762,
-                600,
-                770
+                604,
+                705,
+                658,
+                726
             ]
         },
         {
-            "text": "219.00",
+            "text": "WMNS",
             "id": 7,
             "bbox": [
-                578,
-                688,
-                606,
-                696
+                171,
+                731,
+                205,
+                750
             ]
         },
         {
-            "text": "2.00",
+            "text": "AIR",
             "id": 8,
             "bbox": [
-                313,
-                689,
-                330,
-                697
+                217,
+                731,
+                242,
+                750
             ]
         },
         {
-            "text": "CENTRUM",
+            "text": "FORCE",
             "id": 9,
             "bbox": [
-                318,
-                666,
-                372,
-                676
+                253,
+                731,
+                295,
+                752
             ]
         },
         {
-            "text": "WOMEN",
+            "text": "1",
             "id": 10,
             "bbox": [
-                377,
-                666,
-                419,
-                676
+                307,
+                732,
+                311,
+                751
             ]
         },
         {
-            "text": "TAB",
+            "text": "'07",
             "id": 11,
             "bbox": [
-                424,
-                666,
-                445,
-                676
+                327,
+                733,
+                349,
+                752
             ]
         },
         {
-            "text": "60S",
+            "text": "SE",
             "id": 12,
             "bbox": [
-                451,
-                666,
-                467,
-                675
+                360,
+                733,
+                375,
+                752
             ]
         },
         {
-            "text": "200",
+            "text": "NKCT1414-101",
             "id": 13,
             "bbox": [
-                456,
-                783,
-                472,
-                790
+                173,
+                702,
+                275,
+                723
+            ]
+        },
+        {
+            "text": "\u0633\u0627\u062f\u064a\u0627",
+            "id": 14,
+            "bbox": [
+                279,
+                761,
+                331,
+                783
+            ]
+        },
+        {
+            "text": "\u00ab",
+            "id": 15,
+            "bbox": [
+                262,
+                761,
+                268,
+                783
+            ]
+        },
+        {
+            "text": "\u0630\u0627\u0621",
+            "id": 16,
+            "bbox": [
+                239,
+                761,
+                260,
+                783
+            ]
+        },
+        {
+            "text": "\u0627\u06cc\u0631",
+            "id": 17,
+            "bbox": [
+                210,
+                761,
+                229,
+                783
+            ]
+        },
+        {
+            "text": "\u0641\u0648\u0631",
+            "id": 18,
+            "bbox": [
+                178,
+                761,
+                200,
+                783
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CENTRUM",
-                "WOMEN",
-                "TAB",
-                "60S"
+                "13:27"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12
+                4
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "200"
+                "NKCT1414-101"
             ],
             "value_id": [
                 13
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2.00"
-            ],
-            "value_id": [
-                8
             ]
         },
         {
@@ -179,44 +212,7 @@
                 "13/07/2020"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SUPER",
-                "CARE",
-                "PHARMACY"
-            ],
-            "value_id": [
-                1,
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "219.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:54"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -224,10 +220,74 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "219.00"
+                "49.00"
             ],
             "value_id": [
-                7
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0633\u0627\u062f\u064a\u0627",
+                "\u00ab",
+                "\u0630\u0627\u0621",
+                "\u0627\u06cc\u0631",
+                "\u0641\u0648\u0631"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WMNS",
+                "AIR",
+                "FORCE",
+                "1",
+                "'07",
+                "SE"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NIKE",
+                "BEACON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "549.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

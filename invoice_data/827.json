@@ -1,178 +1,147 @@
 {
     "text_boxes": [
         {
-            "text": "Cartier",
+            "text": "SYMPHONY",
             "id": 1,
             "bbox": [
-                337,
-                249,
-                462,
-                284
+                298,
+                205,
+                537,
+                264
             ]
         },
         {
-            "text": "16/07/2020",
+            "text": "13/07/20",
             "id": 2,
             "bbox": [
-                128,
-                744,
-                174,
-                756
+                216,
+                391,
+                257,
+                406
             ]
         },
         {
-            "text": "12:18:27",
+            "text": "09:05:05",
             "id": 3,
             "bbox": [
-                178,
-                744,
-                212,
-                752
+                262,
+                389,
+                306,
+                404
             ]
         },
         {
-            "text": "1,470.00",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                696,
-                584,
-                724,
-                590
+                310,
+                388,
+                326,
+                402
             ]
         },
         {
-            "text": "1,470.00",
+            "text": "4340.00",
             "id": 5,
             "bbox": [
-                695,
-                548,
-                724,
-                556
+                699,
+                539,
+                745,
+                555
             ]
         },
         {
-            "text": "COMPACT",
+            "text": "4000",
             "id": 6,
             "bbox": [
-                160,
-                562,
-                191,
-                569
+                707,
+                494,
+                745,
+                507
             ]
         },
         {
-            "text": "WAL",
+            "text": "1",
             "id": 7,
             "bbox": [
-                193,
-                562,
-                207,
-                568
+                297,
+                492,
+                299,
+                500
             ]
         },
         {
-            "text": "MUSTE",
+            "text": "MATICEVSKI",
             "id": 8,
             "bbox": [
-                209,
-                561,
-                232,
-                567
+                100,
+                510,
+                157,
+                522
             ]
         },
         {
-            "text": "CCELKA",
+            "text": "BLUSH",
             "id": 9,
             "bbox": [
-                235,
-                560,
-                262,
-                566
+                161,
+                510,
+                191,
+                522
             ]
         },
         {
-            "text": "BON",
+            "text": "/",
             "id": 10,
             "bbox": [
-                265,
-                560,
-                277,
-                564
+                195,
+                510,
+                196,
+                522
             ]
         },
         {
-            "text": "CALF",
+            "text": "10",
             "id": 11,
             "bbox": [
-                280,
-                557,
-                294,
-                563
+                199,
+                510,
+                207,
+                522
             ]
         },
         {
-            "text": "LI001549",
+            "text": "Dressos",
             "id": 12,
             "bbox": [
-                202,
-                570,
-                238,
-                578
+                211,
+                510,
+                247,
+                523
+            ]
+        },
+        {
+            "text": "5699100630542",
+            "id": 13,
+            "bbox": [
+                102,
+                489,
+                170,
+                502
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "COMPACT",
-                "WAL",
-                "MUSTE",
-                "CCELKA",
-                "BON",
-                "CALF"
+                "09:05:05",
+                "PM"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Cartier"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,470.00"
-            ],
-            "value_id": [
+                3,
                 4
             ]
         },
@@ -181,21 +150,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LI001549"
+                "5699100630542"
             ],
             "value_id": [
-                12
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:18:27"
+                "13/07/20"
             ],
             "value_id": [
-                3
+                2
             ]
         },
         {
@@ -203,7 +172,59 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,470.00"
+                "4000"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MATICEVSKI",
+                "BLUSH",
+                "/",
+                "10",
+                "Dressos"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SYMPHONY"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4340.00"
             ],
             "value_id": [
                 5

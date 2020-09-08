@@ -1,116 +1,173 @@
 {
     "text_boxes": [
         {
-            "text": "OPTICAL",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
                 317,
-                428,
-                457,
-                454
+                315,
+                466,
+                363
             ]
         },
         {
-            "text": "16/07/2020",
+            "text": "24/07/2020",
             "id": 2,
             "bbox": [
-                213,
-                784,
-                292,
-                804
+                91,
+                572,
+                133,
+                581
             ]
         },
         {
-            "text": "965.00",
+            "text": "20:45",
             "id": 3,
             "bbox": [
-                793,
-                1185,
-                846,
-                1198
+                143,
+                572,
+                163,
+                581
             ]
         },
         {
-            "text": "965.00",
+            "text": "10.00.00",
             "id": 4,
             "bbox": [
-                805,
-                987,
-                845,
-                997
+                591,
+                718,
+                627,
+                729
             ]
         },
         {
-            "text": "1.00",
+            "text": "476.19",
             "id": 5,
             "bbox": [
-                354,
-                985,
-                380,
-                996
+                618,
+                649,
+                650,
+                658
             ]
         },
         {
-            "text": "SG-SER-8819XXXX-",
+            "text": "3.1-0.86",
             "id": 6,
             "bbox": [
-                142,
-                983,
-                263,
-                998
+                617,
+                664,
+                650,
+                673
             ]
         },
         {
-            "text": "101882",
+            "text": "1",
             "id": 7,
             "bbox": [
-                150,
-                1010,
-                191,
-                1024
+                380,
+                650,
+                381,
+                658
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                381,
+                665,
+                381,
+                672
+            ]
+        },
+        {
+            "text": "Women",
+            "id": 9,
+            "bbox": [
+                228,
+                651,
+                257,
+                660
+            ]
+        },
+        {
+            "text": "Them",
+            "id": 10,
+            "bbox": [
+                265,
+                651,
+                277,
+                660
+            ]
+        },
+        {
+            "text": "Wam",
+            "id": 11,
+            "bbox": [
+                229,
+                664,
+                248,
+                673
+            ]
+        },
+        {
+            "text": "Te",
+            "id": 12,
+            "bbox": [
+                263,
+                664,
+                271,
+                673
+            ]
+        },
+        {
+            "text": "Shin",
+            "id": 13,
+            "bbox": [
+                280,
+                664,
+                298,
+                673
+            ]
+        },
+        {
+            "text": "2",
+            "id": 14,
+            "bbox": [
+                379,
+                694,
+                381,
+                702
+            ]
+        },
+        {
+            "text": "142.0CARI69",
+            "id": 15,
+            "bbox": [
+                91,
+                649,
+                142,
+                661
+            ]
+        },
+        {
+            "text": "043T037144",
+            "id": 16,
+            "bbox": [
+                91,
+                663,
+                139,
+                674
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_quantity",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "OPTICAL"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "965.00"
+                "20:45"
             ],
             "value_id": [
                 3
@@ -121,12 +178,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SG-SER-8819XXXX-",
-                "101882"
+                "142.0CARI69",
+                "043T037144"
             ],
             "value_id": [
-                6,
-                7
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24/07/2020"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -134,7 +202,74 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "965.00"
+                "476.19",
+                "3.1-0.86"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Women",
+                "Them",
+                "Wam",
+                "Te",
+                "Shin"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10.00.00"
             ],
             "value_id": [
                 4

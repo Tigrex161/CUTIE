@@ -1,122 +1,157 @@
 {
     "text_boxes": [
         {
-            "text": "BRANDS",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                236,
-                241,
-                326,
-                257
+                251,
+                125,
+                324,
+                141
             ]
         },
         {
-            "text": "FOR",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
                 336,
-                245,
-                379,
-                261
+                126,
+                417,
+                142
             ]
         },
         {
-            "text": "18A07/2020",
+            "text": "14/07/20",
             "id": 3,
             "bbox": [
-                290,
-                397,
-                363,
-                411
+                215,
+                361,
+                285,
+                380
             ]
         },
         {
-            "text": "17:31:45",
+            "text": "19:33",
             "id": 4,
             "bbox": [
-                371,
-                396,
-                428,
-                410
+                298,
+                361,
+                341,
+                379
             ]
         },
         {
-            "text": "111.00",
+            "text": "960.00",
             "id": 5,
             "bbox": [
-                473,
-                653,
-                518,
-                668
+                488,
+                601,
+                543,
+                619
             ]
         },
         {
-            "text": "111.00",
+            "text": "960.00",
             "id": 6,
             "bbox": [
-                497,
-                485,
-                539,
-                498
+                481,
+                519,
+                532,
+                536
             ]
         },
         {
-            "text": "MACYS",
+            "text": "2sku",
             "id": 7,
             "bbox": [
-                223,
-                517,
-                275,
-                531
+                167,
+                550,
+                202,
+                568
             ]
         },
         {
-            "text": "EXCL",
+            "text": "Leather",
             "id": 8,
             "bbox": [
-                281,
-                520,
-                318,
-                534
+                158,
+                506,
+                219,
+                525
             ]
         },
         {
-            "text": "BEAR",
+            "text": "Accessory",
             "id": 9,
             "bbox": [
-                324,
-                521,
-                361,
-                535
+                231,
+                503,
+                310,
+                523
             ]
         },
         {
-            "text": "ROBE",
+            "text": "ACC",
             "id": 10,
             "bbox": [
-                369,
-                520,
-                406,
-                534
+                157,
+                529,
+                182,
+                545
+            ]
+        },
+        {
+            "text": "KENZO",
+            "id": 11,
+            "bbox": [
+                194,
+                528,
+                238,
+                545
+            ]
+        },
+        {
+            "text": "900634020",
+            "id": 12,
+            "bbox": [
+                232,
+                546,
+                312,
+                566
+            ]
+        },
+        {
+            "text": "2",
+            "id": 13,
+            "bbox": [
+                530,
+                563,
+                537,
+                576
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MACYS",
-                "EXCL",
-                "BEAR",
-                "ROBE"
+                "19:33"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900634020"
+            ],
+            "value_id": [
+                12
             ]
         },
         {
@@ -124,45 +159,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18A07/2020"
+                "14/07/20"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "BRANDS",
-                "FOR"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "111.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:31:45"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -170,10 +170,73 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "111.00"
+                "960.00"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Leather",
+                "Accessory",
+                "ACC",
+                "KENZO"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2sku"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "960.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

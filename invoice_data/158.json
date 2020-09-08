@@ -1,176 +1,136 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "Chlo\u00e9",
             "id": 1,
             "bbox": [
-                455,
-                366,
-                478,
-                375
+                292,
+                309,
+                799,
+                490
             ]
         },
         {
-            "text": "2020",
+            "text": "CHLOE",
             "id": 2,
             "bbox": [
-                489,
-                367,
-                515,
-                375
+                466,
+                471,
+                526,
+                487
             ]
         },
         {
-            "text": "18:33",
+            "text": "BOUTIQUE",
             "id": 3,
             "bbox": [
-                524,
-                366,
-                556,
-                375
+                536,
+                471,
+                629,
+                487
             ]
         },
         {
-            "text": "890.00",
+            "text": "07/4/20",
             "id": 4,
             "bbox": [
-                586,
-                608,
-                627,
-                618
+                854,
+                591,
+                931,
+                607
             ]
         },
         {
-            "text": "890.00",
+            "text": "4,690.00",
             "id": 5,
             "bbox": [
-                594,
-                519,
-                634,
-                528
+                738,
+                1679,
+                786,
+                1695
             ]
         },
         {
-            "text": "1.",
+            "text": "AED",
             "id": 6,
             "bbox": [
-                410,
-                517,
-                422,
-                529
+                792,
+                1679,
+                815,
+                1695
             ]
         },
         {
-            "text": "67A126-720665:SFO.",
+            "text": "450000",
             "id": 7,
             "bbox": [
-                94,
-                493,
-                223,
-                506
+                928,
+                866,
+                983,
+                883
             ]
         },
         {
-            "text": "720665:105:DOUBLE",
+            "text": "SHOULDER",
             "id": 8,
             "bbox": [
-                225,
-                493,
-                340,
-                507
+                221,
+                870,
+                297,
+                884
             ]
         },
         {
-            "text": "ADJUS",
+            "text": "BAGS",
             "id": 9,
             "bbox": [
-                345,
-                496,
-                379,
-                504
+                303,
+                870,
+                340,
+                884
             ]
         },
         {
-            "text": "MEN",
+            "text": "Crss2T2H2O",
             "id": 10,
             "bbox": [
-                387,
-                496,
-                406,
-                505
+                71,
+                868,
+                191,
+                886
             ]
         },
         {
-            "text": "'S",
+            "text": "\u062d\u0642\u064a\u0628\u0629",
             "id": 11,
             "bbox": [
-                408,
-                495,
-                431,
-                507
+                478,
+                869,
+                500,
+                884
             ]
         },
         {
-            "text": "028524683676",
+            "text": "\u0643\u062a\u0641",
             "id": 12,
             "bbox": [
-                95,
-                518,
-                179,
-                528
-            ]
-        },
-        {
-            "text": "LJ1/A/",
-            "id": 13,
-            "bbox": [
-                468,
-                495,
-                539,
-                507
+                453,
+                869,
+                474,
+                884
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "67A126-720665:SFO.",
-                "720665:105:DOUBLE",
-                "ADJUS",
-                "MEN",
-                "'S"
+                "Crss2T2H2O"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LJ1/A/"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                6
+                10
             ]
         },
         {
@@ -178,45 +138,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "890.00"
+                "07/4/20"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "028524683676"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18:33"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -224,10 +149,64 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "890.00"
+                "450000"
             ],
             "value_id": [
-                5
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062d\u0642\u064a\u0628\u0629",
+                "\u0643\u062a\u0641"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SHOULDER",
+                "BAGS"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Chlo\u00e9",
+                "CHLOE",
+                "BOUTIQUE"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,690.00",
+                "AED"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

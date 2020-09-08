@@ -1,0 +1,378 @@
+{
+    "text_boxes": [
+        {
+            "text": "bloomingdales",
+            "id": 1,
+            "bbox": [
+                234,
+                136,
+                483,
+                191
+            ]
+        },
+        {
+            "text": "\u0627\u0647\u0627\u0627",
+            "id": 2,
+            "bbox": [
+                451,
+                179,
+                483,
+                191
+            ]
+        },
+        {
+            "text": "2020-",
+            "id": 3,
+            "bbox": [
+                250,
+                308,
+                284,
+                324
+            ]
+        },
+        {
+            "text": "\u0627\u0644",
+            "id": 4,
+            "bbox": [
+                232,
+                310,
+                237,
+                324
+            ]
+        },
+        {
+            "text": "-31",
+            "id": 5,
+            "bbox": [
+                207,
+                310,
+                229,
+                324
+            ]
+        },
+        {
+            "text": "1:57:27",
+            "id": 6,
+            "bbox": [
+                335,
+                309,
+                381,
+                323
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                391,
+                309,
+                404,
+                323
+            ]
+        },
+        {
+            "text": "662",
+            "id": 8,
+            "bbox": [
+                452,
+                444,
+                473,
+                456
+            ]
+        },
+        {
+            "text": "5",
+            "id": 9,
+            "bbox": [
+                483,
+                444,
+                485,
+                456
+            ]
+        },
+        {
+            "text": "10200",
+            "id": 10,
+            "bbox": [
+                455,
+                478,
+                499,
+                490
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                365,
+                488,
+                368,
+                500
+            ]
+        },
+        {
+            "text": "ADP",
+            "id": 12,
+            "bbox": [
+                199,
+                444,
+                226,
+                458
+            ]
+        },
+        {
+            "text": "Shaving",
+            "id": 13,
+            "bbox": [
+                230,
+                444,
+                280,
+                458
+            ]
+        },
+        {
+            "text": "Razor",
+            "id": 14,
+            "bbox": [
+                289,
+                444,
+                324,
+                458
+            ]
+        },
+        {
+            "text": "&",
+            "id": 15,
+            "bbox": [
+                334,
+                444,
+                340,
+                458
+            ]
+        },
+        {
+            "text": "stand",
+            "id": 16,
+            "bbox": [
+                349,
+                444,
+                385,
+                458
+            ]
+        },
+        {
+            "text": "204781820",
+            "id": 17,
+            "bbox": [
+                212,
+                454,
+                280,
+                469
+            ]
+        },
+        {
+            "text": "2",
+            "id": 18,
+            "bbox": [
+                495,
+                516,
+                500,
+                528
+            ]
+        },
+        {
+            "text": "\u0639\u0637\u0648\u0631",
+            "id": 19,
+            "bbox": [
+                196,
+                469,
+                222,
+                478
+            ]
+        },
+        {
+            "text": "ATK",
+            "id": 20,
+            "bbox": [
+                195,
+                477,
+                216,
+                490
+            ]
+        },
+        {
+            "text": "Niche",
+            "id": 21,
+            "bbox": [
+                227,
+                477,
+                264,
+                490
+            ]
+        },
+        {
+            "text": "Shaving",
+            "id": 22,
+            "bbox": [
+                273,
+                477,
+                325,
+                491
+            ]
+        },
+        {
+            "text": "Cr",
+            "id": 23,
+            "bbox": [
+                334,
+                478,
+                347,
+                491
+            ]
+        },
+        {
+            "text": "209747663",
+            "id": 24,
+            "bbox": [
+                210,
+                488,
+                279,
+                504
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1:57:27",
+                "PM"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "204781820",
+                "209747663"
+            ],
+            "value_id": [
+                17,
+                24
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020-",
+                "\u0627\u0644",
+                "-31"
+            ],
+            "value_id": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "662",
+                "5",
+                "10200"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0639\u0637\u0648\u0631"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ADP",
+                "Shaving",
+                "Razor",
+                "&",
+                "stand",
+                "ATK",
+                "Niche",
+                "Shaving",
+                "Cr"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                20,
+                21,
+                22,
+                23
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdales",
+                "\u0627\u0647\u0627\u0627"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1614.jpg"
+    }
+}

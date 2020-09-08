@@ -1,77 +1,216 @@
 {
     "text_boxes": [
         {
-            "text": "PM",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                610,
-                521,
-                617,
-                529
+                334,
+                330,
+                384,
+                346
             ]
         },
         {
-            "text": "1,764.00",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                594,
-                674,
-                620,
-                682
+                391,
+                325,
+                447,
+                342
             ]
         },
         {
-            "text": "1.764.00",
+            "text": "Matt",
             "id": 3,
             "bbox": [
-                591,
-                632,
-                623,
-                643
+                404,
+                339,
+                434,
+                359
             ]
         },
         {
-            "text": "PUMP",
+            "text": "10/07/20",
             "id": 4,
             "bbox": [
-                208,
-                597,
-                230,
-                605
+                306,
+                489,
+                354,
+                504
             ]
         },
         {
-            "text": "TWZSOVSBEYO",
+            "text": "21:44",
             "id": 5,
             "bbox": [
-                102,
-                582,
-                165,
-                600
+                361,
+                488,
+                392,
+                502
+            ]
+        },
+        {
+            "text": "695.50",
+            "id": 6,
+            "bbox": [
+                497,
+                744,
+                534,
+                758
+            ]
+        },
+        {
+            "text": "835.00",
+            "id": 7,
+            "bbox": [
+                492,
+                598,
+                530,
+                613
+            ]
+        },
+        {
+            "text": "278",
+            "id": 8,
+            "bbox": [
+                493,
+                648,
+                511,
+                662
+            ]
+        },
+        {
+            "text": "00",
+            "id": 9,
+            "bbox": [
+                518,
+                646,
+                531,
+                660
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                274,
+                668,
+                276,
+                683
+            ]
+        },
+        {
+            "text": "2",
+            "id": 11,
+            "bbox": [
+                526,
+                680,
+                531,
+                690
+            ]
+        },
+        {
+            "text": "Men's",
+            "id": 12,
+            "bbox": [
+                265,
+                592,
+                294,
+                603
+            ]
+        },
+        {
+            "text": "Wear",
+            "id": 13,
+            "bbox": [
+                303,
+                592,
+                326,
+                603
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 14,
+            "bbox": [
+                265,
+                607,
+                293,
+                619
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 15,
+            "bbox": [
+                303,
+                607,
+                320,
+                619
+            ]
+        },
+        {
+            "text": "900978480",
+            "id": 16,
+            "bbox": [
+                299,
+                618,
+                352,
+                635
+            ]
+        },
+        {
+            "text": "X900734219",
+            "id": 17,
+            "bbox": [
+                287,
+                667,
+                354,
+                684
+            ]
+        },
+        {
+            "text": "MENSWEAR",
+            "id": 18,
+            "bbox": [
+                266,
+                652,
+                316,
+                669
+            ]
+        },
+        {
+            "text": "LAGERFELD",
+            "id": 19,
+            "bbox": [
+                323,
+                650,
+                380,
+                667
+            ]
+        },
+        {
+            "text": "S",
+            "id": 20,
+            "bbox": [
+                386,
+                650,
+                392,
+                664
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PUMP"
+                "21:44"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,764.00"
-            ],
-            "value_id": [
-                2
+                5
             ]
         },
         {
@@ -79,21 +218,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TWZSOVSBEYO"
+                "900978480",
+                "X900734219"
             ],
             "value_id": [
-                5
+                16,
+                17
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PM"
+                "10/07/20"
             ],
             "value_id": [
-                1
+                4
             ]
         },
         {
@@ -101,10 +242,85 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.764.00"
+                "835.00",
+                "278",
+                "00"
             ],
             "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Men's",
+                "Wear",
+                "SHIRT",
+                "SKU",
+                "MENSWEAR",
+                "LAGERFELD",
+                "S"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE",
+                "Matt"
+            ],
+            "value_id": [
+                1,
+                2,
                 3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "695.50"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

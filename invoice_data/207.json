@@ -1,164 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "28/06/2020",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                151,
-                845,
-                195,
-                854
+                312,
+                165,
+                400,
+                184
             ]
         },
         {
-            "text": "12:59:32",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                199,
-                845,
-                231,
-                852
+                414,
+                165,
+                514,
+                184
             ]
         },
         {
-            "text": "20,900.00",
+            "text": "10/07/20",
             "id": 3,
             "bbox": [
-                685,
-                665,
-                717,
-                671
+                262,
+                454,
+                347,
+                476
             ]
         },
         {
-            "text": "20,900.00",
+            "text": "20:51",
             "id": 4,
             "bbox": [
-                677,
-                791,
-                716,
-                798
+                363,
+                453,
+                417,
+                475
             ]
         },
         {
-            "text": "Watches",
+            "text": "134.00",
             "id": 5,
             "bbox": [
-                118,
-                660,
-                146,
-                665
+                585,
+                767,
+                649,
+                789
             ]
         },
         {
-            "text": "LUMDUE",
+            "text": "134.00",
             "id": 6,
             "bbox": [
-                164,
-                649,
-                192,
-                654
+                585,
+                655,
+                647,
+                675
             ]
         },
         {
-            "text": "38",
+            "text": "1",
             "id": 7,
             "bbox": [
-                195,
-                649,
                 201,
-                654
+                687,
+                205,
+                705
             ]
         },
         {
-            "text": "OPV",
+            "text": "SWAROVSKI",
             "id": 8,
             "bbox": [
-                204,
-                649,
-                230,
-                654
+                189,
+                657,
+                284,
+                677
             ]
         },
         {
-            "text": "STELEAANTH",
+            "text": "JEWELLERY",
             "id": 9,
             "bbox": [
-                233,
-                649,
-                272,
-                654
+                299,
+                657,
+                394,
+                677
             ]
         },
         {
-            "text": "PAMO0755",
+            "text": "1",
             "id": 10,
             "bbox": [
-                205,
-                659,
-                244,
-                665
+                640,
+                714,
+                644,
+                731
             ]
         },
         {
-            "text": "PANERAI",
+            "text": "900050784",
             "id": 11,
             "bbox": [
-                247,
-                272,
-                591,
-                312
+                244,
+                685,
+                339,
+                705
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Watches",
-                "LUMDUE",
-                "38",
-                "OPV",
-                "STELEAANTH"
-            ],
-            "value_id": [
-                5,
-                6,
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "28/06/2020"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "PANERAI"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20,900.00"
+                "20:51"
             ],
             "value_id": [
                 4
@@ -169,21 +128,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PAMO0755"
+                "900050784"
             ],
             "value_id": [
-                10
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:59:32"
+                "10/07/20"
             ],
             "value_id": [
-                2
+                3
             ]
         },
         {
@@ -191,10 +150,69 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20,900.00"
+                "134.00"
             ],
             "value_id": [
-                3
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SWAROVSKI",
+                "JEWELLERY"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "134.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

@@ -1,0 +1,219 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                291,
+                37,
+                328,
+                55
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                333,
+                34,
+                389,
+                53
+            ]
+        },
+        {
+            "text": "WHEN",
+            "id": 3,
+            "bbox": [
+                300,
+                75,
+                370,
+                86
+            ]
+        },
+        {
+            "text": "27/07/2030",
+            "id": 4,
+            "bbox": [
+                480,
+                231,
+                536,
+                248
+            ]
+        },
+        {
+            "text": "17:30",
+            "id": 5,
+            "bbox": [
+                555,
+                230,
+                581,
+                246
+            ]
+        },
+        {
+            "text": "8.900.00",
+            "id": 6,
+            "bbox": [
+                612,
+                431,
+                656,
+                443
+            ]
+        },
+        {
+            "text": "2,100.00",
+            "id": 7,
+            "bbox": [
+                602,
+                283,
+                645,
+                292
+            ]
+        },
+        {
+            "text": "0",
+            "id": 8,
+            "bbox": [
+                56,
+                297,
+                58,
+                307
+            ]
+        },
+        {
+            "text": "VAVEN",
+            "id": 9,
+            "bbox": [
+                75,
+                296,
+                101,
+                307
+            ]
+        },
+        {
+            "text": "B",
+            "id": 10,
+            "bbox": [
+                108,
+                296,
+                118,
+                306
+            ]
+        },
+        {
+            "text": "EREDNO",
+            "id": 11,
+            "bbox": [
+                154,
+                294,
+                201,
+                305
+            ]
+        },
+        {
+            "text": "DAILY",
+            "id": 12,
+            "bbox": [
+                32,
+                307,
+                59,
+                319
+            ]
+        },
+        {
+            "text": "US",
+            "id": 13,
+            "bbox": [
+                66,
+                307,
+                86,
+                318
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:30"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "27/07/2030"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,100.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0",
+                "VAVEN",
+                "B",
+                "EREDNO",
+                "DAILY",
+                "US"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "WHEN"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8.900.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1401.jpg"
+    }
+}

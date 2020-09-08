@@ -1,186 +1,126 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "Motania",
             "id": 1,
             "bbox": [
-                451,
-                228,
-                475,
-                238
+                258,
+                282,
+                359,
+                307
             ]
         },
         {
-            "text": "2020",
+            "text": "Fashion",
             "id": 2,
             "bbox": [
-                486,
-                226,
-                512,
-                235
+                373,
+                280,
+                471,
+                304
             ]
         },
         {
-            "text": "17:",
+            "text": "2020/07/11",
             "id": 3,
             "bbox": [
-                522,
-                225,
-                538,
-                234
+                271,
+                371,
+                370,
+                396
             ]
         },
         {
-            "text": "18",
+            "text": "17:01",
             "id": 4,
             "bbox": [
-                543,
-                225,
-                554,
-                233
+                536,
+                367,
+                582,
+                385
             ]
         },
         {
-            "text": "680.00",
+            "text": "354.70",
             "id": 5,
             "bbox": [
-                588,
-                454,
-                632,
-                466
+                493,
+                623,
+                551,
+                641
             ]
         },
         {
-            "text": "680.00",
+            "text": "280.952",
             "id": 6,
             "bbox": [
-                592,
-                364,
-                634,
-                375
+                532,
+                578,
+                602,
+                599
             ]
         },
         {
-            "text": "1.",
+            "text": "1",
             "id": 7,
             "bbox": [
-                407,
-                373,
-                410,
-                381
+                469,
+                584,
+                474,
+                598
             ]
         },
         {
-            "text": "2259-7547:CNP.",
+            "text": "Maxi",
             "id": 8,
             "bbox": [
-                76,
-                339,
-                181,
-                355
+                305,
+                585,
+                340,
+                601
             ]
         },
         {
-            "text": "7547:45:ACHILLES",
+            "text": "Skirt",
             "id": 9,
             "bbox": [
-                183,
-                342,
-                291,
-                358
+                348,
+                584,
+                383,
+                601
             ]
         },
         {
-            "text": "METAL",
+            "text": "1",
             "id": 10,
             "bbox": [
-                300,
-                347,
-                334,
-                357
+                367,
+                629,
+                373,
+                643
             ]
         },
         {
-            "text": "is",
+            "text": "2076002115404",
             "id": 11,
             "bbox": [
-                482,
-                351,
-                491,
-                363
-            ]
-        },
-        {
-            "text": "064524773491",
-            "id": 12,
-            "bbox": [
-                76,
-                366,
-                161,
-                377
+                139,
+                586,
+                278,
+                609
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2259-7547:CNP.",
-                "7547:45:ACHILLES",
-                "METAL"
+                "17:01"
             ],
             "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "is"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "680.00"
-            ],
-            "value_id": [
-                5
+                4
             ]
         },
         {
@@ -188,23 +128,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "064524773491"
+                "2076002115404"
             ],
             "value_id": [
-                12
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:",
-                "18"
+                "2020/07/11"
             ],
             "value_id": [
-                3,
-                4
+                3
             ]
         },
         {
@@ -212,10 +150,69 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "680.00"
+                "280.952"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Maxi",
+                "Skirt"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Motania",
+                "Fashion"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "354.70"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

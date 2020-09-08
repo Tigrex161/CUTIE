@@ -1,56 +1,128 @@
 {
     "text_boxes": [
         {
-            "text": "blomingdales",
+            "text": "Bumble",
             "id": 1,
             "bbox": [
-                348,
-                169,
-                579,
-                216
+                115,
+                91,
+                222,
+                121
             ]
         },
         {
-            "text": "560.00",
+            "text": "Bee",
             "id": 2,
             "bbox": [
-                533,
-                617,
-                570,
-                627
+                239,
+                101,
+                292,
+                126
             ]
         },
         {
-            "text": "560.00",
+            "text": "25/06/2020",
             "id": 3,
             "bbox": [
-                535,
-                503,
-                572,
-                514
+                440,
+                442,
+                559,
+                463
             ]
         },
         {
-            "text": "213463662",
+            "text": "16:28:47",
             "id": 4,
             "bbox": [
-                337,
-                515,
-                393,
+                427,
+                511,
+                520,
                 528
+            ]
+        },
+        {
+            "text": "120.00",
+            "id": 5,
+            "bbox": [
+                329,
+                1017,
+                430,
+                1048
+            ]
+        },
+        {
+            "text": "120.00",
+            "id": 6,
+            "bbox": [
+                531,
+                723,
+                601,
+                742
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                153,
+                726,
+                161,
+                740
+            ]
+        },
+        {
+            "text": "Tiny2big",
+            "id": 8,
+            "bbox": [
+                126,
+                630,
+                224,
+                651
+            ]
+        },
+        {
+            "text": "0735850225203",
+            "id": 9,
+            "bbox": [
+                383,
+                633,
+                539,
+                650
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "blomingdales"
+                "16:28:47"
             ],
             "value_id": [
-                1
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0735850225203"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25/06/2020"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -58,21 +130,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "560.00"
+                "120.00"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "560.00"
-            ],
-            "value_id": [
-                2
+                6
             ]
         },
         {
@@ -80,10 +141,45 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "213463662"
+                "Tiny2big"
             ],
             "value_id": [
-                4
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Bumble",
+                "Bee"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "120.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

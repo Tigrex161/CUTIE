@@ -1,0 +1,306 @@
+{
+    "text_boxes": [
+        {
+            "text": "RALPH",
+            "id": 1,
+            "bbox": [
+                312,
+                173,
+                360,
+                185
+            ]
+        },
+        {
+            "text": "LAUREN",
+            "id": 2,
+            "bbox": [
+                375,
+                173,
+                435,
+                186
+            ]
+        },
+        {
+            "text": "2000",
+            "id": 3,
+            "bbox": [
+                468,
+                485,
+                485,
+                496
+            ]
+        },
+        {
+            "text": "\u0628\u0631\u0627\u0628\u0631",
+            "id": 4,
+            "bbox": [
+                451,
+                485,
+                463,
+                496
+            ]
+        },
+        {
+            "text": "*",
+            "id": 5,
+            "bbox": [
+                440,
+                485,
+                441,
+                496
+            ]
+        },
+        {
+            "text": "AM",
+            "id": 6,
+            "bbox": [
+                522,
+                484,
+                528,
+                496
+            ]
+        },
+        {
+            "text": "114535",
+            "id": 7,
+            "bbox": [
+                489,
+                485,
+                517,
+                496
+            ]
+        },
+        {
+            "text": "2400",
+            "id": 8,
+            "bbox": [
+                618,
+                656,
+                643,
+                665
+            ]
+        },
+        {
+            "text": "2240",
+            "id": 9,
+            "bbox": [
+                622,
+                541,
+                646,
+                552
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                462,
+                543,
+                463,
+                551
+            ]
+        },
+        {
+            "text": "POLO",
+            "id": 11,
+            "bbox": [
+                325,
+                543,
+                345,
+                553
+            ]
+        },
+        {
+            "text": "SHORT",
+            "id": 12,
+            "bbox": [
+                350,
+                543,
+                375,
+                553
+            ]
+        },
+        {
+            "text": "-",
+            "id": 13,
+            "bbox": [
+                375,
+                543,
+                377,
+                553
+            ]
+        },
+        {
+            "text": "BOTTOMS",
+            "id": 14,
+            "bbox": [
+                379,
+                543,
+                415,
+                553
+            ]
+        },
+        {
+            "text": "SHORT",
+            "id": 15,
+            "bbox": [
+                420,
+                543,
+                446,
+                553
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0633\u0631\u0627\u0648\u064a\u0644",
+            "id": 16,
+            "bbox": [
+                355,
+                556,
+                384,
+                571
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0642\u0635\u064a\u0631\u0629",
+            "id": 17,
+            "bbox": [
+                325,
+                557,
+                351,
+                571
+            ]
+        },
+        {
+            "text": "11TBS69T",
+            "id": 18,
+            "bbox": [
+                108,
+                542,
+                152,
+                552
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AM",
+                "114535"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11TBS69T"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2000",
+                "\u0628\u0631\u0627\u0628\u0631",
+                "*"
+            ],
+            "value_id": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2240"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0644\u0633\u0631\u0627\u0648\u064a\u0644",
+                "\u0627\u0644\u0642\u0635\u064a\u0631\u0629"
+            ],
+            "value_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "POLO",
+                "SHORT",
+                "-",
+                "BOTTOMS",
+                "SHORT"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RALPH",
+                "LAUREN"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2400"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1561.jpg"
+    }
+}

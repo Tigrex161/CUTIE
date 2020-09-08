@@ -1,164 +1,206 @@
 {
     "text_boxes": [
         {
-            "text": "JOE'S",
+            "text": "Massimo",
             "id": 1,
             "bbox": [
-                265,
-                366,
-                374,
-                402
+                274,
+                207,
+                350,
+                228
             ]
         },
         {
-            "text": "CAFE",
+            "text": "Dutti",
             "id": 2,
             "bbox": [
-                392,
-                365,
-                488,
-                401
+                356,
+                210,
+                398,
+                229
             ]
         },
         {
-            "text": "20",
+            "text": "12-07-1929",
             "id": 3,
             "bbox": [
-                358,
-                630,
-                376,
-                647
+                236,
+                320,
+                283,
+                334
             ]
         },
         {
-            "text": "10:03PM",
+            "text": "16144",
             "id": 4,
             "bbox": [
-                389,
-                628,
-                454,
-                646
+                290,
+                322,
+                312,
+                335
             ]
         },
         {
-            "text": "121.00",
+            "text": "351",
             "id": 5,
             "bbox": [
-                433,
-                767,
-                545,
-                788
+                397,
+                385,
+                409,
+                394
             ]
         },
         {
-            "text": "83.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                496,
-                696,
-                544,
-                713
+                294,
+                384,
+                296,
+                393
             ]
         },
         {
-            "text": "38.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                497,
-                720,
-                545,
-                737
+                295,
+                385,
+                297,
+                392
             ]
         },
         {
-            "text": "1",
+            "text": "0164212425103",
             "id": 8,
             "bbox": [
-                205,
-                708,
-                208,
-                723
+                285,
+                395,
+                347,
+                407
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 9,
+            "bbox": [
+                359,
+                397,
+                381,
+                408
+            ]
+        },
+        {
+            "text": "530",
+            "id": 10,
+            "bbox": [
+                399,
+                470,
+                410,
+                480
             ]
         },
         {
             "text": "1",
-            "id": 9,
-            "bbox": [
-                205,
-                732,
-                208,
-                747
-            ]
-        },
-        {
-            "text": "Alfredo",
-            "id": 10,
-            "bbox": [
-                222,
-                704,
-                289,
-                723
-            ]
-        },
-        {
-            "text": "Pink",
             "id": 11,
             "bbox": [
-                300,
-                703,
-                338,
-                720
+                314,
+                423,
+                317,
+                431
             ]
         },
         {
-            "text": "Sau",
+            "text": "10001151",
             "id": 12,
             "bbox": [
-                349,
-                701,
-                377,
-                719
-            ]
-        },
-        {
-            "text": "Mojito",
-            "id": 13,
-            "bbox": [
-                222,
-                729,
-                280,
-                750
-            ]
-        },
-        {
-            "text": "Stberry",
-            "id": 14,
-            "bbox": [
-                291,
-                726,
-                358,
-                747
+                236,
+                394,
+                273,
+                406
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16144"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001151"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12-07-1929"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "351"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Alfredo",
-                "Pink",
-                "Sau",
-                "Mojito",
-                "Stberry"
+                "0164212425103",
+                "DRESS"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Massimo",
+                "Dutti"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
             ]
         },
         {
@@ -170,32 +212,8 @@
                 "1"
             ],
             "value_id": [
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "JOE'S",
-                "CAFE"
-            ],
-            "value_id": [
-                1,
-                2
+                6,
+                7
             ]
         },
         {
@@ -203,34 +221,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "121.00"
+                "530"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10:03PM"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "83.00",
-                "38.00"
-            ],
-            "value_id": [
-                6,
-                7
+                10
             ]
         }
     ],

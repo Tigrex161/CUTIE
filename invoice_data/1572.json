@@ -1,0 +1,267 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                437,
+                320,
+                480,
+                339
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                487,
+                319,
+                554,
+                338
+            ]
+        },
+        {
+            "text": "CONSORCI",
+            "id": 3,
+            "bbox": [
+                463,
+                367,
+                507,
+                377
+            ]
+        },
+        {
+            "text": "DE",
+            "id": 4,
+            "bbox": [
+                512,
+                366,
+                520,
+                375
+            ]
+        },
+        {
+            "text": "29/07/2020",
+            "id": 5,
+            "bbox": [
+                674,
+                550,
+                744,
+                564
+            ]
+        },
+        {
+            "text": "17:33",
+            "id": 6,
+            "bbox": [
+                768,
+                549,
+                801,
+                562
+            ]
+        },
+        {
+            "text": "730.00",
+            "id": 7,
+            "bbox": [
+                856,
+                812,
+                899,
+                824
+            ]
+        },
+        {
+            "text": "730.00",
+            "id": 8,
+            "bbox": [
+                849,
+                613,
+                891,
+                626
+            ]
+        },
+        {
+            "text": "LPODS",
+            "id": 9,
+            "bbox": [
+                97,
+                625,
+                130,
+                636
+            ]
+        },
+        {
+            "text": "NOUV.REFILL",
+            "id": 10,
+            "bbox": [
+                155,
+                624,
+                232,
+                635
+            ]
+        },
+        {
+            "text": "100ML",
+            "id": 11,
+            "bbox": [
+                242,
+                624,
+                275,
+                635
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 12,
+            "bbox": [
+                283,
+                624,
+                303,
+                635
+            ]
+        },
+        {
+            "text": "PERFUME",
+            "id": 13,
+            "bbox": [
+                95,
+                637,
+                144,
+                648
+            ]
+        },
+        {
+            "text": "(",
+            "id": 14,
+            "bbox": [
+                156,
+                637,
+                159,
+                648
+            ]
+        },
+        {
+            "text": "NO",
+            "id": 15,
+            "bbox": [
+                159,
+                637,
+                173,
+                648
+            ]
+        },
+        {
+            "text": "STOCK",
+            "id": 16,
+            "bbox": [
+                182,
+                637,
+                216,
+                648
+            ]
+        },
+        {
+            "text": ")",
+            "id": 17,
+            "bbox": [
+                219,
+                637,
+                220,
+                648
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:33"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "29/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "730.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LPODS",
+                "NOUV.REFILL",
+                "100ML",
+                "EDP",
+                "PERFUME",
+                "(",
+                "NO",
+                "STOCK",
+                ")"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "CONSORCI",
+                "DE"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "730.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1572.jpg"
+    }
+}

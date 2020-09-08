@@ -1,167 +1,157 @@
 {
     "text_boxes": [
         {
-            "text": "19/07/2020",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                473,
-                396,
-                527,
-                408
+                312,
+                154,
+                386,
+                173
             ]
         },
         {
-            "text": "07",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                532,
-                395,
-                544,
-                404
+                398,
+                151,
+                482,
+                171
             ]
         },
         {
-            "text": "23",
+            "text": "05/07/20",
             "id": 3,
             "bbox": [
-                547,
-                394,
-                560,
-                404
+                264,
+                396,
+                338,
+                416
             ]
         },
         {
-            "text": "PM",
+            "text": "13:12",
             "id": 4,
             "bbox": [
-                563,
-                393,
-                578,
-                402
+                351,
+                396,
+                395,
+                415
             ]
         },
         {
-            "text": "870.00",
+            "text": "1.780.00",
             "id": 5,
             "bbox": [
-                639,
-                601,
-                672,
-                609
+                523,
+                662,
+                597,
+                679
             ]
         },
         {
-            "text": "870.00",
+            "text": "1.780.00",
             "id": 6,
             "bbox": [
-                637,
-                576,
-                671,
-                586
+                521,
+                566,
+                594,
+                585
             ]
         },
         {
-            "text": "1.",
+            "text": "1",
             "id": 7,
             "bbox": [
-                237,
+                210,
                 592,
-                240,
-                599
+                211,
+                608
             ]
         },
         {
-            "text": "GILES",
+            "text": "Luxurious",
             "id": 8,
             "bbox": [
-                27,
-                597,
-                56,
-                607
+                199,
+                543,
+                281,
+                562
             ]
         },
         {
-            "text": "LINEN",
+            "text": "Accessory",
             "id": 9,
             "bbox": [
-                60,
-                595,
-                90,
-                606
+                293,
+                542,
+                376,
+                561
             ]
         },
         {
-            "text": "CLS",
+            "text": "ACC",
             "id": 10,
             "bbox": [
-                93,
-                595,
-                112,
-                604
+                199,
+                569,
+                225,
+                584
             ]
         },
         {
-            "text": "PALE",
+            "text": "BURBERRY",
             "id": 11,
             "bbox": [
-                116,
-                594,
-                141,
-                603
+                237,
+                568,
+                309,
+                585
             ]
         },
         {
-            "text": "BLUEWHITE",
+            "text": "SKU",
             "id": 12,
             "bbox": [
-                146,
-                593,
-                209,
-                603
+                321,
+                568,
+                345,
+                583
             ]
         },
         {
-            "text": "L",
+            "text": "900963807",
             "id": 13,
             "bbox": [
-                214,
-                594,
-                218,
-                600
+                245,
+                592,
+                327,
+                608
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GILES",
-                "LINEN",
-                "CLS",
-                "PALE",
-                "BLUEWHITE",
-                "L"
+                "13:12"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                4
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1."
+                "900963807"
             ],
             "value_id": [
-                7
+                13
             ]
         },
         {
@@ -169,36 +159,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19/07/2020"
+                "05/07/20"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "870.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "07",
-                "23",
-                "PM"
-            ],
-            "value_id": [
-                2,
-                3,
-                4
+                3
             ]
         },
         {
@@ -206,10 +170,64 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "870.00"
+                "1.780.00"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Luxurious",
+                "Accessory",
+                "ACC",
+                "BURBERRY",
+                "SKU"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.780.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

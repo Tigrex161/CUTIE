@@ -1,0 +1,270 @@
+{
+    "text_boxes": [
+        {
+            "text": "Boggi",
+            "id": 1,
+            "bbox": [
+                323,
+                366,
+                389,
+                388
+            ]
+        },
+        {
+            "text": "Dubai",
+            "id": 2,
+            "bbox": [
+                406,
+                366,
+                472,
+                388
+            ]
+        },
+        {
+            "text": "Mall",
+            "id": 3,
+            "bbox": [
+                488,
+                366,
+                541,
+                388
+            ]
+        },
+        {
+            "text": "3002",
+            "id": 4,
+            "bbox": [
+                359,
+                1232,
+                455,
+                1250
+            ]
+        },
+        {
+            "text": "\u0627\u064a\u0634",
+            "id": 5,
+            "bbox": [
+                616,
+                1239,
+                626,
+                1256
+            ]
+        },
+        {
+            "text": "11:58:15",
+            "id": 6,
+            "bbox": [
+                528,
+                1237,
+                611,
+                1256
+            ]
+        },
+        {
+            "text": "140.00",
+            "id": 7,
+            "bbox": [
+                584,
+                819,
+                644,
+                838
+            ]
+        },
+        {
+            "text": "14.2",
+            "id": 8,
+            "bbox": [
+                602,
+                720,
+                646,
+                736
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                331,
+                774,
+                337,
+                784
+            ]
+        },
+        {
+            "text": "=",
+            "id": 10,
+            "bbox": [
+                411,
+                694,
+                418,
+                711
+            ]
+        },
+        {
+            "text": "Tie",
+            "id": 11,
+            "bbox": [
+                379,
+                694,
+                407,
+                711
+            ]
+        },
+        {
+            "text": "OOO",
+            "id": 12,
+            "bbox": [
+                213,
+                690,
+                242,
+                707
+            ]
+        },
+        {
+            "text": "42240",
+            "id": 13,
+            "bbox": [
+                267,
+                690,
+                316,
+                707
+            ]
+        },
+        {
+            "text": "\u0631\u0628\u0637\u0629",
+            "id": 14,
+            "bbox": [
+                475,
+                695,
+                511,
+                714
+            ]
+        },
+        {
+            "text": "\u0639\u064a",
+            "id": 15,
+            "bbox": [
+                422,
+                694,
+                458,
+                713
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u064a\u0634",
+                "11:58:15"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "OOO",
+                "42240"
+            ],
+            "value_id": [
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3002"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14.2"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0631\u0628\u0637\u0629",
+                "\u0639\u064a"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "=",
+                "Tie"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Boggi",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "140.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1537.jpg"
+    }
+}

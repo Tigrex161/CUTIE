@@ -1,0 +1,273 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZARA",
+            "id": 1,
+            "bbox": [
+                331,
+                125,
+                421,
+                165
+            ]
+        },
+        {
+            "text": "20",
+            "id": 2,
+            "bbox": [
+                266,
+                198,
+                275,
+                206
+            ]
+        },
+        {
+            "text": "07",
+            "id": 3,
+            "bbox": [
+                282,
+                198,
+                291,
+                206
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                299,
+                198,
+                318,
+                206
+            ]
+        },
+        {
+            "text": "10",
+            "id": 5,
+            "bbox": [
+                327,
+                198,
+                334,
+                206
+            ]
+        },
+        {
+            "text": "23",
+            "id": 6,
+            "bbox": [
+                342,
+                198,
+                350,
+                206
+            ]
+        },
+        {
+            "text": "200",
+            "id": 7,
+            "bbox": [
+                445,
+                376,
+                458,
+                386
+            ]
+        },
+        {
+            "text": "129",
+            "id": 8,
+            "bbox": [
+                447,
+                253,
+                460,
+                264
+            ]
+        },
+        {
+            "text": "369",
+            "id": 9,
+            "bbox": [
+                445,
+                280,
+                459,
+                289
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                333,
+                248,
+                333,
+                256
+            ]
+        },
+        {
+            "text": "0199006109202",
+            "id": 11,
+            "bbox": [
+                320,
+                258,
+                390,
+                274
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 12,
+            "bbox": [
+                402,
+                263,
+                427,
+                275
+            ]
+        },
+        {
+            "text": "0546215280036",
+            "id": 13,
+            "bbox": [
+                321,
+                287,
+                389,
+                302
+            ]
+        },
+        {
+            "text": "TROUSERS",
+            "id": 14,
+            "bbox": [
+                402,
+                290,
+                444,
+                305
+            ]
+        },
+        {
+            "text": "10001167",
+            "id": 15,
+            "bbox": [
+                267,
+                260,
+                308,
+                270
+            ]
+        },
+        {
+            "text": "10002107",
+            "id": 16,
+            "bbox": [
+                266,
+                284,
+                308,
+                299
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10",
+                "23"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001167",
+                "10002107"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20",
+                "07",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "129",
+                "369"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0199006109202",
+                "SHIRT",
+                "0546215280036",
+                "TROUSERS"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "200"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1207.jpg"
+    }
+}

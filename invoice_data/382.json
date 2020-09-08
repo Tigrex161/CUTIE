@@ -1,110 +1,151 @@
 {
     "text_boxes": [
         {
-            "text": "July",
+            "text": "BELENTINO",
             "id": 1,
             "bbox": [
-                393,
-                373,
-                410,
-                383
+                436,
+                608,
+                643,
+                680
             ]
         },
         {
-            "text": "08,",
+            "text": "7/11/2020",
             "id": 2,
             "bbox": [
-                414,
-                372,
-                428,
-                383
+                860,
+                706,
+                911,
+                720
             ]
         },
         {
-            "text": "2020",
+            "text": "715",
             "id": 3,
             "bbox": [
-                433,
-                370,
-                457,
-                380
+                852,
+                723,
+                872,
+                736
             ]
         },
         {
-            "text": "12:57",
+            "text": "45",
             "id": 4,
             "bbox": [
-                466,
-                370,
-                492,
-                380
+                877,
+                723,
+                889,
+                736
             ]
         },
         {
-            "text": "2,680.00",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                507,
-                675,
-                553,
-                684
+                894,
+                723,
+                910,
+                736
             ]
         },
         {
-            "text": "2,680.00",
+            "text": "1,57500",
             "id": 6,
             "bbox": [
-                574,
-                527,
-                617,
-                538
+                867,
+                977,
+                912,
+                992
             ]
         },
         {
-            "text": "ESPADRILLES",
+            "text": "157500",
             "id": 7,
             "bbox": [
-                117,
-                527,
-                195,
-                537
+                870,
+                903,
+                914,
+                916
             ]
         },
         {
-            "text": "G35925Y54039K2163",
+            "text": "1",
             "id": 8,
             "bbox": [
-                117,
-                542,
-                227,
-                553
+                590,
+                898,
+                592,
+                908
             ]
         },
         {
-            "text": "40C",
+            "text": "DRESS",
             "id": 9,
             "bbox": [
-                232,
-                545,
-                251,
-                553
+                301,
+                895,
+                341,
+                908
+            ]
+        },
+        {
+            "text": "\u0644\u0647",
+            "id": 10,
+            "bbox": [
+                375,
+                895,
+                388,
+                908
+            ]
+        },
+        {
+            "text": "\u0633\u0646\u0647",
+            "id": 11,
+            "bbox": [
+                349,
+                895,
+                371,
+                908
+            ]
+        },
+        {
+            "text": "TROVAMSOLUN",
+            "id": 12,
+            "bbox": [
+                157,
+                892,
+                244,
+                903
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ESPADRILLES",
-                "G35925Y54039K2163",
-                "40C"
+                "715",
+                "45",
+                "PM"
             ],
             "value_id": [
-                7,
-                8,
-                9
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TROVAMSOLUN"
+            ],
+            "value_id": [
+                12
             ]
         },
         {
@@ -112,36 +153,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July",
-                "08,",
-                "2020"
+                "7/11/2020"
             ],
             "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,680.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:57"
-            ],
-            "value_id": [
-                4
+                2
             ]
         },
         {
@@ -149,7 +164,64 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,680.00"
+                "157500"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0644\u0647",
+                "\u0633\u0646\u0647"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DRESS"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BELENTINO"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,57500"
             ],
             "value_id": [
                 6

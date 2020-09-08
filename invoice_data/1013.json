@@ -1,149 +1,215 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "Dubai",
             "id": 1,
             "bbox": [
-                253,
-                225,
-                316,
-                242
+                231,
+                371,
+                254,
+                384
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "Shoes",
             "id": 2,
             "bbox": [
-                324,
-                228,
-                393,
-                245
+                261,
+                371,
+                285,
+                384
             ]
         },
         {
-            "text": "12/07/20",
+            "text": "13/1/20",
             "id": 3,
             "bbox": [
-                213,
-                427,
-                274,
-                442
+                238,
+                447,
+                271,
+                465
             ]
         },
         {
-            "text": "21:37",
+            "text": "20:35:56",
             "id": 4,
             "bbox": [
-                284,
-                430,
-                321,
-                443
+                282,
+                448,
+                318,
+                466
             ]
         },
         {
-            "text": "697.50",
+            "text": "2.900",
             "id": 5,
             "bbox": [
-                442,
-                701,
-                489,
-                713
+                353,
+                563,
+                377,
+                574
             ]
         },
         {
-            "text": "1,395,",
+            "text": "1",
             "id": 6,
             "bbox": [
-                421,
-                558,
-                477,
-                574
+                195,
+                566,
+                197,
+                575
             ]
         },
         {
-            "text": "00",
+            "text": "SLIDE",
             "id": 7,
             "bbox": [
-                479,
-                558,
-                488,
-                574
+                108,
+                577,
+                139,
+                593
             ]
         },
         {
-            "text": "Vonen's",
+            "text": "458051DKTOO",
             "id": 8,
             "bbox": [
-                152,
-                541,
+                150,
+                579,
                 208,
-                551
+                595
             ]
         },
         {
-            "text": "Wear",
+            "text": "-",
             "id": 9,
             "bbox": [
-                217,
-                543,
-                248,
-                552
+                215,
+                581,
+                218,
+                595
             ]
         },
         {
-            "text": "SHIRT",
+            "text": "5702",
             "id": 10,
             "bbox": [
-                150,
-                559,
-                190,
-                570
+                224,
+                581,
+                245,
+                597
             ]
         },
         {
-            "text": "OCTVIA",
+            "text": "-",
             "id": 11,
             "bbox": [
-                200,
-                560,
-                248,
-                570
+                252,
+                583,
+                254,
+                597
             ]
         },
         {
-            "text": "SKU",
+            "text": "40",
             "id": 12,
             "bbox": [
-                257,
-                560,
-                281,
-                570
+                261,
+                583,
+                271,
+                597
             ]
         },
         {
-            "text": "900976675",
+            "text": "2.900",
             "id": 13,
             "bbox": [
-                194,
-                575,
-                264,
-                592
+                357,
+                718,
+                383,
+                730
+            ]
+        },
+        {
+            "text": "1",
+            "id": 14,
+            "bbox": [
+                190,
+                779,
+                191,
+                798
+            ]
+        },
+        {
+            "text": "609411969",
+            "id": 15,
+            "bbox": [
+                113,
+                561,
+                160,
+                576
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:35:56"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "609411969"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13/1/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.900"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Vonen's",
-                "Wear",
-                "SHIRT",
-                "OCTVIA",
-                "SKU"
+                "SLIDE",
+                "458051DKTOO",
+                "-",
+                "5702",
+                "-",
+                "40"
             ],
             "value_id": [
+                7,
                 8,
                 9,
                 10,
@@ -152,23 +218,12 @@
             ]
         },
         {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12/07/20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
+                "Dubai",
+                "Shoes"
             ],
             "value_id": [
                 1,
@@ -176,49 +231,36 @@
             ]
         },
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "697.50"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900976675"
+                "2.900"
             ],
             "value_id": [
                 13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21:37"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,395,",
-                "00"
-            ],
-            "value_id": [
-                6,
-                7
             ]
         }
     ],

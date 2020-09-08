@@ -1,162 +1,221 @@
 {
     "text_boxes": [
         {
-            "text": "Massimo",
+            "text": "GEOX",
             "id": 1,
             "bbox": [
-                268,
-                120,
-                394,
-                149
+                397,
+                247,
+                439,
+                265
             ]
         },
         {
-            "text": "Dutti",
+            "text": "07/21/20",
             "id": 2,
             "bbox": [
-                406,
-                121,
-                479,
-                151
+                277,
+                428,
+                360,
+                447
             ]
         },
         {
-            "text": "21-07-2020",
+            "text": "8:21",
             "id": 3,
             "bbox": [
-                198,
-                323,
-                278,
-                336
+                384,
+                427,
+                425,
+                445
             ]
         },
         {
-            "text": "20:47",
+            "text": "942.00",
             "id": 4,
             "bbox": [
-                290,
-                324,
-                329,
-                335
+                569,
+                848,
+                633,
+                866
             ]
         },
         {
-            "text": "349",
+            "text": "297",
             "id": 5,
             "bbox": [
-                475,
-                431,
-                497,
-                442
+                605,
+                670,
+                635,
+                686
             ]
         },
         {
-            "text": "259",
+            "text": "645",
             "id": 6,
             "bbox": [
-                475,
-                473,
-                497,
-                485
+                605,
+                705,
+                636,
+                722
             ]
         },
         {
             "text": "1",
             "id": 7,
             "bbox": [
-                299,
-                431,
-                304,
-                441
+                415,
+                670,
+                420,
+                687
             ]
         },
         {
             "text": "1",
             "id": 8,
             "bbox": [
-                299,
-                474,
-                304,
-                485
+                414,
+                706,
+                421,
+                723
             ]
         },
         {
-            "text": "0517257380003",
+            "text": "MALE",
             "id": 9,
             "bbox": [
-                282,
-                453,
-                388,
-                463
+                278,
+                670,
+                322,
+                687
             ]
         },
         {
-            "text": "SHIRT",
+            "text": "LOAFER",
             "id": 10,
             "bbox": [
-                408,
-                453,
-                446,
-                463
+                336,
+                670,
+                401,
+                687
             ]
         },
         {
-            "text": "0513251242040",
+            "text": "MAIE",
             "id": 11,
             "bbox": [
-                282,
-                496,
-                388,
-                506
+                277,
+                705,
+                321,
+                722
             ]
         },
         {
-            "text": "SHIRT",
+            "text": "LOAFER",
             "id": 12,
             "bbox": [
-                408,
-                496,
-                447,
-                506
+                335,
+                705,
+                400,
+                722
             ]
         },
         {
-            "text": "10001083",
+            "text": "A064400",
             "id": 13,
             "bbox": [
-                197,
-                451,
-                261,
-                463
+                190,
+                670,
+                265,
+                687
             ]
         },
         {
-            "text": "10002113",
+            "text": "A052488",
             "id": 14,
             "bbox": [
-                197,
-                495,
-                262,
-                506
+                187,
+                705,
+                263,
+                722
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8:21"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A064400",
+                "A052488"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/21/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "297",
+                "645"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0517257380003",
-                "SHIRT",
-                "0513251242040",
-                "SHIRT"
+                "MALE",
+                "LOAFER",
+                "MAIE",
+                "LOAFER"
             ],
             "value_id": [
                 9,
                 10,
                 11,
                 12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GEOX"
+            ],
+            "value_id": [
+                1
             ]
         },
         {
@@ -173,64 +232,14 @@
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21-07-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Massimo",
-                "Dutti"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10001083",
-                "10002113"
-            ],
-            "value_id": [
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:47"
+                "942.00"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "349",
-                "259"
-            ],
-            "value_id": [
-                5,
-                6
             ]
         }
     ],

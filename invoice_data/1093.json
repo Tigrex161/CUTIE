@@ -1,0 +1,84 @@
+{
+    "text_boxes": [
+        {
+            "text": "1.350.00",
+            "id": 1,
+            "bbox": [
+                521,
+                524,
+                603,
+                542
+            ]
+        },
+        {
+            "text": "1",
+            "id": 2,
+            "bbox": [
+                591,
+                479,
+                599,
+                493
+            ]
+        },
+        {
+            "text": "Luxurious",
+            "id": 3,
+            "bbox": [
+                159,
+                421,
+                250,
+                441
+            ]
+        },
+        {
+            "text": "Accessory",
+            "id": 4,
+            "bbox": [
+                262,
+                416,
+                355,
+                437
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Luxurious",
+                "Accessory"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.350.00"
+            ],
+            "value_id": [
+                1
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1093.jpg"
+    }
+}

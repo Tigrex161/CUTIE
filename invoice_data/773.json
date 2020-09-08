@@ -1,108 +1,150 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "HOME",
             "id": 1,
             "bbox": [
-                375,
-                330,
-                535,
-                385
+                268,
+                271,
+                335,
+                291
             ]
         },
         {
-            "text": "23/07/2020",
+            "text": "BAKERY",
             "id": 2,
             "bbox": [
-                113,
-                583,
-                165,
+                355,
+                271,
+                456,
+                291
+            ]
+        },
+        {
+            "text": "Jul11'20",
+            "id": 3,
+            "bbox": [
+                349,
+                468,
+                417,
+                491
+            ]
+        },
+        {
+            "text": "04",
+            "id": 4,
+            "bbox": [
+                426,
+                467,
+                443,
+                487
+            ]
+        },
+        {
+            "text": ":",
+            "id": 5,
+            "bbox": [
+                446,
+                467,
+                450,
+                486
+            ]
+        },
+        {
+            "text": "25P",
+            "id": 6,
+            "bbox": [
+                455,
+                466,
+                476,
+                486
+            ]
+        },
+        {
+            "text": "106.00",
+            "id": 7,
+            "bbox": [
+                422,
+                573,
+                519,
                 596
             ]
         },
         {
-            "text": "16:41",
-            "id": 3,
-            "bbox": [
-                175,
-                588,
-                197,
-                597
-            ]
-        },
-        {
-            "text": "\u092e\u0947\u0902,400.00",
-            "id": 4,
-            "bbox": [
-                664,
-                759,
-                699,
-                768
-            ]
-        },
-        {
-            "text": "4.190.48",
-            "id": 5,
-            "bbox": [
-                689,
-                701,
-                725,
-                709
-            ]
-        },
-        {
-            "text": "Custam.",
-            "id": 6,
-            "bbox": [
-                268,
-                680,
-                304,
-                692
-            ]
-        },
-        {
-            "text": "ween",
-            "id": 7,
-            "bbox": [
-                308,
-                683,
-                346,
-                693
-            ]
-        },
-        {
-            "text": "NI",
+            "text": "106.00",
             "id": 8,
             "bbox": [
-                107,
-                673,
-                117,
-                681
+                473,
+                533,
+                522,
+                552
             ]
         },
         {
-            "text": "198MTGMT",
+            "text": "2",
             "id": 9,
             "bbox": [
-                121,
-                674,
-                175,
-                684
+                220,
+                538,
+                226,
+                557
+            ]
+        },
+        {
+            "text": "Chewy",
+            "id": 10,
+            "bbox": [
+                238,
+                537,
+                278,
+                557
+            ]
+        },
+        {
+            "text": "Melt",
+            "id": 11,
+            "bbox": [
+                290,
+                537,
+                321,
+                556
+            ]
+        },
+        {
+            "text": "25",
+            "id": 12,
+            "bbox": [
+                333,
+                537,
+                348,
+                556
+            ]
+        },
+        {
+            "text": "BX",
+            "id": 13,
+            "bbox": [
+                359,
+                536,
+                374,
+                555
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Custam.",
-                "ween"
+                "04",
+                ":",
+                "25P"
             ],
             "value_id": [
-                6,
-                7
+                4,
+                5,
+                6
             ]
         },
         {
@@ -110,53 +152,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "23/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DIOR"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u092e\u0947\u0902,400.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "NI",
-                "198MTGMT"
-            ],
-            "value_id": [
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:41"
+                "Jul11'20"
             ],
             "value_id": [
                 3
@@ -167,10 +163,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4.190.48"
+                "106.00"
             ],
             "value_id": [
-                5
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Chewy",
+                "Melt",
+                "25",
+                "BX"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HOME",
+                "BAKERY"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "106.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

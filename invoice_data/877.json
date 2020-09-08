@@ -1,152 +1,157 @@
 {
     "text_boxes": [
         {
-            "text": "'GIVENCHY",
+            "text": "2020",
             "id": 1,
             "bbox": [
-                216,
-                340,
-                396,
-                362
+                461,
+                157,
+                492,
+                174
             ]
         },
         {
-            "text": "07232020",
+            "text": ",",
             "id": 2,
             "bbox": [
-                303,
-                481,
-                346,
-                490
+                451,
+                158,
+                454,
+                173
             ]
         },
         {
-            "text": "5,050.00",
+            "text": "16",
             "id": 3,
             "bbox": [
-                507,
-                958,
-                540,
-                964
+                436,
+                159,
+                450,
+                174
             ]
         },
         {
-            "text": "3.500",
+            "text": "y",
             "id": 4,
             "bbox": [
-                632,
-                643,
-                653,
-                650
+                425,
+                159,
+                428,
+                174
             ]
         },
         {
-            "text": "00",
+            "text": "\u0627\u062f",
             "id": 5,
             "bbox": [
-                656,
-                642,
-                666,
-                650
+                403,
+                158,
+                426,
+                174
             ]
         },
         {
-            "text": "1,550.00",
+            "text": "20:21",
             "id": 6,
             "bbox": [
-                634,
-                677,
-                667,
-                684
+                503,
+                156,
+                540,
+                173
             ]
         },
         {
-            "text": "1",
+            "text": "1,420.00",
             "id": 7,
             "bbox": [
-                588,
-                644,
-                590,
-                649
+                555,
+                570,
+                616,
+                585
+            ]
+        },
+        {
+            "text": "1,420.00",
+            "id": 8,
+            "bbox": [
+                651,
+                366,
+                707,
+                382
             ]
         },
         {
             "text": "1",
-            "id": 8,
-            "bbox": [
-                589,
-                677,
-                591,
-                683
-            ]
-        },
-        {
-            "text": "SHIRTITOP",
             "id": 9,
             "bbox": [
-                325,
-                627,
-                369,
-                636
+                368,
+                365,
+                371,
+                377
             ]
         },
         {
-            "text": "T-SHIRTMOLO",
+            "text": "1",
             "id": 10,
             "bbox": [
-                322,
-                663,
-                373,
-                669
+                364,
+                425,
+                370,
+                439
             ]
         },
         {
-            "text": "2",
+            "text": "EARRINGS",
             "id": 11,
             "bbox": [
-                525,
-                881,
-                528,
-                887
+                16,
+                348,
+                97,
+                364
+            ]
+        },
+        {
+            "text": "A36138Y0200572354",
+            "id": 12,
+            "bbox": [
+                13,
+                387,
+                165,
+                406
+            ]
+        },
+        {
+            "text": "\u0627\u0641\u0631\u0627\u0637",
+            "id": 13,
+            "bbox": [
+                14,
+                369,
+                39,
+                385
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SHIRTITOP",
-                "T-SHIRTMOLO"
+                "20:21"
             ],
             "value_id": [
-                9,
-                10
+                6
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2"
+                "A36138Y0200572354"
             ],
             "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1",
-                "1"
-            ],
-            "value_id": [
-                7,
-                8
+                12
             ]
         },
         {
@@ -154,32 +159,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07232020"
+                "2020",
+                ",",
+                "16",
+                "y",
+                "\u0627\u062f"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "'GIVENCHY"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "5,050.00"
-            ],
-            "value_id": [
-                3
+                1,
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -187,14 +178,65 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3.500",
-                "00",
-                "1,550.00"
+                "1,420.00"
             ],
             "value_id": [
-                4,
-                5,
-                6
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0641\u0631\u0627\u0637"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "EARRINGS"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,420.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

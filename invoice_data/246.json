@@ -1,118 +1,232 @@
 {
     "text_boxes": [
         {
-            "text": "Massimo",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                280,
-                111,
-                376,
-                129
+                281,
+                78,
+                364,
+                94
             ]
         },
         {
-            "text": "Dutti",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                386,
-                111,
-                443,
-                128
+                378,
+                78,
+                471,
+                94
             ]
         },
         {
-            "text": "16-07-2020",
+            "text": "10/07/20",
             "id": 3,
             "bbox": [
-                228,
-                263,
-                288,
-                272
+                230,
+                340,
+                312,
+                357
             ]
         },
         {
-            "text": "13:19",
+            "text": "12:42",
             "id": 4,
             "bbox": [
-                298,
-                264,
-                326,
-                271
+                327,
+                339,
+                376,
+                356
             ]
         },
         {
-            "text": "420",
+            "text": "2,200.00",
             "id": 5,
             "bbox": [
-                438,
-                463,
-                455,
-                471
+                521,
+                625,
+                603,
+                646
             ]
         },
         {
-            "text": "429",
+            "text": "2,200.00",
             "id": 6,
             "bbox": [
-                437,
-                345,
-                454,
-                353
+                521,
+                520,
+                603,
+                543
             ]
         },
         {
             "text": "1",
             "id": 7,
             "bbox": [
-                305,
-                346,
-                307,
-                354
+                167,
+                553,
+                173,
+                570
             ]
         },
         {
-            "text": "0510857520503",
+            "text": "Luxurious",
             "id": 8,
             "bbox": [
-                292,
-                362,
-                372,
-                372
+                155,
+                498,
+                250,
+                518
             ]
         },
         {
-            "text": "SHIRT",
+            "text": "Accessory",
             "id": 9,
             "bbox": [
-                387,
-                362,
-                416,
-                370
+                263,
+                500,
+                359,
+                519
             ]
         },
         {
-            "text": "10001190",
+            "text": "BAGS",
             "id": 10,
             "bbox": [
-                229,
-                362,
-                276,
-                372
+                150,
+                526,
+                196,
+                543
+            ]
+        },
+        {
+            "text": "DIOR",
+            "id": 11,
+            "bbox": [
+                210,
+                526,
+                252,
+                543
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 12,
+            "bbox": [
+                264,
+                526,
+                294,
+                543
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                597,
+                575,
+                603,
+                590
+            ]
+        },
+        {
+            "text": "900906601",
+            "id": 14,
+            "bbox": [
+                209,
+                550,
+                303,
+                570
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:42"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900906601"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,200.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0510857520503",
-                "SHIRT"
+                "Luxurious",
+                "Accessory",
+                "BAGS",
+                "DIOR",
+                "SKU"
             ],
             "value_id": [
                 8,
-                9
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
             ]
         },
         {
@@ -127,71 +241,14 @@
             ]
         },
         {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16-07-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Massimo",
-                "Dutti"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "420"
+                "2,200.00"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10001190"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:19"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "429"
-            ],
-            "value_id": [
-                6
             ]
         }
     ],

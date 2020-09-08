@@ -1,167 +1,118 @@
 {
     "text_boxes": [
         {
-            "text": "MOYNAT",
+            "text": "MIZEN",
             "id": 1,
             "bbox": [
-                501,
-                119,
-                648,
-                139
+                478,
+                260,
+                629,
+                293
             ]
         },
         {
-            "text": "ARIS",
+            "text": "09/07/2020",
             "id": 2,
             "bbox": [
-                560,
-                145,
-                589,
-                151
+                469,
+                417,
+                509,
+                428
             ]
         },
         {
-            "text": "07/04/2020",
+            "text": "0500",
             "id": 3,
             "bbox": [
-                788,
-                249,
-                876,
-                266
+                624,
+                565,
+                648,
+                575
             ]
         },
         {
-            "text": "10,850.00",
+            "text": "00",
             "id": 4,
             "bbox": [
-                777,
-                1041,
-                856,
-                1055
+                640,
+                529,
+                648,
+                538
             ]
         },
         {
-            "text": "10,850.00",
+            "text": "\u06af\u0648",
             "id": 5,
             "bbox": [
-                880,
-                706,
-                946,
-                718
+                624,
+                529,
+                637,
+                538
             ]
         },
         {
-            "text": "GABRIELLE",
+            "text": "4",
             "id": 6,
             "bbox": [
-                325,
-                699,
-                407,
-                717
+                295,
+                532,
+                296,
+                539
             ]
         },
         {
-            "text": "BAG",
+            "text": "GENTLE",
             "id": 7,
             "bbox": [
-                412,
-                704,
-                444,
-                715
+                128,
+                518,
+                160,
+                526
             ]
         },
         {
-            "text": "BB.CARAT",
+            "text": "MONSTER",
             "id": 8,
             "bbox": [
-                450,
-                704,
-                526,
-                717
+                164,
+                518,
+                204,
+                526
             ]
         },
         {
-            "text": "PAL-C",
+            "text": "E321",
             "id": 9,
             "bbox": [
-                532,
-                705,
-                572,
-                717
+                127,
+                528,
+                172,
+                539
             ]
         },
         {
-            "text": "\u062d\u0642\u064a\u0628\u0629",
+            "text": "1368",
             "id": 10,
             "bbox": [
-                442,
-                730,
-                471,
-                743
-            ]
-        },
-        {
-            "text": "\u062a\u0633\u0648\u062a\u062d\u0642\u064a\u0628\u0629",
-            "id": 11,
-            "bbox": [
-                381,
-                728,
-                436,
-                743
-            ]
-        },
-        {
-            "text": "\u064a\u062f",
-            "id": 12,
-            "bbox": [
-                366,
-                732,
-                375,
-                740
-            ]
-        },
-        {
-            "text": "C10525-0897",
-            "id": 13,
-            "bbox": [
-                139,
-                701,
-                233,
-                713
+                174,
+                530,
+                187,
+                539
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "GABRIELLE",
-                "BAG",
-                "BB.CARAT",
-                "PAL-C"
+                "E321",
+                "1368"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u062d\u0642\u064a\u0628\u0629",
-                "\u062a\u0633\u0648\u062a\u062d\u0642\u064a\u0628\u0629",
-                "\u064a\u062f"
-            ],
-            "value_id": [
-                10,
-                11,
-                12
+                9,
+                10
             ]
         },
         {
@@ -169,45 +120,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07/04/2020"
+                "09/07/2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MOYNAT",
-                "ARIS"
-            ],
-            "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "C10525-0897"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10,850.00"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -215,10 +131,58 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10,850.00"
+                "00",
+                "\u06af\u0648"
             ],
             "value_id": [
+                4,
                 5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GENTLE",
+                "MONSTER"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MIZEN"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0500"
+            ],
+            "value_id": [
+                3
             ]
         }
     ],

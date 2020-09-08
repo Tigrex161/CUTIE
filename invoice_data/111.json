@@ -1,157 +1,189 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                462,
-                306,
-                485,
-                315
+                324,
+                319,
+                469,
+                362
             ]
         },
         {
-            "text": "2020",
+            "text": "02/07/2020",
             "id": 2,
             "bbox": [
-                496,
-                305,
-                521,
-                314
+                101,
+                560,
+                144,
+                572
             ]
         },
         {
-            "text": "18:24",
+            "text": "13:40",
             "id": 3,
             "bbox": [
-                531,
-                305,
-                560,
-                315
+                154,
+                562,
+                173,
+                572
             ]
         },
         {
-            "text": "2,850.00",
+            "text": "5.625.00",
             "id": 4,
             "bbox": [
-                573,
-                541,
-                627,
-                551
+                598,
+                707,
+                631,
+                717
             ]
         },
         {
-            "text": "2,850.00",
+            "text": "1.36714",
             "id": 5,
             "bbox": [
-                579,
-                453,
-                633,
-                464
+                624,
+                642,
+                655,
+                651
             ]
         },
         {
-            "text": "PDAMN",
+            "text": "4.000.00",
             "id": 6,
             "bbox": [
-                103,
-                433,
-                136,
-                445
+                621,
+                653,
+                654,
+                662
             ]
         },
         {
-            "text": "SHOE:",
+            "text": "1",
             "id": 7,
             "bbox": [
-                145,
-                433,
-                178,
-                446
+                383,
+                641,
+                385,
+                649
             ]
         },
         {
-            "text": "PRADA",
+            "text": "!",
             "id": 8,
             "bbox": [
-                181,
-                437,
-                214,
-                444
+                384,
+                655,
+                385,
+                662
             ]
         },
         {
-            "text": "MENS",
+            "text": "2",
             "id": 9,
             "bbox": [
-                221,
-                437,
-                247,
-                444
+                383,
+                681,
+                386,
+                690
             ]
         },
         {
-            "text": "SHOES",
+            "text": "Fragmac",
             "id": 10,
             "bbox": [
-                256,
-                437,
-                287,
-                445
+                239,
+                638,
+                272,
+                650
             ]
         },
         {
-            "text": ",",
+            "text": "/",
             "id": 11,
             "bbox": [
-                327,
-                435,
-                338,
-                447
+                273,
+                638,
+                275,
+                650
             ]
         },
         {
-            "text": "lyi",
+            "text": "M",
             "id": 12,
             "bbox": [
-                344,
-                435,
-                371,
-                447
+                277,
+                638,
+                279,
+                650
+            ]
+        },
+        {
+            "text": "Women",
+            "id": 13,
+            "bbox": [
+                239,
+                652,
+                267,
+                662
+            ]
+        },
+        {
+            "text": "SIG",
+            "id": 14,
+            "bbox": [
+                272,
+                652,
+                287,
+                662
+            ]
+        },
+        {
+            "text": "CF090938009",
+            "id": 15,
+            "bbox": [
+                98,
+                639,
+                152,
+                648
+            ]
+        },
+        {
+            "text": "S0020FVRE",
+            "id": 16,
+            "bbox": [
+                99,
+                653,
+                148,
+                663
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PDAMN",
-                "SHOE:",
-                "PRADA",
-                "MENS",
-                "SHOES"
+                "13:40"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10
+                3
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                ",",
-                "lyi"
+                "CF090938009",
+                "S0020FVRE"
             ],
             "value_id": [
-                11,
-                12
+                15,
+                16
             ]
         },
         {
@@ -159,34 +191,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "02/07/2020"
             ],
             "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,850.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18:24"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -194,10 +202,77 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,850.00"
+                "1.36714",
+                "4.000.00"
             ],
             "value_id": [
-                5
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Fragmac",
+                "/",
+                "M",
+                "Women",
+                "SIG"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "!"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5.625.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

@@ -1,131 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "Manolo",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                194,
-                94,
-                272,
-                110
+                321,
+                244,
+                470,
+                317
             ]
         },
         {
-            "text": "Blahnik",
+            "text": "01.07.2020",
             "id": 2,
             "bbox": [
-                283,
-                92,
-                361,
-                108
+                243,
+                583,
+                331,
+                604
             ]
         },
         {
-            "text": "04/07/20",
+            "text": "20:39",
             "id": 3,
             "bbox": [
-                307,
-                622,
-                401,
-                640
+                342,
+                580,
+                383,
+                598
             ]
         },
         {
-            "text": "13:45:22",
+            "text": "250",
             "id": 4,
             "bbox": [
-                309,
-                651,
-                400,
-                672
+                565,
+                849,
+                589,
+                865
             ]
         },
         {
-            "text": "2,515.00",
+            "text": "129",
             "id": 5,
             "bbox": [
-                458,
-                961,
-                552,
-                983
+                540,
+                655,
+                562,
+                670
             ]
         },
         {
-            "text": "3,590.00",
+            "text": "129",
             "id": 6,
             "bbox": [
-                495,
-                835,
-                589,
-                858
+                547,
+                696,
+                569,
+                711
             ]
         },
         {
-            "text": "1000141000004149",
+            "text": "1",
             "id": 7,
             "bbox": [
-                96,
-                839,
-                309,
-                860
+                363,
+                672,
+                367,
+                683
             ]
         },
         {
-            "text": "100014",
+            "text": "1",
             "id": 8,
             "bbox": [
-                248,
-                807,
-                324,
-                827
+                368,
+                717,
+                373,
+                727
+            ]
+        },
+        {
+            "text": "2",
+            "id": 9,
+            "bbox": [
+                410,
+                782,
+                419,
+                795
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                363,
+                672,
+                367,
+                683
+            ]
+        },
+        {
+            "text": "0503923080003",
+            "id": 11,
+            "bbox": [
+                345,
+                683,
+                457,
+                708
+            ]
+        },
+        {
+            "text": "LEGGINGS",
+            "id": 12,
+            "bbox": [
+                476,
+                675,
+                541,
+                697
+            ]
+        },
+        {
+            "text": "129",
+            "id": 13,
+            "bbox": [
+                446,
+                706,
+                469,
+                721
+            ]
+        },
+        {
+            "text": "1",
+            "id": 14,
+            "bbox": [
+                368,
+                717,
+                373,
+                727
+            ]
+        },
+        {
+            "text": "0278005780003",
+            "id": 15,
+            "bbox": [
+                351,
+                727,
+                464,
+                755
+            ]
+        },
+        {
+            "text": "LEGGINGS",
+            "id": 16,
+            "bbox": [
+                482,
+                719,
+                548,
+                742
+            ]
+        },
+        {
+            "text": "10001349",
+            "id": 17,
+            "bbox": [
+                257,
+                694,
+                326,
+                717
+            ]
+        },
+        {
+            "text": "10002379",
+            "id": 18,
+            "bbox": [
+                262,
+                741,
+                331,
+                763
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1000141000004149"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "04/07/20"
+                "20:39"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Manolo",
-                "Blahnik"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,515.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -133,21 +198,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "100014"
+                "10001349",
+                "10002379"
             ],
             "value_id": [
-                8
+                17,
+                18
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13:45:22"
+                "01.07.2020"
             ],
             "value_id": [
-                4
+                2
             ]
         },
         {
@@ -155,10 +222,81 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,590.00"
+                "129",
+                "129"
             ],
             "value_id": [
+                5,
                 6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "0503923080003",
+                "LEGGINGS",
+                "129",
+                "1",
+                "0278005780003",
+                "LEGGINGS"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "250"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

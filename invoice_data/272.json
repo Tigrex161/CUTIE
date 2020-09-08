@@ -1,140 +1,206 @@
 {
     "text_boxes": [
         {
-            "text": "SCOTCH&SODA",
+            "text": "wagamama",
             "id": 1,
             "bbox": [
-                273,
-                262,
-                446,
-                285
+                222,
+                245,
+                507,
+                309
             ]
         },
         {
-            "text": "04/07/20",
+            "text": "11/07/2020",
             "id": 2,
             "bbox": [
-                148,
-                389,
-                279,
-                414
+                314,
+                582,
+                395,
+                599
             ]
         },
         {
-            "text": "8:56",
+            "text": "20.57",
             "id": 3,
             "bbox": [
-                315,
-                391,
-                379,
-                416
+                312,
+                601,
+                354,
+                625
             ]
         },
         {
-            "text": "385",
+            "text": "109.00",
             "id": 4,
             "bbox": [
-                649,
-                829,
-                697,
-                854
+                475,
+                901,
+                540,
+                924
             ]
         },
         {
-            "text": "385",
+            "text": "58.00",
             "id": 5,
             "bbox": [
-                651,
-                659,
-                700,
-                685
+                462,
+                747,
+                503,
+                764
+            ]
+        },
+        {
+            "text": "51.00",
+            "id": 6,
+            "bbox": [
+                468,
+                792,
+                504,
+                808
             ]
         },
         {
             "text": "1",
-            "id": 6,
-            "bbox": [
-                364,
-                655,
-                375,
-                680
-            ]
-        },
-        {
-            "text": "SHIRTS",
             "id": 7,
             "bbox": [
-                161,
-                652,
-                259,
-                680
+                209,
+                754,
+                212,
+                771
             ]
         },
         {
-            "text": "L/S",
+            "text": "1",
             "id": 8,
             "bbox": [
-                279,
-                653,
-                326,
-                680
+                209,
+                803,
+                212,
+                815
             ]
         },
         {
-            "text": "A057424",
+            "text": "FIRECRACKER",
             "id": 9,
             "bbox": [
-                28,
-                650,
-                141,
-                677
+                233,
+                752,
+                337,
+                772
             ]
         },
         {
-            "text": "\u0642\u0645\u064a\u0635",
+            "text": "CHICKEN",
             "id": 10,
             "bbox": [
-                126,
-                688,
-                185,
-                715
+                344,
+                751,
+                406,
+                770
+            ]
+        },
+        {
+            "text": "YASAI",
+            "id": 11,
+            "bbox": [
+                232,
+                799,
+                275,
+                816
+            ]
+        },
+        {
+            "text": "KATSU",
+            "id": 12,
+            "bbox": [
+                282,
+                798,
+                327,
+                815
+            ]
+        },
+        {
+            "text": "CURRY",
+            "id": 13,
+            "bbox": [
+                334,
+                797,
+                384,
+                814
+            ]
+        },
+        {
+            "text": "\u0641\u0627\u064a\u0632",
+            "id": 14,
+            "bbox": [
+                303,
+                774,
+                318,
+                794
+            ]
+        },
+        {
+            "text": "\u06a9\u0631\u06a9\u0631\u0631",
+            "id": 15,
+            "bbox": [
+                265,
+                774,
+                297,
+                794
+            ]
+        },
+        {
+            "text": "\u062f\u062c\u0627\u062c",
+            "id": 16,
+            "bbox": [
+                235,
+                774,
+                260,
+                794
+            ]
+        },
+        {
+            "text": "\u067e\u0627\u0633\u0627\u064a",
+            "id": 17,
+            "bbox": [
+                302,
+                819,
+                326,
+                840
+            ]
+        },
+        {
+            "text": "\u06a9\u0627\u062a\u0648",
+            "id": 18,
+            "bbox": [
+                266,
+                819,
+                292,
+                839
+            ]
+        },
+        {
+            "text": "\u06a9\u0627\u0631\u064a",
+            "id": 19,
+            "bbox": [
+                235,
+                818,
+                258,
+                839
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SHIRTS",
-                "L/S"
+                "20.57"
             ],
             "value_id": [
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0642\u0645\u064a\u0635"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
+                3
             ]
         },
         {
@@ -142,54 +208,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "04/07/20"
+                "11/07/2020"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SCOTCH&SODA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "385"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "A057424"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "8:56"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -197,10 +219,87 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "385"
+                "58.00",
+                "51.00"
             ],
             "value_id": [
-                5
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0641\u0627\u064a\u0632",
+                "\u06a9\u0631\u06a9\u0631\u0631",
+                "\u062f\u062c\u0627\u062c",
+                "\u067e\u0627\u0633\u0627\u064a",
+                "\u06a9\u0627\u062a\u0648",
+                "\u06a9\u0627\u0631\u064a"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FIRECRACKER",
+                "CHICKEN",
+                "YASAI",
+                "KATSU",
+                "CURRY"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "wagamama"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "109.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

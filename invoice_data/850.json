@@ -1,157 +1,186 @@
 {
     "text_boxes": [
         {
-            "text": "SJP",
+            "text": "Super",
             "id": 1,
             "bbox": [
-                86,
-                51,
-                119,
-                71
+                203,
+                59,
+                338,
+                125
             ]
         },
         {
-            "text": "by",
+            "text": "-",
             "id": 2,
             "bbox": [
-                124,
-                49,
-                143,
-                69
+                334,
+                57,
+                354,
+                109
             ]
         },
         {
-            "text": "Sarah",
+            "text": "Care",
             "id": 3,
             "bbox": [
-                148,
-                40,
-                198,
-                65
+                356,
+                45,
+                458,
+                107
             ]
         },
         {
-            "text": "Jessica",
+            "text": ")",
             "id": 4,
             "bbox": [
-                203,
-                33,
-                263,
-                56
+                273,
+                118,
+                274,
+                133
             ]
         },
         {
-            "text": "Parker",
+            "text": "ARMACY",
             "id": 5,
             "bbox": [
-                266,
-                23,
-                316,
-                45
+                297,
+                108,
+                371,
+                130
             ]
         },
         {
-            "text": "28-07-20",
+            "text": "25/07/2020",
             "id": 6,
             "bbox": [
-                192,
-                418,
-                271,
-                437
+                190,
+                530,
+                267,
+                553
             ]
         },
         {
-            "text": "9:22:20",
+            "text": "12:56",
             "id": 7,
             "bbox": [
-                196,
-                436,
-                263,
-                453
+                279,
+                528,
+                316,
+                549
             ]
         },
         {
-            "text": "PM",
+            "text": "205.60",
             "id": 8,
             "bbox": [
-                269,
-                436,
-                298,
-                448
+                507,
+                1081,
+                576,
+                1100
             ]
         },
         {
-            "text": "1,673.00",
+            "text": "206.50",
             "id": 9,
             "bbox": [
-                331,
-                649,
-                409,
-                673
+                532,
+                963,
+                582,
+                981
             ]
         },
         {
-            "text": "2,390.00",
+            "text": "1.00",
             "id": 10,
             "bbox": [
-                345,
-                547,
-                429,
-                576
+                91,
+                949,
+                117,
+                967
             ]
         },
         {
-            "text": "2001342000006938",
+            "text": "TC",
             "id": 11,
             "bbox": [
-                8,
-                572,
-                190,
-                608
+                332,
+                1108,
+                356,
+                1123
             ]
         },
         {
-            "text": "200134",
+            "text": "EXFORGE",
             "id": 12,
             "bbox": [
-                133,
-                546,
-                200,
-                569
+                91,
+                917,
+                177,
+                940
             ]
         },
         {
-            "text": "1",
+            "text": "5",
             "id": 13,
             "bbox": [
-                410,
-                768,
-                416,
-                781
+                185,
+                920,
+                189,
+                940
+            ]
+        },
+        {
+            "text": "/",
+            "id": 14,
+            "bbox": [
+                194,
+                920,
+                198,
+                940
+            ]
+        },
+        {
+            "text": "160MG",
+            "id": 15,
+            "bbox": [
+                201,
+                920,
+                256,
+                942
+            ]
+        },
+        {
+            "text": "TAB",
+            "id": 16,
+            "bbox": [
+                261,
+                921,
+                299,
+                943
+            ]
+        },
+        {
+            "text": "28S",
+            "id": 17,
+            "bbox": [
+                307,
+                923,
+                337,
+                944
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2001342000006938"
+                "12:56"
             ],
             "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                13
+                7
             ]
         },
         {
@@ -159,10 +188,42 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "28-07-20"
+                "25/07/2020"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "206.50"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "EXFORGE",
+                "5",
+                "/",
+                "160MG",
+                "TAB",
+                "28S"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
             ]
         },
         {
@@ -170,11 +231,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SJP",
-                "by",
-                "Sarah",
-                "Jessica",
-                "Parker"
+                "Super",
+                "-",
+                "Care",
+                ")",
+                "ARMACY"
             ],
             "value_id": [
                 1,
@@ -185,49 +246,36 @@
             ]
         },
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TC"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,673.00"
+                "205.60"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "200134"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "9:22:20",
-                "PM"
-            ],
-            "value_id": [
-                7,
                 8
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,390.00"
-            ],
-            "value_id": [
-                10
             ]
         }
     ],

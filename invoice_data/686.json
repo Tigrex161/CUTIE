@@ -1,128 +1,123 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                351,
-                298,
-                507,
-                340
+                310,
+                118,
+                391,
+                151
             ]
         },
         {
-            "text": "13/07/2020",
+            "text": "12",
             "id": 2,
             "bbox": [
-                96,
-                543,
-                145,
-                551
+                253,
+                286,
+                261,
+                297
             ]
         },
         {
-            "text": "17:20",
+            "text": "07.2020",
             "id": 3,
             "bbox": [
-                156,
-                543,
-                178,
-                550
+                268,
+                285,
+                300,
+                298
             ]
         },
         {
-            "text": "1,500.00",
+            "text": "20:01",
             "id": 4,
             "bbox": [
-                664,
-                694,
-                701,
-                701
+                307,
+                285,
+                329,
+                296
             ]
         },
         {
-            "text": "1428.57",
+            "text": "201",
             "id": 5,
             "bbox": [
-                688,
-                635,
-                723,
-                644
+                418,
+                419,
+                431,
+                430
             ]
         },
         {
-            "text": "Eyr",
+            "text": "289",
             "id": 6,
             "bbox": [
-                248,
-                625,
-                266,
-                637
+                416,
+                333,
+                429,
+                343
             ]
         },
         {
-            "text": "wrar",
+            "text": "1",
             "id": 7,
             "bbox": [
-                268,
-                625,
-                290,
-                637
+                313,
+                337,
+                315,
+                344
             ]
         },
         {
-            "text": "CLUBI",
+            "text": "003071535010",
             "id": 8,
             "bbox": [
-                90,
-                629,
-                119,
-                636
+                303,
+                345,
+                360,
+                360
+            ]
+        },
+        {
+            "text": ")",
+            "id": 9,
+            "bbox": [
+                363,
+                345,
+                365,
+                358
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 10,
+            "bbox": [
+                377,
+                344,
+                400,
+                358
+            ]
+        },
+        {
+            "text": "10001003",
+            "id": 11,
+            "bbox": [
+                254,
+                346,
+                291,
+                361
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Eyr",
-                "wrar"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13/07/2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DIOR"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,500.00"
+                "20:01"
             ],
             "value_id": [
                 4
@@ -133,20 +128,22 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CLUBI"
+                "10001003"
             ],
             "value_id": [
-                8
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:20"
+                "12",
+                "07.2020"
             ],
             "value_id": [
+                2,
                 3
             ]
         },
@@ -155,7 +152,55 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1428.57"
+                "289"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "003071535010",
+                ")",
+                "DRESS"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "201"
             ],
             "value_id": [
                 5

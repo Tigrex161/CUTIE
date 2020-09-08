@@ -1,182 +1,156 @@
 {
     "text_boxes": [
         {
-            "text": "15/07/2020",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                75,
-                724,
-                125,
-                733
+                330,
+                195,
+                405,
+                210
             ]
         },
         {
-            "text": "16:38:52",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                128,
-                725,
-                166,
-                734
+                416,
+                195,
+                502,
+                212
             ]
         },
         {
-            "text": "1,550.00",
+            "text": "09/07/20",
             "id": 3,
             "bbox": [
-                676,
-                565,
-                713,
-                573
+                276,
+                430,
+                349,
+                449
             ]
         },
         {
-            "text": "1,550.00",
+            "text": "14:44",
             "id": 4,
             "bbox": [
-                678,
-                526,
-                711,
-                533
+                362,
+                431,
+                405,
+                449
             ]
         },
         {
-            "text": "WAL",
+            "text": "2,500.00",
             "id": 5,
             "bbox": [
-                109,
-                517,
-                123,
-                522
+                530,
+                682,
+                605,
+                697
             ]
         },
         {
-            "text": "MUSTS",
+            "text": "1",
             "id": 6,
             "bbox": [
-                127,
-                516,
-                152,
-                524
+                601,
+                635,
+                606,
+                648
             ]
         },
         {
-            "text": "CC",
+            "text": "1",
             "id": 7,
             "bbox": [
-                154,
-                516,
-                170,
-                523
+                214,
+                608,
+                219,
+                623
             ]
         },
         {
-            "text": "DARK",
+            "text": "2,500.00",
             "id": 8,
             "bbox": [
-                166,
-                517,
-                184,
-                524
+                533,
+                584,
+                608,
+                602
             ]
         },
         {
-            "text": "GREY",
+            "text": "Luxurious",
             "id": 9,
             "bbox": [
-                186,
-                518,
-                203,
-                524
+                204,
+                557,
+                287,
+                577
             ]
         },
         {
-            "text": "CALF",
+            "text": "Accessory",
             "id": 10,
             "bbox": [
-                206,
-                519,
-                221,
-                525
+                300,
+                559,
+                385,
+                579
             ]
         },
         {
-            "text": "EXCLU",
+            "text": "BAGS",
             "id": 11,
             "bbox": [
-                224,
-                520,
-                245,
-                526
+                202,
+                585,
+                239,
+                599
             ]
         },
         {
-            "text": "MEA",
+            "text": "DIOK",
             "id": 12,
             "bbox": [
-                107,
-                525,
-                125,
-                532
+                253,
+                585,
+                289,
+                599
             ]
         },
         {
-            "text": "L3001700",
+            "text": "SRO",
             "id": 13,
             "bbox": [
-                155,
-                536,
-                195,
-                546
+                301,
+                585,
+                326,
+                599
+            ]
+        },
+        {
+            "text": "900906601",
+            "id": 14,
+            "bbox": [
+                252,
+                608,
+                333,
+                623
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WAL",
-                "MUSTS",
-                "CC",
-                "DARK",
-                "GREY",
-                "CALF",
-                "EXCLU",
-                "MEA"
+                "14:44"
             ],
             "value_id": [
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15/07/2020"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,550.00"
-            ],
-            "value_id": [
-                3
+                4
             ]
         },
         {
@@ -184,21 +158,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L3001700"
+                "900906601"
             ],
             "value_id": [
-                13
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:38:52"
+                "09/07/20"
             ],
             "value_id": [
-                2
+                3
             ]
         },
         {
@@ -206,10 +180,75 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,550.00"
+                "2,500.00"
             ],
             "value_id": [
-                4
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Luxurious",
+                "Accessory",
+                "BAGS",
+                "DIOK",
+                "SRO"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,500.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

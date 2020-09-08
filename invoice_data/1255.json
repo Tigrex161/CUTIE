@@ -1,0 +1,312 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                315,
+                20,
+                350,
+                34
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                356,
+                20,
+                412,
+                34
+            ]
+        },
+        {
+            "text": "AYA",
+            "id": 3,
+            "bbox": [
+                369,
+                31,
+                379,
+                40
+            ]
+        },
+        {
+            "text": "MONTON",
+            "id": 4,
+            "bbox": [
+                323,
+                57,
+                363,
+                68
+            ]
+        },
+        {
+            "text": "16/07/2020",
+            "id": 5,
+            "bbox": [
+                501,
+                222,
+                555,
+                232
+            ]
+        },
+        {
+            "text": "20:25",
+            "id": 6,
+            "bbox": [
+                573,
+                222,
+                599,
+                232
+            ]
+        },
+        {
+            "text": "5.060.00",
+            "id": 7,
+            "bbox": [
+                618,
+                428,
+                659,
+                439
+            ]
+        },
+        {
+            "text": "2",
+            "id": 8,
+            "bbox": [
+                618,
+                280,
+                620,
+                291
+            ]
+        },
+        {
+            "text": ",",
+            "id": 9,
+            "bbox": [
+                624,
+                280,
+                625,
+                291
+            ]
+        },
+        {
+            "text": "B10.00",
+            "id": 10,
+            "bbox": [
+                629,
+                280,
+                660,
+                291
+            ]
+        },
+        {
+            "text": "3.250.00",
+            "id": 11,
+            "bbox": [
+                614,
+                311,
+                655,
+                321
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                273,
+                310,
+                275,
+                319
+            ]
+        },
+        {
+            "text": "ZAOSP",
+            "id": 13,
+            "bbox": [
+                46,
+                274,
+                78,
+                285
+            ]
+        },
+        {
+            "text": "GUPPO065",
+            "id": 14,
+            "bbox": [
+                90,
+                274,
+                167,
+                285
+            ]
+        },
+        {
+            "text": "LUXEMBOURG",
+            "id": 15,
+            "bbox": [
+                175,
+                274,
+                230,
+                285
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 16,
+            "bbox": [
+                45,
+                284,
+                72,
+                293
+            ]
+        },
+        {
+            "text": "LAHOZ",
+            "id": 17,
+            "bbox": [
+                49,
+                305,
+                80,
+                317
+            ]
+        },
+        {
+            "text": "AGUIPINOROES",
+            "id": 18,
+            "bbox": [
+                92,
+                304,
+                169,
+                318
+            ]
+        },
+        {
+            "text": "LAXEDOURO",
+            "id": 19,
+            "bbox": [
+                176,
+                306,
+                231,
+                319
+            ]
+        },
+        {
+            "text": "SHOR",
+            "id": 20,
+            "bbox": [
+                46,
+                317,
+                76,
+                326
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:25"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                ",",
+                "B10.00",
+                "3.250.00"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZAOSP",
+                "GUPPO065",
+                "LUXEMBOURG",
+                "SHOES",
+                "LAHOZ",
+                "AGUIPINOROES",
+                "LAXEDOURO",
+                "SHOR"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "AYA",
+                "MONTON"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5.060.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1255.jpg"
+    }
+}

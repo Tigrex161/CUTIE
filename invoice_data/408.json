@@ -1,281 +1,126 @@
 {
     "text_boxes": [
         {
-            "text": "Super",
+            "text": "Massimo",
             "id": 1,
             "bbox": [
-                253,
-                117,
-                345,
-                146
+                270,
+                115,
+                366,
+                152
             ]
         },
         {
-            "text": "Dry\u00ae",
+            "text": "Dutti",
             "id": 2,
             "bbox": [
-                252,
-                136,
-                333,
-                163
+                372,
+                123,
+                429,
+                156
             ]
         },
         {
-            "text": "7/15/2020",
+            "text": "DUTTI",
             "id": 3,
             "bbox": [
-                294,
-                333,
-                339,
-                344
+                279,
+                148,
+                309,
+                165
             ]
         },
         {
-            "text": "02:29",
+            "text": "03-07-2020",
             "id": 4,
             "bbox": [
-                294,
-                350,
-                318,
-                358
+                216,
+                279,
+                277,
+                295
             ]
         },
         {
-            "text": "PM",
+            "text": "1146",
             "id": 5,
             "bbox": [
-                325,
-                349,
-                334,
-                358
+                287,
+                281,
+                315,
+                295
             ]
         },
         {
-            "text": "279.00",
+            "text": "259",
             "id": 6,
             "bbox": [
-                472,
-                433,
-                501,
-                442
+                415,
+                469,
+                431,
+                479
             ]
         },
         {
-            "text": "174.00",
+            "text": "259",
             "id": 7,
             "bbox": [
-                474,
-                499,
-                503,
-                510
+                417,
+                365,
+                432,
+                375
             ]
         },
         {
-            "text": "W7210012A",
+            "text": "1",
             "id": 8,
             "bbox": [
-                230,
-                449,
-                276,
-                458
+                317,
+                415,
+                320,
+                424
             ]
         },
         {
-            "text": "THU",
+            "text": "0010100140005",
             "id": 9,
             "bbox": [
-                280,
-                448,
-                297,
-                459
+                279,
+                377,
+                356,
+                395
             ]
         },
         {
-            "text": "12",
+            "text": "SHIRT",
             "id": 10,
             "bbox": [
-                305,
-                448,
-                313,
-                458
+                370,
+                380,
+                398,
+                396
             ]
         },
         {
-            "text": "MARGAUX",
+            "text": "10001078",
             "id": 11,
             "bbox": [
-                320,
-                448,
-                355,
-                457
-            ]
-        },
-        {
-            "text": "MAKI",
-            "id": 12,
-            "bbox": [
-                362,
-                447,
-                381,
-                456
-            ]
-        },
-        {
-            "text": "SKIRT",
-            "id": 13,
-            "bbox": [
-                389,
-                447,
-                413,
-                455
-            ]
-        },
-        {
-            "text": "5057842865392",
-            "id": 14,
-            "bbox": [
-                420,
-                447,
-                486,
-                459
-            ]
-        },
-        {
-            "text": "ka",
-            "id": 15,
-            "bbox": [
-                492,
-                447,
-                501,
-                460
-            ]
-        },
-        {
-            "text": "12",
-            "id": 16,
-            "bbox": [
-                306,
-                517,
-                313,
-                526
-            ]
-        },
-        {
-            "text": "SLEEVELESS",
-            "id": 17,
-            "bbox": [
-                320,
-                515,
-                372,
-                526
-            ]
-        },
-        {
-            "text": "HILITARY",
-            "id": 18,
-            "bbox": [
-                379,
-                516,
-                419,
-                525
-            ]
-        },
-        {
-            "text": "3090303",
-            "id": 19,
-            "bbox": [
-                219,
-                430,
-                260,
-                441
-            ]
-        },
-        {
-            "text": "3086282",
-            "id": 20,
-            "bbox": [
-                225,
-                500,
-                261,
-                511
-            ]
-        },
-        {
-            "text": "453.00",
-            "id": 21,
-            "bbox": [
-                445,
-                653,
-                506,
-                662
+                220,
+                375,
+                266,
+                392
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "W7210012A",
-                "THU",
-                "12",
-                "MARGAUX",
-                "MAKI",
-                "SKIRT",
-                "5057842865392",
-                "ka",
-                "12",
-                "SLEEVELESS",
-                "HILITARY"
+                "1146"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7/15/2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Super",
-                "Dry\u00ae"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "453.00"
-            ],
-            "value_id": [
-                21
+                5
             ]
         },
         {
@@ -283,25 +128,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3090303",
-                "3086282"
+                "10001078"
             ],
             "value_id": [
-                19,
-                20
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02:29",
-                "PM"
+                "03-07-2020"
             ],
             "value_id": [
-                4,
-                5
+                4
             ]
         },
         {
@@ -309,12 +150,60 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "279.00",
-                "174.00"
+                "259"
             ],
             "value_id": [
-                6,
                 7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0010100140005",
+                "SHIRT"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Massimo",
+                "Dutti",
+                "DUTTI"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "259"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

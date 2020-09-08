@@ -1,0 +1,279 @@
+{
+    "text_boxes": [
+        {
+            "text": "B40",
+            "id": 1,
+            "bbox": [
+                6,
+                13,
+                33,
+                37
+            ]
+        },
+        {
+            "text": "FSS",
+            "id": 2,
+            "bbox": [
+                37,
+                16,
+                65,
+                40
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 3,
+            "bbox": [
+                69,
+                19,
+                115,
+                45
+            ]
+        },
+        {
+            "text": "TDM",
+            "id": 4,
+            "bbox": [
+                117,
+                24,
+                149,
+                49
+            ]
+        },
+        {
+            "text": "The",
+            "id": 5,
+            "bbox": [
+                6,
+                35,
+                29,
+                57
+            ]
+        },
+        {
+            "text": "Dubai",
+            "id": 6,
+            "bbox": [
+                31,
+                37,
+                65,
+                60
+            ]
+        },
+        {
+            "text": "07/08/2020",
+            "id": 7,
+            "bbox": [
+                573,
+                82,
+                623,
+                99
+            ]
+        },
+        {
+            "text": "1,915.00",
+            "id": 8,
+            "bbox": [
+                608,
+                605,
+                648,
+                622
+            ]
+        },
+        {
+            "text": "1,915,00",
+            "id": 9,
+            "bbox": [
+                643,
+                388,
+                705,
+                407
+            ]
+        },
+        {
+            "text": "1200412",
+            "id": 10,
+            "bbox": [
+                20,
+                381,
+                62,
+                399
+            ]
+        },
+        {
+            "text": "PIK",
+            "id": 11,
+            "bbox": [
+                67,
+                383,
+                81,
+                399
+            ]
+        },
+        {
+            "text": "BOAT",
+            "id": 12,
+            "bbox": [
+                89,
+                383,
+                121,
+                400
+            ]
+        },
+        {
+            "text": "FLAT",
+            "id": 13,
+            "bbox": [
+                123,
+                384,
+                153,
+                401
+            ]
+        },
+        {
+            "text": "PAILLETT",
+            "id": 14,
+            "bbox": [
+                158,
+                384,
+                211,
+                402
+            ]
+        },
+        {
+            "text": "0579",
+            "id": 15,
+            "bbox": [
+                215,
+                385,
+                242,
+                402
+            ]
+        },
+        {
+            "text": "SILVER",
+            "id": 16,
+            "bbox": [
+                248,
+                385,
+                283,
+                403
+            ]
+        },
+        {
+            "text": "40",
+            "id": 17,
+            "bbox": [
+                290,
+                387,
+                297,
+                403
+            ]
+        },
+        {
+            "text": "2",
+            "id": 18,
+            "bbox": [
+                375,
+                391,
+                388,
+                401
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/08/2020"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,915,00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1200412",
+                "PIK",
+                "BOAT",
+                "FLAT",
+                "PAILLETT",
+                "0579",
+                "SILVER",
+                "40"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "B40",
+                "FSS",
+                "DUBAI",
+                "TDM",
+                "The",
+                "Dubai"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,915.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1045.jpg"
+    }
+}

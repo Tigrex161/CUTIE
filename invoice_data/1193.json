@@ -1,0 +1,324 @@
+{
+    "text_boxes": [
+        {
+            "text": "FENDI",
+            "id": 1,
+            "bbox": [
+                342,
+                342,
+                431,
+                377
+            ]
+        },
+        {
+            "text": "ROMA",
+            "id": 2,
+            "bbox": [
+                375,
+                374,
+                397,
+                383
+            ]
+        },
+        {
+            "text": "7/14/2020",
+            "id": 3,
+            "bbox": [
+                151,
+                359,
+                193,
+                371
+            ]
+        },
+        {
+            "text": "1221",
+            "id": 4,
+            "bbox": [
+                203,
+                359,
+                222,
+                370
+            ]
+        },
+        {
+            "text": ":",
+            "id": 5,
+            "bbox": [
+                222,
+                359,
+                224,
+                369
+            ]
+        },
+        {
+            "text": "50",
+            "id": 6,
+            "bbox": [
+                225,
+                359,
+                233,
+                369
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                236,
+                359,
+                247,
+                369
+            ]
+        },
+        {
+            "text": "SM",
+            "id": 8,
+            "bbox": [
+                218,
+                592,
+                231,
+                605
+            ]
+        },
+        {
+            "text": "SHOULDER",
+            "id": 9,
+            "bbox": [
+                235,
+                592,
+                286,
+                605
+            ]
+        },
+        {
+            "text": "BAG",
+            "id": 10,
+            "bbox": [
+                290,
+                592,
+                311,
+                605
+            ]
+        },
+        {
+            "text": "KAN",
+            "id": 11,
+            "bbox": [
+                314,
+                592,
+                331,
+                605
+            ]
+        },
+        {
+            "text": "V",
+            "id": 12,
+            "bbox": [
+                335,
+                592,
+                338,
+                605
+            ]
+        },
+        {
+            "text": "CALTEA",
+            "id": 13,
+            "bbox": [
+                342,
+                592,
+                381,
+                605
+            ]
+        },
+        {
+            "text": "MAYA",
+            "id": 14,
+            "bbox": [
+                391,
+                592,
+                415,
+                605
+            ]
+        },
+        {
+            "text": "-",
+            "id": 15,
+            "bbox": [
+                418,
+                592,
+                421,
+                605
+            ]
+        },
+        {
+            "text": "BLACK",
+            "id": 16,
+            "bbox": [
+                424,
+                592,
+                451,
+                605
+            ]
+        },
+        {
+            "text": "-",
+            "id": 17,
+            "bbox": [
+                455,
+                592,
+                458,
+                605
+            ]
+        },
+        {
+            "text": "SOF",
+            "id": 18,
+            "bbox": [
+                461,
+                592,
+                479,
+                605
+            ]
+        },
+        {
+            "text": "1",
+            "id": 19,
+            "bbox": [
+                532,
+                594,
+                533,
+                604
+            ]
+        },
+        {
+            "text": "RB4762",
+            "id": 20,
+            "bbox": [
+                684,
+                592,
+                718,
+                602
+            ]
+        },
+        {
+            "text": "9,290.00",
+            "id": 21,
+            "bbox": [
+                685,
+                744,
+                721,
+                755
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1221",
+                ":",
+                "50",
+                "PM"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/14/2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RB4762"
+            ],
+            "value_id": [
+                20
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SM",
+                "SHOULDER",
+                "BAG",
+                "KAN",
+                "V",
+                "CALTEA",
+                "MAYA",
+                "-",
+                "BLACK",
+                "-",
+                "SOF"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "ROMA"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "9,290.00"
+            ],
+            "value_id": [
+                21
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1193.jpg"
+    }
+}

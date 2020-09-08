@@ -1,219 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "Massimo",
+            "text": "MONT",
             "id": 1,
             "bbox": [
-                293,
-                239,
-                424,
-                273
+                662,
+                290,
+                762,
+                332
             ]
         },
         {
-            "text": "Dutti",
+            "text": "BLANC",
             "id": 2,
             "bbox": [
-                436,
-                237,
-                512,
-                268
+                660,
+                328,
+                753,
+                359
             ]
         },
         {
-            "text": "04-07-2020",
+            "text": "10/07/2020",
             "id": 3,
             "bbox": [
-                222,
-                450,
-                305,
-                463
+                166,
+                849,
+                207,
+                858
             ]
         },
         {
-            "text": "14:43",
+            "text": "10",
             "id": 4,
             "bbox": [
-                317,
-                448,
-                357,
-                460
+                237,
+                849,
+                245,
+                858
             ]
         },
         {
-            "text": "390",
+            "text": "16:15",
             "id": 5,
             "bbox": [
-                503,
-                759,
-                534,
-                773
+                213,
+                849,
+                231,
+                858
             ]
         },
         {
-            "text": "139",
+            "text": "118.00",
             "id": 6,
             "bbox": [
-                510,
-                556,
-                532,
-                568
+                708,
+                714,
+                730,
+                723
             ]
         },
         {
-            "text": "259",
+            "text": "\u062c\u0645",
             "id": 7,
             "bbox": [
-                509,
-                602,
-                532,
-                614
+                720,
+                685,
+                726,
+                692
             ]
         },
         {
-            "text": "1",
+            "text": "\u0648",
             "id": 8,
             "bbox": [
-                326,
-                560,
-                330,
-                570
+                711,
+                685,
+                712,
+                692
             ]
         },
         {
-            "text": "1",
+            "text": "!",
             "id": 9,
             "bbox": [
-                326,
-                604,
-                331,
-                615
+                393,
+                683,
+                395,
+                692
             ]
         },
         {
-            "text": "0504471742740",
+            "text": "M",
             "id": 10,
             "bbox": [
-                308,
-                579,
-                419,
-                593
+                182,
+                679,
+                191,
+                688
             ]
         },
         {
-            "text": "TROUSERS",
+            "text": "SAATORIAL",
             "id": 11,
             "bbox": [
-                440,
-                580,
-                506,
-                591
+                194,
+                679,
+                225,
+                688
             ]
         },
         {
-            "text": "0506670680040",
+            "text": "POCKETSCC",
             "id": 12,
             "bbox": [
-                308,
-                624,
-                420,
-                638
+                228,
+                679,
+                265,
+                688
             ]
         },
         {
-            "text": "TROUSERS",
+            "text": "GLACE",
             "id": 13,
             "bbox": [
-                440,
-                624,
-                506,
-                637
+                267,
+                679,
+                286,
+                688
             ]
         },
         {
-            "text": "10001809",
+            "text": ":",
             "id": 14,
             "bbox": [
-                221,
-                583,
-                287,
-                595
+                218,
+                687,
+                218,
+                696
             ]
         },
         {
-            "text": "10002839",
+            "text": "0114607",
             "id": 15,
             "bbox": [
-                221,
-                628,
-                287,
-                640
+                222,
+                687,
+                258,
+                698
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0504471742740",
-                "TROUSERS",
-                "0506670680040",
-                "TROUSERS"
+                "10",
+                "16:15"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1",
-                "1"
-            ],
-            "value_id": [
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "04-07-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Massimo",
-                "Dutti"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "390"
-            ],
-            "value_id": [
+                4,
                 5
             ]
         },
@@ -222,23 +170,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001809",
-                "10002839"
+                "0114607"
             ],
             "value_id": [
-                14,
                 15
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14:43"
+                "10/07/2020"
             ],
             "value_id": [
-                4
+                3
             ]
         },
         {
@@ -246,12 +192,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "139",
-                "259"
+                "\u062c\u0645",
+                "\u0648"
             ],
             "value_id": [
-                6,
-                7
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "M",
+                "SAATORIAL",
+                "POCKETSCC",
+                "GLACE",
+                ":"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MONT",
+                "BLANC"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "!"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "118.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

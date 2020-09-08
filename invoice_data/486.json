@@ -1,173 +1,115 @@
 {
     "text_boxes": [
         {
-            "text": "HOME",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                273,
-                173,
-                372,
-                201
+                312,
+                260,
+                455,
+                303
             ]
         },
         {
-            "text": "BAKERY",
+            "text": "11/07/2020",
             "id": 2,
             "bbox": [
-                401,
-                163,
-                555,
-                195
+                87,
+                475,
+                131,
+                488
             ]
         },
         {
-            "text": "Jun27'20",
+            "text": "19:52",
             "id": 3,
             "bbox": [
-                319,
-                457,
-                423,
-                480
+                141,
+                476,
+                161,
+                488
             ]
         },
         {
-            "text": "10:13PM",
+            "text": "1560.00",
             "id": 4,
             "bbox": [
-                441,
-                455,
-                531,
-                478
+                589,
+                596,
+                620,
+                607
             ]
         },
         {
-            "text": "108.00",
+            "text": "1476.19",
             "id": 5,
             "bbox": [
-                486,
-                655,
-                651,
-                684
+                613,
+                544,
+                644,
+                555
             ]
         },
         {
-            "text": "18.00",
+            "text": "Customewelery",
             "id": 6,
             "bbox": [
-                591,
-                552,
-                656,
-                575
+                233,
+                554,
+                302,
+                566
             ]
         },
         {
-            "text": "90.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                588,
-                585,
-                655,
-                609
+                379,
+                581,
+                381,
+                588
             ]
         },
         {
-            "text": "2",
+            "text": "B0961",
             "id": 8,
             "bbox": [
-                184,
-                556,
-                195,
-                578
+                92,
+                558,
+                116,
+                569
             ]
         },
         {
-            "text": "3",
+            "text": "ARCO",
             "id": 9,
             "bbox": [
-                185,
-                589,
-                195,
-                611
-            ]
-        },
-        {
-            "text": "Chewy",
-            "id": 10,
-            "bbox": [
-                211,
-                554,
-                274,
-                581
-            ]
-        },
-        {
-            "text": "Melt",
-            "id": 11,
-            "bbox": [
-                290,
-                555,
-                339,
-                578
-            ]
-        },
-        {
-            "text": "PC",
-            "id": 12,
-            "bbox": [
-                357,
-                555,
-                381,
-                577
-            ]
-        },
-        {
-            "text": "Iced",
-            "id": 13,
-            "bbox": [
-                212,
-                588,
-                261,
-                611
-            ]
-        },
-        {
-            "text": "Espresso",
-            "id": 14,
-            "bbox": [
-                278,
-                589,
-                381,
-                614
+                118,
+                558,
+                149,
+                569
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Chewy",
-                "Melt",
-                "PC",
-                "Iced",
-                "Espresso"
+                "19:52"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14
+                3
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2",
-                "3"
+                "B0961",
+                "ARCO"
             ],
             "value_id": [
                 8,
@@ -179,45 +121,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jun27'20"
+                "11/07/2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "HOME",
-                "BAKERY"
-            ],
-            "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "108.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10:13PM"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -225,12 +132,54 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18.00",
-                "90.00"
+                "1476.19"
             ],
             "value_id": [
-                6,
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Customewelery"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1560.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

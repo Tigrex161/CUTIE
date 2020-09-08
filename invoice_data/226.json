@@ -1,174 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "MEDICLINIC",
+            "text": "28/06/2030",
             "id": 1,
             "bbox": [
-                473,
-                249,
-                591,
-                261
+                150,
+                840,
+                195,
+                856
             ]
         },
         {
-            "text": "10/07/2020",
+            "text": "12:39:32",
             "id": 2,
             "bbox": [
-                152,
-                469,
-                190,
-                475
+                198,
+                840,
+                230,
+                856
             ]
         },
         {
-            "text": "03:54:21",
+            "text": "20000",
             "id": 3,
             "bbox": [
-                193,
-                468,
-                223,
-                475
+                684,
+                661,
+                716,
+                670
             ]
         },
         {
-            "text": "PM",
+            "text": "\u06f1",
             "id": 4,
             "bbox": [
-                226,
-                468,
-                235,
-                474
+                375,
+                665,
+                375,
+                670
             ]
         },
         {
-            "text": "265.00",
+            "text": "E",
             "id": 5,
             "bbox": [
-                615,
-                617,
-                641,
-                626
+                377,
+                663,
+                379,
+                670
             ]
         },
         {
-            "text": "265.00",
+            "text": "\u0645\u0648\u062c\u0648\u062f",
             "id": 6,
             "bbox": [
-                618,
-                533,
-                642,
-                539
+                683,
+                705,
+                715,
+                713
             ]
         },
         {
-            "text": "L00",
+            "text": "LUMDUES",
             "id": 7,
             "bbox": [
-                399,
-                534,
-                413,
-                541
+                164,
+                646,
+                201,
+                656
             ]
         },
         {
-            "text": "SARS",
+            "text": "OP",
             "id": 8,
             "bbox": [
-                147,
-                534,
-                163,
-                540
+                204,
+                646,
+                212,
+                656
             ]
         },
         {
-            "text": "Cov-2",
+            "text": "STELIA",
             "id": 9,
             "bbox": [
-                167,
-                534,
-                186,
-                540
+                233,
+                646,
+                253,
+                656
             ]
         },
         {
-            "text": "lyG",
+            "text": "ANTH",
             "id": 10,
             "bbox": [
-                190,
-                534,
-                201,
-                541
+                256,
+                646,
+                271,
+                656
             ]
         },
         {
-            "text": "56760",
+            "text": "735",
             "id": 11,
             "bbox": [
-                113,
-                534,
-                133,
-                540
+                231,
+                655,
+                243,
+                666
+            ]
+        },
+        {
+            "text": "AMod",
+            "id": 12,
+            "bbox": [
+                208,
+                655,
+                227,
+                666
+            ]
+        },
+        {
+            "text": "PANERAL",
+            "id": 13,
+            "bbox": [
+                247,
+                267,
+                591,
+                314
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SARS",
-                "Cov-2",
-                "lyG"
-            ],
-            "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "L00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10/07/2020"
+                "12:39:32"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MEDICLINIC"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "265.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -176,23 +148,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "56760"
+                "735",
+                "AMod"
             ],
             "value_id": [
-                11
+                11,
+                12
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "03:54:21",
-                "PM"
+                "28/06/2030"
             ],
             "value_id": [
-                3,
-                4
+                1
             ]
         },
         {
@@ -200,7 +172,59 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "265.00"
+                "20000"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LUMDUES",
+                "OP",
+                "STELIA",
+                "ANTH"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PANERAL"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u06f1",
+                "E"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0648\u062c\u0648\u062f"
             ],
             "value_id": [
                 6

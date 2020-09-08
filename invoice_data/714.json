@@ -1,140 +1,233 @@
 {
     "text_boxes": [
         {
-            "text": "FENDI",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                385,
-                334,
+                369,
+                351,
                 473,
-                370
+                390
             ]
         },
         {
-            "text": "KIDS",
+            "text": "20/9/2030",
             "id": 2,
             "bbox": [
-                447,
-                374,
-                471,
-                384
+                191,
+                800,
+                230,
+                817
             ]
         },
         {
-            "text": "7/11/",
+            "text": "11",
             "id": 3,
             "bbox": [
-                185,
-                357,
-                205,
-                364
+                255,
+                800,
+                264,
+                817
             ]
         },
         {
-            "text": "2020",
+            "text": "1434",
             "id": 4,
             "bbox": [
-                208,
-                357,
-                227,
-                364
+                233,
+                800,
+                250,
+                817
             ]
         },
         {
-            "text": "156:16",
+            "text": "116",
             "id": 5,
             "bbox": [
-                235,
-                357,
-                263,
-                365
+                652,
+                681,
+                674,
+                688
             ]
         },
         {
-            "text": "PM",
+            "text": "4",
             "id": 6,
             "bbox": [
-                266,
-                357,
-                279,
-                365
+                654,
+                643,
+                660,
+                650
             ]
         },
         {
-            "text": "25238",
+            "text": "d",
             "id": 7,
             "bbox": [
-                720,
-                608,
-                743,
-                616
+                666,
+                643,
+                672,
+                650
             ]
         },
         {
-            "text": "BGIRL",
+            "text": "be",
             "id": 8,
             "bbox": [
-                243,
-                590,
-                268,
-                603
-            ]
-        },
-        {
-            "text": "JERSEYT-SHIRT",
-            "id": 9,
-            "bbox": [
-                270,
-                590,
-                348,
-                604
-            ]
-        },
-        {
-            "text": "MILKCREAM",
-            "id": 10,
-            "bbox": [
-                358,
-                596,
-                414,
-                606
+                674,
+                643,
+                681,
+                650
             ]
         },
         {
             "text": "1",
-            "id": 11,
+            "id": 9,
             "bbox": [
-                562,
-                653,
-                564,
-                659
+                392,
+                645,
+                393,
+                652
             ]
         },
         {
-            "text": "700252",
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                392,
+                681,
+                393,
+                687
+            ]
+        },
+        {
+            "text": "\u0645\u0627\u0647",
+            "id": 11,
+            "bbox": [
+                252,
+                631,
+                260,
+                640
+            ]
+        },
+        {
+            "text": "1",
             "id": 12,
             "bbox": [
-                78,
-                591,
-                105,
-                598
+                242,
+                631,
+                244,
+                640
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 13,
+            "bbox": [
+                221,
+                630,
+                231,
+                639
+            ]
+        },
+        {
+            "text": "\u064a\u0627\u0639",
+            "id": 14,
+            "bbox": [
+                204,
+                630,
+                220,
+                639
+            ]
+        },
+        {
+            "text": "13221981",
+            "id": 15,
+            "bbox": [
+                242,
+                640,
+                273,
+                650
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11",
+                "1434"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13221981"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20/9/2030"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4",
+                "d",
+                "be"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BGIRL",
-                "JERSEYT-SHIRT",
-                "MILKCREAM"
+                "\u0645\u0627\u0647",
+                "1",
+                "PM",
+                "\u064a\u0627\u0639"
             ],
             "value_id": [
-                8,
-                9,
-                10
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Cartier"
+            ],
+            "value_id": [
+                1
             ]
         },
         {
@@ -145,68 +238,29 @@
                 "1"
             ],
             "value_id": [
-                11
+                10
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7/11/",
-                "2020"
+                "1"
             ],
             "value_id": [
-                3,
-                4
+                9
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FENDI",
-                "KIDS"
+                "116"
             ],
             "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "700252"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "156:16",
-                "PM"
-            ],
-            "value_id": [
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "25238"
-            ],
-            "value_id": [
-                7
+                5
             ]
         }
     ],

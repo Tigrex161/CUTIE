@@ -1,121 +1,157 @@
 {
     "text_boxes": [
         {
-            "text": "Elb",
+            "text": "Bateel",
             "id": 1,
             "bbox": [
-                133,
-                213,
-                402,
-                331
+                305,
+                246,
+                359,
+                270
             ]
         },
         {
-            "text": "310",
+            "text": "07/10/20",
             "id": 2,
             "bbox": [
-                623,
-                733,
-                652,
-                752
+                238,
+                411,
+                314,
+                437
             ]
         },
         {
-            "text": "0",
+            "text": "12:47",
             "id": 3,
             "bbox": [
-                659,
-                735,
-                685,
-                753
+                325,
+                409,
+                371,
+                434
             ]
         },
         {
-            "text": "100",
+            "text": "483.75",
             "id": 4,
             "bbox": [
-                441,
-                730,
-                467,
-                751
+                445,
+                688,
+                500,
+                710
             ]
         },
         {
-            "text": "Kazaar",
+            "text": "483,75",
             "id": 5,
             "bbox": [
-                227,
-                727,
-                286,
-                747
+                445,
+                644,
+                500,
+                664
             ]
         },
         {
-            "text": "Ispirazione",
+            "text": "ALL",
             "id": 6,
             "bbox": [
-                301,
-                729,
-                407,
-                750
+                149,
+                625,
+                174,
+                646
             ]
         },
         {
-            "text": "6757230",
+            "text": "BATEEL",
             "id": 7,
             "bbox": [
-                123,
-                725,
-                193,
-                746
+                189,
+                623,
+                243,
+                646
+            ]
+        },
+        {
+            "text": "STUFF",
+            "id": 8,
+            "bbox": [
+                254,
+                623,
+                298,
+                645
+            ]
+        },
+        {
+            "text": "DAT",
+            "id": 9,
+            "bbox": [
+                311,
+                623,
+                337,
+                644
+            ]
+        },
+        {
+            "text": "\u062a\u0645\u0648\u0631",
+            "id": 10,
+            "bbox": [
+                314,
+                672,
+                348,
+                692
+            ]
+        },
+        {
+            "text": "\u0628\u062d\u0634\u0648\u0629",
+            "id": 11,
+            "bbox": [
+                259,
+                672,
+                301,
+                693
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0646\u0634\u0648\u0629",
+            "id": 12,
+            "bbox": [
+                203,
+                673,
+                246,
+                693
+            ]
+        },
+        {
+            "text": "\u067e\u0633\u062a\u06cc\u0644",
+            "id": 13,
+            "bbox": [
+                152,
+                673,
+                188,
+                693
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Kazaar",
-                "Ispirazione"
+                "12:47"
             ],
             "value_id": [
-                5,
-                6
+                3
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "100"
+                "07/10/20"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Elb"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "6757230"
-            ],
-            "value_id": [
-                7
+                2
             ]
         },
         {
@@ -123,12 +159,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "310",
-                "0"
+                "483,75"
             ],
             "value_id": [
-                2,
-                3
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062a\u0645\u0648\u0631",
+                "\u0628\u062d\u0634\u0648\u0629",
+                "\u0627\u0644\u0646\u0634\u0648\u0629",
+                "\u067e\u0633\u062a\u06cc\u0644"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ALL",
+                "BATEEL",
+                "STUFF",
+                "DAT"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Bateel"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "483.75"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

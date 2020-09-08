@@ -1,110 +1,276 @@
 {
     "text_boxes": [
         {
-            "text": "TAVOLA",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                371,
+                338,
                 148,
-                470,
+                377,
+                165
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                383,
+                149,
+                444,
                 166
             ]
         },
         {
-            "text": "07/16/20",
-            "id": 2,
-            "bbox": [
-                323,
-                496,
-                380,
-                505
-            ]
-        },
-        {
-            "text": "10:25",
+            "text": "MALTA",
             "id": 3,
             "bbox": [
-                390,
-                495,
-                423,
-                504
+                361,
+                165,
+                404,
+                174
             ]
         },
         {
-            "text": "189.00",
+            "text": "MONTON",
             "id": 4,
             "bbox": [
-                495,
-                659,
-                537,
-                669
+                349,
+                193,
+                391,
+                202
             ]
         },
         {
-            "text": "189.00",
+            "text": "05/07/2020",
             "id": 5,
             "bbox": [
-                495,
-                620,
-                537,
-                630
+                543,
+                366,
+                603,
+                376
             ]
         },
         {
-            "text": "Vacuun",
+            "text": "10:50",
             "id": 6,
             "bbox": [
-                270,
-                622,
-                314,
-                632
+                624,
+                366,
+                652,
+                376
             ]
         },
         {
-            "text": "Bartle",
+            "text": "5.670.00",
             "id": 7,
             "bbox": [
-                321,
-                621,
-                365,
-                632
+                685,
+                598,
+                731,
+                608
             ]
         },
         {
-            "text": "950al",
+            "text": "6.150.00",
             "id": 8,
             "bbox": [
-                374,
-                621,
-                409,
-                632
+                680,
+                425,
+                727,
+                434
             ]
         },
         {
-            "text": "HF-W32BTS415",
+            "text": "1.520.00",
             "id": 9,
             "bbox": [
-                269,
-                601,
-                357,
-                614
+                683,
+                459,
+                729,
+                470
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                288,
+                427,
+                293,
+                436
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                291,
+                460,
+                294,
+                467
+            ]
+        },
+        {
+            "text": "M64124",
+            "id": 12,
+            "bbox": [
+                29,
+                427,
+                66,
+                438
+            ]
+        },
+        {
+            "text": "TROUS",
+            "id": 13,
+            "bbox": [
+                82,
+                427,
+                113,
+                438
+            ]
+        },
+        {
+            "text": "BEAUTE",
+            "id": 14,
+            "bbox": [
+                121,
+                427,
+                158,
+                438
+            ]
+        },
+        {
+            "text": "PAL.MNG",
+            "id": 15,
+            "bbox": [
+                167,
+                427,
+                210,
+                438
+            ]
+        },
+        {
+            "text": "NOIR",
+            "id": 16,
+            "bbox": [
+                218,
+                427,
+                242,
+                438
+            ]
+        },
+        {
+            "text": "TRAVEL",
+            "id": 17,
+            "bbox": [
+                30,
+                440,
+                69,
+                450
+            ]
+        },
+        {
+            "text": "ACCESSORIES",
+            "id": 18,
+            "bbox": [
+                76,
+                439,
+                147,
+                451
+            ]
+        },
+        {
+            "text": "M69567",
+            "id": 19,
+            "bbox": [
+                29,
+                459,
+                67,
+                473
+            ]
+        },
+        {
+            "text": "PTE",
+            "id": 20,
+            "bbox": [
+                83,
+                459,
+                101,
+                473
+            ]
+        },
+        {
+            "text": "CLES",
+            "id": 21,
+            "bbox": [
+                108,
+                459,
+                133,
+                473
+            ]
+        },
+        {
+            "text": "BLOOMYLOW",
+            "id": 22,
+            "bbox": [
+                143,
+                459,
+                204,
+                473
+            ]
+        },
+        {
+            "text": "B3",
+            "id": 23,
+            "bbox": [
+                212,
+                458,
+                225,
+                472
+            ]
+        },
+        {
+            "text": "WH",
+            "id": 24,
+            "bbox": [
+                231,
+                458,
+                243,
+                472
+            ]
+        },
+        {
+            "text": "FANCY",
+            "id": 25,
+            "bbox": [
+                30,
+                475,
+                61,
+                484
+            ]
+        },
+        {
+            "text": "ACCESSORIES",
+            "id": 26,
+            "bbox": [
+                69,
+                474,
+                140,
+                485
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Vacuun",
-                "Bartle",
-                "950al"
+                "10:50"
             ],
             "value_id": [
-                6,
-                7,
-                8
+                6
             ]
         },
         {
@@ -112,54 +278,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07/16/20"
+                "05/07/2020"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "TAVOLA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "189.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "HF-W32BTS415"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10:25"
-            ],
-            "value_id": [
-                3
+                5
             ]
         },
         {
@@ -167,10 +289,92 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "189.00"
+                "6.150.00",
+                "1.520.00"
             ],
             "value_id": [
-                5
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "M64124",
+                "TROUS",
+                "BEAUTE",
+                "PAL.MNG",
+                "NOIR",
+                "TRAVEL",
+                "ACCESSORIES",
+                "M69567",
+                "PTE",
+                "CLES",
+                "BLOOMYLOW",
+                "B3",
+                "WH",
+                "FANCY",
+                "ACCESSORIES"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MALTA",
+                "MONTON"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5.670.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

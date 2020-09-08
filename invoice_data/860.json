@@ -1,139 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "MARII",
+            "text": "DENASTER",
             "id": 1,
             "bbox": [
-                289,
-                165,
-                407,
-                190
+                264,
+                223,
+                482,
+                256
             ]
         },
         {
-            "text": "2007/2020",
+            "text": "GENERAL",
             "id": 2,
             "bbox": [
-                506,
-                310,
-                568,
-                324
+                265,
+                253,
+                336,
+                271
             ]
         },
         {
-            "text": "18",
+            "text": "TRADINOLIO",
             "id": 3,
             "bbox": [
-                205,
-                468,
-                223,
-                479
+                353,
+                248,
+                481,
+                268
             ]
         },
         {
-            "text": "Karet",
+            "text": "24",
             "id": 4,
             "bbox": [
-                225,
-                468,
-                247,
-                479
+                262,
+                470,
+                275,
+                488
             ]
         },
         {
-            "text": "Vallw",
+            "text": "/",
             "id": 5,
             "bbox": [
-                247,
-                471,
-                277,
-                480
+                279,
+                470,
+                282,
+                488
             ]
         },
         {
-            "text": "CI",
+            "text": "Jul",
             "id": 6,
             "bbox": [
-                280,
-                472,
+                283,
+                470,
                 301,
-                479
+                488
             ]
         },
         {
-            "text": "Fu",
+            "text": "/",
             "id": 7,
             "bbox": [
-                304,
-                472,
-                319,
-                479
+                303,
+                470,
+                306,
+                488
             ]
         },
         {
-            "text": "Oamo",
+            "text": "20",
             "id": 8,
             "bbox": [
+                309,
+                470,
                 323,
-                471,
-                362,
-                480
+                488
             ]
         },
         {
-            "text": "Hug",
+            "text": "12:15",
             "id": 9,
             "bbox": [
-                207,
-                483,
-                238,
-                493
+                331,
+                469,
+                366,
+                488
             ]
         },
         {
-            "text": "Eanings",
+            "text": "PM",
             "id": 10,
             "bbox": [
-                242,
-                482,
-                278,
-                493
+                373,
+                469,
+                390,
+                487
+            ]
+        },
+        {
+            "text": "549.00",
+            "id": 11,
+            "bbox": [
+                495,
+                963,
+                548,
+                981
+            ]
+        },
+        {
+            "text": "549.00",
+            "id": 12,
+            "bbox": [
+                489,
+                697,
+                534,
+                713
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                213,
+                698,
+                217,
+                714
+            ]
+        },
+        {
+            "text": "1",
+            "id": 14,
+            "bbox": [
+                217,
+                743,
+                221,
+                761
+            ]
+        },
+        {
+            "text": "RING",
+            "id": 15,
+            "bbox": [
+                233,
+                698,
+                265,
+                714
+            ]
+        },
+        {
+            "text": "DOOR",
+            "id": 16,
+            "bbox": [
+                272,
+                698,
+                310,
+                714
+            ]
+        },
+        {
+            "text": "VIEW",
+            "id": 17,
+            "bbox": [
+                317,
+                698,
+                352,
+                714
+            ]
+        },
+        {
+            "text": "CAMERA",
+            "id": 18,
+            "bbox": [
+                231,
+                716,
+                286,
+                732
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MARII"
+                "12:15",
+                "PM"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18",
-                "Karet",
-                "Vallw",
-                "CI",
-                "Fu",
-                "Oamo",
-                "Hug",
-                "Eanings"
-            ],
-            "value_id": [
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
                 9,
                 10
             ]
@@ -143,10 +200,94 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2007/2020"
+                "24",
+                "/",
+                "Jul",
+                "/",
+                "20"
             ],
             "value_id": [
-                2
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "549.00"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RING",
+                "DOOR",
+                "VIEW",
+                "CAMERA"
+            ],
+            "value_id": [
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DENASTER",
+                "GENERAL",
+                "TRADINOLIO"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "549.00"
+            ],
+            "value_id": [
+                11
             ]
         }
     ],

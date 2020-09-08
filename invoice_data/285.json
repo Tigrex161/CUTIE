@@ -1,277 +1,148 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "Angels",
             "id": 1,
             "bbox": [
-                383,
-                19,
-                428,
-                34
+                215,
+                362,
+                345,
+                410
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "07/03/20",
             "id": 2,
             "bbox": [
-                436,
-                18,
-                505,
-                35
+                348,
+                716,
+                434,
+                738
             ]
         },
         {
-            "text": "MALLETER",
+            "text": "5:31",
             "id": 3,
             "bbox": [
-                412,
-                35,
-                449,
-                45
+                502,
+                718,
+                543,
+                740
             ]
         },
         {
-            "text": "A",
+            "text": "380.00",
             "id": 4,
             "bbox": [
-                451,
-                37,
-                456,
-                43
+                477,
+                1053,
+                542,
+                1076
             ]
         },
         {
-            "text": "PARIS",
+            "text": "765.00",
             "id": 5,
             "bbox": [
-                458,
-                37,
-                475,
-                45
+                467,
+                968,
+                531,
+                991
             ]
         },
         {
-            "text": "MAISON",
+            "text": "1",
             "id": 6,
             "bbox": [
-                396,
-                69,
-                426,
-                75
+                309,
+                967,
+                316,
+                988
             ]
         },
         {
-            "text": "FOND\u00c9",
+            "text": "Abito",
             "id": 7,
             "bbox": [
-                429,
-                68,
-                453,
-                78
+                146,
+                968,
+                198,
+                987
             ]
         },
         {
-            "text": "EN",
+            "text": "Hawaii",
             "id": 8,
             "bbox": [
-                460,
-                70,
-                468,
-                76
+                211,
+                968,
+                269,
+                987
             ]
         },
         {
-            "text": "1854",
+            "text": "1",
             "id": 9,
             "bbox": [
-                473,
-                71,
-                487,
-                78
+                533,
+                1133,
+                539,
+                1148
             ]
         },
         {
-            "text": "19:02",
+            "text": "8056862079564",
             "id": 10,
             "bbox": [
-                711,
-                272,
-                744,
-                281
+                311,
+                942,
+                450,
+                969
             ]
         },
         {
-            "text": "3,",
+            "text": "\u0641\u0633\u062a\u0627\u0646",
             "id": 11,
             "bbox": [
-                772,
-                547,
-                790,
-                558
-            ]
-        },
-        {
-            "text": "200.00",
-            "id": 12,
-            "bbox": [
-                792,
-                545,
-                834,
-                558
-            ]
-        },
-        {
-            "text": "3,",
-            "id": 13,
-            "bbox": [
-                777,
-                345,
-                785,
-                353
-            ]
-        },
-        {
-            "text": "200.00",
-            "id": 14,
-            "bbox": [
-                790,
-                344,
-                831,
-                353
-            ]
-        },
-        {
-            "text": "1A64IJ",
-            "id": 15,
-            "bbox": [
-                23,
-                336,
-                65,
-                345
-            ]
-        },
-        {
-            "text": "AILHIDGC78N385",
-            "id": 16,
-            "bbox": [
-                81,
-                335,
-                180,
-                348
-            ]
-        },
-        {
-            "text": "LOCK",
-            "id": 17,
-            "bbox": [
-                190,
-                338,
-                218,
-                346
-            ]
-        },
-        {
-            "text": "IT",
-            "id": 18,
-            "bbox": [
-                228,
-                339,
-                240,
-                346
-            ]
-        },
-        {
-            "text": "MUL",
-            "id": 19,
-            "bbox": [
-                249,
-                341,
-                270,
-                347
-            ]
-        },
-        {
-            "text": "SHOES",
-            "id": 20,
-            "bbox": [
-                22,
-                351,
-                56,
-                359
+                144,
+                990,
+                181,
+                1009
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1A64IJ",
-                "AILHIDGC78N385",
-                "LOCK",
-                "IT",
-                "MUL",
-                "SHOES"
-            ],
-            "value_id": [
-                15,
-                16,
-                17,
-                18,
-                19,
-                20
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MALLETER",
-                "A",
-                "PARIS",
-                "MAISON",
-                "FOND\u00c9",
-                "EN",
-                "1854"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,",
-                "200.00"
-            ],
-            "value_id": [
-                11,
-                12
-            ]
-        },
-        {
             "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19:02"
+                "5:31"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8056862079564"
             ],
             "value_id": [
                 10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/03/20"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -279,12 +150,78 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,",
-                "200.00"
+                "765.00"
             ],
             "value_id": [
-                13,
-                14
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0641\u0633\u062a\u0627\u0646"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Abito",
+                "Hawaii"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Angels"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "380.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

@@ -1,111 +1,107 @@
 {
     "text_boxes": [
         {
-            "text": "18:29",
+            "text": "OYSHO",
             "id": 1,
             "bbox": [
-                310,
-                504,
-                345,
-                516
+                296,
+                104,
+                452,
+                148
             ]
         },
         {
-            "text": "151.20",
+            "text": "03.07.2020",
             "id": 2,
             "bbox": [
-                429,
-                788,
-                473,
-                800
+                251,
+                333,
+                308,
+                346
             ]
         },
         {
-            "text": "189.00",
+            "text": "18:03",
             "id": 3,
             "bbox": [
-                406,
-                607,
-                449,
-                619
+                317,
+                335,
+                343,
+                348
             ]
         },
         {
-            "text": "9",
+            "text": "118",
             "id": 4,
             "bbox": [
-                316,
-                592,
-                322,
-                603
+                445,
+                428,
+                457,
+                437
             ]
         },
         {
-            "text": "ADILETTE",
+            "text": "SHIRT",
             "id": 5,
             "bbox": [
-                174,
-                606,
-                231,
-                618
+                398,
+                410,
+                424,
+                424
             ]
         },
         {
-            "text": "COMFORT",
+            "text": "TROUSERS",
             "id": 6,
             "bbox": [
-                241,
-                606,
-                291,
-                617
+                398,
+                437,
+                442,
+                453
+            ]
+        },
+        {
+            "text": "3",
+            "id": 7,
+            "bbox": [
+                322,
+                396,
+                324,
+                405
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                323,
+                425,
+                326,
+                434
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ADILETTE",
-                "COMFORT"
-            ],
-            "value_id": [
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "151.20"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "9"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
             "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18:29"
+                "18:03"
             ],
             "value_id": [
-                1
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "03.07.2020"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -113,10 +109,47 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "189.00"
+                "118"
             ],
             "value_id": [
-                3
+                4
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SHIRT",
+                "TROUSERS"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "OYSHO"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3",
+                "1"
+            ],
+            "value_id": [
+                7,
+                8
             ]
         }
     ],

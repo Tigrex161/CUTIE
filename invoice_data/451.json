@@ -1,192 +1,179 @@
 {
     "text_boxes": [
         {
-            "text": "AHMED",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                507,
-                47,
-                575,
-                64
+                269,
+                87,
+                329,
+                107
             ]
         },
         {
-            "text": "SEDDIOI",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                582,
-                48,
-                655,
-                65
+                339,
+                89,
+                406,
+                108
             ]
         },
         {
-            "text": "&",
+            "text": "02/07/20",
             "id": 3,
             "bbox": [
-                662,
-                49,
-                674,
-                64
+                243,
+                281,
+                299,
+                298
             ]
         },
         {
-            "text": "SONS",
+            "text": "22:41",
             "id": 4,
             "bbox": [
-                680,
-                48,
-                720,
-                69
+                310,
+                282,
+                343,
+                298
             ]
         },
         {
-            "text": "02-07-2020",
+            "text": ".",
             "id": 5,
             "bbox": [
-                473,
-                240,
-                524,
-                247
+                342,
+                283,
+                345,
+                298
             ]
         },
         {
-            "text": "12,350.00",
+            "text": "223.55",
             "id": 6,
             "bbox": [
-                680,
-                424,
-                717,
-                434
+                445,
+                539,
+                486,
+                555
             ]
         },
         {
-            "text": "12,350.00",
+            "text": "263.00",
             "id": 7,
             "bbox": [
-                679,
-                372,
-                717,
-                381
+                447,
+                413,
+                489,
+                429
             ]
         },
         {
-            "text": "MESSIKA",
+            "text": "1",
             "id": 8,
             "bbox": [
-                33,
-                382,
-                71,
-                388
+                202,
+                428,
+                205,
+                442
             ]
         },
         {
-            "text": "K",
+            "text": "Beauty",
             "id": 9,
             "bbox": [
-                82,
-                380,
-                103,
-                389
+                195,
+                392,
+                236,
+                408
             ]
         },
         {
-            "text": "la",
+            "text": "HAIR",
             "id": 10,
             "bbox": [
-                113,
-                380,
-                128,
-                388
+                194,
+                408,
+                221,
+                424
             ]
         },
         {
-            "text": "WO7515",
+            "text": "MIST",
             "id": 11,
             "bbox": [
-                34,
-                392,
-                65,
-                400
+                229,
+                409,
+                256,
+                425
             ]
         },
         {
-            "text": "LUCKY",
+            "text": "TEINT",
             "id": 12,
             "bbox": [
-                35,
-                403,
-                61,
-                410
+                265,
+                410,
+                298,
+                426
             ]
         },
         {
-            "text": "MOVE",
+            "text": "DE",
             "id": 13,
             "bbox": [
-                65,
-                402,
-                89,
-                409
+                308,
+                412,
+                318,
+                426
             ]
         },
         {
-            "text": "SM",
+            "text": "N",
             "id": 14,
             "bbox": [
-                92,
-                402,
-                104,
-                409
+                328,
+                413,
+                334,
+                427
             ]
         },
         {
-            "text": "EARRING",
+            "text": "900741197",
             "id": 15,
             "bbox": [
-                108,
-                400,
-                145,
-                409
-            ]
-        },
-        {
-            "text": "SerialaC47052",
-            "id": 16,
-            "bbox": [
-                35,
-                412,
-                94,
-                420
+                229,
+                428,
+                292,
+                442
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MESSIKA",
-                "K",
-                "la",
-                "WO7515",
-                "LUCKY",
-                "MOVE",
-                "SM",
-                "EARRING",
-                "SerialaC47052"
+                "22:41",
+                "."
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900741197"
+            ],
+            "value_id": [
+                15
             ]
         },
         {
@@ -194,38 +181,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02-07-2020"
+                "02/07/20"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AHMED",
-                "SEDDIOI",
-                "&",
-                "SONS"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12,350.00"
-            ],
-            "value_id": [
-                6
+                3
             ]
         },
         {
@@ -233,10 +192,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12,350.00"
+                "263.00"
             ],
             "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Beauty",
+                "HAIR",
+                "MIST",
+                "TEINT",
+                "DE",
+                "N"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "223.55"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

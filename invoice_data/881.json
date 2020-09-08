@@ -1,198 +1,220 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "Gucci",
             "id": 1,
             "bbox": [
-                309,
-                13,
-                349,
-                26
+                298,
+                487,
+                355,
+                507
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "-",
             "id": 2,
             "bbox": [
-                355,
-                12,
-                415,
-                26
+                377,
+                487,
+                384,
+                507
             ]
         },
         {
-            "text": "MAETERAMS",
+            "text": "Women's",
             "id": 3,
             "bbox": [
-                336,
-                28,
-                389,
-                35
+                401,
+                487,
+                487,
+                508
             ]
         },
         {
-            "text": "MAONFONDEE",
+            "text": "Accessories",
             "id": 4,
             "bbox": [
-                324,
-                60,
-                375,
-                68
+                503,
+                487,
+                642,
+                509
             ]
         },
         {
-            "text": "EN",
+            "text": "1850.00",
             "id": 5,
             "bbox": [
-                377,
-                61,
-                384,
-                68
+                708,
+                486,
+                808,
+                509
             ]
         },
         {
-            "text": "4",
+            "text": "1",
             "id": 6,
             "bbox": [
-                387,
-                62,
-                400,
-                67
+                581,
+                511,
+                590,
+                531
             ]
         },
         {
-            "text": "22/07/2020",
+            "text": "1",
             "id": 7,
             "bbox": [
-                509,
+                795,
+                614,
+                802,
+                633
+            ]
+        },
+        {
+            "text": "1:30:34",
+            "id": 8,
+            "bbox": [
+                531,
+                229,
+                612,
+                256
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 9,
+            "bbox": [
+                626,
+                227,
+                650,
+                250
+            ]
+        },
+        {
+            "text": "19-",
+            "id": 10,
+            "bbox": [
+                314,
+                228,
+                345,
+                251
+            ]
+        },
+        {
+            "text": "Ju",
+            "id": 11,
+            "bbox": [
+                350,
+                230,
+                371,
+                251
+            ]
+        },
+        {
+            "text": ")",
+            "id": 12,
+            "bbox": [
+                376,
+                232,
+                380,
+                252
+            ]
+        },
+        {
+            "text": "-",
+            "id": 13,
+            "bbox": [
+                386,
+                232,
+                394,
+                252
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 14,
+            "bbox": [
+                399,
                 233,
-                566,
+                445,
+                257
+            ]
+        },
+        {
+            "text": "You",
+            "id": 15,
+            "bbox": [
+                388,
+                214,
+                422,
                 245
             ]
         },
         {
-            "text": "10:19",
-            "id": 8,
-            "bbox": [
-                586,
-                234,
-                613,
-                243
-            ]
-        },
-        {
-            "text": "1,180.00",
-            "id": 9,
-            "bbox": [
-                634,
-                445,
-                677,
-                452
-            ]
-        },
-        {
-            "text": "1,180.00",
-            "id": 10,
-            "bbox": [
-                632,
-                295,
-                674,
-                301
-            ]
-        },
-        {
-            "text": "LPO05)",
-            "id": 11,
-            "bbox": [
-                53,
-                301,
-                84,
-                307
-            ]
-        },
-        {
-            "text": "NOUVEAU",
-            "id": 12,
-            "bbox": [
-                97,
-                298,
-                134,
-                306
-            ]
-        },
-        {
-            "text": "MONDR",
-            "id": 13,
-            "bbox": [
-                140,
-                300,
-                167,
-                306
-            ]
-        },
-        {
-            "text": "100ML.",
-            "id": 14,
-            "bbox": [
-                174,
-                299,
-                201,
-                306
-            ]
-        },
-        {
-            "text": "EDP",
-            "id": 15,
-            "bbox": [
-                208,
-                299,
-                223,
-                305
-            ]
-        },
-        {
-            "text": "PERFUME",
+            "text": "\u0641\u0627\u062a\u0648\u0631\u0629",
             "id": 16,
             "bbox": [
-                56,
                 310,
-                92,
-                317
+                251,
+                354,
+                273
             ]
         },
         {
-            "text": "(STOCK)",
+            "text": "1,850.00",
             "id": 17,
             "bbox": [
-                98,
-                308,
-                133,
-                318
+                701,
+                738,
+                797,
+                765
+            ]
+        },
+        {
+            "text": "2082341509",
+            "id": 18,
+            "bbox": [
+                322,
+                509,
+                435,
+                528
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LPO05)",
-                "NOUVEAU",
-                "MONDR",
-                "100ML.",
-                "EDP",
-                "PERFUME",
-                "(STOCK)"
+                "1:30:34",
+                "PM"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2082341509"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1850.00"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -200,30 +222,60 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "22/07/2020"
+                "19-",
+                "Ju",
+                ")",
+                "-",
+                "2020",
+                "You",
+                "\u0641\u0627\u062a\u0648\u0631\u0629"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Gucci",
+                "-",
+                "Women's",
+                "Accessories"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 7
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MAETERAMS",
-                "MAONFONDEE",
-                "EN",
-                "4"
+                "1"
             ],
             "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
                 6
             ]
         },
@@ -232,32 +284,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,180.00"
+                "1,850.00"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10:19"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,180.00"
-            ],
-            "value_id": [
-                10
+                17
             ]
         }
     ],

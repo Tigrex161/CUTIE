@@ -1,256 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "BAPE",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                312,
-                142,
-                347,
-                151
+                352,
+                134,
+                491,
+                195
             ]
         },
         {
-            "text": "STORE",
+            "text": "23-07-2020",
             "id": 2,
             "bbox": [
-                353,
-                142,
-                398,
-                151
+                251,
+                245,
+                330,
+                264
             ]
         },
         {
-            "text": "O",
+            "text": "11:11",
             "id": 3,
             "bbox": [
-                403,
-                143,
-                412,
-                151
+                342,
+                249,
+                379,
+                266
             ]
         },
         {
-            "text": "7/22/2020",
+            "text": "209",
             "id": 4,
             "bbox": [
-                379,
-                380,
-                430,
-                391
+                512,
+                484,
+                534,
+                500
             ]
         },
         {
-            "text": "9.46:31",
+            "text": "289",
             "id": 5,
             "bbox": [
-                435,
-                382,
-                469,
-                391
+                517,
+                342,
+                539,
+                356
             ]
         },
         {
-            "text": "PM",
+            "text": "1",
             "id": 6,
             "bbox": [
-                475,
-                382,
-                489,
-                391
+                347,
+                332,
+                350,
+                343
             ]
         },
         {
-            "text": "419.00",
+            "text": "0182104150003",
             "id": 7,
             "bbox": [
-                441,
-                748,
-                479,
-                758
+                328,
+                347,
+                433,
+                370
             ]
         },
         {
-            "text": "419.",
+            "text": "DRESS",
             "id": 8,
             "bbox": [
-                449,
-                490,
-                476,
-                502
+                450,
+                355,
+                489,
+                373
             ]
         },
         {
-            "text": "00",
+            "text": "2",
             "id": 9,
             "bbox": [
-                474,
-                494,
-                485,
-                502
+                373,
+                396,
+                383,
+                408
             ]
         },
         {
-            "text": "11",
+            "text": "10001303",
             "id": 10,
             "bbox": [
-                477,
-                598,
-                481,
-                607
-            ]
-        },
-        {
-            "text": "SPACE",
-            "id": 11,
-            "bbox": [
-                212,
-                510,
-                242,
-                520
-            ]
-        },
-        {
-            "text": "CAMO",
-            "id": 12,
-            "bbox": [
                 247,
-                511,
-                278,
-                520
-            ]
-        },
-        {
-            "text": "COLLEGE",
-            "id": 13,
-            "bbox": [
-                282,
-                512,
-                325,
-                521
-            ]
-        },
-        {
-            "text": "ATS",
-            "id": 14,
-            "bbox": [
-                329,
-                513,
-                347,
-                523
-            ]
-        },
-        {
-            "text": "TEE",
-            "id": 15,
-            "bbox": [
-                351,
-                514,
-                368,
-                522
-            ]
-        },
-        {
-            "text": "M",
-            "id": 16,
-            "bbox": [
-                373,
-                516,
-                380,
-                523
-            ]
-        },
-        {
-            "text": "4580534175031",
-            "id": 17,
-            "bbox": [
-                211,
-                533,
-                290,
-                544
-            ]
-        },
-        {
-            "text": "001TEG301035XBLKOOM",
-            "id": 18,
-            "bbox": [
-                212,
-                486,
-                335,
-                498
+                346,
+                309,
+                361
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11"
+                "11:11"
             ],
             "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SPACE",
-                "CAMO",
-                "COLLEGE",
-                "ATS",
-                "TEE",
-                "M",
-                "4580534175031"
-            ],
-            "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7/22/2020"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "BAPE",
-                "STORE",
-                "O"
-            ],
-            "value_id": [
-                1,
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "419.00"
-            ],
-            "value_id": [
-                7
             ]
         },
         {
@@ -258,23 +118,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "001TEG301035XBLKOOM"
+                "10001303"
             ],
             "value_id": [
-                18
+                10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "9.46:31",
-                "PM"
+                "23-07-2020"
             ],
             "value_id": [
-                5,
-                6
+                2
             ]
         },
         {
@@ -282,12 +140,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "419.",
-                "00"
+                "289"
             ],
             "value_id": [
-                8,
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0182104150003",
+                "DRESS"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
                 9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "209"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

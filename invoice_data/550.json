@@ -1,90 +1,129 @@
 {
     "text_boxes": [
         {
-            "text": "blomingdoles",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                239,
-                156,
-                454,
-                202
+                248,
+                171,
+                521,
+                220
             ]
         },
         {
-            "text": "12-Jul-2020",
+            "text": "2020-",
             "id": 2,
             "bbox": [
-                219,
-                314,
-                284,
-                325
+                260,
+                362,
+                297,
+                380
             ]
         },
         {
-            "text": "720.00",
+            "text": "\u0627\u0644",
             "id": 3,
             "bbox": [
-                428,
-                548,
-                462,
-                558
+                238,
+                361,
+                257,
+                379
             ]
         },
         {
-            "text": "720.00",
+            "text": "-02",
             "id": 4,
             "bbox": [
-                426,
-                457,
-                459,
-                466
+                215,
+                361,
+                239,
+                378
             ]
         },
         {
-            "text": "INDUSTRIAL",
+            "text": "4:45:46",
             "id": 5,
             "bbox": [
-                224,
-                459,
-                281,
-                470
+                350,
+                365,
+                401,
+                382
             ]
         },
         {
-            "text": "SLIDER",
+            "text": "PM",
             "id": 6,
             "bbox": [
-                289,
-                458,
-                323,
-                470
+                410,
+                367,
+                423,
+                382
             ]
         },
         {
-            "text": "ME",
+            "text": "2.500.00",
             "id": 7,
             "bbox": [
-                330,
-                459,
-                341,
-                469
+                454,
+                750,
+                509,
+                765
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                382,
+                765,
+                387,
+                778
+            ]
+        },
+        {
+            "text": "213585871",
+            "id": 9,
+            "bbox": [
+                240,
+                762,
+                300,
+                779
+            ]
+        },
+        {
+            "text": "2,500.00",
+            "id": 10,
+            "bbox": [
+                456,
+                866,
+                513,
+                883
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "INDUSTRIAL",
-                "SLIDER",
-                "ME"
+                "4:45:46",
+                "PM"
             ],
             "value_id": [
                 5,
-                6,
-                7
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "213585871"
+            ],
+            "value_id": [
+                9
             ]
         },
         {
@@ -92,32 +131,14 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12-Jul-2020"
+                "2020-",
+                "\u0627\u0644",
+                "-02"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "blomingdoles"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "720.00"
-            ],
-            "value_id": [
-                3
+                2,
+                3,
+                4
             ]
         },
         {
@@ -125,10 +146,43 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "720.00"
+                "2.500.00"
             ],
             "value_id": [
-                4
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdales"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,500.00"
+            ],
+            "value_id": [
+                10
             ]
         }
     ],

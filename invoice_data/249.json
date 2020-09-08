@@ -1,203 +1,136 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "12",
             "id": 1,
             "bbox": [
-                451,
-                362,
-                475,
-                374
+                457,
+                397,
+                468,
+                409
+            ]
+        },
+        {
+            "text": "Jul",
+            "id": 2,
+            "bbox": [
+                476,
+                397,
+                494,
+                409
+            ]
+        },
+        {
+            "text": ",",
+            "id": 3,
+            "bbox": [
+                497,
+                397,
+                499,
+                409
             ]
         },
         {
             "text": "2020",
-            "id": 2,
-            "bbox": [
-                486,
-                362,
-                512,
-                372
-            ]
-        },
-        {
-            "text": "12:55",
-            "id": 3,
-            "bbox": [
-                521,
-                361,
-                553,
-                372
-            ]
-        },
-        {
-            "text": "920.00",
             "id": 4,
             "bbox": [
-                575,
-                608,
-                615,
-                617
+                510,
+                397,
+                535,
+                409
             ]
         },
         {
-            "text": "920.00",
+            "text": "18:34",
             "id": 5,
             "bbox": [
-                582,
-                519,
-                622,
-                529
+                544,
+                397,
+                576,
+                409
             ]
         },
         {
-            "text": "1001111001-RED:MIE.RED:M:VIRGINIE",
+            "text": "=",
             "id": 6,
             "bbox": [
-                102,
-                502,
-                317,
-                514
+                576,
+                637,
+                579,
+                650
             ]
         },
         {
-            "text": "HAT",
+            "text": "350.00",
             "id": 7,
             "bbox": [
-                325,
-                503,
-                343,
-                511
+                591,
+                637,
+                628,
+                650
             ]
         },
         {
-            "text": "20PS",
+            "text": "2,350.00",
             "id": 8,
             "bbox": [
-                352,
-                503,
-                376,
-                511
+                586,
+                552,
+                637,
+                565
             ]
         },
         {
-            "text": "STRAW",
+            "text": "BAG",
             "id": 9,
             "bbox": [
-                384,
-                501,
-                417,
-                510
+                171,
+                527,
+                187,
+                540
             ]
         },
         {
-            "text": "RI",
+            "text": "WOMENS",
             "id": 10,
             "bbox": [
-                424,
-                502,
-                434,
-                511
+                266,
+                528,
+                304,
+                542
             ]
         },
         {
-            "text": "349724733901",
+            "text": "BAGS",
             "id": 11,
             "bbox": [
-                102,
-                526,
-                178,
-                536
+                312,
+                529,
+                337,
+                542
             ]
         },
         {
-            "text": "L",
+            "text": "01651286244444",
             "id": 12,
             "bbox": [
-                440,
-                502,
-                464,
-                511
-            ]
-        },
-        {
-            "text": "u",
-            "id": 13,
-            "bbox": [
-                496,
-                499,
-                512,
-                510
-            ]
-        },
-        {
-            "text": "Lhii",
-            "id": 14,
-            "bbox": [
-                514,
-                498,
-                543,
-                509
+                131,
+                547,
+                207,
+                562
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1001111001-RED:MIE.RED:M:VIRGINIE",
-                "HAT",
-                "20PS",
-                "STRAW",
-                "RI"
+                "18:34"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "L",
-                "u",
-                "Lhii"
-            ],
-            "value_id": [
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "920.00"
-            ],
-            "value_id": [
-                4
+                5
             ]
         },
         {
@@ -205,21 +138,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "349724733901"
+                "01651286244444"
             ],
             "value_id": [
-                11
+                12
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:55"
+                "12",
+                "Jul",
+                ",",
+                "2020"
             ],
             "value_id": [
-                3
+                1,
+                2,
+                3,
+                4
             ]
         },
         {
@@ -227,10 +166,38 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "920.00"
+                "2,350.00"
             ],
             "value_id": [
-                5
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BAG",
+                "WOMENS",
+                "BAGS"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "=",
+                "350.00"
+            ],
+            "value_id": [
+                6,
+                7
             ]
         }
     ],

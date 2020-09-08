@@ -1,0 +1,297 @@
+{
+    "text_boxes": [
+        {
+            "text": "XINCKUNIYA",
+            "id": 1,
+            "bbox": [
+                240,
+                293,
+                312,
+                310
+            ]
+        },
+        {
+            "text": "BOOKSTORES",
+            "id": 2,
+            "bbox": [
+                321,
+                293,
+                393,
+                310
+            ]
+        },
+        {
+            "text": "(",
+            "id": 3,
+            "bbox": [
+                403,
+                293,
+                406,
+                310
+            ]
+        },
+        {
+            "text": "S",
+            "id": 4,
+            "bbox": [
+                409,
+                293,
+                415,
+                310
+            ]
+        },
+        {
+            "text": ")",
+            "id": 5,
+            "bbox": [
+                419,
+                293,
+                421,
+                310
+            ]
+        },
+        {
+            "text": "PTE",
+            "id": 6,
+            "bbox": [
+                432,
+                293,
+                451,
+                310
+            ]
+        },
+        {
+            "text": "LTD",
+            "id": 7,
+            "bbox": [
+                461,
+                293,
+                481,
+                310
+            ]
+        },
+        {
+            "text": "25/07/20",
+            "id": 8,
+            "bbox": [
+                295,
+                519,
+                351,
+                536
+            ]
+        },
+        {
+            "text": "12:57",
+            "id": 9,
+            "bbox": [
+                361,
+                519,
+                394,
+                536
+            ]
+        },
+        {
+            "text": "396,90",
+            "id": 10,
+            "bbox": [
+                468,
+                703,
+                510,
+                717
+            ]
+        },
+        {
+            "text": "441",
+            "id": 11,
+            "bbox": [
+                467,
+                611,
+                486,
+                627
+            ]
+        },
+        {
+            "text": "00",
+            "id": 12,
+            "bbox": [
+                492,
+                611,
+                509,
+                627
+            ]
+        },
+        {
+            "text": "Marketing",
+            "id": 13,
+            "bbox": [
+                241,
+                647,
+                309,
+                665
+            ]
+        },
+        {
+            "text": "Management",
+            "id": 14,
+            "bbox": [
+                318,
+                648,
+                386,
+                666
+            ]
+        },
+        {
+            "text": "2241292092027",
+            "id": 15,
+            "bbox": [
+                318,
+                609,
+                408,
+                628
+            ]
+        },
+        {
+            "text": "\u06a9\u0644\u0627\u0646",
+            "id": 16,
+            "bbox": [
+                303,
+                627,
+                332,
+                644
+            ]
+        },
+        {
+            "text": "\u0627\u0646\u0637\u064a\u0631",
+            "id": 17,
+            "bbox": [
+                254,
+                629,
+                293,
+                646
+            ]
+        },
+        {
+            "text": "\u06af\u06cc\u0627",
+            "id": 18,
+            "bbox": [
+                245,
+                630,
+                252,
+                646
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:57"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2241292092027"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25/07/20"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "441",
+                "00"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u06a9\u0644\u0627\u0646",
+                "\u0627\u0646\u0637\u064a\u0631",
+                "\u06af\u06cc\u0627"
+            ],
+            "value_id": [
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Marketing",
+                "Management"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "XINCKUNIYA",
+                "BOOKSTORES",
+                "(",
+                "S",
+                ")",
+                "PTE",
+                "LTD"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "396,90"
+            ],
+            "value_id": [
+                10
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1164.jpg"
+    }
+}

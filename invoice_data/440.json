@@ -1,210 +1,106 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                351,
-                251,
-                384,
-                263
+                311,
+                249,
+                399,
+                280
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "KIDS",
             "id": 2,
             "bbox": [
-                389,
-                248,
-                438,
-                261
-            ]
-        },
-        {
-            "text": "MADCNO",
-            "id": 3,
-            "bbox": [
-                363,
-                284,
-                394,
-                293
-            ]
-        },
-        {
-            "text": "N",
-            "id": 4,
-            "bbox": [
-                407,
-                285,
-                413,
+                372,
+                279,
+                398,
                 290
             ]
         },
         {
-            "text": "27/06/2020",
+            "text": "32000",
+            "id": 3,
+            "bbox": [
+                115,
+                265,
+                158,
+                276
+            ]
+        },
+        {
+            "text": "327.6",
+            "id": 4,
+            "bbox": [
+                166,
+                265,
+                190,
+                276
+            ]
+        },
+        {
+            "text": "2390.00",
             "id": 5,
             "bbox": [
-                526,
-                418,
-                575,
-                428
+                658,
+                659,
+                694,
+                670
             ]
         },
         {
-            "text": "1145",
+            "text": "GRLPOPELNE",
             "id": 6,
             "bbox": [
-                597,
-                415,
-                618,
-                426
+                181,
+                492,
+                250,
+                505
             ]
         },
         {
-            "text": "6.070.00",
+            "text": "DRESS",
             "id": 7,
             "bbox": [
-                647,
-                600,
-                688,
-                609
+                253,
+                491,
+                286,
+                504
             ]
         },
         {
-            "text": "3.",
+            "text": "PNK",
             "id": 8,
             "bbox": [
-                639,
-                466,
-                650,
-                476
+                296,
+                491,
+                317,
+                502
             ]
         },
         {
-            "text": "S00.00",
+            "text": "MULTICOLOR",
             "id": 9,
             "bbox": [
-                649,
-                467,
-                678,
-                474
-            ]
-        },
-        {
-            "text": "E570.00",
-            "id": 10,
-            "bbox": [
-                638,
-                494,
-                678,
-                503
-            ]
-        },
-        {
-            "text": "1ASVIX",
-            "id": 11,
-            "bbox": [
-                124,
-                488,
-                151,
-                495
-            ]
-        },
-        {
-            "text": "HIY4BHNPIO0250",
-            "id": 12,
-            "bbox": [
-                162,
-                485,
-                229,
-                494
-            ]
-        },
-        {
-            "text": "LANSE",
-            "id": 13,
-            "bbox": [
-                236,
-                484,
-                254,
-                491
-            ]
-        },
-        {
-            "text": "INSIDN",
-            "id": 14,
-            "bbox": [
-                262,
-                483,
-                289,
-                491
-            ]
-        },
-        {
-            "text": "JABJRO",
-            "id": 15,
-            "bbox": [
-                126,
-                516,
-                152,
-                522
-            ]
-        },
-        {
-            "text": "HUYOPOoese",
-            "id": 16,
-            "bbox": [
-                164,
-                511,
-                232,
-                521
-            ]
-        },
-        {
-            "text": "LV",
-            "id": 17,
-            "bbox": [
-                238,
-                514,
-                246,
-                519
-            ]
-        },
-        {
-            "text": "STITCHP",
-            "id": 18,
-            "bbox": [
-                253,
-                512,
-                291,
-                519
+                321,
+                489,
+                381,
+                502
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1ASVIX",
-                "HIY4BHNPIO0250",
-                "LANSE",
-                "INSIDN",
-                "JABJRO",
-                "HUYOPOoese",
-                "LV",
-                "STITCHP"
+                "327.6"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
+                4
             ]
         },
         {
@@ -212,10 +108,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "27/06/2020"
+                "32000"
             ],
             "value_id": [
-                5
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GRLPOPELNE",
+                "DRESS",
+                "PNK",
+                "MULTICOLOR"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9
             ]
         },
         {
@@ -223,16 +136,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MADCNO",
-                "N"
+                "FENDI",
+                "KIDS"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4
+                2
             ]
         },
         {
@@ -240,36 +149,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6.070.00"
+                "2390.00"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1145"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3.",
-                "S00.00",
-                "E570.00"
-            ],
-            "value_id": [
-                8,
-                9,
-                10
+                5
             ]
         }
     ],

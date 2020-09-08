@@ -1,110 +1,178 @@
 {
     "text_boxes": [
         {
-            "text": "2020",
+            "text": "Urban",
             "id": 1,
             "bbox": [
-                309,
-                286,
-                330,
-                295
-            ]
-        },
-        {
-            "text": "12:02",
-            "id": 2,
-            "bbox": [
-                339,
-                283,
-                366,
+                203,
+                277,
+                252,
                 293
             ]
         },
         {
-            "text": "169",
+            "text": "Outfitters",
+            "id": 2,
+            "bbox": [
+                264,
+                276,
+                361,
+                292
+            ]
+        },
+        {
+            "text": "Dubai",
             "id": 3,
             "bbox": [
-                474,
-                440,
-                489,
-                447
+                373,
+                274,
+                420,
+                290
             ]
         },
         {
-            "text": "169",
+            "text": "Mall",
             "id": 4,
             "bbox": [
-                472,
-                332,
-                487,
-                339
+                432,
+                274,
+                470,
+                289
             ]
         },
         {
-            "text": "0113131951203",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                331,
-                345,
-                409,
-                361
+                366,
+                1051,
+                397,
+                1068
             ]
         },
         {
-            "text": "DRESS",
+            "text": "\u0627\u0648\u0631",
             "id": 6,
             "bbox": [
-                422,
-                346,
-                451,
-                355
+                360,
+                1052,
+                366,
+                1067
             ]
         },
         {
-            "text": "10001494",
+            "text": "33",
             "id": 7,
             "bbox": [
-                272,
+                313,
+                1053,
+                366,
+                1069
+            ]
+        },
+        {
+            "text": "::",
+            "id": 8,
+            "bbox": [
+                453,
+                1048,
+                496,
+                1064
+            ]
+        },
+        {
+            "text": "14",
+            "id": 9,
+            "bbox": [
+                515,
+                1047,
+                522,
+                1061
+            ]
+        },
+        {
+            "text": "199.00",
+            "id": 10,
+            "bbox": [
+                463,
+                637,
+                506,
+                650
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                268,
+                571,
+                270,
+                581
+            ]
+        },
+        {
+            "text": "19",
+            "id": 12,
+            "bbox": [
+                470,
+                566,
+                492,
+                578
+            ]
+        },
+        {
+            "text": ".",
+            "id": 13,
+            "bbox": [
+                494,
+                566,
+                496,
+                577
+            ]
+        },
+        {
+            "text": "Fots",
+            "id": 14,
+            "bbox": [
+                327,
+                551,
                 355,
+                565
+            ]
+        },
+        {
+            "text": "*",
+            "id": 15,
+            "bbox": [
+                311,
+                551,
                 316,
-                366
+                565
+            ]
+        },
+        {
+            "text": "727585",
+            "id": 16,
+            "bbox": [
+                186,
+                553,
+                244,
+                569
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0113131951203",
-                "DRESS"
+                "::",
+                "14"
             ],
             "value_id": [
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2020"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "169"
-            ],
-            "value_id": [
-                3
+                8,
+                9
             ]
         },
         {
@@ -112,21 +180,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001494"
+                "727585"
             ],
             "value_id": [
-                7
+                16
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:02"
+                "2020",
+                "\u0627\u0648\u0631",
+                "33"
             ],
             "value_id": [
-                2
+                5,
+                6,
+                7
             ]
         },
         {
@@ -134,10 +206,64 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "169"
+                "19",
+                "."
             ],
             "value_id": [
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Fots",
+                "*"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Urban",
+                "Outfitters",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
                 4
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "199.00"
+            ],
+            "value_id": [
+                10
             ]
         }
     ],

@@ -1,0 +1,138 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZARA",
+            "id": 1,
+            "bbox": [
+                329,
+                95,
+                435,
+                136
+            ]
+        },
+        {
+            "text": "26.01",
+            "id": 2,
+            "bbox": [
+                255,
+                160,
+                286,
+                173
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                290,
+                162,
+                318,
+                175
+            ]
+        },
+        {
+            "text": "11.24",
+            "id": 4,
+            "bbox": [
+                327,
+                164,
+                356,
+                178
+            ]
+        },
+        {
+            "text": "0-9120977000",
+            "id": 5,
+            "bbox": [
+                321,
+                217,
+                398,
+                240
+            ]
+        },
+        {
+            "text": "SKIN",
+            "id": 6,
+            "bbox": [
+                419,
+                222,
+                449,
+                242
+            ]
+        },
+        {
+            "text": "10001953",
+            "id": 7,
+            "bbox": [
+                255,
+                218,
+                304,
+                231
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11.24"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001953"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "26.01",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0-9120977000",
+                "SKIN"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1443.jpg"
+    }
+}

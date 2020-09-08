@@ -1,211 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "05/07/20",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                266,
-                415,
-                342,
-                436
+                351,
+                16,
+                394,
+                35
             ]
         },
         {
-            "text": "8:00",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                363,
-                419,
                 400,
-                437
+                18,
+                466,
+                38
             ]
         },
         {
-            "text": "Dress",
+            "text": "MALLETIERA",
             "id": 3,
             "bbox": [
-                197,
-                610,
-                244,
-                629
+                380,
+                34,
+                419,
+                45
             ]
         },
         {
-            "text": "Light",
+            "text": "PARIS",
             "id": 4,
             "bbox": [
-                255,
-                610,
-                300,
-                630
+                422,
+                36,
+                437,
+                45
             ]
         },
         {
-            "text": "Blue",
+            "text": "03/07/2020",
             "id": 5,
             "bbox": [
-                313,
-                612,
-                350,
-                628
+                568,
+                261,
+                632,
+                272
             ]
         },
         {
-            "text": "pcs",
+            "text": "M41938",
             "id": 6,
             "bbox": [
-                360,
-                617,
-                388,
-                631
+                22,
+                326,
+                61,
+                337
             ]
         },
         {
-            "text": "Blouse",
+            "text": "PF",
             "id": 7,
             "bbox": [
-                197,
-                705,
-                253,
-                724
+                77,
+                326,
+                89,
+                337
             ]
         },
         {
-            "text": "Navy",
+            "text": ".",
             "id": 8,
             "bbox": [
-                264,
-                706,
-                300,
-                724
+                93,
+                326,
+                93,
+                337
             ]
         },
         {
-            "text": "blue",
+            "text": "VICTORINE",
             "id": 9,
             "bbox": [
-                312,
-                706,
-                348,
-                723
+                97,
+                326,
+                157,
+                337
             ]
         },
         {
-            "text": "pcs",
+            "text": "MNG",
             "id": 10,
             "bbox": [
-                369,
-                712,
-                396,
-                724
+                165,
+                325,
+                184,
+                336
             ]
         },
         {
-            "text": "199.",
+            "text": "FUCHSIA",
             "id": 11,
             "bbox": [
-                496,
-                614,
-                525,
-                630
+                193,
+                325,
+                239,
+                336
             ]
         },
         {
-            "text": "00",
+            "text": "SMALL",
             "id": 12,
             "bbox": [
-                532,
-                614,
-                549,
-                630
+                23,
+                340,
+                56,
+                351
             ]
         },
         {
-            "text": "239.00",
+            "text": "LEATHER",
             "id": 13,
             "bbox": [
-                492,
-                708,
-                547,
-                724
+                64,
+                340,
+                110,
+                351
             ]
         },
         {
-            "text": "8000000898883",
+            "text": "GOODS",
             "id": 14,
             "bbox": [
-                313,
-                587,
-                435,
-                605
+                117,
+                340,
+                150,
+                351
             ]
         },
         {
-            "text": "8000000901576",
+            "text": "2,170.00",
             "id": 15,
             "bbox": [
-                312,
-                682,
-                433,
-                700
+                713,
+                327,
+                762,
+                339
             ]
         },
         {
-            "text": "2",
+            "text": "1",
             "id": 16,
             "bbox": [
-                538,
-                899,
-                546,
-                916
+                296,
+                327,
+                300,
+                336
             ]
         },
         {
-            "text": "239.00",
+            "text": "2,170.00",
             "id": 17,
             "bbox": [
-                490,
-                801,
-                546,
-                822
+                712,
+                510,
+                762,
+                522
+            ]
+        },
+        {
+            "text": "10142",
+            "id": 18,
+            "bbox": [
+                654,
+                261,
+                683,
+                272
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Dress",
-                "Light",
-                "Blue",
-                "pcs",
-                "Blouse",
-                "Navy",
-                "blue",
-                "pcs"
+                "10142"
             ],
             "value_id": [
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2"
-            ],
-            "value_id": [
-                16
+                18
             ]
         },
         {
@@ -213,45 +198,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "05/07/20"
+                "03/07/2020"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "239.00"
-            ],
-            "value_id": [
-                17
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "8000000898883",
-                "8000000901576"
-            ],
-            "value_id": [
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "8:00"
-            ],
-            "value_id": [
-                2
+                5
             ]
         },
         {
@@ -259,14 +209,76 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "199.",
-                "00",
-                "239.00"
+                "2,170.00"
             ],
             "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "M41938",
+                "PF",
+                ".",
+                "VICTORINE",
+                "MNG",
+                "FUCHSIA",
+                "SMALL",
+                "LEATHER",
+                "GOODS"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9,
+                10,
                 11,
                 12,
-                13
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MALLETIERA",
+                "PARIS"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,170.00"
+            ],
+            "value_id": [
+                17
             ]
         }
     ],

@@ -1,0 +1,294 @@
+{
+    "text_boxes": [
+        {
+            "text": "JASHANMAL",
+            "id": 1,
+            "bbox": [
+                288,
+                260,
+                362,
+                276
+            ]
+        },
+        {
+            "text": "DEPARTMENT",
+            "id": 2,
+            "bbox": [
+                367,
+                260,
+                452,
+                276
+            ]
+        },
+        {
+            "text": "STORE",
+            "id": 3,
+            "bbox": [
+                457,
+                260,
+                499,
+                276
+            ]
+        },
+        {
+            "text": ",",
+            "id": 4,
+            "bbox": [
+                414,
+                276,
+                414,
+                289
+            ]
+        },
+        {
+            "text": "19/07/2020",
+            "id": 5,
+            "bbox": [
+                278,
+                377,
+                342,
+                400
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 6,
+            "bbox": [
+                514,
+                379,
+                527,
+                393
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0648\u0642\u062a",
+            "id": 7,
+            "bbox": [
+                489,
+                379,
+                510,
+                393
+            ]
+        },
+        {
+            "text": ":",
+            "id": 8,
+            "bbox": [
+                483,
+                379,
+                486,
+                393
+            ]
+        },
+        {
+            "text": "8:38:29",
+            "id": 9,
+            "bbox": [
+                435,
+                379,
+                476,
+                393
+            ]
+        },
+        {
+            "text": "545.00",
+            "id": 10,
+            "bbox": [
+                512,
+                450,
+                551,
+                467
+            ]
+        },
+        {
+            "text": "165441",
+            "id": 11,
+            "bbox": [
+                251,
+                458,
+                290,
+                476
+            ]
+        },
+        {
+            "text": "MENS",
+            "id": 12,
+            "bbox": [
+                362,
+                471,
+                396,
+                485
+            ]
+        },
+        {
+            "text": "BAGS",
+            "id": 13,
+            "bbox": [
+                401,
+                471,
+                437,
+                485
+            ]
+        },
+        {
+            "text": "BRIEFCASE",
+            "id": 14,
+            "bbox": [
+                363,
+                484,
+                433,
+                500
+            ]
+        },
+        {
+            "text": "327.00",
+            "id": 15,
+            "bbox": [
+                517,
+                582,
+                557,
+                598
+            ]
+        },
+        {
+            "text": "1",
+            "id": 16,
+            "bbox": [
+                552,
+                599,
+                555,
+                610
+            ]
+        },
+        {
+            "text": "\u0625\u0643\u0633\u0633\u0648\u0627\u0631\u0627\u062a",
+            "id": 17,
+            "bbox": [
+                361,
+                455,
+                407,
+                470
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PM",
+                "\u0627\u0644\u0648\u0642\u062a",
+                ":",
+                "8:38:29"
+            ],
+            "value_id": [
+                6,
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "165441"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "545.00"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0625\u0643\u0633\u0633\u0648\u0627\u0631\u0627\u062a"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MENS",
+                "BAGS",
+                "BRIEFCASE"
+            ],
+            "value_id": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JASHANMAL",
+                "DEPARTMENT",
+                "STORE",
+                ","
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "327.00"
+            ],
+            "value_id": [
+                15
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1298.jpg"
+    }
+}

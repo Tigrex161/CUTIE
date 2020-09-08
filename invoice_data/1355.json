@@ -1,0 +1,342 @@
+{
+    "text_boxes": [
+        {
+            "text": "Virgin",
+            "id": 1,
+            "bbox": [
+                188,
+                266,
+                333,
+                409
+            ]
+        },
+        {
+            "text": "MEGASTORE",
+            "id": 2,
+            "bbox": [
+                197,
+                391,
+                335,
+                435
+            ]
+        },
+        {
+            "text": "24/07/20",
+            "id": 3,
+            "bbox": [
+                157,
+                1140,
+                267,
+                1178
+            ]
+        },
+        {
+            "text": "10",
+            "id": 4,
+            "bbox": [
+                286,
+                1140,
+                315,
+                1178
+            ]
+        },
+        {
+            "text": ":",
+            "id": 5,
+            "bbox": [
+                319,
+                1140,
+                329,
+                1178
+            ]
+        },
+        {
+            "text": "29",
+            "id": 6,
+            "bbox": [
+                330,
+                1140,
+                355,
+                1178
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                592,
+                1074,
+                598,
+                1111
+            ]
+        },
+        {
+            "text": "229.00",
+            "id": 8,
+            "bbox": [
+                583,
+                721,
+                661,
+                754
+            ]
+        },
+        {
+            "text": "229.00",
+            "id": 9,
+            "bbox": [
+                582,
+                688,
+                660,
+                721
+            ]
+        },
+        {
+            "text": "C",
+            "id": 10,
+            "bbox": [
+                386,
+                688,
+                405,
+                721
+            ]
+        },
+        {
+            "text": "MOMAX",
+            "id": 11,
+            "bbox": [
+                271,
+                688,
+                336,
+                721
+            ]
+        },
+        {
+            "text": "UV",
+            "id": 12,
+            "bbox": [
+                356,
+                688,
+                381,
+                721
+            ]
+        },
+        {
+            "text": "-",
+            "id": 13,
+            "bbox": [
+                388,
+                688,
+                392,
+                721
+            ]
+        },
+        {
+            "text": "C",
+            "id": 14,
+            "bbox": [
+                404,
+                688,
+                408,
+                721
+            ]
+        },
+        {
+            "text": "PEN",
+            "id": 15,
+            "bbox": [
+                428,
+                688,
+                466,
+                721
+            ]
+        },
+        {
+            "text": "POR",
+            "id": 16,
+            "bbox": [
+                485,
+                688,
+                521,
+                721
+            ]
+        },
+        {
+            "text": "189422206069",
+            "id": 17,
+            "bbox": [
+                298,
+                620,
+                464,
+                656
+            ]
+        },
+        {
+            "text": ":",
+            "id": 18,
+            "bbox": [
+                288,
+                622,
+                288,
+                655
+            ]
+        },
+        {
+            "text": "\u0623\u062f\u0648\u0627\u062a",
+            "id": 19,
+            "bbox": [
+                396,
+                643,
+                451,
+                685
+            ]
+        },
+        {
+            "text": "\u062a\u0646\u0638\u064a\u0641",
+            "id": 20,
+            "bbox": [
+                331,
+                646,
+                385,
+                688
+            ]
+        },
+        {
+            "text": "\u0643\u0645\u0628\u064a\u0648\u062a",
+            "id": 21,
+            "bbox": [
+                259,
+                649,
+                321,
+                691
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10",
+                ":",
+                "29"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "189422206069"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "229.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ":",
+                "\u0623\u062f\u0648\u0627\u062a",
+                "\u062a\u0646\u0638\u064a\u0641",
+                "\u0643\u0645\u0628\u064a\u0648\u062a"
+            ],
+            "value_id": [
+                18,
+                19,
+                20,
+                21
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "C",
+                "MOMAX",
+                "UV",
+                "-",
+                "C",
+                "PEN",
+                "POR"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Virgin",
+                "MEGASTORE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "229.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1355.jpg"
+    }
+}

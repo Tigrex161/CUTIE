@@ -1,0 +1,264 @@
+{
+    "text_boxes": [
+        {
+            "text": "DOLCE",
+            "id": 1,
+            "bbox": [
+                235,
+                217,
+                351,
+                255
+            ]
+        },
+        {
+            "text": "&",
+            "id": 2,
+            "bbox": [
+                358,
+                220,
+                371,
+                255
+            ]
+        },
+        {
+            "text": "GABBANA",
+            "id": 3,
+            "bbox": [
+                378,
+                220,
+                564,
+                259
+            ]
+        },
+        {
+            "text": "2019",
+            "id": 4,
+            "bbox": [
+                562,
+                312,
+                584,
+                328
+            ]
+        },
+        {
+            "text": "20",
+            "id": 5,
+            "bbox": [
+                601,
+                313,
+                613,
+                328
+            ]
+        },
+        {
+            "text": "21",
+            "id": 6,
+            "bbox": [
+                620,
+                313,
+                631,
+                328
+            ]
+        },
+        {
+            "text": "20",
+            "id": 7,
+            "bbox": [
+                634,
+                314,
+                644,
+                329
+            ]
+        },
+        {
+            "text": "19:45",
+            "id": 8,
+            "bbox": [
+                654,
+                314,
+                688,
+                330
+            ]
+        },
+        {
+            "text": "3,600.00",
+            "id": 9,
+            "bbox": [
+                619,
+                621,
+                669,
+                636
+            ]
+        },
+        {
+            "text": "\u0648",
+            "id": 10,
+            "bbox": [
+                661,
+                535,
+                673,
+                547
+            ]
+        },
+        {
+            "text": "\u0627\u0648\u0646\u0627",
+            "id": 11,
+            "bbox": [
+                637,
+                535,
+                651,
+                547
+            ]
+        },
+        {
+            "text": "\u0631\u0632\u0642",
+            "id": 12,
+            "bbox": [
+                623,
+                535,
+                632,
+                547
+            ]
+        },
+        {
+            "text": "\u0627\u0648\u0628\u0627\u0645\u0627",
+            "id": 13,
+            "bbox": [
+                370,
+                509,
+                509,
+                528
+            ]
+        },
+        {
+            "text": ".0094a4341412",
+            "id": 14,
+            "bbox": [
+                130,
+                504,
+                471,
+                527
+            ]
+        },
+        {
+            "text": "F6IiYTHBTIHALM0E",
+            "id": 15,
+            "bbox": [
+                230,
+                506,
+                360,
+                525
+            ]
+        },
+        {
+            "text": "\u0634\u0627\u0646",
+            "id": 16,
+            "bbox": [
+                520,
+                511,
+                536,
+                527
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:45"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2019",
+                "20",
+                "21",
+                "20"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0648",
+                "\u0627\u0648\u0646\u0627",
+                "\u0631\u0632\u0642"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0634\u0627\u0646"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0648\u0628\u0627\u0645\u0627",
+                ".0094a4341412",
+                "F6IiYTHBTIHALM0E"
+            ],
+            "value_id": [
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DOLCE",
+                "&",
+                "GABBANA"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,600.00"
+            ],
+            "value_id": [
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1211.jpg"
+    }
+}

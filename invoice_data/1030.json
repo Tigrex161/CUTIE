@@ -1,146 +1,56 @@
 {
     "text_boxes": [
         {
-            "text": "KID'S",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                387,
-                354,
-                462,
-                376
+                368,
+                132,
+                543,
+                199
             ]
         },
         {
-            "text": "pizzle",
+            "text": "1.460.00",
             "id": 2,
             "bbox": [
-                386,
-                373,
-                463,
-                393
+                693,
+                589,
+                730,
+                601
             ]
         },
         {
-            "text": "06:25:38PM",
+            "text": "1.380.95",
             "id": 3,
             "bbox": [
-                621,
-                463,
-                680,
-                475
+                718,
+                524,
+                754,
+                536
             ]
         },
         {
-            "text": "273.00",
+            "text": "S0OVKA",
             "id": 4,
             "bbox": [
-                644,
-                549,
-                677,
-                557
-            ]
-        },
-        {
-            "text": "SHORT",
-            "id": 5,
-            "bbox": [
-                255,
-                538,
-                294,
-                548
-            ]
-        },
-        {
-            "text": "SLEEVE",
-            "id": 6,
-            "bbox": [
-                298,
-                539,
-                341,
-                551
-            ]
-        },
-        {
-            "text": "T",
-            "id": 7,
-            "bbox": [
-                346,
-                542,
-                351,
-                550
-            ]
-        },
-        {
-            "text": "SHIRT",
-            "id": 8,
-            "bbox": [
-                355,
-                542,
-                388,
-                552
-            ]
-        },
-        {
-            "text": "Alviero",
-            "id": 9,
-            "bbox": [
-                255,
-                549,
-                289,
-                563
-            ]
-        },
-        {
-            "text": "Martini",
-            "id": 10,
-            "bbox": [
-                293,
-                553,
-                326,
-                563
-            ]
-        },
-        {
-            "text": "KPO087903",
-            "id": 11,
-            "bbox": [
-                168,
-                532,
-                233,
-                546
-            ]
-        },
-        {
-            "text": "273",
-            "id": 12,
-            "bbox": [
-                656,
-                825,
-                675,
-                835
+                81,
+                522,
+                143,
+                535
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SHORT",
-                "SLEEVE",
-                "T",
-                "SHIRT",
-                "Alviero",
-                "Martini"
+                "1.460.00"
             ],
             "value_id": [
-                5,
-                6,
-                7,
-                8,
-                9,
-                10
+                2
             ]
         },
         {
@@ -148,23 +58,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "KID'S",
-                "pizzle"
+                "DIOR"
             ],
             "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "273"
-            ],
-            "value_id": [
-                12
+                1
             ]
         },
         {
@@ -172,21 +69,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "KPO087903"
+                "S0OVKA"
             ],
             "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "06:25:38PM"
-            ],
-            "value_id": [
-                3
+                4
             ]
         },
         {
@@ -194,10 +80,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "273.00"
+                "1.380.95"
             ],
             "value_id": [
-                4
+                3
             ]
         }
     ],

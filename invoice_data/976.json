@@ -1,199 +1,136 @@
 {
     "text_boxes": [
         {
-            "text": "L'OCCITANE",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                302,
-                105,
-                448,
-                142
+                245,
+                259,
+                485,
+                311
             ]
         },
         {
-            "text": "IN",
+            "text": "JOAILLERIE",
             "id": 2,
             "bbox": [
-                326,
-                130,
-                352,
-                142
+                298,
+                317,
+                433,
+                352
             ]
         },
         {
-            "text": "PRIVENCE",
+            "text": "6",
             "id": 3,
             "bbox": [
-                352,
-                132,
-                419,
-                150
+                388,
+                372,
+                410,
+                388
             ]
         },
         {
-            "text": "21-Jul-2020",
+            "text": "1",
             "id": 4,
             "bbox": [
-                312,
-                312,
-                375,
-                323
+                419,
+                372,
+                423,
+                387
             ]
         },
         {
-            "text": "16:18",
+            "text": "2050",
             "id": 5,
             "bbox": [
-                384,
-                313,
-                410,
-                323
+                438,
+                368,
+                468,
+                386
             ]
         },
         {
-            "text": "139.00",
+            "text": "11:58",
             "id": 6,
             "bbox": [
-                466,
-                726,
-                500,
-                736
+                477,
+                366,
+                511,
+                384
             ]
         },
         {
-            "text": "139.00",
+            "text": "WATCHES",
             "id": 7,
             "bbox": [
-                493,
-                586,
-                528,
-                597
+                52,
+                567,
+                120,
+                582
             ]
         },
         {
-            "text": "18PC050TL18ET:TOL",
+            "text": "REPAIRS",
             "id": 8,
             "bbox": [
-                194,
-                545,
-                292,
-                556
+                126,
+                566,
+                187,
+                581
             ]
         },
         {
-            "text": "LEAU",
+            "text": "\u062d\u0645\u0644\u0627\u062d",
             "id": 9,
             "bbox": [
-                300,
-                546,
-                322,
-                556
+                92,
+                585,
+                119,
+                601
             ]
         },
         {
-            "text": "PERFUMED",
+            "text": "\u0627\u0644\u062d\u062f",
             "id": 10,
             "bbox": [
-                330,
-                546,
-                376,
-                556
+                52,
+                585,
+                88,
+                601
             ]
         },
         {
-            "text": "HAIR",
+            "text": "5000",
             "id": 11,
             "bbox": [
-                383,
-                546,
-                406,
-                556
+                630,
+                551,
+                673,
+                566
             ]
         },
         {
-            "text": "MIST",
+            "text": "450.00",
             "id": 12,
             "bbox": [
-                413,
-                546,
-                436,
-                556
-            ]
-        },
-        {
-            "text": "50ML",
-            "id": 13,
-            "bbox": [
-                444,
-                545,
-                466,
-                556
-            ]
-        },
-        {
-            "text": "020414282359",
-            "id": 14,
-            "bbox": [
-                194,
-                525,
-                263,
-                536
-            ]
-        },
-        {
-            "text": "\u0633\u0627\u0626\u0644",
-            "id": 15,
-            "bbox": [
-                251,
-                565,
-                269,
-                575
-            ]
-        },
-        {
-            "text": "\u0645\u0646\u0639\u0645",
-            "id": 16,
-            "bbox": [
-                227,
-                566,
-                245,
-                576
+                548,
+                635,
+                595,
+                650
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18PC050TL18ET:TOL",
-                "LEAU",
-                "PERFUMED",
-                "HAIR",
-                "MIST",
-                "50ML"
+                "11:58"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0633\u0627\u0626\u0644",
-                "\u0645\u0646\u0639\u0645"
-            ],
-            "value_id": [
-                15,
-                16
+                6
             ]
         },
         {
@@ -201,57 +138,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21-Jul-2020"
+                "6",
+                "1",
+                "2050"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "L'OCCITANE",
-                "IN",
-                "PRIVENCE"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "139.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "020414282359"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:18"
-            ],
-            "value_id": [
+                3,
+                4,
                 5
             ]
         },
@@ -260,10 +153,60 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "139.00"
+                "5000"
             ],
             "value_id": [
-                7
+                11
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062d\u0645\u0644\u0627\u062d",
+                "\u0627\u0644\u062d\u062f"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WATCHES",
+                "REPAIRS"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL",
+                "JOAILLERIE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "450.00"
+            ],
+            "value_id": [
+                12
             ]
         }
     ],

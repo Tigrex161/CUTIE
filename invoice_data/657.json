@@ -1,186 +1,216 @@
 {
     "text_boxes": [
         {
-            "text": "July,",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                548,
-                297,
-                580,
-                309
+                317,
+                62,
+                355,
+                80
             ]
         },
         {
-            "text": "15",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                593,
-                298,
-                605,
-                307
+                361,
+                61,
+                422,
+                79
             ]
         },
         {
-            "text": "2020",
+            "text": "MALTA",
             "id": 3,
             "bbox": [
-                614,
-                299,
-                641,
-                309
+                342,
+                78,
+                382,
+                88
             ]
         },
         {
-            "text": "17:10",
+            "text": "NABON",
             "id": 4,
             "bbox": [
-                651,
-                301,
-                684,
-                311
+                332,
+                110,
+                354,
+                119
             ]
         },
         {
-            "text": "1.",
+            "text": "TONEE",
             "id": 5,
             "bbox": [
-                441,
-                602,
-                445,
-                610
+                357,
+                110,
+                381,
+                119
             ]
         },
         {
-            "text": "312.00",
+            "text": "DECIS",
             "id": 6,
             "bbox": [
-                632,
-                558,
-                673,
-                567
+                383,
+                110,
+                407,
+                119
             ]
         },
         {
-            "text": "378.00",
+            "text": "09/07/2020",
             "id": 7,
             "bbox": [
-                633,
-                605,
-                675,
-                614
+                516,
+                288,
+                576,
+                299
             ]
         },
         {
-            "text": "SLEEVES",
+            "text": "15:44",
             "id": 8,
             "bbox": [
-                409,
-                529,
-                460,
-                539
+                599,
+                288,
+                627,
+                299
             ]
         },
         {
-            "text": "SWIM",
+            "text": "140.00",
             "id": 9,
             "bbox": [
-                366,
-                575,
-                394,
-                587
+                650,
+                508,
+                684,
+                517
             ]
         },
         {
-            "text": "SHORTS",
+            "text": "840.00",
             "id": 10,
             "bbox": [
-                402,
-                578,
-                445,
-                586
+                655,
+                345,
+                687,
+                356
             ]
         },
         {
-            "text": "UL",
+            "text": "7",
             "id": 11,
             "bbox": [
-                599,
-                531,
-                620,
-                543
+                277,
+                349,
+                279,
+                357
             ]
         },
         {
-            "text": "S",
+            "text": "M61733",
             "id": 12,
             "bbox": [
-                623,
-                535,
-                640,
-                543
+                31,
+                346,
+                69,
+                357
             ]
         },
         {
-            "text": "LL",
+            "text": "PTE",
             "id": 13,
             "bbox": [
-                456,
-                580,
-                490,
-                588
+                85,
+                346,
+                101,
+                357
             ]
         },
         {
-            "text": "690.00",
+            "text": "CAR",
             "id": 14,
             "bbox": [
-                636,
-                700,
-                678,
-                709
+                108,
+                346,
+                125,
+                357
+            ]
+        },
+        {
+            "text": "SIMP",
+            "id": 15,
+            "bbox": [
+                133,
+                346,
+                155,
+                357
+            ]
+        },
+        {
+            "text": ".",
+            "id": 16,
+            "bbox": [
+                159,
+                346,
+                159,
+                357
+            ]
+        },
+        {
+            "text": "MNG",
+            "id": 17,
+            "bbox": [
+                163,
+                346,
+                179,
+                357
+            ]
+        },
+        {
+            "text": "SMALL",
+            "id": 18,
+            "bbox": [
+                34,
+                358,
+                65,
+                367
+            ]
+        },
+        {
+            "text": "LENTHER",
+            "id": 19,
+            "bbox": [
+                72,
+                358,
+                113,
+                367
+            ]
+        },
+        {
+            "text": "GOODS",
+            "id": 20,
+            "bbox": [
+                120,
+                358,
+                149,
+                367
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SLEEVES",
-                "SWIM",
-                "SHORTS"
+                "15:44"
             ],
             "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "UL",
-                "S",
-                "LL"
-            ],
-            "value_id": [
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                5
+                8
             ]
         },
         {
@@ -188,36 +218,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July,",
-                "15",
-                "2020"
+                "09/07/2020"
             ],
             "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "690.00"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:10"
-            ],
-            "value_id": [
-                4
+                7
             ]
         },
         {
@@ -225,12 +229,80 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "312.00",
-                "378.00"
+                "840.00"
             ],
             "value_id": [
-                6,
-                7
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "M61733",
+                "PTE",
+                "CAR",
+                "SIMP",
+                ".",
+                "MNG",
+                "SMALL",
+                "LENTHER",
+                "GOODS"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MALTA",
+                "NABON",
+                "TONEE",
+                "DECIS"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "140.00"
+            ],
+            "value_id": [
+                9
             ]
         }
     ],

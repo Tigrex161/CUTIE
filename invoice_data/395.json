@@ -1,88 +1,188 @@
 {
     "text_boxes": [
         {
-            "text": "135.00",
+            "text": "Off",
             "id": 1,
             "bbox": [
-                629,
-                916,
-                675,
-                932
+                342,
+                295,
+                379,
+                328
             ]
         },
         {
-            "text": "135.00",
+            "text": "-",
             "id": 2,
             "bbox": [
-                628,
-                806,
-                674,
-                821
+                382,
+                295,
+                391,
+                327
             ]
         },
         {
-            "text": "50",
+            "text": "White",
             "id": 3,
             "bbox": [
-                492,
-                806,
-                505,
-                820
+                395,
+                291,
+                465,
+                326
             ]
         },
         {
-            "text": "6754530",
+            "text": "7/16/2020",
             "id": 4,
             "bbox": [
-                241,
-                812,
-                296,
-                830
+                333,
+                465,
+                411,
+                487
             ]
         },
         {
-            "text": "50",
+            "text": "2:53:44",
             "id": 5,
             "bbox": [
-                661,
-                865,
-                675,
-                879
+                429,
+                462,
+                492,
+                484
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 6,
+            "bbox": [
+                502,
+                462,
+                519,
+                482
+            ]
+        },
+        {
+            "text": "1,176.00",
+            "id": 7,
+            "bbox": [
+                449,
+                821,
+                563,
+                849
+            ]
+        },
+        {
+            "text": ":",
+            "id": 8,
+            "bbox": [
+                553,
+                620,
+                555,
+                638
+            ]
+        },
+        {
+            "text": ".",
+            "id": 9,
+            "bbox": [
+                563,
+                620,
+                565,
+                638
+            ]
+        },
+        {
+            "text": "176",
+            "id": 10,
+            "bbox": [
+                573,
+                617,
+                600,
+                637
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                378,
+                633,
+                379,
+                646
+            ]
+        },
+        {
+            "text": "FLAMEL",
+            "id": 12,
+            "bbox": [
+                432,
+                557,
+                486,
+                574
+            ]
+        },
+        {
+            "text": "BART",
+            "id": 13,
+            "bbox": [
+                499,
+                557,
+                535,
+                573
+            ]
+        },
+        {
+            "text": "SLEEVE",
+            "id": 14,
+            "bbox": [
+                461,
+                577,
+                516,
+                596
+            ]
+        },
+        {
+            "text": "HOODIE",
+            "id": 15,
+            "bbox": [
+                432,
+                599,
+                486,
+                617
+            ]
+        },
+        {
+            "text": "GMBR\u00d84851902503501",
+            "id": 16,
+            "bbox": [
+                221,
+                579,
+                391,
+                599
+            ]
+        },
+        {
+            "text": "SOLDB",
+            "id": 17,
+            "bbox": [
+                391,
+                578,
+                449,
+                597
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "50"
+                "2:53:44",
+                "PM"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "50"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "135.00"
-            ],
-            "value_id": [
-                1
+                5,
+                6
             ]
         },
         {
@@ -90,7 +190,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6754530"
+                "GMBR\u00d84851902503501",
+                "SOLDB"
+            ],
+            "value_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7/16/2020"
             ],
             "value_id": [
                 4
@@ -101,10 +214,68 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "135.00"
+                ":",
+                ".",
+                "176"
             ],
             "value_id": [
-                2
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FLAMEL",
+                "BART",
+                "SLEEVE",
+                "HOODIE"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Off",
+                "-",
+                "White"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,176.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

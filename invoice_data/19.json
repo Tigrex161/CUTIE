@@ -1,269 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "Boots",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                392,
-                139,
-                428,
-                155
+                318,
+                232,
+                466,
+                282
             ]
         },
         {
-            "text": "Dubai",
+            "text": "07/07/2020",
             "id": 2,
             "bbox": [
-                432,
-                143,
-                468,
-                159
+                102,
+                495,
+                144,
+                505
             ]
         },
         {
-            "text": "Mall",
+            "text": "13:54",
             "id": 3,
             "bbox": [
-                473,
-                149,
-                498,
-                161
+                154,
+                495,
+                172,
+                505
             ]
         },
         {
-            "text": "10/07/2020",
+            "text": "16,300.00",
             "id": 4,
             "bbox": [
-                488,
-                450,
-                545,
-                466
+                587,
+                623,
+                623,
+                634
             ]
         },
         {
-            "text": "119.00",
+            "text": "15.300,00",
             "id": 5,
             "bbox": [
-                540,
-                675,
-                570,
-                687
+                609,
+                569,
+                646,
+                580
             ]
         },
         {
-            "text": "119",
+            "text": "1",
             "id": 6,
             "bbox": [
-                540,
-                602,
-                555,
-                612
+                381,
+                573,
+                381,
+                580
             ]
         },
         {
-            "text": "00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                560,
-                601,
-                572,
-                611
+                380,
+                600,
+                381,
+                607
             ]
         },
         {
-            "text": "10",
+            "text": "Deposit",
             "id": 8,
             "bbox": [
-                475,
-                605,
-                488,
-                614
+                239,
+                573,
+                267,
+                585
             ]
         },
         {
-            "text": "1.0",
+            "text": "AED",
             "id": 9,
             "bbox": [
-                474,
-                678,
-                487,
-                687
+                270,
+                573,
+                287,
+                584
             ]
         },
         {
-            "text": "...",
+            "text": "BO9",
             "id": 10,
             "bbox": [
-                341,
-                534,
-                366,
-                544
-            ]
-        },
-        {
-            "text": "R",
-            "id": 11,
-            "bbox": [
-                398,
-                539,
-                410,
-                547
-            ]
-        },
-        {
-            "text": "IFESCAN",
-            "id": 12,
-            "bbox": [
-                298,
-                539,
-                351,
-                556
-            ]
-        },
-        {
-            "text": "ONE",
-            "id": 13,
-            "bbox": [
-                349,
-                546,
-                374,
-                558
-            ]
-        },
-        {
-            "text": "TOUCH",
-            "id": 14,
-            "bbox": [
-                377,
-                548,
-                418,
-                561
-            ]
-        },
-        {
-            "text": "SELECT",
-            "id": 15,
-            "bbox": [
-                421,
-                550,
-                464,
-                564
-            ]
-        },
-        {
-            "text": "50",
-            "id": 16,
-            "bbox": [
-                468,
-                554,
-                480,
-                565
-            ]
-        },
-        {
-            "text": "STRIP",
-            "id": 17,
-            "bbox": [
-                484,
-                554,
-                512,
-                566
-            ]
-        },
-        {
-            "text": "NPBOWPSELECT498",
-            "id": 18,
-            "bbox": [
-                291,
-                589,
-                406,
-                613
+                103,
+                573,
+                117,
+                581
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.0"
+                "13:54"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "...",
-                "R",
-                "IFESCAN",
-                "ONE",
-                "TOUCH",
-                "SELECT",
-                "50",
-                "STRIP"
-            ],
-            "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10/07/2020"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Boots",
-                "Dubai",
-                "Mall"
-            ],
-            "value_id": [
-                1,
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "119.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -271,10 +118,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NPBOWPSELECT498"
+                "BO9"
             ],
             "value_id": [
-                18
+                10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/07/2020"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -282,12 +140,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "119",
-                "00"
+                "15.300,00"
             ],
             "value_id": [
-                6,
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Deposit",
+                "AED"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16,300.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

@@ -1,154 +1,163 @@
 {
     "text_boxes": [
         {
-            "text": "damas",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                293,
-                40,
-                380,
-                66
+                297,
+                144,
+                357,
+                166
             ]
         },
         {
-            "text": "wy",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                124,
-                175,
+                364,
                 138,
-                182
+                433,
+                162
             ]
         },
         {
-            "text": "14.",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                141,
-                174,
-                153,
-                184
+                388,
+                158,
+                417,
+                175
             ]
         },
         {
-            "text": "2020",
+            "text": "16/07/20",
             "id": 4,
             "bbox": [
-                153,
-                175,
-                169,
-                182
+                260,
+                329,
+                321,
+                348
             ]
         },
         {
-            "text": "25,480.00",
+            "text": "21:10",
             "id": 5,
             "bbox": [
-                642,
-                660,
-                685,
-                672
+                329,
+                328,
+                368,
+                346
             ]
         },
         {
-            "text": "25,480.00",
+            "text": "410.00",
             "id": 6,
             "bbox": [
-                652,
-                350,
-                690,
-                360
+                492,
+                541,
+                539,
+                558
             ]
         },
         {
-            "text": "WATCH-02300187706-ARNOLD",
+            "text": "410.00",
             "id": 7,
             "bbox": [
-                194,
-                345,
-                308,
-                357
+                490,
+                461,
+                536,
+                477
             ]
         },
         {
-            "text": "SON",
+            "text": "1",
             "id": 8,
             "bbox": [
-                311,
-                350,
-                326,
-                358
+                215,
+                490,
+                217,
+                505
             ]
         },
         {
-            "text": "Watch",
+            "text": "Women's",
             "id": 9,
             "bbox": [
-                194,
-                358,
-                215,
-                366
+                206,
+                448,
+                260,
+                469
             ]
         },
         {
-            "text": "of",
+            "text": "Underwear",
             "id": 10,
             "bbox": [
-                80,
-                341,
-                83,
-                346
+                268,
+                446,
+                338,
+                467
+            ]
+        },
+        {
+            "text": "UNDERWEAR",
+            "id": 11,
+            "bbox": [
+                206,
+                467,
+                276,
+                488
+            ]
+        },
+        {
+            "text": "EMPORIO",
+            "id": 12,
+            "bbox": [
+                284,
+                465,
+                339,
+                485
+            ]
+        },
+        {
+            "text": "AR",
+            "id": 13,
+            "bbox": [
+                347,
+                464,
+                363,
+                482
+            ]
+        },
+        {
+            "text": "1",
+            "id": 14,
+            "bbox": [
+                533,
+                501,
+                537,
+                515
+            ]
+        },
+        {
+            "text": "900977358",
+            "id": 15,
+            "bbox": [
+                246,
+                487,
+                314,
+                505
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WATCH-02300187706-ARNOLD",
-                "SON",
-                "Watch"
-            ],
-            "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "wy",
-                "14.",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "damas"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "25,480.00"
+                "21:10"
             ],
             "value_id": [
                 5
@@ -159,10 +168,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "of"
+                "900977358"
             ],
             "value_id": [
-                10
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16/07/20"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -170,7 +190,74 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "25,480.00"
+                "410.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Women's",
+                "Underwear",
+                "UNDERWEAR",
+                "EMPORIO",
+                "AR"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE",
+                "MALL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "410.00"
             ],
             "value_id": [
                 6

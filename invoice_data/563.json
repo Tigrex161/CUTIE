@@ -1,161 +1,147 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "11",
             "id": 1,
             "bbox": [
-                434,
-                417,
-                456,
-                427
+                453,
+                310,
+                463,
+                323
+            ]
+        },
+        {
+            "text": "Jul",
+            "id": 2,
+            "bbox": [
+                476,
+                310,
+                492,
+                323
             ]
         },
         {
             "text": "2020",
-            "id": 2,
-            "bbox": [
-                466,
-                417,
-                489,
-                426
-            ]
-        },
-        {
-            "text": "14:00",
             "id": 3,
             "bbox": [
-                498,
-                416,
-                527,
-                425
+                507,
+                310,
+                533,
+                323
             ]
         },
         {
-            "text": "1,",
+            "text": "16:56",
             "id": 4,
             "bbox": [
-                541,
-                640,
-                549,
-                648
+                542,
+                310,
+                574,
+                323
             ]
         },
         {
-            "text": "230.",
+            "text": "2,200,00",
             "id": 5,
             "bbox": [
-                553,
-                638,
-                575,
-                648
+                587,
+                549,
+                642,
+                560
             ]
         },
         {
-            "text": "00",
+            "text": "2",
             "id": 6,
             "bbox": [
-                578,
-                638,
-                590,
-                646
+                593,
+                460,
+                595,
+                472
             ]
         },
         {
-            "text": "1,",
+            "text": "200,00",
             "id": 7,
             "bbox": [
-                543,
-                556,
-                561,
-                568
+                606,
+                460,
+                646,
+                472
             ]
         },
         {
-            "text": "230.",
+            "text": "1",
             "id": 8,
             "bbox": [
-                558,
-                556,
-                581,
-                566
+                428,
+                463,
+                431,
+                472
             ]
         },
         {
-            "text": "00",
+            "text": "GVENCH",
             "id": 9,
             "bbox": [
-                583,
-                554,
-                595,
-                565
+                106,
+                437,
+                146,
+                452
             ]
         },
         {
-            "text": "JINNY",
+            "text": "WN_SHOE",
             "id": 10,
             "bbox": [
-                94,
-                545,
-                126,
-                555
+                157,
+                437,
+                203,
+                452
             ]
         },
         {
-            "text": "CHOO",
+            "text": "WOMENS",
             "id": 11,
             "bbox": [
-                134,
-                546,
-                160,
-                553
+                274,
+                438,
+                316,
+                453
             ]
         },
         {
-            "text": "WONENS",
+            "text": "013113151616",
             "id": 12,
             "bbox": [
-                167,
-                544,
-                206,
-                553
-            ]
-        },
-        {
-            "text": "yal",
-            "id": 13,
-            "bbox": [
-                299,
-                541,
-                327,
-                552
+                107,
+                457,
+                190,
+                473
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "JINNY",
-                "CHOO",
-                "WONENS"
+                "16:56"
             ],
             "value_id": [
-                10,
-                11,
-                12
+                4
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "yal"
+                "013113151616"
             ],
             "value_id": [
-                13
+                12
             ]
         },
         {
@@ -163,37 +149,13 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
+                "11",
+                "Jul",
                 "2020"
             ],
             "value_id": [
                 1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,",
-                "230.",
-                "00"
-            ],
-            "value_id": [
-                4,
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:00"
-            ],
-            "value_id": [
+                2,
                 3
             ]
         },
@@ -202,14 +164,49 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "230.",
-                "00"
+                "2",
+                "200,00"
             ],
             "value_id": [
-                7,
-                8,
-                9
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GVENCH",
+                "WN_SHOE",
+                "WOMENS"
+            ],
+            "value_id": [
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,200,00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

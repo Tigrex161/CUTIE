@@ -1,76 +1,127 @@
 {
     "text_boxes": [
         {
-            "text": "Emax",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                540,
-                186,
-                735,
-                243
+                371,
+                302,
+                543,
+                360
             ]
         },
         {
-            "text": "15-Jul-2020",
+            "text": "11/07/2020",
             "id": 2,
             "bbox": [
-                256,
-                379,
-                302,
-                389
+                123,
+                599,
+                169,
+                611
             ]
         },
         {
-            "text": "5320PM",
+            "text": "2001",
             "id": 3,
             "bbox": [
-                319,
-                383,
-                359,
-                394
+                177,
+                601,
+                201,
+                611
             ]
         },
         {
-            "text": "T4133",
+            "text": "1.450.00",
             "id": 4,
             "bbox": [
-                684,
-                607,
-                714,
-                617
+                662,
+                745,
+                696,
+                754
             ]
         },
         {
-            "text": "KORD",
+            "text": "1.580.95",
             "id": 5,
             "bbox": [
-                688,
-                509,
-                712,
-                518
+                691,
+                689,
+                725,
+                700
             ]
         },
         {
-            "text": "WITHUSPORTS",
+            "text": "1",
             "id": 6,
             "bbox": [
-                216,
-                528,
-                281,
-                538
+                434,
+                688,
+                435,
+                696
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                433,
+                719,
+                433,
+                727
+            ]
+        },
+        {
+            "text": "Women",
+            "id": 8,
+            "bbox": [
+                275,
+                688,
+                307,
+                699
+            ]
+        },
+        {
+            "text": "SLG",
+            "id": 9,
+            "bbox": [
+                312,
+                688,
+                328,
+                699
+            ]
+        },
+        {
+            "text": "S0074OVRU",
+            "id": 10,
+            "bbox": [
+                121,
+                687,
+                175,
+                697
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WITHUSPORTS"
+                "2001"
             ],
             "value_id": [
-                6
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "S0074OVRU"
+            ],
+            "value_id": [
+                10
             ]
         },
         {
@@ -78,43 +129,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15-Jul-2020"
+                "11/07/2020"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Emax"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "T4133"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "5320PM"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -122,10 +140,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "KORD"
+                "1.580.95"
             ],
             "value_id": [
                 5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Women",
+                "SLG"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.450.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

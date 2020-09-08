@@ -1,100 +1,76 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdoles",
+            "text": "level",
             "id": 1,
             "bbox": [
-                217,
-                177,
-                423,
-                213
+                372,
+                17,
+                460,
+                85
             ]
         },
         {
-            "text": "24-Jul-2020",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                191,
-                312,
-                255,
-                321
+                388,
+                92,
+                441,
+                105
             ]
         },
         {
-            "text": "515.00",
+            "text": "2020-07-18",
             "id": 3,
             "bbox": [
-                397,
-                528,
-                432,
-                541
+                161,
+                212,
+                222,
+                226
             ]
         },
         {
-            "text": "515.00",
+            "text": "18:04:08",
             "id": 4,
             "bbox": [
-                396,
-                437,
-                431,
-                448
+                228,
+                212,
+                274,
+                226
             ]
         },
         {
-            "text": "BASIC",
+            "text": "650,00",
             "id": 5,
             "bbox": [
-                192,
-                440,
-                220,
-                449
+                711,
+                589,
+                743,
+                599
             ]
         },
         {
-            "text": "STUSSY",
+            "text": "ICON",
             "id": 6,
             "bbox": [
-                228,
-                440,
-                262,
-                448
-            ]
-        },
-        {
-            "text": "HDOD",
-            "id": 7,
-            "bbox": [
-                270,
-                440,
-                292,
-                448
-            ]
-        },
-        {
-            "text": "213906262",
-            "id": 8,
-            "bbox": [
-                203,
-                449,
-                257,
-                461
+                123,
+                457,
+                144,
+                466
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BASIC",
-                "STUSSY",
-                "HDOD"
+                "18:04:08"
             ],
             "value_id": [
-                5,
-                6,
-                7
+                4
             ]
         },
         {
@@ -102,10 +78,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "24-Jul-2020"
+                "2020-07-18"
             ],
             "value_id": [
-                2
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ICON"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -113,10 +100,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "bloomingdoles"
+                "level",
+                "SHOES"
             ],
             "value_id": [
-                1
+                1,
+                2
             ]
         },
         {
@@ -124,32 +113,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "515.00"
+                "650,00"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "213906262"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "515.00"
-            ],
-            "value_id": [
-                4
+                5
             ]
         }
     ],

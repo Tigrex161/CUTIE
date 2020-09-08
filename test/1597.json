@@ -1,0 +1,195 @@
+{
+    "text_boxes": [
+        {
+            "text": "obago",
+            "id": 1,
+            "bbox": [
+                244,
+                173,
+                560,
+                267
+            ]
+        },
+        {
+            "text": "29/07/2020",
+            "id": 2,
+            "bbox": [
+                282,
+                465,
+                386,
+                491
+            ]
+        },
+        {
+            "text": "4:08",
+            "id": 3,
+            "bbox": [
+                452,
+                457,
+                491,
+                480
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 4,
+            "bbox": [
+                494,
+                455,
+                522,
+                477
+            ]
+        },
+        {
+            "text": "315.00",
+            "id": 5,
+            "bbox": [
+                571,
+                879,
+                627,
+                897
+            ]
+        },
+        {
+            "text": "315.00",
+            "id": 6,
+            "bbox": [
+                566,
+                702,
+                619,
+                721
+            ]
+        },
+        {
+            "text": "LHR",
+            "id": 7,
+            "bbox": [
+                227,
+                743,
+                259,
+                762
+            ]
+        },
+        {
+            "text": "Full",
+            "id": 8,
+            "bbox": [
+                266,
+                742,
+                290,
+                761
+            ]
+        },
+        {
+            "text": "Bikini",
+            "id": 9,
+            "bbox": [
+                296,
+                739,
+                336,
+                759
+            ]
+        },
+        {
+            "text": "-",
+            "id": 10,
+            "bbox": [
+                337,
+                740,
+                342,
+                757
+            ]
+        },
+        {
+            "text": "Female",
+            "id": 11,
+            "bbox": [
+                348,
+                736,
+                400,
+                757
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4:08",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "29/07/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "315.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LHR",
+                "Full",
+                "Bikini",
+                "-",
+                "Female"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "obago"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "315.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1597.jpg"
+    }
+}

@@ -1,214 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "JUMBO",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                308,
-                118,
-                414,
-                148
+                309,
+                280,
+                445,
+                311
             ]
         },
         {
-            "text": "360.05",
+            "text": "05/07/2020",
             "id": 2,
             "bbox": [
-                651,
-                712,
-                685,
-                722
+                88,
+                498,
+                131,
+                509
             ]
         },
         {
-            "text": "Y6",
+            "text": "1458",
             "id": 3,
             "bbox": [
-                185,
-                579,
-                197,
-                590
+                141,
+                498,
+                161,
+                509
             ]
         },
         {
-            "text": "Prime",
+            "text": "121",
             "id": 4,
             "bbox": [
-                201,
-                580,
-                228,
-                589
+                581,
+                639,
+                593,
+                649
             ]
         },
         {
-            "text": "2019",
+            "text": "000",
             "id": 5,
             "bbox": [
-                145,
-                592,
-                169,
-                601
+                598,
+                639,
+                611,
+                649
             ]
         },
         {
-            "text": "Smartphone",
+            "text": "00",
             "id": 6,
             "bbox": [
-                173,
-                591,
-                232,
-                603
+                614,
+                639,
+                623,
+                649
             ]
         },
         {
-            "text": "LTE",
+            "text": "115.238",
             "id": 7,
             "bbox": [
-                146,
-                605,
-                163,
-                613
+                606,
+                570,
+                635,
+                582
             ]
         },
         {
-            "text": "Amber",
+            "text": "10",
             "id": 8,
             "bbox": [
-                167,
-                604,
-                198,
-                612
+                641,
+                571,
+                647,
+                581
             ]
         },
         {
-            "text": "Brown",
+            "text": "1",
             "id": 9,
             "bbox": [
-                202,
-                604,
-                232,
-                612
+                376,
+                575,
+                378,
+                586
             ]
         },
         {
-            "text": "Serial",
+            "text": "1",
             "id": 10,
             "bbox": [
-                146,
-                617,
-                170,
-                625
-            ]
-        },
-        {
-            "text": "Number.",
-            "id": 11,
-            "bbox": [
-                175,
-                616,
-                214,
-                625
-            ]
-        },
-        {
-            "text": "PRIME-",
-            "id": 12,
-            "bbox": [
-                103,
-                605,
-                135,
-                613
-            ]
-        },
-        {
-            "text": "HUA-",
-            "id": 13,
-            "bbox": [
-                102,
-                581,
-                125,
-                590
-            ]
-        },
-        {
-            "text": "Y6-",
-            "id": 14,
-            "bbox": [
-                98,
-                593,
-                116,
-                603
-            ]
-        },
-        {
-            "text": "2019-",
-            "id": 15,
-            "bbox": [
-                99,
-                615,
-                127,
+                376,
+                618,
+                378,
                 627
             ]
         },
         {
-            "text": "BRN",
-            "id": 16,
+            "text": "Moyenne",
+            "id": 11,
             "bbox": [
-                104,
-                628,
-                122,
-                637
+                229,
+                575,
+                265,
+                589
+            ]
+        },
+        {
+            "text": "Jolie",
+            "id": 12,
+            "bbox": [
+                268,
+                574,
+                302,
+                588
+            ]
+        },
+        {
+            "text": "BAGSADAS",
+            "id": 13,
+            "bbox": [
+                91,
+                577,
+                138,
+                589
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "JUMBO"
+                "1458"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Y6",
-                "Prime",
-                "2019",
-                "Smartphone",
-                "LTE",
-                "Amber",
-                "Brown",
-                "Serial",
-                "Number."
-            ],
-            "value_id": [
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "360.05"
-            ],
-            "value_id": [
-                2
+                3
             ]
         },
         {
@@ -216,18 +148,95 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PRIME-",
-                "HUA-",
-                "Y6-",
-                "2019-",
-                "BRN"
+                "BAGSADAS"
             ],
             "value_id": [
-                12,
-                13,
-                14,
-                15,
-                16
+                13
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "05/07/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "115.238",
+                "10"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Moyenne",
+                "Jolie"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "121",
+                "000",
+                "00"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
             ]
         }
     ],

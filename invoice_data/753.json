@@ -1,126 +1,128 @@
 {
     "text_boxes": [
         {
-            "text": "11JU120",
+            "text": ",",
             "id": 1,
             "bbox": [
-                201,
-                308,
-                250,
-                324
+                498,
+                446,
+                501,
+                458
             ]
         },
         {
-            "text": "122.50",
+            "text": "\u062a\u0633\u062a",
             "id": 2,
             "bbox": [
                 480,
-                495,
-                535,
-                514
+                446,
+                496,
+                459
             ]
         },
         {
-            "text": "94.50",
+            "text": "3,45000",
             "id": 3,
             "bbox": [
-                488,
-                423,
-                535,
-                440
+                592,
+                581,
+                641,
+                594
             ]
         },
         {
-            "text": "28.00",
+            "text": "CHANEL",
             "id": 4,
             "bbox": [
-                488,
-                446,
-                536,
-                465
+                156,
+                570,
+                192,
+                584
             ]
         },
         {
-            "text": "StdP1s2D",
+            "text": "WESS",
             "id": 5,
             "bbox": [
-                119,
-                428,
-                196,
-                447
+                195,
+                570,
+                235,
+                584
             ]
         },
         {
-            "text": "Salt",
+            "text": "SHOES",
             "id": 6,
             "bbox": [
-                119,
-                453,
-                156,
-                471
+                245,
+                570,
+                273,
+                584
             ]
         },
         {
-            "text": "-",
+            "text": ".",
             "id": 7,
             "bbox": [
-                172,
-                451,
-                182,
-                474
+                151,
+                592,
+                152,
+                604
             ]
         },
         {
-            "text": "Sup",
+            "text": "05561402",
             "id": 8,
             "bbox": [
-                188,
-                454,
-                216,
-                472
+                155,
+                592,
+                230,
+                604
+            ]
+        },
+        {
+            "text": "350.00",
+            "id": 9,
+            "bbox": [
+                589,
+                661,
+                640,
+                675
+            ]
+        },
+        {
+            "text": "\u0648\u0635\u064a\u0629",
+            "id": 10,
+            "bbox": [
+                325,
+                570,
+                345,
+                584
+            ]
+        },
+        {
+            "text": "\u062a\u0627\u0646\u064a\u0647",
+            "id": 11,
+            "bbox": [
+                282,
+                570,
+                323,
+                584
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "StdP1s2D",
-                "Salt",
-                "-",
-                "Sup"
+                ".",
+                "05561402"
             ],
             "value_id": [
-                5,
-                6,
                 7,
                 8
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "94.50",
-                "28.00"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "122.50"
-            ],
-            "value_id": [
-                2
             ]
         },
         {
@@ -128,10 +130,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11JU120"
+                ",",
+                "\u062a\u0633\u062a"
             ],
             "value_id": [
-                1
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,45000"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0648\u0635\u064a\u0629",
+                "\u062a\u0627\u0646\u064a\u0647"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL",
+                "WESS",
+                "SHOES"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "350.00"
+            ],
+            "value_id": [
+                9
             ]
         }
     ],

@@ -1,168 +1,187 @@
 {
     "text_boxes": [
         {
-            "text": "EMERALD",
+            "text": "COS",
             "id": 1,
             "bbox": [
-                122,
-                438,
-                226,
-                460
+                251,
+                96,
+                291,
+                117
             ]
         },
         {
-            "text": "STAR",
+            "text": "-",
             "id": 2,
             "bbox": [
-                232,
-                436,
-                288,
-                453
+                299,
+                99,
+                303,
+                117
             ]
         },
         {
-            "text": "GENERAL",
+            "text": "Dubai",
             "id": 3,
             "bbox": [
-                297,
-                431,
-                402,
-                451
+                310,
+                99,
+                359,
+                119
             ]
         },
         {
-            "text": "TRADING",
+            "text": "Festival",
             "id": 4,
             "bbox": [
-                410,
-                425,
-                510,
-                446
+                365,
+                101,
+                431,
+                123
             ]
         },
         {
-            "text": "LLC",
+            "text": "City",
             "id": 5,
             "bbox": [
-                519,
-                421,
-                561,
-                439
+                436,
+                104,
+                468,
+                123
             ]
         },
         {
-            "text": "23/07/2020",
+            "text": "09/07/2020",
             "id": 6,
             "bbox": [
-                181,
-                648,
-                276,
-                666
+                436,
+                335,
+                518,
+                358
             ]
         },
         {
-            "text": "11:57:40",
+            "text": "2009",
             "id": 7,
             "bbox": [
-                453,
-                610,
-                531,
-                627
+                525,
+                334,
+                565,
+                356
             ]
         },
         {
-            "text": "170.80",
+            "text": "159.00",
             "id": 8,
             "bbox": [
-                499,
-                913,
-                572,
-                930
+                515,
+                660,
+                561,
+                679
             ]
         },
         {
-            "text": "170.80",
+            "text": "159.00",
             "id": 9,
             "bbox": [
-                502,
-                725,
+                516,
+                559,
                 563,
-                742
+                576
             ]
         },
         {
-            "text": "1",
+            "text": "1.0",
             "id": 10,
             "bbox": [
-                392,
-                730,
-                397,
-                743
+                424,
+                560,
+                443,
+                578
             ]
         },
         {
-            "text": "ARCADIA",
+            "text": "10",
             "id": 11,
             "bbox": [
-                125,
-                733,
-                209,
-                750
+                425,
+                663,
+                444,
+                680
             ]
         },
         {
-            "text": "1",
+            "text": "CL",
             "id": 12,
             "bbox": [
-                284,
-                813,
-                289,
-                827
+                159,
+                490,
+                177,
+                509
             ]
         },
         {
-            "text": "4227",
+            "text": "E",
             "id": 13,
             "bbox": [
-                217,
-                732,
-                258,
-                748
+                184,
+                490,
+                192,
+                509
+            ]
+        },
+        {
+            "text": "HILLINGO",
+            "id": 14,
+            "bbox": [
+                199,
+                490,
+                273,
+                509
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 15,
+            "bbox": [
+                280,
+                490,
+                332,
+                509
+            ]
+        },
+        {
+            "text": "HP0789640001190002",
+            "id": 16,
+            "bbox": [
+                162,
+                562,
+                324,
+                582
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ARCADIA"
+                "2009"
             ],
             "value_id": [
-                11
+                7
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "HP0789640001190002"
             ],
             "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                10
+                16
             ]
         },
         {
@@ -170,10 +189,38 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "23/07/2020"
+                "09/07/2020"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "159.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CL",
+                "E",
+                "HILLINGO",
+                "DRESS"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15
             ]
         },
         {
@@ -181,11 +228,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "EMERALD",
-                "STAR",
-                "GENERAL",
-                "TRADING",
-                "LLC"
+                "COS",
+                "-",
+                "Dubai",
+                "Festival",
+                "City"
             ],
             "value_id": [
                 1,
@@ -196,47 +243,36 @@
             ]
         },
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.0"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "170.80"
+                "159.00"
             ],
             "value_id": [
                 8
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4227"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:57:40"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "170.80"
-            ],
-            "value_id": [
-                9
             ]
         }
     ],

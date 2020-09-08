@@ -1,188 +1,136 @@
 {
     "text_boxes": [
         {
-            "text": "SYMPHONY",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                277,
-                156,
-                508,
-                201
+                304,
+                233,
+                366,
+                251
             ]
         },
         {
-            "text": "03",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                260,
-                342,
-                272,
-                354
+                376,
+                230,
+                446,
+                249
             ]
         },
         {
-            "text": "08:21",
+            "text": "24/07/20",
             "id": 3,
             "bbox": [
-                274,
-                340,
-                302,
-                354
+                266,
+                439,
+                329,
+                455
             ]
         },
         {
-            "text": "PM",
+            "text": "14.53",
             "id": 4,
             "bbox": [
-                308,
-                341,
-                323,
-                350
+                340,
+                439,
+                377,
+                455
             ]
         },
         {
-            "text": "1524.00",
+            "text": "260.00",
             "id": 5,
             "bbox": [
-                666,
-                454,
-                704,
-                464
+                499,
+                662,
+                544,
+                677
             ]
         },
         {
-            "text": "1524",
+            "text": "260.00",
             "id": 6,
             "bbox": [
-                675,
-                416,
-                693,
-                425
+                497,
+                581,
+                542,
+                597
             ]
         },
         {
-            "text": "00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                697,
-                417,
-                708,
-                423
+                225,
+                603,
+                227,
+                618
             ]
         },
         {
-            "text": "RAFE",
+            "text": "Kid's",
             "id": 8,
             "bbox": [
-                119,
-                458,
-                143,
-                466
+                214,
+                564,
+                252,
+                578
             ]
         },
         {
-            "text": "NEW",
+            "text": "Wear",
             "id": 9,
             "bbox": [
-                146,
-                457,
-                167,
-                465
+                262,
+                564,
+                292,
+                578
             ]
         },
         {
-            "text": "YORK",
+            "text": "OVALL",
             "id": 10,
             "bbox": [
-                172,
-                455,
-                197,
-                464
+                215,
+                584,
+                253,
+                597
             ]
         },
         {
-            "text": "PINK",
+            "text": "SKU",
             "id": 11,
             "bbox": [
-                201,
-                452,
-                222,
-                464
+                263,
+                584,
+                284,
+                597
             ]
         },
         {
-            "text": "OS",
+            "text": "900981858",
             "id": 12,
             "bbox": [
-                227,
-                452,
-                238,
-                463
-            ]
-        },
-        {
-            "text": "CIiutch",
-            "id": 13,
-            "bbox": [
-                242,
-                453,
-                268,
-                462
-            ]
-        },
-        {
-            "text": "5690100626415",
-            "id": 14,
-            "bbox": [
-                116,
-                437,
-                184,
-                447
+                256,
+                603,
+                324,
+                618
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "RAFE",
-                "NEW",
-                "YORK",
-                "PINK",
-                "OS",
-                "CIiutch"
+                "14.53"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SYMPHONY"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1524.00"
-            ],
-            "value_id": [
-                5
+                4
             ]
         },
         {
@@ -190,25 +138,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5690100626415"
+                "900981858"
             ],
             "value_id": [
-                14
+                12
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "03",
-                "08:21",
-                "PM"
+                "24/07/20"
             ],
             "value_id": [
-                2,
-                3,
-                4
+                3
             ]
         },
         {
@@ -216,12 +160,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1524",
-                "00"
+                "260.00"
             ],
             "value_id": [
-                6,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Kid's",
+                "Wear",
+                "OVALL",
+                "SKU"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "260.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

@@ -1,0 +1,264 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                336,
+                173,
+                379,
+                192
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                385,
+                175,
+                449,
+                196
+            ]
+        },
+        {
+            "text": "MALLIAN",
+            "id": 3,
+            "bbox": [
+                363,
+                190,
+                409,
+                201
+            ]
+        },
+        {
+            "text": "MADOWIONEN",
+            "id": 4,
+            "bbox": [
+                350,
+                221,
+                413,
+                232
+            ]
+        },
+        {
+            "text": "1854",
+            "id": 5,
+            "bbox": [
+                417,
+                224,
+                429,
+                232
+            ]
+        },
+        {
+            "text": "28/07/2020",
+            "id": 6,
+            "bbox": [
+                521,
+                393,
+                577,
+                405
+            ]
+        },
+        {
+            "text": "12:56",
+            "id": 7,
+            "bbox": [
+                597,
+                395,
+                622,
+                405
+            ]
+        },
+        {
+            "text": "2.390.00",
+            "id": 8,
+            "bbox": [
+                649,
+                448,
+                693,
+                461
+            ]
+        },
+        {
+            "text": "2.390.00",
+            "id": 9,
+            "bbox": [
+                660,
+                608,
+                706,
+                618
+            ]
+        },
+        {
+            "text": "LP0168",
+            "id": 10,
+            "bbox": [
+                35,
+                445,
+                70,
+                454
+            ]
+        },
+        {
+            "text": "NUIT",
+            "id": 11,
+            "bbox": [
+                85,
+                445,
+                108,
+                454
+            ]
+        },
+        {
+            "text": "200ML",
+            "id": 12,
+            "bbox": [
+                116,
+                446,
+                145,
+                455
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 13,
+            "bbox": [
+                153,
+                446,
+                169,
+                455
+            ]
+        },
+        {
+            "text": "PERFUME",
+            "id": 14,
+            "bbox": [
+                35,
+                455,
+                76,
+                465
+            ]
+        },
+        {
+            "text": "STOCK",
+            "id": 15,
+            "bbox": [
+                86,
+                455,
+                123,
+                465
+            ]
+        },
+        {
+            "text": "1",
+            "id": 16,
+            "bbox": [
+                281,
+                448,
+                283,
+                456
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:56"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "28/07/2020"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.390.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LP0168",
+                "NUIT",
+                "200ML",
+                "EDP",
+                "PERFUME",
+                "STOCK"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MALLIAN",
+                "MADOWIONEN",
+                "1854"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.390.00"
+            ],
+            "value_id": [
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1413.jpg"
+    }
+}

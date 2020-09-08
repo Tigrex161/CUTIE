@@ -1,143 +1,214 @@
 {
     "text_boxes": [
         {
-            "text": "ZRA",
+            "text": "Van",
             "id": 1,
             "bbox": [
-                282,
-                160,
-                412,
-                203
+                254,
+                59,
+                302,
+                93
             ]
         },
         {
-            "text": "20",
+            "text": "Cleef",
             "id": 2,
             "bbox": [
-                188,
-                262,
-                206,
-                274
+                309,
+                60,
+                379,
+                95
             ]
         },
         {
-            "text": "07-2020",
+            "text": "&",
             "id": 3,
             "bbox": [
-                210,
-                265,
-                263,
-                276
+                388,
+                64,
+                405,
+                97
             ]
         },
         {
-            "text": "16:13",
+            "text": "Arpels",
             "id": 4,
             "bbox": [
-                275,
-                267,
-                311,
-                276
+                412,
+                64,
+                494,
+                100
             ]
         },
         {
-            "text": "199",
+            "text": "02/7/2020",
             "id": 5,
             "bbox": [
-                447,
-                485,
-                467,
-                494
+                109,
+                592,
+                156,
+                604
             ]
         },
         {
-            "text": "199",
+            "text": "30",
             "id": 6,
             "bbox": [
-                446,
-                344,
-                466,
-                353
+                187,
+                592,
+                195,
+                604
             ]
         },
         {
-            "text": "0451410025003",
+            "text": "\u0645",
             "id": 7,
             "bbox": [
-                265,
-                362,
-                365,
-                372
+                179,
+                592,
+                181,
+                604
             ]
         },
         {
-            "text": "DRESS",
+            "text": "21",
             "id": 8,
             "bbox": [
-                383,
-                363,
-                420,
-                372
+                161,
+                592,
+                169,
+                604
             ]
         },
         {
-            "text": "10001880",
+            "text": ":",
             "id": 9,
             "bbox": [
-                189,
-                363,
-                248,
-                373
+                170,
+                592,
+                172,
+                604
+            ]
+        },
+        {
+            "text": "3",
+            "id": 10,
+            "bbox": [
+                174,
+                592,
+                176,
+                604
+            ]
+        },
+        {
+            "text": "\u0627",
+            "id": 11,
+            "bbox": [
+                685,
+                447,
+                693,
+                454
+            ]
+        },
+        {
+            "text": "\u0629",
+            "id": 12,
+            "bbox": [
+                667,
+                447,
+                667,
+                454
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                350,
+                403,
+                351,
+                410
+            ]
+        },
+        {
+            "text": "ARACINIVOILE",
+            "id": 14,
+            "bbox": [
+                127,
+                389,
+                171,
+                399
+            ]
+        },
+        {
+            "text": "YO",
+            "id": 15,
+            "bbox": [
+                173,
+                390,
+                180,
+                399
+            ]
+        },
+        {
+            "text": "DI",
+            "id": 16,
+            "bbox": [
+                183,
+                390,
+                194,
+                399
+            ]
+        },
+        {
+            "text": "MINIM",
+            "id": 17,
+            "bbox": [
+                196,
+                389,
+                217,
+                399
+            ]
+        },
+        {
+            "text": "200",
+            "id": 18,
+            "bbox": [
+                192,
+                399,
+                205,
+                409
+            ]
+        },
+        {
+            "text": "AAP",
+            "id": 19,
+            "bbox": [
+                169,
+                399,
+                182,
+                409
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0451410025003",
-                "DRESS"
+                "30",
+                "\u0645",
+                "21",
+                ":",
+                "3"
             ],
             "value_id": [
+                6,
                 7,
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20",
-                "07-2020"
-            ],
-            "value_id": [
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZRA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "199"
-            ],
-            "value_id": [
-                5
+                8,
+                9,
+                10
             ]
         },
         {
@@ -145,32 +216,81 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001880"
+                "200",
+                "AAP"
             ],
             "value_id": [
-                9
+                18,
+                19
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:13"
+                "02/7/2020"
             ],
             "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ARACINIVOILE",
+                "YO",
+                "DI",
+                "MINIM"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
                 4
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "199"
+                "1"
             ],
             "value_id": [
-                6
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627",
+                "\u0629"
+            ],
+            "value_id": [
+                11,
+                12
             ]
         }
     ],

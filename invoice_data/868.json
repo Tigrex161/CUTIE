@@ -1,210 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "adidas",
             "id": 1,
             "bbox": [
-                338,
-                204,
-                451,
-                293
+                307,
+                242,
+                409,
+                277
             ]
         },
         {
-            "text": "SHOES",
+            "text": "07/24/20",
             "id": 2,
             "bbox": [
-                362,
-                292,
-                421,
-                306
+                244,
+                483,
+                317,
+                504
             ]
         },
         {
-            "text": "Jul,",
+            "text": "15:25",
             "id": 3,
             "bbox": [
-                490,
-                426,
-                515,
-                436
+                328,
+                482,
+                371,
+                503
             ]
         },
         {
-            "text": "2020",
+            "text": "549.00",
             "id": 4,
             "bbox": [
-                527,
-                424,
-                554,
-                435
+                487,
+                778,
+                544,
+                797
             ]
         },
         {
-            "text": "17:30",
+            "text": "549.00",
             "id": 5,
             "bbox": [
-                564,
-                425,
-                598,
-                435
+                450,
+                605,
+                507,
+                625
             ]
         },
         {
-            "text": "1,",
+            "text": "SUPERSTAR",
             "id": 6,
             "bbox": [
-                600,
-                664,
-                608,
-                673
+                159,
+                609,
+                245,
+                630
             ]
         },
         {
-            "text": "900.00",
+            "text": "FV2809",
             "id": 7,
             "bbox": [
-                612,
-                663,
-                653,
-                671
+                274,
+                593,
+                327,
+                613
             ]
         },
         {
-            "text": "1,900.",
+            "text": "8",
             "id": 8,
             "bbox": [
-                603,
-                572,
-                645,
-                590
+                338,
+                594,
+                345,
+                612
             ]
         },
         {
-            "text": "00",
+            "text": "\u0627\u062d\u0630\u064a\u0629",
             "id": 9,
             "bbox": [
-                647,
-                572,
-                657,
-                590
-            ]
-        },
-        {
-            "text": "553770-WHFBU-9053:MAQ.",
-            "id": 10,
-            "bbox": [
-                124,
-                558,
-                276,
-                570
-            ]
-        },
-        {
-            "text": "9053:39.5:SNEAKER",
-            "id": 11,
-            "bbox": [
-                278,
-                558,
-                391,
-                570
-            ]
-        },
-        {
-            "text": "PELLE",
-            "id": 12,
-            "bbox": [
-                400,
-                558,
-                430,
-                570
+                156,
+                630,
+                186,
+                645
             ]
         },
         {
             "text": "1",
-            "id": 13,
+            "id": 10,
             "bbox": [
-                440,
-                580,
-                443,
-                587
-            ]
-        },
-        {
-            "text": "035624533432",
-            "id": 14,
-            "bbox": [
-                126,
-                580,
-                206,
-                589
+                343,
+                821,
+                348,
+                837
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "553770-WHFBU-9053:MAQ.",
-                "9053:39.5:SNEAKER",
-                "PELLE"
+                "15:25"
             ],
             "value_id": [
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "level",
-                "SHOES"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,",
-                "900.00"
-            ],
-            "value_id": [
-                6,
-                7
+                3
             ]
         },
         {
@@ -212,21 +118,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "035624533432"
+                "FV2809",
+                "8"
             ],
             "value_id": [
-                14
+                7,
+                8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:30"
+                "07/24/20"
             ],
             "value_id": [
-                5
+                2
             ]
         },
         {
@@ -234,12 +142,65 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,900.",
-                "00"
+                "549.00"
             ],
             "value_id": [
-                8,
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u062d\u0630\u064a\u0629"
+            ],
+            "value_id": [
                 9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SUPERSTAR"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "adidas"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "549.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

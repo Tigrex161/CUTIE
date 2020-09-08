@@ -1,0 +1,276 @@
+{
+    "text_boxes": [
+        {
+            "text": "Food",
+            "id": 1,
+            "bbox": [
+                286,
+                205,
+                330,
+                223
+            ]
+        },
+        {
+            "text": "Mark",
+            "id": 2,
+            "bbox": [
+                343,
+                205,
+                389,
+                223
+            ]
+        },
+        {
+            "text": "L.L.C.",
+            "id": 3,
+            "bbox": [
+                402,
+                205,
+                466,
+                223
+            ]
+        },
+        {
+            "text": "Ju130",
+            "id": 4,
+            "bbox": [
+                304,
+                489,
+                361,
+                519
+            ]
+        },
+        {
+            "text": "20",
+            "id": 5,
+            "bbox": [
+                374,
+                487,
+                396,
+                516
+            ]
+        },
+        {
+            "text": "04:27",
+            "id": 6,
+            "bbox": [
+                409,
+                486,
+                465,
+                516
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                465,
+                485,
+                486,
+                514
+            ]
+        },
+        {
+            "text": "150.00",
+            "id": 8,
+            "bbox": [
+                487,
+                748,
+                630,
+                798
+            ]
+        },
+        {
+            "text": "100.00",
+            "id": 9,
+            "bbox": [
+                534,
+                554,
+                601,
+                586
+            ]
+        },
+        {
+            "text": "50.00",
+            "id": 10,
+            "bbox": [
+                550,
+                610,
+                609,
+                642
+            ]
+        },
+        {
+            "text": "2",
+            "id": 11,
+            "bbox": [
+                188,
+                583,
+                199,
+                613
+            ]
+        },
+        {
+            "text": "2",
+            "id": 12,
+            "bbox": [
+                191,
+                643,
+                204,
+                673
+            ]
+        },
+        {
+            "text": "Adult",
+            "id": 13,
+            "bbox": [
+                213,
+                581,
+                272,
+                613
+            ]
+        },
+        {
+            "text": "Spag",
+            "id": 14,
+            "bbox": [
+                286,
+                580,
+                333,
+                612
+            ]
+        },
+        {
+            "text": ".",
+            "id": 15,
+            "bbox": [
+                338,
+                580,
+                341,
+                610
+            ]
+        },
+        {
+            "text": "MEAT",
+            "id": 16,
+            "bbox": [
+                216,
+                639,
+                265,
+                672
+            ]
+        },
+        {
+            "text": "BALLS",
+            "id": 17,
+            "bbox": [
+                278,
+                636,
+                338,
+                669
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "04:27",
+                "PM"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Ju130",
+                "20"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100.00",
+                "50.00"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Adult",
+                "Spag",
+                ".",
+                "MEAT",
+                "BALLS"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Food",
+                "Mark",
+                "L.L.C."
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "2"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "150.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1576.jpg"
+    }
+}

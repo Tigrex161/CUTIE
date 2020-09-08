@@ -1,91 +1,168 @@
 {
     "text_boxes": [
         {
-            "text": "360.00",
+            "text": "FREDPERRY",
             "id": 1,
             "bbox": [
-                382,
-                489,
-                408,
-                499
+                305,
+                284,
+                413,
+                318
             ]
         },
         {
-            "text": "360.00",
+            "text": "18/07/20",
             "id": 2,
             "bbox": [
-                380,
-                413,
-                406,
-                421
+                209,
+                402,
+                307,
+                434
             ]
         },
         {
-            "text": "34218",
+            "text": "4:56",
             "id": 3,
             "bbox": [
-                304,
-                293,
-                337,
-                307
+                330,
+                408,
+                375,
+                436
             ]
         },
         {
-            "text": "Zakar",
+            "text": "177.00",
             "id": 4,
             "bbox": [
-                220,
-                417,
-                243,
-                426
+                538,
+                721,
+                614,
+                749
             ]
         },
         {
-            "text": "maxt",
+            "text": "177",
             "id": 5,
             "bbox": [
-                249,
-                419,
-                266,
-                426
+                575,
+                593,
+                612,
+                621
             ]
         },
         {
-            "text": "dress:Gre",
+            "text": "1",
             "id": 6,
             "bbox": [
-                273,
-                414,
-                313,
-                425
+                371,
+                602,
+                378,
+                629
+            ]
+        },
+        {
+            "text": "T",
+            "id": 7,
+            "bbox": [
+                230,
+                604,
+                238,
+                627
+            ]
+        },
+        {
+            "text": "-",
+            "id": 8,
+            "bbox": [
+                243,
+                604,
+                251,
+                627
+            ]
+        },
+        {
+            "text": "SHIRTS",
+            "id": 9,
+            "bbox": [
+                254,
+                604,
+                323,
+                627
+            ]
+        },
+        {
+            "text": "A035254",
+            "id": 10,
+            "bbox": [
+                126,
+                604,
+                215,
+                627
+            ]
+        },
+        {
+            "text": "\u062a\u064a",
+            "id": 11,
+            "bbox": [
+                264,
+                633,
+                281,
+                655
+            ]
+        },
+        {
+            "text": "\u0634\u064a\u0631\u062a",
+            "id": 12,
+            "bbox": [
+                203,
+                632,
+                250,
+                655
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                570,
+                879,
+                578,
+                899
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Zakar",
-                "maxt",
-                "dress:Gre"
-            ],
-            "value_id": [
-                4,
-                5,
-                6
-            ]
-        },
-        {
             "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "34218"
+                "4:56"
             ],
             "value_id": [
                 3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A035254"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "18/07/20"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -93,10 +170,71 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "360.00"
+                "177"
             ],
             "value_id": [
-                2
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062a\u064a",
+                "\u0634\u064a\u0631\u062a"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "T",
+                "-",
+                "SHIRTS"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FREDPERRY"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
             ]
         },
         {
@@ -104,10 +242,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "360.00"
+                "177.00"
             ],
             "value_id": [
-                1
+                4
             ]
         }
     ],

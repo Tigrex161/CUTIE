@@ -1,179 +1,136 @@
 {
     "text_boxes": [
         {
-            "text": "Bumble",
+            "text": "DIESEL",
             "id": 1,
             "bbox": [
-                114,
-                179,
-                201,
-                205
+                343,
+                323,
+                411,
+                343
             ]
         },
         {
-            "text": "Bee",
+            "text": "07/21/20",
             "id": 2,
             "bbox": [
                 215,
-                178,
-                260,
-                198
+                421,
+                311,
+                452
             ]
         },
         {
-            "text": "22/07/2020",
+            "text": "5:16",
             "id": 3,
             "bbox": [
-                405,
-                456,
-                496,
-                474
+                338,
+                420,
+                385,
+                450
             ]
         },
         {
-            "text": "11:36:10",
+            "text": "255",
             "id": 4,
             "bbox": [
-                398,
-                511,
-                469,
-                525
+                590,
+                736,
+                627,
+                759
             ]
         },
         {
-            "text": "895.00",
+            "text": "255",
             "id": 5,
             "bbox": [
-                340,
-                895,
-                421,
-                918
+                586,
+                618,
+                621,
+                638
             ]
         },
         {
-            "text": "895.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                482,
-                670,
-                535,
-                683
+                376,
+                619,
+                383,
+                639
             ]
         },
         {
-            "text": "leepyhead",
+            "text": "T",
             "id": 7,
             "bbox": [
-                177,
-                636,
-                271,
-                656
+                230,
+                617,
+                237,
+                639
             ]
         },
         {
-            "text": "Deluxet",
+            "text": "-",
             "id": 8,
             "bbox": [
-                280,
-                635,
-                343,
-                649
+                242,
+                617,
+                250,
+                639
             ]
         },
         {
-            "text": "Pod",
+            "text": "SHIRTS",
             "id": 9,
             "bbox": [
-                355,
-                633,
-                382,
-                646
+                253,
+                617,
+                325,
+                639
             ]
         },
         {
-            "text": "silver",
+            "text": "A046234",
             "id": 10,
             "bbox": [
-                392,
-                629,
-                447,
-                644
+                132,
+                617,
+                215,
+                639
             ]
         },
         {
-            "text": "Lining",
+            "text": "\u062a\u064a",
             "id": 11,
             "bbox": [
-                456,
-                627,
-                511,
-                643
+                270,
+                646,
+                283,
+                667
             ]
         },
         {
-            "text": "7394322265678",
+            "text": "\u0634\u064a\u0631\u062a",
             "id": 12,
             "bbox": [
-                368,
-                602,
-                486,
-                619
+                207,
+                646,
+                250,
+                667
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "leepyhead",
-                "Deluxet",
-                "Pod",
-                "silver",
-                "Lining"
-            ],
-            "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "22/07/2020"
+                "5:16"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Bumble",
-                "Bee"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "895.00"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -181,21 +138,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7394322265678"
+                "A046234"
             ],
             "value_id": [
-                12
+                10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:36:10"
+                "07/21/20"
             ],
             "value_id": [
-                4
+                2
             ]
         },
         {
@@ -203,10 +160,71 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "895.00"
+                "255"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062a\u064a",
+                "\u0634\u064a\u0631\u062a"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "T",
+                "-",
+                "SHIRTS"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIESEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "255"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

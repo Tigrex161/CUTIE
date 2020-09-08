@@ -1,177 +1,147 @@
 {
     "text_boxes": [
         {
-            "text": "NIKE",
+            "text": "nous",
             "id": 1,
             "bbox": [
-                385,
-                97,
-                428,
-                108
+                247,
+                181,
+                485,
+                275
             ]
         },
         {
-            "text": "BEACON",
+            "text": "Mall",
             "id": 2,
             "bbox": [
-                447,
-                98,
-                518,
-                109
+                345,
+                257,
+                379,
+                278
             ]
         },
         {
-            "text": "11/07/2020",
+            "text": "07/02/20",
             "id": 3,
             "bbox": [
-                353,
-                198,
-                412,
-                210
+                166,
+                451,
+                239,
+                476
             ]
         },
         {
-            "text": "16:17",
+            "text": "6:01",
             "id": 4,
             "bbox": [
-                353,
-                219,
-                381,
-                229
+                253,
+                458,
+                289,
+                481
             ]
         },
         {
-            "text": "249.00",
+            "text": "3,800,00",
             "id": 5,
             "bbox": [
-                558,
-                718,
-                594,
-                731
+                440,
+                634,
+                513,
+                661
             ]
         },
         {
-            "text": "249.00",
+            "text": "3,800.00",
             "id": 6,
             "bbox": [
-                551,
-                465,
-                587,
-                474
+                420,
+                591,
+                493,
+                618
             ]
         },
         {
-            "text": "1.00",
+            "text": "193093370928",
             "id": 7,
             "bbox": [
-                443,
-                587,
-                466,
+                378,
+                571,
+                483,
                 597
             ]
         },
         {
-            "text": "M",
+            "text": "Yeezy",
             "id": 8,
             "bbox": [
-                243,
-                478,
-                247,
-                489
+                162,
+                598,
+                208,
+                620
             ]
         },
         {
-            "text": "NSW",
+            "text": "Boost",
             "id": 9,
             "bbox": [
-                256,
-                479,
-                273,
-                489
+                218,
+                600,
+                262,
+                622
             ]
         },
         {
-            "text": "ME",
+            "text": "350",
             "id": 10,
             "bbox": [
-                281,
-                479,
-                292,
-                489
+                273,
+                602,
+                299,
+                623
             ]
         },
         {
-            "text": "PANT",
+            "text": "V2",
             "id": 11,
             "bbox": [
-                301,
-                480,
-                324,
-                491
+                308,
+                603,
+                325,
+                623
             ]
         },
         {
-            "text": "LTWT",
+            "text": "C",
             "id": 12,
             "bbox": [
-                333,
-                480,
-                357,
-                490
-            ]
-        },
-        {
-            "text": "MIX",
-            "id": 13,
-            "bbox": [
-                365,
-                480,
-                383,
-                491
-            ]
-        },
-        {
-            "text": "NKBV3094-011",
-            "id": 14,
-            "bbox": [
-                244,
-                460,
-                317,
-                472
+                334,
+                604,
+                342,
+                624
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.00"
+                "6:01"
             ],
             "value_id": [
-                7
+                4
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "M",
-                "NSW",
-                "ME",
-                "PANT",
-                "LTWT",
-                "MIX"
+                "193093370928"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                7
             ]
         },
         {
@@ -179,10 +149,40 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11/07/2020"
+                "07/02/20"
             ],
             "value_id": [
                 3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,800.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Yeezy",
+                "Boost",
+                "350",
+                "V2",
+                "C"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
             ]
         },
         {
@@ -190,8 +190,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NIKE",
-                "BEACON"
+                "nous",
+                "Mall"
             ],
             "value_id": [
                 1,
@@ -203,43 +203,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "249.00"
+                "3,800,00"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "NKBV3094-011"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:17"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "249.00"
-            ],
-            "value_id": [
-                6
             ]
         }
     ],

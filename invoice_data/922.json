@@ -1,213 +1,167 @@
 {
     "text_boxes": [
         {
-            "text": "PROX",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                92,
-                115,
-                164,
-                135
+                359,
+                215,
+                392,
+                229
             ]
         },
         {
-            "text": "DUBAI",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                174,
-                109,
-                253,
-                135
+                398,
+                215,
+                450,
+                229
             ]
         },
         {
-            "text": "MALL",
+            "text": "WORTO",
             "id": 3,
             "bbox": [
-                262,
-                112,
-                334,
-                138
+                368,
+                250,
+                398,
+                260
             ]
         },
         {
-            "text": "LG-",
+            "text": "24/07/2020",
             "id": 4,
             "bbox": [
-                344,
-                120,
-                377,
-                138
+                547,
+                403,
+                600,
+                412
             ]
         },
         {
-            "text": "16:41",
+            "text": "10",
             "id": 5,
             "bbox": [
-                546,
-                352,
-                597,
-                374
+                613,
+                403,
+                641,
+                412
             ]
         },
         {
-            "text": "104.99",
+            "text": "2.960.00",
             "id": 6,
             "bbox": [
-                416,
-                686,
-                490,
-                705
+                668,
+                607,
+                709,
+                616
             ]
         },
         {
-            "text": "104.99",
+            "text": "2.960,00",
             "id": 7,
             "bbox": [
-                551,
-                520,
-                638,
-                542
+                665,
+                452,
+                707,
+                462
             ]
         },
         {
-            "text": "3",
+            "text": "1",
             "id": 8,
             "bbox": [
-                256,
-                515,
-                268,
-                535
+                323,
+                461,
+                326,
+                467
             ]
         },
         {
-            "text": "BAVIN",
+            "text": "IASENH",
             "id": 9,
             "bbox": [
-                99,
-                581,
-                147,
-                603
+                111,
+                463,
+                138,
+                477
             ]
         },
         {
-            "text": "CHARGING",
+            "text": "NGLADEMENTO",
             "id": 10,
             "bbox": [
-                155,
-                581,
-                244,
-                604
+                152,
+                461,
+                223,
+                476
             ]
         },
         {
-            "text": "CABLE",
+            "text": "LOCK",
             "id": 11,
             "bbox": [
-                250,
-                583,
-                305,
-                605
+                231,
+                459,
+                251,
+                473
             ]
         },
         {
-            "text": "MIX",
+            "text": "IT",
             "id": 12,
             "bbox": [
-                311,
-                585,
-                339,
-                605
+                258,
+                460,
+                267,
+                472
             ]
         },
         {
-            "text": "3",
+            "text": "MUL",
             "id": 13,
             "bbox": [
-                298,
-                685,
-                310,
-                702
+                273,
+                459,
+                289,
+                472
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 14,
+            "bbox": [
+                111,
+                475,
+                135,
+                486
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "BAVIN",
-                "CHARGING",
-                "CABLE",
-                "MIX"
-            ],
-            "value_id": [
-                9,
-                10,
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "PROX",
-                "DUBAI",
-                "MALL",
-                "LG-"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "104.99"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
             "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "16:41"
+                "10"
             ],
             "value_id": [
                 5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24/07/2020"
+            ],
+            "value_id": [
+                4
             ]
         },
         {
@@ -215,10 +169,68 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "104.99"
+                "2.960,00"
             ],
             "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "IASENH",
+                "NGLADEMENTO",
+                "LOCK",
+                "IT",
+                "MUL",
+                "SHOES"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "WORTO"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.960.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

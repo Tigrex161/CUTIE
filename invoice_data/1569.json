@@ -1,0 +1,300 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                339,
+                73,
+                379,
+                93
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                384,
+                66,
+                445,
+                88
+            ]
+        },
+        {
+            "text": "MALTERAMES",
+            "id": 3,
+            "bbox": [
+                367,
+                84,
+                420,
+                103
+            ]
+        },
+        {
+            "text": "WSONIDOLEIN",
+            "id": 4,
+            "bbox": [
+                358,
+                117,
+                417,
+                132
+            ]
+        },
+        {
+            "text": "31/07/2020",
+            "id": 5,
+            "bbox": [
+                551,
+                276,
+                609,
+                292
+            ]
+        },
+        {
+            "text": "20:54",
+            "id": 6,
+            "bbox": [
+                627,
+                273,
+                655,
+                287
+            ]
+        },
+        {
+            "text": "1,180.00",
+            "id": 7,
+            "bbox": [
+                706,
+                461,
+                754,
+                471
+            ]
+        },
+        {
+            "text": "1.",
+            "id": 8,
+            "bbox": [
+                680,
+                328,
+                690,
+                340
+            ]
+        },
+        {
+            "text": "180.00",
+            "id": 9,
+            "bbox": [
+                691,
+                325,
+                727,
+                339
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                327,
+                358,
+                330,
+                366
+            ]
+        },
+        {
+            "text": "LP005",
+            "id": 11,
+            "bbox": [
+                115,
+                369,
+                140,
+                383
+            ]
+        },
+        {
+            "text": "NOUVEAU",
+            "id": 12,
+            "bbox": [
+                156,
+                366,
+                192,
+                380
+            ]
+        },
+        {
+            "text": "MONDE",
+            "id": 13,
+            "bbox": [
+                197,
+                363,
+                224,
+                377
+            ]
+        },
+        {
+            "text": "100ML",
+            "id": 14,
+            "bbox": [
+                229,
+                361,
+                256,
+                375
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 15,
+            "bbox": [
+                261,
+                360,
+                277,
+                373
+            ]
+        },
+        {
+            "text": "VERINE",
+            "id": 16,
+            "bbox": [
+                116,
+                379,
+                152,
+                392
+            ]
+        },
+        {
+            "text": "(",
+            "id": 17,
+            "bbox": [
+                159,
+                379,
+                162,
+                389
+            ]
+        },
+        {
+            "text": "STOCK",
+            "id": 18,
+            "bbox": [
+                163,
+                376,
+                187,
+                389
+            ]
+        },
+        {
+            "text": ")",
+            "id": 19,
+            "bbox": [
+                188,
+                377,
+                191,
+                387
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:54"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "31/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.",
+                "180.00"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LP005",
+                "NOUVEAU",
+                "MONDE",
+                "100ML",
+                "EDP",
+                "VERINE",
+                "(",
+                "STOCK",
+                ")"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MALTERAMES",
+                "WSONIDOLEIN"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,180.00"
+            ],
+            "value_id": [
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1569.jpg"
+    }
+}

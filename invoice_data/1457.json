@@ -1,0 +1,240 @@
+{
+    "text_boxes": [
+        {
+            "text": "TIFFANY",
+            "id": 1,
+            "bbox": [
+                315,
+                144,
+                425,
+                172
+            ]
+        },
+        {
+            "text": "&",
+            "id": 2,
+            "bbox": [
+                435,
+                144,
+                452,
+                172
+            ]
+        },
+        {
+            "text": "CO",
+            "id": 3,
+            "bbox": [
+                461,
+                144,
+                492,
+                172
+            ]
+        },
+        {
+            "text": ".",
+            "id": 4,
+            "bbox": [
+                497,
+                144,
+                502,
+                172
+            ]
+        },
+        {
+            "text": "728/07/2020",
+            "id": 5,
+            "bbox": [
+                261,
+                970,
+                339,
+                995
+            ]
+        },
+        {
+            "text": "08:35",
+            "id": 6,
+            "bbox": [
+                345,
+                974,
+                380,
+                997
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                382,
+                976,
+                393,
+                997
+            ]
+        },
+        {
+            "text": "1.450.00",
+            "id": 8,
+            "bbox": [
+                472,
+                665,
+                524,
+                678
+            ]
+        },
+        {
+            "text": "1.450.00",
+            "id": 9,
+            "bbox": [
+                476,
+                369,
+                530,
+                385
+            ]
+        },
+        {
+            "text": "SS",
+            "id": 10,
+            "bbox": [
+                256,
+                357,
+                268,
+                369
+            ]
+        },
+        {
+            "text": "DPOINT",
+            "id": 11,
+            "bbox": [
+                277,
+                356,
+                315,
+                369
+            ]
+        },
+        {
+            "text": "CUFF",
+            "id": 12,
+            "bbox": [
+                325,
+                354,
+                351,
+                368
+            ]
+        },
+        {
+            "text": "XL",
+            "id": 13,
+            "bbox": [
+                361,
+                355,
+                373,
+                367
+            ]
+        },
+        {
+            "text": "115-61-68772311",
+            "id": 14,
+            "bbox": [
+                271,
+                373,
+                371,
+                390
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08:35",
+                "PM"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "115-61-68772311"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "728/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.450.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SS",
+                "DPOINT",
+                "CUFF",
+                "XL"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TIFFANY",
+                "&",
+                "CO",
+                "."
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.450.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1457.jpg"
+    }
+}

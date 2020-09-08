@@ -1,0 +1,213 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZARA",
+            "id": 1,
+            "bbox": [
+                334,
+                35,
+                417,
+                72
+            ]
+        },
+        {
+            "text": "21.07.2020",
+            "id": 2,
+            "bbox": [
+                273,
+                102,
+                321,
+                119
+            ]
+        },
+        {
+            "text": "13921",
+            "id": 3,
+            "bbox": [
+                273,
+                113,
+                295,
+                126
+            ]
+        },
+        {
+            "text": "140",
+            "id": 4,
+            "bbox": [
+                326,
+                110,
+                348,
+                124
+            ]
+        },
+        {
+            "text": "110",
+            "id": 5,
+            "bbox": [
+                435,
+                239,
+                449,
+                249
+            ]
+        },
+        {
+            "text": "1",
+            "id": 6,
+            "bbox": [
+                333,
+                158,
+                334,
+                165
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                352,
+                197,
+                354,
+                204
+            ]
+        },
+        {
+            "text": "01510025002T",
+            "id": 8,
+            "bbox": [
+                319,
+                168,
+                402,
+                182
+            ]
+        },
+        {
+            "text": "-",
+            "id": 9,
+            "bbox": [
+                401,
+                173,
+                403,
+                180
+            ]
+        },
+        {
+            "text": "SHIRT",
+            "id": 10,
+            "bbox": [
+                405,
+                170,
+                430,
+                180
+            ]
+        },
+        {
+            "text": "10002786",
+            "id": 11,
+            "bbox": [
+                270,
+                162,
+                309,
+                175
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "140"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10002786"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21.07.2020",
+                "13921"
+            ],
+            "value_id": [
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "01510025002T",
+                "-",
+                "SHIRT"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "110"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1214.jpg"
+    }
+}

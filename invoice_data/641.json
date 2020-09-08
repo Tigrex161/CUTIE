@@ -1,199 +1,305 @@
 {
     "text_boxes": [
         {
-            "text": "P'ARFUMS",
+            "text": "Dior",
             "id": 1,
             "bbox": [
-                289,
-                235,
-                373,
-                247
+                181,
+                15,
+                479,
+                149
             ]
         },
         {
-            "text": "de",
+            "text": "25",
             "id": 2,
             "bbox": [
-                384,
-                238,
-                400,
-                246
+                241,
+                417,
+                254,
+                437
             ]
         },
         {
-            "text": "MARLY",
+            "text": "-",
             "id": 3,
             "bbox": [
-                412,
-                238,
-                473,
-                250
+                260,
+                417,
+                264,
+                437
             ]
         },
         {
-            "text": "ARIS",
+            "text": "Jun",
             "id": 4,
             "bbox": [
-                366,
-                251,
-                400,
-                258
+                271,
+                417,
+                294,
+                437
             ]
         },
         {
-            "text": "05/07/2020",
+            "text": "-",
             "id": 5,
             "bbox": [
-                316,
-                582,
-                381,
-                595
+                298,
+                416,
+                302,
+                436
             ]
         },
         {
-            "text": "5:52",
+            "text": "2020",
             "id": 6,
             "bbox": [
-                386,
-                584,
-                409,
-                595
+                306,
+                415,
+                339,
+                436
             ]
         },
         {
-            "text": "pm",
+            "text": "19:52",
             "id": 7,
             "bbox": [
-                415,
-                587,
-                432,
-                596
+                352,
+                414,
+                395,
+                436
             ]
         },
         {
-            "text": "AED1277.00",
+            "text": "1,425.00",
             "id": 8,
             "bbox": [
-                442,
-                825,
-                527,
-                835
+                474,
+                963,
+                545,
+                989
             ]
         },
         {
-            "text": "AED1277.00",
+            "text": "1,425.00",
             "id": 9,
             "bbox": [
-                441,
-                716,
-                519,
-                727
+                510,
+                785,
+                582,
+                807
             ]
         },
         {
-            "text": "AEDO.00",
+            "text": "1",
             "id": 10,
             "bbox": [
-                465,
-                744,
-                520,
-                756
+                257,
+                781,
+                261,
+                798
             ]
         },
         {
             "text": "1",
             "id": 11,
             "bbox": [
-                422,
-                717,
-                425,
-                726
+                534,
+                848,
+                538,
+                866
             ]
         },
         {
-            "text": "DELINA",
+            "text": "F090928009",
             "id": 12,
             "bbox": [
-                226,
-                705,
-                277,
-                715
+                75,
+                721,
+                165,
+                743
             ]
         },
         {
-            "text": "EXCLUSIF",
+            "text": ":",
             "id": 13,
             "bbox": [
-                283,
-                704,
-                350,
-                716
+                170,
+                721,
+                172,
+                743
             ]
         },
         {
-            "text": "75ml",
+            "text": "CPCD",
             "id": 14,
             "bbox": [
-                357,
-                707,
-                386,
-                717
+                176,
+                721,
+                210,
+                743
             ]
         },
         {
-            "text": "Parfum",
+            "text": "OUD",
             "id": 15,
             "bbox": [
-                225,
-                723,
-                272,
-                733
+                221,
+                721,
+                246,
+                743
             ]
         },
         {
-            "text": "GWP",
+            "text": "ISPAHAN",
             "id": 16,
             "bbox": [
-                223,
-                743,
-                255,
-                752
+                259,
+                721,
+                317,
+                743
             ]
         },
         {
-            "text": "passport",
+            "text": "SPR",
             "id": 17,
             "bbox": [
-                261,
-                744,
-                321,
-                755
+                328,
+                721,
+                352,
+                743
             ]
         },
         {
-            "text": "holder",
+            "text": "250ML",
             "id": 18,
             "bbox": [
-                328,
-                742,
-                368,
-                755
+                363,
+                721,
+                406,
+                743
+            ]
+        },
+        {
+            "text": "INT12",
+            "id": 19,
+            "bbox": [
+                419,
+                721,
+                460,
+                743
+            ]
+        },
+        {
+            "text": "009111680226",
+            "id": 20,
+            "bbox": [
+                74,
+                691,
+                181,
+                713
+            ]
+        },
+        {
+            "text": "\u0628\u0627\u0631\u0641\u0627\u0646",
+            "id": 21,
+            "bbox": [
+                114,
+                753,
+                158,
+                775
+            ]
+        },
+        {
+            "text": "\u0639\u0637\u0631\u0627",
+            "id": 22,
+            "bbox": [
+                78,
+                753,
+                105,
+                774
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:52"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "009111680226"
+            ],
+            "value_id": [
+                20
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25",
+                "-",
+                "Jun",
+                "-",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,425.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0628\u0627\u0631\u0641\u0627\u0646",
+                "\u0639\u0637\u0631\u0627"
+            ],
+            "value_id": [
+                21,
+                22
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DELINA",
-                "EXCLUSIF",
-                "75ml",
-                "Parfum",
-                "GWP",
-                "passport",
-                "holder"
+                "F090928009",
+                ":",
+                "CPCD",
+                "OUD",
+                "ISPAHAN",
+                "SPR",
+                "250ML",
+                "INT12"
             ],
             "value_id": [
                 12,
@@ -202,11 +308,23 @@
                 15,
                 16,
                 17,
-                18
+                18,
+                19
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Dior"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
             "key_id": [],
             "key_value": [],
             "value_text": [
@@ -217,31 +335,14 @@
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "05/07/2020"
+                "1"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "P'ARFUMS",
-                "de",
-                "MARLY",
-                "ARIS"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4
+                10
             ]
         },
         {
@@ -249,36 +350,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AED1277.00"
+                "1,425.00"
             ],
             "value_id": [
                 8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "5:52",
-                "pm"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AED1277.00",
-                "AEDO.00"
-            ],
-            "value_id": [
-                9,
-                10
             ]
         }
     ],

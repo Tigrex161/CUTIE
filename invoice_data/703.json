@@ -1,161 +1,259 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdales",
+            "text": "MEMO",
             "id": 1,
             "bbox": [
-                167,
-                182,
-                543,
-                249
+                228,
+                13,
+                370,
+                55
             ]
         },
         {
-            "text": "DEII",
+            "text": "PAR18",
             "id": 2,
             "bbox": [
-                475,
-                237,
-                542,
-                246
+                268,
+                56,
+                331,
+                77
             ]
         },
         {
-            "text": "25-Jul-2020",
+            "text": "2020",
             "id": 3,
             "bbox": [
-                121,
-                438,
-                238,
-                458
+                194,
+                203,
+                221,
+                219
             ]
         },
         {
-            "text": "12:31:45",
+            "text": "-",
             "id": 4,
             "bbox": [
-                316,
-                442,
-                398,
-                459
+                188,
+                203,
+                191,
+                218
+            ]
+        },
+        {
+            "text": "\u0623\u0628\u0644",
+            "id": 5,
+            "bbox": [
+                166,
+                202,
+                183,
+                218
+            ]
+        },
+        {
+            "text": "-03",
+            "id": 6,
+            "bbox": [
+                144,
+                202,
+                163,
+                217
+            ]
+        },
+        {
+            "text": "10:08:13",
+            "id": 7,
+            "bbox": [
+                271,
+                204,
+                325,
+                221
             ]
         },
         {
             "text": "PM",
-            "id": 5,
-            "bbox": [
-                410,
-                442,
-                430,
-                458
-            ]
-        },
-        {
-            "text": "1,640.00",
-            "id": 6,
-            "bbox": [
-                469,
-                863,
-                554,
-                884
-            ]
-        },
-        {
-            "text": "1,640.00",
-            "id": 7,
-            "bbox": [
-                467,
-                671,
-                550,
-                690
-            ]
-        },
-        {
-            "text": "1",
             "id": 8,
             "bbox": [
-                358,
-                692,
-                365,
-                708
+                333,
+                205,
+                344,
+                220
             ]
         },
         {
-            "text": "OFF",
+            "text": "710.50",
             "id": 9,
             "bbox": [
-                119,
-                670,
-                149,
-                687
+                381,
+                486,
+                423,
+                500
             ]
         },
         {
-            "text": "SHOULDER",
+            "text": "710.50",
             "id": 10,
             "bbox": [
-                162,
-                670,
-                247,
-                687
-            ]
-        },
-        {
-            "text": "STRETCH",
-            "id": 11,
-            "bbox": [
-                260,
-                670,
-                334,
-                687
+                382,
+                374,
+                423,
+                388
             ]
         },
         {
             "text": "1",
-            "id": 12,
+            "id": 11,
             "bbox": [
-                544,
-                758,
-                550,
-                773
+                298,
+                386,
+                302,
+                399
             ]
         },
         {
-            "text": "213596097",
+            "text": "MEMO",
+            "id": 12,
+            "bbox": [
+                139,
+                370,
+                166,
+                384
+            ]
+        },
+        {
+            "text": "Kedu",
             "id": 13,
             "bbox": [
-                140,
-                692,
-                236,
-                708
+                176,
+                370,
+                203,
+                384
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 14,
+            "bbox": [
+                212,
+                370,
+                231,
+                384
+            ]
+        },
+        {
+            "text": "75ml",
+            "id": 15,
+            "bbox": [
+                241,
+                370,
+                266,
+                385
+            ]
+        },
+        {
+            "text": "21",
+            "id": 16,
+            "bbox": [
+                154,
+                384,
+                165,
+                400
+            ]
+        },
+        {
+            "text": "1982584",
+            "id": 17,
+            "bbox": [
+                169,
+                384,
+                217,
+                400
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10:08:13",
+                "PM"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "21",
+                "1982584"
+            ],
+            "value_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                "-",
+                "\u0623\u0628\u0644",
+                "-03"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "710.50"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "OFF",
-                "SHOULDER",
-                "STRETCH"
+                "MEMO",
+                "Kedu",
+                "EDP",
+                "75ml"
             ],
             "value_id": [
-                9,
-                10,
-                11
+                12,
+                13,
+                14,
+                15
             ]
         },
         {
-            "field_name": "total_items",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "MEMO",
+                "PAR18"
             ],
             "value_id": [
-                12
+                1,
+                2
             ]
         },
         {
@@ -166,31 +264,7 @@
                 "1"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "25-Jul-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "bloomingdales",
-                "DEII"
-            ],
-            "value_id": [
-                1,
-                2
+                11
             ]
         },
         {
@@ -198,45 +272,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,640.00"
+                "710.50"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "213596097"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:31:45",
-                "PM"
-            ],
-            "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,640.00"
-            ],
-            "value_id": [
-                7
+                9
             ]
         }
     ],

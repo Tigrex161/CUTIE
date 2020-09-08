@@ -1,219 +1,214 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "2020",
             "id": 1,
             "bbox": [
-                254,
-                219,
-                370,
-                255
+                469,
+                362,
+                495,
+                376
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": ",",
             "id": 2,
             "bbox": [
-                378,
-                226,
-                498,
-                252
+                456,
+                365,
+                459,
+                377
             ]
         },
         {
-            "text": "10/07/20",
+            "text": "1",
             "id": 3,
             "bbox": [
-                183,
-                579,
-                288,
-                601
+                451,
+                365,
+                454,
+                377
             ]
         },
         {
-            "text": "15:45",
+            "text": "\u0648\u0632",
             "id": 4,
             "bbox": [
-                305,
-                581,
-                368,
-                603
+                525,
+                359,
+                536,
+                373
             ]
         },
         {
-            "text": "375.00",
+            "text": ":",
             "id": 5,
             "bbox": [
-                553,
-                1154,
-                628,
-                1175
+                518,
+                361,
+                521,
+                373
             ]
         },
         {
-            "text": "250.00",
+            "text": "21",
             "id": 6,
             "bbox": [
-                564,
-                825,
-                643,
-                848
+                505,
+                362,
+                515,
+                374
             ]
         },
         {
-            "text": "250.00",
+            "text": "2,25.00",
             "id": 7,
             "bbox": [
-                561,
-                926,
-                638,
-                949
+                554,
+                602,
+                608,
+                615
             ]
         },
         {
             "text": "1",
             "id": 8,
             "bbox": [
-                98,
-                851,
-                102,
-                869
+                560,
+                512,
+                563,
+                525
             ]
         },
         {
-            "text": "Women's",
+            "text": "25.00",
             "id": 9,
             "bbox": [
-                83,
-                783,
-                176,
-                803
+                573,
+                509,
+                615,
+                525
             ]
         },
         {
-            "text": "Underwear",
+            "text": "1",
             "id": 10,
             "bbox": [
-                192,
-                784,
-                310,
-                805
+                396,
+                520,
+                399,
+                530
             ]
         },
         {
-            "text": "SHORT",
+            "text": "FENDI",
             "id": 11,
             "bbox": [
-                83,
-                816,
-                148,
-                837
+                84,
+                492,
+                119,
+                510
             ]
         },
         {
-            "text": "SKU",
+            "text": "WOMENS",
             "id": 12,
             "bbox": [
-                164,
-                818,
-                202,
-                837
+                124,
+                494,
+                169,
+                512
             ]
         },
         {
-            "text": "SET",
+            "text": "SHOES",
             "id": 13,
             "bbox": [
-                82,
-                918,
-                120,
-                937
+                175,
+                495,
+                209,
+                513
             ]
         },
         {
-            "text": "PLUNGE",
+            "text": "01171E10005580555125631",
             "id": 14,
             "bbox": [
-                136,
-                918,
-                214,
-                939
-            ]
-        },
-        {
-            "text": "SKU",
-            "id": 15,
-            "bbox": [
-                230,
-                920,
-                267,
-                939
-            ]
-        },
-        {
-            "text": "900976609",
-            "id": 16,
-            "bbox": [
-                151,
-                851,
-                268,
-                871
-            ]
-        },
-        {
-            "text": "900976607",
-            "id": 17,
-            "bbox": [
-                149,
-                952,
-                265,
-                972
-            ]
-        },
-        {
-            "text": "2",
-            "id": 18,
-            "bbox": [
-                622,
-                1027,
-                633,
-                1045
+                85,
+                518,
+                249,
+                537
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0648\u0632",
+                ":",
+                "21"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "01171E10005580555125631"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                ",",
+                "1"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "25.00"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Women's",
-                "Underwear",
-                "SHORT",
-                "SKU",
-                "SET",
-                "PLUNGE",
-                "SKU"
+                "FENDI",
+                "WOMENS",
+                "SHOES"
             ],
             "value_id": [
-                9,
-                10,
                 11,
                 12,
-                13,
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2"
-            ],
-            "value_id": [
-                18
+                13
             ]
         },
         {
@@ -224,31 +219,7 @@
                 "1"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10/07/20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
+                10
             ]
         },
         {
@@ -256,46 +227,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "375.00"
+                "2,25.00"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900976609",
-                "900976607"
-            ],
-            "value_id": [
-                16,
-                17
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15:45"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "250.00",
-                "250.00"
-            ],
-            "value_id": [
-                6,
                 7
             ]
         }

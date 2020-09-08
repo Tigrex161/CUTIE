@@ -4,203 +4,163 @@
             "text": "LOUIS",
             "id": 1,
             "bbox": [
-                317,
-                161,
+                321,
+                134,
                 358,
-                173
+                148
             ]
         },
         {
             "text": "VUITTON",
             "id": 2,
             "bbox": [
-                364,
-                161,
-                427,
-                173
+                365,
+                134,
+                423,
+                148
             ]
         },
         {
-            "text": "MALLETRA",
+            "text": "MALTA",
             "id": 3,
             "bbox": [
                 344,
-                172,
-                382,
-                182
+                149,
+                385,
+                157
             ]
         },
         {
-            "text": "AS",
+            "text": "WOONPRINT",
             "id": 4,
             "bbox": [
-                384,
-                173,
+                334,
+                175,
                 400,
-                182
+                185
             ]
         },
         {
-            "text": "MAISON",
+            "text": "10/07/2020",
             "id": 5,
             "bbox": [
-                328,
-                200,
-                355,
-                206
+                524,
+                348,
+                583,
+                359
             ]
         },
         {
-            "text": "FONOEE",
+            "text": "10:25",
             "id": 6,
             "bbox": [
-                358,
-                200,
-                383,
-                206
+                601,
+                348,
+                632,
+                359
             ]
         },
         {
-            "text": "EH",
+            "text": "1.980.00",
             "id": 7,
             "bbox": [
-                386,
-                201,
-                395,
-                207
+                656,
+                581,
+                701,
+                590
             ]
         },
         {
-            "text": "4",
+            "text": "1,900.00",
             "id": 8,
             "bbox": [
-                399,
-                201,
-                412,
-                206
+                657,
+                411,
+                703,
+                421
             ]
         },
         {
-            "text": "09/07/2020",
+            "text": "1",
             "id": 9,
             "bbox": [
-                519,
-                339,
-                579,
-                348
+                274,
+                409,
+                277,
+                417
             ]
         },
         {
-            "text": "16:26",
+            "text": "M61056",
             "id": 10,
             "bbox": [
-                605,
-                338,
-                629,
-                348
+                33,
+                404,
+                67,
+                420
             ]
         },
         {
-            "text": "3,150.00",
+            "text": "COLLIN",
             "id": 11,
             "bbox": [
-                656,
-                572,
-                703,
-                581
+                81,
+                404,
+                121,
+                420
             ]
         },
         {
-            "text": "3,150.00",
+            "text": "E",
             "id": 12,
             "bbox": [
-                656,
-                398,
-                703,
-                405
+                129,
+                404,
+                133,
+                420
             ]
         },
         {
-            "text": "1ABDAU",
+            "text": "MEA",
             "id": 13,
             "bbox": [
-                14,
-                398,
-                50,
-                406
+                140,
+                404,
+                163,
+                420
             ]
         },
         {
-            "text": "AJLH9ALKO2M380",
+            "text": "FASHION",
             "id": 14,
             "bbox": [
-                64,
-                398,
-                149,
-                404
+                33,
+                418,
+                74,
+                428
             ]
         },
         {
-            "text": "LOCK",
+            "text": "JEWELRY",
             "id": 15,
             "bbox": [
-                157,
-                398,
-                181,
-                404
-            ]
-        },
-        {
-            "text": "IT",
-            "id": 16,
-            "bbox": [
-                189,
-                398,
-                199,
-                404
-            ]
-        },
-        {
-            "text": "FLA",
-            "id": 17,
-            "bbox": [
-                207,
-                398,
-                224,
-                404
-            ]
-        },
-        {
-            "text": "SHOES",
-            "id": 18,
-            "bbox": [
-                13,
-                410,
-                43,
-                416
+                81,
+                418,
+                121,
+                428
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1ABDAU",
-                "AJLH9ALKO2M380",
-                "LOCK",
-                "IT",
-                "FLA",
-                "SHOES"
+                "10:25"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16,
-                17,
-                18
+                6
             ]
         },
         {
@@ -208,10 +168,42 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "09/07/2020"
+                "10/07/2020"
             ],
             "value_id": [
-                9
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,900.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "M61056",
+                "COLLIN",
+                "E",
+                "MEA",
+                "FASHION",
+                "JEWELRY"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
             ]
         },
         {
@@ -221,22 +213,25 @@
             "value_text": [
                 "LOUIS",
                 "VUITTON",
-                "MALLETRA",
-                "AS",
-                "MAISON",
-                "FONOEE",
-                "EH",
-                "4"
+                "MALTA",
+                "WOONPRINT"
             ],
             "value_id": [
                 1,
                 2,
                 3,
-                4,
-                5,
-                6,
-                7,
-                8
+                4
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
             ]
         },
         {
@@ -244,32 +239,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,150.00"
+                "1.980.00"
             ],
             "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:26"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "3,150.00"
-            ],
-            "value_id": [
-                12
+                7
             ]
         }
     ],

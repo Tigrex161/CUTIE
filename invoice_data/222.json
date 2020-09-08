@@ -1,168 +1,214 @@
 {
     "text_boxes": [
         {
-            "text": "LADUREE",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                284,
-                244,
-                435,
-                267
+                290,
+                144,
+                443,
+                212
             ]
         },
         {
-            "text": "08:55pm",
+            "text": "16",
             "id": 2,
             "bbox": [
-                136,
-                575,
-                210,
-                597
+                179,
+                279,
+                191,
+                292
             ]
         },
         {
-            "text": "179.00",
+            "text": "07",
             "id": 3,
             "bbox": [
-                453,
-                783,
-                578,
-                803
+                205,
+                280,
+                219,
+                293
             ]
         },
         {
-            "text": "179.00",
+            "text": "2020",
             "id": 4,
             "bbox": [
-                526,
-                656,
-                590,
-                674
+                232,
+                280,
+                265,
+                295
             ]
         },
         {
-            "text": "NapoleonGrn12m",
+            "text": "16:35",
             "id": 5,
             "bbox": [
-                179,
-                654,
-                328,
-                675
+                279,
+                282,
+                320,
+                296
             ]
         },
         {
-            "text": "\u0639\u0644\u0628\u0629",
+            "text": "138",
             "id": 6,
             "bbox": [
-                439,
-                686,
-                477,
-                701
+                473,
+                584,
+                497,
+                598
             ]
         },
         {
-            "text": "\u0646\u0627\u0628\u0644\u064a\u0648\u0646",
+            "text": "79",
             "id": 7,
             "bbox": [
-                351,
-                686,
-                424,
-                701
+                485,
+                377,
+                498,
+                391
             ]
         },
         {
-            "text": ")\u0623\u062e\u0636\u0631(",
+            "text": "59",
             "id": 8,
             "bbox": [
-                277,
-                682,
-                334,
-                699
+                482,
+                423,
+                497,
+                437
             ]
         },
         {
-            "text": "\u06f1\u06f2",
+            "text": "1",
             "id": 9,
             "bbox": [
-                241,
-                685,
-                257,
-                695
+                286,
+                371,
+                289,
+                384
             ]
         },
         {
-            "text": "\u0645\u0643\u0631\u0648\u0646",
+            "text": "1",
             "id": 10,
             "bbox": [
+                284,
+                416,
+                288,
+                429
+            ]
+        },
+        {
+            "text": "2012014999999",
+            "id": 11,
+            "bbox": [
+                266,
+                393,
+                381,
+                410
+            ]
+        },
+        {
+            "text": "PERFUME",
+            "id": 12,
+            "bbox": [
+                403,
+                397,
+                462,
+                413
+            ]
+        },
+        {
+            "text": "1352551009036",
+            "id": 13,
+            "bbox": [
+                266,
+                437,
+                380,
+                456
+            ]
+        },
+        {
+            "text": "FLAT",
+            "id": 14,
+            "bbox": [
+                402,
+                442,
+                434,
+                458
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 15,
+            "bbox": [
+                447,
+                444,
+                489,
+                459
+            ]
+        },
+        {
+            "text": "10001529",
+            "id": 16,
+            "bbox": [
+                175,
+                390,
+                244,
+                407
+            ]
+        },
+        {
+            "text": "10002559",
+            "id": 17,
+            "bbox": [
                 173,
-                685,
-                225,
-                700
+                436,
+                243,
+                452
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NapoleonGrn12m"
+                "16:35"
             ],
             "value_id": [
                 5
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u0639\u0644\u0628\u0629",
-                "\u0646\u0627\u0628\u0644\u064a\u0648\u0646",
-                ")\u0623\u062e\u0636\u0631(",
-                "\u06f1\u06f2",
-                "\u0645\u0643\u0631\u0648\u0646"
+                "10001529",
+                "10002559"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10
+                16,
+                17
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LADUREE"
+                "16",
+                "07",
+                "2020"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "179.00"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "08:55pm"
-            ],
-            "value_id": [
-                2
+                2,
+                3,
+                4
             ]
         },
         {
@@ -170,10 +216,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "179.00"
+                "79",
+                "59"
             ],
             "value_id": [
-                4
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2012014999999",
+                "PERFUME",
+                "1352551009036",
+                "FLAT",
+                "SHOES"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "138"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

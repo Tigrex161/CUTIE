@@ -1,140 +1,216 @@
 {
     "text_boxes": [
         {
-            "text": "FREDPERRY",
+            "text": "GRAND",
             "id": 1,
             "bbox": [
-                303,
-                494,
-                412,
-                518
+                305,
+                360,
+                366,
+                381
             ]
         },
         {
-            "text": "04/07/20",
+            "text": "UNITED",
             "id": 2,
             "bbox": [
-                205,
-                623,
-                303,
-                644
+                375,
+                358,
+                441,
+                379
             ]
         },
         {
-            "text": "7:49",
+            "text": "PHY",
             "id": 3,
             "bbox": [
-                331,
-                622,
-                378,
-                640
+                449,
+                357,
+                482,
+                377
             ]
         },
         {
-            "text": "239.00",
+            "text": "16/07/2020",
             "id": 4,
             "bbox": [
-                554,
-                945,
-                631,
-                965
+                336,
+                479,
+                405,
+                496
             ]
         },
         {
-            "text": "239",
+            "text": "17:03",
             "id": 5,
             "bbox": [
-                589,
-                814,
-                626,
-                835
+                416,
+                478,
+                448,
+                493
             ]
         },
         {
-            "text": "POLO",
+            "text": "1,280.00",
             "id": 6,
             "bbox": [
-                220,
-                822,
-                268,
-                843
+                404,
+                1023,
+                460,
+                1042
             ]
         },
         {
-            "text": "FPS",
+            "text": "1280.00",
             "id": 7,
             "bbox": [
-                283,
-                821,
-                318,
-                841
+                491,
+                808,
+                537,
+                822
             ]
         },
         {
-            "text": "\u0628\u0648\u0644\u0648",
+            "text": "0.00",
             "id": 8,
             "bbox": [
-                195,
-                852,
-                226,
-                870
+                513,
+                769,
+                535,
+                781
             ]
         },
         {
-            "text": "A038760",
+            "text": "1.00",
             "id": 9,
             "bbox": [
-                120,
-                823,
-                205,
-                845
+                421,
+                770,
+                442,
+                783
             ]
         },
         {
-            "text": "1",
+            "text": "5.00",
             "id": 10,
             "bbox": [
-                586,
-                1101,
-                594,
-                1120
+                421,
+                810,
+                443,
+                823
+            ]
+        },
+        {
+            "text": "CH",
+            "id": 11,
+            "bbox": [
+                287,
+                773,
+                298,
+                786
+            ]
+        },
+        {
+            "text": "-",
+            "id": 12,
+            "bbox": [
+                304,
+                773,
+                306,
+                786
+            ]
+        },
+        {
+            "text": "ALPHA",
+            "id": 13,
+            "bbox": [
+                308,
+                771,
+                344,
+                786
+            ]
+        },
+        {
+            "text": "VIALS",
+            "id": 14,
+            "bbox": [
+                349,
+                770,
+                381,
+                785
+            ]
+        },
+        {
+            "text": "30",
+            "id": 15,
+            "bbox": [
+                387,
+                770,
+                399,
+                784
+            ]
+        },
+        {
+            "text": "CH",
+            "id": 16,
+            "bbox": [
+                287,
+                813,
+                300,
+                827
+            ]
+        },
+        {
+            "text": "-",
+            "id": 17,
+            "bbox": [
+                305,
+                812,
+                307,
+                826
+            ]
+        },
+        {
+            "text": "ALPHA",
+            "id": 18,
+            "bbox": [
+                310,
+                811,
+                344,
+                827
+            ]
+        },
+        {
+            "text": "VIALS",
+            "id": 19,
+            "bbox": [
+                350,
+                810,
+                381,
+                826
+            ]
+        },
+        {
+            "text": "30",
+            "id": 20,
+            "bbox": [
+                388,
+                810,
+                400,
+                825
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "POLO",
-                "FPS"
+                "17:03"
             ],
             "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0628\u0648\u0644\u0648"
-            ],
-            "value_id": [
-                8
+                5
             ]
         },
         {
@@ -142,54 +218,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "04/07/20"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FREDPERRY"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "239.00"
+                "16/07/2020"
             ],
             "value_id": [
                 4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "A038760"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7:49"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -197,10 +229,80 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "239"
+                "1280.00",
+                "0.00"
             ],
             "value_id": [
-                5
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CH",
+                "-",
+                "ALPHA",
+                "VIALS",
+                "30",
+                "CH",
+                "-",
+                "ALPHA",
+                "VIALS",
+                "30"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GRAND",
+                "UNITED",
+                "PHY"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.00",
+                "5.00"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,280.00"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

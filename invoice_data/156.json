@@ -1,247 +1,178 @@
 {
     "text_boxes": [
         {
-            "text": "\u041dERMES",
+            "text": "FERINI",
             "id": 1,
             "bbox": [
-                126,
-                297,
-                266,
-                323
+                354,
+                250,
+                575,
+                296
             ]
         },
         {
-            "text": "07",
+            "text": "04/07/2020",
             "id": 2,
             "bbox": [
-                465,
-                373,
-                476,
-                382
-            ]
-        },
-        {
-            "text": "01",
-            "id": 3,
-            "bbox": [
-                480,
-                373,
-                490,
-                381
+                658,
+                464,
+                727,
+                482
             ]
         },
         {
             "text": "PM",
+            "id": 3,
+            "bbox": [
+                790,
+                464,
+                806,
+                482
+            ]
+        },
+        {
+            "text": "09:12:27",
             "id": 4,
             "bbox": [
-                496,
-                371,
-                511,
-                380
+                733,
+                464,
+                788,
+                482
             ]
         },
         {
-            "text": "17.790.00",
+            "text": "1.500.00",
             "id": 5,
             "bbox": [
-                518,
-                941,
-                567,
-                951
+                795,
+                983,
+                864,
+                1002
             ]
         },
         {
-            "text": "17.790.00",
+            "text": "1.500.00",
             "id": 6,
             "bbox": [
-                592,
-                566,
-                639,
-                575
+                788,
+                616,
+                849,
+                632
             ]
         },
         {
-            "text": "1.",
+            "text": "1",
             "id": 7,
             "bbox": [
-                542,
-                569,
-                543,
-                576
+                410,
+                621,
+                412,
+                633
             ]
         },
         {
-            "text": "WALLET",
+            "text": "R55435",
             "id": 8,
             "bbox": [
-                161,
-                568,
-                207,
-                582
+                128,
+                618,
+                184,
+                634
             ]
         },
         {
-            "text": "BAG",
+            "text": "\u0641\u0631\u0639",
             "id": 9,
             "bbox": [
-                211,
-                568,
-                234,
-                582
+                359,
+                617,
+                380,
+                633
             ]
         },
         {
-            "text": "KELLY",
+            "text": "\u0627\u0644\u0645\u0633\u064a\u0629",
             "id": 10,
             "bbox": [
-                239,
-                568,
-                274,
-                582
+                326,
+                617,
+                358,
+                633
             ]
         },
         {
-            "text": "CLASSIQUE",
+            "text": "RING",
             "id": 11,
             "bbox": [
-                276,
-                568,
-                337,
-                582
+                238,
+                638,
+                273,
+                652
             ]
         },
         {
-            "text": "TO",
+            "text": "DIAMOND",
             "id": 12,
             "bbox": [
-                340,
-                573,
-                351,
-                580
+                279,
+                638,
+                345,
+                653
             ]
         },
         {
-            "text": "GO",
+            "text": "WG",
             "id": 13,
             "bbox": [
-                356,
-                573,
-                378,
-                580
+                351,
+                640,
+                374,
+                653
             ]
         },
         {
-            "text": "E",
+            "text": "0-45-0.20CT",
             "id": 14,
             "bbox": [
-                380,
-                568,
-                384,
-                582
+                239,
+                660,
+                320,
+                676
             ]
         },
         {
-            "text": "SO",
+            "text": "18K",
             "id": 15,
             "bbox": [
-                389,
-                568,
-                407,
-                582
+                328,
+                660,
+                354,
+                676
             ]
         },
         {
-            "text": "A",
+            "text": "1.50GB",
             "id": 16,
             "bbox": [
-                409,
-                568,
-                414,
-                582
-            ]
-        },
-        {
-            "text": "GALIS",
-            "id": 17,
-            "bbox": [
-                418,
-                571,
-                443,
-                580
-            ]
-        },
-        {
-            "text": "HOB0253CC",
-            "id": 18,
-            "bbox": [
-                85,
-                568,
-                149,
-                582
+                362,
+                660,
+                407,
+                676
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WALLET",
-                "BAG",
-                "KELLY",
-                "CLASSIQUE",
-                "TO",
-                "GO",
-                "E",
-                "SO",
-                "A",
-                "GALIS"
+                "PM",
+                "09:12:27"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u041dERMES"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17.790.00"
-            ],
-            "value_id": [
-                5
+                3,
+                4
             ]
         },
         {
@@ -249,25 +180,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "HOB0253CC"
+                "R55435"
             ],
             "value_id": [
-                18
+                8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "07",
-                "01",
-                "PM"
+                "04/07/2020"
             ],
             "value_id": [
-                2,
-                3,
-                4
+                2
             ]
         },
         {
@@ -275,10 +202,77 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17.790.00"
+                "1.500.00"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0641\u0631\u0639",
+                "\u0627\u0644\u0645\u0633\u064a\u0629"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RING",
+                "DIAMOND",
+                "WG",
+                "0-45-0.20CT",
+                "18K",
+                "1.50GB"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FERINI"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.500.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

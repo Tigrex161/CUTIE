@@ -1,0 +1,171 @@
+{
+    "text_boxes": [
+        {
+            "text": "Dubai",
+            "id": 1,
+            "bbox": [
+                342,
+                182,
+                391,
+                210
+            ]
+        },
+        {
+            "text": "Ice",
+            "id": 2,
+            "bbox": [
+                405,
+                182,
+                433,
+                210
+            ]
+        },
+        {
+            "text": "Rink",
+            "id": 3,
+            "bbox": [
+                446,
+                182,
+                488,
+                210
+            ]
+        },
+        {
+            "text": "25/07/2020",
+            "id": 4,
+            "bbox": [
+                305,
+                381,
+                409,
+                412
+            ]
+        },
+        {
+            "text": "19:38",
+            "id": 5,
+            "bbox": [
+                442,
+                387,
+                492,
+                407
+            ]
+        },
+        {
+            "text": "190.0",
+            "id": 6,
+            "bbox": [
+                571,
+                608,
+                627,
+                627
+            ]
+        },
+        {
+            "text": "190.0",
+            "id": 7,
+            "bbox": [
+                576,
+                555,
+                628,
+                577
+            ]
+        },
+        {
+            "text": "Snowfall",
+            "id": 8,
+            "bbox": [
+                178,
+                545,
+                266,
+                572
+            ]
+        },
+        {
+            "text": "Ses",
+            "id": 9,
+            "bbox": [
+                277,
+                549,
+                307,
+                574
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:38"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25/07/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "190.0"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Snowfall",
+                "Ses"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Dubai",
+                "Ice",
+                "Rink"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "190.0"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1123.jpg"
+    }
+}

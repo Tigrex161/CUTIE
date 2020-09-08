@@ -1,0 +1,138 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZARA",
+            "id": 1,
+            "bbox": [
+                314,
+                103,
+                421,
+                143
+            ]
+        },
+        {
+            "text": "24-07-2020",
+            "id": 2,
+            "bbox": [
+                240,
+                187,
+                301,
+                200
+            ]
+        },
+        {
+            "text": "15:09",
+            "id": 3,
+            "bbox": [
+                312,
+                187,
+                341,
+                198
+            ]
+        },
+        {
+            "text": "1122851100937",
+            "id": 4,
+            "bbox": [
+                310,
+                255,
+                390,
+                272
+            ]
+        },
+        {
+            "text": "HEELED",
+            "id": 5,
+            "bbox": [
+                406,
+                253,
+                444,
+                268
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 6,
+            "bbox": [
+                451,
+                251,
+                482,
+                266
+            ]
+        },
+        {
+            "text": "10001410",
+            "id": 7,
+            "bbox": [
+                245,
+                262,
+                294,
+                272
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:09"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001410"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "24-07-2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1122851100937",
+                "HEELED",
+                "SHOES"
+            ],
+            "value_id": [
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1245.jpg"
+    }
+}

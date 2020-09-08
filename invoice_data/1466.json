@@ -1,0 +1,351 @@
+{
+    "text_boxes": [
+        {
+            "text": "CHANEL",
+            "id": 1,
+            "bbox": [
+                322,
+                278,
+                537,
+                335
+            ]
+        },
+        {
+            "text": "July",
+            "id": 2,
+            "bbox": [
+                443,
+                387,
+                463,
+                401
+            ]
+        },
+        {
+            "text": "29",
+            "id": 3,
+            "bbox": [
+                466,
+                385,
+                477,
+                400
+            ]
+        },
+        {
+            "text": ",",
+            "id": 4,
+            "bbox": [
+                479,
+                385,
+                482,
+                398
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 5,
+            "bbox": [
+                487,
+                382,
+                512,
+                398
+            ]
+        },
+        {
+            "text": "11:08",
+            "id": 6,
+            "bbox": [
+                520,
+                380,
+                551,
+                396
+            ]
+        },
+        {
+            "text": "LARGE",
+            "id": 7,
+            "bbox": [
+                155,
+                548,
+                192,
+                562
+            ]
+        },
+        {
+            "text": "SHOPPING",
+            "id": 8,
+            "bbox": [
+                197,
+                550,
+                261,
+                565
+            ]
+        },
+        {
+            "text": ">",
+            "id": 9,
+            "bbox": [
+                266,
+                553,
+                269,
+                565
+            ]
+        },
+        {
+            "text": "30CM",
+            "id": 10,
+            "bbox": [
+                276,
+                553,
+                305,
+                566
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                416,
+                559,
+                419,
+                569
+            ]
+        },
+        {
+            "text": "12,340.00",
+            "id": 12,
+            "bbox": [
+                630,
+                552,
+                684,
+                566
+            ]
+        },
+        {
+            "text": "\u062d\u0642\u064a\u0628\u0629",
+            "id": 13,
+            "bbox": [
+                226,
+                567,
+                244,
+                583
+            ]
+        },
+        {
+            "text": "\u0644\u0633\u0648\u0642",
+            "id": 14,
+            "bbox": [
+                203,
+                567,
+                224,
+                582
+            ]
+        },
+        {
+            "text": "\u0643\u0633\u0631\u062a",
+            "id": 15,
+            "bbox": [
+                181,
+                566,
+                201,
+                581
+            ]
+        },
+        {
+            "text": "30",
+            "id": 16,
+            "bbox": [
+                166,
+                565,
+                176,
+                579
+            ]
+        },
+        {
+            "text": "\u0633\u0645",
+            "id": 17,
+            "bbox": [
+                153,
+                565,
+                163,
+                579
+            ]
+        },
+        {
+            "text": "A66941",
+            "id": 18,
+            "bbox": [
+                154,
+                578,
+                193,
+                593
+            ]
+        },
+        {
+            "text": "B03434N7374",
+            "id": 19,
+            "bbox": [
+                196,
+                580,
+                270,
+                597
+            ]
+        },
+        {
+            "text": "12,340.00",
+            "id": 20,
+            "bbox": [
+                555,
+                725,
+                612,
+                739
+            ]
+        },
+        {
+            "text": "1",
+            "id": 21,
+            "bbox": [
+                414,
+                611,
+                418,
+                621
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:08"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A66941",
+                "B03434N7374"
+            ],
+            "value_id": [
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "29",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12,340.00"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062d\u0642\u064a\u0628\u0629",
+                "\u0644\u0633\u0648\u0642",
+                "\u0643\u0633\u0631\u062a",
+                "30",
+                "\u0633\u0645"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LARGE",
+                "SHOPPING",
+                ">",
+                "30CM"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                21
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12,340.00"
+            ],
+            "value_id": [
+                20
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1466.jpg"
+    }
+}

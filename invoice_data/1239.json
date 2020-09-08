@@ -1,0 +1,216 @@
+{
+    "text_boxes": [
+        {
+            "text": "COCOPARIS",
+            "id": 1,
+            "bbox": [
+                188,
+                264,
+                511,
+                307
+            ]
+        },
+        {
+            "text": "2020/07/20",
+            "id": 2,
+            "bbox": [
+                263,
+                620,
+                412,
+                651
+            ]
+        },
+        {
+            "text": "07:50:03",
+            "id": 3,
+            "bbox": [
+                422,
+                621,
+                532,
+                650
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 4,
+            "bbox": [
+                544,
+                621,
+                578,
+                650
+            ]
+        },
+        {
+            "text": "275.00",
+            "id": 5,
+            "bbox": [
+                568,
+                889,
+                662,
+                919
+            ]
+        },
+        {
+            "text": "AED",
+            "id": 6,
+            "bbox": [
+                514,
+                836,
+                563,
+                870
+            ]
+        },
+        {
+            "text": "275.00",
+            "id": 7,
+            "bbox": [
+                575,
+                836,
+                661,
+                870
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                58,
+                836,
+                67,
+                870
+            ]
+        },
+        {
+            "text": "Limited",
+            "id": 9,
+            "bbox": [
+                93,
+                836,
+                189,
+                870
+            ]
+        },
+        {
+            "text": "COCOPARIS",
+            "id": 10,
+            "bbox": [
+                200,
+                836,
+                341,
+                870
+            ]
+        },
+        {
+            "text": "Teddy",
+            "id": 11,
+            "bbox": [
+                352,
+                836,
+                427,
+                870
+            ]
+        },
+        {
+            "text": "Bear",
+            "id": 12,
+            "bbox": [
+                440,
+                836,
+                494,
+                870
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07:50:03",
+                "PM"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020/07/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED",
+                "275.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Limited",
+                "COCOPARIS",
+                "Teddy",
+                "Bear"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "COCOPARIS"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "275.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1239.jpg"
+    }
+}

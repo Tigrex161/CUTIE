@@ -1,215 +1,128 @@
 {
     "text_boxes": [
         {
-            "text": "MICHAEL",
+            "text": "JACKWOLFSKIN",
             "id": 1,
             "bbox": [
-                277,
-                112,
-                399,
-                149
+                274,
+                149,
+                497,
+                181
             ]
         },
         {
-            "text": "KORS",
+            "text": "7/10/2020",
             "id": 2,
             "bbox": [
-                404,
-                132,
-                477,
-                158
+                349,
+                50,
+                428,
+                71
             ]
         },
         {
-            "text": "DUBAI",
+            "text": "11:34:01",
             "id": 3,
             "bbox": [
-                269,
-                142,
-                294,
-                154
+                436,
+                52,
+                504,
+                72
             ]
         },
         {
-            "text": "-",
+            "text": "AM",
             "id": 4,
             "bbox": [
-                301,
-                152,
-                303,
-                153
+                515,
+                54,
+                539,
+                72
             ]
         },
         {
-            "text": "URE",
+            "text": "1688.00",
             "id": 5,
             "bbox": [
-                309,
-                150,
-                324,
-                161
+                546,
+                756,
+                613,
+                775
             ]
         },
         {
-            "text": "11-Jul-2020",
+            "text": "1688.00",
             "id": 6,
             "bbox": [
-                334,
-                276,
-                391,
-                291
+                553,
+                549,
+                619,
+                568
             ]
         },
         {
-            "text": "15:29",
+            "text": "1",
             "id": 7,
             "bbox": [
-                396,
-                282,
-                421,
-                294
+                431,
+                555,
+                435,
+                568
             ]
         },
         {
-            "text": "183.00",
+            "text": "OSAKA",
             "id": 8,
             "bbox": [
-                455,
-                651,
-                482,
-                660
+                144,
+                577,
+                192,
+                594
             ]
         },
         {
-            "text": "183.00",
+            "text": "PARKAM",
             "id": 9,
             "bbox": [
-                480,
-                534,
-                509,
-                547
+                198,
+                578,
+                263,
+                595
             ]
         },
         {
-            "text": "40F90OMPIL-001",
+            "text": "1",
             "id": 10,
             "bbox": [
-                230,
-                489,
-                300,
-                502
+                143,
+                615,
+                149,
+                635
             ]
         },
         {
-            "text": ":",
+            "text": "1111991-2221",
             "id": 11,
             "bbox": [
-                301,
-                490,
-                305,
-                502
-            ]
-        },
-        {
-            "text": "MKS.001:8.5:0OROTHY",
-            "id": 12,
-            "bbox": [
-                306,
-                490,
-                402,
-                507
-            ]
-        },
-        {
-            "text": "FLEX",
-            "id": 13,
-            "bbox": [
-                408,
-                497,
-                427,
-                509
-            ]
-        },
-        {
-            "text": "PUMP",
-            "id": 14,
-            "bbox": [
-                433,
-                499,
-                451,
-                510
-            ]
-        },
-        {
-            "text": "023324740760",
-            "id": 15,
-            "bbox": [
-                229,
-                470,
-                292,
-                485
+                138,
+                549,
+                251,
+                568
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "40F90OMPIL-001",
-                ":",
-                "MKS.001:8.5:0OROTHY",
-                "FLEX",
-                "PUMP"
+                "11:34:01",
+                "AM"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11-Jul-2020"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MICHAEL",
-                "KORS",
-                "DUBAI",
-                "-",
-                "URE"
-            ],
-            "value_id": [
-                1,
-                2,
                 3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "183.00"
-            ],
-            "value_id": [
-                8
+                4
             ]
         },
         {
@@ -217,21 +130,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "023324740760"
+                "1111991-2221"
             ],
             "value_id": [
-                15
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15:29"
+                "7/10/2020"
             ],
             "value_id": [
-                7
+                2
             ]
         },
         {
@@ -239,10 +152,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "183.00"
+                "1688.00"
             ],
             "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "OSAKA",
+                "PARKAM"
+            ],
+            "value_id": [
+                8,
                 9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "JACKWOLFSKIN"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1688.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

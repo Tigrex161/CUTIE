@@ -1,157 +1,136 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                303,
-                209,
-                359,
-                220
+                377,
+                321,
+                536,
+                389
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "23/07/2020",
             "id": 2,
             "bbox": [
-                368,
-                204,
-                431,
-                216
+                113,
+                579,
+                165,
+                597
             ]
         },
         {
-            "text": "27/07/20",
+            "text": "16:41",
             "id": 3,
             "bbox": [
-                272,
-                368,
-                327,
-                381
+                175,
+                584,
+                197,
+                599
             ]
         },
         {
-            "text": "990.00",
+            "text": "4.400.00",
             "id": 4,
             "bbox": [
-                499,
-                551,
-                546,
-                564
+                664,
+                757,
+                699,
+                768
             ]
         },
         {
-            "text": "990.00",
+            "text": "4.190.48",
             "id": 5,
             "bbox": [
-                494,
-                477,
-                540,
-                492
+                689,
+                698,
+                725,
+                710
             ]
         },
         {
-            "text": "Luxurious",
+            "text": "1",
             "id": 6,
             "bbox": [
-                214,
-                474,
-                282,
-                481
+                430,
+                688,
+                431,
+                696
             ]
         },
         {
-            "text": "Accessory",
+            "text": "1",
             "id": 7,
             "bbox": [
-                292,
-                474,
-                360,
-                482
+                430,
+                719,
+                431,
+                727
             ]
         },
         {
-            "text": "FENDI",
+            "text": "Customewelery",
             "id": 8,
             "bbox": [
-                245,
-                491,
-                282,
-                498
+                263,
+                679,
+                345,
+                695
             ]
         },
         {
-            "text": "SKU",
+            "text": "NI",
             "id": 9,
             "bbox": [
-                293,
-                491,
-                314,
-                497
+                106,
+                669,
+                117,
+                682
             ]
         },
         {
-            "text": "900077447",
+            "text": "198",
             "id": 10,
             "bbox": [
-                253,
-                505,
-                322,
-                515
+                120,
+                669,
+                135,
+                683
+            ]
+        },
+        {
+            "text": "MTG",
+            "id": 11,
+            "bbox": [
+                137,
+                670,
+                159,
+                683
+            ]
+        },
+        {
+            "text": "MT",
+            "id": 12,
+            "bbox": [
+                160,
+                671,
+                175,
+                685
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Luxurious",
-                "Accessory",
-                "FENDI",
-                "SKU"
-            ],
-            "value_id": [
-                6,
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "27/07/20"
+                "16:41"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "990.00"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -159,10 +138,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900077447"
+                "NI",
+                "198",
+                "MTG",
+                "MT"
             ],
             "value_id": [
-                10
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23/07/2020"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -170,10 +166,65 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "990.00"
+                "4.190.48"
             ],
             "value_id": [
                 5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Customewelery"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4.400.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

@@ -1,192 +1,187 @@
 {
     "text_boxes": [
         {
-            "text": "Off-White'",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                342,
-                292,
-                471,
-                327
+                343,
+                255,
+                381,
+                271
             ]
         },
         {
-            "text": "2:53:",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                430,
-                467,
-                470,
-                481
+                386,
+                251,
+                443,
+                269
             ]
         },
         {
-            "text": "44",
+            "text": "MEAN",
             "id": 3,
             "bbox": [
-                477,
-                467,
-                492,
-                479
+                365,
+                265,
+                419,
+                277
             ]
         },
         {
-            "text": "PM",
+            "text": "BONGO",
             "id": 4,
             "bbox": [
-                503,
-                466,
-                519,
-                478
+                368,
+                289,
+                399,
+                301
             ]
         },
         {
-            "text": "1,176.00",
+            "text": "12/07/2020",
             "id": 5,
             "bbox": [
-                450,
-                823,
-                562,
-                846
+                546,
+                442,
+                606,
+                457
             ]
         },
         {
-            "text": ",176.",
+            "text": "10:12",
             "id": 6,
             "bbox": [
-                564,
-                622,
-                599,
-                636
+                625,
+                440,
+                655,
+                453
             ]
         },
         {
-            "text": "FLAMED",
+            "text": "7,100.00",
             "id": 7,
             "bbox": [
-                434,
-                559,
-                487,
-                573
+                680,
+                498,
+                727,
+                511
             ]
         },
         {
-            "text": "BART",
+            "text": "1",
             "id": 8,
             "bbox": [
-                501,
-                560,
-                534,
-                572
+                300,
+                514,
+                303,
+                522
             ]
         },
         {
-            "text": "DB",
+            "text": "M44813",
             "id": 9,
             "bbox": [
-                433,
-                582,
-                450,
-                593
+                59,
+                519,
+                93,
+                532
             ]
         },
         {
-            "text": "SLEEVE",
+            "text": "MULTI",
             "id": 10,
             "bbox": [
-                462,
-                581,
-                516,
-                595
+                107,
+                517,
+                135,
+                530
             ]
         },
         {
-            "text": "HOODIE",
+            "text": "PO.ACC.MNG",
             "id": 11,
             "bbox": [
-                433,
-                601,
-                487,
-                616
+                143,
+                515,
+                201,
+                529
             ]
         },
         {
-            "text": "OMBFI\u00d848519D250350188L",
+            "text": "VUN",
             "id": 12,
             "bbox": [
-                220,
-                581,
-                414,
-                597
+                208,
+                514,
+                225,
+                526
+            ]
+        },
+        {
+            "text": "KAKI",
+            "id": 13,
+            "bbox": [
+                232,
+                513,
+                254,
+                526
+            ]
+        },
+        {
+            "text": "DAILY",
+            "id": 14,
+            "bbox": [
+                60,
+                532,
+                89,
+                543
+            ]
+        },
+        {
+            "text": "BAGS",
+            "id": 15,
+            "bbox": [
+                95,
+                530,
+                118,
+                541
+            ]
+        },
+        {
+            "text": "1,100.00",
+            "id": 16,
+            "bbox": [
+                694,
+                645,
+                742,
+                657
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FLAMED",
-                "BART",
-                "DB",
-                "SLEEVE",
-                "HOODIE"
-            ],
-            "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Off-White'"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,176.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "OMBFI\u00d848519D250350188L"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
             "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2:53:",
-                "44",
-                "PM"
+                "10:12"
             ],
             "value_id": [
-                2,
-                3,
-                4
+                6
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12/07/2020"
+            ],
+            "value_id": [
+                5
             ]
         },
         {
@@ -194,10 +189,72 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                ",176."
+                "7,100.00"
             ],
             "value_id": [
-                6
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "M44813",
+                "MULTI",
+                "PO.ACC.MNG",
+                "VUN",
+                "KAKI",
+                "DAILY",
+                "BAGS"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON",
+                "MEAN",
+                "BONGO"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,100.00"
+            ],
+            "value_id": [
+                16
             ]
         }
     ],

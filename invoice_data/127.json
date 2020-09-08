@@ -1,108 +1,211 @@
 {
     "text_boxes": [
         {
-            "text": "ZARA",
+            "text": "2020",
             "id": 1,
             "bbox": [
-                372,
-                69,
-                457,
-                117
+                448,
+                225,
+                474,
+                240
             ]
         },
         {
-            "text": "13-07-2020",
+            "text": ",",
             "id": 2,
             "bbox": [
-                261,
-                284,
-                323,
-                291
+                440,
+                227,
+                444,
+                240
             ]
         },
         {
-            "text": "13:46",
+            "text": "yll",
             "id": 3,
             "bbox": [
-                333,
-                284,
-                363,
-                292
+                413,
+                226,
+                440,
+                241
             ]
         },
         {
-            "text": "199",
+            "text": "\u0627\u0644",
             "id": 4,
             "bbox": [
-                477,
-                468,
-                494,
-                477
+                397,
+                227,
+                419,
+                241
             ]
         },
         {
-            "text": "199",
+            "text": "23:42",
             "id": 5,
             "bbox": [
-                478,
-                352,
-                494,
-                360
+                484,
+                224,
+                516,
+                238
+            ]
+        },
+        {
+            "text": "3,790.00",
+            "id": 6,
+            "bbox": [
+                549,
+                560,
+                607,
+                575
+            ]
+        },
+        {
+            "text": "3790.00",
+            "id": 7,
+            "bbox": [
+                620,
+                390,
+                671,
+                405
             ]
         },
         {
             "text": "1",
-            "id": 6,
-            "bbox": [
-                338,
-                349,
-                341,
-                357
-            ]
-        },
-        {
-            "text": "1386451020238",
-            "id": 7,
-            "bbox": [
-                325,
-                365,
-                408,
-                374
-            ]
-        },
-        {
-            "text": "VANP/PINKY",
             "id": 8,
             "bbox": [
-                424,
-                366,
-                487,
-                376
+                373,
+                403,
+                376,
+                412
             ]
         },
         {
-            "text": "10001757",
+            "text": "1",
             "id": 9,
             "bbox": [
-                258,
-                364,
-                308,
-                374
+                374,
+                441,
+                378,
+                452
+            ]
+        },
+        {
+            "text": "O",
+            "id": 10,
+            "bbox": [
+                77,
+                391,
+                82,
+                405
+            ]
+        },
+        {
+            "text": "-",
+            "id": 11,
+            "bbox": [
+                91,
+                392,
+                93,
+                406
+            ]
+        },
+        {
+            "text": "CASE",
+            "id": 12,
+            "bbox": [
+                94,
+                392,
+                128,
+                410
+            ]
+        },
+        {
+            "text": "A32725802395C229",
+            "id": 13,
+            "bbox": [
+                76,
+                409,
+                208,
+                430
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23:42"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A32725802395C229"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                ",",
+                "yll",
+                "\u0627\u0644"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3790.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1386451020238",
-                "VANP/PINKY"
+                "O",
+                "-",
+                "CASE"
             ],
             "value_id": [
-                7,
-                8
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
             ]
         },
         {
@@ -113,29 +216,7 @@
                 "1"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13-07-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZARA"
-            ],
-            "value_id": [
-                1
+                8
             ]
         },
         {
@@ -143,43 +224,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "199"
+                "3,790.00"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10001757"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:46"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "199"
-            ],
-            "value_id": [
-                5
+                6
             ]
         }
     ],

@@ -1,269 +1,106 @@
 {
     "text_boxes": [
         {
-            "text": "KID'S",
+            "text": "Perfetto",
             "id": 1,
             "bbox": [
-                377,
-                361,
-                462,
-                393
-            ]
-        },
-        {
-            "text": "pizzle",
-            "id": 2,
-            "bbox": [
-                377,
-                384,
-                463,
-                412
-            ]
-        },
-        {
-            "text": "TO/07/2020",
-            "id": 3,
-            "bbox": [
-                584,
-                471,
-                647,
-                485
-            ]
-        },
-        {
-            "text": "05",
-            "id": 4,
-            "bbox": [
-                652,
-                471,
-                665,
-                484
-            ]
-        },
-        {
-            "text": "35:2UPM",
-            "id": 5,
-            "bbox": [
-                671,
-                470,
-                721,
-                484
-            ]
-        },
-        {
-            "text": "273.00",
-            "id": 6,
-            "bbox": [
-                687,
-                563,
-                732,
-                576
-            ]
-        },
-        {
-            "text": "413.00",
-            "id": 7,
-            "bbox": [
-                693,
-                635,
-                734,
-                647
-            ]
-        },
-        {
-            "text": "KPO086104",
-            "id": 8,
-            "bbox": [
-                138,
-                573,
-                212,
-                586
-            ]
-        },
-        {
-            "text": "KPOOBB095",
-            "id": 9,
-            "bbox": [
-                144,
-                642,
-                210,
-                660
-            ]
-        },
-        {
-            "text": "TOP",
-            "id": 10,
-            "bbox": [
-                234,
-                573,
-                260,
-                586
-            ]
-        },
-        {
-            "text": "Moschino",
-            "id": 11,
-            "bbox": [
-                265,
-                576,
-                319,
-                586
-            ]
-        },
-        {
-            "text": "MBM02B-",
-            "id": 12,
-            "bbox": [
-                235,
-                588,
-                295,
+                815,
+                197,
+                1533,
                 602
             ]
         },
         {
-            "text": "18/24",
-            "id": 13,
+            "text": "7/3/202",
+            "id": 2,
             "bbox": [
-                301,
-                591,
-                330,
-                601
+                1640,
+                1313,
+                1868,
+                1398
             ]
         },
         {
-            "text": "-",
-            "id": 14,
+            "text": "18:36",
+            "id": 3,
             "bbox": [
-                338,
-                588,
-                344,
-                601
+                1643,
+                1386,
+                1795,
+                1479
             ]
         },
         {
-            "text": "WHITE",
-            "id": 15,
+            "text": "70.00",
+            "id": 4,
             "bbox": [
-                344,
-                589,
-                384,
-                599
+                2323,
+                2308,
+                2499,
+                2386
             ]
         },
         {
-            "text": "86",
-            "id": 16,
+            "text": "100",
+            "id": 5,
             "bbox": [
-                389,
-                590,
-                402,
-                599
+                2390,
+                2105,
+                2488,
+                2167
             ]
         },
         {
-            "text": "HAMORV-6.",
-            "id": 17,
+            "text": "6754530",
+            "id": 6,
             "bbox": [
-                237,
-                658,
-                313,
-                673
+                706,
+                1881,
+                946,
+                1971
             ]
         },
         {
-            "text": "WHITE",
-            "id": 18,
+            "text": "Napoli",
+            "id": 7,
             "bbox": [
-                319,
-                658,
-                362,
-                673
+                1048,
+                1881,
+                1264,
+                1971
             ]
         },
         {
-            "text": "86",
-            "id": 19,
+            "text": "Ispazione",
+            "id": 8,
             "bbox": [
-                364,
-                657,
-                378,
-                672
+                1311,
+                1881,
+                1661,
+                1971
             ]
         },
         {
-            "text": "686",
-            "id": 20,
+            "text": "100",
+            "id": 9,
             "bbox": [
-                717,
-                897,
-                748,
-                910
+                1775,
+                1881,
+                1852,
+                1971
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TOP",
-                "Moschino",
-                "MBM02B-",
-                "18/24",
-                "-",
-                "WHITE",
-                "86",
-                "HAMORV-6.",
-                "WHITE",
-                "86"
-            ],
-            "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "TO/07/2020"
+                "18:36"
             ],
             "value_id": [
                 3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "KID'S",
-                "pizzle"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "686"
-            ],
-            "value_id": [
-                20
             ]
         },
         {
@@ -271,38 +108,78 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "KPO086104",
-                "KPOOBB095"
+                "6754530"
             ],
             "value_id": [
-                8,
-                9
+                6
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "05",
-                "35:2UPM"
+                "7/3/202"
             ],
             "value_id": [
-                4,
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Napoli",
+                "Ispazione"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Perfetto"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "100"
+            ],
+            "value_id": [
                 5
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "273.00",
-                "413.00"
+                "100"
             ],
             "value_id": [
-                6,
-                7
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "70.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

@@ -1,229 +1,209 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "\u0627\u0644\u0649",
             "id": 1,
             "bbox": [
                 355,
-                227,
-                399,
-                241
+                63,
+                396,
+                89
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "JAEGER",
             "id": 2,
             "bbox": [
-                406,
-                228,
-                474,
-                243
+                278,
+                85,
+                353,
+                111
             ]
         },
         {
-            "text": "MALTEAS",
+            "text": "-",
             "id": 3,
             "bbox": [
-                384,
-                245,
-                444,
-                253
+                356,
+                87,
+                362,
+                111
             ]
         },
         {
-            "text": "MASON",
+            "text": "LECOULTRE",
             "id": 4,
             "bbox": [
-                369,
-                278,
-                398,
-                287
+                365,
+                86,
+                472,
+                113
             ]
         },
         {
-            "text": "FONCE",
+            "text": "15/7/2021",
             "id": 5,
             "bbox": [
-                401,
-                278,
-                426,
-                288
+                75,
+                638,
+                121,
+                650
             ]
         },
         {
-            "text": "N",
+            "text": "16:30:46",
             "id": 6,
             "bbox": [
-                430,
-                280,
-                445,
-                287
+                126,
+                638,
+                162,
+                650
             ]
         },
         {
-            "text": "13/07/2020",
+            "text": "\u0648",
             "id": 7,
             "bbox": [
-                583,
-                486,
-                649,
-                495
+                697,
+                484,
+                700,
+                492
             ]
         },
         {
-            "text": "12154",
+            "text": "12,700,0",
             "id": 8,
             "bbox": [
-                676,
+                664,
                 484,
-                704,
-                496
+                692,
+                492
             ]
         },
         {
-            "text": "1,180.00",
+            "text": "23.",
             "id": 9,
             "bbox": [
-                726,
-                749,
-                776,
-                757
+                663,
+                442,
+                673,
+                449
             ]
         },
         {
-            "text": "1,",
+            "text": "70",
             "id": 10,
             "bbox": [
-                729,
-                555,
-                745,
-                566
+                675,
+                442,
+                686,
+                449
             ]
         },
         {
-            "text": "180.00",
+            "text": "60",
             "id": 11,
             "bbox": [
-                745,
-                557,
-                783,
-                566
+                688,
+                442,
+                698,
+                449
             ]
         },
         {
-            "text": "1.",
+            "text": "RIVERSO",
             "id": 12,
             "bbox": [
-                301,
-                552,
-                304,
-                559
+                104,
+                428,
+                132,
+                438
             ]
         },
         {
-            "text": "LPOO",
+            "text": "CLASSIC",
             "id": 13,
             "bbox": [
-                23,
-                545,
-                57,
-                557
+                135,
+                428,
+                160,
+                438
             ]
         },
         {
-            "text": "ATTIAPE",
+            "text": "LAAGE",
             "id": 14,
             "bbox": [
-                80,
-                549,
-                127,
-                557
+                163,
+                428,
+                183,
+                438
             ]
         },
         {
-            "text": "REVES",
+            "text": "SMALL",
             "id": 15,
             "bbox": [
-                134,
-                549,
-                168,
-                559
+                185,
+                428,
+                206,
+                438
             ]
         },
         {
-            "text": "100ML",
+            "text": "SECOND",
             "id": 16,
             "bbox": [
-                177,
-                549,
-                210,
-                559
+                209,
+                428,
+                235,
+                438
             ]
         },
         {
-            "text": "EDP",
+            "text": "03",
             "id": 17,
             "bbox": [
-                217,
-                551,
-                237,
-                559
+                145,
+                437,
+                156,
+                447
             ]
         },
         {
-            "text": "PERFUME",
+            "text": "A58520",
             "id": 18,
             "bbox": [
-                26,
-                560,
-                73,
-                569
-            ]
-        },
-        {
-            "text": "(STOCK)",
-            "id": 19,
-            "bbox": [
-                83,
-                562,
-                125,
-                571
+                157,
+                437,
+                187,
+                447
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LPOO",
-                "ATTIAPE",
-                "REVES",
-                "100ML",
-                "EDP",
-                "PERFUME",
-                "(STOCK)"
+                "16:30:46"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16,
-                17,
-                18,
-                19
+                6
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1."
+                "03",
+                "A58520"
             ],
             "value_id": [
-                12
+                17,
+                18
             ]
         },
         {
@@ -231,53 +211,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13/07/2020"
+                "15/7/2021"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MALTEAS",
-                "MASON",
-                "FONCE",
-                "N"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,180.00"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12154"
-            ],
-            "value_id": [
-                8
+                5
             ]
         },
         {
@@ -285,12 +222,63 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,",
-                "180.00"
+                "23.",
+                "70",
+                "60"
             ],
             "value_id": [
+                9,
                 10,
                 11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RIVERSO",
+                "CLASSIC",
+                "LAAGE",
+                "SMALL",
+                "SECOND"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0644\u0649",
+                "JAEGER",
+                "-",
+                "LECOULTRE"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0648",
+                "12,700,0"
+            ],
+            "value_id": [
+                7,
+                8
             ]
         }
     ],

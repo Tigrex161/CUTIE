@@ -1,167 +1,156 @@
 {
     "text_boxes": [
         {
-            "text": "TOD'S",
+            "text": "Cartier",
             "id": 1,
             "bbox": [
-                320,
-                35,
-                392,
-                62
+                357,
+                351,
+                468,
+                392
             ]
         },
         {
-            "text": "10.",
+            "text": "13/07/2030",
             "id": 2,
             "bbox": [
-                432,
-                331,
-                444,
-                340
+                150,
+                839,
+                194,
+                850
             ]
         },
         {
-            "text": "July",
+            "text": "12:41:01",
             "id": 3,
             "bbox": [
-                445,
-                331,
-                457,
-                339
+                199,
+                838,
+                229,
+                850
             ]
         },
         {
-            "text": "2020",
+            "text": "Halo",
             "id": 4,
             "bbox": [
-                461,
-                330,
-                477,
-                338
+                693,
+                695,
+                713,
+                702
             ]
         },
         {
-            "text": "93440",
+            "text": "1",
             "id": 5,
             "bbox": [
-                482,
-                330,
-                508,
-                339
+                381,
+                658,
+                382,
+                664
             ]
         },
         {
-            "text": "1,353.00",
+            "text": "4",
             "id": 6,
             "bbox": [
-                602,
-                482,
-                633,
-                488
+                379,
+                699,
+                380,
+                705
             ]
         },
         {
-            "text": "1,353.00",
+            "text": "SANTOS",
             "id": 7,
             "bbox": [
-                608,
-                385,
-                636,
-                391
+                170,
+                642,
+                193,
+                650
             ]
         },
         {
-            "text": "TD",
+            "text": "DE",
             "id": 8,
             "bbox": [
-                318,
-                386,
-                327,
-                392
+                196,
+                642,
+                202,
+                650
             ]
         },
         {
-            "text": "MEN",
+            "text": "CARTIER",
             "id": 9,
             "bbox": [
-                330,
-                386,
-                346,
-                392
+                206,
+                642,
+                228,
+                650
             ]
         },
         {
-            "text": "SHOES",
+            "text": "STEL",
             "id": 10,
             "bbox": [
-                350,
-                386,
-                374,
-                392
+                242,
+                642,
+                257,
+                650
             ]
         },
         {
-            "text": "XRMOEOOCO90038",
+            "text": "GOLDEN",
             "id": 11,
             "bbox": [
-                112,
-                385,
-                181,
-                392
+                260,
+                642,
+                288,
+                650
+            ]
+        },
+        {
+            "text": "STS0",
+            "id": 12,
+            "bbox": [
+                212,
+                651,
+                230,
+                661
+            ]
+        },
+        {
+            "text": ":",
+            "id": 13,
+            "bbox": [
+                233,
+                650,
+                235,
+                660
+            ]
+        },
+        {
+            "text": "02",
+            "id": 14,
+            "bbox": [
+                238,
+                650,
+                246,
+                660
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TD",
-                "MEN",
-                "SHOES"
+                "12:41:01"
             ],
             "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10.",
-                "July",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "TOD'S"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,353.00"
-            ],
-            "value_id": [
-                6
+                3
             ]
         },
         {
@@ -169,32 +158,88 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "XRMOEOOCO90038"
+                "STS0",
+                ":",
+                "02"
             ],
             "value_id": [
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13/07/2030"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SANTOS",
+                "DE",
+                "CARTIER",
+                "STEL",
+                "GOLDEN"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
                 11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "93440"
+                "Cartier"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 5
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,353.00"
+                "Halo"
             ],
             "value_id": [
-                7
+                4
             ]
         }
     ],

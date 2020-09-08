@@ -1,128 +1,202 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "GIVENCHY",
             "id": 1,
             "bbox": [
-                465,
-                376,
-                487,
-                386
+                231,
+                261,
+                419,
+                310
             ]
         },
         {
-            "text": "2020",
+            "text": "07",
             "id": 2,
             "bbox": [
-                497,
-                376,
-                521,
-                384
+                322,
+                441,
+                330,
+                451
             ]
         },
         {
-            "text": "18:21",
+            "text": "/",
             "id": 3,
             "bbox": [
-                530,
-                374,
-                559,
-                384
+                333,
+                441,
+                334,
+                451
             ]
         },
         {
-            "text": "210.00",
+            "text": "D2020",
             "id": 4,
             "bbox": [
-                585,
-                589,
-                623,
-                599
+                332,
+                439,
+                369,
+                451
             ]
         },
         {
-            "text": "210.00",
+            "text": "735.00",
             "id": 5,
             "bbox": [
-                588,
-                511,
-                624,
-                520
+                574,
+                970,
+                604,
+                988
             ]
         },
         {
-            "text": "S03051002600020X100H-X6:SHZ.X6:40:",
+            "text": "1",
             "id": 6,
             "bbox": [
-                142,
-                494,
-                347,
-                507
+                584,
+                887,
+                587,
+                895
             ]
         },
         {
-            "text": "EDUARD",
+            "text": "35",
             "id": 7,
             "bbox": [
-                349,
-                494,
-                385,
-                505
+                701,
+                608,
+                717,
+                619
             ]
         },
         {
-            "text": "IA",
+            "text": "0",
             "id": 8,
             "bbox": [
-                387,
-                494,
-                397,
-                505
+                720,
+                608,
+                731,
+                619
             ]
         },
         {
-            "text": "y",
+            "text": "1",
             "id": 9,
             "bbox": [
-                505,
-                493,
-                515,
-                504
+                644,
+                612,
+                645,
+                621
             ]
         },
         {
-            "text": "Jie",
+            "text": "SMALL",
             "id": 10,
             "bbox": [
-                517,
-                496,
-                540,
-                501
+                324,
+                601,
+                349,
+                612
             ]
         },
         {
-            "text": "054824801528",
+            "text": "LEATHER",
             "id": 11,
             "bbox": [
-                134,
-                516,
-                207,
-                524
+                352,
+                600,
+                388,
+                611
+            ]
+        },
+        {
+            "text": "GOODS",
+            "id": 12,
+            "bbox": [
+                392,
+                599,
+                421,
+                610
+            ]
+        },
+        {
+            "text": "\u0647\u0627",
+            "id": 13,
+            "bbox": [
+                385,
+                616,
+                398,
+                625
+            ]
+        },
+        {
+            "text": "\u0628\u0635\u0641\u0629",
+            "id": 14,
+            "bbox": [
+                366,
+                616,
+                382,
+                626
+            ]
+        },
+        {
+            "text": "\u0642\u0648\u064a\u0629",
+            "id": 15,
+            "bbox": [
+                349,
+                617,
+                363,
+                626
+            ]
+        },
+        {
+            "text": "BB608TBOLK",
+            "id": 16,
+            "bbox": [
+                131,
+                624,
+                188,
+                635
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "S03051002600020X100H-X6:SHZ.X6:40:",
-                "EDUARD",
-                "IA"
+                "BB608TBOLK"
             ],
             "value_id": [
-                6,
+                16
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07",
+                "/",
+                "D2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "35",
+                "0"
+            ],
+            "value_id": [
                 7,
                 8
             ]
@@ -132,25 +206,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "y",
-                "Jie"
+                "\u0647\u0627",
+                "\u0628\u0635\u0641\u0629",
+                "\u0642\u0648\u064a\u0629"
             ],
             "value_id": [
-                9,
-                10
+                13,
+                14,
+                15
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "SMALL",
+                "LEATHER",
+                "GOODS"
             ],
             "value_id": [
-                1,
-                2
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GIVENCHY"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
             ]
         },
         {
@@ -158,40 +269,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "210.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "054824801528"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18:21"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "210.00"
+                "735.00"
             ],
             "value_id": [
                 5

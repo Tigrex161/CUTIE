@@ -1,134 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                507,
-                490,
-                534,
-                503
+                292,
+                345,
+                435,
+                393
             ]
         },
         {
-            "text": "2020",
+            "text": "32207/2020",
             "id": 2,
             "bbox": [
-                547,
-                486,
-                577,
-                499
+                80,
+                586,
+                123,
+                600
             ]
         },
         {
-            "text": "18:19",
+            "text": "2129",
             "id": 3,
             "bbox": [
-                587,
-                483,
-                624,
-                495
+                131,
+                583,
+                152,
+                596
             ]
         },
         {
-            "text": "1,440.00",
+            "text": "3.700.00",
             "id": 4,
             "bbox": [
-                653,
-                749,
-                719,
-                762
+                585,
+                682,
+                620,
+                694
             ]
         },
         {
-            "text": "1,440.00",
+            "text": "3.825.81",
             "id": 5,
             "bbox": [
-                653,
-                652,
-                715,
-                664
+                606,
+                629,
+                640,
+                642
             ]
         },
         {
-            "text": "02c226-725287:SFO.",
+            "text": "1",
             "id": 6,
             "bbox": [
-                126,
-                660,
-                253,
-                677
+                366,
+                647,
+                369,
+                656
             ]
         },
         {
-            "text": "725287:90:",
+            "text": "Women",
             "id": 7,
             "bbox": [
-                258,
-                656,
-                326,
+                223,
+                655,
+                253,
                 668
             ]
         },
         {
-            "text": "SWAN",
+            "text": "Shoes",
             "id": 8,
             "bbox": [
-                330,
+                256,
                 654,
-                358,
-                663
+                279,
+                665
             ]
         },
         {
-            "text": "028524788597",
+            "text": "1",
             "id": 9,
             "bbox": [
-                122,
-                683,
-                208,
-                697
+                368,
+                674,
+                370,
+                681
+            ]
+        },
+        {
+            "text": "KCCUOITEL",
+            "id": 10,
+            "bbox": [
+                86,
+                663,
+                132,
+                676
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02c226-725287:SFO.",
-                "725287:90:",
-                "SWAN"
+                "2129"
             ],
             "value_id": [
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,440.00"
-            ],
-            "value_id": [
-                4
+                3
             ]
         },
         {
@@ -136,21 +118,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "028524788597"
+                "KCCUOITEL"
             ],
             "value_id": [
-                9
+                10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18:19"
+                "32207/2020"
             ],
             "value_id": [
-                3
+                2
             ]
         },
         {
@@ -158,10 +140,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,440.00"
+                "3.825.81"
             ],
             "value_id": [
                 5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Women",
+                "Shoes"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3.700.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

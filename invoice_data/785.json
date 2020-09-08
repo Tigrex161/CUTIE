@@ -1,200 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "Dior",
+            "text": "APPAREL",
             "id": 1,
             "bbox": [
-                309,
-                350,
-                474,
-                390
+                402,
+                259,
+                448,
+                276
             ]
         },
         {
-            "text": "URE",
+            "text": "GROUP",
             "id": 2,
             "bbox": [
-                444,
-                392,
-                459,
-                403
+                456,
+                257,
+                490,
+                274
             ]
         },
         {
-            "text": "27-Jul-2020",
+            "text": "Crocs",
             "id": 3,
             "bbox": [
-                329,
-                533,
-                393,
-                549
+                429,
+                275,
+                463,
+                292
             ]
         },
         {
-            "text": "22:17",
+            "text": "18/7/20",
             "id": 4,
             "bbox": [
-                399,
-                532,
-                428,
-                544
+                471,
+                411,
+                516,
+                430
             ]
         },
         {
-            "text": "247.00",
+            "text": "20:09",
             "id": 5,
             "bbox": [
-                504,
-                838,
-                542,
-                850
+                523,
+                408,
+                557,
+                427
             ]
         },
         {
-            "text": "247.00",
+            "text": "119.00",
             "id": 6,
             "bbox": [
-                522,
-                760,
-                557,
-                767
+                368,
+                922,
+                406,
+                937
             ]
         },
         {
-            "text": "Foooao7o00",
+            "text": "119.00",
             "id": 7,
             "bbox": [
-                227,
-                726,
-                287,
-                740
+                499,
+                805,
+                537,
+                821
             ]
         },
         {
-            "text": "MD",
+            "text": "Preschool",
             "id": 8,
             "bbox": [
-                294,
-                727,
-                303,
-                739
+                296,
+                769,
+                355,
+                788
             ]
         },
         {
-            "text": "BOny",
+            "text": "Classic",
             "id": 9,
             "bbox": [
-                309,
-                731,
-                332,
-                739
+                364,
+                770,
+                409,
+                789
             ]
         },
         {
-            "text": "MILK",
+            "text": "Sport",
             "id": 10,
             "bbox": [
-                338,
-                730,
-                360,
-                739
+                417,
+                772,
+                449,
+                790
             ]
         },
         {
-            "text": "BTL",
+            "text": "Ball",
             "id": 11,
             "bbox": [
-                367,
-                729,
-                383,
-                738
+                457,
+                772,
+                483,
+                790
             ]
         },
         {
-            "text": "200ML",
+            "text": "Clog",
             "id": 12,
             "bbox": [
-                391,
-                728,
-                419,
-                738
+                489,
+                773,
+                518,
+                790
             ]
         },
         {
-            "text": "INT17",
+            "text": "1914446466654",
             "id": 13,
             "bbox": [
-                427,
-                725,
-                453,
-                738
+                297,
+                786,
+                375,
+                805
             ]
         },
         {
-            "text": "009113552493",
+            "text": "103948619",
             "id": 14,
             "bbox": [
-                230,
-                714,
-                298,
-                726
+                296,
+                802,
+                354,
+                821
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Foooao7o00",
-                "MD",
-                "BOny",
-                "MILK",
-                "BTL",
-                "200ML",
-                "INT17"
-            ],
-            "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "27-Jul-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Dior",
-                "URE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "247.00"
+                "20:09"
             ],
             "value_id": [
                 5
@@ -205,18 +158,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "009113552493"
+                "103948619"
             ],
             "value_id": [
                 14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "22:17"
+                "18/7/20"
             ],
             "value_id": [
                 4
@@ -227,7 +180,54 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "247.00"
+                "119.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Preschool",
+                "Classic",
+                "Sport",
+                "Ball",
+                "Clog",
+                "1914446466654"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "APPAREL",
+                "GROUP",
+                "Crocs"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "119.00"
             ],
             "value_id": [
                 6

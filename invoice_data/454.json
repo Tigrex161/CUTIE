@@ -1,156 +1,106 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "Enaar",
             "id": 1,
             "bbox": [
-                311,
-                126,
-                383,
-                143
+                322,
+                163,
+                358,
+                181
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "Gift",
             "id": 2,
             "bbox": [
-                394,
-                129,
-                475,
-                144
+                368,
+                162,
+                397,
+                180
             ]
         },
         {
-            "text": "05/07/20",
+            "text": "Card",
             "id": 3,
             "bbox": [
-                263,
-                357,
-                337,
-                372
+                407,
+                161,
+                436,
+                179
             ]
         },
         {
-            "text": "13:01",
+            "text": "03/07/2020",
             "id": 4,
             "bbox": [
-                349,
-                359,
-                390,
-                373
+                224,
+                369,
+                302,
+                390
             ]
         },
         {
-            "text": "142.80",
+            "text": "18:10:34",
             "id": 5,
             "bbox": [
-                539,
-                692,
-                592,
-                706
+                431,
+                363,
+                493,
+                385
             ]
         },
         {
-            "text": "168.00",
+            "text": "365.00AED",
             "id": 6,
             "bbox": [
-                537,
-                525,
-                589,
-                538
+                522,
+                644,
+                596,
+                664
             ]
         },
         {
-            "text": "900882457",
+            "text": "350.00AED",
             "id": 7,
             "bbox": [
-                244,
-                547,
-                327,
-                562
+                439,
+                481,
+                510,
+                501
             ]
         },
         {
-            "text": "Beauty",
+            "text": "Gift",
             "id": 8,
             "bbox": [
-                196,
-                498,
-                252,
-                514
+                155,
+                487,
+                185,
+                503
             ]
         },
         {
-            "text": "DSKIN",
+            "text": "Card",
             "id": 9,
             "bbox": [
                 195,
-                522,
-                242,
-                536
-            ]
-        },
-        {
-            "text": "RG",
-            "id": 10,
-            "bbox": [
-                253,
-                523,
-                271,
-                536
-            ]
-        },
-        {
-            "text": "A",
-            "id": 11,
-            "bbox": [
-                282,
-                524,
-                290,
-                536
-            ]
-        },
-        {
-            "text": "SUN",
-            "id": 12,
-            "bbox": [
-                301,
-                524,
-                328,
-                537
-            ]
-        },
-        {
-            "text": "SENSI",
-            "id": 13,
-            "bbox": [
-                339,
-                524,
-                383,
-                539
+                487,
+                226,
+                503
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Beauty",
-                "DSKIN",
-                "RG",
-                "A",
-                "SUN",
-                "SENSI"
+                "18:10:34"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
+                5
             ]
         },
         {
@@ -158,53 +108,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "05/07/20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "142.80"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900882457"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:01"
+                "03/07/2020"
             ],
             "value_id": [
                 4
@@ -215,7 +119,46 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "168.00"
+                "350.00AED"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Gift",
+                "Card"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Enaar",
+                "Gift",
+                "Card"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "365.00AED"
             ],
             "value_id": [
                 6

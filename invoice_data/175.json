@@ -1,168 +1,197 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "BOSS",
             "id": 1,
             "bbox": [
-                389,
-                27,
-                429,
-                39
+                330,
+                139,
+                476,
+                180
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "HUGO",
             "id": 2,
             "bbox": [
-                435,
-                27,
-                495,
-                39
+                331,
+                181,
+                392,
+                192
             ]
         },
         {
-            "text": "MIOBABRE",
+            "text": "BOSS",
             "id": 3,
             "bbox": [
-                411,
-                40,
-                469,
-                47
+                413,
+                176,
+                474,
+                191
             ]
         },
         {
-            "text": "13/07/2020",
+            "text": "03.07",
             "id": 4,
             "bbox": [
-                587,
-                244,
-                650,
-                257
+                401,
+                378,
+                438,
+                393
             ]
         },
         {
-            "text": "11:s",
+            "text": "20",
             "id": 5,
             "bbox": [
-                671,
-                248,
-                702,
-                258
+                448,
+                378,
+                461,
+                391
             ]
         },
         {
-            "text": "1,180.00",
+            "text": "11:25",
             "id": 6,
             "bbox": [
-                718,
-                517,
-                768,
-                527
+                402,
+                396,
+                439,
+                411
             ]
         },
         {
-            "text": "1,180.00",
+            "text": "280.00",
             "id": 7,
             "bbox": [
-                725,
-                313,
-                773,
-                324
+                461,
+                844,
+                509,
+                861
             ]
         },
         {
-            "text": "LND",
+            "text": "280.00",
             "id": 8,
             "bbox": [
-                73,
-                285,
-                102,
-                296
+                511,
+                571,
+                559,
+                590
             ]
         },
         {
-            "text": "OUNRAD",
+            "text": "1",
             "id": 9,
             "bbox": [
-                121,
-                286,
-                162,
-                293
+                360,
+                575,
+                361,
+                587
             ]
         },
         {
-            "text": "MONDE",
+            "text": "4043198070567",
             "id": 10,
             "bbox": [
-                168,
-                286,
-                198,
-                293
+                225,
+                570,
+                326,
+                589
             ]
         },
         {
-            "text": "10OML",
+            "text": "Tuna",
             "id": 11,
             "bbox": [
-                206,
-                287,
-                237,
-                294
+                224,
+                611,
+                254,
+                628
             ]
         },
         {
-            "text": "ED",
+            "text": "10224638",
             "id": 12,
             "bbox": [
-                243,
-                288,
-                262,
-                295
+                264,
+                611,
+                326,
+                629
             ]
         },
         {
-            "text": "PERFUE",
+            "text": "01.",
             "id": 13,
             "bbox": [
-                74,
-                297,
-                114,
-                306
+                335,
+                613,
+                355,
+                629
             ]
         },
         {
-            "text": "LTOCK)",
+            "text": "00",
             "id": 14,
             "bbox": [
-                122,
-                296,
-                159,
-                306
+                367,
+                613,
+                380,
+                629
+            ]
+        },
+        {
+            "text": ",",
+            "id": 15,
+            "bbox": [
+                385,
+                613,
+                387,
+                629
+            ]
+        },
+        {
+            "text": "413.",
+            "id": 16,
+            "bbox": [
+                399,
+                614,
+                427,
+                630
+            ]
+        },
+        {
+            "text": "XL",
+            "id": 17,
+            "bbox": [
+                439,
+                614,
+                453,
+                631
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LND",
-                "OUNRAD",
-                "MONDE",
-                "10OML",
-                "ED",
-                "PERFUE",
-                "LTOCK)"
+                "11:25"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4043198070567"
+            ],
+            "value_id": [
+                10
             ]
         },
         {
@@ -170,46 +199,11 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "13/07/2020"
+                "03.07",
+                "20"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MIOBABRE"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,180.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:s"
-            ],
-            "value_id": [
+                4,
                 5
             ]
         },
@@ -218,7 +212,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,180.00"
+                "280.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Tuna",
+                "10224638",
+                "01.",
+                "00",
+                ",",
+                "413.",
+                "XL"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BOSS",
+                "HUGO",
+                "BOSS"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "280.00"
             ],
             "value_id": [
                 7

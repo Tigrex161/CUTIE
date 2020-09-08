@@ -1,181 +1,238 @@
 {
     "text_boxes": [
         {
-            "text": "OPTIFASHION",
+            "text": "HERM\u00c8S",
             "id": 1,
             "bbox": [
-                231,
-                249,
-                378,
-                278
+                190,
+                309,
+                319,
+                335
             ]
         },
         {
-            "text": "THE",
+            "text": "7222020",
             "id": 2,
             "bbox": [
-                227,
-                276,
-                256,
-                293
+                507,
+                351,
+                559,
+                362
             ]
         },
         {
-            "text": "EYEWEAR",
+            "text": "04:55",
             "id": 3,
             "bbox": [
-                260,
-                278,
-                312,
-                288
+                508,
+                369,
+                533,
+                384
             ]
         },
         {
-            "text": "ROUTIQUE",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                323,
-                275,
-                378,
-                285
+                537,
+                369,
+                551,
+                384
             ]
         },
         {
-            "text": "23/07/2020",
+            "text": "615.00",
             "id": 5,
             "bbox": [
-                357,
-                346,
-                405,
-                356
+                556,
+                895,
+                588,
+                906
             ]
         },
         {
-            "text": "1.500,00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                658,
-                535,
-                697,
-                543
+                590,
+                838,
+                592,
+                845
             ]
         },
         {
-            "text": "1.500.00",
+            "text": "51500",
             "id": 7,
             "bbox": [
-                681,
-                452,
-                719,
-                462
+                644,
+                551,
+                675,
+                563
             ]
         },
         {
-            "text": "SMON",
+            "text": "1",
             "id": 8,
             "bbox": [
-                369,
-                461,
-                398,
-                470
+                583,
+                556,
+                584,
+                564
             ]
         },
         {
-            "text": "719",
+            "text": "Eau",
             "id": 9,
             "bbox": [
-                403,
-                462,
-                417,
-                468
+                213,
+                557,
+                231,
+                570
             ]
         },
         {
-            "text": "52J",
+            "text": "des",
             "id": 10,
             "bbox": [
-                421,
-                461,
-                436,
-                469
+                234,
+                557,
+                250,
+                570
             ]
         },
         {
-            "text": "se",
+            "text": "Merveilles",
             "id": 11,
             "bbox": [
-                440,
-                461,
-                450,
-                468
+                254,
+                557,
+                300,
+                570
             ]
         },
         {
-            "text": "664689934577",
+            "text": "Eau",
             "id": 12,
             "bbox": [
-                120,
-                465,
-                180,
-                477
+                305,
+                557,
+                322,
+                570
+            ]
+        },
+        {
+            "text": "de",
+            "id": 13,
+            "bbox": [
+                326,
+                557,
+                336,
+                570
+            ]
+        },
+        {
+            "text": "Toilette",
+            "id": 14,
+            "bbox": [
+                338,
+                557,
+                373,
+                571
+            ]
+        },
+        {
+            "text": "Coff",
+            "id": 15,
+            "bbox": [
+                377,
+                558,
+                395,
+                571
+            ]
+        },
+        {
+            "text": "100ml",
+            "id": 16,
+            "bbox": [
+                400,
+                558,
+                428,
+                571
+            ]
+        },
+        {
+            "text": "+",
+            "id": 17,
+            "bbox": [
+                428,
+                558,
+                430,
+                571
+            ]
+        },
+        {
+            "text": "LaitC",
+            "id": 18,
+            "bbox": [
+                432,
+                558,
+                455,
+                571
+            ]
+        },
+        {
+            "text": "80ml",
+            "id": 19,
+            "bbox": [
+                459,
+                558,
+                481,
+                571
+            ]
+        },
+        {
+            "text": "10197",
+            "id": 20,
+            "bbox": [
+                213,
+                567,
+                260,
+                578
+            ]
+        },
+        {
+            "text": "10194",
+            "id": 21,
+            "bbox": [
+                148,
+                554,
+                175,
+                566
+            ]
+        },
+        {
+            "text": "TWO",
+            "id": 22,
+            "bbox": [
+                179,
+                556,
+                196,
+                567
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SMON",
-                "719",
-                "52J",
-                "se"
+                "04:55",
+                "PM"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "23/07/2020"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "OPTIFASHION",
-                "THE",
-                "EYEWEAR",
-                "ROUTIQUE"
-            ],
-            "value_id": [
-                1,
-                2,
                 3,
                 4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.500,00"
-            ],
-            "value_id": [
-                6
             ]
         },
         {
@@ -183,10 +240,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "664689934577"
+                "10194",
+                "TWO"
             ],
             "value_id": [
-                12
+                21,
+                22
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7222020"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -194,10 +264,87 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.500.00"
+                "51500"
             ],
             "value_id": [
                 7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Eau",
+                "des",
+                "Merveilles",
+                "Eau",
+                "de",
+                "Toilette",
+                "Coff",
+                "100ml",
+                "+",
+                "LaitC",
+                "80ml",
+                "10197"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "HERM\u00c8S"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "615.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

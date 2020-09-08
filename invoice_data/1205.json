@@ -1,0 +1,297 @@
+{
+    "text_boxes": [
+        {
+            "text": "ANGELINA",
+            "id": 1,
+            "bbox": [
+                277,
+                147,
+                453,
+                196
+            ]
+        },
+        {
+            "text": "07/27/20",
+            "id": 2,
+            "bbox": [
+                305,
+                611,
+                389,
+                639
+            ]
+        },
+        {
+            "text": "7:40",
+            "id": 3,
+            "bbox": [
+                551,
+                605,
+                596,
+                630
+            ]
+        },
+        {
+            "text": "74.00",
+            "id": 4,
+            "bbox": [
+                510,
+                856,
+                565,
+                884
+            ]
+        },
+        {
+            "text": "52.00",
+            "id": 5,
+            "bbox": [
+                510,
+                886,
+                565,
+                913
+            ]
+        },
+        {
+            "text": "2",
+            "id": 6,
+            "bbox": [
+                182,
+                860,
+                192,
+                887
+            ]
+        },
+        {
+            "text": "Pistachio",
+            "id": 7,
+            "bbox": [
+                149,
+                886,
+                247,
+                916
+            ]
+        },
+        {
+            "text": "Cheesecake",
+            "id": 8,
+            "bbox": [
+                261,
+                885,
+                370,
+                915
+            ]
+        },
+        {
+            "text": "Cafe",
+            "id": 9,
+            "bbox": [
+                149,
+                833,
+                191,
+                858
+            ]
+        },
+        {
+            "text": "Latte",
+            "id": 10,
+            "bbox": [
+                206,
+                831,
+                259,
+                858
+            ]
+        },
+        {
+            "text": "126,00",
+            "id": 11,
+            "bbox": [
+                502,
+                971,
+                567,
+                999
+            ]
+        },
+        {
+            "text": "Cafe",
+            "id": 12,
+            "bbox": [
+                149,
+                833,
+                191,
+                858
+            ]
+        },
+        {
+            "text": "Latte",
+            "id": 13,
+            "bbox": [
+                206,
+                831,
+                259,
+                858
+            ]
+        },
+        {
+            "text": "\u0647\u064a\u062a",
+            "id": 14,
+            "bbox": [
+                241,
+                806,
+                272,
+                831
+            ]
+        },
+        {
+            "text": "\u0622\u0644",
+            "id": 15,
+            "bbox": [
+                220,
+                806,
+                235,
+                831
+            ]
+        },
+        {
+            "text": "\u0647\u064a",
+            "id": 16,
+            "bbox": [
+                188,
+                806,
+                202,
+                831
+            ]
+        },
+        {
+            "text": "\u0641",
+            "id": 17,
+            "bbox": [
+                178,
+                806,
+                184,
+                831
+            ]
+        },
+        {
+            "text": "\u0627\u0644",
+            "id": 18,
+            "bbox": [
+                152,
+                806,
+                168,
+                831
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7:40"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/27/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "74.00",
+                "52.00"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0647\u064a\u062a",
+                "\u0622\u0644",
+                "\u0647\u064a",
+                "\u0641",
+                "\u0627\u0644"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Pistachio",
+                "Cheesecake",
+                "Cafe",
+                "Latte",
+                "Cafe",
+                "Latte"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ANGELINA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "126,00"
+            ],
+            "value_id": [
+                11
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1205.jpg"
+    }
+}

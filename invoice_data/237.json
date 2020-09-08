@@ -1,94 +1,274 @@
 {
     "text_boxes": [
         {
-            "text": "Mamimo",
+            "text": "Salsa",
             "id": 1,
             "bbox": [
-                275,
-                209,
-                350,
-                227
+                270,
+                190,
+                332,
+                208
             ]
         },
         {
-            "text": "Dutti",
+            "text": "Jeans",
             "id": 2,
             "bbox": [
-                357,
-                212,
-                399,
-                229
+                348,
+                188,
+                409,
+                206
             ]
         },
         {
-            "text": "12-07-2020",
+            "text": "Dubai",
             "id": 3,
             "bbox": [
-                236,
-                325,
-                283,
-                334
+                424,
+                187,
+                486,
+                205
             ]
         },
         {
-            "text": "14:44",
+            "text": "Mall",
             "id": 4,
             "bbox": [
-                290,
-                327,
-                312,
-                334
+                501,
+                185,
+                551,
+                203
             ]
         },
         {
-            "text": "S59",
+            "text": "04/07/2020",
             "id": 5,
             "bbox": [
-                398,
-                388,
-                410,
-                394
+                357,
+                1276,
+                497,
+                1301
             ]
         },
         {
-            "text": "0484212423103",
+            "text": "1:08:40",
             "id": 6,
             "bbox": [
-                285,
-                398,
-                347,
-                406
+                591,
+                1272,
+                681,
+                1295
             ]
         },
         {
-            "text": "DRESS",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                359,
-                400,
-                381,
-                406
+                685,
+                1271,
+                710,
+                1292
             ]
         },
         {
-            "text": "1000115S",
+            "text": "274.00",
             "id": 8,
             "bbox": [
-                236,
-                398,
-                273,
-                406
+                600,
+                817,
+                670,
+                833
+            ]
+        },
+        {
+            "text": "149.0",
+            "id": 9,
+            "bbox": [
+                607,
+                626,
+                653,
+                643
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                600,
+                556,
+                600,
+                570
+            ]
+        },
+        {
+            "text": ":",
+            "id": 11,
+            "bbox": [
+                603,
+                556,
+                610,
+                570
+            ]
+        },
+        {
+            "text": "25.0",
+            "id": 12,
+            "bbox": [
+                613,
+                555,
+                648,
+                571
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                305,
+                561,
+                310,
+                571
+            ]
+        },
+        {
+            "text": "1",
+            "id": 14,
+            "bbox": [
+                306,
+                634,
+                310,
+                644
+            ]
+        },
+        {
+            "text": "2",
+            "id": 15,
+            "bbox": [
+                319,
+                689,
+                325,
+                700
+            ]
+        },
+        {
+            "text": "Undershirt",
+            "id": 16,
+            "bbox": [
+                367,
+                530,
+                474,
+                552
+            ]
+        },
+        {
+            "text": "/",
+            "id": 17,
+            "bbox": [
+                489,
+                531,
+                494,
+                551
+            ]
+        },
+        {
+            "text": "Undershirt",
+            "id": 18,
+            "bbox": [
+                366,
+                605,
+                477,
+                624
+            ]
+        },
+        {
+            "text": "/",
+            "id": 19,
+            "bbox": [
+                489,
+                605,
+                494,
+                624
+            ]
+        },
+        {
+            "text": "Vest",
+            "id": 20,
+            "bbox": [
+                512,
+                605,
+                555,
+                624
+            ]
+        },
+        {
+            "text": "/",
+            "id": 21,
+            "bbox": [
+                559,
+                605,
+                563,
+                624
+            ]
+        },
+        {
+            "text": "5609807301711",
+            "id": 22,
+            "bbox": [
+                183,
+                533,
+                315,
+                550
+            ]
+        },
+        {
+            "text": "560980742343",
+            "id": 23,
+            "bbox": [
+                183,
+                607,
+                316,
+                624
+            ]
+        },
+        {
+            "text": "Vestibils",
+            "id": 24,
+            "bbox": [
+                508,
+                529,
+                615,
+                551
+            ]
+        },
+        {
+            "text": "S",
+            "id": 25,
+            "bbox": [
+                617,
+                605,
+                621,
+                624
+            ]
+        },
+        {
+            "text": "4",
+            "id": 26,
+            "bbox": [
+                634,
+                605,
+                655,
+                624
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0484212423103",
-                "DRESS"
+                "1:08:40",
+                "PM"
             ],
             "value_id": [
                 6,
@@ -96,49 +276,27 @@
             ]
         },
         {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12-07-2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Mamimo",
-                "Dutti"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
             "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1000115S"
+                "5609807301711",
+                "560980742343"
             ],
             "value_id": [
-                8
+                22,
+                23
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14:44"
+                "04/07/2020"
             ],
             "value_id": [
-                4
+                5
             ]
         },
         {
@@ -146,10 +304,104 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "S59"
+                "149.0",
+                "1",
+                ":",
+                "25.0"
             ],
             "value_id": [
-                5
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Vestibils",
+                "S",
+                "4"
+            ],
+            "value_id": [
+                24,
+                25,
+                26
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Undershirt",
+                "/",
+                "Undershirt",
+                "/",
+                "Vest",
+                "/"
+            ],
+            "value_id": [
+                16,
+                17,
+                18,
+                19,
+                20,
+                21
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Salsa",
+                "Jeans",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "274.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

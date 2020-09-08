@@ -1,116 +1,257 @@
 {
     "text_boxes": [
         {
-            "text": "FREDPERRY",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                331,
-                394,
-                417,
-                410
+                293,
+                169,
+                367,
+                192
             ]
         },
         {
-            "text": "06/07/20",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                247,
-                483,
-                326,
-                502
+                377,
+                162,
+                460,
+                186
             ]
         },
         {
-            "text": "9.11",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                348,
-                490,
-                383,
-                504
+                406,
+                184,
+                442,
+                206
             ]
         },
         {
-            "text": "T-SHIRTS",
+            "text": "13/07/2015",
             "id": 4,
             "bbox": [
-                251,
-                643,
-                330,
-                660
+                256,
+                389,
+                361,
+                411
             ]
         },
         {
-            "text": "248",
+            "text": ":",
             "id": 5,
             "bbox": [
-                545,
-                651,
-                574,
+                365,
+                389,
+                368,
+                407
+            ]
+        },
+        {
+            "text": "06",
+            "id": 6,
+            "bbox": [
+                372,
+                387,
+                391,
+                406
+            ]
+        },
+        {
+            "text": "105.00",
+            "id": 7,
+            "bbox": [
+                559,
+                639,
+                618,
                 664
             ]
         },
         {
-            "text": "\u0623\u064a",
-            "id": 6,
-            "bbox": [
-                277,
-                667,
-                291,
-                678
-            ]
-        },
-        {
-            "text": "\u0634\u06cc\u0631\u062a",
-            "id": 7,
-            "bbox": [
-                227,
-                666,
-                265,
-                677
-            ]
-        },
-        {
-            "text": "A037630",
+            "text": "105.00",
             "id": 8,
             "bbox": [
-                168,
-                640,
-                238,
-                657
+                552,
+                539,
+                610,
+                560
             ]
         },
         {
-            "text": "248.00",
+            "text": "1",
             "id": 9,
             "bbox": [
-                513,
-                744,
-                575,
-                760
+                204,
+                589,
+                208,
+                609
             ]
         },
         {
             "text": "1",
             "id": 10,
             "bbox": [
-                534,
-                872,
-                540,
-                887
+                607,
+                590,
+                609,
+                604
+            ]
+        },
+        {
+            "text": "Gift",
+            "id": 11,
+            "bbox": [
+                191,
+                542,
+                228,
+                559
+            ]
+        },
+        {
+            "text": "GIFT",
+            "id": 12,
+            "bbox": [
+                191,
+                564,
+                229,
+                585
+            ]
+        },
+        {
+            "text": "O",
+            "id": 13,
+            "bbox": [
+                241,
+                562,
+                249,
+                581
+            ]
+        },
+        {
+            "text": "DE",
+            "id": 14,
+            "bbox": [
+                261,
+                560,
+                279,
+                580
+            ]
+        },
+        {
+            "text": "ROSE",
+            "id": 15,
+            "bbox": [
+                290,
+                556,
+                327,
+                577
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 16,
+            "bbox": [
+                340,
+                553,
+                368,
+                573
+            ]
+        },
+        {
+            "text": "4992277481",
+            "id": 17,
+            "bbox": [
+                242,
+                579,
+                337,
+                607
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ":",
+                "06"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4992277481"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13/07/2015"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105.00"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "T-SHIRTS"
+                "Gift",
+                "GIFT",
+                "O",
+                "DE",
+                "ROSE",
+                "SKU"
             ],
             "value_id": [
-                4
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE",
+                "MALL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
             ]
         },
         {
@@ -125,38 +266,14 @@
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u0623\u064a",
-                "\u0634\u06cc\u0631\u062a"
+                "1"
             ],
             "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "06/07/20"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FREDPERRY"
-            ],
-            "value_id": [
-                1
+                9
             ]
         },
         {
@@ -164,43 +281,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "248.00"
+                "105.00"
             ],
             "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "A037630"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "9.11"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "248"
-            ],
-            "value_id": [
-                5
+                7
             ]
         }
     ],

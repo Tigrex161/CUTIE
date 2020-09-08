@@ -1,144 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "118.00",
+            "text": "SEPHORA",
             "id": 1,
             "bbox": [
-                543,
-                824,
-                585,
-                838
+                349,
+                250,
+                438,
+                289
             ]
         },
         {
-            "text": "54.00",
+            "text": "DUBAI",
             "id": 2,
             "bbox": [
-                546,
-                671,
-                582,
-                685
+                452,
+                254,
+                514,
+                292
             ]
         },
         {
-            "text": "64.00",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                547,
-                720,
-                582,
-                733
+                529,
+                257,
+                578,
+                295
             ]
         },
         {
-            "text": "20",
+            "text": "July",
             "id": 4,
             "bbox": [
-                412,
-                670,
-                424,
-                684
+                423,
+                1713,
+                471,
+                1752
             ]
         },
         {
-            "text": "Uolluto",
+            "text": "14,2020",
             "id": 5,
             "bbox": [
-                244,
-                670,
-                295,
-                684
+                487,
+                1716,
+                573,
+                1757
             ]
         },
         {
-            "text": "Freddo",
+            "text": "11:15:55",
             "id": 6,
             "bbox": [
-                244,
-                720,
-                287,
-                733
+                588,
+                1720,
+                687,
+                1761
             ]
         },
         {
-            "text": "Delicato",
+            "text": "1",
             "id": 7,
             "bbox": [
-                297,
-                719,
-                356,
-                733
+                693,
+                1662,
+                700,
+                1699
             ]
         },
         {
-            "text": "I",
+            "text": "525.00",
             "id": 8,
             "bbox": [
-                382,
-                719,
-                386,
-                732
+                561,
+                1070,
+                707,
+                1106
             ]
         },
         {
-            "text": "6743530",
+            "text": "525.00",
             "id": 9,
             "bbox": [
-                167,
-                670,
-                219,
-                684
+                638,
+                951,
+                713,
+                984
             ]
         },
         {
-            "text": "6758230",
+            "text": "1",
             "id": 10,
             "bbox": [
-                166,
-                720,
-                218,
-                734
+                355,
+                944,
+                359,
+                976
+            ]
+        },
+        {
+            "text": "147812843966",
+            "id": 11,
+            "bbox": [
+                191,
+                850,
+                339,
+                885
+            ]
+        },
+        {
+            "text": "REPLICA",
+            "id": 12,
+            "bbox": [
+                402,
+                853,
+                488,
+                887
+            ]
+        },
+        {
+            "text": "WINTER",
+            "id": 13,
+            "bbox": [
+                502,
+                855,
+                575,
+                889
+            ]
+        },
+        {
+            "text": "EDT",
+            "id": 14,
+            "bbox": [
+                591,
+                857,
+                625,
+                890
+            ]
+        },
+        {
+            "text": "V100ML",
+            "id": 15,
+            "bbox": [
+                640,
+                857,
+                714,
+                891
+            ]
+        },
+        {
+            "text": "\u0639\u0637\u0631",
+            "id": 16,
+            "bbox": [
+                369,
+                913,
+                403,
+                949
+            ]
+        },
+        {
+            "text": "\u0645\u0639\u062a\u062f\u0644",
+            "id": 17,
+            "bbox": [
+                294,
+                912,
+                354,
+                948
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062a\u0631\u0643\u064a\u0632",
+            "id": 18,
+            "bbox": [
+                193,
+                910,
+                277,
+                947
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Uolluto",
-                "Freddo",
-                "Delicato",
-                "I"
+                "11:15:55"
             ],
             "value_id": [
-                5,
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "118.00"
-            ],
-            "value_id": [
-                1
+                6
             ]
         },
         {
@@ -146,12 +198,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6743530",
-                "6758230"
+                "147812843966"
             ],
             "value_id": [
-                9,
-                10
+                11
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "14,2020"
+            ],
+            "value_id": [
+                4,
+                5
             ]
         },
         {
@@ -159,12 +222,90 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "54.00",
-                "64.00"
+                "525.00"
             ],
             "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0639\u0637\u0631",
+                "\u0645\u0639\u062a\u062f\u0644",
+                "\u0627\u0644\u062a\u0631\u0643\u064a\u0632"
+            ],
+            "value_id": [
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "REPLICA",
+                "WINTER",
+                "EDT",
+                "V100ML"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
+            ],
+            "value_id": [
+                1,
                 2,
                 3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "525.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

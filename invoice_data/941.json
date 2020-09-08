@@ -1,63 +1,73 @@
 {
     "text_boxes": [
         {
-            "text": "DIOR",
+            "text": "MIRII",
             "id": 1,
             "bbox": [
-                446,
-                139,
-                541,
-                197
+                288,
+                161,
+                406,
+                193
             ]
         },
         {
-            "text": "1207020",
+            "text": "1",
             "id": 2,
             "bbox": [
-                85,
-                426,
-                141,
-                439
+                208,
+                468,
+                211,
+                482
             ]
         },
         {
-            "text": "19",
+            "text": "Kart",
             "id": 3,
             "bbox": [
-                152,
-                427,
-                161,
-                439
+                221,
+                468,
+                248,
+                482
             ]
         },
         {
-            "text": "1450.00",
+            "text": "Y.COM",
             "id": 4,
             "bbox": [
-                693,
-                593,
-                730,
-                601
+                240,
+                468,
+                365,
+                483
             ]
         },
         {
-            "text": "1.380.95",
+            "text": "rings",
             "id": 5,
             "bbox": [
-                719,
-                528,
-                755,
-                536
+                252,
+                481,
+                280,
+                494
             ]
         },
         {
-            "text": "3aHG",
+            "text": "CLEO",
             "id": 6,
             "bbox": [
-                257,
-                528,
-                318,
-                534
+                103,
+                468,
+                127,
+                480
+            ]
+        },
+        {
+            "text": "ZIVODO",
+            "id": 7,
+            "bbox": [
+                138,
+                468,
+                176,
+                480
             ]
         }
     ],
@@ -67,21 +77,16 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3aHG"
+                "1",
+                "Kart",
+                "Y.COM",
+                "rings"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1207020"
-            ],
-            "value_id": [
-                2
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -89,43 +94,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR"
+                "MIRII"
             ],
             "value_id": [
                 1
             ]
         },
         {
-            "field_name": "total",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1450.00"
+                "CLEO",
+                "ZIVODO"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.380.95"
-            ],
-            "value_id": [
-                5
+                6,
+                7
             ]
         }
     ],

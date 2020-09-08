@@ -1,234 +1,166 @@
 {
     "text_boxes": [
         {
-            "text": "Sahvavtre.",
+            "text": "2025",
             "id": 1,
             "bbox": [
-                223,
-                231,
-                340,
-                269
+                497,
+                256,
+                525,
+                272
             ]
         },
         {
-            "text": "Ferragamo",
+            "text": "\u0648\u0627\u062a",
             "id": 2,
             "bbox": [
-                342,
-                231,
-                498,
-                283
+                468,
+                257,
+                493,
+                273
             ]
         },
         {
-            "text": "July,",
+            "text": "23:00",
             "id": 3,
             "bbox": [
-                502,
-                334,
-                529,
-                343
+                531,
+                255,
+                564,
+                271
             ]
         },
         {
-            "text": "11",
+            "text": "2,500,00",
             "id": 4,
             "bbox": [
-                541,
-                335,
-                550,
-                342
+                585,
+                492,
+                641,
+                508
             ]
         },
         {
-            "text": "2020",
+            "text": "2,500,00",
             "id": 5,
             "bbox": [
-                559,
-                333,
-                583,
-                341
+                592,
+                404,
+                648,
+                419
             ]
         },
         {
-            "text": "15:01",
+            "text": ":",
             "id": 6,
             "bbox": [
-                592,
-                333,
-                620,
-                342
+                226,
+                392,
+                229,
+                406
             ]
         },
         {
-            "text": "830.00",
+            "text": "BALONCINGNEN_BAG",
             "id": 7,
             "bbox": [
-                566,
-                640,
-                602,
-                647
+                108,
+                392,
+                223,
+                409
             ]
         },
         {
-            "text": "830.",
+            "text": ":",
             "id": 8,
             "bbox": [
-                568,
-                560,
-                590,
-                567
+                228,
+                392,
+                230,
+                406
             ]
         },
         {
-            "text": "00:",
+            "text": "BALENCIAGA",
             "id": 9,
             "bbox": [
-                593,
-                560,
-                607,
-                567
+                233,
+                391,
+                300,
+                407
             ]
         },
         {
-            "text": "120524-716936:",
+            "text": "MEN'S",
             "id": 10,
             "bbox": [
-                206,
-                537,
-                292,
-                549
+                309,
+                390,
+                343,
+                405
             ]
         },
         {
-            "text": "SFO.716936:M:",
+            "text": "BAGS",
             "id": 11,
             "bbox": [
-                294,
-                537,
-                368,
-                549
+                350,
+                390,
+                377,
+                404
             ]
         },
         {
-            "text": "SHORT",
+            "text": "|",
             "id": 12,
             "bbox": [
-                369,
-                541,
-                398,
-                548
+                192,
+                414,
+                193,
+                427
             ]
         },
         {
-            "text": "SLEEVES",
+            "text": "002145016",
             "id": 13,
             "bbox": [
-                406,
-                541,
-                447,
-                548
+                107,
+                414,
+                186,
+                427
             ]
         },
         {
-            "text": "s",
+            "text": "\u0642\u064a\u0645\u0629",
             "id": 14,
             "bbox": [
-                520,
-                542,
-                529,
-                550
+                467,
+                387,
+                499,
+                402
             ]
         },
         {
-            "text": "i",
+            "text": "\u0628\u0627\u062f\u064a",
             "id": 15,
             "bbox": [
-                574,
-                539,
-                580,
-                550
-            ]
-        },
-        {
-            "text": "028524623213",
-            "id": 16,
-            "bbox": [
-                122,
-                539,
-                195,
-                546
+                431,
+                388,
+                458,
+                403
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "120524-716936:",
-                "SFO.716936:M:",
-                "SHORT",
-                "SLEEVES"
+                "23:00"
             ],
             "value_id": [
-                10,
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "s",
-                "i"
-            ],
-            "value_id": [
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "11",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Sahvavtre.",
-                "Ferragamo"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "830.00"
-            ],
-            "value_id": [
-                7
+                3
             ]
         },
         {
@@ -236,21 +168,25 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "028524623213"
+                "|",
+                "002145016"
             ],
             "value_id": [
-                16
+                12,
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15:01"
+                "2025",
+                "\u0648\u0627\u062a"
             ],
             "value_id": [
-                6
+                1,
+                2
             ]
         },
         {
@@ -258,12 +194,55 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "830.",
-                "00:"
+                "2,500,00"
             ],
             "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0642\u064a\u0645\u0629",
+                "\u0628\u0627\u062f\u064a"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ":",
+                "BALONCINGNEN_BAG",
+                ":",
+                "BALENCIAGA",
+                "MEN'S",
+                "BAGS"
+            ],
+            "value_id": [
+                6,
+                7,
                 8,
-                9
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,500,00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

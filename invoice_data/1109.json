@@ -1,0 +1,96 @@
+{
+    "text_boxes": [
+        {
+            "text": "07/18/2020",
+            "id": 1,
+            "bbox": [
+                465,
+                273,
+                514,
+                287
+            ]
+        },
+        {
+            "text": "09",
+            "id": 2,
+            "bbox": [
+                465,
+                293,
+                477,
+                304
+            ]
+        },
+        {
+            "text": "54",
+            "id": 3,
+            "bbox": [
+                480,
+                292,
+                490,
+                303
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 4,
+            "bbox": [
+                493,
+                291,
+                508,
+                302
+            ]
+        },
+        {
+            "text": "35,755.00",
+            "id": 5,
+            "bbox": [
+                517,
+                826,
+                568,
+                839
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "09",
+                "54",
+                "PM"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "35,755.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/18/2020"
+            ],
+            "value_id": [
+                1
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1109.jpg"
+    }
+}

@@ -1,164 +1,178 @@
 {
     "text_boxes": [
         {
-            "text": "ZARA",
+            "text": "SJP",
             "id": 1,
             "bbox": [
-                319,
-                49,
-                418,
-                96
+                321,
+                160,
+                359,
+                188
             ]
         },
         {
-            "text": "17",
+            "text": "by",
             "id": 2,
             "bbox": [
-                245,
-                138,
-                259,
-                149
+                366,
+                165,
+                387,
+                192
             ]
         },
         {
-            "text": "07-2020",
+            "text": "Sarah",
             "id": 3,
             "bbox": [
-                263,
-                139,
-                305,
-                151
+                394,
+                167,
+                448,
+                197
             ]
         },
         {
-            "text": "17:06",
+            "text": "Jessica",
             "id": 4,
             "bbox": [
-                314,
-                144,
-                341,
-                152
+                453,
+                173,
+                525,
+                206
             ]
         },
         {
-            "text": "209",
+            "text": "Parker",
             "id": 5,
             "bbox": [
-                448,
-                298,
-                463,
-                306
+                530,
+                181,
+                598,
+                213
             ]
         },
         {
-            "text": "289",
+            "text": "\u0633\u0627\u0631\u0629",
             "id": 6,
             "bbox": [
-                443,
+                433,
+                201,
+                467,
+                230
+            ]
+        },
+        {
+            "text": "\u062c\u064a\u0633\u064a\u0643\u0627",
+            "id": 7,
+            "bbox": [
+                381,
                 194,
-                460,
-                202
+                428,
+                226
+            ]
+        },
+        {
+            "text": "\u0628\u0627\u0631\u0643\u0631",
+            "id": 8,
+            "bbox": [
+                339,
+                190,
+                375,
+                221
+            ]
+        },
+        {
+            "text": "21-07-20",
+            "id": 9,
+            "bbox": [
+                385,
+                591,
+                453,
+                612
+            ]
+        },
+        {
+            "text": "8:39:24",
+            "id": 10,
+            "bbox": [
+                387,
+                613,
+                443,
+                631
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 11,
+            "bbox": [
+                449,
+                616,
+                473,
+                633
+            ]
+        },
+        {
+            "text": "1,673.00",
+            "id": 12,
+            "bbox": [
+                480,
+                821,
+                544,
+                837
             ]
         },
         {
             "text": "1",
-            "id": 7,
+            "id": 13,
             "bbox": [
-                309,
-                199,
-                324,
-                209
+                540,
+                934,
+                544,
+                948
             ]
         },
         {
-            "text": "0720011e001",
-            "id": 8,
+            "text": "2.390.00",
+            "id": 14,
             "bbox": [
-                308,
-                213,
-                383,
-                224
+                503,
+                736,
+                567,
+                757
             ]
         },
         {
-            "text": "DRESS",
-            "id": 9,
+            "text": "200000",
+            "id": 15,
             "bbox": [
-                396,
-                211,
-                424,
-                220
+                333,
+                708,
+                388,
+                727
             ]
         },
         {
-            "text": "10001675",
-            "id": 10,
+            "text": "20O0O0O02000064410",
+            "id": 16,
             "bbox": [
-                249,
-                215,
-                293,
-                222
+                224,
+                721,
+                377,
+                751
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0720011e001",
-                "DRESS"
+                "8:39:24",
+                "PM"
             ],
             "value_id": [
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17",
-                "07-2020"
-            ],
-            "value_id": [
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZARA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "209"
-            ],
-            "value_id": [
-                5
+                10,
+                11
             ]
         },
         {
@@ -166,21 +180,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001675"
+                "200000"
             ],
             "value_id": [
-                10
+                15
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17:06"
+                "21-07-20"
             ],
             "value_id": [
-                4
+                9
             ]
         },
         {
@@ -188,10 +202,68 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "289"
+                "2.390.00"
             ],
             "value_id": [
-                6
+                14
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20O0O0O02000064410"
+            ],
+            "value_id": [
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SJP",
+                "by",
+                "Sarah",
+                "Jessica",
+                "Parker",
+                "\u0633\u0627\u0631\u0629",
+                "\u062c\u064a\u0633\u064a\u0643\u0627",
+                "\u0628\u0627\u0631\u0643\u0631"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,673.00"
+            ],
+            "value_id": [
+                12
             ]
         }
     ],

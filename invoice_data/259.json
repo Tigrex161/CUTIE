@@ -1,136 +1,176 @@
 {
     "text_boxes": [
         {
-            "text": "SJP",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                285,
-                26,
-                311,
-                33
+                359,
+                259,
+                400,
+                275
             ]
         },
         {
-            "text": "by",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                317,
-                26,
-                332,
-                37
+                406,
+                254,
+                469,
+                273
             ]
         },
         {
-            "text": "Sarah",
+            "text": "03/07/2020",
             "id": 3,
             "bbox": [
-                338,
-                28,
-                377,
-                38
+                577,
+                461,
+                642,
+                478
             ]
         },
         {
-            "text": "Jossica",
+            "text": "20:02",
             "id": 4,
             "bbox": [
-                383,
-                30,
-                434,
-                40
+                664,
+                459,
+                696,
+                475
             ]
         },
         {
-            "text": "Parker",
+            "text": "1.",
             "id": 5,
             "bbox": [
-                440,
-                28,
-                484,
-                39
+                731,
+                690,
+                741,
+                700
             ]
         },
         {
-            "text": "12-07-20",
+            "text": "19:00",
             "id": 6,
             "bbox": [
-                363,
-                346,
-                425,
-                361
+                743,
+                690,
+                783,
+                700
             ]
         },
         {
-            "text": "8:28:35",
+            "text": "1,180.00",
             "id": 7,
             "bbox": [
-                365,
-                368,
-                417,
-                380
+                722,
+                524,
+                773,
+                538
             ]
         },
         {
-            "text": "PM",
+            "text": "1",
             "id": 8,
             "bbox": [
-                423,
-                369,
-                445,
-                380
+                311,
+                540,
+                315,
+                549
             ]
         },
         {
-            "text": "2,490.00",
+            "text": "LP0001",
             "id": 9,
             "bbox": [
-                484,
-                480,
-                547,
-                492
+                56,
+                540,
+                92,
+                559
             ]
         },
         {
-            "text": "200240",
+            "text": "ABOUKE",
             "id": 10,
             "bbox": [
-                317,
-                459,
-                370,
-                471
+                106,
+                538,
+                144,
+                557
             ]
         },
         {
-            "text": "1,745.00",
+            "text": "100ML",
             "id": 11,
             "bbox": [
-                483,
-                717,
-                543,
-                726
+                151,
+                537,
+                182,
+                556
             ]
         },
         {
-            "text": "2002402000000319",
+            "text": "RDP",
             "id": 12,
             "bbox": [
-                214,
-                478,
-                359,
-                493
+                188,
+                536,
+                207,
+                554
+            ]
+        },
+        {
+            "text": "PARFUM",
+            "id": 13,
+            "bbox": [
+                57,
+                557,
+                100,
+                571
+            ]
+        },
+        {
+            "text": "(",
+            "id": 14,
+            "bbox": [
+                110,
+                557,
+                112,
+                569
+            ]
+        },
+        {
+            "text": "STOCK",
+            "id": 15,
+            "bbox": [
+                114,
+                555,
+                143,
+                569
+            ]
+        },
+        {
+            "text": ")",
+            "id": 16,
+            "bbox": [
+                147,
+                555,
+                148,
+                567
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2002402000000319"
+                "20:02"
             ],
             "value_id": [
-                12
+                4
             ]
         },
         {
@@ -138,64 +178,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12-07-20"
+                "03/07/2020"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "SJP",
-                "by",
-                "Sarah",
-                "Jossica",
-                "Parker"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,745.00"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "200240"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "8:28:35",
-                "PM"
-            ],
-            "value_id": [
-                7,
-                8
+                3
             ]
         },
         {
@@ -203,10 +189,72 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,490.00"
+                "1,180.00"
             ],
             "value_id": [
-                9
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LP0001",
+                "ABOUKE",
+                "100ML",
+                "RDP",
+                "PARFUM",
+                "(",
+                "STOCK",
+                ")"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.",
+                "19:00"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

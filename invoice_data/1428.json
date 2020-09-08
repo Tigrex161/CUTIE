@@ -1,0 +1,261 @@
+{
+    "text_boxes": [
+        {
+            "text": "Apple",
+            "id": 1,
+            "bbox": [
+                199,
+                152,
+                224,
+                166
+            ]
+        },
+        {
+            "text": "Dubai",
+            "id": 2,
+            "bbox": [
+                229,
+                151,
+                255,
+                164
+            ]
+        },
+        {
+            "text": "Mall",
+            "id": 3,
+            "bbox": [
+                259,
+                150,
+                278,
+                164
+            ]
+        },
+        {
+            "text": "IPHONE",
+            "id": 4,
+            "bbox": [
+                200,
+                577,
+                235,
+                594
+            ]
+        },
+        {
+            "text": "11",
+            "id": 5,
+            "bbox": [
+                239,
+                577,
+                245,
+                594
+            ]
+        },
+        {
+            "text": "BLACK",
+            "id": 6,
+            "bbox": [
+                251,
+                577,
+                280,
+                594
+            ]
+        },
+        {
+            "text": "256GB",
+            "id": 7,
+            "bbox": [
+                284,
+                577,
+                313,
+                594
+            ]
+        },
+        {
+            "text": "MWM72AE",
+            "id": 8,
+            "bbox": [
+                261,
+                597,
+                307,
+                610
+            ]
+        },
+        {
+            "text": "/",
+            "id": 9,
+            "bbox": [
+                309,
+                597,
+                310,
+                610
+            ]
+        },
+        {
+            "text": "A",
+            "id": 10,
+            "bbox": [
+                315,
+                597,
+                317,
+                610
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                632,
+                696,
+                633,
+                705
+            ]
+        },
+        {
+            "text": "3,579,00",
+            "id": 12,
+            "bbox": [
+                602,
+                748,
+                635,
+                759
+            ]
+        },
+        {
+            "text": "3,579.00",
+            "id": 13,
+            "bbox": [
+                597,
+                834,
+                634,
+                845
+            ]
+        },
+        {
+            "text": "27/07/20",
+            "id": 14,
+            "bbox": [
+                199,
+                1242,
+                239,
+                1258
+            ]
+        },
+        {
+            "text": "13:30",
+            "id": 15,
+            "bbox": [
+                250,
+                1242,
+                271,
+                1258
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "13:30"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MWM72AE",
+                "/",
+                "A"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,579,00"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "27/07/20"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "IPHONE",
+                "11",
+                "BLACK",
+                "256GB"
+            ],
+            "value_id": [
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Apple",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,579.00"
+            ],
+            "value_id": [
+                13
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1428.jpg"
+    }
+}

@@ -1,156 +1,76 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                330,
-                219,
-                385,
-                233
+                357,
+                270,
+                440,
+                313
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "25-07-2020",
             "id": 2,
             "bbox": [
-                395,
-                223,
-                460,
-                234
+                295,
+                449,
+                341,
+                460
             ]
         },
         {
-            "text": "04/07/20",
+            "text": "13:26",
             "id": 3,
             "bbox": [
-                288,
-                409,
-                343,
-                422
+                349,
+                450,
+                370,
+                460
             ]
         },
         {
-            "text": "13:20",
+            "text": "133",
             "id": 4,
             "bbox": [
-                354,
-                412,
-                386,
-                423
+                448,
+                591,
+                460,
+                599
             ]
         },
         {
-            "text": "7,850.00",
+            "text": "195",
             "id": 5,
             "bbox": [
-                477,
-                599,
-                533,
-                608
+                451,
+                504,
+                463,
+                512
             ]
         },
         {
-            "text": "7,850.00",
+            "text": "SKIRT",
             "id": 6,
             "bbox": [
-                479,
-                531,
-                534,
-                540
-            ]
-        },
-        {
-            "text": "Luxurious",
-            "id": 7,
-            "bbox": [
-                236,
-                509,
-                298,
-                519
-            ]
-        },
-        {
-            "text": "Accessory",
-            "id": 8,
-            "bbox": [
-                307,
-                512,
-                369,
-                521
-            ]
-        },
-        {
-            "text": "BAGS",
-            "id": 9,
-            "bbox": [
-                233,
-                525,
-                262,
-                534
-            ]
-        },
-        {
-            "text": "LOUIS",
-            "id": 10,
-            "bbox": [
-                272,
-                526,
-                305,
-                534
-            ]
-        },
-        {
-            "text": "VUITTON",
-            "id": 11,
-            "bbox": [
-                313,
-                527,
-                361,
-                536
-            ]
-        },
-        {
-            "text": "S",
-            "id": 12,
-            "bbox": [
-                371,
-                529,
-                375,
-                535
-            ]
-        },
-        {
-            "text": "900906112",
-            "id": 13,
-            "bbox": [
-                270,
-                542,
-                332,
-                552
+                412,
+                514,
+                436,
+                526
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Luxurious",
-                "Accessory",
-                "BAGS",
-                "LOUIS",
-                "VUITTON",
-                "S"
+                "13:26"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11,
-                12
+                3
             ]
         },
         {
@@ -158,56 +78,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "04/07/20"
+                "25-07-2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7,850.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900906112"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:20"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -215,10 +89,43 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7,850.00"
+                "195"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SKIRT"
             ],
             "value_id": [
                 6
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "133"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

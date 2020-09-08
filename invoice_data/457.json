@@ -1,98 +1,191 @@
 {
     "text_boxes": [
         {
-            "text": "Scentitude",
+            "text": "AIGNER",
             "id": 1,
             "bbox": [
-                340,
-                205,
-                696,
-                283
+                378,
+                324,
+                547,
+                358
             ]
         },
         {
-            "text": "09/07/20",
+            "text": "12/07/2020",
             "id": 2,
             "bbox": [
-                236,
-                1737,
-                410,
-                1774
+                595,
+                444,
+                661,
+                460
             ]
         },
         {
-            "text": "23:04",
+            "text": "19",
             "id": 3,
             "bbox": [
-                437,
-                1737,
-                545,
-                1765
+                597,
+                481,
+                610,
+                495
             ]
         },
         {
-            "text": "1,065.00",
+            "text": "01",
             "id": 4,
             "bbox": [
-                736,
-                2796,
-                915,
-                2829
+                614,
+                480,
+                627,
+                494
             ]
         },
         {
-            "text": "750.00",
+            "text": "35",
             "id": 5,
             "bbox": [
-                800,
-                2267,
-                931,
-                2293
+                633,
+                478,
+                648,
+                493
             ]
         },
         {
-            "text": "670.00",
+            "text": "38300",
             "id": 6,
             "bbox": [
-                798,
-                2440,
-                932,
-                2469
+                904,
+                1179,
+                939,
+                1193
             ]
         },
         {
-            "text": "UBX100",
+            "text": "303",
             "id": 7,
             "bbox": [
-                78,
-                2280,
-                208,
-                2308
+                874,
+                636,
+                890,
+                648
             ]
         },
         {
-            "text": "8055277280336",
+            "text": "1",
             "id": 8,
             "bbox": [
-                74,
-                2449,
-                363,
-                2483
+                471,
+                651,
+                473,
+                660
+            ]
+        },
+        {
+            "text": "Aigner",
+            "id": 9,
+            "bbox": [
+                149,
+                656,
+                183,
+                671
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 10,
+            "bbox": [
+                189,
+                655,
+                223,
+                670
+            ]
+        },
+        {
+            "text": "100ml",
+            "id": 11,
+            "bbox": [
+                227,
+                654,
+                259,
+                669
+            ]
+        },
+        {
+            "text": "Vapo",
+            "id": 12,
+            "bbox": [
+                263,
+                653,
+                291,
+                668
+            ]
+        },
+        {
+            "text": "Cara",
+            "id": 13,
+            "bbox": [
+                296,
+                653,
+                321,
+                667
+            ]
+        },
+        {
+            "text": "MT",
+            "id": 14,
+            "bbox": [
+                321,
+                653,
+                365,
+                667
+            ]
+        },
+        {
+            "text": "Bacio",
+            "id": 15,
+            "bbox": [
+                364,
+                651,
+                393,
+                666
+            ]
+        },
+        {
+            "text": "EALAISO400",
+            "id": 16,
+            "bbox": [
+                22,
+                657,
+                101,
+                673
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "UBX100",
-                "8055277280336"
+                "19",
+                "01",
+                "35"
             ],
             "value_id": [
-                7,
-                8
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "EALAISO400"
+            ],
+            "value_id": [
+                16
             ]
         },
         {
@@ -100,43 +193,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "09/07/20"
+                "12/07/2020"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Scentitude"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,065.00"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "23:04"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -144,11 +204,65 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "750.00",
-                "670.00"
+                "303"
             ],
             "value_id": [
-                5,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Aigner",
+                "EDP",
+                "100ml",
+                "Vapo",
+                "Cara",
+                "MT",
+                "Bacio"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AIGNER"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "38300"
+            ],
+            "value_id": [
                 6
             ]
         }

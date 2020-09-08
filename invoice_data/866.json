@@ -1,142 +1,185 @@
 {
     "text_boxes": [
         {
-            "text": "Jardin",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                288,
-                115,
-                413,
-                170
+                196,
+                107,
+                325,
+                145
             ]
         },
         {
-            "text": "de",
+            "text": "HOME",
             "id": 2,
             "bbox": [
-                420,
-                140,
-                450,
-                170
+                356,
+                104,
+                493,
+                143
             ]
         },
         {
-            "text": "Parfums",
+            "text": "17-07-2020",
             "id": 3,
             "bbox": [
-                269,
-                159,
-                490,
-                224
+                115,
+                384,
+                229,
+                405
             ]
         },
         {
-            "text": "18/07/20",
+            "text": "16:44",
             "id": 4,
             "bbox": [
-                389,
-                430,
-                442,
-                444
+                246,
+                386,
+                298,
+                406
             ]
         },
         {
-            "text": "08:27",
+            "text": "109",
             "id": 5,
             "bbox": [
-                478,
-                426,
-                512,
-                440
+                507,
+                696,
+                536,
+                714
             ]
         },
         {
-            "text": "625.00",
+            "text": "109",
             "id": 6,
             "bbox": [
-                438,
-                532,
-                478,
-                544
+                497,
+                498,
+                526,
+                518
             ]
         },
         {
-            "text": "WHITE",
+            "text": "1",
             "id": 7,
             "bbox": [
-                221,
-                536,
-                255,
-                548
+                263,
+                506,
+                269,
+                523
             ]
         },
         {
-            "text": "SUGAR",
+            "text": "4177504925004",
             "id": 8,
             "bbox": [
-                263,
-                535,
-                296,
-                547
+                240,
+                532,
+                382,
+                557
             ]
         },
         {
-            "text": "FLOWER",
+            "text": "BASKETS",
             "id": 9,
             "bbox": [
-                306,
-                535,
-                345,
-                547
+                408,
+                529,
+                483,
+                552
             ]
         },
         {
-            "text": "100ml",
+            "text": "10001011",
             "id": 10,
             "bbox": [
-                355,
-                533,
-                386,
-                548
+                122,
+                536,
+                213,
+                558
             ]
         },
         {
             "text": "1",
             "id": 11,
             "bbox": [
-                480,
-                660,
-                481,
-                671
-            ]
-        },
-        {
-            "text": "562.50",
-            "id": 12,
-            "bbox": [
-                463,
-                712,
-                505,
-                726
+                313,
+                598,
+                320,
+                613
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:44"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001011"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17-07-2020"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "109"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WHITE",
-                "SUGAR",
-                "FLOWER",
-                "100ml"
+                "4177504925004",
+                "BASKETS"
             ],
             "value_id": [
-                7,
                 8,
-                9,
-                10
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA",
+                "HOME"
+            ],
+            "value_id": [
+                1,
+                2
             ]
         },
         {
@@ -151,29 +194,14 @@
             ]
         },
         {
-            "field_name": "date",
+            "field_name": "item_quantity",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18/07/20"
+                "1"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jardin",
-                "de",
-                "Parfums"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
+                7
             ]
         },
         {
@@ -181,32 +209,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "562.50"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "08:27"
+                "109"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "625.00"
-            ],
-            "value_id": [
-                6
             ]
         }
     ],

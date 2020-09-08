@@ -1,224 +1,249 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                328,
-                202,
-                358,
-                213
+                257,
+                147,
+                332,
+                171
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                363,
-                200,
-                410,
-                211
+                343,
+                144,
+                422,
+                169
             ]
         },
         {
-            "text": "MA",
+            "text": "04/07/20",
             "id": 3,
             "bbox": [
-                346,
                 213,
-                358,
-                220
+                387,
+                285,
+                407
             ]
         },
         {
-            "text": "A",
+            "text": "16:23",
             "id": 4,
             "bbox": [
-                379,
-                211,
-                390,
-                216
+                297,
+                387,
+                340,
+                406
             ]
         },
         {
-            "text": "L0/07/2020",
+            "text": "560.00",
             "id": 5,
             "bbox": [
-                492,
-                359,
-                540,
-                368
+                482,
+                695,
+                537,
+                712
             ]
         },
         {
-            "text": "117",
+            "text": "280.00",
             "id": 6,
             "bbox": [
-                557,
-                358,
-                580,
-                365
+                483,
+                600,
+                537,
+                617
             ]
         },
         {
-            "text": "MASTUAPTE",
+            "text": "280.00",
             "id": 7,
             "bbox": [
-                94,
-                416,
-                150,
-                426
+                483,
+                553,
+                536,
+                570
             ]
         },
         {
-            "text": "CAR.SIMHN",
+            "text": "2",
             "id": 8,
             "bbox": [
-                154,
-                415,
-                207,
-                425
+                530,
+                649,
+                536,
+                664
             ]
         },
         {
-            "text": "rUciBIA",
+            "text": "1",
             "id": 9,
             "bbox": [
-                216,
-                416,
-                249,
-                423
+                160,
+                625,
+                163,
+                642
             ]
         },
         {
-            "text": "NALL",
+            "text": "1",
             "id": 10,
             "bbox": [
-                93,
-                429,
-                116,
-                434
+                160,
+                578,
+                164,
+                597
             ]
         },
         {
-            "text": "LEATHER",
+            "text": "Men's",
             "id": 11,
             "bbox": [
-                123,
-                427,
-                155,
-                434
+                149,
+                531,
+                195,
+                550
             ]
         },
         {
-            "text": "00ons",
+            "text": "Wear",
             "id": 12,
             "bbox": [
-                161,
-                427,
-                184,
-                433
+                206,
+                531,
+                241,
+                550
             ]
         },
         {
-            "text": "HA1733PIE",
+            "text": "MENS",
             "id": 13,
             "bbox": [
-                92,
-                444,
                 145,
-                452
+                554,
+                186,
+                572
             ]
         },
         {
-            "text": "SNALL",
+            "text": "WEAR",
             "id": 14,
             "bbox": [
-                93,
-                455,
-                114,
-                460
+                197,
+                554,
+                232,
+                572
             ]
         },
         {
-            "text": "LEATHER",
+            "text": "HUGO",
             "id": 15,
             "bbox": [
-                122,
-                454,
-                154,
-                460
+                243,
+                554,
+                278,
+                572
             ]
         },
         {
-            "text": "GOODS",
+            "text": "BOSS",
             "id": 16,
             "bbox": [
-                161,
-                454,
-                184,
-                460
+                289,
+                554,
+                324,
+                572
             ]
         },
         {
-            "text": "40.00",
+            "text": "MENS",
             "id": 17,
             "bbox": [
-                613,
-                402,
-                643,
-                413
+                148,
+                602,
+                184,
+                619
             ]
         },
         {
-            "text": "040.00",
+            "text": "WEAR",
             "id": 18,
             "bbox": [
-                615,
-                431,
-                643,
-                438
+                196,
+                602,
+                231,
+                619
             ]
         },
         {
-            "text": "0.00",
+            "text": "HUGO",
             "id": 19,
             "bbox": [
-                606,
-                544,
-                645,
-                552
+                243,
+                602,
+                276,
+                619
+            ]
+        },
+        {
+            "text": "BOSS",
+            "id": 20,
+            "bbox": [
+                289,
+                602,
+                323,
+                619
+            ]
+        },
+        {
+            "text": "900671677",
+            "id": 21,
+            "bbox": [
+                197,
+                578,
+                277,
+                597
+            ]
+        },
+        {
+            "text": "900671677",
+            "id": 22,
+            "bbox": [
+                197,
+                625,
+                277,
+                642
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MASTUAPTE",
-                "CAR.SIMHN",
-                "rUciBIA",
-                "NALL",
-                "LEATHER",
-                "00ons",
-                "HA1733PIE",
-                "SNALL",
-                "LEATHER",
-                "GOODS"
+                "16:23"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900671677",
+                "900671677"
+            ],
+            "value_id": [
+                21,
+                22
             ]
         },
         {
@@ -226,49 +251,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "L0/07/2020"
+                "04/07/20"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MA",
-                "A"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "0.00"
-            ],
-            "value_id": [
-                19
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "117"
-            ],
-            "value_id": [
-                6
+                3
             ]
         },
         {
@@ -276,12 +262,89 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "40.00",
-                "040.00"
+                "280.00",
+                "280.00"
             ],
             "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Men's",
+                "Wear",
+                "MENS",
+                "WEAR",
+                "HUGO",
+                "BOSS",
+                "MENS",
+                "WEAR",
+                "HUGO",
+                "BOSS"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
                 17,
-                18
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "560.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

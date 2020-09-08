@@ -1,77 +1,128 @@
 {
     "text_boxes": [
         {
-            "text": "blomingdales",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                266,
-                138,
-                455,
-                203
+                245,
+                83,
+                459,
+                132
             ]
         },
         {
-            "text": "2:00:04",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                351,
-                287,
-                391,
-                305
+                265,
+                236,
+                286,
+                250
             ]
         },
         {
-            "text": "2,800.00",
+            "text": "-",
             "id": 3,
             "bbox": [
-                446,
-                657,
-                487,
-                667
+                258,
+                236,
+                261,
+                249
             ]
         },
         {
-            "text": "2,800.00",
+            "text": "\u0627\u0628\u0631",
             "id": 4,
             "bbox": [
-                441,
-                577,
-                487,
-                590
+                245,
+                235,
+                255,
+                248
             ]
         },
         {
-            "text": "211655373",
+            "text": "-03",
             "id": 5,
             "bbox": [
-                288,
-                594,
-                335,
-                606
+                220,
+                235,
+                238,
+                248
+            ]
+        },
+        {
+            "text": "8:12:42",
+            "id": 6,
+            "bbox": [
+                329,
+                236,
+                370,
+                251
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                378,
+                235,
+                388,
+                249
+            ]
+        },
+        {
+            "text": "270.00",
+            "id": 8,
+            "bbox": [
+                426,
+                475,
+                461,
+                487
+            ]
+        },
+        {
+            "text": "270.00",
+            "id": 9,
+            "bbox": [
+                426,
+                380,
+                461,
+                396
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                457,
+                418,
+                461,
+                430
+            ]
+        },
+        {
+            "text": "21225539",
+            "id": 11,
+            "bbox": [
+                234,
+                391,
+                289,
+                409
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "blomingdales"
+                "8:12:42",
+                "PM"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,800.00"
-            ],
-            "value_id": [
-                3
+                6,
+                7
             ]
         },
         {
@@ -79,21 +130,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "211655373"
+                "21225539"
             ],
             "value_id": [
-                5
+                11
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2:00:04"
+                "2020",
+                "-",
+                "\u0627\u0628\u0631",
+                "-03"
             ],
             "value_id": [
-                2
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -101,10 +158,43 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,800.00"
+                "270.00"
             ],
             "value_id": [
-                4
+                9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdales"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "270.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

@@ -1,200 +1,226 @@
 {
     "text_boxes": [
         {
-            "text": "NIKE",
+            "text": "2020",
             "id": 1,
             "bbox": [
-                315,
-                135,
-                355,
-                145
+                481,
+                416,
+                510,
+                434
             ]
         },
         {
-            "text": "BEACON",
+            "text": ",",
             "id": 2,
             "bbox": [
-                371,
-                132,
-                437,
-                148
+                467,
+                419,
+                471,
+                434
             ]
         },
         {
-            "text": "15/07/2020",
+            "text": "uil",
             "id": 3,
             "bbox": [
-                286,
-                225,
-                340,
-                235
+                455,
+                419,
+                466,
+                435
             ]
         },
         {
-            "text": "18:27",
+            "text": "14:38",
             "id": 4,
             "bbox": [
-                286,
-                243,
-                311,
-                254
+                518,
+                414,
+                553,
+                432
             ]
         },
         {
-            "text": "119.00",
+            "text": "\u0627\u0646",
             "id": 5,
             "bbox": [
-                465,
-                690,
-                497,
-                701
+                615,
+                670,
+                628,
+                683
             ]
         },
         {
-            "text": "119.00",
+            "text": ",",
             "id": 6,
             "bbox": [
-                461,
-                466,
-                493,
-                476
+                609,
+                670,
+                612,
+                683
             ]
         },
         {
-            "text": "NG",
+            "text": "15",
             "id": 7,
             "bbox": [
-                192,
-                482,
-                207,
-                491
+                592,
+                670,
+                604,
+                683
             ]
         },
         {
-            "text": "NIKE",
+            "text": ",",
             "id": 8,
             "bbox": [
-                215,
-                482,
-                234,
-                491
+                579,
+                671,
+                582,
+                684
             ]
         },
         {
-            "text": "AIR",
+            "text": "1,615.00",
             "id": 9,
             "bbox": [
-                242,
-                482,
-                258,
-                492
+                578,
+                575,
+                635,
+                593
             ]
         },
         {
-            "text": "BLBBLE",
+            "text": ":",
             "id": 10,
             "bbox": [
-                264,
-                483,
-                297,
-                493
+                159,
+                559,
+                163,
+                575
             ]
         },
         {
-            "text": "ROMPER",
+            "text": "CLNWN",
             "id": 11,
             "bbox": [
-                303,
-                483,
-                335,
-                493
+                88,
+                559,
+                120,
+                575
             ]
         },
         {
-            "text": "NGEG424-ABF",
+            "text": "SHOR",
             "id": 12,
             "bbox": [
-                192,
-                464,
-                258,
-                474
+                133,
+                559,
+                157,
+                575
             ]
         },
         {
-            "text": ".00",
+            "text": ":",
             "id": 13,
             "bbox": [
-                364,
-                576,
-                385,
-                585
+                161,
+                559,
+                165,
+                575
+            ]
+        },
+        {
+            "text": "CHRISTIAN",
+            "id": 14,
+            "bbox": [
+                165,
+                559,
+                230,
+                575
+            ]
+        },
+        {
+            "text": "LOUBOUTIN",
+            "id": 15,
+            "bbox": [
+                237,
+                559,
+                298,
+                575
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 16,
+            "bbox": [
+                304,
+                559,
+                346,
+                575
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 17,
+            "bbox": [
+                354,
+                559,
+                387,
+                575
+            ]
+        },
+        {
+            "text": "063311133025",
+            "id": 18,
+            "bbox": [
+                87,
+                584,
+                172,
+                597
+            ]
+        },
+        {
+            "text": "|",
+            "id": 19,
+            "bbox": [
+                176,
+                584,
+                177,
+                597
+            ]
+        },
+        {
+            "text": "\u0627\u0639\u064a\u0629",
+            "id": 20,
+            "bbox": [
+                442,
+                559,
+                474,
+                575
+            ]
+        },
+        {
+            "text": "\u0628\u0639\u0645\u0627\u0646\u064a\u0647",
+            "id": 21,
+            "bbox": [
+                396,
+                559,
+                433,
+                575
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NG",
-                "NIKE",
-                "AIR",
-                "BLBBLE",
-                "ROMPER"
+                "14:38"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                ".00"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15/07/2020"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "NIKE",
-                "BEACON"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "119.00"
-            ],
-            "value_id": [
-                5
+                4
             ]
         },
         {
@@ -202,21 +228,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NGEG424-ABF"
+                "063311133025",
+                "|"
             ],
             "value_id": [
-                12
+                18,
+                19
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "18:27"
+                "2020",
+                ",",
+                "uil"
             ],
             "value_id": [
-                4
+                1,
+                2,
+                3
             ]
         },
         {
@@ -224,10 +256,65 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "119.00"
+                "1,615.00"
             ],
             "value_id": [
-                6
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0639\u064a\u0629",
+                "\u0628\u0639\u0645\u0627\u0646\u064a\u0647"
+            ],
+            "value_id": [
+                20,
+                21
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ":",
+                "CLNWN",
+                "SHOR",
+                ":",
+                "CHRISTIAN",
+                "LOUBOUTIN",
+                "WOMENS",
+                "SHOES"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0646",
+                ",",
+                "15",
+                ","
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8
             ]
         }
     ],

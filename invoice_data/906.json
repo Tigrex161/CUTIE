@@ -1,165 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "NIKE",
+            "text": "level",
             "id": 1,
             "bbox": [
-                340,
-                324,
-                373,
-                331
+                345,
+                214,
+                401,
+                252
             ]
         },
         {
-            "text": "BEACON",
+            "text": "SHOES",
             "id": 2,
             "bbox": [
-                386,
-                323,
-                439,
-                332
+                349,
+                254,
+                384,
+                264
             ]
         },
         {
-            "text": "0/07/2020",
+            "text": "220",
             "id": 3,
             "bbox": [
-                316,
-                400,
-                362,
-                411
+                478,
+                348,
+                505,
+                360
             ]
         },
         {
-            "text": "14.50",
+            "text": "\u0648\u0644\u0647",
             "id": 4,
             "bbox": [
-                317,
-                417,
-                338,
-                426
+                449,
+                349,
+                478,
+                360
             ]
         },
         {
-            "text": "349.00",
+            "text": "24",
             "id": 5,
             "bbox": [
-                468,
-                793,
-                494,
-                802
+                433,
+                350,
+                441,
+                361
             ]
         },
         {
-            "text": "340.00",
+            "text": "22:03",
             "id": 6,
             "bbox": [
-                464,
-                603,
-                490,
-                612
+                515,
+                347,
+                544,
+                359
             ]
         },
         {
-            "text": "V",
+            "text": "1.850.00",
             "id": 7,
             "bbox": [
-                246,
-                619,
-                254,
-                630
+                547,
+                560,
+                597,
+                572
             ]
         },
         {
-            "text": "Su",
+            "text": "I",
             "id": 8,
             "bbox": [
-                256,
-                619,
-                268,
-                630
+                558,
+                484,
+                563,
+                495
             ]
         },
         {
-            "text": "INDIO",
+            "text": ",",
             "id": 9,
             "bbox": [
-                270,
-                620,
-                291,
-                629
+                565,
+                484,
+                567,
+                495
             ]
         },
         {
-            "text": "PANT",
+            "text": "B5",
             "id": 10,
             "bbox": [
-                297,
-                619,
-                313,
-                628
+                571,
+                484,
+                580,
+                495
             ]
         },
         {
-            "text": "WINEN",
+            "text": ",",
             "id": 11,
             "bbox": [
-                320,
-                620,
-                341,
-                628
+                591,
+                484,
+                592,
+                495
             ]
         },
         {
-            "text": "NKCJ3006-100",
+            "text": "00",
             "id": 12,
             "bbox": [
-                242,
-                603,
-                296,
-                613
+                596,
+                484,
+                607,
+                495
             ]
         },
         {
-            "text": "1.00",
+            "text": "PRIVATE",
             "id": 13,
             "bbox": [
-                384,
-                697,
-                401,
-                706
+                117,
+                467,
+                157,
+                479
+            ]
+        },
+        {
+            "text": "COLLECTION",
+            "id": 14,
+            "bbox": [
+                167,
+                467,
+                226,
+                479
+            ]
+        },
+        {
+            "text": "MENS",
+            "id": 15,
+            "bbox": [
+                235,
+                467,
+                262,
+                479
+            ]
+        },
+        {
+            "text": "CIHEIRS",
+            "id": 16,
+            "bbox": [
+                269,
+                467,
+                305,
+                479
+            ]
+        },
+        {
+            "text": "\u0645\u0644\u062d\u0642\u0627\u062a",
+            "id": 17,
+            "bbox": [
+                363,
+                467,
+                402,
+                479
+            ]
+        },
+        {
+            "text": "\u0627\u0643\u0633\u0633\u0648\u0627\u0631\u0646\u0627",
+            "id": 18,
+            "bbox": [
+                308,
+                467,
+                356,
+                479
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "V",
-                "Su",
-                "INDIO",
-                "PANT",
-                "WINEN"
+                "22:03"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.00"
-            ],
-            "value_id": [
-                13
+                6
             ]
         },
         {
@@ -167,10 +198,63 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0/07/2020"
+                "220",
+                "\u0648\u0644\u0647",
+                "24"
             ],
             "value_id": [
-                3
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "I",
+                ",",
+                "B5",
+                ",",
+                "00"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0644\u062d\u0642\u0627\u062a",
+                "\u0627\u0643\u0633\u0633\u0648\u0627\u0631\u0646\u0627"
+            ],
+            "value_id": [
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PRIVATE",
+                "COLLECTION",
+                "MENS",
+                "CIHEIRS"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16
             ]
         },
         {
@@ -178,8 +262,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "NIKE",
-                "BEACON"
+                "level",
+                "SHOES"
             ],
             "value_id": [
                 1,
@@ -191,43 +275,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "349.00"
+                "1.850.00"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "NKCJ3006-100"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14.50"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "340.00"
-            ],
-            "value_id": [
-                6
+                7
             ]
         }
     ],

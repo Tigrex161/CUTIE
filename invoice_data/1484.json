@@ -1,0 +1,321 @@
+{
+    "text_boxes": [
+        {
+            "text": "level",
+            "id": 1,
+            "bbox": [
+                309,
+                231,
+                407,
+                305
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 2,
+            "bbox": [
+                321,
+                314,
+                380,
+                328
+            ]
+        },
+        {
+            "text": "30",
+            "id": 3,
+            "bbox": [
+                438,
+                447,
+                449,
+                459
+            ]
+        },
+        {
+            "text": "1",
+            "id": 4,
+            "bbox": [
+                474,
+                447,
+                476,
+                459
+            ]
+        },
+        {
+            "text": ",",
+            "id": 5,
+            "bbox": [
+                482,
+                447,
+                484,
+                459
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 6,
+            "bbox": [
+                495,
+                446,
+                522,
+                459
+            ]
+        },
+        {
+            "text": "15:25",
+            "id": 7,
+            "bbox": [
+                532,
+                446,
+                566,
+                458
+            ]
+        },
+        {
+            "text": ",",
+            "id": 8,
+            "bbox": [
+                569,
+                677,
+                578,
+                689
+            ]
+        },
+        {
+            "text": "515,00",
+            "id": 9,
+            "bbox": [
+                583,
+                677,
+                623,
+                689
+            ]
+        },
+        {
+            "text": "2,515.00",
+            "id": 10,
+            "bbox": [
+                572,
+                588,
+                626,
+                603
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                410,
+                591,
+                414,
+                601
+            ]
+        },
+        {
+            "text": "|",
+            "id": 12,
+            "bbox": [
+                285,
+                571,
+                287,
+                583
+            ]
+        },
+        {
+            "text": "MANOTO",
+            "id": 13,
+            "bbox": [
+                98,
+                572,
+                139,
+                584
+            ]
+        },
+        {
+            "text": "ELAHIN",
+            "id": 14,
+            "bbox": [
+                148,
+                572,
+                179,
+                584
+            ]
+        },
+        {
+            "text": "IR",
+            "id": 15,
+            "bbox": [
+                185,
+                572,
+                194,
+                584
+            ]
+        },
+        {
+            "text": "WEMENS",
+            "id": 16,
+            "bbox": [
+                203,
+                571,
+                240,
+                584
+            ]
+        },
+        {
+            "text": "SHIES",
+            "id": 17,
+            "bbox": [
+                251,
+                571,
+                282,
+                583
+            ]
+        },
+        {
+            "text": "\u0623\u062c\u062f",
+            "id": 18,
+            "bbox": [
+                352,
+                571,
+                368,
+                583
+            ]
+        },
+        {
+            "text": "\u0628\u0647",
+            "id": 19,
+            "bbox": [
+                337,
+                571,
+                352,
+                583
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0646\u0633\u0627\u0626\u062c\u0647",
+            "id": 20,
+            "bbox": [
+                290,
+                571,
+                332,
+                583
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15:25"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "30",
+                "1",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,515.00"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0623\u062c\u062f",
+                "\u0628\u0647",
+                "\u0627\u0644\u0646\u0633\u0627\u0626\u062c\u0647"
+            ],
+            "value_id": [
+                18,
+                19,
+                20
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "|",
+                "MANOTO",
+                "ELAHIN",
+                "IR",
+                "WEMENS",
+                "SHIES"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHOES"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                ",",
+                "515,00"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1484.jpg"
+    }
+}

@@ -1,98 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "ZARA",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                383,
-                120,
-                488,
-                159
+                266,
+                199,
+                342,
+                215
             ]
         },
         {
-            "text": "23-07-2020",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                308,
-                212,
-                368,
-                220
+                354,
+                197,
+                440,
+                215
             ]
         },
         {
-            "text": "11:08",
+            "text": "06/07/2015",
             "id": 3,
             "bbox": [
-                377,
-                212,
-                405,
-                220
+                236,
+                427,
+                330,
+                440
             ]
         },
         {
-            "text": "169",
+            "text": "110",
             "id": 4,
             "bbox": [
-                516,
-                272,
-                531,
-                279
+                337,
+                427,
+                358,
+                440
             ]
         },
         {
-            "text": "TROUSERS",
+            "text": "150.00",
             "id": 5,
             "bbox": [
-                465,
-                287,
-                512,
-                294
+                509,
+                644,
+                562,
+                656
             ]
         },
         {
-            "text": "10001105",
+            "text": "150.00",
             "id": 6,
             "bbox": [
-                307,
-                284,
-                354,
-                295
+                508,
+                562,
+                559,
+                579
+            ]
+        },
+        {
+            "text": "2",
+            "id": 7,
+            "bbox": [
+                199,
+                595,
+                201,
+                608
+            ]
+        },
+        {
+            "text": "2",
+            "id": 8,
+            "bbox": [
+                553,
+                609,
+                558,
+                620
+            ]
+        },
+        {
+            "text": "Gift",
+            "id": 9,
+            "bbox": [
+                186,
+                552,
+                218,
+                566
+            ]
+        },
+        {
+            "text": "MUG",
+            "id": 10,
+            "bbox": [
+                186,
+                572,
+                210,
+                588
+            ]
+        },
+        {
+            "text": "BUTTERFLY",
+            "id": 11,
+            "bbox": [
+                222,
+                570,
+                299,
+                588
+            ]
+        },
+        {
+            "text": "LADY",
+            "id": 12,
+            "bbox": [
+                311,
+                569,
+                343,
+                586
+            ]
+        },
+        {
+            "text": "900971375",
+            "id": 13,
+            "bbox": [
+                258,
+                591,
+                333,
+                607
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "TROUSERS"
+                "110"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "23-07-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZARA"
-            ],
-            "value_id": [
-                1
+                4
             ]
         },
         {
@@ -100,18 +148,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10001105"
+                "900971375"
             ],
             "value_id": [
-                6
+                13
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:08"
+                "06/07/2015"
             ],
             "value_id": [
                 3
@@ -122,10 +170,73 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "169"
+                "150.00"
             ],
             "value_id": [
-                4
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Gift",
+                "MUG",
+                "BUTTERFLY",
+                "LADY"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "150.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

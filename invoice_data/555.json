@@ -1,156 +1,161 @@
 {
     "text_boxes": [
         {
-            "text": "MaxMara",
+            "text": "GIVENCHY",
             "id": 1,
             "bbox": [
-                287,
-                215,
-                459,
-                269
+                179,
+                216,
+                362,
+                252
             ]
         },
         {
-            "text": "UAE",
+            "text": "07/04/2020",
             "id": 2,
             "bbox": [
-                270,
-                266,
-                289,
-                275
+                264,
+                364,
+                310,
+                375
             ]
         },
         {
-            "text": "July,",
+            "text": "1",
             "id": 3,
             "bbox": [
-                516,
-                329,
-                546,
-                342
+                511,
+                795,
+                513,
+                803
             ]
         },
         {
-            "text": "09",
+            "text": "1,850.00",
             "id": 4,
             "bbox": [
-                555,
-                332,
-                568,
-                342
+                492,
+                879,
+                528,
+                889
             ]
         },
         {
-            "text": "2020",
+            "text": "1,850",
             "id": 5,
             "bbox": [
-                574,
-                334,
-                599,
-                346
-            ]
-        },
-        {
-            "text": "13:37",
-            "id": 6,
-            "bbox": [
-                606,
-                337,
-                636,
-                348
-            ]
-        },
-        {
-            "text": "11210102-002:MOM.",
-            "id": 7,
-            "bbox": [
-                193,
-                527,
-                304,
+                617,
+                531,
+                640,
                 542
             ]
         },
         {
-            "text": "002:34:",
+            "text": "00",
+            "id": 6,
+            "bbox": [
+                643,
+                531,
+                653,
+                540
+            ]
+        },
+        {
+            "text": "T",
+            "id": 7,
+            "bbox": [
+                288,
+                523,
+                290,
+                532
+            ]
+        },
+        {
+            "text": "-",
             "id": 8,
             "bbox": [
-                307,
-                532,
-                350,
-                544
+                293,
+                523,
+                294,
+                532
             ]
         },
         {
-            "text": "FALSTER",
+            "text": "SHIRT",
             "id": 9,
             "bbox": [
-                355,
-                533,
-                399,
-                548
+                295,
+                523,
+                317,
+                532
             ]
         },
         {
-            "text": "OVERCOAT",
+            "text": "POLO",
             "id": 10,
             "bbox": [
-                408,
-                536,
-                455,
-                552
+                319,
+                523,
+                341,
+                532
             ]
         },
         {
-            "text": "037024813448",
+            "text": "EMAIL200",
             "id": 11,
             "bbox": [
-                102,
-                522,
-                184,
-                536
-            ]
-        },
-        {
-            "text": "4,242.00",
-            "id": 12,
-            "bbox": [
-                568,
-                567,
-                618,
-                577
-            ]
-        },
-        {
-            "text": "AED",
-            "id": 13,
-            "bbox": [
-                540,
-                649,
-                559,
-                657
-            ]
-        },
-        {
-            "text": "4,242.00",
-            "id": 14,
-            "bbox": [
-                568,
-                650,
-                619,
-                661
+                75,
+                539,
+                131,
+                551
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "EMAIL200"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/04/2020"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,850",
+                "00"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11210102-002:MOM.",
-                "002:34:",
-                "FALSTER",
-                "OVERCOAT"
+                "T",
+                "-",
+                "SHIRT",
+                "POLO"
             ],
             "value_id": [
                 7,
@@ -160,31 +165,25 @@
             ]
         },
         {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "09",
-                "2020"
-            ],
-            "value_id": [
-                3,
-                4,
-                5
-            ]
-        },
-        {
             "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MaxMara",
-                "UAE"
+                "GIVENCHY"
             ],
             "value_id": [
-                1,
-                2
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                3
             ]
         },
         {
@@ -192,45 +191,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AED",
-                "4,242.00"
+                "1,850.00"
             ],
             "value_id": [
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "037024813448"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:37"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4,242.00"
-            ],
-            "value_id": [
-                12
+                4
             ]
         }
     ],

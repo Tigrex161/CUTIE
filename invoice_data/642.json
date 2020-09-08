@@ -1,121 +1,219 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "ROAD",
             "id": 1,
             "bbox": [
-                459,
-                329,
-                485,
-                339
+                387,
+                194,
+                441,
+                220
+            ]
+        },
+        {
+            "text": "-",
+            "id": 2,
+            "bbox": [
+                453,
+                204,
+                461,
+                224
+            ]
+        },
+        {
+            "text": "-",
+            "id": 3,
+            "bbox": [
+                645,
+                205,
+                653,
+                225
+            ]
+        },
+        {
+            "text": "125187",
+            "id": 4,
+            "bbox": [
+                658,
+                196,
+                732,
+                223
+            ]
+        },
+        {
+            "text": "CHANEL",
+            "id": 5,
+            "bbox": [
+                353,
+                117,
+                707,
+                214
+            ]
+        },
+        {
+            "text": "July",
+            "id": 6,
+            "bbox": [
+                559,
+                295,
+                593,
+                317
+            ]
+        },
+        {
+            "text": "02",
+            "id": 7,
+            "bbox": [
+                597,
+                292,
+                617,
+                313
+            ]
+        },
+        {
+            "text": ",",
+            "id": 8,
+            "bbox": [
+                617,
+                292,
+                623,
+                311
             ]
         },
         {
             "text": "2020",
-            "id": 2,
-            "bbox": [
-                496,
-                329,
-                525,
-                339
-            ]
-        },
-        {
-            "text": "20:22",
-            "id": 3,
-            "bbox": [
-                534,
-                331,
-                569,
-                341
-            ]
-        },
-        {
-            "text": "565.0o",
-            "id": 4,
-            "bbox": [
-                604,
-                595,
-                648,
-                606
-            ]
-        },
-        {
-            "text": "565.00",
-            "id": 5,
-            "bbox": [
-                612,
-                497,
-                655,
-                508
-            ]
-        },
-        {
-            "text": "VLTU",
-            "id": 6,
-            "bbox": [
-                93,
-                487,
-                117,
-                496
-            ]
-        },
-        {
-            "text": "OTHS:VALENTINO",
-            "id": 7,
-            "bbox": [
-                122,
-                478,
-                213,
-                494
-            ]
-        },
-        {
-            "text": "OTHERS",
-            "id": 8,
-            "bbox": [
-                222,
-                476,
-                264,
-                490
-            ]
-        },
-        {
-            "text": "stS,",
             "id": 9,
             "bbox": [
-                288,
-                473,
-                375,
-                487
+                630,
+                287,
+                672,
+                310
+            ]
+        },
+        {
+            "text": "19:31",
+            "id": 10,
+            "bbox": [
+                685,
+                282,
+                733,
+                306
+            ]
+        },
+        {
+            "text": "3,620.00",
+            "id": 11,
+            "bbox": [
+                758,
+                815,
+                842,
+                836
+            ]
+        },
+        {
+            "text": "3,620.00",
+            "id": 12,
+            "bbox": [
+                878,
+                555,
+                957,
+                579
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                516,
+                571,
+                521,
+                586
+            ]
+        },
+        {
+            "text": "1",
+            "id": 14,
+            "bbox": [
+                513,
+                627,
+                521,
+                644
+            ]
+        },
+        {
+            "text": "OTHER",
+            "id": 15,
+            "bbox": [
+                74,
+                549,
+                144,
+                570
+            ]
+        },
+        {
+            "text": "OPEN",
+            "id": 16,
+            "bbox": [
+                151,
+                552,
+                205,
+                572
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 17,
+            "bbox": [
+                214,
+                555,
+                280,
+                576
+            ]
+        },
+        {
+            "text": "G36048750387C0204",
+            "id": 18,
+            "bbox": [
+                73,
+                574,
+                272,
+                602
+            ]
+        },
+        {
+            "text": "20c",
+            "id": 19,
+            "bbox": [
+                280,
+                582,
+                314,
+                603
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "VLTU",
-                "OTHS:VALENTINO",
-                "OTHERS"
+                "19:31"
             ],
             "value_id": [
-                6,
-                7,
-                8
+                10
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "stS,"
+                "G36048750387C0204",
+                "20c"
             ],
             "value_id": [
-                9
+                18,
+                19
             ]
         },
         {
@@ -123,34 +221,16 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
+                "July",
+                "02",
+                ",",
                 "2020"
             ],
             "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "565.0o"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:22"
-            ],
-            "value_id": [
-                3
+                6,
+                7,
+                8,
+                9
             ]
         },
         {
@@ -158,10 +238,77 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "565.00"
+                "3,620.00"
             ],
             "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "OTHER",
+                "OPEN",
+                "SHOES"
+            ],
+            "value_id": [
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ROAD",
+                "-",
+                "-",
+                "125187",
+                "CHANEL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
                 5
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,620.00"
+            ],
+            "value_id": [
+                11
             ]
         }
     ],

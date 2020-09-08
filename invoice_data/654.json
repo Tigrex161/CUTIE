@@ -1,144 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "99.00",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                601,
-                575,
-                645,
-                593
+                253,
+                273,
+                464,
+                313
             ]
         },
         {
-            "text": "87.00",
+            "text": "June",
             "id": 2,
             "bbox": [
-                602,
-                622,
-                646,
-                639
+                381,
+                372,
+                403,
+                385
             ]
         },
         {
             "text": "30",
             "id": 3,
             "bbox": [
-                434,
-                578,
-                450,
-                594
+                409,
+                372,
+                420,
+                385
             ]
         },
         {
-            "text": "30",
+            "text": ",",
             "id": 4,
             "bbox": [
-                436,
-                621,
-                452,
-                639
+                422,
+                372,
+                423,
+                385
             ]
         },
         {
-            "text": "60",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                636,
-                700,
-                653,
-                717
+                429,
+                372,
+                453,
+                385
             ]
         },
         {
-            "text": "Columbia",
+            "text": "16:38",
             "id": 6,
             "bbox": [
-                231,
-                578,
-                303,
-                594
+                463,
+                372,
+                491,
+                385
             ]
         },
         {
-            "text": "NO-Origina",
+            "text": "4,470.00",
             "id": 7,
             "bbox": [
-                315,
-                579,
-                405,
-                596
+                504,
+                696,
+                557,
+                708
             ]
         },
         {
-            "text": "Lunga",
+            "text": "4,470.00",
             "id": 8,
             "bbox": [
-                306,
-                621,
-                351,
-                641
+                575,
+                537,
+                622,
+                551
             ]
         },
         {
-            "text": "6771530",
+            "text": "1",
             "id": 9,
             "bbox": [
-                135,
-                576,
-                200,
-                594
+                351,
+                542,
+                353,
+                552
             ]
         },
         {
-            "text": "6762290",
+            "text": "1",
             "id": 10,
             "bbox": [
-                132,
-                620,
-                199,
-                638
+                352,
+                578,
+                356,
+                593
+            ]
+        },
+        {
+            "text": "MULES",
+            "id": 11,
+            "bbox": [
+                81,
+                535,
+                121,
+                548
+            ]
+        },
+        {
+            "text": "G36150x0100094305",
+            "id": 12,
+            "bbox": [
+                81,
+                547,
+                200,
+                568
+            ]
+        },
+        {
+            "text": "90c",
+            "id": 13,
+            "bbox": [
+                205,
+                550,
+                225,
+                568
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "60"
+                "16:38"
             ],
             "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Columbia",
-                "NO-Origina",
-                "Lunga"
-            ],
-            "value_id": [
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "30",
-                "30"
-            ],
-            "value_id": [
-                3,
-                4
+                6
             ]
         },
         {
@@ -146,12 +148,29 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6771530",
-                "6762290"
+                "G36150x0100094305",
+                "90c"
             ],
             "value_id": [
-                9,
-                10
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "June",
+                "30",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -159,12 +178,65 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "99.00",
-                "87.00"
+                "4,470.00"
             ],
             "value_id": [
-                1,
-                2
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MULES"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4,470.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

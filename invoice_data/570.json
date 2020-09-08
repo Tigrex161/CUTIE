@@ -1,136 +1,166 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "THE",
             "id": 1,
             "bbox": [
-                413,
-                144,
-                506,
-                167
+                299,
+                180,
+                359,
+                261
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "MERCHANT",
             "id": 2,
             "bbox": [
-                518,
-                143,
-                623,
-                164
+                357,
+                166,
+                535,
+                257
             ]
         },
         {
-            "text": "14/07/20",
+            "text": "OF",
             "id": 3,
             "bbox": [
-                346,
-                427,
-                439,
-                447
+                329,
+                229,
+                366,
+                268
             ]
         },
         {
-            "text": "12:55",
+            "text": "VENICE",
             "id": 4,
             "bbox": [
-                454,
-                432,
-                511,
-                450
+                375,
+                224,
+                482,
+                267
             ]
         },
         {
-            "text": "966.00",
+            "text": "09/07/2020",
             "id": 5,
             "bbox": [
-                691,
-                636,
-                764,
-                658
+                464,
+                565,
+                573,
+                585
             ]
         },
         {
-            "text": "WOMEN",
+            "text": "12",
             "id": 6,
             "bbox": [
-                261,
-                645,
-                318,
-                662
+                466,
+                607,
+                483,
+                622
             ]
         },
         {
-            "text": "POCA",
+            "text": ":",
             "id": 7,
             "bbox": [
-                333,
-                645,
-                378,
-                662
+                490,
+                607,
+                493,
+                622
             ]
         },
         {
-            "text": "AND",
+            "text": "18",
             "id": 8,
             "bbox": [
-                393,
-                645,
-                424,
-                662
+                498,
+                607,
+                517,
+                622
             ]
         },
         {
-            "text": "POCA",
+            "text": "PM",
             "id": 9,
             "bbox": [
-                439,
-                643,
-                483,
-                661
+                531,
+                607,
+                552,
+                622
+            ]
+        },
+        {
+            "text": "265.00",
+            "id": 10,
+            "bbox": [
+                558,
+                905,
+                625,
+                923
             ]
         },
         {
             "text": "1",
-            "id": 10,
-            "bbox": [
-                275,
-                676,
-                279,
-                692
-            ]
-        },
-        {
-            "text": "900269401",
             "id": 11,
             "bbox": [
-                322,
-                676,
-                422,
-                694
+                619,
+                971,
+                626,
+                985
             ]
         },
         {
-            "text": "966.00",
+            "text": "252.00",
             "id": 12,
             "bbox": [
-                691,
-                765,
-                762,
-                785
+                557,
+                825,
+                622,
+                841
+            ]
+        },
+        {
+            "text": "1.0",
+            "id": 13,
+            "bbox": [
+                478,
+                823,
+                506,
+                839
+            ]
+        },
+        {
+            "text": "TMOV",
+            "id": 14,
+            "bbox": [
+                167,
+                822,
+                211,
+                838
+            ]
+        },
+        {
+            "text": "COLLECTI",
+            "id": 15,
+            "bbox": [
+                226,
+                822,
+                313,
+                839
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "WOMEN",
-                "POCA",
-                "AND",
-                "POCA"
+                "12",
+                ":",
+                "18",
+                "PM"
             ],
             "value_id": [
                 6,
@@ -140,71 +170,14 @@
             ]
         },
         {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
             "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "14/07/20"
+                "09/07/2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "966.00"
-            ],
-            "value_id": [
-                12
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900269401"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:55"
-            ],
-            "value_id": [
-                4
+                5
             ]
         },
         {
@@ -212,10 +185,73 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "966.00"
+                "252.00"
             ],
             "value_id": [
-                5
+                12
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "TMOV",
+                "COLLECTI"
+            ],
+            "value_id": [
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "THE",
+                "MERCHANT",
+                "OF",
+                "VENICE"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1.0"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "265.00"
+            ],
+            "value_id": [
+                10
             ]
         }
     ],

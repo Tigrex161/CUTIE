@@ -1,198 +1,206 @@
 {
     "text_boxes": [
         {
-            "text": "7/10/2020",
+            "text": "CHANEL",
             "id": 1,
             "bbox": [
-                396,
-                471,
-                486,
-                496
+                229,
+                57,
+                490,
+                106
             ]
         },
         {
-            "text": "144.00",
+            "text": "July",
             "id": 2,
             "bbox": [
-                627,
-                820,
-                685,
-                841
+                375,
+                170,
+                400,
+                187
             ]
         },
         {
-            "text": "80.00",
+            "text": "22",
             "id": 3,
             "bbox": [
-                630,
-                633,
-                678,
-                652
+                405,
+                170,
+                420,
+                185
             ]
         },
         {
-            "text": "64.00",
+            "text": ",",
             "id": 4,
             "bbox": [
-                631,
-                683,
-                680,
-                703
+                421,
+                170,
+                424,
+                185
             ]
         },
         {
-            "text": "20",
+            "text": "2020",
             "id": 5,
             "bbox": [
-                452,
-                641,
-                469,
-                659
+                431,
+                168,
+                462,
+                185
             ]
         },
         {
-            "text": "20",
+            "text": "11:44",
             "id": 6,
             "bbox": [
-                454,
-                691,
-                470,
-                708
+                473,
+                167,
+                509,
+                183
             ]
         },
         {
-            "text": "Bianco",
+            "text": "16,070.00",
             "id": 7,
             "bbox": [
-                236,
-                642,
-                294,
-                661
+                526,
+                591,
+                600,
+                607
             ]
         },
         {
-            "text": "Leggero",
+            "text": "16,070.00",
             "id": 8,
             "bbox": [
-                306,
-                641,
-                373,
-                660
+                618,
+                374,
+                685,
+                392
             ]
         },
         {
-            "text": "Voltesso",
+            "text": "1",
             "id": 9,
             "bbox": [
-                237,
-                692,
-                315,
-                712
+                342,
+                385,
+                347,
+                397
             ]
         },
         {
-            "text": "Espresso",
+            "text": "1",
             "id": 10,
             "bbox": [
-                327,
-                690,
-                403,
-                710
+                341,
+                447,
+                347,
+                459
             ]
         },
         {
-            "text": "40",
+            "text": "FLAPBAG",
             "id": 11,
             "bbox": [
-                664,
-                757,
-                681,
-                774
+                19,
+                387,
+                82,
+                402
             ]
         },
         {
-            "text": "6738220",
+            "text": "WITH",
             "id": 12,
             "bbox": [
-                138,
-                695,
-                205,
-                714
+                88,
+                386,
+                126,
+                400
             ]
         },
         {
-            "text": "6739520",
+            "text": "HANDLE",
             "id": 13,
             "bbox": [
-                136,
-                643,
-                204,
-                663
+                133,
+                385,
+                190,
+                400
+            ]
+        },
+        {
+            "text": "92991803391N7381",
+            "id": 14,
+            "bbox": [
+                31,
+                423,
+                157,
+                439
+            ]
+        },
+        {
+            "text": "\u0645",
+            "id": 15,
+            "bbox": [
+                19,
+                423,
+                23,
+                439
+            ]
+        },
+        {
+            "text": "\u062d\u0642\u064a\u0628\u0629",
+            "id": 16,
+            "bbox": [
+                84,
+                405,
+                105,
+                421
+            ]
+        },
+        {
+            "text": "\u064a\u0637\u064a\u0629",
+            "id": 17,
+            "bbox": [
+                63,
+                406,
+                81,
+                422
+            ]
+        },
+        {
+            "text": "\u0648\u0645\u0642\u0635",
+            "id": 18,
+            "bbox": [
+                28,
+                408,
+                59,
+                423
+            ]
+        },
+        {
+            "text": "\u06c1\u0648",
+            "id": 19,
+            "bbox": [
+                17,
+                409,
+                26,
+                423
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Bianco",
-                "Leggero",
-                "Voltesso",
-                "Espresso"
+                "11:44"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "40"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20",
-                "20"
-            ],
-            "value_id": [
-                5,
                 6
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7/10/2020"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "144.00"
-            ],
-            "value_id": [
-                2
             ]
         },
         {
@@ -200,12 +208,29 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "6738220",
-                "6739520"
+                "92991803391N7381",
+                "\u0645"
             ],
             "value_id": [
-                12,
-                13
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "22",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -213,12 +238,86 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "80.00",
-                "64.00"
+                "16,070.00"
             ],
             "value_id": [
-                3,
-                4
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062d\u0642\u064a\u0628\u0629",
+                "\u064a\u0637\u064a\u0629",
+                "\u0648\u0645\u0642\u0635",
+                "\u06c1\u0648"
+            ],
+            "value_id": [
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FLAPBAG",
+                "WITH",
+                "HANDLE"
+            ],
+            "value_id": [
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16,070.00"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

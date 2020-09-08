@@ -1,233 +1,106 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "Massimo",
             "id": 1,
             "bbox": [
-                335,
-                331,
-                385,
-                344
+                284,
+                109,
+                373,
+                131
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "Dutti",
             "id": 2,
             "bbox": [
-                392,
-                327,
-                447,
-                341
+                387,
+                109,
+                439,
+                131
             ]
         },
         {
-            "text": "10/07/20",
+            "text": "16.01.2030",
             "id": 3,
             "bbox": [
-                307,
-                492,
-                355,
-                503
+                227,
+                260,
+                287,
+                274
             ]
         },
         {
-            "text": "21:44",
+            "text": "13:19",
             "id": 4,
             "bbox": [
-                362,
-                490,
-                393,
-                501
+                297,
+                260,
+                325,
+                273
             ]
         },
         {
-            "text": "695.50",
+            "text": "429",
             "id": 5,
             "bbox": [
-                498,
-                745,
-                535,
-                757
+                436,
+                342,
+                453,
+                352
             ]
         },
         {
-            "text": "835.00",
+            "text": "1",
             "id": 6,
             "bbox": [
-                493,
-                600,
-                530,
-                612
+                303,
+                344,
+                307,
+                354
             ]
         },
         {
-            "text": "278",
+            "text": "0910057520803",
             "id": 7,
             "bbox": [
-                494,
-                650,
-                512,
-                661
-            ]
-        },
-        {
-            "text": "00",
-            "id": 8,
-            "bbox": [
-                519,
-                650,
-                530,
-                659
-            ]
-        },
-        {
-            "text": "Men's",
-            "id": 9,
-            "bbox": [
-                266,
-                594,
-                295,
-                603
-            ]
-        },
-        {
-            "text": "Wear",
-            "id": 10,
-            "bbox": [
-                304,
-                593,
-                327,
-                602
+                291,
+                357,
+                371,
+                373
             ]
         },
         {
             "text": "SHIRT",
-            "id": 11,
+            "id": 8,
             "bbox": [
-                266,
-                610,
-                295,
-                619
+                386,
+                360,
+                413,
+                371
             ]
         },
         {
-            "text": "SKU",
-            "id": 12,
+            "text": "10001190",
+            "id": 9,
             "bbox": [
-                304,
-                608,
-                321,
-                618
-            ]
-        },
-        {
-            "text": "900978480",
-            "id": 13,
-            "bbox": [
-                299,
-                622,
-                353,
-                636
-            ]
-        },
-        {
-            "text": "900734219",
-            "id": 14,
-            "bbox": [
-                304,
-                670,
-                354,
-                684
-            ]
-        },
-        {
-            "text": "MENSWEAR",
-            "id": 15,
-            "bbox": [
-                268,
-                656,
-                316,
-                667
-            ]
-        },
-        {
-            "text": "LAGERFELD",
-            "id": 16,
-            "bbox": [
-                324,
-                654,
-                379,
-                666
-            ]
-        },
-        {
-            "text": "S",
-            "id": 17,
-            "bbox": [
-                384,
-                655,
-                392,
-                664
+                228,
+                359,
+                275,
+                374
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Men's",
-                "Wear",
-                "SHIRT",
-                "SKU",
-                "MENSWEAR",
-                "LAGERFELD",
-                "S"
+                "13:19"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
-                15,
-                16,
-                17
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10/07/20"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "695.50"
-            ],
-            "value_id": [
-                5
+                4
             ]
         },
         {
@@ -235,23 +108,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900978480",
-                "900734219"
+                "10001190"
             ],
             "value_id": [
-                13,
-                14
+                9
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:44"
+                "16.01.2030"
             ],
             "value_id": [
-                4
+                3
             ]
         },
         {
@@ -259,14 +130,47 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "835.00",
-                "278",
-                "00"
+                "429"
             ],
             "value_id": [
-                6,
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0910057520803",
+                "SHIRT"
+            ],
+            "value_id": [
                 7,
                 8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Massimo",
+                "Dutti"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

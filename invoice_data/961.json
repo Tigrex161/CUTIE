@@ -1,141 +1,117 @@
 {
     "text_boxes": [
         {
-            "text": "JOE'S",
+            "text": "Massimo",
             "id": 1,
             "bbox": [
-                212,
-                265,
-                341,
-                319
+                269,
+                128,
+                382,
+                161
             ]
         },
         {
-            "text": "CAFE",
+            "text": "Dutti",
             "id": 2,
             "bbox": [
-                360,
-                261,
-                474,
-                312
+                404,
+                126,
+                473,
+                159
             ]
         },
         {
-            "text": "Jul18",
+            "text": "23-07-2020",
             "id": 3,
             "bbox": [
-                255,
-                584,
-                313,
-                615
+                194,
+                318,
+                275,
+                337
             ]
         },
         {
-            "text": "04:51PM",
+            "text": "11:33",
             "id": 4,
             "bbox": [
-                359,
-                582,
-                436,
-                605
+                288,
+                320,
+                325,
+                338
             ]
         },
         {
-            "text": "141.00",
+            "text": "469",
             "id": 5,
             "bbox": [
-                414,
-                743,
-                543,
-                768
+                465,
+                581,
+                488,
+                596
             ]
         },
         {
-            "text": "118.00",
+            "text": "469",
             "id": 6,
             "bbox": [
-                476,
-                660,
-                541,
-                682
+                466,
+                431,
+                488,
+                444
             ]
         },
         {
-            "text": "23.00",
+            "text": "0510065051440",
             "id": 7,
             "bbox": [
-                487,
-                689,
-                541,
-                709
+                278,
+                452,
+                381,
+                466
             ]
         },
         {
-            "text": "1",
+            "text": "TROUSERS",
             "id": 8,
             "bbox": [
-                149,
-                705,
-                154,
-                723
+                401,
+                452,
+                464,
+                466
             ]
         },
         {
-            "text": "Risotto",
+            "text": "10001125",
             "id": 9,
             "bbox": [
-                169,
-                673,
-                248,
-                695
-            ]
-        },
-        {
-            "text": "Prawn",
-            "id": 10,
-            "bbox": [
-                261,
-                670,
-                316,
-                690
-            ]
-        },
-        {
-            "text": "Coke",
-            "id": 11,
-            "bbox": [
-                170,
-                702,
-                214,
-                722
+                196,
+                452,
+                259,
+                464
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Risotto",
-                "Prawn",
-                "Coke"
+                "11:33"
             ],
             "value_id": [
-                9,
-                10,
-                11
+                4
             ]
         },
         {
-            "field_name": "item_quantity",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "10001125"
             ],
             "value_id": [
-                8
+                9
             ]
         },
         {
@@ -143,10 +119,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul18"
+                "23-07-2020"
             ],
             "value_id": [
                 3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "469"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0510065051440",
+                "TROUSERS"
+            ],
+            "value_id": [
+                7,
+                8
             ]
         },
         {
@@ -154,8 +154,8 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "JOE'S",
-                "CAFE"
+                "Massimo",
+                "Dutti"
             ],
             "value_id": [
                 1,
@@ -167,34 +167,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "141.00"
+                "469"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "04:51PM"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "118.00",
-                "23.00"
-            ],
-            "value_id": [
-                6,
-                7
             ]
         }
     ],

@@ -1,96 +1,116 @@
 {
     "text_boxes": [
         {
-            "text": "Manolo",
+            "text": "LOEWE",
             "id": 1,
             "bbox": [
-                298,
-                128,
-                356,
-                134
+                119,
+                169,
+                624,
+                327
             ]
         },
         {
-            "text": "Blahnik",
+            "text": "07/15/2020",
             "id": 2,
             "bbox": [
-                364,
-                127,
-                421,
-                134
+                152,
+                369,
+                207,
+                384
             ]
         },
         {
-            "text": "11/07/20",
+            "text": "240.00",
             "id": 3,
             "bbox": [
-                387,
-                479,
-                457,
-                495
+                468,
+                579,
+                505,
+                589
             ]
         },
         {
-            "text": "18:54:01",
+            "text": "2",
             "id": 4,
             "bbox": [
-                387,
-                504,
-                454,
-                520
+                547,
+                499,
+                551,
+                509
             ]
         },
         {
-            "text": "1,340.00",
+            "text": "333",
             "id": 5,
             "bbox": [
-                505,
-                733,
-                575,
-                750
+                553,
+                499,
+                570,
+                509
             ]
         },
         {
-            "text": "3,350.00",
+            "text": "33",
             "id": 6,
             "bbox": [
-                528,
-                645,
-                598,
-                660
+                573,
+                499,
+                584,
+                509
             ]
         },
         {
-            "text": "1003591000001229",
+            "text": "1",
             "id": 7,
             "bbox": [
-                229,
-                649,
-                388,
-                664
+                415,
+                500,
+                417,
+                510
             ]
         },
         {
-            "text": "100359",
+            "text": "POCKET",
             "id": 8,
             "bbox": [
-                343,
-                624,
-                400,
-                639
+                195,
+                489,
+                233,
+                502
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                503,
+                593,
+                504,
+                600
+            ]
+        },
+        {
+            "text": "001030054",
+            "id": 10,
+            "bbox": [
+                108,
+                485,
+                163,
+                498
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1003591000001229"
+                "001030054"
             ],
             "value_id": [
-                7
+                10
             ]
         },
         {
@@ -98,56 +118,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11/07/20"
+                "07/15/2020"
             ],
             "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Manolo",
-                "Blahnik"
-            ],
-            "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,340.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "100359"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "18:54:01"
-            ],
-            "value_id": [
-                4
             ]
         },
         {
@@ -155,10 +129,69 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "3,350.00"
+                "2",
+                "333",
+                "33"
             ],
             "value_id": [
+                4,
+                5,
                 6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "POCKET"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOEWE"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "240.00"
+            ],
+            "value_id": [
+                3
             ]
         }
     ],

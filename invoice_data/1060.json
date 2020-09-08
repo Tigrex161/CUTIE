@@ -1,0 +1,291 @@
+{
+    "text_boxes": [
+        {
+            "text": "SEPHORA",
+            "id": 1,
+            "bbox": [
+                364,
+                270,
+                419,
+                292
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 2,
+            "bbox": [
+                427,
+                269,
+                466,
+                291
+            ]
+        },
+        {
+            "text": "MALL",
+            "id": 3,
+            "bbox": [
+                475,
+                268,
+                506,
+                289
+            ]
+        },
+        {
+            "text": "July",
+            "id": 4,
+            "bbox": [
+                453,
+                1200,
+                489,
+                1229
+            ]
+        },
+        {
+            "text": "29,2020",
+            "id": 5,
+            "bbox": [
+                498,
+                1197,
+                560,
+                1228
+            ]
+        },
+        {
+            "text": "14:03:25",
+            "id": 6,
+            "bbox": [
+                570,
+                1194,
+                640,
+                1225
+            ]
+        },
+        {
+            "text": "1",
+            "id": 7,
+            "bbox": [
+                640,
+                1152,
+                644,
+                1173
+            ]
+        },
+        {
+            "text": "105.00",
+            "id": 8,
+            "bbox": [
+                525,
+                751,
+                621,
+                775
+            ]
+        },
+        {
+            "text": "105.00",
+            "id": 9,
+            "bbox": [
+                570,
+                671,
+                618,
+                690
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                379,
+                679,
+                384,
+                698
+            ]
+        },
+        {
+            "text": "CLEAR",
+            "id": 11,
+            "bbox": [
+                409,
+                636,
+                451,
+                657
+            ]
+        },
+        {
+            "text": "BROW",
+            "id": 12,
+            "bbox": [
+                458,
+                635,
+                492,
+                656
+            ]
+        },
+        {
+            "text": "GEL",
+            "id": 13,
+            "bbox": [
+                499,
+                633,
+                525,
+                654
+            ]
+        },
+        {
+            "text": "139712661260",
+            "id": 14,
+            "bbox": [
+                273,
+                639,
+                369,
+                663
+            ]
+        },
+        {
+            "text": "\u0645\u0643\u064a\u0627\u062c",
+            "id": 15,
+            "bbox": [
+                330,
+                661,
+                370,
+                679
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062f\u0645",
+            "id": 16,
+            "bbox": [
+                272,
+                663,
+                318,
+                681
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:03:25"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "139712661260"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "July",
+                "29,2020"
+            ],
+            "value_id": [
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0643\u064a\u0627\u062c",
+                "\u0627\u0644\u062f\u0645"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CLEAR",
+                "BROW",
+                "GEL"
+            ],
+            "value_id": [
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SEPHORA",
+                "DUBAI",
+                "MALL"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "105.00"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1060.jpg"
+    }
+}

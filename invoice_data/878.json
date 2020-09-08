@@ -1,168 +1,179 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                350,
-                77,
-                386,
-                90
+                303,
+                85,
+                376,
+                105
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "HOME",
             "id": 2,
             "bbox": [
-                392,
-                74,
-                448,
-                91
+                395,
+                85,
+                474,
+                105
             ]
         },
         {
-            "text": "MAUFTERAA",
+            "text": "17.01.2020",
             "id": 3,
             "bbox": [
-                375,
-                86,
-                424,
-                97
+                247,
+                241,
+                309,
+                257
             ]
         },
         {
-            "text": "17/07/2020",
+            "text": "13:10",
             "id": 4,
             "bbox": [
-                548,
-                275,
-                605,
-                285
+                319,
+                243,
+                349,
+                258
             ]
         },
         {
-            "text": "11:32",
+            "text": "199",
             "id": 5,
             "bbox": [
-                625,
-                273,
-                653,
-                280
+                461,
+                318,
+                477,
+                329
             ]
         },
         {
-            "text": "1,180.00",
+            "text": "101",
             "id": 6,
             "bbox": [
-                686,
-                493,
-                732,
-                503
+                461,
+                351,
+                479,
+                370
             ]
         },
         {
-            "text": "1,180.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                681,
+                324,
+                348,
                 328,
-                727,
-                337
+                364
             ]
         },
         {
-            "text": "LPO004",
+            "text": "4020370730299",
             "id": 8,
             "bbox": [
-                80,
-                351,
-                112,
-                359
+                311,
+                332,
+                393,
+                347
             ]
         },
         {
-            "text": "MATIERE",
+            "text": "AIR",
             "id": 9,
             "bbox": [
-                125,
-                350,
-                164,
-                358
+                409,
+                334,
+                426,
+                347
             ]
         },
         {
-            "text": "NOIRE",
+            "text": "FRESHENER",
             "id": 10,
             "bbox": [
-                171,
-                348,
-                199,
-                356
+                435,
+                334,
+                491,
+                349
             ]
         },
         {
-            "text": "100ML",
+            "text": "4591070053799",
             "id": 11,
             "bbox": [
-                206,
-                347,
-                234,
-                355
+                311,
+                365,
+                392,
+                383
             ]
         },
         {
-            "text": "EDP",
+            "text": "AIR",
             "id": 12,
             "bbox": [
-                240,
-                346,
-                257,
-                353
+                408,
+                368,
+                425,
+                383
             ]
         },
         {
-            "text": "PERFUME",
+            "text": "FRESHENER",
             "id": 13,
             "bbox": [
-                81,
-                361,
-                119,
-                369
+                434,
+                368,
+                490,
+                385
             ]
         },
         {
-            "text": "(STOCK)",
+            "text": "10001121",
             "id": 14,
             "bbox": [
-                128,
-                360,
-                163,
-                369
+                246,
+                330,
+                295,
+                345
+            ]
+        },
+        {
+            "text": "10002151",
+            "id": 15,
+            "bbox": [
+                246,
+                364,
+                295,
+                381
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "LPO004",
-                "MATIERE",
-                "NOIRE",
-                "100ML",
-                "EDP",
-                "PERFUME",
-                "(STOCK)"
+                "13:10"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001121",
+                "10002151"
+            ],
+            "value_id": [
+                14,
+                15
             ]
         },
         {
@@ -170,47 +181,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "17/07/2020"
+                "17.01.2020"
             ],
             "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MAUFTERAA"
-            ],
-            "value_id": [
-                1,
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,180.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:32"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -218,7 +192,54 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,180.00"
+                "199",
+                "101"
+            ],
+            "value_id": [
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4020370730299",
+                "AIR",
+                "FRESHENER",
+                "4591070053799",
+                "AIR",
+                "FRESHENER"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA",
+                "HOME"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 7

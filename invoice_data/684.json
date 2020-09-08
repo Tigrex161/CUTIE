@@ -1,308 +1,86 @@
 {
     "text_boxes": [
         {
-            "text": "MISSONI",
+            "text": "ZARA",
             "id": 1,
             "bbox": [
-                295,
-                219,
-                569,
-                270
+                296,
+                106,
+                445,
+                169
             ]
         },
         {
-            "text": "TD",
+            "text": "-",
             "id": 2,
             "bbox": [
-                478,
-                264,
-                516,
-                270
+                414,
+                175,
+                414,
+                191
             ]
         },
         {
-            "text": "TRADE",
+            "text": "11.07.2020",
             "id": 3,
             "bbox": [
-                519,
-                263,
-                539,
-                269
+                186,
+                414,
+                274,
+                434
             ]
         },
         {
-            "text": "MAK",
+            "text": "15:56",
             "id": 4,
             "bbox": [
-                542,
-                264,
-                561,
-                268
+                288,
+                415,
+                329,
+                434
             ]
         },
         {
-            "text": "21/07/2020",
+            "text": "0277500180003",
             "id": 5,
             "bbox": [
-                332,
-                478,
-                403,
-                493
+                277,
+                530,
+                394,
+                549
             ]
         },
         {
-            "text": "22:00:16",
+            "text": "*",
             "id": 6,
             "bbox": [
-                328,
-                497,
-                371,
-                508
+                311,
+                532,
+                347,
+                576
             ]
         },
         {
-            "text": "2,830.00",
+            "text": "10001739",
             "id": 7,
             "bbox": [
-                479,
-                828,
-                528,
-                841
-            ]
-        },
-        {
-            "text": "1,520",
-            "id": 8,
-            "bbox": [
-                493,
-                674,
-                518,
-                685
-            ]
-        },
-        {
-            "text": "00",
-            "id": 9,
-            "bbox": [
-                523,
-                676,
-                534,
-                684
-            ]
-        },
-        {
-            "text": "1,310.00",
-            "id": 10,
-            "bbox": [
-                490,
-                722,
-                533,
-                734
-            ]
-        },
-        {
-            "text": "1",
-            "id": 11,
-            "bbox": [
-                368,
-                668,
-                370,
-                676
-            ]
-        },
-        {
-            "text": "1",
-            "id": 12,
-            "bbox": [
-                366,
-                717,
-                368,
-                724
-            ]
-        },
-        {
-            "text": "SWIM",
-            "id": 13,
-            "bbox": [
-                292,
-                682,
-                325,
-                693
-            ]
-        },
-        {
-            "text": "SUIT",
-            "id": 14,
-            "bbox": [
-                330,
-                684,
-                357,
-                694
-            ]
-        },
-        {
-            "text": "SWIM",
-            "id": 15,
-            "bbox": [
-                289,
-                730,
-                324,
-                743
-            ]
-        },
-        {
-            "text": "SUIT",
-            "id": 16,
-            "bbox": [
-                328,
-                732,
-                355,
-                743
-            ]
-        },
-        {
-            "text": "MUPO0012",
-            "id": 17,
-            "bbox": [
-                291,
-                713,
-                351,
-                726
-            ]
-        },
-        {
-            "text": "MUPO0005",
-            "id": 18,
-            "bbox": [
-                292,
-                664,
-                353,
-                677
-            ]
-        },
-        {
-            "text": "\u0645\u0627\u06cc\u0648\u0647",
-            "id": 19,
-            "bbox": [
-                317,
-                749,
-                336,
-                761
-            ]
-        },
-        {
-            "text": "\u0633\u064a\u0644\u062d\u0629",
-            "id": 20,
-            "bbox": [
-                290,
-                748,
-                314,
-                759
-            ]
-        },
-        {
-            "text": "2",
-            "id": 21,
-            "bbox": [
-                341,
-                764,
-                350,
-                779
+                184,
+                530,
+                255,
+                548
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SWIM",
-                "SUIT",
-                "SWIM",
-                "SUIT"
+                "15:56"
             ],
             "value_id": [
-                13,
-                14,
-                15,
-                16
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2"
-            ],
-            "value_id": [
-                21
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0645\u0627\u06cc\u0648\u0647",
-                "\u0633\u064a\u0644\u062d\u0629"
-            ],
-            "value_id": [
-                19,
-                20
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1",
-                "1"
-            ],
-            "value_id": [
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "21/07/2020"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MISSONI",
-                "TD",
-                "TRADE",
-                "MAK"
-            ],
-            "value_id": [
-                1,
-                2,
-                3,
                 4
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,830.00"
-            ],
-            "value_id": [
-                7
             ]
         },
         {
@@ -310,38 +88,47 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "MUPO0012",
-                "MUPO0005"
+                "10001739"
             ],
             "value_id": [
-                17,
-                18
+                7
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "22:00:16"
+                "11.07.2020"
             ],
             "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0277500180003",
+                "*"
+            ],
+            "value_id": [
+                5,
                 6
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "store_name",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,520",
-                "00",
-                "1,310.00"
+                "ZARA",
+                "-"
             ],
             "value_id": [
-                8,
-                9,
-                10
+                1,
+                2
             ]
         }
     ],

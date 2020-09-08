@@ -1,0 +1,309 @@
+{
+    "text_boxes": [
+        {
+            "text": "M",
+            "id": 1,
+            "bbox": [
+                294,
+                88,
+                339,
+                149
+            ]
+        },
+        {
+            "text": "&",
+            "id": 2,
+            "bbox": [
+                352,
+                88,
+                393,
+                149
+            ]
+        },
+        {
+            "text": "S",
+            "id": 3,
+            "bbox": [
+                398,
+                88,
+                433,
+                149
+            ]
+        },
+        {
+            "text": "LONDON",
+            "id": 4,
+            "bbox": [
+                328,
+                149,
+                400,
+                165
+            ]
+        },
+        {
+            "text": "11/07/2020",
+            "id": 5,
+            "bbox": [
+                297,
+                356,
+                366,
+                376
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 6,
+            "bbox": [
+                416,
+                360,
+                428,
+                377
+            ]
+        },
+        {
+            "text": "5:29:10",
+            "id": 7,
+            "bbox": [
+                370,
+                358,
+                410,
+                377
+            ]
+        },
+        {
+            "text": "297,50",
+            "id": 8,
+            "bbox": [
+                491,
+                791,
+                527,
+                804
+            ]
+        },
+        {
+            "text": "29750",
+            "id": 9,
+            "bbox": [
+                480,
+                655,
+                517,
+                667
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                398,
+                658,
+                401,
+                671
+            ]
+        },
+        {
+            "text": "60444097011",
+            "id": 11,
+            "bbox": [
+                207,
+                676,
+                283,
+                691
+            ]
+        },
+        {
+            "text": "8473",
+            "id": 12,
+            "bbox": [
+                291,
+                676,
+                317,
+                691
+            ]
+        },
+        {
+            "text": "WST",
+            "id": 13,
+            "bbox": [
+                322,
+                676,
+                346,
+                691
+            ]
+        },
+        {
+            "text": "SASKR",
+            "id": 14,
+            "bbox": [
+                351,
+                675,
+                384,
+                691
+            ]
+        },
+        {
+            "text": "LACE",
+            "id": 15,
+            "bbox": [
+                389,
+                675,
+                414,
+                690
+            ]
+        },
+        {
+            "text": "MD",
+            "id": 16,
+            "bbox": [
+                420,
+                675,
+                438,
+                690
+            ]
+        },
+        {
+            "text": "SW",
+            "id": 17,
+            "bbox": [
+                443,
+                675,
+                458,
+                690
+            ]
+        },
+        {
+            "text": "12R",
+            "id": 18,
+            "bbox": [
+                465,
+                675,
+                486,
+                690
+            ]
+        },
+        {
+            "text": "05832279",
+            "id": 19,
+            "bbox": [
+                225,
+                659,
+                280,
+                672
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PM",
+                "5:29:10"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "05832279"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "29750"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "60444097011",
+                "8473",
+                "WST",
+                "SASKR",
+                "LACE",
+                "MD",
+                "SW",
+                "12R"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "M",
+                "&",
+                "S",
+                "LONDON"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "297,50"
+            ],
+            "value_id": [
+                8
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1319.jpg"
+    }
+}

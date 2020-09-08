@@ -1,152 +1,153 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "GALBEES",
             "id": 1,
             "bbox": [
-                1494,
-                938,
-                1565,
-                968
+                401,
+                152,
+                452,
+                167
             ]
         },
         {
-            "text": "2020",
+            "text": "LAHAYETTE",
             "id": 2,
             "bbox": [
-                1596,
-                932,
-                1674,
-                961
+                459,
+                152,
+                511,
+                167
             ]
         },
         {
-            "text": "12:29",
+            "text": "26/07/20",
             "id": 3,
             "bbox": [
-                1700,
-                930,
-                1796,
-                961
+                378,
+                302,
+                425,
+                317
             ]
         },
         {
-            "text": "1,087.00",
+            "text": "19:13",
             "id": 4,
             "bbox": [
-                1845,
-                1607,
-                2002,
-                1647
+                435,
+                300,
+                461,
+                316
             ]
         },
         {
-            "text": "1,087.00",
+            "text": "$",
             "id": 5,
             "bbox": [
-                1853,
-                1368,
-                2006,
-                1403
+                559,
+                507,
+                562,
+                521
             ]
         },
         {
-            "text": "679710-705644",
+            "text": "26.00",
             "id": 6,
             "bbox": [
-                430,
-                1295,
-                692,
-                1331
+                567,
+                507,
+                596,
+                521
             ]
         },
         {
-            "text": "1051Sro.7056441MEN'S",
+            "text": "750.00",
             "id": 7,
             "bbox": [
-                716,
-                1302,
-                1113,
-                1327
+                556,
+                404,
+                590,
+                417
             ]
         },
         {
-            "text": "BELTS",
+            "text": "1",
             "id": 8,
             "bbox": [
-                1138,
-                1305,
-                1233,
-                1327
+                587,
+                451,
+                590,
+                461
             ]
         },
         {
-            "text": "028524407607",
+            "text": "Shoe",
             "id": 9,
             "bbox": [
-                420,
-                1352,
-                660,
-                1378
+                335,
+                392,
+                358,
+                407
             ]
         },
         {
-            "text": "LA/n/pl",
+            "text": "SHOES",
             "id": 10,
             "bbox": [
-                1528,
-                1301,
-                1769,
-                1336
+                334,
+                407,
+                363,
+                422
+            ]
+        },
+        {
+            "text": "HILL",
+            "id": 11,
+            "bbox": [
+                370,
+                407,
+                392,
+                422
+            ]
+        },
+        {
+            "text": "LOW",
+            "id": 12,
+            "bbox": [
+                401,
+                407,
+                418,
+                422
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 13,
+            "bbox": [
+                426,
+                407,
+                442,
+                422
+            ]
+        },
+        {
+            "text": "1900884241",
+            "id": 14,
+            "bbox": [
+                341,
+                422,
+                416,
+                437
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "679710-705644",
-                "1051Sro.7056441MEN'S",
-                "BELTS"
-            ],
-            "value_id": [
-                6,
-                7,
-                8
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LA/n/pl"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,",
-                "2020"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,087.00"
+                "19:13"
             ],
             "value_id": [
                 4
@@ -157,18 +158,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "028524407607"
+                "1900884241"
             ],
             "value_id": [
-                9
+                14
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:29"
+                "26/07/20"
             ],
             "value_id": [
                 3
@@ -179,10 +180,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,087.00"
+                "750.00"
             ],
             "value_id": [
-                5
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Shoe",
+                "SHOES",
+                "HILL",
+                "LOW",
+                "SKU"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALBEES",
+                "LAHAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "$",
+                "26.00"
+            ],
+            "value_id": [
+                5,
+                6
             ]
         }
     ],

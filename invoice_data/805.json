@@ -4,129 +4,164 @@
             "text": "GALERIES",
             "id": 1,
             "bbox": [
-                366,
-                190,
-                479,
-                205
+                307,
+                116,
+                370,
+                134
             ]
         },
         {
             "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                498,
-                188,
-                625,
-                204
+                379,
+                118,
+                450,
+                136
             ]
         },
         {
-            "text": "20/07/20",
+            "text": "16/07/20",
             "id": 3,
             "bbox": [
-                291,
-                542,
-                403,
-                563
+                262,
+                308,
+                327,
+                326
             ]
         },
         {
-            "text": "17:52",
+            "text": "21:10",
             "id": 4,
             "bbox": [
-                424,
-                543,
-                491,
-                560
+                337,
+                309,
+                377,
+                325
             ]
         },
         {
-            "text": "1,000.00",
+            "text": "410.00",
             "id": 5,
             "bbox": [
-                685,
-                936,
-                799,
-                955
+                503,
+                545,
+                551,
+                562
             ]
         },
         {
-            "text": "1,000.00",
+            "text": "410.00",
             "id": 6,
             "bbox": [
-                688,
-                790,
-                802,
-                811
+                504,
+                459,
+                552,
+                473
             ]
         },
         {
-            "text": "EDF",
+            "text": "1",
             "id": 7,
             "bbox": [
-                186,
-                795,
-                227,
-                811
+                215,
+                482,
+                217,
+                498
             ]
         },
         {
-            "text": "MCD",
+            "text": "Women's",
             "id": 8,
             "bbox": [
-                246,
-                797,
-                288,
-                812
+                206,
+                439,
+                261,
+                457
             ]
         },
         {
-            "text": "PURPLE",
+            "text": "Underwear",
             "id": 9,
             "bbox": [
-                307,
-                798,
-                391,
-                813
+                272,
+                439,
+                343,
+                457
             ]
         },
         {
-            "text": "OUD",
+            "text": "UNDERWEAR",
             "id": 10,
             "bbox": [
-                408,
-                797,
-                449,
-                813
+                205,
+                459,
+                276,
+                476
             ]
         },
         {
-            "text": "900972261",
+            "text": "EMPORIO",
             "id": 11,
             "bbox": [
-                269,
-                825,
-                392,
-                854
+                287,
+                459,
+                342,
+                476
+            ]
+        },
+        {
+            "text": "AR",
+            "id": 12,
+            "bbox": [
+                352,
+                459,
+                367,
+                476
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                546,
+                502,
+                549,
+                516
+            ]
+        },
+        {
+            "text": "900977358",
+            "id": 14,
+            "bbox": [
+                247,
+                480,
+                318,
+                498
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "EDF",
-                "MCD",
-                "PURPLE",
-                "OUD"
+                "21:10"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900977358"
+            ],
+            "value_id": [
+                14
             ]
         },
         {
@@ -134,10 +169,40 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20/07/20"
+                "16/07/20"
             ],
             "value_id": [
                 3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "410.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Women's",
+                "Underwear",
+                "UNDERWEAR",
+                "EMPORIO",
+                "AR"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
             ]
         },
         {
@@ -154,47 +219,36 @@
             ]
         },
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,000.00"
+                "410.00"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "900972261"
-            ],
-            "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:52"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,000.00"
-            ],
-            "value_id": [
-                6
             ]
         }
     ],

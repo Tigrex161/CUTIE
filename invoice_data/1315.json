@@ -1,0 +1,216 @@
+{
+    "text_boxes": [
+        {
+            "text": "level",
+            "id": 1,
+            "bbox": [
+                337,
+                310,
+                388,
+                344
+            ]
+        },
+        {
+            "text": "Jul",
+            "id": 2,
+            "bbox": [
+                428,
+                436,
+                445,
+                446
+            ]
+        },
+        {
+            "text": ",",
+            "id": 3,
+            "bbox": [
+                447,
+                436,
+                449,
+                446
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 4,
+            "bbox": [
+                459,
+                435,
+                482,
+                446
+            ]
+        },
+        {
+            "text": "14:12",
+            "id": 5,
+            "bbox": [
+                491,
+                435,
+                518,
+                445
+            ]
+        },
+        {
+            "text": "1,900.00",
+            "id": 6,
+            "bbox": [
+                509,
+                619,
+                552,
+                629
+            ]
+        },
+        {
+            "text": "700.00",
+            "id": 7,
+            "bbox": [
+                534,
+                560,
+                566,
+                569
+            ]
+        },
+        {
+            "text": "COU",
+            "id": 8,
+            "bbox": [
+                124,
+                544,
+                139,
+                554
+            ]
+        },
+        {
+            "text": "OTISIVATE",
+            "id": 9,
+            "bbox": [
+                147,
+                544,
+                216,
+                554
+            ]
+        },
+        {
+            "text": "COLLECTION",
+            "id": 10,
+            "bbox": [
+                224,
+                544,
+                282,
+                554
+            ]
+        },
+        {
+            "text": "METHER",
+            "id": 11,
+            "bbox": [
+                287,
+                544,
+                344,
+                555
+            ]
+        },
+        {
+            "text": "0630130632003013020",
+            "id": 12,
+            "bbox": [
+                122,
+                561,
+                265,
+                571
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14:12"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0630130632003013020"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Jul",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "700.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "COU",
+                "OTISIVATE",
+                "COLLECTION",
+                "METHER"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,900.00"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1315.jpg"
+    }
+}

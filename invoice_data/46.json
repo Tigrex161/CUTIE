@@ -1,227 +1,126 @@
 {
     "text_boxes": [
         {
-            "text": "DOLCE",
+            "text": "LOUIS",
             "id": 1,
             "bbox": [
-                219,
-                350,
-                361,
-                392
+                464,
+                275,
+                510,
+                293
             ]
         },
         {
-            "text": "&",
+            "text": "VUITTON",
             "id": 2,
             "bbox": [
-                369,
-                374,
-                382,
-                391
+                518,
+                274,
+                589,
+                292
             ]
         },
         {
-            "text": "GABBANA",
+            "text": "01/07/2020",
             "id": 3,
             "bbox": [
-                391,
-                352,
-                611,
-                399
+                708,
+                527,
+                782,
+                541
             ]
         },
         {
-            "text": "July,",
+            "text": "16:19",
             "id": 4,
             "bbox": [
-                588,
-                482,
-                625,
-                495
+                807,
+                527,
+                843,
+                541
             ]
         },
         {
-            "text": "01",
+            "text": "2.750.00",
             "id": 5,
             "bbox": [
-                638,
-                484,
-                652,
-                493
+                881,
+                804,
+                941,
+                818
             ]
         },
         {
-            "text": "2020",
+            "text": "2.750.00",
             "id": 6,
             "bbox": [
-                663,
-                484,
-                694,
-                494
+                872,
+                596,
+                932,
+                612
             ]
         },
         {
-            "text": "16:24",
+            "text": "1",
             "id": 7,
             "bbox": [
-                705,
-                485,
-                743,
-                495
+                400,
+                601,
+                405,
+                610
             ]
         },
         {
-            "text": "4,462.",
+            "text": "LAWIN",
             "id": 8,
             "bbox": [
-                625,
-                810,
-                665,
-                823
+                101,
+                599,
+                143,
+                611
             ]
         },
         {
-            "text": "0o",
+            "text": "ELICONIOO",
             "id": 9,
             "bbox": [
-                667,
-                810,
-                677,
-                823
+                159,
+                598,
+                262,
+                612
             ]
         },
         {
-            "text": "4,",
+            "text": "HOCKENHEIM",
             "id": 10,
             "bbox": [
-                634,
-                740,
-                644,
-                749
+                272,
+                600,
+                346,
+                612
             ]
         },
         {
-            "text": "462.00",
+            "text": "SHORS",
             "id": 11,
             "bbox": [
-                649,
-                740,
-                692,
-                750
-            ]
-        },
-        {
-            "text": "BB6003A109580999:",
-            "id": 12,
-            "bbox": [
-                222,
-                710,
-                345,
-                723
-            ]
-        },
-        {
-            "text": "DGA.",
-            "id": 13,
-            "bbox": [
-                348,
-                713,
-                373,
-                721
-            ]
-        },
-        {
-            "text": "B0999:",
-            "id": 14,
-            "bbox": [
-                377,
-                712,
-                415,
-                720
-            ]
-        },
-        {
-            "text": "P2:SICILY",
-            "id": 15,
-            "bbox": [
-                419,
-                712,
-                481,
-                724
-            ]
-        },
-        {
-            "text": "BAG",
-            "id": 16,
-            "bbox": [
-                488,
-                717,
-                512,
-                725
-            ]
-        },
-        {
-            "text": "SMALL",
-            "id": 17,
-            "bbox": [
-                517,
-                718,
-                554,
-                727
-            ]
-        },
-        {
-            "text": "009422579327",
-            "id": 18,
-            "bbox": [
-                125,
-                711,
-                214,
-                721
-            ]
-        },
-        {
-            "text": "L",
-            "id": 19,
-            "bbox": [
-                626,
-                716,
-                634,
-                727
+                98,
+                612,
+                134,
+                627
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "BB6003A109580999:",
-                "DGA.",
-                "B0999:",
-                "P2:SICILY",
-                "BAG",
-                "SMALL"
+                "16:19"
             ],
             "value_id": [
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "L"
-            ],
-            "value_id": [
-                19
+                4
             ]
         },
         {
@@ -229,64 +128,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "July,",
-                "01",
-                "2020"
+                "01/07/2020"
             ],
             "value_id": [
-                4,
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "DOLCE",
-                "&",
-                "GABBANA"
-            ],
-            "value_id": [
-                1,
-                2,
                 3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4,462.",
-                "0o"
-            ],
-            "value_id": [
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "009422579327"
-            ],
-            "value_id": [
-                18
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "16:24"
-            ],
-            "value_id": [
-                7
             ]
         },
         {
@@ -294,12 +139,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4,",
-                "462.00"
+                "2.750.00"
             ],
             "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LAWIN",
+                "ELICONIOO",
+                "HOCKENHEIM",
+                "SHORS"
+            ],
+            "value_id": [
+                8,
+                9,
                 10,
                 11
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.750.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

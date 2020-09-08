@@ -1,144 +1,175 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                330,
-                267,
-                390,
-                317
+                302,
+                204,
+                359,
+                221
             ]
         },
         {
-            "text": "SHOES",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                341,
-                316,
-                379,
-                325
+                367,
+                199,
+                430,
+                217
             ]
         },
         {
-            "text": "20.00",
+            "text": "27/07/20",
             "id": 3,
             "bbox": [
-                558,
-                648,
-                594,
-                655
+                268,
+                367,
+                326,
+                382
             ]
         },
         {
-            "text": "250.00",
+            "text": "11:08",
             "id": 4,
             "bbox": [
-                563,
-                571,
-                598,
-                579
+                336,
+                366,
+                371,
+                381
             ]
         },
         {
-            "text": "1H02P-GPLICTI..GINIPL25:100",
+            "text": "990.00",
             "id": 5,
             "bbox": [
-                133,
-                554,
-                328,
-                563
+                498,
+                546,
+                545,
+                564
             ]
         },
         {
-            "text": "E",
+            "text": "990.00",
             "id": 6,
             "bbox": [
-                339,
-                553,
-                352,
-                563
+                493,
+                474,
+                539,
+                492
             ]
         },
         {
-            "text": "DO",
+            "text": "1",
             "id": 7,
             "bbox": [
-                356,
-                552,
-                365,
-                562
+                221,
+                505,
+                225,
+                516
             ]
         },
         {
-            "text": "GLITTER",
+            "text": "Luxurious",
             "id": 8,
             "bbox": [
-                376,
-                554,
-                417,
-                561
+                214,
+                468,
+                282,
+                483
             ]
         },
         {
-            "text": "Ja",
+            "text": "Acessory",
             "id": 9,
             "bbox": [
-                467,
-                555,
-                489,
-                562
+                292,
+                468,
+                360,
+                483
+            ]
+        },
+        {
+            "text": "ACC",
+            "id": 10,
+            "bbox": [
+                213,
+                488,
+                235,
+                500
+            ]
+        },
+        {
+            "text": "FENDI",
+            "id": 11,
+            "bbox": [
+                245,
+                488,
+                282,
+                500
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 12,
+            "bbox": [
+                293,
+                488,
+                314,
+                500
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                537,
+                511,
+                541,
+                522
+            ]
+        },
+        {
+            "text": "900077447",
+            "id": 14,
+            "bbox": [
+                252,
+                505,
+                321,
+                516
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1H02P-GPLICTI..GINIPL25:100",
-                "E",
-                "DO",
-                "GLITTER"
+                "11:08"
             ],
             "value_id": [
-                5,
-                6,
-                7,
-                8
+                4
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Ja"
+                "900077447"
             ],
             "value_id": [
-                9
+                14
             ]
         },
         {
-            "field_name": "store_name",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "level",
-                "SHOES"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20.00"
+                "27/07/20"
             ],
             "value_id": [
                 3
@@ -149,10 +180,75 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "250.00"
+                "990.00"
             ],
             "value_id": [
-                4
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Luxurious",
+                "Acessory",
+                "ACC",
+                "FENDI",
+                "SKU"
+            ],
+            "value_id": [
+                8,
+                9,
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "990.00"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

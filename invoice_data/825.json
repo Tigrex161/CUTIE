@@ -1,216 +1,180 @@
 {
     "text_boxes": [
         {
-            "text": "Apple",
+            "text": "Reel",
             "id": 1,
             "bbox": [
-                198,
-                244,
-                224,
-                255
+                238,
+                155,
+                275,
+                197
             ]
         },
         {
-            "text": "Dubai",
+            "text": "Entertainment",
             "id": 2,
             "bbox": [
-                228,
-                245,
-                253,
-                253
+                288,
+                153,
+                413,
+                196
             ]
         },
         {
-            "text": "Mall",
+            "text": "11",
             "id": 3,
             "bbox": [
-                258,
-                246,
-                276,
-                253
+                203,
+                307,
+                213,
+                325
             ]
         },
         {
-            "text": "29/07/20",
+            "text": "Ju120",
             "id": 4,
             "bbox": [
-                198,
-                1517,
-                238,
-                1524
+                216,
+                307,
+                250,
+                325
             ]
         },
         {
-            "text": "14:13",
+            "text": "14",
             "id": 5,
             "bbox": [
-                248,
-                1517,
-                269,
-                1523
+                156,
+                308,
+                168,
+                326
             ]
         },
         {
-            "text": "AED",
+            "text": ":",
             "id": 6,
             "bbox": [
-                571,
-                1287,
-                589,
-                1294
+                173,
+                308,
+                176,
+                326
             ]
         },
         {
-            "text": "2,129.00",
+            "text": "11",
             "id": 7,
             "bbox": [
-                593,
-                1286,
-                629,
-                1294
+                178,
+                308,
+                189,
+                326
             ]
         },
         {
-            "text": "AED",
+            "text": "122.50",
             "id": 8,
             "bbox": [
-                575,
-                1036,
-                592,
-                1043
+                479,
+                493,
+                534,
+                515
             ]
         },
         {
-            "text": "2,129.00",
+            "text": "94.50",
             "id": 9,
             "bbox": [
-                596,
-                1036,
-                629,
-                1044
+                488,
+                421,
+                535,
+                444
             ]
         },
         {
-            "text": "AED",
+            "text": "28.00",
             "id": 10,
             "bbox": [
-                592,
-                852,
-                608,
-                859
+                487,
+                443,
+                535,
+                467
             ]
         },
         {
-            "text": "0.00",
+            "text": "2",
             "id": 11,
             "bbox": [
-                612,
-                852,
-                629,
-                859
+                283,
+                425,
+                291,
+                444
             ]
         },
         {
-            "text": "IPHONE",
+            "text": "1",
             "id": 12,
             "bbox": [
-                198,
-                891,
-                232,
-                897
+                285,
+                451,
+                290,
+                470
             ]
         },
         {
-            "text": "X",
+            "text": "Stdpls2D",
             "id": 13,
             "bbox": [
-                236,
-                891,
-                241,
-                897
+                118,
+                426,
+                195,
+                448
             ]
         },
         {
-            "text": "FLAT",
+            "text": "Salt",
             "id": 14,
             "bbox": [
-                245,
-                890,
-                266,
-                897
+                119,
+                449,
+                156,
+                474
             ]
         },
         {
-            "text": "RATE,RETAIL",
+            "text": "-",
             "id": 15,
             "bbox": [
-                270,
-                891,
-                325,
-                898
+                170,
+                449,
+                174,
+                474
             ]
         },
         {
-            "text": "SVC,JPHONE",
+            "text": "Sup",
             "id": 16,
             "bbox": [
-                198,
-                686,
-                253,
-                694
-            ]
-        },
-        {
-            "text": "X,GSM,256GB,GRAY,CI/AR",
-            "id": 17,
-            "bbox": [
-                257,
-                686,
-                372,
-                694
-            ]
-        },
-        {
-            "text": "AE661-08697",
-            "id": 18,
-            "bbox": [
-                258,
-                704,
-                312,
-                711
-            ]
-        },
-        {
-            "text": "S6284Z/A",
-            "id": 19,
-            "bbox": [
-                258,
-                909,
-                299,
-                916
+                188,
+                449,
+                216,
+                474
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "IPHONE",
-                "X",
-                "FLAT",
-                "RATE,RETAIL",
-                "SVC,JPHONE",
-                "X,GSM,256GB,GRAY,CI/AR"
+                "14",
+                ":",
+                "11"
             ],
             "value_id": [
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
+                5,
+                6,
+                7
             ]
         },
         {
@@ -218,62 +182,12 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "29/07/20"
+                "11",
+                "Ju120"
             ],
             "value_id": [
+                3,
                 4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Apple",
-                "Dubai",
-                "Mall"
-            ],
-            "value_id": [
-                1,
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AED",
-                "2,129.00"
-            ],
-            "value_id": [
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "AE661-08697",
-                "S6284Z/A"
-            ],
-            "value_id": [
-                18,
-                19
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:13"
-            ],
-            "value_id": [
-                5
             ]
         },
         {
@@ -281,16 +195,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "AED",
-                "2,129.00",
-                "AED",
-                "0.00"
+                "94.50",
+                "28.00"
             ],
             "value_id": [
-                8,
                 9,
-                10,
-                11
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Stdpls2D",
+                "Salt",
+                "-",
+                "Sup"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Reel",
+                "Entertainment"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "1"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "122.50"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

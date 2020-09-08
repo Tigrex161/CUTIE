@@ -1,186 +1,144 @@
 {
     "text_boxes": [
         {
-            "text": "level",
+            "text": "13/07",
             "id": 1,
             "bbox": [
-                320,
-                241,
-                406,
-                298
+                297,
+                926,
+                332,
+                945
             ]
         },
         {
-            "text": "SHOES",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                336,
-                307,
-                389,
-                319
+                338,
+                926,
+                371,
+                945
             ]
         },
         {
-            "text": "4,",
+            "text": "06:57",
             "id": 3,
             "bbox": [
-                567,
-                668,
-                576,
-                677
+                376,
+                925,
+                412,
+                944
             ]
         },
         {
-            "text": "100.00",
+            "text": "PM",
             "id": 4,
             "bbox": [
-                581,
-                667,
-                620,
-                677
+                417,
+                925,
+                440,
+                944
             ]
         },
         {
-            "text": "Jul,",
+            "text": "The",
             "id": 5,
             "bbox": [
-                449,
-                427,
-                472,
-                436
+                236,
+                240,
+                254,
+                254
             ]
         },
         {
-            "text": "21:29",
+            "text": "Dubai",
             "id": 6,
             "bbox": [
-                517,
-                425,
-                550,
-                435
+                259,
+                238,
+                292,
+                254
             ]
         },
         {
-            "text": "4,100.00",
+            "text": "Mall",
             "id": 7,
             "bbox": [
-                573,
-                580,
-                626,
-                589
+                296,
+                237,
+                321,
+                253
             ]
         },
         {
-            "text": "DIOR",
+            "text": "1",
             "id": 8,
             "bbox": [
-                97,
-                561,
-                123,
-                569
+                397,
+                480,
+                398,
+                495
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "125.00",
             "id": 9,
             "bbox": [
-                129,
-                560,
-                171,
-                569
+                448,
+                479,
+                492,
+                495
             ]
         },
         {
-            "text": "SHOES",
+            "text": "Finish",
             "id": 10,
             "bbox": [
-                179,
-                561,
-                212,
-                569
+                211,
+                469,
+                250,
+                484
             ]
         },
         {
-            "text": "L",
+            "text": "Haircut",
             "id": 11,
             "bbox": [
-                222,
-                562,
-                252,
-                571
+                257,
+                469,
+                316,
+                486
             ]
         },
         {
-            "text": "ybi",
+            "text": "Barber",
             "id": 12,
             "bbox": [
-                270,
-                559,
-                297,
-                570
+                209,
+                486,
+                257,
+                505
+            ]
+        },
+        {
+            "text": "125.00",
+            "id": 13,
+            "bbox": [
+                407,
+                568,
+                450,
+                584
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DIOR",
-                "WOMENS",
-                "SHOES"
-            ],
-            "value_id": [
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "L",
-                "ybi"
-            ],
-            "value_id": [
-                11,
-                12
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul,"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "level",
-                "SHOES"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4,",
-                "100.00"
+                "06:57",
+                "PM"
             ],
             "value_id": [
                 3,
@@ -188,14 +146,16 @@
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "21:29"
+                "13/07",
+                "2020"
             ],
             "value_id": [
-                6
+                1,
+                2
             ]
         },
         {
@@ -203,10 +163,62 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4,100.00"
+                "125.00"
             ],
             "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Finish",
+                "Haircut",
+                "Barber"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "The",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                5,
+                6,
                 7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "125.00"
+            ],
+            "value_id": [
+                13
             ]
         }
     ],

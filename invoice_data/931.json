@@ -1,178 +1,126 @@
 {
     "text_boxes": [
         {
-            "text": "MIZEN",
+            "text": "DIESEL",
             "id": 1,
             "bbox": [
-                455,
-                200,
-                622,
-                245
+                354,
+                447,
+                410,
+                465
             ]
         },
         {
-            "text": "760.00",
+            "text": "07/28/20",
             "id": 2,
             "bbox": [
-                609,
-                589,
-                638,
-                598
+                252,
+                536,
+                328,
+                558
             ]
         },
         {
-            "text": "n0.00",
+            "text": "9:50",
             "id": 3,
             "bbox": [
-                608,
-                544,
-                636,
-                552
+                350,
+                536,
+                388,
+                558
             ]
         },
         {
-            "text": "380",
+            "text": "159",
             "id": 4,
             "bbox": [
-                608,
-                571,
-                624,
-                578
+                547,
+                800,
+                573,
+                817
             ]
         },
         {
-            "text": "00",
+            "text": "159",
             "id": 5,
             "bbox": [
-                627,
-                570,
-                637,
-                577
+                550,
+                701,
+                577,
+                719
             ]
         },
         {
-            "text": "PAKTON",
+            "text": "1",
             "id": 6,
             "bbox": [
-                82,
-                532,
-                122,
-                543
+                381,
+                699,
+                387,
+                716
             ]
         },
         {
-            "text": "PARASOL",
+            "text": "BW",
             "id": 7,
             "bbox": [
-                125,
-                533,
-                174,
-                547
+                263,
+                697,
+                281,
+                715
             ]
         },
         {
-            "text": "OrS",
+            "text": "BOXERS",
             "id": 8,
             "bbox": [
-                172,
-                541,
-                188,
-                549
+                293,
+                697,
+                349,
+                716
             ]
         },
         {
-            "text": "PAXTON",
+            "text": "A043457",
             "id": 9,
             "bbox": [
-                79,
-                559,
-                120,
-                570
+                186,
+                697,
+                251,
+                715
             ]
         },
         {
-            "text": "PALMS",
+            "text": "\u0645\u0644\u0627\u0628\u0633",
             "id": 10,
             "bbox": [
-                123,
-                562,
-                155,
-                572
+                297,
+                720,
+                325,
+                738
             ]
         },
         {
-            "text": "OIS",
+            "text": "\u0633\u0628\u0627\u062d\u0629",
             "id": 11,
             "bbox": [
-                157,
-                566,
-                174,
-                574
-            ]
-        },
-        {
-            "text": "SOS6330013491",
-            "id": 12,
-            "bbox": [
-                83,
-                517,
-                152,
-                534
-            ]
-        },
-        {
-            "text": "6056330G13484",
-            "id": 13,
-            "bbox": [
-                80,
-                546,
-                151,
-                561
+                242,
+                718,
+                275,
+                736
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PAKTON",
-                "PARASOL",
-                "OrS",
-                "PAXTON",
-                "PALMS",
-                "OIS"
+                "9:50"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "MIZEN"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "760.00"
-            ],
-            "value_id": [
-                2
+                3
             ]
         },
         {
@@ -180,12 +128,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SOS6330013491",
-                "6056330G13484"
+                "A043457"
             ],
             "value_id": [
-                12,
-                13
+                9
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/28/20"
+            ],
+            "value_id": [
+                2
             ]
         },
         {
@@ -193,14 +150,69 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "n0.00",
-                "380",
-                "00"
+                "159"
             ],
             "value_id": [
-                3,
-                4,
                 5
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0645\u0644\u0627\u0628\u0633",
+                "\u0633\u0628\u0627\u062d\u0629"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BW",
+                "BOXERS"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIESEL"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "159"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

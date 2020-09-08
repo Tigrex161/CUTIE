@@ -1,0 +1,264 @@
+{
+    "text_boxes": [
+        {
+            "text": "level",
+            "id": 1,
+            "bbox": [
+                362,
+                281,
+                412,
+                322
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 2,
+            "bbox": [
+                367,
+                319,
+                398,
+                333
+            ]
+        },
+        {
+            "text": "36",
+            "id": 3,
+            "bbox": [
+                440,
+                412,
+                453,
+                422
+            ]
+        },
+        {
+            "text": "Ful",
+            "id": 4,
+            "bbox": [
+                460,
+                411,
+                473,
+                421
+            ]
+        },
+        {
+            "text": ",",
+            "id": 5,
+            "bbox": [
+                477,
+                411,
+                478,
+                421
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 6,
+            "bbox": [
+                487,
+                409,
+                507,
+                421
+            ]
+        },
+        {
+            "text": "16:34",
+            "id": 7,
+            "bbox": [
+                515,
+                408,
+                539,
+                420
+            ]
+        },
+        {
+            "text": "3.",
+            "id": 8,
+            "bbox": [
+                550,
+                601,
+                557,
+                610
+            ]
+        },
+        {
+            "text": "450.00",
+            "id": 9,
+            "bbox": [
+                561,
+                601,
+                593,
+                610
+            ]
+        },
+        {
+            "text": "3",
+            "id": 10,
+            "bbox": [
+                553,
+                529,
+                557,
+                541
+            ]
+        },
+        {
+            "text": ",",
+            "id": 11,
+            "bbox": [
+                559,
+                529,
+                561,
+                541
+            ]
+        },
+        {
+            "text": "450.00",
+            "id": 12,
+            "bbox": [
+                565,
+                529,
+                596,
+                541
+            ]
+        },
+        {
+            "text": "1",
+            "id": 13,
+            "bbox": [
+                423,
+                533,
+                426,
+                541
+            ]
+        },
+        {
+            "text": "CHANEL",
+            "id": 14,
+            "bbox": [
+                177,
+                511,
+                209,
+                524
+            ]
+        },
+        {
+            "text": "WOMENS",
+            "id": 15,
+            "bbox": [
+                213,
+                512,
+                246,
+                525
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 16,
+            "bbox": [
+                254,
+                514,
+                279,
+                526
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:34"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "36",
+                "Ful",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3",
+                ",",
+                "450.00"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CHANEL",
+                "WOMENS",
+                "SHOES"
+            ],
+            "value_id": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "level",
+                "SHOES"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3.",
+                "450.00"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1485.jpg"
+    }
+}

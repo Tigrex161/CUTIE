@@ -1,0 +1,252 @@
+{
+    "text_boxes": [
+        {
+            "text": "LOUIS",
+            "id": 1,
+            "bbox": [
+                389,
+                243,
+                420,
+                255
+            ]
+        },
+        {
+            "text": "VUITTON",
+            "id": 2,
+            "bbox": [
+                426,
+                242,
+                474,
+                255
+            ]
+        },
+        {
+            "text": "25/07/3530",
+            "id": 3,
+            "bbox": [
+                558,
+                403,
+                609,
+                415
+            ]
+        },
+        {
+            "text": "20:30",
+            "id": 4,
+            "bbox": [
+                626,
+                403,
+                650,
+                413
+            ]
+        },
+        {
+            "text": "2.590.00",
+            "id": 5,
+            "bbox": [
+                679,
+                593,
+                720,
+                603
+            ]
+        },
+        {
+            "text": "2.",
+            "id": 6,
+            "bbox": [
+                674,
+                451,
+                682,
+                460
+            ]
+        },
+        {
+            "text": "10:00",
+            "id": 7,
+            "bbox": [
+                690,
+                451,
+                712,
+                460
+            ]
+        },
+        {
+            "text": "1",
+            "id": 8,
+            "bbox": [
+                349,
+                459,
+                351,
+                466
+            ]
+        },
+        {
+            "text": "LATNIT",
+            "id": 9,
+            "bbox": [
+                141,
+                459,
+                170,
+                469
+            ]
+        },
+        {
+            "text": "RHO90",
+            "id": 10,
+            "bbox": [
+                228,
+                458,
+                252,
+                468
+            ]
+        },
+        {
+            "text": "HATCH",
+            "id": 11,
+            "bbox": [
+                258,
+                458,
+                282,
+                468
+            ]
+        },
+        {
+            "text": "-",
+            "id": 12,
+            "bbox": [
+                286,
+                458,
+                287,
+                468
+            ]
+        },
+        {
+            "text": "UP",
+            "id": 13,
+            "bbox": [
+                290,
+                457,
+                299,
+                467
+            ]
+        },
+        {
+            "text": "SIN",
+            "id": 14,
+            "bbox": [
+                305,
+                457,
+                315,
+                467
+            ]
+        },
+        {
+            "text": "SHOES",
+            "id": 15,
+            "bbox": [
+                140,
+                468,
+                164,
+                476
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "20:30"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25/07/3530"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.",
+                "10:00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LATNIT",
+                "RHO90",
+                "HATCH",
+                "-",
+                "UP",
+                "SIN",
+                "SHOES"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LOUIS",
+                "VUITTON"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2.590.00"
+            ],
+            "value_id": [
+                5
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1284.jpg"
+    }
+}

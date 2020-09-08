@@ -1,171 +1,226 @@
 {
     "text_boxes": [
         {
-            "text": "FENDI",
+            "text": "AHMED",
             "id": 1,
             "bbox": [
-                357,
                 530,
-                452,
-                565
+                141,
+                588,
+                161
             ]
         },
         {
-            "text": "ROMA",
+            "text": "SEDDIQI",
             "id": 2,
             "bbox": [
-                393,
-                560,
-                415,
-                569
+                597,
+                141,
+                661,
+                161
             ]
         },
         {
-            "text": "712/",
+            "text": "&",
             "id": 3,
             "bbox": [
-                195,
-                560,
-                210,
-                568
+                667,
+                141,
+                678,
+                161
             ]
         },
         {
-            "text": "2020",
+            "text": "SONS",
             "id": 4,
             "bbox": [
-                211,
-                560,
-                228,
-                567
+                684,
+                141,
+                720,
+                161
             ]
         },
         {
-            "text": "7:1527",
+            "text": "&",
             "id": 5,
             "bbox": [
-                235,
-                559,
-                260,
-                567
+                665,
+                120,
+                681,
+                170
             ]
         },
         {
-            "text": "PM",
+            "text": "030.20",
             "id": 6,
             "bbox": [
-                262,
-                559,
-                274,
-                566
+                500,
+                314,
+                546,
+                324
             ]
         },
         {
-            "text": "1,890.00",
+            "text": "1200000",
             "id": 7,
             "bbox": [
-                694,
-                827,
-                722,
-                834
+                679,
+                431,
+                716,
+                440
+            ]
+        },
+        {
+            "text": "0.00",
+            "id": 8,
+            "bbox": [
+                702,
+                477,
+                717,
+                485
             ]
         },
         {
             "text": "1",
-            "id": 8,
-            "bbox": [
-                544,
-                812,
-                546,
-                819
-            ]
-        },
-        {
-            "text": "1.609",
             "id": 9,
             "bbox": [
-                689,
-                763,
-                710,
-                773
+                337,
+                433,
+                338,
+                441
             ]
         },
         {
-            "text": "52",
+            "text": "1",
             "id": 10,
             "bbox": [
-                712,
-                763,
-                720,
-                772
+                338,
+                481,
+                339,
+                488
             ]
         },
         {
-            "text": "BRACELET/BAGUETTEIMETAL.",
+            "text": "2000",
             "id": 11,
             "bbox": [
-                247,
-                766,
-                377,
-                779
+                235,
+                672,
+                262,
+                681
             ]
         },
         {
-            "text": "SOFT",
+            "text": "60",
             "id": 12,
             "bbox": [
-                383,
-                765,
-                404,
-                774
+                264,
+                672,
+                273,
+                681
             ]
         },
         {
-            "text": "GOLD",
+            "text": "ROLEX",
             "id": 13,
             "bbox": [
-                409,
-                765,
-                432,
-                773
+                106,
+                433,
+                132,
+                443
             ]
         },
         {
-            "text": "788378",
+            "text": "\u0633\u0627\u0639\u0629",
             "id": 14,
             "bbox": [
-                95,
-                772,
-                121,
-                778
+                174,
+                433,
+                190,
+                443
+            ]
+        },
+        {
+            "text": "=",
+            "id": 15,
+            "bbox": [
+                168,
+                433,
+                170,
+                443
+            ]
+        },
+        {
+            "text": "\u0648\u0648\u0627\u0644\u0627\u0646\u0633\u06cc",
+            "id": 16,
+            "bbox": [
+                142,
+                433,
+                164,
+                443
+            ]
+        },
+        {
+            "text": "360a30",
+            "id": 17,
+            "bbox": [
+                161,
+                442,
+                187,
+                452
+            ]
+        },
+        {
+            "text": "HOLEX",
+            "id": 18,
+            "bbox": [
+                107,
+                480,
+                133,
+                491
+            ]
+        },
+        {
+            "text": "\u0639\u0644\u0628\u0629",
+            "id": 19,
+            "bbox": [
+                175,
+                480,
+                189,
+                491
+            ]
+        },
+        {
+            "text": ".",
+            "id": 20,
+            "bbox": [
+                169,
+                480,
+                171,
+                491
+            ]
+        },
+        {
+            "text": "\u0631\u0648\u0644\u06a9\u0633",
+            "id": 21,
+            "bbox": [
+                143,
+                480,
+                166,
+                491
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
+                "360a30"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "BRACELET/BAGUETTEIMETAL.",
-                "SOFT",
-                "GOLD"
-            ],
-            "value_id": [
-                11,
-                12,
-                13
+                17
             ]
         },
         {
@@ -173,59 +228,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "712/",
-                "2020"
+                "030.20"
             ],
             "value_id": [
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "FENDI",
-                "ROMA"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,890.00"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "788378"
-            ],
-            "value_id": [
-                14
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "7:1527",
-                "PM"
-            ],
-            "value_id": [
-                5,
                 6
             ]
         },
@@ -234,12 +239,91 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.609",
-                "52"
+                "1200000",
+                "0.00"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0633\u0627\u0639\u0629",
+                "=",
+                "\u0648\u0648\u0627\u0644\u0627\u0646\u0633\u06cc",
+                "\u0639\u0644\u0628\u0629",
+                ".",
+                "\u0631\u0648\u0644\u06a9\u0633"
+            ],
+            "value_id": [
+                14,
+                15,
+                16,
+                19,
+                20,
+                21
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ROLEX",
+                "HOLEX"
+            ],
+            "value_id": [
+                13,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AHMED",
+                "SEDDIQI",
+                "&",
+                "SONS",
+                "&"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
             ],
             "value_id": [
                 9,
                 10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2000",
+                "60"
+            ],
+            "value_id": [
+                11,
+                12
             ]
         }
     ],

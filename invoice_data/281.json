@@ -1,106 +1,191 @@
 {
     "text_boxes": [
         {
-            "text": "Project",
+            "text": "BURBERRY",
             "id": 1,
             "bbox": [
-                272,
-                337,
-                336,
-                355
+                282,
+                4,
+                448,
+                38
             ]
         },
         {
-            "text": "X",
+            "text": "LONDON",
             "id": 2,
             "bbox": [
-                343,
-                337,
-                355,
-                352
+                312,
+                35,
+                360,
+                49
             ]
         },
         {
-            "text": "Paris",
+            "text": "ENGLAND",
             "id": 3,
             "bbox": [
-                364,
-                337,
-                408,
-                353
+                367,
+                37,
+                422,
+                51
             ]
         },
         {
-            "text": "03-Jul-2020",
+            "text": "12/7/20",
             "id": 4,
             "bbox": [
-                232,
-                792,
-                297,
-                806
+                261,
+                275,
+                312,
+                292
             ]
         },
         {
-            "text": "11:08",
+            "text": "7:26",
             "id": 5,
             "bbox": [
-                316,
-                795,
-                346,
-                807
+                262,
+                293,
+                290,
+                312
             ]
         },
         {
-            "text": "pm",
+            "text": "AED830.00",
             "id": 6,
             "bbox": [
-                351,
-                799,
-                367,
-                810
+                447,
+                751,
+                513,
+                770
             ]
         },
         {
-            "text": "117.00",
+            "text": "830.00",
             "id": 7,
             "bbox": [
-                414,
-                661,
-                458,
-                676
+                461,
+                606,
+                504,
+                622
             ]
         },
         {
-            "text": "195.00",
+            "text": "CN",
             "id": 8,
             "bbox": [
-                421,
-                547,
-                456,
-                556
+                221,
+                575,
+                236,
+                592
             ]
         },
         {
-            "text": "2010108-BK-M",
+            "text": "SET",
             "id": 9,
             "bbox": [
-                263,
-                545,
-                342,
-                556
+                244,
+                574,
+                267,
+                591
+            ]
+        },
+        {
+            "text": "5045622500",
+            "id": 10,
+            "bbox": [
+                222,
+                606,
+                294,
+                631
+            ]
+        },
+        {
+            "text": ")",
+            "id": 11,
+            "bbox": [
+                293,
+                606,
+                297,
+                627
+            ]
+        },
+        {
+            "text": "144",
+            "id": 12,
+            "bbox": [
+                299,
+                605,
+                320,
+                628
+            ]
+        },
+        {
+            "text": "\u0637\u0642\u0645",
+            "id": 13,
+            "bbox": [
+                380,
+                586,
+                401,
+                605
+            ]
+        },
+        {
+            "text": "\u0645\u0644\u0627\u06cc\u0631",
+            "id": 14,
+            "bbox": [
+                334,
+                587,
+                372,
+                606
+            ]
+        },
+        {
+            "text": "\u0644\u0644\u0645\u0648\u0644\u0648\u062f",
+            "id": 15,
+            "bbox": [
+                278,
+                588,
+                328,
+                608
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062c\u062f\u064a\u062f",
+            "id": 16,
+            "bbox": [
+                224,
+                591,
+                265,
+                610
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2010108-BK-M"
+                "7:26"
             ],
             "value_id": [
-                9
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5045622500",
+                ")",
+                "144"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
             ]
         },
         {
@@ -108,10 +193,51 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "03-Jul-2020"
+                "12/7/20"
             ],
             "value_id": [
                 4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "830.00"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0637\u0642\u0645",
+                "\u0645\u0644\u0627\u06cc\u0631",
+                "\u0644\u0644\u0645\u0648\u0644\u0648\u062f",
+                "\u0627\u0644\u062c\u062f\u064a\u062f"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "CN",
+                "SET"
+            ],
+            "value_id": [
+                8,
+                9
             ]
         },
         {
@@ -119,9 +245,9 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Project",
-                "X",
-                "Paris"
+                "BURBERRY",
+                "LONDON",
+                "ENGLAND"
             ],
             "value_id": [
                 1,
@@ -134,34 +260,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "117.00"
+                "AED830.00"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "11:08",
-                "pm"
-            ],
-            "value_id": [
-                5,
                 6
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "195.00"
-            ],
-            "value_id": [
-                8
             ]
         }
     ],

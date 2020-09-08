@@ -1,206 +1,223 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdales",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                256,
-                228,
-                549,
-                275
+                316,
+                132,
+                399,
+                155
             ]
         },
         {
-            "text": "05-Jul-2020",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                230,
-                439,
-                318,
-                453
+                410,
+                137,
+                502,
+                160
             ]
         },
         {
-            "text": "7:34:49",
+            "text": "03/07/20",
             "id": 3,
             "bbox": [
-                377,
-                436,
-                432,
-                451
+                257,
+                381,
+                342,
+                402
             ]
         },
         {
-            "text": "5,800.00",
+            "text": "21:15",
             "id": 4,
             "bbox": [
-                474,
-                1100,
-                539,
-                1115
+                355,
+                384,
+                406,
+                404
             ]
         },
         {
-            "text": "5,800.00",
+            "text": "1,229.95",
             "id": 5,
             "bbox": [
-                498,
-                610,
-                564,
-                624
+                568,
+                824,
+                655,
+                847
+            ]
+        },
+        {
+            "text": "780.00",
+            "id": 6,
+            "bbox": [
+                576,
+                555,
+                639,
+                572
+            ]
+        },
+        {
+            "text": "667.00",
+            "id": 7,
+            "bbox": [
+                584,
+                629,
+                649,
+                649
+            ]
+        },
+        {
+            "text": "2",
+            "id": 8,
+            "bbox": [
+                642,
+                715,
+                650,
+                729
             ]
         },
         {
             "text": "1",
-            "id": 6,
-            "bbox": [
-                560,
-                660,
-                564,
-                672
-            ]
-        },
-        {
-            "text": "RAP",
-            "id": 7,
-            "bbox": [
-                223,
-                611,
-                248,
-                623
-            ]
-        },
-        {
-            "text": "A/Chr+Stool",
-            "id": 8,
-            "bbox": [
-                258,
-                611,
-                348,
-                623
-            ]
-        },
-        {
-            "text": "Lucc",
             "id": 9,
             "bbox": [
-                362,
-                611,
-                394,
-                623
+                186,
+                581,
+                194,
+                597
             ]
         },
         {
-            "text": "212913949",
+            "text": "18",
             "id": 10,
             "bbox": [
-                241,
-                628,
-                317,
-                640
+                179,
+                663,
+                215,
+                681
             ]
         },
         {
-            "text": "\u0631\u0642\u0645",
+            "text": "Beauty",
             "id": 11,
             "bbox": [
-                315,
-                647,
-                330,
-                659
+                176,
+                531,
+                240,
+                549
             ]
         },
         {
-            "text": "\u0627\u0644\u0639\u0644\u0627\u0635\u0631",
+            "text": "EDP",
             "id": 12,
             "bbox": [
-                265,
-                646,
-                305,
-                659
+                171,
+                555,
+                209,
+                574
             ]
         },
         {
-            "text": "\u0627\u0644\u0645\u0628\u0627\u0639\u0629",
+            "text": "PATCHOULI",
             "id": 13,
             "bbox": [
-                222,
-                644,
-                254,
-                658
+                214,
+                554,
+                319,
+                574
+            ]
+        },
+        {
+            "text": "DANGKO",
+            "id": 14,
+            "bbox": [
+                333,
+                554,
+                398,
+                573
+            ]
+        },
+        {
+            "text": "EDP",
+            "id": 15,
+            "bbox": [
+                168,
+                634,
+                205,
+                653
+            ]
+        },
+        {
+            "text": "WHITE",
+            "id": 16,
+            "bbox": [
+                216,
+                633,
+                273,
+                652
+            ]
+        },
+        {
+            "text": "ROSE",
+            "id": 17,
+            "bbox": [
+                287,
+                632,
+                331,
+                651
+            ]
+        },
+        {
+            "text": "DE",
+            "id": 18,
+            "bbox": [
+                345,
+                632,
+                365,
+                649
+            ]
+        },
+        {
+            "text": "AL",
+            "id": 19,
+            "bbox": [
+                378,
+                631,
+                399,
+                649
+            ]
+        },
+        {
+            "text": "900951898",
+            "id": 20,
+            "bbox": [
+                231,
+                578,
+                329,
+                597
+            ]
+        },
+        {
+            "text": "900909666",
+            "id": 21,
+            "bbox": [
+                229,
+                659,
+                331,
+                680
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "RAP",
-                "A/Chr+Stool",
-                "Lucc"
-            ],
-            "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u0631\u0642\u0645",
-                "\u0627\u0644\u0639\u0644\u0627\u0635\u0631",
-                "\u0627\u0644\u0645\u0628\u0627\u0639\u0629"
-            ],
-            "value_id": [
-                11,
-                12,
-                13
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "05-Jul-2020"
-            ],
-            "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "bloomingdales"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "5,800.00"
+                "21:15"
             ],
             "value_id": [
                 4
@@ -211,18 +228,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "212913949"
+                "900951898",
+                "900909666"
             ],
             "value_id": [
-                10
+                20,
+                21
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "7:34:49"
+                "03/07/20"
             ],
             "value_id": [
                 3
@@ -233,7 +252,84 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "5,800.00"
+                "780.00",
+                "667.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Beauty",
+                "EDP",
+                "PATCHOULI",
+                "DANGKO",
+                "EDP",
+                "WHITE",
+                "ROSE",
+                "DE",
+                "AL"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "18"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1,229.95"
             ],
             "value_id": [
                 5

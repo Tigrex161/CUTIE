@@ -1,0 +1,294 @@
+{
+    "text_boxes": [
+        {
+            "text": "ZARA",
+            "id": 1,
+            "bbox": [
+                223,
+                161,
+                309,
+                182
+            ]
+        },
+        {
+            "text": "HOME",
+            "id": 2,
+            "bbox": [
+                330,
+                156,
+                424,
+                178
+            ]
+        },
+        {
+            "text": "DUBAI",
+            "id": 3,
+            "bbox": [
+                383,
+                179,
+                419,
+                193
+            ]
+        },
+        {
+            "text": "31.07.2020",
+            "id": 4,
+            "bbox": [
+                155,
+                340,
+                232,
+                355
+            ]
+        },
+        {
+            "text": "11:41",
+            "id": 5,
+            "bbox": [
+                243,
+                340,
+                279,
+                355
+            ]
+        },
+        {
+            "text": "300",
+            "id": 6,
+            "bbox": [
+                416,
+                606,
+                437,
+                619
+            ]
+        },
+        {
+            "text": "149",
+            "id": 7,
+            "bbox": [
+                417,
+                420,
+                436,
+                434
+            ]
+        },
+        {
+            "text": "159",
+            "id": 8,
+            "bbox": [
+                417,
+                462,
+                436,
+                475
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                251,
+                421,
+                254,
+                434
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                251,
+                463,
+                254,
+                475
+            ]
+        },
+        {
+            "text": "2",
+            "id": 11,
+            "bbox": [
+                282,
+                526,
+                287,
+                538
+            ]
+        },
+        {
+            "text": "4597001399938",
+            "id": 12,
+            "bbox": [
+                235,
+                443,
+                335,
+                457
+            ]
+        },
+        {
+            "text": "TOWEL",
+            "id": 13,
+            "bbox": [
+                353,
+                443,
+                390,
+                457
+            ]
+        },
+        {
+            "text": "4167449680638",
+            "id": 14,
+            "bbox": [
+                235,
+                482,
+                335,
+                497
+            ]
+        },
+        {
+            "text": "TOWEL",
+            "id": 15,
+            "bbox": [
+                354,
+                482,
+                390,
+                497
+            ]
+        },
+        {
+            "text": "10001720",
+            "id": 16,
+            "bbox": [
+                156,
+                441,
+                216,
+                455
+            ]
+        },
+        {
+            "text": "10002750",
+            "id": 17,
+            "bbox": [
+                156,
+                482,
+                216,
+                497
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:41"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "10001720",
+                "10002750"
+            ],
+            "value_id": [
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "31.07.2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "149",
+                "159"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "4597001399938",
+                "TOWEL",
+                "4167449680638",
+                "TOWEL"
+            ],
+            "value_id": [
+                12,
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ZARA",
+                "HOME",
+                "DUBAI"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "300"
+            ],
+            "value_id": [
+                6
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1361.jpg"
+    }
+}

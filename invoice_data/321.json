@@ -1,159 +1,193 @@
 {
     "text_boxes": [
         {
-            "text": "RIVOLI",
+            "text": "Loro",
             "id": 1,
             "bbox": [
-                339,
-                242,
-                484,
-                269
+                312,
+                276,
+                404,
+                324
             ]
         },
         {
-            "text": "12:49:19",
+            "text": "Piana",
             "id": 2,
             "bbox": [
-                607,
-                343,
-                648,
-                353
+                409,
+                279,
+                503,
+                328
             ]
         },
         {
-            "text": "PM",
+            "text": "02-07-2020",
             "id": 3,
             "bbox": [
-                653,
-                344,
-                668,
-                352
+                569,
+                418,
+                622,
+                433
             ]
         },
         {
-            "text": "8,400.00",
+            "text": "21:03:35",
             "id": 4,
             "bbox": [
-                676,
-                764,
-                720,
-                774
+                626,
+                420,
+                666,
+                435
             ]
         },
         {
-            "text": "11,025.00",
+            "text": "3210.00",
             "id": 5,
             "bbox": [
-                648,
-                424,
-                695,
-                434
+                632,
+                654,
+                665,
+                664
             ]
         },
         {
-            "text": "1.",
+            "text": "3,210,000",
             "id": 6,
             "bbox": [
-                365,
-                430,
-                374,
-                439
+                630,
+                545,
+                663,
+                555
+            ]
+        },
+        {
+            "text": "SUMMER",
+            "id": 7,
+            "bbox": [
+                186,
+                533,
+                228,
+                543
+            ]
+        },
+        {
+            "text": "CHARMS",
+            "id": 8,
+            "bbox": [
+                232,
+                533,
+                271,
+                543
+            ]
+        },
+        {
+            "text": "WALK",
+            "id": 9,
+            "bbox": [
+                275,
+                533,
+                300,
+                543
+            ]
+        },
+        {
+            "text": "SUEDE",
+            "id": 10,
+            "bbox": [
+                304,
+                533,
+                334,
+                543
+            ]
+        },
+        {
+            "text": ",",
+            "id": 11,
+            "bbox": [
+                339,
+                533,
+                339,
+                543
+            ]
+        },
+        {
+            "text": "MOSW",
+            "id": 12,
+            "bbox": [
+                344,
+                533,
+                364,
+                543
+            ]
+        },
+        {
+            "text": ",",
+            "id": 13,
+            "bbox": [
+                370,
+                533,
+                371,
+                543
+            ]
+        },
+        {
+            "text": "39",
+            "id": 14,
+            "bbox": [
+                376,
+                533,
+                384,
+                543
+            ]
+        },
+        {
+            "text": "\u0627\u062d\u0629",
+            "id": 15,
+            "bbox": [
+                195,
+                543,
+                205,
+                552
+            ]
+        },
+        {
+            "text": "\u0628\u0647",
+            "id": 16,
+            "bbox": [
+                187,
+                543,
+                193,
+                552
+            ]
+        },
+        {
+            "text": "OS11EAG53301",
+            "id": 17,
+            "bbox": [
+                83,
+                532,
+                155,
+                541
             ]
         },
         {
             "text": "1",
-            "id": 7,
+            "id": 18,
             "bbox": [
-                376,
-                584,
-                379,
-                591
-            ]
-        },
-        {
-            "text": "SOLO/CR",
-            "id": 8,
-            "bbox": [
-                132,
-                434,
-                183,
-                446
-            ]
-        },
-        {
-            "text": "BREMONT",
-            "id": 9,
-            "bbox": [
-                132,
-                454,
-                189,
-                464
-            ]
-        },
-        {
-            "text": "WATCHES",
-            "id": 10,
-            "bbox": [
-                194,
-                453,
-                252,
-                464
+                220,
+                575,
+                222,
+                583
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "BREMONT",
-                "WATCHES"
-            ],
-            "value_id": [
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "RIVOLI"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "8,400.00"
+                "21:03:35"
             ],
             "value_id": [
                 4
@@ -164,22 +198,20 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "SOLO/CR"
+                "OS11EAG53301"
             ],
             "value_id": [
-                8
+                17
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:49:19",
-                "PM"
+                "02-07-2020"
             ],
             "value_id": [
-                2,
                 3
             ]
         },
@@ -188,7 +220,80 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11,025.00"
+                "3,210,000"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u062d\u0629",
+                "\u0628\u0647"
+            ],
+            "value_id": [
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SUMMER",
+                "CHARMS",
+                "WALK",
+                "SUEDE",
+                ",",
+                "MOSW",
+                ",",
+                "39"
+            ],
+            "value_id": [
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Loro",
+                "Piana"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                18
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3210.00"
             ],
             "value_id": [
                 5

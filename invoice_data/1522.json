@@ -1,0 +1,309 @@
+{
+    "text_boxes": [
+        {
+            "text": "Van",
+            "id": 1,
+            "bbox": [
+                325,
+                218,
+                392,
+                266
+            ]
+        },
+        {
+            "text": "Cleef",
+            "id": 2,
+            "bbox": [
+                406,
+                215,
+                504,
+                264
+            ]
+        },
+        {
+            "text": "&",
+            "id": 3,
+            "bbox": [
+                514,
+                215,
+                539,
+                261
+            ]
+        },
+        {
+            "text": "Arpels",
+            "id": 4,
+            "bbox": [
+                549,
+                212,
+                665,
+                261
+            ]
+        },
+        {
+            "text": "29/07/2020",
+            "id": 5,
+            "bbox": [
+                144,
+                974,
+                204,
+                988
+            ]
+        },
+        {
+            "text": "14",
+            "id": 6,
+            "bbox": [
+                211,
+                974,
+                221,
+                988
+            ]
+        },
+        {
+            "text": ":",
+            "id": 7,
+            "bbox": [
+                223,
+                974,
+                226,
+                988
+            ]
+        },
+        {
+            "text": "517",
+            "id": 8,
+            "bbox": [
+                233,
+                973,
+                254,
+                988
+            ]
+        },
+        {
+            "text": "33.300.00",
+            "id": 9,
+            "bbox": [
+                888,
+                769,
+                933,
+                780
+            ]
+        },
+        {
+            "text": "23,200",
+            "id": 10,
+            "bbox": [
+                886,
+                709,
+                915,
+                722
+            ]
+        },
+        {
+            "text": "00",
+            "id": 11,
+            "bbox": [
+                919,
+                709,
+                931,
+                720
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                458,
+                717,
+                459,
+                725
+            ]
+        },
+        {
+            "text": "BRAC",
+            "id": 13,
+            "bbox": [
+                158,
+                697,
+                178,
+                707
+            ]
+        },
+        {
+            "text": "PERLEE",
+            "id": 14,
+            "bbox": [
+                182,
+                696,
+                210,
+                707
+            ]
+        },
+        {
+            "text": "SIGN",
+            "id": 15,
+            "bbox": [
+                213,
+                696,
+                233,
+                706
+            ]
+        },
+        {
+            "text": "YG",
+            "id": 16,
+            "bbox": [
+                236,
+                696,
+                246,
+                706
+            ]
+        },
+        {
+            "text": "MM",
+            "id": 17,
+            "bbox": [
+                249,
+                695,
+                265,
+                706
+            ]
+        },
+        {
+            "text": "17",
+            "id": 18,
+            "bbox": [
+                269,
+                695,
+                278,
+                705
+            ]
+        },
+        {
+            "text": "ARP3600",
+            "id": 19,
+            "bbox": [
+                213,
+                707,
+                265,
+                724
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "14",
+                ":",
+                "517"
+            ],
+            "value_id": [
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ARP3600"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "29/07/2020"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "23,200",
+                "00"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BRAC",
+                "PERLEE",
+                "SIGN",
+                "YG",
+                "MM",
+                "17"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16,
+                17,
+                18
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "33.300.00"
+            ],
+            "value_id": [
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1522.jpg"
+    }
+}

@@ -1,0 +1,348 @@
+{
+    "text_boxes": [
+        {
+            "text": "Apple",
+            "id": 1,
+            "bbox": [
+                57,
+                252,
+                126,
+                300
+            ]
+        },
+        {
+            "text": "Dubai",
+            "id": 2,
+            "bbox": [
+                127,
+                240,
+                199,
+                288
+            ]
+        },
+        {
+            "text": "Mall",
+            "id": 3,
+            "bbox": [
+                198,
+                230,
+                253,
+                275
+            ]
+        },
+        {
+            "text": "25/07/20",
+            "id": 4,
+            "bbox": [
+                36,
+                2579,
+                143,
+                2619
+            ]
+        },
+        {
+            "text": "16:49",
+            "id": 5,
+            "bbox": [
+                165,
+                2579,
+                223,
+                2619
+            ]
+        },
+        {
+            "text": "AED",
+            "id": 6,
+            "bbox": [
+                532,
+                1993,
+                578,
+                2025
+            ]
+        },
+        {
+            "text": "2.999.00",
+            "id": 7,
+            "bbox": [
+                585,
+                1993,
+                684,
+                2025
+            ]
+        },
+        {
+            "text": "299900",
+            "id": 8,
+            "bbox": [
+                594,
+                1776,
+                681,
+                1810
+            ]
+        },
+        {
+            "text": "Apple",
+            "id": 9,
+            "bbox": [
+                49,
+                1261,
+                117,
+                1297
+            ]
+        },
+        {
+            "text": "Watch",
+            "id": 10,
+            "bbox": [
+                130,
+                1263,
+                195,
+                1298
+            ]
+        },
+        {
+            "text": "Series",
+            "id": 11,
+            "bbox": [
+                210,
+                1264,
+                277,
+                1300
+            ]
+        },
+        {
+            "text": "5GP5",
+            "id": 12,
+            "bbox": [
+                293,
+                1265,
+                355,
+                1301
+            ]
+        },
+        {
+            "text": "+",
+            "id": 13,
+            "bbox": [
+                364,
+                1267,
+                374,
+                1301
+            ]
+        },
+        {
+            "text": "Cellular",
+            "id": 14,
+            "bbox": [
+                49,
+                1288,
+                134,
+                1325
+            ]
+        },
+        {
+            "text": ",",
+            "id": 15,
+            "bbox": [
+                129,
+                1290,
+                138,
+                1325
+            ]
+        },
+        {
+            "text": "44mn",
+            "id": 16,
+            "bbox": [
+                145,
+                1289,
+                220,
+                1326
+            ]
+        },
+        {
+            "text": "Stainless",
+            "id": 17,
+            "bbox": [
+                230,
+                1290,
+                329,
+                1327
+            ]
+        },
+        {
+            "text": "Steel",
+            "id": 18,
+            "bbox": [
+                339,
+                1291,
+                395,
+                1328
+            ]
+        },
+        {
+            "text": "Case",
+            "id": 19,
+            "bbox": [
+                399,
+                1293,
+                448,
+                1329
+            ]
+        },
+        {
+            "text": "with",
+            "id": 20,
+            "bbox": [
+                48,
+                1315,
+                97,
+                1349
+            ]
+        },
+        {
+            "text": "Milanese",
+            "id": 21,
+            "bbox": [
+                106,
+                1316,
+                208,
+                1351
+            ]
+        },
+        {
+            "text": "Loop",
+            "id": 22,
+            "bbox": [
+                217,
+                1319,
+                273,
+                1353
+            ]
+        },
+        {
+            "text": "MWWGZEA",
+            "id": 23,
+            "bbox": [
+                199,
+                1361,
+                350,
+                1398
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16:49"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "MWWGZEA"
+            ],
+            "value_id": [
+                23
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "25/07/20"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "299900"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Apple",
+                "Watch",
+                "Series",
+                "5GP5",
+                "+",
+                "Cellular",
+                ",",
+                "44mn",
+                "Stainless",
+                "Steel",
+                "Case",
+                "with",
+                "Milanese",
+                "Loop"
+            ],
+            "value_id": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Apple",
+                "Dubai",
+                "Mall"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "AED",
+                "2.999.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1453.jpg"
+    }
+}

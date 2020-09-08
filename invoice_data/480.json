@@ -1,191 +1,188 @@
 {
     "text_boxes": [
         {
-            "text": "15/07/20",
+            "text": "Van",
             "id": 1,
             "bbox": [
-                317,
-                315,
-                360,
-                325
+                253,
+                338,
+                295,
+                366
             ]
         },
         {
-            "text": "12:34",
+            "text": "Cleef",
             "id": 2,
             "bbox": [
-                368,
-                315,
-                393,
-                326
+                304,
+                337,
+                366,
+                366
             ]
         },
         {
-            "text": "8000000908964",
+            "text": "&",
             "id": 3,
             "bbox": [
-                343,
-                417,
-                412,
-                427
+                374,
+                337,
+                388,
+                365
             ]
         },
         {
-            "text": "Dress",
+            "text": "Arpels",
             "id": 4,
             "bbox": [
-                278,
-                430,
-                304,
-                441
+                397,
+                336,
+                469,
+                366
             ]
         },
         {
-            "text": "Orange",
+            "text": "found",
             "id": 5,
             "bbox": [
-                310,
-                430,
-                342,
-                442
+                137,
+                799,
+                170,
+                811
             ]
         },
         {
-            "text": "pcs",
+            "text": "1",
             "id": 6,
             "bbox": [
-                349,
-                434,
-                364,
-                443
+                195,
+                799,
+                197,
+                809
             ]
         },
         {
-            "text": "8000000913708",
+            "text": "17:46",
             "id": 7,
             "bbox": [
-                343,
-                473,
-                412,
-                483
+                174,
+                799,
+                191,
+                810
             ]
         },
         {
-            "text": "Dress",
+            "text": "11",
             "id": 8,
             "bbox": [
-                278,
-                486,
-                304,
-                495
-            ]
-        },
-        {
-            "text": "mixed",
-            "id": 9,
-            "bbox": [
-                359,
-                487,
-                385,
-                497
-            ]
-        },
-        {
-            "text": "pcs",
-            "id": 10,
-            "bbox": [
-                391,
-                490,
-                406,
-                498
-            ]
-        },
-        {
-            "text": "259.",
-            "id": 11,
-            "bbox": [
-                444,
-                542,
-                460,
-                551
+                619,
+                666,
+                627,
+                673
             ]
         },
         {
             "text": "00",
-            "id": 12,
+            "id": 9,
             "bbox": [
-                465,
-                543,
-                474,
-                551
+                637,
+                666,
+                644,
+                673
             ]
         },
         {
-            "text": "2",
+            "text": "\u062c\u064a",
+            "id": 10,
+            "bbox": [
+                638,
+                628,
+                646,
+                635
+            ]
+        },
+        {
+            "text": "60",
+            "id": 11,
+            "bbox": [
+                620,
+                628,
+                635,
+                635
+            ]
+        },
+        {
+            "text": "1",
+            "id": 12,
+            "bbox": [
+                333,
+                633,
+                334,
+                641
+            ]
+        },
+        {
+            "text": "1",
             "id": 13,
             "bbox": [
-                469,
-                596,
-                473,
-                607
+                335,
+                672,
+                335,
+                679
+            ]
+        },
+        {
+            "text": "BALSWEETALLPG",
+            "id": 14,
+            "bbox": [
+                133,
+                622,
+                194,
+                633
+            ]
+        },
+        {
+            "text": "CLOV",
+            "id": 15,
+            "bbox": [
+                197,
+                622,
+                211,
+                630
+            ]
+        },
+        {
+            "text": "CAN",
+            "id": 16,
+            "bbox": [
+                215,
+                621,
+                224,
+                630
+            ]
+        },
+        {
+            "text": "AH3200",
+            "id": 17,
+            "bbox": [
+                173,
+                629,
+                206,
+                641
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Dress",
-                "Orange",
-                "pcs",
-                "Dress",
-                "mixed",
-                "pcs"
+                "1",
+                "17:46"
             ],
             "value_id": [
-                4,
-                5,
                 6,
-                8,
-                9,
-                10
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "15/07/20"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "259.",
-                "00"
-            ],
-            "value_id": [
-                11,
-                12
+                7
             ]
         },
         {
@@ -193,23 +190,101 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "8000000908964",
-                "8000000913708"
+                "AH3200"
             ],
             "value_id": [
-                3,
-                7
+                17
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "12:34"
+                "found"
             ],
             "value_id": [
-                2
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u062c\u064a",
+                "60"
+            ],
+            "value_id": [
+                10,
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BALSWEETALLPG",
+                "CLOV",
+                "CAN"
+            ],
+            "value_id": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Van",
+                "Cleef",
+                "&",
+                "Arpels"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11",
+                "00"
+            ],
+            "value_id": [
+                8,
+                9
             ]
         }
     ],

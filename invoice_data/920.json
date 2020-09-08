@@ -1,234 +1,182 @@
 {
     "text_boxes": [
         {
-            "text": "ETAO",
+            "text": "bloomingdales",
             "id": 1,
             "bbox": [
-                375,
-                254,
-                491,
-                270
+                216,
+                173,
+                423,
+                217
             ]
         },
         {
-            "text": "17.",
+            "text": "24",
             "id": 2,
             "bbox": [
-                518,
-                570,
-                534,
-                581
+                190,
+                310,
+                200,
+                322
             ]
         },
         {
-            "text": "July",
+            "text": "-",
             "id": 3,
             "bbox": [
-                534,
-                570,
-                550,
-                580
+                204,
+                310,
+                206,
+                322
+            ]
+        },
+        {
+            "text": "bol",
+            "id": 4,
+            "bbox": [
+                210,
+                310,
+                225,
+                322
             ]
         },
         {
             "text": "2020",
-            "id": 4,
-            "bbox": [
-                554,
-                569,
-                574,
-                580
-            ]
-        },
-        {
-            "text": "11:26.41",
             "id": 5,
             "bbox": [
-                579,
-                570,
-                612,
-                579
+                227,
+                310,
+                261,
+                322
             ]
         },
         {
-            "text": "AM",
+            "text": "8",
             "id": 6,
             "bbox": [
-                617,
-                570,
-                631,
-                577
+                294,
+                310,
+                301,
+                323
             ]
         },
         {
-            "text": "561.00",
+            "text": ":",
             "id": 7,
             "bbox": [
-                743,
-                756,
-                773,
-                763
+                305,
+                309,
+                307,
+                322
             ]
         },
         {
-            "text": "1.",
+            "text": "53.57",
             "id": 8,
             "bbox": [
-                561,
-                777,
-                570,
-                786
+                309,
+                309,
+                338,
+                322
             ]
         },
         {
-            "text": "561.00",
+            "text": "PM",
             "id": 9,
             "bbox": [
-                742,
-                635,
-                769,
-                646
+                344,
+                309,
+                356,
+                322
             ]
         },
         {
-            "text": "PAISLEY",
+            "text": "515.00",
             "id": 10,
             "bbox": [
-                382,
-                641,
-                416,
-                651
+                396,
+                527,
+                432,
+                542
             ]
         },
         {
-            "text": "Eau",
+            "text": "315.00",
             "id": 11,
             "bbox": [
-                420,
-                642,
-                435,
-                650
+                394,
+                434,
+                430,
+                447
             ]
         },
         {
-            "text": "de",
+            "text": "1",
             "id": 12,
             "bbox": [
-                439,
-                642,
-                449,
-                650
+                423,
+                471,
+                428,
+                482
             ]
         },
         {
-            "text": "Parfum",
+            "text": "BASIC",
             "id": 13,
             "bbox": [
-                453,
-                641,
-                484,
-                650
+                192,
+                437,
+                220,
+                450
             ]
         },
         {
-            "text": "100",
+            "text": "STUSSY",
             "id": 14,
             "bbox": [
-                489,
-                641,
-                503,
-                648
+                228,
+                437,
+                262,
+                450
             ]
         },
         {
-            "text": "ml",
+            "text": "HOOD",
             "id": 15,
             "bbox": [
-                507,
-                640,
-                516,
-                648
+                270,
+                437,
+                292,
+                450
             ]
         },
         {
-            "text": "319",
+            "text": "213906262",
             "id": 16,
             "bbox": [
-                122,
-                647,
-                136,
-                654
+                202,
+                448,
+                257,
+                462
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1."
+                "8",
+                ":",
+                "53.57",
+                "PM"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "PAISLEY",
-                "Eau",
-                "de",
-                "Parfum",
-                "100",
-                "ml"
-            ],
-            "value_id": [
-                10,
-                11,
-                12,
-                13,
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17.",
-                "July",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ETAO"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "561.00"
-            ],
-            "value_id": [
-                7
+                6,
+                7,
+                8,
+                9
             ]
         },
         {
@@ -236,23 +184,27 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "319"
+                "213906262"
             ],
             "value_id": [
                 16
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "11:26.41",
-                "AM"
+                "24",
+                "-",
+                "bol",
+                "2020"
             ],
             "value_id": [
-                5,
-                6
+                2,
+                3,
+                4,
+                5
             ]
         },
         {
@@ -260,10 +212,58 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "561.00"
+                "315.00"
             ],
             "value_id": [
-                9
+                11
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "BASIC",
+                "STUSSY",
+                "HOOD"
+            ],
+            "value_id": [
+                13,
+                14,
+                15
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdales"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "515.00"
+            ],
+            "value_id": [
+                10
             ]
         }
     ],

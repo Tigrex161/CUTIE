@@ -1,140 +1,113 @@
 {
     "text_boxes": [
         {
-            "text": "Jul.2000",
+            "text": "DIOR",
             "id": 1,
             "bbox": [
-                437,
-                428,
-                491,
-                440
+                325,
+                244,
+                486,
+                299
             ]
         },
         {
-            "text": "20107",
+            "text": "07/07/2020",
             "id": 2,
             "bbox": [
-                496,
-                428,
-                522,
-                435
-            ]
-        },
-        {
-            "text": "830.00",
-            "id": 3,
-            "bbox": [
-                568,
-                607,
-                603,
-                616
-            ]
-        },
-        {
-            "text": "830.00",
-            "id": 4,
-            "bbox": [
-                566,
-                536,
-                600,
+                87,
+                535,
+                133,
                 545
             ]
         },
         {
-            "text": "OFTB-PLTNMAG.PLTNUM:",
+            "text": "13:54",
+            "id": 3,
+            "bbox": [
+                144,
+                535,
+                165,
+                545
+            ]
+        },
+        {
+            "text": "15,300.00",
+            "id": 4,
+            "bbox": [
+                625,
+                670,
+                665,
+                682
+            ]
+        },
+        {
+            "text": "16,300.00",
             "id": 5,
             "bbox": [
-                136,
-                530,
-                271,
-                543
+                650,
+                612,
+                691,
+                621
             ]
         },
         {
-            "text": "391",
+            "text": "1",
             "id": 6,
             "bbox": [
-                274,
-                529,
-                293,
-                539
+                396,
+                618,
+                397,
+                624
             ]
         },
         {
-            "text": "RENE",
+            "text": "Deposit",
             "id": 7,
             "bbox": [
-                295,
-                528,
-                315,
-                538
+                239,
+                618,
+                269,
+                628
             ]
         },
         {
-            "text": "J",
+            "text": "AED",
             "id": 8,
             "bbox": [
-                398,
-                529,
-                410,
-                535
+                273,
+                618,
+                292,
+                628
             ]
         },
         {
-            "text": "046424087275",
+            "text": "1",
             "id": 9,
             "bbox": [
-                134,
-                548,
-                206,
-                557
+                395,
+                648,
+                398,
+                656
+            ]
+        },
+        {
+            "text": "B09",
+            "id": 10,
+            "bbox": [
+                88,
+                621,
+                103,
+                629
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "OFTB-PLTNMAG.PLTNUM:",
-                "391",
-                "RENE"
-            ],
-            "value_id": [
-                5,
-                6,
-                7
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "J"
-            ],
-            "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "Jul.2000"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "830.00"
+                "13:54"
             ],
             "value_id": [
                 3
@@ -145,18 +118,18 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "046424087275"
+                "B09"
             ],
             "value_id": [
-                9
+                10
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20107"
+                "07/07/2020"
             ],
             "value_id": [
                 2
@@ -167,7 +140,64 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "830.00"
+                "16,300.00"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Deposit",
+                "AED"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "DIOR"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "15,300.00"
             ],
             "value_id": [
                 4

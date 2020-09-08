@@ -1,116 +1,196 @@
 {
     "text_boxes": [
         {
-            "text": "CHANEL",
+            "text": "SALERIES",
             "id": 1,
             "bbox": [
-                321,
-                250,
-                558,
-                306
+                342,
+                262,
+                394,
+                279
             ]
         },
         {
-            "text": "July",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                448,
-                375,
-                472,
-                389
+                400,
+                258,
+                452,
+                275
             ]
         },
         {
-            "text": "08,",
+            "text": "16/07/20",
             "id": 3,
             "bbox": [
-                476,
-                374,
-                495,
-                386
+                327,
+                412,
+                373,
+                430
             ]
         },
         {
-            "text": "2020",
+            "text": "11:24",
             "id": 4,
             "bbox": [
-                501,
-                371,
-                532,
-                384
+                380,
+                411,
+                407,
+                428
             ]
         },
         {
-            "text": "19:49",
+            "text": "176.00",
             "id": 5,
             "bbox": [
-                542,
-                369,
-                579,
-                381
+                507,
+                595,
+                540,
+                607
             ]
         },
         {
-            "text": "23,390.00",
+            "text": "220.00",
             "id": 6,
             "bbox": [
-                582,
-                765,
-                653,
-                776
-            ]
-        },
-        {
-            "text": "23,390.00",
-            "id": 7,
-            "bbox": [
-                675,
-                575,
-                742,
-                591
+                500,
+                496,
+                533,
+                511
             ]
         },
         {
             "text": "1",
+            "id": 7,
+            "bbox": [
+                298,
+                520,
+                299,
+                532
+            ]
+        },
+        {
+            "text": "PULL",
             "id": 8,
             "bbox": [
-                412,
-                584,
-                416,
-                592
+                290,
+                506,
+                311,
+                519
             ]
         },
         {
-            "text": "FLAPBAG",
+            "text": "SKU",
             "id": 9,
             "bbox": [
-                95,
-                578,
-                159,
-                588
+                319,
+                505,
+                335,
+                517
             ]
         },
         {
-            "text": "A01113Y04059N6515",
+            "text": "900986339",
             "id": 10,
             "bbox": [
-                95,
-                596,
-                234,
-                610
+                320,
+                517,
+                371,
+                532
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                533,
+                539,
+                536,
+                547
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "11:24"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900986339"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "16/07/20"
+            ],
+            "value_id": [
+                3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "220.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "FLAPBAG"
+                "PULL",
+                "SKU"
             ],
             "value_id": [
+                8,
                 9
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
             ]
         },
         {
@@ -121,33 +201,7 @@
                 "1"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July",
-                "08,",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "CHANEL"
-            ],
-            "value_id": [
-                1
+                7
             ]
         },
         {
@@ -155,43 +209,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "23,390.00"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "A01113Y04059N6515"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "19:49"
+                "176.00"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "23,390.00"
-            ],
-            "value_id": [
-                7
             ]
         }
     ],

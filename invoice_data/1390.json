@@ -1,0 +1,276 @@
+{
+    "text_boxes": [
+        {
+            "text": "SHOES",
+            "id": 1,
+            "bbox": [
+                374,
+                187,
+                431,
+                204
+            ]
+        },
+        {
+            "text": "level",
+            "id": 2,
+            "bbox": [
+                364,
+                109,
+                457,
+                180
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 3,
+            "bbox": [
+                534,
+                313,
+                562,
+                330
+            ]
+        },
+        {
+            "text": "\u0648\u0627\u062a",
+            "id": 4,
+            "bbox": [
+                503,
+                311,
+                532,
+                329
+            ]
+        },
+        {
+            "text": "2",
+            "id": 5,
+            "bbox": [
+                479,
+                310,
+                484,
+                326
+            ]
+        },
+        {
+            "text": "19:35",
+            "id": 6,
+            "bbox": [
+                570,
+                314,
+                605,
+                332
+            ]
+        },
+        {
+            "text": "2",
+            "id": 7,
+            "bbox": [
+                606,
+                581,
+                611,
+                594
+            ]
+        },
+        {
+            "text": ",",
+            "id": 8,
+            "bbox": [
+                613,
+                581,
+                615,
+                594
+            ]
+        },
+        {
+            "text": "200.00",
+            "id": 9,
+            "bbox": [
+                620,
+                581,
+                661,
+                596
+            ]
+        },
+        {
+            "text": "2,250",
+            "id": 10,
+            "bbox": [
+                615,
+                487,
+                647,
+                501
+            ]
+        },
+        {
+            "text": ":",
+            "id": 11,
+            "bbox": [
+                650,
+                489,
+                653,
+                501
+            ]
+        },
+        {
+            "text": "60",
+            "id": 12,
+            "bbox": [
+                655,
+                490,
+                669,
+                503
+            ]
+        },
+        {
+            "text": "GCIMN",
+            "id": 13,
+            "bbox": [
+                135,
+                460,
+                165,
+                475
+            ]
+        },
+        {
+            "text": "SHOE",
+            "id": 14,
+            "bbox": [
+                177,
+                460,
+                200,
+                475
+            ]
+        },
+        {
+            "text": "GUCCI",
+            "id": 15,
+            "bbox": [
+                207,
+                459,
+                240,
+                474
+            ]
+        },
+        {
+            "text": "MENS",
+            "id": 16,
+            "bbox": [
+                247,
+                459,
+                273,
+                474
+            ]
+        },
+        {
+            "text": "231110001610776146",
+            "id": 17,
+            "bbox": [
+                134,
+                481,
+                282,
+                496
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "19:35"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "231110001610776146"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2020",
+                "\u0648\u0627\u062a",
+                "2"
+            ],
+            "value_id": [
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2,250",
+                ":",
+                "60"
+            ],
+            "value_id": [
+                10,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GCIMN",
+                "SHOE",
+                "GUCCI",
+                "MENS"
+            ],
+            "value_id": [
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SHOES",
+                "level"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                ",",
+                "200.00"
+            ],
+            "value_id": [
+                7,
+                8,
+                9
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1390.jpg"
+    }
+}

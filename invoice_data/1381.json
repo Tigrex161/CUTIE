@@ -1,0 +1,297 @@
+{
+    "text_boxes": [
+        {
+            "text": "LADUREE",
+            "id": 1,
+            "bbox": [
+                292,
+                315,
+                442,
+                343
+            ]
+        },
+        {
+            "text": "07/29/20",
+            "id": 2,
+            "bbox": [
+                485,
+                566,
+                571,
+                598
+            ]
+        },
+        {
+            "text": "09:19",
+            "id": 3,
+            "bbox": [
+                124,
+                642,
+                180,
+                669
+            ]
+        },
+        {
+            "text": "pm",
+            "id": 4,
+            "bbox": [
+                181,
+                645,
+                203,
+                670
+            ]
+        },
+        {
+            "text": "118.00",
+            "id": 5,
+            "bbox": [
+                530,
+                708,
+                592,
+                731
+            ]
+        },
+        {
+            "text": "0.00",
+            "id": 6,
+            "bbox": [
+                549,
+                784,
+                593,
+                811
+            ]
+        },
+        {
+            "text": "78.00",
+            "id": 7,
+            "bbox": [
+                538,
+                812,
+                592,
+                840
+            ]
+        },
+        {
+            "text": "2",
+            "id": 8,
+            "bbox": [
+                146,
+                700,
+                155,
+                721
+            ]
+        },
+        {
+            "text": "2",
+            "id": 9,
+            "bbox": [
+                142,
+                805,
+                151,
+                826
+            ]
+        },
+        {
+            "text": "Pain",
+            "id": 10,
+            "bbox": [
+                169,
+                700,
+                212,
+                722
+            ]
+        },
+        {
+            "text": "Perdu",
+            "id": 11,
+            "bbox": [
+                226,
+                701,
+                279,
+                723
+            ]
+        },
+        {
+            "text": "Passionita",
+            "id": 12,
+            "bbox": [
+                165,
+                805,
+                277,
+                826
+            ]
+        },
+        {
+            "text": "Maple",
+            "id": 13,
+            "bbox": [
+                178,
+                776,
+                233,
+                803
+            ]
+        },
+        {
+            "text": "Syrup",
+            "id": 14,
+            "bbox": [
+                247,
+                776,
+                299,
+                804
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u062a\u0648\u0633\u062a",
+            "id": 15,
+            "bbox": [
+                251,
+                729,
+                313,
+                754
+            ]
+        },
+        {
+            "text": "\u0627\u0644\u0641\u0631\u0646\u0633\u064a",
+            "id": 16,
+            "bbox": [
+                161,
+                728,
+                235,
+                753
+            ]
+        },
+        {
+            "text": "\u067e\u0627\u0634\u0648\u0646\u06cc\u062a\u0627",
+            "id": 17,
+            "bbox": [
+                162,
+                836,
+                247,
+                858
+            ]
+        },
+        {
+            "text": "196.00",
+            "id": 18,
+            "bbox": [
+                448,
+                938,
+                578,
+                980
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "09:19",
+                "pm"
+            ],
+            "value_id": [
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "07/29/20"
+            ],
+            "value_id": [
+                2
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "118.00",
+                "0.00",
+                "78.00"
+            ],
+            "value_id": [
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0627\u0644\u062a\u0648\u0633\u062a",
+                "\u0627\u0644\u0641\u0631\u0646\u0633\u064a",
+                "\u067e\u0627\u0634\u0648\u0646\u06cc\u062a\u0627"
+            ],
+            "value_id": [
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Pain",
+                "Perdu",
+                "Passionita",
+                "Maple",
+                "Syrup"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LADUREE"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2",
+                "2"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "196.00"
+            ],
+            "value_id": [
+                18
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1381.jpg"
+    }
+}

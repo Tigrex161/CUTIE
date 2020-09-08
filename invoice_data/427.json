@@ -1,88 +1,127 @@
 {
     "text_boxes": [
         {
-            "text": "ZARA",
+            "text": "//",
             "id": 1,
             "bbox": [
-                346,
-                206,
-                460,
-                256
+                235,
+                405,
+                422,
+                490
             ]
         },
         {
-            "text": "06-07-2020",
+            "text": "7/5/2020",
             "id": 2,
             "bbox": [
-                255,
-                429,
-                328,
-                446
+                451,
+                671,
+                509,
+                693
             ]
         },
         {
-            "text": "14:12",
+            "text": "19:43",
             "id": 3,
             "bbox": [
-                337,
-                437,
-                368,
-                448
+                452,
+                688,
+                488,
+                708
             ]
         },
         {
-            "text": "119",
+            "text": "135.00",
             "id": 4,
             "bbox": [
-                486,
-                635,
-                506,
-                648
+                629,
+                915,
+                675,
+                933
             ]
         },
         {
-            "text": "119",
+            "text": "135.00",
             "id": 5,
             "bbox": [
-                480,
-                517,
-                503,
-                526
+                628,
+                804,
+                673,
+                821
             ]
         },
         {
-            "text": "0900666030310",
+            "text": "50",
             "id": 6,
             "bbox": [
-                327,
-                519,
-                416,
-                539
+                491,
+                806,
+                504,
+                821
             ]
         },
         {
-            "text": "SKIRT",
+            "text": "Napoli",
             "id": 7,
             "bbox": [
-                430,
-                530,
-                462,
-                541
+                320,
+                805,
+                363,
+                827
+            ]
+        },
+        {
+            "text": "Ispirazione",
+            "id": 8,
+            "bbox": [
+                375,
+                801,
+                458,
+                825
+            ]
+        },
+        {
+            "text": "6754530",
+            "id": 9,
+            "bbox": [
+                240,
+                809,
+                295,
+                830
+            ]
+        },
+        {
+            "text": "50",
+            "id": 10,
+            "bbox": [
+                660,
+                864,
+                675,
+                879
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0900666030310",
-                "SKIRT"
+                "19:43"
             ],
             "value_id": [
-                6,
-                7
+                3
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "6754530"
+            ],
+            "value_id": [
+                9
             ]
         },
         {
@@ -90,43 +129,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "06-07-2020"
+                "7/5/2020"
             ],
             "value_id": [
                 2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "ZARA"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "119"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14:12"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -134,10 +140,67 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "119"
+                "135.00"
             ],
             "value_id": [
                 5
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Napoli",
+                "Ispirazione"
+            ],
+            "value_id": [
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "//"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "50"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "50"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "135.00"
+            ],
+            "value_id": [
+                4
             ]
         }
     ],

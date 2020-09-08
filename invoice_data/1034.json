@@ -1,0 +1,237 @@
+{
+    "text_boxes": [
+        {
+            "text": "VACHERON",
+            "id": 1,
+            "bbox": [
+                269,
+                148,
+                396,
+                177
+            ]
+        },
+        {
+            "text": "CONSTANTIN",
+            "id": 2,
+            "bbox": [
+                407,
+                149,
+                551,
+                178
+            ]
+        },
+        {
+            "text": ".",
+            "id": 3,
+            "bbox": [
+                415,
+                176,
+                415,
+                189
+            ]
+        },
+        {
+            "text": "08/09/2020",
+            "id": 4,
+            "bbox": [
+                130,
+                719,
+                177,
+                739
+            ]
+        },
+        {
+            "text": "12:28:27",
+            "id": 5,
+            "bbox": [
+                181,
+                719,
+                216,
+                737
+            ]
+        },
+        {
+            "text": "101,690",
+            "id": 6,
+            "bbox": [
+                691,
+                569,
+                718,
+                577
+            ]
+        },
+        {
+            "text": "00",
+            "id": 7,
+            "bbox": [
+                713,
+                569,
+                730,
+                577
+            ]
+        },
+        {
+            "text": "ID1",
+            "id": 8,
+            "bbox": [
+                692,
+                524,
+                700,
+                531
+            ]
+        },
+        {
+            "text": "TO",
+            "id": 9,
+            "bbox": [
+                701,
+                524,
+                718,
+                531
+            ]
+        },
+        {
+            "text": "fe",
+            "id": 10,
+            "bbox": [
+                720,
+                524,
+                729,
+                531
+            ]
+        },
+        {
+            "text": "1",
+            "id": 11,
+            "bbox": [
+                375,
+                524,
+                377,
+                535
+            ]
+        },
+        {
+            "text": "111006003",
+            "id": 12,
+            "bbox": [
+                145,
+                508,
+                206,
+                519
+            ]
+        },
+        {
+            "text": "iP300",
+            "id": 13,
+            "bbox": [
+                201,
+                520,
+                231,
+                532
+            ]
+        }
+    ],
+    "fields": [
+        {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "12:28:27"
+            ],
+            "value_id": [
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "iP300"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "08/09/2020"
+            ],
+            "value_id": [
+                4
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "ID1",
+                "TO",
+                "fe"
+            ],
+            "value_id": [
+                8,
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "111006003"
+            ],
+            "value_id": [
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "VACHERON",
+                "CONSTANTIN",
+                "."
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                11
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "101,690",
+                "00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        }
+    ],
+    "global_attributes": {
+        "file_id": "./data/images/1034.jpg"
+    }
+}

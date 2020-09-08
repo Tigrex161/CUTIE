@@ -1,188 +1,141 @@
 {
     "text_boxes": [
         {
-            "text": "Jul,",
+            "text": "Santoni",
             "id": 1,
             "bbox": [
-                472,
-                353,
-                497,
-                362
+                206,
+                251,
+                490,
+                335
             ]
         },
         {
-            "text": "2020",
+            "text": "11/07/2020",
             "id": 2,
             "bbox": [
-                508,
-                352,
-                535,
-                361
+                368,
+                344,
+                422,
+                356
             ]
         },
         {
-            "text": "17:39",
+            "text": "230",
             "id": 3,
             "bbox": [
-                545,
-                351,
-                578,
-                361
+                364,
+                358,
+                385,
+                369
             ]
         },
         {
-            "text": "4,",
+            "text": "43",
             "id": 4,
             "bbox": [
-                593,
-                603,
-                603,
-                612
+                392,
+                358,
+                402,
+                369
             ]
         },
         {
-            "text": "350.00",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                608,
-                601,
-                650,
-                612
+                406,
+                358,
+                420,
+                369
             ]
         },
         {
-            "text": "4,350.00",
+            "text": "1275.75",
             "id": 6,
             "bbox": [
-                598,
-                510,
-                655,
-                519
+                386,
+                551,
+                427,
+                563
             ]
         },
         {
-            "text": "1.",
+            "text": "127575",
             "id": 7,
             "bbox": [
-                425,
-                515,
-                428,
-                523
+                467,
+                481,
+                508,
+                493
             ]
         },
         {
-            "text": "PDAWN",
+            "text": "1",
             "id": 8,
             "bbox": [
-                101,
-                497,
-                133,
-                505
+                421,
+                499,
+                424,
+                510
             ]
         },
         {
-            "text": "BAG:",
+            "text": "SHOES",
             "id": 9,
             "bbox": [
-                142,
-                493,
-                170,
-                505
+                201,
+                483,
+                238,
+                494
             ]
         },
         {
-            "text": "PRADA",
+            "text": "SANTONI",
             "id": 10,
             "bbox": [
-                172,
-                493,
-                203,
-                505
+                243,
+                483,
+                291,
+                494
             ]
         },
         {
-            "text": "WOMENS",
+            "text": "5263",
             "id": 11,
             "bbox": [
-                211,
-                494,
-                253,
-                503
-            ]
-        },
-        {
-            "text": "BAGS",
-            "id": 12,
-            "bbox": [
-                266,
-                492,
-                287,
-                504
-            ]
-        },
-        {
-            "text": "IJ",
-            "id": 13,
-            "bbox": [
-                298,
-                493,
-                338,
-                503
-            ]
-        },
-        {
-            "text": "ui",
-            "id": 14,
-            "bbox": [
-                369,
-                493,
-                401,
-                502
+                140,
+                482,
+                164,
+                492
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "PDAWN",
-                "BAG:",
-                "PRADA",
-                "WOMENS",
-                "BAGS"
+                "230",
+                "43",
+                "PM"
             ],
             "value_id": [
-                8,
-                9,
-                10,
-                11,
-                12
+                3,
+                4,
+                5
             ]
         },
         {
-            "field_name": "arabic_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "IJ",
-                "ui"
+                "5263"
             ],
             "value_id": [
-                13,
-                14
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1."
-            ],
-            "value_id": [
-                7
+                11
             ]
         },
         {
@@ -190,36 +143,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Jul,",
-                "2020"
+                "11/07/2020"
             ],
             "value_id": [
-                1,
                 2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "4,",
-                "350.00"
-            ],
-            "value_id": [
-                4,
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "17:39"
-            ],
-            "value_id": [
-                3
             ]
         },
         {
@@ -227,7 +154,53 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4,350.00"
+                "127575"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SHOES",
+                "SANTONI"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Santoni"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1275.75"
             ],
             "value_id": [
                 6

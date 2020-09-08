@@ -1,127 +1,278 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdales",
+            "text": "NOGF030",
             "id": 1,
             "bbox": [
-                209,
-                125,
-                413,
-                157
+                345,
+                470,
+                383,
+                485
             ]
         },
         {
-            "text": "CRYSTAL",
+            "text": "-",
             "id": 2,
             "bbox": [
-                208,
-                408,
-                247,
-                417
+                388,
+                470,
+                390,
+                478
             ]
         },
         {
-            "text": "HEEL",
+            "text": "125167",
             "id": 3,
             "bbox": [
-                254,
-                409,
-                276,
-                418
+                394,
+                464,
+                422,
+                477
             ]
         },
         {
-            "text": "ME",
+            "text": "CHANEL",
             "id": 4,
             "bbox": [
-                284,
-                409,
-                294,
-                418
+                285,
+                441,
+                408,
+                483
             ]
         },
         {
-            "text": "555.00",
+            "text": "Apr",
             "id": 5,
             "bbox": [
-                378,
-                410,
-                412,
-                420
+                358,
+                506,
+                369,
+                516
             ]
         },
         {
-            "text": "213335312",
+            "text": "09",
             "id": 6,
             "bbox": [
-                190,
-                419,
-                241,
-                430
-            ]
-        },
-        {
-            "text": "u",
-            "id": 7,
-            "bbox": [
-                178,
-                431,
-                199,
-                440
-            ]
-        },
-        {
-            "text": "jala",
-            "id": 8,
-            "bbox": [
-                206,
-                432,
-                234,
-                442
+                371,
+                504,
+                379,
+                514
             ]
         },
         {
             "text": ",",
+            "id": 7,
+            "bbox": [
+                379,
+                504,
+                381,
+                513
+            ]
+        },
+        {
+            "text": "2020",
+            "id": 8,
+            "bbox": [
+                384,
+                501,
+                400,
+                513
+            ]
+        },
+        {
+            "text": "17:07",
             "id": 9,
             "bbox": [
-                240,
-                433,
-                251,
-                441
+                405,
+                498,
+                423,
+                510
+            ]
+        },
+        {
+            "text": "4,794.00",
+            "id": 10,
+            "bbox": [
+                440,
+                728,
+                473,
+                738
+            ]
+        },
+        {
+            "text": "3,756.00",
+            "id": 11,
+            "bbox": [
+                483,
+                600,
+                514,
+                612
+            ]
+        },
+        {
+            "text": "1,038.00",
+            "id": 12,
+            "bbox": [
+                484,
+                623,
+                515,
+                635
             ]
         },
         {
             "text": "1",
-            "id": 10,
+            "id": 13,
             "bbox": [
-                408,
-                445,
-                411,
-                454
+                343,
+                635,
+                344,
+                642
             ]
         },
         {
-            "text": "555.00",
-            "id": 11,
+            "text": "TOP",
+            "id": 14,
             "bbox": [
-                377,
-                503,
-                411,
-                514
+                173,
+                612,
+                187,
+                619
+            ]
+        },
+        {
+            "text": "SQUARE",
+            "id": 15,
+            "bbox": [
+                172,
+                632,
+                201,
+                641
+            ]
+        },
+        {
+            "text": "SCARE",
+            "id": 16,
+            "bbox": [
+                206,
+                632,
+                230,
+                641
+            ]
+        },
+        {
+            "text": "2",
+            "id": 17,
+            "bbox": [
+                342,
+                657,
+                344,
+                666
+            ]
+        },
+        {
+            "text": "PGO522K460999430S",
+            "id": 18,
+            "bbox": [
+                173,
+                621,
+                246,
+                631
+            ]
+        },
+        {
+            "text": "AA0040x1244110365",
+            "id": 19,
+            "bbox": [
+                172,
+                641,
+                248,
+                652
             ]
         }
     ],
     "fields": [
         {
+            "field_name": "time",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "17:07"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PGO522K460999430S",
+                "AA0040x1244110365"
+            ],
+            "value_id": [
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Apr",
+                "09",
+                ",",
+                "2020"
+            ],
+            "value_id": [
+                5,
+                6,
+                7,
+                8
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3,756.00",
+                "1,038.00"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
             "field_name": "item_description",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CRYSTAL",
-                "HEEL",
-                "ME"
+                "TOP",
+                "SQUARE",
+                "SCARE"
             ],
             "value_id": [
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "NOGF030",
+                "-",
+                "125167",
+                "CHANEL"
+            ],
+            "value_id": [
+                1,
                 2,
                 3,
                 4
@@ -132,36 +283,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
+                "2"
+            ],
+            "value_id": [
+                17
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
                 "1"
             ],
             "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "u",
-                "jala",
-                ","
-            ],
-            "value_id": [
-                7,
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "bloomingdales"
-            ],
-            "value_id": [
-                1
+                13
             ]
         },
         {
@@ -169,32 +305,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "555.00"
+                "4,794.00"
             ],
             "value_id": [
-                11
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "213335312"
-            ],
-            "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "555.00"
-            ],
-            "value_id": [
-                5
+                10
             ]
         }
     ],

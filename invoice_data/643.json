@@ -1,164 +1,190 @@
 {
     "text_boxes": [
         {
-            "text": "tevragaumo",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                392,
-                294,
-                559,
-                345
+                340,
+                204,
+                426,
+                236
             ]
         },
         {
-            "text": "July,",
+            "text": "ROMA",
             "id": 2,
             "bbox": [
-                568,
-                397,
-                599,
-                408
+                371,
+                239,
+                392,
+                246
             ]
         },
         {
-            "text": "08",
+            "text": "715",
             "id": 3,
             "bbox": [
-                610,
-                399,
-                622,
-                405
+                139,
+                224,
+                155,
+                236
             ]
         },
         {
             "text": "2020",
             "id": 4,
             "bbox": [
-                632,
-                397,
-                657,
-                406
+                158,
+                224,
+                178,
+                236
             ]
         },
         {
-            "text": "20:15",
+            "text": "727",
             "id": 5,
             "bbox": [
-                666,
-                396,
-                699,
-                405
+                186,
+                224,
+                201,
+                236
             ]
         },
         {
-            "text": "ZERI10",
+            "text": "55",
             "id": 6,
             "bbox": [
-                434,
-                611,
-                473,
-                622
+                206,
+                224,
+                214,
+                236
             ]
         },
         {
-            "text": "1,490.00",
+            "text": "PM",
             "id": 7,
             "bbox": [
-                631,
-                626,
-                684,
-                638
+                217,
+                224,
+                231,
+                236
             ]
         },
         {
-            "text": "724136:",
+            "text": "8,650.00",
             "id": 8,
             "bbox": [
-                368,
-                613,
-                411,
-                623
+                640,
+                585,
+                675,
+                594
             ]
         },
         {
-            "text": "\u00fas",
+            "text": "8.238",
             "id": 9,
             "bbox": [
-                542,
-                612,
-                569,
-                620
+                638,
+                441,
+                656,
+                449
             ]
         },
         {
-            "text": "1,490.00",
+            "text": "10",
             "id": 10,
             "bbox": [
-                629,
-                711,
-                680,
-                721
+                660,
+                441,
+                666,
+                449
+            ]
+        },
+        {
+            "text": "WEVENING",
+            "id": 11,
+            "bbox": [
+                222,
+                437,
+                270,
+                450
+            ]
+        },
+        {
+            "text": "DRESS",
+            "id": 12,
+            "bbox": [
+                272,
+                437,
+                299,
+                450
+            ]
+        },
+        {
+            "text": "/",
+            "id": 13,
+            "bbox": [
+                303,
+                437,
+                304,
+                450
+            ]
+        },
+        {
+            "text": "WOVEN",
+            "id": 14,
+            "bbox": [
+                303,
+                437,
+                335,
+                450
+            ]
+        },
+        {
+            "text": "FABRIC",
+            "id": 15,
+            "bbox": [
+                338,
+                437,
+                366,
+                450
+            ]
+        },
+        {
+            "text": "RODOCO",
+            "id": 16,
+            "bbox": [
+                374,
+                437,
+                410,
+                450
+            ]
+        },
+        {
+            "text": "728622",
+            "id": 17,
+            "bbox": [
+                72,
+                436,
+                98,
+                444
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "ZERI10"
+                "727",
+                "55",
+                "PM"
             ],
             "value_id": [
-                6
-            ]
-        },
-        {
-            "field_name": "arabic_description",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "\u00fas"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "08",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
-                4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "tevragaumo"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,490.00"
-            ],
-            "value_id": [
-                10
+                5,
+                6,
+                7
             ]
         },
         {
@@ -166,21 +192,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "724136:"
+                "728622"
             ],
             "value_id": [
-                8
+                17
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:15"
+                "715",
+                "2020"
             ],
             "value_id": [
-                5
+                3,
+                4
             ]
         },
         {
@@ -188,10 +216,57 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,490.00"
+                "8.238",
+                "10"
             ],
             "value_id": [
-                7
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "WEVENING",
+                "DRESS",
+                "/",
+                "WOVEN",
+                "FABRIC",
+                "RODOCO"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "FENDI",
+                "ROMA"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "8,650.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

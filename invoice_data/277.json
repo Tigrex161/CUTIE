@@ -1,220 +1,176 @@
 {
     "text_boxes": [
         {
-            "text": "PARIS",
+            "text": "Massimo",
             "id": 1,
             "bbox": [
-                477,
-                34,
-                508,
-                46
+                299,
+                237,
+                419,
+                272
             ]
         },
         {
-            "text": "July,",
+            "text": "Dutti",
             "id": 2,
             "bbox": [
-                581,
-                159,
-                617,
-                175
+                440,
+                235,
+                512,
+                270
             ]
         },
         {
-            "text": "01",
+            "text": "04-07-2020",
             "id": 3,
             "bbox": [
-                629,
-                162,
-                642,
-                173
+                220,
+                446,
+                304,
+                466
             ]
         },
         {
-            "text": "2020",
+            "text": "14:43",
             "id": 4,
             "bbox": [
-                649,
-                166,
-                676,
-                179
+                316,
+                444,
+                356,
+                463
             ]
         },
         {
-            "text": "15:56",
+            "text": "390",
             "id": 5,
             "bbox": [
-                684,
-                172,
-                714,
-                186
+                508,
+                759,
+                531,
+                772
             ]
         },
         {
-            "text": "520.00",
+            "text": "139",
             "id": 6,
             "bbox": [
-                683,
-                624,
-                723,
-                638
+                510,
+                555,
+                532,
+                569
             ]
         },
         {
-            "text": "270.00",
+            "text": "259",
             "id": 7,
             "bbox": [
-                677,
-                462,
-                716,
-                473
+                508,
+                600,
+                531,
+                613
             ]
         },
         {
-            "text": "250.00",
+            "text": "1",
             "id": 8,
             "bbox": [
-                678,
-                514,
-                717,
-                527
+                325,
+                558,
+                330,
+                570
             ]
         },
         {
             "text": "1",
             "id": 9,
             "bbox": [
-                464,
-                464,
-                468,
-                473
+                325,
+                601,
+                330,
+                615
             ]
         },
         {
-            "text": "017924873986",
+            "text": "0504471742740",
             "id": 10,
             "bbox": [
-                96,
-                447,
-                185,
-                460
+                307,
+                576,
+                418,
+                595
             ]
         },
         {
-            "text": "017924873983",
+            "text": "TROUSERS",
             "id": 11,
             "bbox": [
-                96,
-                500,
-                185,
-                512
+                439,
+                577,
+                505,
+                591
             ]
         },
         {
-            "text": "\u00dcL",
+            "text": "0506670680040",
             "id": 12,
             "bbox": [
-                525,
-                434,
-                557,
-                446
+                307,
+                622,
+                419,
+                639
             ]
         },
         {
-            "text": "S",
+            "text": "TROUSERS",
             "id": 13,
             "bbox": [
-                566,
-                434,
-                586,
-                445
+                439,
+                621,
+                505,
+                638
             ]
         },
         {
-            "text": "\u00dcL",
+            "text": "2",
             "id": 14,
             "bbox": [
-                517,
-                490,
-                549,
-                501
+                361,
+                671,
+                367,
+                684
             ]
         },
         {
-            "text": "S",
+            "text": "10001809",
             "id": 15,
             "bbox": [
-                559,
-                491,
-                580,
-                502
+                220,
+                579,
+                286,
+                597
+            ]
+        },
+        {
+            "text": "10002839",
+            "id": 16,
+            "bbox": [
+                220,
+                625,
+                286,
+                641
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "arabic_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "\u00dcL",
-                "S",
-                "\u00dcL",
-                "S"
+                "14:43"
             ],
             "value_id": [
-                12,
-                13,
-                14,
-                15
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "July,",
-                "01",
-                "2020"
-            ],
-            "value_id": [
-                2,
-                3,
                 4
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "PARIS"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "520.00"
-            ],
-            "value_id": [
-                6
             ]
         },
         {
@@ -222,23 +178,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "017924873986",
-                "017924873983"
+                "10001809",
+                "10002839"
             ],
             "value_id": [
-                10,
-                11
+                15,
+                16
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "15:56"
+                "04-07-2020"
             ],
             "value_id": [
-                5
+                3
             ]
         },
         {
@@ -246,12 +202,77 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "270.00",
-                "250.00"
+                "139",
+                "259"
             ],
             "value_id": [
-                7,
-                8
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0504471742740",
+                "TROUSERS",
+                "0506670680040",
+                "TROUSERS"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Massimo",
+                "Dutti"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "390"
+            ],
+            "value_id": [
+                5
             ]
         }
     ],

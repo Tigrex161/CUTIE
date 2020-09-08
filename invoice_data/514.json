@@ -1,186 +1,209 @@
 {
     "text_boxes": [
         {
-            "text": "LOUIS",
+            "text": "bloomingdale's",
             "id": 1,
             "bbox": [
-                322,
-                138,
-                359,
-                148
+                256,
+                224,
+                549,
+                279
             ]
         },
         {
-            "text": "VUITTON",
+            "text": "2020",
             "id": 2,
             "bbox": [
-                366,
-                138,
-                424,
-                149
+                287,
+                436,
+                317,
+                451
             ]
         },
         {
-            "text": "MALLETE",
+            "text": "-",
             "id": 3,
             "bbox": [
-                347,
-                151,
+                279,
+                437,
+                284,
+                452
+            ]
+        },
+        {
+            "text": "\u0627\u0644",
+            "id": 4,
+            "bbox": [
+                262,
+                437,
+                273,
+                452
+            ]
+        },
+        {
+            "text": "-05",
+            "id": 5,
+            "bbox": [
+                229,
+                436,
+                260,
+                452
+            ]
+        },
+        {
+            "text": "7:34:49",
+            "id": 6,
+            "bbox": [
                 376,
-                156
+                434,
+                431,
+                452
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                441,
+                434,
+                457,
+                450
+            ]
+        },
+        {
+            "text": "5,800.00",
+            "id": 8,
+            "bbox": [
+                474,
+                1098,
+                539,
+                1115
+            ]
+        },
+        {
+            "text": "5.800.00",
+            "id": 9,
+            "bbox": [
+                497,
+                606,
+                563,
+                623
+            ]
+        },
+        {
+            "text": "1",
+            "id": 10,
+            "bbox": [
+                558,
+                659,
+                563,
+                672
+            ]
+        },
+        {
+            "text": "RAP",
+            "id": 11,
+            "bbox": [
+                223,
+                608,
+                247,
+                624
             ]
         },
         {
             "text": "A",
-            "id": 4,
-            "bbox": [
-                379,
-                152,
-                382,
-                156
-            ]
-        },
-        {
-            "text": "MADCNON",
-            "id": 5,
-            "bbox": [
-                334,
-                178,
-                383,
-                183
-            ]
-        },
-        {
-            "text": "IN",
-            "id": 6,
-            "bbox": [
-                386,
-                178,
-                394,
-                183
-            ]
-        },
-        {
-            "text": "10/07/2020",
-            "id": 7,
-            "bbox": [
-                524,
-                350,
-                583,
-                359
-            ]
-        },
-        {
-            "text": "10:25",
-            "id": 8,
-            "bbox": [
-                601,
-                351,
-                632,
-                359
-            ]
-        },
-        {
-            "text": "1,980.00",
-            "id": 9,
-            "bbox": [
-                656,
-                583,
-                701,
-                591
-            ]
-        },
-        {
-            "text": "1,980.00",
-            "id": 10,
-            "bbox": [
-                657,
-                413,
-                703,
-                420
-            ]
-        },
-        {
-            "text": "N61056",
-            "id": 11,
-            "bbox": [
-                33,
-                409,
-                67,
-                415
-            ]
-        },
-        {
-            "text": "COLL.",
             "id": 12,
             "bbox": [
-                82,
-                407,
-                111,
-                417
+                259,
+                608,
+                265,
+                624
             ]
         },
         {
-            "text": "INL",
+            "text": "/",
             "id": 13,
             "bbox": [
-                113,
-                408,
-                134,
-                417
+                267,
+                608,
+                274,
+                624
             ]
         },
         {
-            "text": "MEA",
+            "text": "Chr",
             "id": 14,
             "bbox": [
-                139,
-                408,
-                164,
-                417
+                276,
+                608,
+                300,
+                624
             ]
         },
         {
-            "text": "FASHION",
+            "text": "+",
             "id": 15,
             "bbox": [
-                33,
-                420,
-                74,
-                426
+                302,
+                608,
+                308,
+                624
             ]
         },
         {
-            "text": "JEWELKY",
+            "text": "Stool",
             "id": 16,
             "bbox": [
-                81,
-                420,
-                121,
-                427
+                311,
+                608,
+                348,
+                624
+            ]
+        },
+        {
+            "text": "Lucc",
+            "id": 17,
+            "bbox": [
+                362,
+                608,
+                394,
+                624
+            ]
+        },
+        {
+            "text": "2129139d49",
+            "id": 18,
+            "bbox": [
+                241,
+                626,
+                317,
+                642
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "N61056",
-                "COLL.",
-                "INL",
-                "MEA",
-                "FASHION",
-                "JEWELKY"
+                "7:34:49",
+                "PM"
             ],
             "value_id": [
-                11,
-                12,
-                13,
-                14,
-                15,
-                16
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2129139d49"
+            ],
+            "value_id": [
+                18
             ]
         },
         {
@@ -188,53 +211,16 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "10/07/2020"
+                "2020",
+                "-",
+                "\u0627\u0644",
+                "-05"
             ],
             "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "LOUIS",
-                "VUITTON",
-                "MALLETE",
-                "A",
-                "MADCNON",
-                "IN"
-            ],
-            "value_id": [
-                1,
                 2,
                 3,
                 4,
-                5,
-                6
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1,980.00"
-            ],
-            "value_id": [
-                9
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10:25"
-            ],
-            "value_id": [
-                8
+                5
             ]
         },
         {
@@ -242,10 +228,66 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1,980.00"
+                "5.800.00"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "RAP",
+                "A",
+                "/",
+                "Chr",
+                "+",
+                "Stool",
+                "Lucc"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "bloomingdale's"
+            ],
+            "value_id": [
+                1
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
             ],
             "value_id": [
                 10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "5,800.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

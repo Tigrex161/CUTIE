@@ -1,126 +1,179 @@
 {
     "text_boxes": [
         {
-            "text": "02Jul'20",
+            "text": "LUSH",
             "id": 1,
             "bbox": [
-                329,
-                492,
-                391,
-                509
+                181,
+                267,
+                446,
+                346
             ]
         },
         {
-            "text": "39.00",
+            "text": "FRESH",
             "id": 2,
             "bbox": [
-                289,
-                551,
-                326,
-                564
+                465,
+                259,
+                584,
+                295
             ]
         },
         {
-            "text": "78.00",
+            "text": "HANDMADE",
             "id": 3,
             "bbox": [
+                466,
                 288,
-                589,
-                324,
-                603
+                585,
+                315
+            ]
+        },
+        {
+            "text": "COSMETICS",
+            "id": 4,
+            "bbox": [
+                466,
+                307,
+                583,
+                333
+            ]
+        },
+        {
+            "text": "27/06/2020",
+            "id": 5,
+            "bbox": [
+                307,
+                637,
+                405,
+                662
+            ]
+        },
+        {
+            "text": "1:33:18",
+            "id": 6,
+            "bbox": [
+                311,
+                662,
+                376,
+                683
+            ]
+        },
+        {
+            "text": "PM",
+            "id": 7,
+            "bbox": [
+                384,
+                661,
+                411,
+                679
+            ]
+        },
+        {
+            "text": "170.00",
+            "id": 8,
+            "bbox": [
+                570,
+                894,
+                616,
+                915
             ]
         },
         {
             "text": "1",
-            "id": 4,
+            "id": 9,
             "bbox": [
-                515,
-                561,
-                517,
-                573
+                611,
+                917,
+                615,
+                930
             ]
         },
         {
-            "text": "JASMINE",
-            "id": 5,
+            "text": "170.00",
+            "id": 10,
             "bbox": [
-                373,
-                554,
-                425,
-                570
+                567,
+                799,
+                614,
+                819
             ]
         },
         {
-            "text": "PASSION",
-            "id": 6,
+            "text": "KARMA",
+            "id": 11,
             "bbox": [
-                434,
-                557,
-                488,
-                572
+                266,
+                807,
+                319,
+                825
             ]
         },
         {
-            "text": "SPANISH",
-            "id": 7,
+            "text": "KREAM",
+            "id": 12,
             "bbox": [
-                386,
-                594,
-                439,
-                611
+                326,
+                806,
+                381,
+                823
             ]
         },
         {
-            "text": "LATTE",
-            "id": 8,
+            "text": "\u06a9\u0627\u0631\u0645\u0627",
+            "id": 13,
             "bbox": [
-                448,
-                597,
-                485,
-                612
+                292,
+                825,
+                319,
+                844
+            ]
+        },
+        {
+            "text": "\u06af\u0631\u06cc\u0645",
+            "id": 14,
+            "bbox": [
+                266,
+                826,
+                288,
+                845
+            ]
+        },
+        {
+            "text": "2146",
+            "id": 15,
+            "bbox": [
+                164,
+                811,
+                197,
+                828
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "JASMINE",
-                "PASSION",
-                "SPANISH",
-                "LATTE"
+                "1:33:18",
+                "PM"
             ],
             "value_id": [
-                5,
                 6,
-                7,
-                8
+                7
             ]
         },
         {
-            "field_name": "item_price",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "39.00",
-                "78.00"
+                "2146"
             ],
             "value_id": [
-                2,
-                3
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
-            ],
-            "value_id": [
-                4
+                15
             ]
         },
         {
@@ -128,10 +181,86 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02Jul'20"
+                "27/06/2020"
             ],
             "value_id": [
-                1
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "170.00"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u06a9\u0627\u0631\u0645\u0627",
+                "\u06af\u0631\u06cc\u0645"
+            ],
+            "value_id": [
+                13,
+                14
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "KARMA",
+                "KREAM"
+            ],
+            "value_id": [
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "LUSH",
+                "FRESH",
+                "HANDMADE",
+                "COSMETICS"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "170.00"
+            ],
+            "value_id": [
+                8
             ]
         }
     ],

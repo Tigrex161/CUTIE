@@ -1,97 +1,166 @@
 {
     "text_boxes": [
         {
-            "text": "(baby)",
+            "text": "PROX",
             "id": 1,
             "bbox": [
-                110,
-                455,
-                191,
-                493
+                92,
+                103,
+                164,
+                139
             ]
         },
         {
-            "text": "71",
+            "text": "DUBAI",
             "id": 2,
             "bbox": [
-                132,
-                538,
-                140,
-                546
+                174,
+                106,
+                253,
+                141
             ]
         },
         {
-            "text": "28/",
+            "text": "MALL",
             "id": 3,
             "bbox": [
-                144,
-                539,
-                158,
+                262,
+                108,
+                334,
+                144
+            ]
+        },
+        {
+            "text": "LG",
+            "id": 4,
+            "bbox": [
+                344,
+                111,
+                376,
+                145
+            ]
+        },
+        {
+            "text": "18-7-2020",
+            "id": 5,
+            "bbox": [
+                168,
+                372,
+                267,
+                400
+            ]
+        },
+        {
+            "text": "16:41",
+            "id": 6,
+            "bbox": [
+                546,
+                348,
+                597,
+                379
+            ]
+        },
+        {
+            "text": "104",
+            "id": 7,
+            "bbox": [
+                415,
+                681,
+                454,
+                708
+            ]
+        },
+        {
+            "text": "99",
+            "id": 8,
+            "bbox": [
+                466,
+                681,
+                490,
+                709
+            ]
+        },
+        {
+            "text": "104.99",
+            "id": 9,
+            "bbox": [
+                551,
+                518,
+                638,
                 546
             ]
         },
         {
-            "text": "2020",
-            "id": 4,
+            "text": "BAVIN",
+            "id": 10,
             "bbox": [
-                162,
-                537,
-                184,
-                545
+                99,
+                579,
+                148,
+                606
             ]
         },
         {
-            "text": "504.00",
-            "id": 5,
+            "text": "CHARGING",
+            "id": 11,
             "bbox": [
-                680,
-                899,
-                717,
-                908
+                155,
+                579,
+                244,
+                607
             ]
         },
         {
-            "text": "DAMONO",
-            "id": 6,
+            "text": "CABLE",
+            "id": 12,
             "bbox": [
-                245,
-                624,
-                282,
-                631
+                250,
+                580,
+                305,
+                608
             ]
         },
         {
-            "text": "HEANTEARNGS",
-            "id": 7,
+            "text": "MIX",
+            "id": 13,
             "bbox": [
-                284,
-                624,
-                352,
-                632
+                311,
+                581,
+                339,
+                607
+            ]
+        },
+        {
+            "text": "3",
+            "id": 14,
+            "bbox": [
+                297,
+                682,
+                309,
+                702
+            ]
+        },
+        {
+            "text": "\u06a9\u0627\u0628\u0644",
+            "id": 15,
+            "bbox": [
+                130,
+                544,
+                149,
+                570
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "store_name",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "(baby)"
+                "16:41"
             ],
             "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "504.00"
-            ],
-            "value_id": [
-                5
+                6
             ]
         },
         {
@@ -99,14 +168,32 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "71",
-                "28/",
-                "2020"
+                "18-7-2020"
             ],
             "value_id": [
-                2,
-                3,
-                4
+                5
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "104.99"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u06a9\u0627\u0628\u0644"
+            ],
+            "value_id": [
+                15
             ]
         },
         {
@@ -114,12 +201,57 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "DAMONO",
-                "HEANTEARNGS"
+                "BAVIN",
+                "CHARGING",
+                "CABLE",
+                "MIX"
             ],
             "value_id": [
-                6,
-                7
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PROX",
+                "DUBAI",
+                "MALL",
+                "LG"
+            ],
+            "value_id": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "3"
+            ],
+            "value_id": [
+                14
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "104",
+                "99"
+            ],
+            "value_id": [
+                7,
+                8
             ]
         }
     ],

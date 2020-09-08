@@ -1,108 +1,146 @@
 {
     "text_boxes": [
         {
-            "text": "bloomingdales",
+            "text": "GALERIES",
             "id": 1,
             "bbox": [
-                248,
-                176,
-                521,
-                220
+                343,
+                214,
+                397,
+                228
             ]
         },
         {
-            "text": "02-Jul-2020",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                216,
-                363,
-                297,
-                379
+                406,
+                215,
+                467,
+                229
             ]
         },
         {
-            "text": "4:45:46",
+            "text": "10/07/20",
             "id": 3,
             "bbox": [
-                350,
-                368,
-                401,
-                381
+                306,
+                366,
+                362,
+                387
             ]
         },
         {
-            "text": "PM",
+            "text": "13:10",
             "id": 4,
             "bbox": [
-                410,
-                366,
-                423,
-                381
+                372,
+                365,
+                406,
+                385
             ]
         },
         {
-            "text": "2,500.00",
+            "text": "259.00",
             "id": 5,
             "bbox": [
-                454,
-                752,
-                510,
-                764
+                531,
+                609,
+                577,
+                626
             ]
         },
         {
-            "text": "213585871",
+            "text": "370.00",
             "id": 6,
             "bbox": [
-                241,
-                766,
-                302,
-                778
+                525,
+                488,
+                569,
+                502
             ]
         },
         {
-            "text": "2,500.00",
+            "text": "1",
             "id": 7,
             "bbox": [
-                457,
-                869,
-                514,
-                882
+                567,
+                540,
+                569,
+                551
+            ]
+        },
+        {
+            "text": "900976389",
+            "id": 8,
+            "bbox": [
+                288,
+                497,
+                356,
+                511
+            ]
+        },
+        {
+            "text": "1",
+            "id": 9,
+            "bbox": [
+                258,
+                497,
+                261,
+                511
+            ]
+        },
+        {
+            "text": "Kid's",
+            "id": 10,
+            "bbox": [
+                251,
+                464,
+                287,
+                478
+            ]
+        },
+        {
+            "text": "Wear",
+            "id": 11,
+            "bbox": [
+                297,
+                464,
+                325,
+                478
+            ]
+        },
+        {
+            "text": "TS",
+            "id": 12,
+            "bbox": [
+                250,
+                481,
+                263,
+                493
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 13,
+            "bbox": [
+                272,
+                481,
+                294,
+                493
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "date",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02-Jul-2020"
+                "13:10"
             ],
             "value_id": [
-                2
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "bloomingdales"
-            ],
-            "value_id": [
-                1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,500.00"
-            ],
-            "value_id": [
-                7
+                4
             ]
         },
         {
@@ -110,23 +148,21 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "213585871"
+                "900976389"
             ],
             "value_id": [
-                6
+                8
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "4:45:46",
-                "PM"
+                "10/07/20"
             ],
             "value_id": [
-                3,
-                4
+                3
             ]
         },
         {
@@ -134,7 +170,70 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,500.00"
+                "370.00"
+            ],
+            "value_id": [
+                6
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Kid's",
+                "Wear",
+                "TS",
+                "SKU"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "GALERIES",
+                "LAFAYETTE"
+            ],
+            "value_id": [
+                1,
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                7
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                9
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "259.00"
             ],
             "value_id": [
                 5

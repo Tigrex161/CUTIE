@@ -1,191 +1,228 @@
 {
     "text_boxes": [
         {
-            "text": "GALERIES",
+            "text": "The",
             "id": 1,
             "bbox": [
-                298,
-                155,
-                356,
-                168
+                133,
+                265,
+                171,
+                291
             ]
         },
         {
-            "text": "LAFAYETTE",
+            "text": "Watch",
             "id": 2,
             "bbox": [
-                365,
-                156,
-                426,
-                169
+                179,
+                263,
+                247,
+                289
             ]
         },
         {
-            "text": "20:51",
+            "text": "House",
             "id": 3,
             "bbox": [
-                326,
-                321,
-                359,
-                334
+                257,
+                261,
+                327,
+                288
             ]
         },
         {
-            "text": "490.00",
+            "text": "09/07/2020",
             "id": 4,
             "bbox": [
-                472,
-                510,
-                518,
-                525
+                471,
+                455,
+                521,
+                469
             ]
         },
         {
-            "text": "00",
+            "text": "PM",
             "id": 5,
             "bbox": [
-                502,
-                434,
-                518,
-                452
+                560,
+                457,
+                568,
+                469
             ]
         },
         {
-            "text": "Men's",
+            "text": "3:15:18",
             "id": 6,
             "bbox": [
-                206,
-                422,
-                242,
-                434
+                526,
+                456,
+                555,
+                470
             ]
         },
         {
-            "text": "Wear",
+            "text": "952.26",
             "id": 7,
             "bbox": [
-                251,
-                425,
-                279,
-                437
+                573,
+                731,
+                604,
+                747
             ]
         },
         {
-            "text": "MENS",
+            "text": "1",
             "id": 8,
             "bbox": [
-                205,
-                440,
-                234,
-                452
+                573,
+                669,
+                576,
+                684
             ]
         },
         {
-            "text": "WEAR",
+            "text": "952.26",
             "id": 9,
             "bbox": [
-                243,
-                442,
-                271,
-                453
+                565,
+                617,
+                594,
+                627
             ]
         },
         {
-            "text": "HUGO",
+            "text": "1",
             "id": 10,
             "bbox": [
-                280,
-                442,
-                312,
-                456
+                478,
+                616,
+                481,
+                625
             ]
         },
         {
-            "text": "BOSS",
+            "text": "SRPE79K1",
             "id": 11,
             "bbox": [
-                317,
-                444,
-                346,
-                457
+                107,
+                633,
+                146,
+                645
             ]
         },
         {
-            "text": "900671677",
+            "text": "SEIKO",
             "id": 12,
             "bbox": [
-                242,
-                460,
-                308,
-                474
+                152,
+                633,
+                175,
+                644
             ]
         },
         {
-            "text": "atM",
+            "text": "MA",
             "id": 13,
             "bbox": [
-                502,
-                470,
-                525,
-                488
+                179,
+                633,
+                192,
+                643
+            ]
+        },
+        {
+            "text": "2011",
+            "id": 14,
+            "bbox": [
+                195,
+                633,
+                214,
+                643
+            ]
+        },
+        {
+            "text": "EL",
+            "id": 15,
+            "bbox": [
+                218,
+                633,
+                227,
+                643
+            ]
+        },
+        {
+            "text": "QAUT",
+            "id": 16,
+            "bbox": [
+                229,
+                632,
+                253,
+                642
+            ]
+        },
+        {
+            "text": "RUB",
+            "id": 17,
+            "bbox": [
+                257,
+                632,
+                274,
+                642
+            ]
+        },
+        {
+            "text": "ST",
+            "id": 18,
+            "bbox": [
+                277,
+                632,
+                287,
+                642
+            ]
+        },
+        {
+            "text": "3",
+            "id": 19,
+            "bbox": [
+                290,
+                631,
+                294,
+                641
+            ]
+        },
+        {
+            "text": "-",
+            "id": 20,
+            "bbox": [
+                116,
+                620,
+                118,
+                629
+            ]
+        },
+        {
+            "text": "495E55565",
+            "id": 21,
+            "bbox": [
+                123,
+                619,
+                185,
+                630
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Men's",
-                "Wear",
-                "MENS",
-                "WEAR",
-                "HUGO",
-                "BOSS"
+                "PM",
+                "3:15:18"
             ],
             "value_id": [
-                6,
-                7,
-                8,
-                9,
-                10,
-                11
-            ]
-        },
-        {
-            "field_name": "total_items",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "atM"
-            ],
-            "value_id": [
-                13
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "GALERIES",
-                "LAFAYETTE"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "490.00"
-            ],
-            "value_id": [
-                4
+                5,
+                6
             ]
         },
         {
@@ -193,21 +230,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "900671677"
+                "-",
+                "495E55565"
             ],
             "value_id": [
-                12
+                20,
+                21
             ]
         },
         {
-            "field_name": "time",
+            "field_name": "date",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "20:51"
+                "09/07/2020"
             ],
             "value_id": [
-                3
+                4
             ]
         },
         {
@@ -215,10 +254,85 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "00"
+                "952.26"
             ],
             "value_id": [
-                5
+                9
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SRPE79K1",
+                "SEIKO",
+                "MA",
+                "2011",
+                "EL",
+                "QAUT",
+                "RUB",
+                "ST",
+                "3"
+            ],
+            "value_id": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "The",
+                "Watch",
+                "House"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                8
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                10
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "952.26"
+            ],
+            "value_id": [
+                7
             ]
         }
     ],

@@ -1,173 +1,266 @@
 {
     "text_boxes": [
         {
-            "text": "COS",
+            "text": "FENDI",
             "id": 1,
             "bbox": [
-                251,
-                100,
-                303,
-                115
+                333,
+                298,
+                418,
+                328
             ]
         },
         {
-            "text": "-",
+            "text": "KIDS",
             "id": 2,
             "bbox": [
-                304,
-                99,
-                313,
-                115
+                394,
+                329,
+                419,
+                346
             ]
         },
         {
-            "text": "Dubai",
+            "text": "7",
             "id": 3,
             "bbox": [
-                310,
-                100,
-                359,
-                115
+                137,
+                312,
+                139,
+                323
             ]
         },
         {
-            "text": "Festival",
+            "text": "/",
             "id": 4,
             "bbox": [
-                365,
-                102,
-                430,
-                119
+                142,
+                312,
+                143,
+                323
             ]
         },
         {
-            "text": "City",
+            "text": "12",
             "id": 5,
             "bbox": [
-                436,
-                106,
-                468,
-                122
+                147,
+                312,
+                155,
+                323
             ]
         },
         {
-            "text": "09/07/2020",
+            "text": "/",
             "id": 6,
             "bbox": [
-                437,
-                337,
-                519,
-                355
+                156,
+                312,
+                157,
+                323
             ]
         },
         {
-            "text": "20:09",
+            "text": "2020",
             "id": 7,
             "bbox": [
-                526,
-                336,
-                566,
-                353
+                160,
+                312,
+                179,
+                324
             ]
         },
         {
-            "text": "159.00",
+            "text": "12:24:45",
             "id": 8,
             "bbox": [
-                516,
-                662,
-                562,
-                679
+                186,
+                312,
+                219,
+                325
             ]
         },
         {
-            "text": "159.00",
+            "text": "PM",
             "id": 9,
             "bbox": [
-                517,
-                561,
-                564,
-                576
+                222,
+                314,
+                235,
+                325
             ]
         },
         {
-            "text": "1.0",
+            "text": "1290,00",
             "id": 10,
             "bbox": [
-                425,
-                564,
-                444,
-                578
+                669,
+                601,
+                701,
+                611
             ]
         },
         {
-            "text": "1.0",
+            "text": "1228,57",
             "id": 11,
             "bbox": [
-                426,
-                665,
-                445,
-                679
+                666,
+                537,
+                697,
+                548
             ]
         },
         {
-            "text": "CL",
+            "text": "0",
             "id": 12,
             "bbox": [
-                160,
-                494,
-                178,
-                509
+                513,
+                542,
+                514,
+                550
             ]
         },
         {
-            "text": "E",
+            "text": "1",
             "id": 13,
             "bbox": [
-                185,
-                494,
-                193,
-                509
+                514,
+                588,
+                517,
+                599
             ]
         },
         {
-            "text": "HILLINGO",
+            "text": "B.SNEAKER",
             "id": 14,
             "bbox": [
-                200,
-                493,
-                274,
-                509
+                202,
+                541,
+                252,
+                552
             ]
         },
         {
-            "text": "DRESS",
+            "text": "/",
             "id": 15,
             "bbox": [
-                282,
-                493,
-                333,
-                508
+                257,
+                541,
+                258,
+                552
             ]
         },
         {
-            "text": "HP0789640001190002",
+            "text": "CALF",
             "id": 16,
             "bbox": [
-                162,
-                564,
-                325,
-                580
+                261,
+                541,
+                282,
+                552
+            ]
+        },
+        {
+            "text": "LEATHERUNS.CAL",
+            "id": 17,
+            "bbox": [
+                286,
+                541,
+                368,
+                552
+            ]
+        },
+        {
+            "text": "BLACK",
+            "id": 18,
+            "bbox": [
+                377,
+                541,
+                404,
+                552
+            ]
+        },
+        {
+            "text": "BLACK",
+            "id": 19,
+            "bbox": [
+                412,
+                541,
+                435,
+                552
+            ]
+        },
+        {
+            "text": "TOBA",
+            "id": 20,
+            "bbox": [
+                442,
+                541,
+                462,
+                552
+            ]
+        },
+        {
+            "text": "751067",
+            "id": 21,
+            "bbox": [
+                33,
+                540,
+                62,
+                550
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1.0"
+                "12:24:45",
+                "PM"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "751067"
+            ],
+            "value_id": [
+                21
+            ]
+        },
+        {
+            "field_name": "date",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "7",
+                "/",
+                "12",
+                "/",
+                "2020"
+            ],
+            "value_id": [
+                3,
+                4,
+                5,
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1228,57"
             ],
             "value_id": [
                 11
@@ -178,38 +271,22 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "CL",
-                "E",
-                "HILLINGO",
-                "DRESS"
+                "B.SNEAKER",
+                "/",
+                "CALF",
+                "LEATHERUNS.CAL",
+                "BLACK",
+                "BLACK",
+                "TOBA"
             ],
             "value_id": [
-                12,
-                13,
                 14,
-                15
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1.0"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "date",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "09/07/2020"
-            ],
-            "value_id": [
-                6
+                15,
+                16,
+                17,
+                18,
+                19,
+                20
             ]
         },
         {
@@ -217,18 +294,34 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "COS",
-                "-",
-                "Dubai",
-                "Festival",
-                "City"
+                "FENDI",
+                "KIDS"
             ],
             "value_id": [
                 1,
-                2,
-                3,
-                4,
-                5
+                2
+            ]
+        },
+        {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1"
+            ],
+            "value_id": [
+                13
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0"
+            ],
+            "value_id": [
+                12
             ]
         },
         {
@@ -236,43 +329,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "159.00"
+                "1290,00"
             ],
             "value_id": [
-                8
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "HP0789640001190002"
-            ],
-            "value_id": [
-                16
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "20:09"
-            ],
-            "value_id": [
-                7
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "159.00"
-            ],
-            "value_id": [
-                9
+                10
             ]
         }
     ],

@@ -5,130 +5,215 @@
             "id": 1,
             "bbox": [
                 285,
-                233,
-                358,
-                250
+                216,
+                350,
+                238
             ]
         },
         {
-            "text": "LAVAYETTE",
+            "text": "LAFAYETTE",
             "id": 2,
             "bbox": [
-                367,
-                238,
-                444,
-                253
+                356,
+                215,
+                420,
+                236
             ]
         },
         {
-            "text": "02/07/20",
+            "text": "10/07/20",
             "id": 3,
             "bbox": [
-                241,
-                446,
-                308,
-                459
+                256,
+                406,
+                312,
+                425
             ]
         },
         {
-            "text": "13:49",
+            "text": "15:45",
             "id": 4,
             "bbox": [
-                320,
-                449,
-                358,
-                460
+                323,
+                405,
+                357,
+                423
             ]
         },
         {
-            "text": "245.00",
+            "text": "375.00",
             "id": 5,
             "bbox": [
-                482,
-                658,
-                530,
-                667
+                481,
+                731,
+                526,
+                746
             ]
         },
         {
-            "text": "245.00",
+            "text": "250.00",
             "id": 6,
             "bbox": [
-                483,
-                585,
-                534,
-                596
+                475,
+                535,
+                519,
+                549
             ]
         },
         {
-            "text": "atite",
+            "text": "250.00",
             "id": 7,
             "bbox": [
-                176,
-                562,
-                232,
-                570
+                476,
+                592,
+                522,
+                609
             ]
         },
         {
-            "text": "Aecessory",
+            "text": "1",
             "id": 8,
             "bbox": [
-                244,
-                562,
-                319,
-                574
+                213,
+                561,
+                215,
+                576
             ]
         },
         {
-            "text": "MG",
+            "text": "1",
             "id": 9,
             "bbox": [
-                173,
-                578,
-                202,
-                591
+                213,
+                619,
+                215,
+                632
             ]
         },
         {
-            "text": "MICKRAL",
+            "text": "Women's",
             "id": 10,
             "bbox": [
-                207,
-                580,
-                268,
-                593
+                205,
+                524,
+                255,
+                539
             ]
         },
         {
-            "text": "KASS",
+            "text": "Underwear",
             "id": 11,
             "bbox": [
+                265,
+                523,
+                330,
+                537
+            ]
+        },
+        {
+            "text": "SHORT",
+            "id": 12,
+            "bbox": [
+                205,
+                542,
+                240,
+                557
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 13,
+            "bbox": [
+                250,
+                542,
+                270,
+                557
+            ]
+        },
+        {
+            "text": "SET",
+            "id": 14,
+            "bbox": [
+                205,
+                600,
+                226,
+                613
+            ]
+        },
+        {
+            "text": "PLUNGE",
+            "id": 15,
+            "bbox": [
+                235,
+                598,
                 278,
-                582,
+                613
+            ]
+        },
+        {
+            "text": "SKU",
+            "id": 16,
+            "bbox": [
+                288,
+                599,
                 309,
-                592
+                612
+            ]
+        },
+        {
+            "text": "900976609",
+            "id": 17,
+            "bbox": [
+                242,
+                559,
+                308,
+                576
+            ]
+        },
+        {
+            "text": "900976607",
+            "id": 18,
+            "bbox": [
+                242,
+                617,
+                308,
+                632
+            ]
+        },
+        {
+            "text": "2",
+            "id": 19,
+            "bbox": [
+                516,
+                652,
+                521,
+                667
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "atite",
-                "Aecessory",
-                "MG",
-                "MICKRAL",
-                "KASS"
+                "15:45"
             ],
             "value_id": [
-                7,
-                8,
-                9,
-                10,
-                11
+                4
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "900976609",
+                "900976607"
+            ],
+            "value_id": [
+                17,
+                18
             ]
         },
         {
@@ -136,10 +221,46 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "02/07/20"
+                "10/07/20"
             ],
             "value_id": [
                 3
+            ]
+        },
+        {
+            "field_name": "item_price",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "250.00",
+                "250.00"
+            ],
+            "value_id": [
+                6,
+                7
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "Women's",
+                "Underwear",
+                "SHORT",
+                "SKU",
+                "SET",
+                "PLUNGE",
+                "SKU"
+            ],
+            "value_id": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
             ]
         },
         {
@@ -148,7 +269,7 @@
             "key_value": [],
             "value_text": [
                 "GALERIES",
-                "LAVAYETTE"
+                "LAFAYETTE"
             ],
             "value_id": [
                 1,
@@ -156,36 +277,38 @@
             ]
         },
         {
+            "field_name": "total_items",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "2"
+            ],
+            "value_id": [
+                19
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
+                8,
+                9
+            ]
+        },
+        {
             "field_name": "total",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "245.00"
+                "375.00"
             ],
             "value_id": [
                 5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "13:49"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "245.00"
-            ],
-            "value_id": [
-                6
             ]
         }
     ],

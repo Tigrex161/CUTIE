@@ -1,164 +1,177 @@
 {
     "text_boxes": [
         {
-            "text": "N",
+            "text": "SCOTCH",
             "id": 1,
             "bbox": [
-                377,
-                198,
-                389,
-                207
+                253,
+                291,
+                320,
+                317
             ]
         },
         {
-            "text": "ON",
+            "text": "&",
             "id": 2,
             "bbox": [
-                406,
-                194,
-                422,
-                205
+                328,
+                291,
+                334,
+                314
             ]
         },
         {
-            "text": "0/07/2030",
+            "text": "SODA",
             "id": 3,
             "bbox": [
-                498,
-                354,
-                544,
-                361
+                340,
+                290,
+                380,
+                314
             ]
         },
         {
-            "text": "14125",
+            "text": "16/07/20",
             "id": 4,
             "bbox": [
-                561,
-                354,
-                583,
-                360
+                175,
+                402,
+                267,
+                434
             ]
         },
         {
-            "text": "2,900.00",
+            "text": "1:10",
             "id": 5,
             "bbox": [
-                608,
-                528,
-                645,
-                535
+                292,
+                402,
+                336,
+                432
             ]
         },
         {
-            "text": "2,",
+            "text": "957",
             "id": 6,
             "bbox": [
-                599,
-                400,
-                611,
-                410
+                566,
+                986,
+                604,
+                1013
             ]
         },
         {
-            "text": "0.",
+            "text": "1",
             "id": 7,
             "bbox": [
-                611,
-                402,
-                627,
-                407
+                330,
+                579,
+                338,
+                598
             ]
         },
         {
-            "text": "00",
+            "text": "1",
             "id": 8,
             "bbox": [
-                629,
-                403,
-                637,
-                407
+                331,
+                624,
+                339,
+                644
             ]
         },
         {
-            "text": "M4201",
+            "text": "PANTS",
             "id": 9,
             "bbox": [
-                105,
-                406,
-                133,
-                413
+                178,
+                577,
+                240,
+                601
             ]
         },
         {
-            "text": "COLL.",
+            "text": "PANTS",
             "id": 10,
             "bbox": [
-                144,
-                407,
-                165,
-                412
+                177,
+                625,
+                239,
+                647
             ]
         },
         {
-            "text": "LOUTGR",
+            "text": "660",
             "id": 11,
             "bbox": [
-                168,
-                405,
-                196,
-                412
+                537,
+                576,
+                574,
+                598
             ]
         },
         {
-            "text": "OR",
+            "text": "297",
             "id": 12,
             "bbox": [
-                202,
-                407,
-                210,
-                411
+                541,
+                621,
+                576,
+                642
             ]
         },
         {
-            "text": "FAGILION",
+            "text": "A058302",
             "id": 13,
             "bbox": [
-                107,
-                416,
-                139,
-                421
+                76,
+                578,
+                164,
+                602
             ]
         },
         {
-            "text": "JDntay",
+            "text": "A057888",
             "id": 14,
             "bbox": [
-                145,
-                416,
-                177,
-                421
+                73,
+                626,
+                162,
+                649
+            ]
+        },
+        {
+            "text": "\u0628\u0646\u0637\u0627\u0644",
+            "id": 15,
+            "bbox": [
+                150,
+                653,
+                193,
+                673
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "item_description",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "M4201",
-                "COLL.",
-                "LOUTGR",
-                "OR",
-                "FAGILION",
-                "JDntay"
+                "1:10"
             ],
             "value_id": [
-                9,
-                10,
-                11,
-                12,
+                5
+            ]
+        },
+        {
+            "field_name": "item_sku",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "A058302",
+                "A057888"
+            ],
+            "value_id": [
                 13,
                 14
             ]
@@ -168,42 +181,7 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0/07/2030"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "store_name",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "N",
-                "ON"
-            ],
-            "value_id": [
-                1,
-                2
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "2,900.00"
-            ],
-            "value_id": [
-                5
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "14125"
+                "16/07/20"
             ],
             "value_id": [
                 4
@@ -214,14 +192,75 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "2,",
-                "0.",
-                "00"
+                "660",
+                "297"
             ],
             "value_id": [
-                6,
+                11,
+                12
+            ]
+        },
+        {
+            "field_name": "arabic_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "\u0628\u0646\u0637\u0627\u0644"
+            ],
+            "value_id": [
+                15
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "PANTS",
+                "PANTS"
+            ],
+            "value_id": [
+                9,
+                10
+            ]
+        },
+        {
+            "field_name": "store_name",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "SCOTCH",
+                "&",
+                "SODA"
+            ],
+            "value_id": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "field_name": "item_quantity",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "1",
+                "1"
+            ],
+            "value_id": [
                 7,
                 8
+            ]
+        },
+        {
+            "field_name": "total",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "957"
+            ],
+            "value_id": [
+                6
             ]
         }
     ],

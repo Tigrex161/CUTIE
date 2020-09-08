@@ -1,137 +1,84 @@
 {
     "text_boxes": [
         {
-            "text": "Sstradivarius",
+            "text": "ZARAR",
             "id": 1,
             "bbox": [
-                235,
-                65,
-                430,
-                115
+                392,
+                90,
+                531,
+                162
             ]
         },
         {
-            "text": "19-07-2020",
+            "text": "08-07-2020",
             "id": 2,
             "bbox": [
-                185,
-                260,
-                255,
-                273
+                320,
+                304,
+                375,
+                317
             ]
         },
         {
-            "text": "12:08",
+            "text": "19:26",
             "id": 3,
             "bbox": [
-                266,
-                259,
-                299,
-                270
+                384,
+                305,
+                410,
+                317
             ]
         },
         {
-            "text": "129",
+            "text": "0267402040402",
             "id": 4,
             "bbox": [
-                434,
-                467,
-                453,
-                477
+                376,
+                375,
+                450,
+                394
             ]
         },
         {
-            "text": "129",
+            "text": "DRESS",
             "id": 5,
             "bbox": [
-                431,
-                331,
-                450,
-                340
+                463,
+                377,
+                489,
+                395
             ]
         },
         {
-            "text": "1",
+            "text": "10001943",
             "id": 6,
             "bbox": [
-                276,
-                337,
-                279,
-                346
-            ]
-        },
-        {
-            "text": "1.",
-            "id": 7,
-            "bbox": [
-                308,
-                394,
-                312,
-                403
-            ]
-        },
-        {
-            "text": "0133424200402",
-            "id": 8,
-            "bbox": [
-                261,
-                353,
-                354,
-                366
-            ]
-        },
-        {
-            "text": "SKIRT",
-            "id": 9,
-            "bbox": [
-                372,
-                351,
-                406,
-                362
-            ]
-        },
-        {
-            "text": "10001239",
-            "id": 10,
-            "bbox": [
-                189,
-                356,
-                244,
-                369
+                320,
+                374,
+                363,
+                392
             ]
         }
     ],
     "fields": [
         {
-            "field_name": "total_items",
+            "field_name": "time",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "1."
+                "19:26"
             ],
             "value_id": [
-                7
+                3
             ]
         },
         {
-            "field_name": "item_description",
+            "field_name": "item_sku",
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "0133424200402",
-                "SKIRT"
-            ],
-            "value_id": [
-                8,
-                9
-            ]
-        },
-        {
-            "field_name": "item_quantity",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "1"
+                "10001943"
             ],
             "value_id": [
                 6
@@ -142,10 +89,23 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "19-07-2020"
+                "08-07-2020"
             ],
             "value_id": [
                 2
+            ]
+        },
+        {
+            "field_name": "item_description",
+            "key_id": [],
+            "key_value": [],
+            "value_text": [
+                "0267402040402",
+                "DRESS"
+            ],
+            "value_id": [
+                4,
+                5
             ]
         },
         {
@@ -153,54 +113,10 @@
             "key_id": [],
             "key_value": [],
             "value_text": [
-                "Sstradivarius"
+                "ZARAR"
             ],
             "value_id": [
                 1
-            ]
-        },
-        {
-            "field_name": "total",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "129"
-            ],
-            "value_id": [
-                4
-            ]
-        },
-        {
-            "field_name": "item_sku",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "10001239"
-            ],
-            "value_id": [
-                10
-            ]
-        },
-        {
-            "field_name": "time",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "12:08"
-            ],
-            "value_id": [
-                3
-            ]
-        },
-        {
-            "field_name": "item_price",
-            "key_id": [],
-            "key_value": [],
-            "value_text": [
-                "129"
-            ],
-            "value_id": [
-                5
             ]
         }
     ],
