@@ -206,9 +206,6 @@ def vis_bbox(data_loader, file_prefix, grid_table, gt_classes, model_output_val,
     labels = gt_classes.reshape([-1])
     logits = model_output_val.reshape([-1, data_loader.num_classes])
     bboxes = bboxes.reshape([-1])
-    
-    print('gt_classes')
-    print(gt_classes)
 
     max_len = 768*2 # upper boundary of image display size 
     img = cv2.imread(join(file_prefix, file_name))
@@ -255,10 +252,8 @@ def vis_bbox(data_loader, file_prefix, grid_table, gt_classes, model_output_val,
                 
                 print('class id')
                 print(inf_id)
-                try:
-                    print(gt_classes[inf_id])
-                except:
-                    print('gt_classes index is sth else')
+                print('class')
+                print(data_loader.classes[inf_id])
                 print('Bounding box in vis_bbox')
                 print((x+bbox_pad, y+bbox_pad, x+bbox_pad+w,y+bbox_pad+h))
             #text = data_loader.classes[gt_id] + '|' + data_loader.classes[inf_id]
