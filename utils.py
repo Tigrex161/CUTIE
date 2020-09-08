@@ -11,7 +11,7 @@ try:
 except ImportError:
     pass
 
-c_threshold = 0.5
+c_threshold = 0.75
 
 def is_number(s):
     try:
