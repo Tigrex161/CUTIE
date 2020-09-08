@@ -278,9 +278,10 @@ def vis_bbox(data_loader, file_prefix, grid_table, gt_classes, model_output_val,
                           (x+bbox_pad+w,y+bbox_pad+h), inf_color[i], max_len//384)        
         
         alpha = 0.4
-        # cv2.addWeighted(overlay_box, alpha, img, 1-alpha, 0, img)
+        cv2.addWeighted(overlay_box, alpha, img, 1-alpha, 0, img2)
         cv2.addWeighted(overlay_line, 1-alpha, img, 1, 0, img)
-        cv2.imwrite('results/' + file_name[:-4]+'.png', img)        
+        cv2.imwrite('results/' + file_name[:-4]+'.png', img)      
+        cv2.imwrite('results/' + file_name[:-4]+'_gt.png', img2)  
 #         cv2.imshow("test", img)
 #         cv2.waitKey(0)
         
