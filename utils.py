@@ -11,7 +11,7 @@ try:
 except ImportError:
     pass
 
-c_threshold = 0.75
+c_threshold = 0.5
 
 def is_number(s):
     try:
@@ -243,7 +243,10 @@ def vis_bbox(data_loader, file_prefix, grid_table, gt_classes, model_output_val,
             if data_input_flat[i] and labels[i]:
                 gt_id = labels[i]                
                 cv2.rectangle(overlay_box, (x,y), (x+w,y+h), gt_color[gt_id], -1)
-                    
+
+
+            print('Confidence')
+            print(max(logits[i]))       
             if max(logits[i]) > c_threshold:
                 inf_id = np.argmax(logits[i])
                 if inf_id:                
