@@ -226,7 +226,8 @@ def vis_bbox(data_loader, file_prefix, grid_table, gt_classes, model_output_val,
         factor = max_len / max(shape)
         shape[0], shape[1] = [int(s*factor) for s in shape[:2]]
         
-        img = cv2.resize(img, (shape[1], shape[0]))        
+        img = cv2.resize(img, (shape[1], shape[0]))     
+        img2 = np.zeros(shape, dtype=img.dtype)
         overlay_box = np.zeros(shape, dtype=img.dtype)
         overlay_line = np.zeros(shape, dtype=img.dtype)
         for i in range(len(data_input_flat)):
